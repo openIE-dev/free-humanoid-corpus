@@ -1,5 +1,8 @@
 # Free Humanoid Corpus
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20049531.svg)](https://doi.org/10.5281/zenodo.20049531)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
+
 A structured prior art commons covering robots, humanoids, and humanoid-adjacent
 entities from private companies, open source repositories, science fiction
 (film, TV, comics, games, literature), and academia.

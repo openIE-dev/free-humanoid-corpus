@@ -6,6 +6,8 @@
 | Tarball | `corpus-2026.Q2.tar.gz` |
 | SHA-256 | `aa9430c6e785a409e3dbb10042b16e0e5677752c85eeffcba2c6b5605cde27ce` |
 | Entries |      106 |
+| Zenodo DOI | [10.5281/zenodo.20049531](https://doi.org/10.5281/zenodo.20049531) |
+| GitHub Release | <https://github.com/openIE-dev/free-humanoid-corpus/releases/tag/2026.Q2> |
 
 ## Timestamping artifacts
 
@@ -49,10 +51,9 @@ effective filing date.
 
 ## Discoverability
 
-After release, this tarball should be:
-
+- [x] Zenodo DOI minted: [10.5281/zenodo.20049531](https://doi.org/10.5281/zenodo.20049531)
+- [ ] Submitted to Internet Archive Wayback Machine
 - [ ] Submitted to Google Patents non-patent literature corpus
-- [ ] Registered with Crossref / OSF for DOI assignment
 - [ ] Posted to arXiv (cs.RO category) as a citeable preprint
 - [ ] Linked from openie.dev / project pages for crawler discovery
 - [ ] Optionally: high-value entries submitted individually to IP.com
