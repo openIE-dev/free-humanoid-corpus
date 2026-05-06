@@ -1,0 +1,64 @@
+# Cross-cut: `safety-simplex-supervisor`
+
+**6 corpus entries disclose this subsystem.**
+
+Earliest disclosure: 1940-09
+
+Listed in chronological order. Each entry's `prior_art_notes` and
+`disclosure_citation` constitute the citeable prior art material.
+
+---
+
+## Asimov positronic robots (1940-09)
+
+- **id**: `asimov-positronic-robots`
+- **corpus**: fictional
+- **creator**: Isaac Asimov
+- **disclosure**: Asimov, Isaac. 'Robbie' (originally 'Strange Playfellow'). Super Science Stories, September 1940.
+- **ip status**: fictional
+- **prior art notes**: Establishes hard-constraint safety architecture as a hardware-level concern, not a software policy. Directly anticipates modern AI safety frameworks including Simplex supervisor architectures and constraint-based safety middleware. Specifically anticipates: hardware-level safety constraints with deterministic priority ordering.
+
+## HAL 9000 (1968-04-02)
+
+- **id**: `hal-9000`
+- **corpus**: fictional
+- **creator**: Arthur C. Clarke / Stanley Kubrick
+- **disclosure**: Kubrick, Stanley (dir.). 2001: A Space Odyssey. MGM, 1968-04-02. Clarke, Arthur C. novelization, 1968.
+- **ip status**: fictional
+- **prior art notes**: HAL is included not as a humanoid but as the canonical depiction of safety failure due to conflicting goals — directly relevant to MathGround's framing of supervisor architectures and the need for explicit constraint hierarchies.
+
+## Asimov's Zeroth Law (1985)
+
+- **id**: `asimovs-zeroth-law`
+- **corpus**: fictional
+- **creator**: Isaac Asimov
+- **disclosure**: Asimov, Isaac. Robots and Empire. Doubleday, 1985.
+- **ip status**: fictional
+- **prior art notes**: Significant for safety architecture prior art because it explicitly demonstrates priority-reordering in a hard-constraint hierarchy under conflicting goals. Anticipates modern AI safety frameworks dealing with population-scale or systemic harm tradeoffs.
+
+## Simplex Architecture (1995)
+
+- **id**: `sherman-simplex-architecture`
+- **corpus**: academic
+- **creator**: Lui Sha, Carnegie Mellon University
+- **disclosure**: Sha, Lui. 'Dependable system upgrade.' Proceedings 19th IEEE Real-Time Systems Symposium, 1998. Earlier conceptual work circa 1995.
+- **ip status**: public-domain
+- **prior art notes**: Foundational prior art for safety supervisor architectures in robotics and physical AI. Any 'safety supervisor' or 'safety envelope' or 'fallback controller' patent claim post-1995 must contend with Sha's Simplex work as anticipating prior art. Directly relevant to MathGround's Simplex supervisor architecture.
+
+## Runtime Assurance (RTA) (2010)
+
+- **id**: `runtime-assurance-rta`
+- **corpus**: academic
+- **creator**: Air Force Research Laboratory and DARPA program
+- **disclosure**: Schierman, J.D. et al. 'Runtime Assurance Framework Development for Highly Adaptive Flight Control Systems.' Air Force Research Laboratory, 2015. Earlier DARPA AACUS work circa 2010.
+- **ip status**: public-domain
+- **prior art notes**: Direct descendant of Simplex; the 'unverified neural net plus verified safety controller' pattern. Anticipates modern ML-safety supervisor patents in autonomous vehicles, drones, and robotics. Directly applicable as prior art to safety claims in physical AI products.
+
+## Shielding for Safe Reinforcement Learning (2018)
+
+- **id**: `shielding-rl`
+- **corpus**: academic
+- **creator**: Mohammed Alshiekh, Roderick Bloem, Rüdiger Ehlers, Bettina Könighofer, Scott Niekum, Ufuk Topcu
+- **disclosure**: Alshiekh, M. et al. 'Safe Reinforcement Learning via Shielding.' AAAI 2018.
+- **ip status**: public-domain
+- **prior art notes**: Major prior art for any patent on RL safety filtering, shielded ML, or temporal-logic-bounded RL. Combined with Simplex and CBF prior art, makes much of the 'safe ML' patent space difficult to defend.

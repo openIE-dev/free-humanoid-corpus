@@ -1,0 +1,1155 @@
+{
+  "nodes": [
+    {
+      "id": "rur-rossums-robots",
+      "name": "Rossum's Universal Robots",
+      "year": "1920",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "asimov-positronic-robots",
+        "metropolis-maschinenmensch",
+        "replicants-blade-runner"
+      ]
+    },
+    {
+      "id": "metropolis-maschinenmensch",
+      "name": "Maschinenmensch",
+      "year": "1927",
+      "corpus": "fictional",
+      "ancestors": [
+        "rur-rossums-robots"
+      ],
+      "descendants": [
+        "t-800-terminator"
+      ]
+    },
+    {
+      "id": "asimov-positronic-robots",
+      "name": "Asimov positronic robots",
+      "year": "1940",
+      "corpus": "fictional",
+      "ancestors": [
+        "rur-rossums-robots"
+      ],
+      "descendants": [
+        "asimovs-zeroth-law",
+        "data-tng",
+        "hal-9000",
+        "sherman-simplex-architecture"
+      ]
+    },
+    {
+      "id": "astro-boy",
+      "name": "Astro Boy",
+      "year": "1952",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tetsujin-28",
+      "name": "Tetsujin 28",
+      "year": "1956",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "gundam-rx-78-2"
+      ]
+    },
+    {
+      "id": "replicants-blade-runner",
+      "name": "Replicants",
+      "year": "1968",
+      "corpus": "fictional",
+      "ancestors": [
+        "rur-rossums-robots"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "hal-9000",
+      "name": "HAL 9000",
+      "year": "1968",
+      "corpus": "fictional",
+      "ancestors": [
+        "asimov-positronic-robots"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "wabot-1",
+      "name": "WABOT-1",
+      "year": "1973",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "honda-e0",
+        "hrp-2",
+        "hubo",
+        "wabian-2"
+      ]
+    },
+    {
+      "id": "gundam-rx-78-2",
+      "name": "RX-78-2 Gundam",
+      "year": "1979",
+      "corpus": "fictional",
+      "ancestors": [
+        "tetsujin-28"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "t-800-terminator",
+      "name": "T-800",
+      "year": "1984",
+      "corpus": "fictional",
+      "ancestors": [
+        "metropolis-maschinenmensch"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "asimovs-zeroth-law",
+      "name": "Asimov's Zeroth Law",
+      "year": "1985",
+      "corpus": "fictional",
+      "ancestors": [
+        "asimov-positronic-robots"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "honda-e0",
+      "name": "Honda E0",
+      "year": "1986",
+      "corpus": "private",
+      "ancestors": [
+        "wabot-1"
+      ],
+      "descendants": [
+        "asimo",
+        "atlas-boston-dynamics",
+        "honda-e1",
+        "honda-e2",
+        "honda-e3",
+        "honda-e4",
+        "honda-e5",
+        "honda-e6",
+        "honda-p1"
+      ]
+    },
+    {
+      "id": "honda-e1",
+      "name": "Honda E1",
+      "year": "1987",
+      "corpus": "private",
+      "ancestors": [
+        "honda-e0"
+      ],
+      "descendants": [
+        "honda-e2"
+      ]
+    },
+    {
+      "id": "data-tng",
+      "name": "Data",
+      "year": "1987",
+      "corpus": "fictional",
+      "ancestors": [
+        "asimov-positronic-robots"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "honda-e2",
+      "name": "Honda E2",
+      "year": "1989",
+      "corpus": "private",
+      "ancestors": [
+        "honda-e0",
+        "honda-e1"
+      ],
+      "descendants": [
+        "honda-e3"
+      ]
+    },
+    {
+      "id": "honda-e3",
+      "name": "Honda E3",
+      "year": "1991",
+      "corpus": "private",
+      "ancestors": [
+        "honda-e0",
+        "honda-e2"
+      ],
+      "descendants": [
+        "honda-e4"
+      ]
+    },
+    {
+      "id": "honda-e4",
+      "name": "Honda E4",
+      "year": "1991",
+      "corpus": "private",
+      "ancestors": [
+        "honda-e0",
+        "honda-e3"
+      ],
+      "descendants": [
+        "honda-e5"
+      ]
+    },
+    {
+      "id": "honda-e5",
+      "name": "Honda E5",
+      "year": "1992",
+      "corpus": "private",
+      "ancestors": [
+        "honda-e0",
+        "honda-e4"
+      ],
+      "descendants": [
+        "honda-e6"
+      ]
+    },
+    {
+      "id": "honda-e6",
+      "name": "Honda E6",
+      "year": "1993",
+      "corpus": "private",
+      "ancestors": [
+        "honda-e0",
+        "honda-e5"
+      ],
+      "descendants": [
+        "honda-p1"
+      ]
+    },
+    {
+      "id": "honda-p1",
+      "name": "Honda P1",
+      "year": "1993",
+      "corpus": "private",
+      "ancestors": [
+        "honda-e0",
+        "honda-e6"
+      ],
+      "descendants": [
+        "honda-p2"
+      ]
+    },
+    {
+      "id": "sherman-simplex-architecture",
+      "name": "Simplex Architecture",
+      "year": "1995",
+      "corpus": "academic",
+      "ancestors": [
+        "asimov-positronic-robots"
+      ],
+      "descendants": [
+        "control-barrier-functions",
+        "runtime-assurance-rta",
+        "shielding-rl"
+      ]
+    },
+    {
+      "id": "honda-p2",
+      "name": "Honda P2",
+      "year": "1996",
+      "corpus": "private",
+      "ancestors": [
+        "honda-p1"
+      ],
+      "descendants": [
+        "honda-p3"
+      ]
+    },
+    {
+      "id": "honda-p3",
+      "name": "Honda P3",
+      "year": "1997",
+      "corpus": "private",
+      "ancestors": [
+        "honda-p2"
+      ],
+      "descendants": [
+        "asimo"
+      ]
+    },
+    {
+      "id": "sony-aibo",
+      "name": "Sony AIBO",
+      "year": "1999",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "asimo",
+      "name": "ASIMO",
+      "year": "2000",
+      "corpus": "private",
+      "ancestors": [
+        "honda-e0",
+        "honda-p3"
+      ],
+      "descendants": [
+        "1x-neo",
+        "agibot-a1",
+        "figure-01",
+        "hubo",
+        "tesla-optimus"
+      ]
+    },
+    {
+      "id": "hrp-2",
+      "name": "HRP-2",
+      "year": "2002",
+      "corpus": "academic",
+      "ancestors": [
+        "wabot-1"
+      ],
+      "descendants": [
+        "hrp-3",
+        "hrp-4",
+        "hrp-5p"
+      ]
+    },
+    {
+      "id": "shadow-hand",
+      "name": "Shadow Dexterous Hand",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "robonaut-2",
+        "sanctuary-phoenix",
+        "sanctuary-phoenix-gen6"
+      ]
+    },
+    {
+      "id": "sony-qrio",
+      "name": "Sony QRIO",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hubo",
+      "name": "HUBO",
+      "year": "2004",
+      "corpus": "academic",
+      "ancestors": [
+        "asimo",
+        "wabot-1"
+      ],
+      "descendants": [
+        "rainbow-robotics-rb-y1"
+      ]
+    },
+    {
+      "id": "reachability-analysis-safe-control",
+      "name": "Hamilton-Jacobi Reachability for Safe Control",
+      "year": "2005",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "iso-10218-collaborative-robots",
+      "name": "ISO 10218 Collaborative Robot Safety",
+      "year": "2006",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nao",
+      "name": "NAO",
+      "year": "2006",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "pepper-softbank"
+      ]
+    },
+    {
+      "id": "wabian-2",
+      "name": "WABIAN-2",
+      "year": "2006",
+      "corpus": "academic",
+      "ancestors": [
+        "wabot-1"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "control-barrier-functions",
+      "name": "Control Barrier Functions",
+      "year": "2007",
+      "corpus": "academic",
+      "ancestors": [
+        "sherman-simplex-architecture"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "toyota-partner-robot-violin",
+      "name": "Toyota Partner Robot (Violin)",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "toyota-thr3"
+      ]
+    },
+    {
+      "id": "hrp-3",
+      "name": "HRP-3",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [
+        "hrp-2"
+      ],
+      "descendants": [
+        "hrp-4"
+      ]
+    },
+    {
+      "id": "icub",
+      "name": "iCub",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "1x-neo",
+        "sanctuary-phoenix"
+      ]
+    },
+    {
+      "id": "willow-pr1",
+      "name": "Willow Garage PR1",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "pr2"
+      ]
+    },
+    {
+      "id": "petman",
+      "name": "PETMAN",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "atlas-boston-dynamics"
+      ]
+    },
+    {
+      "id": "darwin-op",
+      "name": "DARwIn-OP",
+      "year": "2010",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": [
+        "poppy-humanoid"
+      ]
+    },
+    {
+      "id": "hrp-4",
+      "name": "HRP-4",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [
+        "hrp-2",
+        "hrp-3"
+      ],
+      "descendants": [
+        "hrp-5p"
+      ]
+    },
+    {
+      "id": "pr2",
+      "name": "PR2",
+      "year": "2010",
+      "corpus": "open",
+      "ancestors": [
+        "willow-pr1"
+      ],
+      "descendants": [
+        "diligent-moxi"
+      ]
+    },
+    {
+      "id": "runtime-assurance-rta",
+      "name": "Runtime Assurance (RTA)",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [
+        "sherman-simplex-architecture"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "robonaut-2",
+      "name": "Robonaut 2",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [
+        "shadow-hand"
+      ],
+      "descendants": [
+        "nasa-valkyrie"
+      ]
+    },
+    {
+      "id": "inmoov",
+      "name": "InMoov",
+      "year": "2012",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "toyota-hsr",
+      "name": "Toyota HSR",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "atrias",
+      "name": "ATRIAS",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "cassie-osu"
+      ]
+    },
+    {
+      "id": "crazyflie",
+      "name": "Crazyflie",
+      "year": "2013",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mit-cheetah",
+      "name": "MIT Cheetah",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "mini-cheetah",
+        "mit-cheetah-2",
+        "mit-cheetah-3"
+      ]
+    },
+    {
+      "id": "nasa-valkyrie",
+      "name": "NASA Valkyrie",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [
+        "robonaut-2"
+      ],
+      "descendants": [
+        "apptronik-apollo"
+      ]
+    },
+    {
+      "id": "reem-c",
+      "name": "REEM-C",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "atlas-boston-dynamics",
+      "name": "Atlas",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [
+        "honda-e0",
+        "petman"
+      ],
+      "descendants": [
+        "figure-01",
+        "sanctuary-phoenix-gen6",
+        "tesla-optimus"
+      ]
+    },
+    {
+      "id": "mit-cheetah-2",
+      "name": "MIT Cheetah 2",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [
+        "mit-cheetah"
+      ],
+      "descendants": [
+        "mini-cheetah",
+        "mit-cheetah-3"
+      ]
+    },
+    {
+      "id": "poppy-humanoid",
+      "name": "Poppy Humanoid",
+      "year": "2014",
+      "corpus": "open",
+      "ancestors": [
+        "darwin-op"
+      ],
+      "descendants": [
+        "k-scale-os"
+      ]
+    },
+    {
+      "id": "pepper-softbank",
+      "name": "Pepper",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [
+        "nao"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "hyundai-boston-dynamics-spot",
+      "name": "Boston Dynamics Spot",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "spot-fuel-cell"
+      ]
+    },
+    {
+      "id": "anymal",
+      "name": "ANYmal",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hanson-sophia",
+      "name": "Sophia",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "ameca"
+      ]
+    },
+    {
+      "id": "cassie-osu",
+      "name": "Cassie",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [
+        "atrias"
+      ],
+      "descendants": [
+        "agility-digit",
+        "limx-cl1",
+        "robot-era-star1"
+      ]
+    },
+    {
+      "id": "odrive",
+      "name": "ODrive",
+      "year": "2017",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": [
+        "mjbots-moteus"
+      ]
+    },
+    {
+      "id": "pal-talos",
+      "name": "PAL TALOS",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kawasaki-kaleido",
+      "name": "Kawasaki Kaleido",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "toyota-thr3",
+      "name": "Toyota T-HR3",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "toyota-partner-robot-violin"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "ghost-robotics-vision-60",
+      "name": "Ghost Robotics Vision 60",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mit-cheetah-3",
+      "name": "MIT Cheetah 3",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "mit-cheetah",
+        "mit-cheetah-2"
+      ],
+      "descendants": [
+        "mini-cheetah"
+      ]
+    },
+    {
+      "id": "shielding-rl",
+      "name": "Shielding for Safe Reinforcement Learning",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "sherman-simplex-architecture"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "ubtech-walker",
+      "name": "UBTech Walker",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hrp-5p",
+      "name": "HRP-5P",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "hrp-2",
+        "hrp-4"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "ascento",
+      "name": "Ascento",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "upkie"
+      ]
+    },
+    {
+      "id": "mini-cheetah",
+      "name": "MIT Mini Cheetah",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [
+        "mit-cheetah",
+        "mit-cheetah-2",
+        "mit-cheetah-3"
+      ],
+      "descendants": [
+        "agibot-a1",
+        "berkeley-humanoid",
+        "engineai-pm01",
+        "limx-cl1",
+        "unitree-g1",
+        "unitree-go1",
+        "unitree-h1"
+      ]
+    },
+    {
+      "id": "mjbots-moteus",
+      "name": "mjbots Moteus",
+      "year": "2019",
+      "corpus": "open",
+      "ancestors": [
+        "odrive"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "agility-digit",
+      "name": "Digit",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "cassie-osu"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "diligent-moxi",
+      "name": "Diligent Moxi",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "pr2"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "reachy",
+      "name": "Reachy",
+      "year": "2020",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "simplefoc",
+      "name": "SimpleFOC",
+      "year": "2020",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "spot-fuel-cell",
+      "name": "Boston Dynamics Spot (fuel-cell variant)",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [
+        "hyundai-boston-dynamics-spot"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "unitree-go1",
+      "name": "Unitree Go1",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "mini-cheetah"
+      ],
+      "descendants": [
+        "unitree-h1"
+      ]
+    },
+    {
+      "id": "tesla-optimus",
+      "name": "Tesla Optimus",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "asimo",
+        "atlas-boston-dynamics"
+      ],
+      "descendants": [
+        "xpeng-iron"
+      ]
+    },
+    {
+      "id": "ameca",
+      "name": "Ameca",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "hanson-sophia"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "sanctuary-phoenix-gen6",
+      "name": "Sanctuary Phoenix Gen 6",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [
+        "atlas-boston-dynamics",
+        "shadow-hand"
+      ],
+      "descendants": [
+        "sanctuary-phoenix"
+      ]
+    },
+    {
+      "id": "upkie",
+      "name": "Upkie",
+      "year": "2022",
+      "corpus": "open",
+      "ancestors": [
+        "ascento"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "sanctuary-phoenix",
+      "name": "Sanctuary AI Phoenix",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "icub",
+        "sanctuary-phoenix-gen6",
+        "shadow-hand"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "fourier-gr1",
+      "name": "Fourier GR-1",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "openai-rt-2",
+      "name": "RT-2",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "open-x-embodiment",
+        "physical-intelligence-pi-zero"
+      ]
+    },
+    {
+      "id": "agibot-a1",
+      "name": "AgiBot A1",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "asimo",
+        "mini-cheetah"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "apptronik-apollo",
+      "name": "Apptronik Apollo",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "nasa-valkyrie"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "unitree-h1",
+      "name": "Unitree H1",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "mini-cheetah",
+        "unitree-go1"
+      ],
+      "descendants": [
+        "unitree-g1",
+        "unitree-h2"
+      ]
+    },
+    {
+      "id": "figure-01",
+      "name": "Figure 01",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "asimo",
+        "atlas-boston-dynamics"
+      ],
+      "descendants": [
+        "figure-02"
+      ]
+    },
+    {
+      "id": "open-x-embodiment",
+      "name": "Open X-Embodiment",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "openai-rt-2"
+      ],
+      "descendants": [
+        "physical-intelligence-pi-zero"
+      ]
+    },
+    {
+      "id": "limx-cl1",
+      "name": "LimX Dynamics CL-1",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "cassie-osu",
+        "mini-cheetah"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "1x-neo",
+      "name": "1X NEO",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "asimo",
+        "icub"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "berkeley-humanoid",
+      "name": "Berkeley Humanoid",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "mini-cheetah"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "k-scale-os",
+      "name": "K-Scale Labs Open Source Humanoid",
+      "year": "2024",
+      "corpus": "open",
+      "ancestors": [
+        "poppy-humanoid"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "persona-ai-mentee",
+      "name": "Persona AI Mentee",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "covariant-rfm",
+      "name": "Covariant RFM-1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "rainbow-robotics-rb-y1",
+      "name": "Rainbow Robotics RB-Y1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "hubo"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "neura-4ne1",
+      "name": "Neura 4NE-1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "unitree-g1",
+      "name": "Unitree G1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "mini-cheetah",
+        "unitree-h1"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "kepler-k2",
+      "name": "Kepler K2",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "skild-foundation-model",
+      "name": "Skild AI foundation model",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "figure-02",
+      "name": "Figure 02",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "figure-01"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "physical-intelligence-pi-zero",
+      "name": "Physical Intelligence π0",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "open-x-embodiment",
+        "openai-rt-2"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "robot-era-star1",
+      "name": "Robot Era STAR1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "cassie-osu"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "xpeng-iron",
+      "name": "XPeng Iron",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "tesla-optimus"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "engineai-pm01",
+      "name": "EngineAI PM01",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "mini-cheetah"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "unitree-h2",
+      "name": "Unitree H2",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [
+        "unitree-h1"
+      ],
+      "descendants": []
+    }
+  ],
+  "warnings": [],
+  "cycles": []
+}
