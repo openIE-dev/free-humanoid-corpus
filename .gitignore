@@ -1,6 +1,3 @@
-# Release tarballs and timestamping artifacts (regenerable)
-releases/
-
 # Internal/dev workspace
 notes-claude/
 
