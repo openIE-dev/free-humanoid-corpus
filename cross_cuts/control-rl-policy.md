@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**55 corpus entries disclose this subsystem.**
+**69 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -132,6 +132,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Pomerleau's ALVINN is the foundational academic disclosure of end-to-end vision-to-action neural network policies — the architectural pattern that modern VLA models implement at scale. Anticipates: (1) end-to-end vision-to-action neural policy as a deployable control architecture — directly relevant to RT-1, RT-2, OpenVLA, Octo, and every subsequent foundation-model-policy claim; (2) training data augmentation via simulated variation — relevant to sim-to-real claims; (3) deploying neural policies on real-world hardware — relevant to deployment-on-robot patents. The 1989 NIPS paper and subsequent CMU technical reports establish the lineage that culminates in modern VLA systems. Modern VLA claims face this 35-year academic anchor as 102 prior art.
 
+## Schaal 'Is imitation learning the route to humanoid robots?' (1999-06)
+
+- **id**: `schaal-imitation-1999`
+- **corpus**: academic
+- **creator**: Stefan Schaal, USC + ATR Computational Neuroscience Laboratories Kyoto
+- **disclosure**: Schaal, Stefan. 'Is imitation learning the route to humanoid robots?' Trends in Cognitive Sciences 3(6): 233-242, June 1999.
+- **ip status**: public-domain
+- **prior art notes**: Schaal 1999 is the foundational academic statement of imitation learning as the dominant paradigm for humanoid robot training. Anticipates: (1) the imitation-then-RL hybrid pipeline that dominates modern humanoid policy training (Tesla Optimus operator demonstrations + RL refinement, Figure's data pipeline, 1X NEO's training stack — all explicit imitations of this framework); (2) the curse-of-dimensionality argument that motivates demonstration-based humanoid IP; (3) the explicit programmatic claim that humanoid robots will be best taught by demonstration. Heavily cited (>2500 citations); standard reference in cognitive-science and robotics literature. Modern claims that humanoids are 'taught by human demonstration' face a 27-year-deep 102 anchor here.
+
+## Dynamic Movement Primitives (DMP) (2002)
+
+- **id**: `dmp-schaal-ijspeert`
+- **corpus**: academic
+- **creator**: Auke Jan Ijspeert, Jun Nakanishi, Stefan Schaal; USC + ATR Computational Neuroscience Laboratories
+- **disclosure**: Ijspeert, Auke Jan, Nakanishi, Jun, Schaal, Stefan. 'Movement imitation with nonlinear dynamical systems in humanoid robots.' IEEE International Conference on Robotics and Automation (ICRA), Washington DC, May 2002: 1398-1403. Foundational consolidation: Ijspeert, A.J., Nakanishi, J., Hoffmann, H., Pastor, P., Schaal, S. 'Dynamical movement primitives: Learning attractor models for motor behaviors.' Neural Computation 25(2): 328-373, February 2013.
+- **ip status**: public-domain
+- **prior art notes**: DMPs are the canonical academic disclosure of stability-guaranteed learnable motor primitives for humanoid robotics. Anticipates: (1) one-shot trajectory-from-demonstration learning with stability guarantees — directly relevant to claims on humanoid skill libraries built from human demonstration (a foundational pattern in every commercial humanoid program); (2) goal-parameterizable motor primitives — relevant to claims on adaptable humanoid skills; (3) compositional skill chaining — relevant to claims on humanoid behavior trees built from learned primitives. Heavily cited (>3000 citations across the series); the 2013 Neural Computation paper is the canonical reference. Modern humanoid skill-library patents face this 24-year-deep 102 anchor.
+
 ## Tachikoma (2002-10-01)
 
 - **id**: `ghost-in-the-shell-tachikoma`
@@ -204,6 +222,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: ANYbotics SEA design heavily anticipated by NASA Valkyrie and Robonaut SEA work. ETH RSL academic publications provide open prior art for many control claims.
 
+## Generative Adversarial Imitation Learning (GAIL) (2016-06-10)
+
+- **id**: `gail-ho-ermon`
+- **corpus**: academic
+- **creator**: Jonathan Ho and Stefano Ermon, Stanford University
+- **disclosure**: Ho, Jonathan and Ermon, Stefano. 'Generative Adversarial Imitation Learning.' arXiv:1606.03476, June 10, 2016. NeurIPS 2016: 4565-4573.
+- **ip status**: open-permissive
+- **prior art notes**: GAIL is the foundational academic disclosure of GAN-style adversarial imitation learning, providing a sample-efficient alternative to inverse-RL for policy learning from demonstration. Anticipates: (1) the discriminator-as-reward-source paradigm for imitation — directly relevant to claims on humanoid policies trained via adversarial-loss imitation (a common ingredient in modern legged-robot RL pipelines); (2) the elimination of cost-function recovery as a separate step — relevant to claims on end-to-end imitation pipelines for humanoids; (3) the demonstrated MuJoCo Humanoid benchmark transfer — relevant to humanoid-RL patent claims. Heavily cited (>4000 citations). Open-source reference implementation. Modern humanoid adversarial-imitation-learning patent claims face this 10-year-deep anchor.
+
 ## Cassie (2017)
 
 - **id**: `cassie-osu`
@@ -221,6 +248,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yoko Taro (creative dir.); PlatinumGames; Square Enix. NieR: Automata. Square Enix, February 23, 2017.
 - **ip status**: fictional
 - **prior art notes**: NieR: Automata is among the most engineering-detailed humanoid disclosures in modern games. Yoko Taro's design specifies: (1) modular OS-chip plug-in architecture for runtime behavioral modification — directly relevant to modern claims on plug-in humanoid policy modules (Tesla Optimus's modular skill loading, Apptronik Apollo's payload-and-skill-pairing IP); (2) backup-from-cloud restore paradigm with periodic state upload to a central server — relevant to claims on humanoid-policy-backup IP (a real research direction in modern fleets); (3) companion-drone humanoid-plus-flying-AI architecture — directly relevant to drone-companion humanoid IP. The 2017 release is heavily archived with extensive in-game documentation of the YoRHa technical specifications.
+
+## Hindsight Experience Replay (HER) (2017-07-05)
+
+- **id**: `hindsight-experience-replay`
+- **corpus**: academic
+- **creator**: OpenAI (Andrychowicz, Wolski, Ray, Schneider, Fong, Welinder, McGrew, Tobin, Abbeel, Zaremba)
+- **disclosure**: Andrychowicz, Marcin, Wolski, Filip, Ray, Alex, Schneider, Jonas, Fong, Rachel, Welinder, Peter, McGrew, Bob, Tobin, Josh, Abbeel, Pieter, Zaremba, Wojciech. 'Hindsight Experience Replay.' arXiv:1707.01495, July 5, 2017. NeurIPS 2017.
+- **ip status**: open-permissive
+- **prior art notes**: HER is the canonical academic disclosure of hindsight relabeling for goal-conditioned reinforcement learning. Anticipates: (1) the use of achieved-goal relabeling to convert sparse-reward trajectories into dense-reward training signal — directly relevant to claims on sample-efficient humanoid policy training (every modern humanoid RL pipeline that uses goal-conditioned policies relies on HER or its descendants); (2) the algorithmic decoupling of off-policy RL from the relabeling step — relevant to architecture-agnostic relabeling claims; (3) the demonstration on dexterous manipulation (Shadow Hand simulation) connecting HER to humanoid-relevant tasks. Heavily cited (>3000 citations); NeurIPS 2017. Code released under MIT license. Modern humanoid policy-training patents face this 9-year-deep 102 anchor on hindsight-relabeling RL.
+
+## Tan et al. Quadruped Sim-to-Real (2018-04-28)
+
+- **id**: `tan-quadruped-sim2real`
+- **corpus**: academic
+- **creator**: Google Brain + Google Robotics (Tan, Zhang, Coumans, Iscen, Bai, Hafner, Bohez, Vanhoucke)
+- **disclosure**: Tan, Jie, Zhang, Tingnan, Coumans, Erwin, Iscen, Atil, Bai, Yunfei, Hafner, Danijar, Bohez, Steven, Vanhoucke, Vincent. 'Sim-to-Real: Learning Agile Locomotion For Quadruped Robots.' arXiv:1804.10332, April 28, 2018. Robotics: Science and Systems (RSS) 2018.
+- **ip status**: open-permissive
+- **prior art notes**: Tan et al. 2018 is one of the earliest academic disclosures of practical sim-to-real RL for quadrupedal locomotion, predating Hwangbo 2019 by ~9 months and establishing the system-identification + domain-randomization paradigm for legged sim-to-real. Anticipates: (1) PPO-based RL for legged locomotion with subsequent zero-shot hardware transfer — relevant to RL-locomotion-policy patents (Boston Dynamics, Unitree, every commercial quadruped); (2) explicit actuator-latency modeling as a sim-to-real bridge — relevant to claims on real-time sim-to-real techniques; (3) the quasi-direct-drive Minitaur platform combined with sim-to-real — relevant to QDD-actuator+RL humanoid claims. Open-source code via PyBullet repository. RSS 2018 publication. Modern legged sim-to-real claims face an 8-year-deep anchor.
 
 ## Detroit: Become Human androids (RT600/RK800/RK900 series) (2018-05-25)
 
@@ -258,6 +303,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Cassie/Digit derive from Oregon State University academic work (Hurst lab); the academic publications constitute substantial prior art for the bipedal control claims.
 
+## Hwangbo ANYmal Sim-to-Real Locomotion (2019-01-16)
+
+- **id**: `hwangbo-anymal-sim2real`
+- **corpus**: academic
+- **creator**: Hwangbo, Lee, Dosovitskiy, Bellicoso, Tsounis, Koltun, Hutter; ETH Zürich Robotic Systems Lab + Intel Intelligent Systems Lab
+- **disclosure**: Hwangbo, Jemin, Lee, Joonho, Dosovitskiy, Alexey, Bellicoso, Dario, Tsounis, Vassilios, Koltun, Vladlen, Hutter, Marco. 'Learning agile and dynamic motor skills for legged robots.' Science Robotics 4(26): eaau5872, January 16, 2019.
+- **ip status**: open-permissive
+- **prior art notes**: Hwangbo et al. 2019 is the foundational academic disclosure of practical RL-based sim-to-real legged locomotion. Anticipates with full architectural specificity: (1) actuator-network-based high-fidelity simulation (neural network as drop-in actuator dynamics) — directly relevant to claims on humanoid sim-to-real pipelines (Berkeley Humanoid, Apptronik Apollo, Tesla Optimus all use derivatives); (2) zero-shot policy transfer from RL-in-sim to legged hardware — anticipates virtually every modern legged-RL-policy patent; (3) recovery from arbitrary falls via single learned policy — relevant to fall-recovery IP for humanoids. Published in Science Robotics; one of the most-cited robotics RL papers (>2000 citations). Modern humanoid sim-to-real claims face this 7-year-deep anchor with full peer-review defensibility.
+
 ## Unitree Go1 (2021-06)
 
 - **id**: `unitree-go1`
@@ -275,6 +329,42 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tesla AI Day 1, August 19, 2021, Palo Alto.
 - **ip status**: patented
 - **prior art notes**: Tesla's claims around vision-only humanoid perception are heavily anticipated by academic vision-based humanoid work. Actuator IP claims should be examined against Honda harmonic drive prior art.
+
+## SayCan (Do As I Can, Not As I Say) (2022-04-04)
+
+- **id**: `saycan-google`
+- **corpus**: academic
+- **creator**: Google Robotics + Everyday Robots (Ahn et al.)
+- **disclosure**: Ahn, Michael et al. 'Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.' arXiv:2204.01691, April 4, 2022. Conference on Robot Learning (CoRL) 2022. Authors: Ahn, M., Brohan, A., Brown, N., Chebotar, Y., Cortes, O., David, B., Finn, C., Fu, C., Gopalakrishnan, K., Hausman, K., Herzog, A., Ho, D., Hsu, J., Ibarz, J., Ichter, B., Irpan, A., Jang, E., Ruano, R.J., Jeffrey, K., Jesmonth, S., Joshi, N., Julian, R., Kalashnikov, D., Kuang, Y., Lee, K-H., Levine, S., Lu, Y., Luu, L., Parada, C., Pastor, P., Quiambao, J., Rao, K., Rettinghouse, J., Reyes, D., Sermanet, P., Sievers, N., Tan, C., Toshev, A., Vanhoucke, V., Xia, F., Xiao, T., Xu, P., Xu, S., Yan, M. (Google + Everyday Robots).
+- **ip status**: open-permissive
+- **prior art notes**: SayCan is the canonical academic disclosure of LLM-grounded long-horizon manipulation through affordance-mediated skill selection. Anticipates: (1) the architectural pattern of LLM language scoring × learned affordance scoring for hierarchical task planning — directly relevant to claims on language-grounded humanoid task planners (every modern 'speak-to-the-robot' product, from Tesla Optimus demos to Figure 02 OpenAI integration, descends from this); (2) the value-function-as-affordance grounding mechanism — relevant to claims on grounded language-to-action mappings; (3) the explicit decoupling of language reasoning (open-vocabulary) from low-level policy (closed-set skills) — relevant to modular VLA architectures. Heavily cited (>1500 citations); arXiv April 2022. Modern claims on 'language-conditioned long-horizon humanoid task planning' face this 4-year-deep 102 anchor.
+
+## Gato (DeepMind generalist agent) (2022-05-12)
+
+- **id**: `gato-deepmind`
+- **corpus**: academic
+- **creator**: DeepMind (Reed et al.)
+- **disclosure**: Reed, Scott et al. 'A Generalist Agent.' Transactions on Machine Learning Research, November 2022. arXiv:2205.06175, May 12, 2022. Authors: Reed, S., Zolna, K., Parisotto, E., Colmenarejo, S.G., Novikov, A., Barth-Maron, G., Gimenez, M., Sulsky, Y., Kay, J., Springenberg, J.T., Eccles, T., Bruce, J., Razavi, A., Edwards, A., Heess, N., Chen, Y., Hadsell, R., Vinyals, O., Bordbar, M., de Freitas, N. (DeepMind).
+- **ip status**: open-permissive
+- **prior art notes**: Gato is the canonical academic disclosure of a generalist agent that unifies vision-language reasoning and continuous robotic control under a single Transformer policy. Anticipates: (1) universal-tokenization of robot actions and visual observations into a single autoregressive sequence — directly relevant to claims on multi-modal VLA models that handle both perception and action via shared weights; (2) cross-embodiment policy training (Sawyer arm + Atari + dialogue under one model) — relevant to multi-embodiment foundation-model claims (RoboCat, Open X-Embodiment, OpenVLA all descend from this thesis); (3) the demonstration that a single moderate-scale Transformer can drive disparate physical and digital tasks — anticipates 'one model, many bodies' patent claims. Published TMLR + arXiv with code partially released. Modern multi-embodiment humanoid IP faces this 4-year-deep anchor.
+
+## RT-1 (Robotics Transformer 1) (2022-12-13)
+
+- **id**: `rt-1`
+- **corpus**: academic
+- **creator**: Google Robotics (Brohan et al.)
+- **disclosure**: Brohan, Anthony et al. 'RT-1: Robotics Transformer for Real-World Control at Scale.' arXiv:2212.06817, December 13, 2022. Authors: Brohan, A., Brown, N., Carbajal, J., Chebotar, Y., Dabis, J., Finn, C., Gopalakrishnan, K., Hausman, K., Herzog, A., Hsu, J., Ibarz, J., Ichter, B., Irpan, A., Jackson, T., Jesmonth, S., Joshi, N.J., Julian, R., Kalashnikov, D., Kuang, Y., Leal, I., Lee, K-H., Levine, S., Lu, Y., Malla, U., Manjunath, D., Mordatch, I., Nachum, O., Parada, C., Peralta, J., Perez, E., Pertsch, K., Quiambao, J., Rao, K., Ryoo, M., Salazar, G., Sanketi, P., Sayed, K., Singh, J., Sontakke, S., Stewart, A., Tan, J., Tompson, J., Vanhoucke, V., Vuong, Q., Wahid, A., Welker, S., Wohlhart, P., Wu, J., Xia, F., Xiao, T., Xu, P., Xu, S., Yu, T., Zitkovich, B. (Google).
+- **ip status**: open-permissive
+- **prior art notes**: RT-1 is the foundational academic disclosure of large-scale Transformer-based vision-language-action policy for real robot control, predating RT-2 (2023) and OpenVLA (2024). Anticipates with full architectural specificity: (1) tokenized action space for cross-task transformer policies — directly relevant to claims on action-tokenization in modern VLAs (Tesla Optimus, Figure 02, 1X NEO, Physical Intelligence π-zero all employ derivatives); (2) language-conditioned manipulation policy with multi-image history — relevant to instruction-following manipulation IP; (3) the data-scaling law showing performance vs. dataset size for robot policies — relevant to claims on data-driven policy training. Code and data partially released under permissive licenses; arXiv preprint available since December 2022. Brohan et al. paper foundational for the entire VLA lineage.
+
+## PaLM-E (Embodied Multimodal Language Model) (2023-03-06)
+
+- **id**: `palm-e`
+- **corpus**: academic
+- **creator**: Google Robotics + TU Berlin (Driess et al.)
+- **disclosure**: Driess, Danny et al. 'PaLM-E: An Embodied Multimodal Language Model.' arXiv:2303.03378, March 6, 2023. International Conference on Machine Learning (ICML) 2023. Authors: Driess, D., Xia, F., Sajjadi, M.S.M., Lynch, C., Chowdhery, A., Ichter, B., Wahid, A., Tompson, J., Vuong, Q., Yu, T., Huang, W., Chebotar, Y., Sermanet, P., Duckworth, D., Levine, S., Vanhoucke, V., Hausman, K., Toussaint, M., Greff, K., Zeng, A., Mordatch, I., Florence, P. (Google + TU Berlin).
+- **ip status**: open-permissive
+- **prior art notes**: PaLM-E is the canonical academic disclosure of large multimodal embodied language models with internet-pretraining transfer to robotic tasks. Anticipates: (1) embedding continuous robot observations into language-model token space for unified processing — directly relevant to claims on multimodal humanoid policies that incorporate proprioception and vision in a shared transformer; (2) demonstration that internet-scale vision-language pretraining transfers positively to robot manipulation — relevant to claims on 'foundation-model'-style humanoid IP; (3) single-model architecture spanning planning and execution — relevant to monolithic-VLA claims. Heavily cited (>1000 citations); arXiv March 2023. Modern humanoid VLA claims face this 3-year-deep anchor on multimodal-token-space embedding.
 
 ## Diffusion Policy (2023-03-09)
 
@@ -302,6 +392,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sanctuary AI public reveal, May 2023.
 - **ip status**: patented
 - **prior art notes**: Sanctuary's high-DoF hand claims face Shadow Hand (2003) and iCub (2008) as deep prior art for tendon-driven anthropomorphic hands with high finger DoF.
+
+## RoboCat (Self-Improving Generalist Agent) (2023-06-20)
+
+- **id**: `robocat`
+- **corpus**: academic
+- **creator**: DeepMind (Bousmalis et al.)
+- **disclosure**: Bousmalis, Konstantinos et al. 'RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation.' arXiv:2306.11706, June 20, 2023. Transactions on Machine Learning Research, 2024. Authors: Bousmalis, K., Vezzani, G., Rao, D., Devin, C., Lee, A.X., Bauza, M., Davchev, T., Zhou, Y., Gupta, A., Raju, A., Laurens, A., Fantacci, C., Dalibard, V., Zambelli, M., Martins, M., Pevceviciute, R., Blokzijl, M., Denil, M., Batchelor, N., Lampe, T., Parisotto, E., Zolna, K., Reed, S., Colmenarejo, S.G., Scholz, J., Abdolmaleki, A., Groth, O., Regli, J-B., Sushkov, O., Rothorl, T., Chen, J.E., Aytar, Y., Barker, D., Ortiz, J., Riedmiller, M., Springenberg, J.T., Hadsell, R., Nori, F., Heess, N. (DeepMind).
+- **ip status**: open-permissive
+- **prior art notes**: RoboCat is the canonical academic disclosure of self-improving multi-embodiment generalist robotic policies. Anticipates: (1) the cross-embodiment training loop where one model generalizes across distinct robot platforms — directly relevant to claims on humanoid policies trained on heterogeneous robot data (a core selling point of every commercial humanoid VLA); (2) self-collected-data improvement loop — relevant to autonomous-data-flywheel claims (Tesla Dojo + Optimus, Figure's data pipeline); (3) image-goal-conditioned policy as a unified interface — relevant to goal-image-conditioned manipulation IP. Published TMLR + arXiv June 2023; partial code release. Modern humanoid 'data flywheel' patent claims face this anchor.
 
 ## Fourier GR-1 (2023-07)
 
@@ -411,6 +510,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Public technical disclosure is thin; strengthening pass needed.
 
+## Universal Manipulation Interface (UMI) (2024-02-15)
+
+- **id**: `umi-stanford`
+- **corpus**: academic
+- **creator**: Stanford + TRI + Columbia (Chi, Xu, Pan, Cousineau, Burchfiel, Feng, Tedrake, Song)
+- **disclosure**: Chi, Cheng, Xu, Zhenjia, Pan, Chuer, Cousineau, Eric, Burchfiel, Benjamin, Feng, Siyuan, Tedrake, Russ, Song, Shuran. 'Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots.' arXiv:2402.10329, February 15, 2024. Robotics: Science and Systems (RSS) 2024. Stanford University + Toyota Research Institute + Columbia University.
+- **ip status**: open-permissive
+- **prior art notes**: UMI is the canonical academic disclosure of embodiment-decoupled manipulation data collection via hand-held wrist-camera devices. Anticipates: (1) data collection with a portable hand-held gripper-replica without the robot present — directly relevant to claims on low-cost humanoid data collection (this paradigm is now used by Stanford ALOHA's portable variants, Tesla operator-glove proposals, several other commercial programs); (2) wrist-camera SLAM as the substrate for trajectory reconstruction — relevant to vision-based teleoperation IP; (3) embodiment-matching gripper geometry between collection rig and deployment robot — relevant to claims on cross-embodiment manipulation training. Open-source hardware (3D print files), software, and data under permissive license. Modern humanoid 'in-the-wild data' patent claims face this 2-year-deep anchor with full DIY-buildable defensibility.
+
 ## Covariant RFM-1 (2024-03)
 
 - **id**: `covariant-rfm`
@@ -437,6 +545,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Neura Robotics public reveal of 4NE-1, May 2024.
 - **ip status**: patented
 - **prior art notes**: Neura's cognitive-AI claims overlap with academic VLA literature.
+
+## Octo (Open-Source Generalist Robot Policy) (2024-05-20)
+
+- **id**: `octo-policy`
+- **corpus**: academic
+- **creator**: Octo Model Team (Berkeley/Stanford/CMU/Google)
+- **disclosure**: Octo Model Team. 'Octo: An Open-Source Generalist Robot Policy.' arXiv:2405.12213, May 20, 2024. Robotics: Science and Systems (RSS) 2024. Authors: Ghosh, D., Walke, H.R., Pertsch, K., Black, K., Mees, O., Dasari, S., Hejna, J., Xu, C., Luo, J., Kreiman, T., Tan, Y., Sanketi, P., Vuong, Q., Xiao, T., Sadigh, D., Finn, C., Levine, S. (UC Berkeley + Stanford + CMU + Google).
+- **ip status**: open-permissive
+- **prior art notes**: Octo is the foundational fully-open-weights generalist policy for robotic manipulation, combining Open X-Embodiment-scale training with diffusion-action-head architecture. Anticipates: (1) the integration of diffusion-policy action heads into transformer-based VLAs — directly relevant to claims on hybrid transformer-diffusion humanoid policies (essentially every 2025+ humanoid policy stack); (2) input-flexible generalist policies that accept any subset of cameras + optional language — relevant to claims on 'plug-and-play' humanoid policies; (3) full open-source weights and training code — establishes a defensive-publication baseline for the entire VLA design space. Code, weights, and training data fully released under Apache 2.0 / permissive licenses. Heavily cited within 18 months. Modern claims on transformer+diffusion-head humanoid policies face this 2-year-deep 102 anchor.
+
+## OpenVLA (Open-Source Vision-Language-Action Model) (2024-06-13)
+
+- **id**: `openvla`
+- **corpus**: academic
+- **creator**: Stanford + UC Berkeley + Toyota Research Institute + Google DeepMind + Physical Intelligence + MIT (Kim, Pertsch, Karamcheti, Xiao, Balakrishna, Nair, Rafailov, Foster, Lam, Sanketi, Vuong, Kollar, Burchfiel, Tedrake, Sadigh, Levine, Liang, Finn)
+- **disclosure**: Kim, Moo Jin, Pertsch, Karl, Karamcheti, Siddharth, Xiao, Ted, Balakrishna, Ashwin, Nair, Suraj, Rafailov, Rafael, Foster, Ethan, Lam, Grace, Sanketi, Pannag, Vuong, Quan, Kollar, Thomas, Burchfiel, Benjamin, Tedrake, Russ, Sadigh, Dorsa, Levine, Sergey, Liang, Percy, Finn, Chelsea. 'OpenVLA: An Open-Source Vision-Language-Action Model.' arXiv:2406.09246, June 13, 2024. Conference on Robot Learning (CoRL) 2024.
+- **ip status**: open-permissive
+- **prior art notes**: OpenVLA is the canonical fully-open-weights vision-language-action model for robotic manipulation, establishing a clean defensive-publication baseline for 7B-class humanoid VLAs. Anticipates: (1) the action-tokenization-via-vocab-overwrite scheme for adding action heads to pretrained LLMs — directly relevant to claims on humanoid VLAs that piggyback on existing language-model vocabularies; (2) LoRA-based fine-tuning for fast adaptation to new robots/tasks — relevant to claims on efficient humanoid policy adaptation; (3) the demonstrated parameter-efficient outperformance of larger closed models — relevant to claims on 'small-but-capable' humanoid VLA architectures. Apache 2.0 license; weights, code, and data fully released. Modern humanoid VLA filings face this anchor at <2 years' depth, with full source-code defensibility.
 
 ## Kepler K2 (2024-07)
 

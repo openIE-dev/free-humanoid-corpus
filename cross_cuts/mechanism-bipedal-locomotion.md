@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**77 corpus entries disclose this subsystem.**
+**82 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -68,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hughes, Ted. The Iron Man (US: The Iron Giant). Faber & Faber, October 31, 1968. Animated film adaptation: Bird, Brad (dir.). The Iron Giant. Warner Bros., August 6, 1999.
 - **ip status**: fictional
 - **prior art notes**: Self-assembly and self-repair via metabolism of available material — anticipates modern claims on modular self-repairing humanoid platforms. Hughes's 1968 novel is unusual in describing the *autonomous self-assembly* explicitly: detached limbs find each other and reattach. The 1999 film extends the disclosure with the safety-supervisor-disable arc (Giant chooses to exclude violent subroutines), anticipating user-mediated safety-policy modification. Continuously in print since 1968; the film is widely available and is a regular reference in robotics-pedagogy discussions.
+
+## Vukobratović Zero Moment Point (1969)
+
+- **id**: `vukobratovic-zmp`
+- **corpus**: academic
+- **creator**: Miomir Vukobratović and D. Juričić, Mihajlo Pupin Institute, Belgrade
+- **disclosure**: Vukobratović, Miomir and Juričić, D. 'Contribution to the synthesis of biped gait.' IEEE Transactions on Bio-Medical Engineering BME-16(1): 1-6, January 1969. Earlier conference: Vukobratović, M. and Juričić, D. 'Contribution to the synthesis of biped gait.' Proc. IFAC Symposium on Technical and Biological Problems of Control, Yerevan, 1968.
+- **ip status**: public-domain
+- **prior art notes**: Vukobratović's 1969 ZMP formulation is the foundational academic disclosure of dynamic-stability criteria for bipedal walking. Predates Honda P2 (1996) by 27 years and predates every modern humanoid bipedal patent at extraordinary depth. Anticipates with mathematical specificity: (1) the ZMP constraint as a sufficient condition for non-tipping bipedal gait — directly relevant to virtually every bipedal walking patent filed since 1990 (Honda, Sony, Toyota, every Asian humanoid program); (2) gait synthesis by ZMP-trajectory planning — relevant to claims on humanoid walking pattern generators (HRP series, ASIMO, NAO all use ZMP-derived planners); (3) the support polygon as the safety region for COM projection — relevant to claims on bipedal balance recovery. Heavily cited (>5000 citations); the ZMP concept has 13 books and several hundred papers as direct extensions. 57-year-deep 102 anchor against any bipedal-stability patent.
 
 ## THX 1138 Chrome Police Robots (1971-03-11)
 
@@ -285,6 +294,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Final Honda P-series prototype before ASIMO. Refinements to the P2 architecture; key continuity in the Honda prior art chain.
 
+## Goswami Foot Rotation Indicator (1999-12)
+
+- **id**: `goswami-fri`
+- **corpus**: academic
+- **creator**: Ambarish Goswami, INRIA Rhône-Alpes (later Honda Research Institute)
+- **disclosure**: Goswami, Ambarish. 'Postural stability of biped robots and the foot-rotation indicator (FRI) point.' International Journal of Robotics Research 18(6): 523-533, June 1999.
+- **ip status**: public-domain
+- **prior art notes**: Goswami's FRI is the canonical academic disclosure of an extended-ZMP stability indicator capable of quantifying impending foot-rotation. Anticipates: (1) graded stability metrics for bipedal walking that go beyond binary ZMP-inside/outside checks — relevant to claims on bipedal balance estimators in modern humanoids; (2) FRI as a continuous early-warning signal for tipping-onset — relevant to fall-prediction IP (every academic and commercial humanoid claiming 'fall prediction' or 'stability margin estimation' faces this); (3) the formal distinction between ZMP and FRI in non-quasi-static gaits — relevant to dynamic-walking control claims. Highly cited (>1000 citations); Goswami's later work at Honda Research Institute (Asimo group) extended this. 27-year-deep 102 anchor against bipedal-stability-monitoring IP.
+
 ## ASIMO (2000-10-31)
 
 - **id**: `asimo`
@@ -293,6 +311,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Honda Motor Co. press conference, Tokyo, October 31, 2000.
 - **ip status**: patented
 - **prior art notes**: ASIMO's public disclosures and Honda's published papers anticipate most claimed innovations in modern bipedal humanoids. The Hirose/Ogawa 2007 Phil. Trans. paper is a particularly comprehensive disclosure that should be referenced when reading current humanoid patent claims.
+
+## Pratt Virtual Model Control (2001-04)
+
+- **id**: `pratt-virtual-model-control`
+- **corpus**: academic
+- **creator**: Jerry Pratt, Chee-Meng Chew, Ann Torres, Peter Dilworth, Gill Pratt; MIT Leg Laboratory
+- **disclosure**: Pratt, Jerry, Chew, Chee-Meng, Torres, Ann, Dilworth, Peter, Pratt, Gill. 'Virtual model control: An intuitive approach for bipedal locomotion.' International Journal of Robotics Research 20(2): 129-143, February 2001. Earlier: Pratt, J.E. and Pratt, G.A. 'Intuitive control of a planar bipedal walking robot.' IEEE ICRA 1998: 2014-2021.
+- **ip status**: public-domain
+- **prior art notes**: Pratt's Virtual Model Control is a canonical alternative paradigm to ZMP for bipedal control, preserving compliance and intuitive task-space specification. Anticipates: (1) virtual-element-based humanoid torque control — directly relevant to claims on intuitive task-space bipedal controllers; (2) Jacobian-projected virtual force generation — relevant to whole-body humanoid IP that uses 'virtual' or 'imagined' references (every model-based controller for SEA-equipped humanoids descends from this); (3) integration with series-elastic compliance — relevant to compliant-humanoid claims. Pratt's 2000 PhD thesis ('Exploiting natural dynamics in the control of a planar bipedal walking robot,' MIT) extends the framework. Jerry Pratt later led IHMC's humanoid work (DRC Atlas, NASA Valkyrie controller). >1000 citations. 25-year-deep anchor against intuitive-bipedal-control patents.
+
+## Kajita Linear Inverted Pendulum Model (2001-10)
+
+- **id**: `kajita-lipm`
+- **corpus**: academic
+- **creator**: Shuuji Kajita, Fumio Kanehiro, Kenji Kaneko, Kazuhito Yokoi, Hirohisa Hirukawa; AIST National Institute of Advanced Industrial Science and Technology, Japan
+- **disclosure**: Kajita, Shuuji, Kanehiro, F., Kaneko, K., Yokoi, K., Hirukawa, H. 'The 3D Linear Inverted Pendulum Mode: A simple modeling for a biped walking pattern generation.' IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Maui HI, October 29-November 3, 2001: 239-246.
+- **ip status**: public-domain
+- **prior art notes**: Kajita's 3D-LIPM is the canonical academic disclosure of real-time humanoid walking pattern generation via reduced-order model. Anticipates: (1) the LIPM ẍ = (g/h)(x - p) reduction — directly relevant to claims on real-time bipedal pattern generation in essentially every academic and commercial humanoid since 2001 (HRP series, NAO, ASIMO derivatives, Atlas-class, Optimus, Figure 02 all use LIPM-derivative real-time planners); (2) preview-control-based ZMP tracking (Kajita-Kanehiro 2003 ICRA paper extending this) — relevant to model-predictive bipedal walking IP; (3) the constant-height constraint as a real-time-tractable simplification — relevant to humanoid walking-controller claims. Heavily cited (>4000 citations between LIPM 2001 and preview-control 2003 papers). Basis for the textbook Kajita et al. 'Introduction to Humanoid Robotics' (Springer 2014).
 
 ## HRP-2 (2002)
 
@@ -320,6 +356,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Park, Ill-Woo et al. 'Mechanical Design of Humanoid Robot Platform KHR-3 (HUBO).' IEEE-RAS Humanoids 2005.
 - **ip status**: open-permissive
 - **prior art notes**: DRC-Hubo's 2015 win demonstrated transformer-style transitioning between bipedal and wheeled-knee modes for navigating both stairs and flat ground. Anticipates: hybrid locomotion modes in humanoids.
+
+## Sentis-Khatib Whole-Body Prioritized Task Control (2005)
+
+- **id**: `sentis-khatib-whole-body`
+- **corpus**: academic
+- **creator**: Luis Sentis and Oussama Khatib, Stanford AI Laboratory
+- **disclosure**: Sentis, Luis and Khatib, Oussama. 'Synthesis of whole-body behaviors through hierarchical control of behavioral primitives.' International Journal of Humanoid Robotics 2(4): 505-518, December 2005. Extended in: Sentis, L. and Khatib, O. 'A whole-body control framework for humanoids operating in human environments.' IEEE ICRA, May 2006: 2641-2648.
+- **ip status**: public-domain
+- **prior art notes**: Sentis-Khatib whole-body operational-space control extends Khatib 1987 to free-floating humanoids with constraint-aware prioritized task stacks. Anticipates with full specificity: (1) whole-body humanoid task-priority controllers — every modern humanoid (Atlas, TORO, HRP-5P, Optimus, Figure 02) executes a derivative of this stack; (2) contact-consistent dynamics where stance-foot constraints are projected out of the task space — directly relevant to claims on multi-contact humanoid balancing; (3) the formal hierarchical-stack structure (high > mid > low priority via null-space chaining) used in essentially every whole-body humanoid controller since 2010. Sentis's 2007 PhD thesis and the IJHR/ICRA papers are heavily cited (>4000 citations combined). Modern whole-body humanoid IP filings face this academic anchor at 21 years' depth.
 
 ## NAO (2006)
 

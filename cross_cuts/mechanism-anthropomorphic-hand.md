@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**79 corpus entries disclose this subsystem.**
+**80 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -167,6 +167,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Donen, Stanley (dir.); Barry, Martin Amis (writer). Saturn 3. Associated Film Distribution, February 15, 1980.
 - **ip status**: fictional
 - **prior art notes**: Saturn 3's Hector provides surprisingly specific prior art for: (1) brain-tape upload as the operator-to-humanoid policy transfer mechanism — directly relevant to modern claims on human-demonstration imitation learning for humanoids (the brain-tape is functionally an imitation-learning policy); (2) the *failure mode* of training-data-pathology contamination — Hector inherits the operator's mental instability and produces dangerous behavior. This is a remarkably prescient 1980 disclosure of the alignment failure modes that motivate modern safety-supervisor claims; (3) hydraulic large-scale humanoid combat chassis. Continuously available since 1980 across home-video releases.
+
+## Salisbury Stanford/JPL Hand (1982)
+
+- **id**: `salisbury-stanford-jpl-hand`
+- **corpus**: academic
+- **creator**: J. Kenneth Salisbury, Stanford University and JPL
+- **disclosure**: Salisbury, J. Kenneth. 'Kinematic and Force Analysis of Articulated Hands.' PhD Thesis, Stanford University, May 1982. Companion paper: Salisbury, J.K. and Craig, J.J. 'Articulated hands: Force control and kinematic issues.' International Journal of Robotics Research 1(1): 4-17, March 1982.
+- **ip status**: public-domain
+- **prior art notes**: Salisbury's 1982 thesis is the foundational academic disclosure of dexterous tendon-driven multi-finger hands with analytic grasp planning. Anticipates with mechanism-level specificity: (1) N+1 antagonistic tendon architecture for fingers — directly relevant to claims on tendon-driven humanoid hand actuators (Tesla Optimus hand, Figure hand, 1X hand); (2) the grasp matrix G and grip Jacobian formalism — anticipates virtually every modern grasp-planning patent; (3) force-closure analysis for grasp synthesis — relevant to grasp-search IP; (4) per-finger stiffness control — relevant to compliant-grasp claims. Salisbury later co-developed the PHANToM haptic device using the same kinematic framework. Thesis publicly available through Stanford Libraries; the IJRR companion paper has >2000 citations. 44-year-deep 102 anchor.
 
 ## T-800 (1984-10-26)
 

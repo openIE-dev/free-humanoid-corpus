@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-behavior-tree`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1772
 
@@ -68,3 +68,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Diligent Robotics public reveal of Moxi, September 2019.
 - **ip status**: patented
 - **prior art notes**: Diligent's claims around mobile manipulation in healthcare environments face extensive prior art from PR2, HSR, and academic mobile manipulation literature.
+
+## SayCan (Do As I Can, Not As I Say) (2022-04-04)
+
+- **id**: `saycan-google`
+- **corpus**: academic
+- **creator**: Google Robotics + Everyday Robots (Ahn et al.)
+- **disclosure**: Ahn, Michael et al. 'Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.' arXiv:2204.01691, April 4, 2022. Conference on Robot Learning (CoRL) 2022. Authors: Ahn, M., Brohan, A., Brown, N., Chebotar, Y., Cortes, O., David, B., Finn, C., Fu, C., Gopalakrishnan, K., Hausman, K., Herzog, A., Ho, D., Hsu, J., Ibarz, J., Ichter, B., Irpan, A., Jang, E., Ruano, R.J., Jeffrey, K., Jesmonth, S., Joshi, N., Julian, R., Kalashnikov, D., Kuang, Y., Lee, K-H., Levine, S., Lu, Y., Luu, L., Parada, C., Pastor, P., Quiambao, J., Rao, K., Rettinghouse, J., Reyes, D., Sermanet, P., Sievers, N., Tan, C., Toshev, A., Vanhoucke, V., Xia, F., Xiao, T., Xu, P., Xu, S., Yan, M. (Google + Everyday Robots).
+- **ip status**: open-permissive
+- **prior art notes**: SayCan is the canonical academic disclosure of LLM-grounded long-horizon manipulation through affordance-mediated skill selection. Anticipates: (1) the architectural pattern of LLM language scoring × learned affordance scoring for hierarchical task planning — directly relevant to claims on language-grounded humanoid task planners (every modern 'speak-to-the-robot' product, from Tesla Optimus demos to Figure 02 OpenAI integration, descends from this); (2) the value-function-as-affordance grounding mechanism — relevant to claims on grounded language-to-action mappings; (3) the explicit decoupling of language reasoning (open-vocabulary) from low-level policy (closed-set skills) — relevant to modular VLA architectures. Heavily cited (>1500 citations); arXiv April 2022. Modern claims on 'language-conditioned long-horizon humanoid task planning' face this 4-year-deep 102 anchor.

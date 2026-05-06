@@ -6,14 +6,41 @@ layout: default
 
 # Cross-cut: `sensing-force-torque`
 
-**30 corpus entries disclose this subsystem.**
+**37 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1989-05-14
+Earliest disclosure: 1969
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Vukobratović Zero Moment Point (1969)
+
+- **id**: `vukobratovic-zmp`
+- **corpus**: academic
+- **creator**: Miomir Vukobratović and D. Juričić, Mihajlo Pupin Institute, Belgrade
+- **disclosure**: Vukobratović, Miomir and Juričić, D. 'Contribution to the synthesis of biped gait.' IEEE Transactions on Bio-Medical Engineering BME-16(1): 1-6, January 1969. Earlier conference: Vukobratović, M. and Juričić, D. 'Contribution to the synthesis of biped gait.' Proc. IFAC Symposium on Technical and Biological Problems of Control, Yerevan, 1968.
+- **ip status**: public-domain
+- **prior art notes**: Vukobratović's 1969 ZMP formulation is the foundational academic disclosure of dynamic-stability criteria for bipedal walking. Predates Honda P2 (1996) by 27 years and predates every modern humanoid bipedal patent at extraordinary depth. Anticipates with mathematical specificity: (1) the ZMP constraint as a sufficient condition for non-tipping bipedal gait — directly relevant to virtually every bipedal walking patent filed since 1990 (Honda, Sony, Toyota, every Asian humanoid program); (2) gait synthesis by ZMP-trajectory planning — relevant to claims on humanoid walking pattern generators (HRP series, ASIMO, NAO all use ZMP-derived planners); (3) the support polygon as the safety region for COM projection — relevant to claims on bipedal balance recovery. Heavily cited (>5000 citations); the ZMP concept has 13 books and several hundred papers as direct extensions. 57-year-deep 102 anchor against any bipedal-stability patent.
+
+## Salisbury Stanford/JPL Hand (1982)
+
+- **id**: `salisbury-stanford-jpl-hand`
+- **corpus**: academic
+- **creator**: J. Kenneth Salisbury, Stanford University and JPL
+- **disclosure**: Salisbury, J. Kenneth. 'Kinematic and Force Analysis of Articulated Hands.' PhD Thesis, Stanford University, May 1982. Companion paper: Salisbury, J.K. and Craig, J.J. 'Articulated hands: Force control and kinematic issues.' International Journal of Robotics Research 1(1): 4-17, March 1982.
+- **ip status**: public-domain
+- **prior art notes**: Salisbury's 1982 thesis is the foundational academic disclosure of dexterous tendon-driven multi-finger hands with analytic grasp planning. Anticipates with mechanism-level specificity: (1) N+1 antagonistic tendon architecture for fingers — directly relevant to claims on tendon-driven humanoid hand actuators (Tesla Optimus hand, Figure hand, 1X hand); (2) the grasp matrix G and grip Jacobian formalism — anticipates virtually every modern grasp-planning patent; (3) force-closure analysis for grasp synthesis — relevant to grasp-search IP; (4) per-finger stiffness control — relevant to compliant-grasp claims. Salisbury later co-developed the PHANToM haptic device using the same kinematic framework. Thesis publicly available through Stanford Libraries; the IJRR companion paper has >2000 citations. 44-year-deep 102 anchor.
+
+## Khatib Operational Space Formulation (1987-02)
+
+- **id**: `khatib-operational-space`
+- **corpus**: academic
+- **creator**: Oussama Khatib, Stanford Artificial Intelligence Laboratory
+- **disclosure**: Khatib, Oussama. 'A unified approach for motion and force control of robot manipulators: The operational space formulation.' IEEE Journal of Robotics and Automation, RA-3(1): 43-53, February 1987. Earlier: Khatib, O. 'Dynamic control of manipulators in operational space.' 6th IFToMM Congress on Theory of Machines and Mechanisms, New Delhi, December 1983.
+- **ip status**: public-domain
+- **prior art notes**: Khatib's 1987 operational-space formulation is the canonical academic disclosure of task-space inverse-dynamics control with null-space projection. It anticipates with full mathematical specificity: (1) the operational-space inertia matrix Λ(x) and its closed-form expression — directly relevant to whole-body torque-control claims for humanoid platforms; (2) null-space projection for redundancy resolution and prioritized task hierarchies — anticipates virtually every whole-body humanoid controller filed since 2010 (Tesla Optimus, Figure 02, 1X NEO, Apptronik Apollo all employ derivatives); (3) unified motion-and-force impedance control via task-space coordinates — anticipates compliant manipulation IP. Continuously cited (>10,000 citations); the IEEE J-RA paper is freely available through IEEE Xplore. Modern claims on task-space humanoid control face a 39-year-deep 102 anchor here.
 
 ## Howe-Cutkosky tactile fingertip (1989-05-14)
 
@@ -33,6 +60,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Transition from legs-only to full humanoid in the Honda lineage. P1 is the architectural ancestor of ASIMO. Anticipates subsequent claims around full-humanoid actuated platforms with arms and legs.
 
+## Pratt-Williamson Series Elastic Actuator (1995-08)
+
+- **id**: `pratt-williamson-sea`
+- **corpus**: academic
+- **creator**: Gill A. Pratt and Matthew M. Williamson, MIT Leg Laboratory and MIT AI Lab
+- **disclosure**: Pratt, Gill A. and Williamson, Matthew M. 'Series elastic actuators.' IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Pittsburgh PA, August 5-9, 1995: 399-406.
+- **ip status**: public-domain
+- **prior art notes**: The Pratt-Williamson 1995 paper is the foundational academic disclosure of series-elastic actuators (SEA) — the dominant compliant-actuator architecture in legged and humanoid robotics. Anticipates with full specificity: (1) intentional series mechanical spring as the force-sensing element — directly relevant to claims on compliant humanoid actuators (Cassie, Digit, Apollo SEA derivatives); (2) spring-deflection-based force control without strain gauges — relevant to claims on encoder-only force feedback; (3) the bandwidth/stiffness tradeoff disclosure — anticipates SEA-design IP. Pratt's later commercial work (Yobotics, then Boston Dynamics' Atlas SEA) is grounded in this paper. Heavily cited (>3000 citations); SEA is now a textbook concept. 31-year-deep 102 anchor against any 'compliant humanoid actuator' patent.
+
 ## Honda P2 (1996-12-20)
 
 - **id**: `honda-p2`
@@ -50,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Honda Motor Co. press materials, September 1997. Hirose, M. and Ogawa, K. Phil. Trans. R. Soc. A 365, 11–19 (2007).
 - **ip status**: patented
 - **prior art notes**: Final Honda P-series prototype before ASIMO. Refinements to the P2 architecture; key continuity in the Honda prior art chain.
+
+## Goswami Foot Rotation Indicator (1999-12)
+
+- **id**: `goswami-fri`
+- **corpus**: academic
+- **creator**: Ambarish Goswami, INRIA Rhône-Alpes (later Honda Research Institute)
+- **disclosure**: Goswami, Ambarish. 'Postural stability of biped robots and the foot-rotation indicator (FRI) point.' International Journal of Robotics Research 18(6): 523-533, June 1999.
+- **ip status**: public-domain
+- **prior art notes**: Goswami's FRI is the canonical academic disclosure of an extended-ZMP stability indicator capable of quantifying impending foot-rotation. Anticipates: (1) graded stability metrics for bipedal walking that go beyond binary ZMP-inside/outside checks — relevant to claims on bipedal balance estimators in modern humanoids; (2) FRI as a continuous early-warning signal for tipping-onset — relevant to fall-prediction IP (every academic and commercial humanoid claiming 'fall prediction' or 'stability margin estimation' faces this); (3) the formal distinction between ZMP and FRI in non-quasi-static gaits — relevant to dynamic-walking control claims. Highly cited (>1000 citations); Goswami's later work at Honda Research Institute (Asimo group) extended this. 27-year-deep 102 anchor against bipedal-stability-monitoring IP.
 
 ## ASIMO (2000-10-31)
 
@@ -86,6 +131,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Butterfass, J., Grebenstein, M., Liu, H., Hirzinger, G. 'DLR-Hand II: next generation of a dextrous robot hand'. IEEE ICRA, 2001 (early disclosure); Butterfass, J. et al. 'Design and Experiences with DLR Hand II'. World Automation Congress, 2004.
 - **ip status**: open-permissive
 - **prior art notes**: DLR Hand-II is the canonical academic disclosure of joint-torque-sensing dexterous hands with compact actuator integration. Anticipates: (1) impedance-controlled dexterous manipulation with proprioceptive sensing — directly relevant to claims on torque-controlled humanoid hands (every modern humanoid hand IP); (2) cable-tendon transmission with harmonic-drive primary reducer — relevant to combined-mechanism actuator claims; (3) per-joint integrated torque sensor with calibrated absolute position — anticipates proprioceptive-actuator IP. The DLR series (Hand-II, then Hand-III, then Hand Arm System) is one of the deepest academic technical lineages in dexterous manipulation. Continuously published in IEEE proceedings since 2001.
+
+## Sentis-Khatib Whole-Body Prioritized Task Control (2005)
+
+- **id**: `sentis-khatib-whole-body`
+- **corpus**: academic
+- **creator**: Luis Sentis and Oussama Khatib, Stanford AI Laboratory
+- **disclosure**: Sentis, Luis and Khatib, Oussama. 'Synthesis of whole-body behaviors through hierarchical control of behavioral primitives.' International Journal of Humanoid Robotics 2(4): 505-518, December 2005. Extended in: Sentis, L. and Khatib, O. 'A whole-body control framework for humanoids operating in human environments.' IEEE ICRA, May 2006: 2641-2648.
+- **ip status**: public-domain
+- **prior art notes**: Sentis-Khatib whole-body operational-space control extends Khatib 1987 to free-floating humanoids with constraint-aware prioritized task stacks. Anticipates with full specificity: (1) whole-body humanoid task-priority controllers — every modern humanoid (Atlas, TORO, HRP-5P, Optimus, Figure 02) executes a derivative of this stack; (2) contact-consistent dynamics where stance-foot constraints are projected out of the task space — directly relevant to claims on multi-contact humanoid balancing; (3) the formal hierarchical-stack structure (high > mid > low priority via null-space chaining) used in essentially every whole-body humanoid controller since 2010. Sentis's 2007 PhD thesis and the IJHR/ICRA papers are heavily cited (>4000 citations combined). Modern whole-body humanoid IP filings face this academic anchor at 21 years' depth.
 
 ## WABIAN-2 (2006)
 
@@ -266,6 +320,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AgiBot (Shanghai Zhiyuan New Technology) public reveal, August 2023.
 - **ip status**: patented
 - **prior art notes**: AgiBot's actuator IP heavily anticipated by Honda P-series harmonic drive work and MIT Cheetah QDD lineage. Chinese-language patent filings should be enumerated in strengthening pass.
+
+## DROID Dataset (2024-03-19)
+
+- **id**: `droid-dataset`
+- **corpus**: academic
+- **creator**: DROID Consortium (Khazatsky et al., 18 academic + industry institutions)
+- **disclosure**: Khazatsky, Alexander et al. 'DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset.' arXiv:2403.12945, March 19, 2024. Robotics: Science and Systems (RSS) 2024. Authors: Khazatsky, A., Pertsch, K., Nair, S., Balakrishna, A., Dasari, S., Karamcheti, S., Nasiriany, S., Srirama, M.K., Chen, L.Y., Ellis, K., Fagan, P.D., Hejna, J., Itkina, M., Lepert, M., Ma, Y.J., Miller, P.T., Wu, J., Belkhale, S., Dass, S., Ha, H., Jain, A., Lee, A., Lee, Y., Memmel, M., Park, S., Radosavovic, I., Wang, K., Zhan, A., Black, K., Chi, C., Hatch, K.B., Lin, S., Lu, J., Mercat, J., Rehman, A., Sanketi, P.R., Sharma, A., Simpson, C., Vuong, Q., Walke, H.R., Wulfe, B., Xiao, T., Yang, J.H., Yavary, A., Zhao, T.Z., Agia, C., Baijal, R., Castro, M.G., Chen, D., Chen, Q., Chung, T., Drake, J., Foster, E.P., Gao, J., Garcia Herrera, D.A., Heo, M., Hsu, K., Hu, J., Jackson, D., Le, C., Li, Y., Lin, K., Lin, R., Ma, Z., Maddukuri, A., Mirchandani, S., Morton, D., Nguyen, T., O'Neill, A., Scalise, R., Seale, D., Son, V., Tian, S., Tran, E., Wang, A.E., Wu, Y., Xie, A., Yang, J., Yin, P., Zhang, Y., Bastani, O., Berseth, G., Bohg, J., Goldberg, K., Gupta, A., Gupta, A., Jayaraman, D., Lim, J.J., Malik, J., Martín-Martín, R., Ramamoorthy, S., Sadigh, D., Song, S., Wu, J., Yip, M.C., Zhu, Y., Kollar, T., Levine, S., Finn, C. (Stanford / Berkeley / TRI / GoogleDeepMind / 18-institution academic consortium).
+- **ip status**: open-permissive
+- **prior art notes**: DROID is the canonical academic disclosure of large-scale standardized robot manipulation data collection across diverse environments. Anticipates: (1) standardized hardware-stack-based data collection at multi-institutional scale — directly relevant to claims on 'data-flywheel' humanoid programs (Tesla Optimus operator floor, Figure data pipeline, 1X data-collection program); (2) teleoperated demonstration data as the substrate for VLA training — relevant to claims on imitation-learning-based humanoid IP; (3) the open data + open hardware spec combination — establishes prior art for any 'standardized fleet for robot data' patent claim. Released under permissive license (CC-BY 4.0 for data); 76k trajectories, 564 scenes, full hardware spec. Modern humanoid data-collection patent claims face this 2-year-deep anchor.
 
 ## Neura 4NE-1 (2024-05)
 

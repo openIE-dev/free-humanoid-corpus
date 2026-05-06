@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-underactuated-grasping`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2010-10-25
+Earliest disclosure: 1986
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Mason Mechanics of Manipulation (1986)
+
+- **id**: `mason-mechanics-manipulation`
+- **corpus**: academic
+- **creator**: Matthew T. Mason, Carnegie Mellon University Robotics Institute
+- **disclosure**: Mason, Matthew T. 'Mechanics and planning of manipulator pushing operations.' International Journal of Robotics Research 5(3): 53-71, Fall 1986. Textbook consolidation: Mason, M.T. Mechanics of Robotic Manipulation. MIT Press, 2001. ISBN 0-262-13396-2.
+- **ip status**: public-domain
+- **prior art notes**: Mason's pushing-mechanics work and 2001 textbook are the canonical academic disclosure of nonprehensile manipulation analysis. Anticipates with mathematical specificity: (1) the limit-surface formalism for pushing/sliding contact — directly relevant to modern claims on contact-rich manipulation (every push-to-grasp policy in modern foundation-model papers grounds in this); (2) friction-cone-constrained quasi-static planning — relevant to claims on sliding manipulation; (3) action-primitive planning grounded in contact mechanics — relevant to skill-library robotics IP. Mason 2001 is the standard graduate-level textbook for manipulation and is heavily cited (>3000 citations across the program). Modern 'learn-to-push' or 'learn-to-slide' manipulation patents face this 40-year-deep academic anchor.
 
 ## Cornell Universal Jamming Gripper (2010-10-25)
 

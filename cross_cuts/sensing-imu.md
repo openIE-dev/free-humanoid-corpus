@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `sensing-imu`
 
-**62 corpus entries disclose this subsystem.**
+**65 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -149,6 +149,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaneko, K. et al. 'Humanoid Robot HRP-3.' IROS 2008.
 - **ip status**: open-permissive
 - **prior art notes**: HRP-3's environmental sealing disclosures anticipate subsequent IP-rated humanoid claims. The HRP series is a deep commons asset because of consistent open academic disclosure across generations.
+
+## Roetenberg Inertial Motion Capture (Xsens MVN) (2009-04)
+
+- **id**: `roetenberg-xsens-imu`
+- **corpus**: academic
+- **creator**: Daniel Roetenberg, Henk Luinge, Per Slycke; Xsens Technologies (Enschede, Netherlands) + University of Twente
+- **disclosure**: Roetenberg, Daniel, Luinge, Henk, Slycke, Per. 'Xsens MVN: Full 6DOF human motion tracking using miniature inertial sensors.' Xsens Technologies White Paper, April 2009. Foundational thesis: Roetenberg, D. 'Inertial and Magnetic Sensing of Human Motion.' PhD Thesis, University of Twente, May 2006.
+- **ip status**: open-permissive
+- **prior art notes**: Roetenberg's Xsens MVN system is the canonical academic + commercial disclosure of full-body inertial motion capture without external infrastructure. Anticipates: (1) the integration of multiple body-mounted IMUs with a biomechanical skeleton model for drift-bounded human pose tracking — directly relevant to claims on humanoid motion-capture-driven control (Tesla Optimus operator suit, Figure operator data collection, every teleop-suit humanoid program); (2) the EKF-based per-IMU orientation fusion with magnetometer correction — relevant to humanoid IMU-fusion IP; (3) zero-velocity foot-contact updates for drift correction — relevant to humanoid proprioceptive-fusion IP. Roetenberg PhD thesis publicly available; Xsens MVN white paper (2009) publicly distributed. Modern humanoid motion-capture-control patents face this 17-year-deep 102 anchor.
 
 ## DARwIn-OP (2010)
 
@@ -339,6 +348,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: UBTech's bipedal locomotion claims anticipated by Honda P-series and ASIMO disclosures.
 
+## Tan et al. Quadruped Sim-to-Real (2018-04-28)
+
+- **id**: `tan-quadruped-sim2real`
+- **corpus**: academic
+- **creator**: Google Brain + Google Robotics (Tan, Zhang, Coumans, Iscen, Bai, Hafner, Bohez, Vanhoucke)
+- **disclosure**: Tan, Jie, Zhang, Tingnan, Coumans, Erwin, Iscen, Atil, Bai, Yunfei, Hafner, Danijar, Bohez, Steven, Vanhoucke, Vincent. 'Sim-to-Real: Learning Agile Locomotion For Quadruped Robots.' arXiv:1804.10332, April 28, 2018. Robotics: Science and Systems (RSS) 2018.
+- **ip status**: open-permissive
+- **prior art notes**: Tan et al. 2018 is one of the earliest academic disclosures of practical sim-to-real RL for quadrupedal locomotion, predating Hwangbo 2019 by ~9 months and establishing the system-identification + domain-randomization paradigm for legged sim-to-real. Anticipates: (1) PPO-based RL for legged locomotion with subsequent zero-shot hardware transfer — relevant to RL-locomotion-policy patents (Boston Dynamics, Unitree, every commercial quadruped); (2) explicit actuator-latency modeling as a sim-to-real bridge — relevant to claims on real-time sim-to-real techniques; (3) the quasi-direct-drive Minitaur platform combined with sim-to-real — relevant to QDD-actuator+RL humanoid claims. Open-source code via PyBullet repository. RSS 2018 publication. Modern legged sim-to-real claims face an 8-year-deep anchor.
+
 ## HRP-5P (2018-09)
 
 - **id**: `hrp-5p`
@@ -374,6 +392,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Agility Robotics public reveal, CES January 2019.
 - **ip status**: patented
 - **prior art notes**: Cassie/Digit derive from Oregon State University academic work (Hurst lab); the academic publications constitute substantial prior art for the bipedal control claims.
+
+## Hwangbo ANYmal Sim-to-Real Locomotion (2019-01-16)
+
+- **id**: `hwangbo-anymal-sim2real`
+- **corpus**: academic
+- **creator**: Hwangbo, Lee, Dosovitskiy, Bellicoso, Tsounis, Koltun, Hutter; ETH Zürich Robotic Systems Lab + Intel Intelligent Systems Lab
+- **disclosure**: Hwangbo, Jemin, Lee, Joonho, Dosovitskiy, Alexey, Bellicoso, Dario, Tsounis, Vassilios, Koltun, Vladlen, Hutter, Marco. 'Learning agile and dynamic motor skills for legged robots.' Science Robotics 4(26): eaau5872, January 16, 2019.
+- **ip status**: open-permissive
+- **prior art notes**: Hwangbo et al. 2019 is the foundational academic disclosure of practical RL-based sim-to-real legged locomotion. Anticipates with full architectural specificity: (1) actuator-network-based high-fidelity simulation (neural network as drop-in actuator dynamics) — directly relevant to claims on humanoid sim-to-real pipelines (Berkeley Humanoid, Apptronik Apollo, Tesla Optimus all use derivatives); (2) zero-shot policy transfer from RL-in-sim to legged hardware — anticipates virtually every modern legged-RL-policy patent; (3) recovery from arbitrary falls via single learned policy — relevant to fall-recovery IP for humanoids. Published in Science Robotics; one of the most-cited robotics RL papers (>2000 citations). Modern humanoid sim-to-real claims face this 7-year-deep anchor with full peer-review defensibility.
 
 ## Boston Dynamics Spot (fuel-cell variant) (2020)
 

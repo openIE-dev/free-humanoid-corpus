@@ -279,6 +279,20 @@
       "descendants": []
     },
     {
+      "id": "vukobratovic-zmp",
+      "name": "Vukobratović Zero Moment Point",
+      "year": "1969",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "goswami-fri",
+        "hrp-2",
+        "kajita-lipm",
+        "wabian-2",
+        "wabot-1"
+      ]
+    },
+    {
       "id": "doraemon",
       "name": "Doraemon",
       "year": "1969",
@@ -320,7 +334,9 @@
       "name": "WABOT-1",
       "year": "1973",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "vukobratovic-zmp"
+      ],
       "descendants": [
         "honda-e0",
         "hrp-2",
@@ -438,6 +454,19 @@
       "descendants": []
     },
     {
+      "id": "salisbury-stanford-jpl-hand",
+      "name": "Salisbury Stanford/JPL Hand",
+      "year": "1982",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "dlr-hand-ii",
+        "icub",
+        "robonaut-2",
+        "shadow-dexterous-hand"
+      ]
+    },
+    {
       "id": "raibert-hopping-1leg",
       "name": "Raibert One-Legged Hopper",
       "year": "1983",
@@ -446,7 +475,8 @@
       "descendants": [
         "atlas-boston-dynamics",
         "cassie-osu",
-        "mit-cheetah"
+        "mit-cheetah",
+        "pratt-virtual-model-control"
       ]
     },
     {
@@ -472,6 +502,16 @@
       "descendants": []
     },
     {
+      "id": "yoshikawa-manipulability",
+      "name": "Yoshikawa Manipulability Ellipsoid",
+      "year": "1985",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "khatib-operational-space"
+      ]
+    },
+    {
       "id": "honda-e0",
       "name": "Honda E0",
       "year": "1986",
@@ -489,6 +529,17 @@
         "honda-e5",
         "honda-e6",
         "honda-p1"
+      ]
+    },
+    {
+      "id": "mason-mechanics-manipulation",
+      "name": "Mason Mechanics of Manipulation",
+      "year": "1986",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "diffusion-policy",
+        "openai-rt-2"
       ]
     },
     {
@@ -510,6 +561,19 @@
       "descendants": []
     },
     {
+      "id": "featherstone-rdf",
+      "name": "Featherstone Robot Dynamics Algorithms",
+      "year": "1987",
+      "corpus": "academic",
+      "ancestors": [
+        "khatib-operational-space"
+      ],
+      "descendants": [
+        "dlr-toro",
+        "sentis-khatib-whole-body"
+      ]
+    },
+    {
       "id": "honda-e1",
       "name": "Honda E1",
       "year": "1987",
@@ -519,6 +583,21 @@
       ],
       "descendants": [
         "honda-e2"
+      ]
+    },
+    {
+      "id": "khatib-operational-space",
+      "name": "Khatib Operational Space Formulation",
+      "year": "1987",
+      "corpus": "academic",
+      "ancestors": [
+        "yoshikawa-manipulability"
+      ],
+      "descendants": [
+        "dlr-toro",
+        "featherstone-rdf",
+        "ott-impedance-control",
+        "sentis-khatib-whole-body"
       ]
     },
     {
@@ -663,6 +742,16 @@
       ]
     },
     {
+      "id": "ferrari-canny-grasp-quality",
+      "name": "Ferrari-Canny Grasp Quality Metrics",
+      "year": "1992",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "openai-dactyl"
+      ]
+    },
+    {
       "id": "honda-e6",
       "name": "Honda E6",
       "year": "1993",
@@ -700,6 +789,21 @@
         "control-barrier-functions",
         "runtime-assurance-rta",
         "shielding-rl"
+      ]
+    },
+    {
+      "id": "pratt-williamson-sea",
+      "name": "Pratt-Williamson Series Elastic Actuator",
+      "year": "1995",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "atrias",
+        "cassie-osu",
+        "digit-meta",
+        "hwangbo-anymal-sim2real",
+        "nasa-valkyrie",
+        "pratt-virtual-model-control"
       ]
     },
     {
@@ -756,6 +860,32 @@
       "descendants": []
     },
     {
+      "id": "schaal-imitation-1999",
+      "name": "Schaal 'Is imitation learning the route to humanoid robots?'",
+      "year": "1999",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "act-aloha",
+        "diffusion-policy",
+        "dmp-schaal-ijspeert",
+        "gail-ho-ermon"
+      ]
+    },
+    {
+      "id": "goswami-fri",
+      "name": "Goswami Foot Rotation Indicator",
+      "year": "1999",
+      "corpus": "academic",
+      "ancestors": [
+        "vukobratovic-zmp"
+      ],
+      "descendants": [
+        "hrp-2",
+        "hrp-3"
+      ]
+    },
+    {
       "id": "asimo",
       "name": "ASIMO",
       "year": "2000",
@@ -774,6 +904,36 @@
       ]
     },
     {
+      "id": "pratt-virtual-model-control",
+      "name": "Pratt Virtual Model Control",
+      "year": "2001",
+      "corpus": "academic",
+      "ancestors": [
+        "pratt-williamson-sea",
+        "raibert-hopping-1leg"
+      ],
+      "descendants": [
+        "atrias",
+        "cassie-osu",
+        "nasa-valkyrie"
+      ]
+    },
+    {
+      "id": "kajita-lipm",
+      "name": "Kajita Linear Inverted Pendulum Model",
+      "year": "2001",
+      "corpus": "academic",
+      "ancestors": [
+        "vukobratovic-zmp"
+      ],
+      "descendants": [
+        "hrp-2",
+        "hrp-3",
+        "hrp-4",
+        "hrp-5p"
+      ]
+    },
+    {
       "id": "halo-mjolnir-master-chief",
       "name": "MJOLNIR Powered Assault Armor / Master Chief",
       "year": "2001",
@@ -782,11 +942,27 @@
       "descendants": []
     },
     {
+      "id": "dmp-schaal-ijspeert",
+      "name": "Dynamic Movement Primitives (DMP)",
+      "year": "2002",
+      "corpus": "academic",
+      "ancestors": [
+        "schaal-imitation-1999"
+      ],
+      "descendants": [
+        "act-aloha",
+        "diffusion-policy"
+      ]
+    },
+    {
       "id": "hrp-2",
       "name": "HRP-2",
       "year": "2002",
       "corpus": "academic",
       "ancestors": [
+        "goswami-fri",
+        "kajita-lipm",
+        "vukobratovic-zmp",
         "wabot-1"
       ],
       "descendants": [
@@ -800,7 +976,9 @@
       "name": "Shadow Dexterous Hand",
       "year": "2002",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "salisbury-stanford-jpl-hand"
+      ],
       "descendants": [
         "dlr-hand-ii"
       ]
@@ -849,6 +1027,7 @@
       "year": "2004",
       "corpus": "academic",
       "ancestors": [
+        "salisbury-stanford-jpl-hand",
         "shadow-dexterous-hand"
       ],
       "descendants": [
@@ -879,6 +1058,21 @@
       "descendants": []
     },
     {
+      "id": "sentis-khatib-whole-body",
+      "name": "Sentis-Khatib Whole-Body Prioritized Task Control",
+      "year": "2005",
+      "corpus": "academic",
+      "ancestors": [
+        "featherstone-rdf",
+        "khatib-operational-space"
+      ],
+      "descendants": [
+        "atlas-boston-dynamics",
+        "dlr-toro",
+        "nasa-valkyrie"
+      ]
+    },
+    {
       "id": "iso-10218-collaborative-robots",
       "name": "ISO 10218 Collaborative Robot Safety",
       "year": "2006",
@@ -902,6 +1096,7 @@
       "year": "2006",
       "corpus": "academic",
       "ancestors": [
+        "vukobratovic-zmp",
         "wabot-1"
       ],
       "descendants": []
@@ -958,7 +1153,9 @@
       "year": "2008",
       "corpus": "academic",
       "ancestors": [
-        "hrp-2"
+        "goswami-fri",
+        "hrp-2",
+        "kajita-lipm"
       ],
       "descendants": [
         "hrp-4"
@@ -970,11 +1167,25 @@
       "year": "2008",
       "corpus": "academic",
       "ancestors": [
-        "dlr-hand-ii"
+        "dlr-hand-ii",
+        "salisbury-stanford-jpl-hand"
       ],
       "descendants": [
         "1x-neo",
         "sanctuary-phoenix"
+      ]
+    },
+    {
+      "id": "ott-impedance-control",
+      "name": "Ott Cartesian Impedance Control",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [
+        "khatib-operational-space"
+      ],
+      "descendants": [
+        "dlr-justin",
+        "dlr-toro"
       ]
     },
     {
@@ -998,12 +1209,23 @@
       ]
     },
     {
+      "id": "roetenberg-xsens-imu",
+      "name": "Roetenberg Inertial Motion Capture (Xsens MVN)",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "mobile-aloha"
+      ]
+    },
+    {
       "id": "dlr-justin",
       "name": "DLR Justin (Rollin' Justin)",
       "year": "2009",
       "corpus": "academic",
       "ancestors": [
-        "dlr-hand-ii"
+        "dlr-hand-ii",
+        "ott-impedance-control"
       ],
       "descendants": [
         "dlr-toro"
@@ -1038,7 +1260,8 @@
       "corpus": "academic",
       "ancestors": [
         "hrp-2",
-        "hrp-3"
+        "hrp-3",
+        "kajita-lipm"
       ],
       "descendants": [
         "hrp-5p"
@@ -1082,6 +1305,7 @@
       "ancestors": [
         "dlr-hand-ii",
         "robonaut-1",
+        "salisbury-stanford-jpl-hand",
         "shadow-hand"
       ],
       "descendants": [
@@ -1126,7 +1350,9 @@
       "year": "2013",
       "corpus": "academic",
       "ancestors": [
-        "mcgeer-passive-walker"
+        "mcgeer-passive-walker",
+        "pratt-virtual-model-control",
+        "pratt-williamson-sea"
       ],
       "descendants": [
         "cassie-osu"
@@ -1160,7 +1386,10 @@
       "year": "2013",
       "corpus": "academic",
       "ancestors": [
-        "robonaut-2"
+        "pratt-virtual-model-control",
+        "pratt-williamson-sea",
+        "robonaut-2",
+        "sentis-khatib-whole-body"
       ],
       "descendants": [
         "apptronik-apollo"
@@ -1182,7 +1411,8 @@
       "ancestors": [
         "honda-e0",
         "petman",
-        "raibert-hopping-1leg"
+        "raibert-hopping-1leg",
+        "sentis-khatib-whole-body"
       ],
       "descendants": [
         "figure-01",
@@ -1240,7 +1470,11 @@
       "corpus": "academic",
       "ancestors": [
         "asimo",
-        "dlr-justin"
+        "dlr-justin",
+        "featherstone-rdf",
+        "khatib-operational-space",
+        "ott-impedance-control",
+        "sentis-khatib-whole-body"
       ],
       "descendants": []
     },
@@ -1315,6 +1549,16 @@
       ]
     },
     {
+      "id": "gail-ho-ermon",
+      "name": "Generative Adversarial Imitation Learning (GAIL)",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [
+        "schaal-imitation-1999"
+      ],
+      "descendants": []
+    },
+    {
       "id": "cassie-osu",
       "name": "Cassie",
       "year": "2017",
@@ -1322,6 +1566,8 @@
       "ancestors": [
         "atrias",
         "mcgeer-passive-walker",
+        "pratt-virtual-model-control",
+        "pratt-williamson-sea",
         "raibert-hopping-1leg"
       ],
       "descendants": [
@@ -1359,6 +1605,16 @@
       "descendants": []
     },
     {
+      "id": "hindsight-experience-replay",
+      "name": "Hindsight Experience Replay (HER)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "openai-dactyl"
+      ]
+    },
+    {
       "id": "kawasaki-kaleido",
       "name": "Kawasaki Kaleido",
       "year": "2017",
@@ -1390,6 +1646,7 @@
       "year": "2018",
       "corpus": "academic",
       "ancestors": [
+        "hwangbo-anymal-sim2real",
         "mit-cheetah",
         "mit-cheetah-2"
       ],
@@ -1416,6 +1673,18 @@
       "descendants": []
     },
     {
+      "id": "tan-quadruped-sim2real",
+      "name": "Tan et al. Quadruped Sim-to-Real",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "berkeley-humanoid",
+        "hwangbo-anymal-sim2real",
+        "mini-cheetah"
+      ]
+    },
+    {
       "id": "detroit-become-human",
       "name": "Detroit: Become Human androids (RT600/RK800/RK900 series)",
       "year": "2018",
@@ -1428,7 +1697,10 @@
       "name": "OpenAI Dactyl",
       "year": "2018",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "ferrari-canny-grasp-quality",
+        "hindsight-experience-replay"
+      ],
       "descendants": []
     },
     {
@@ -1438,7 +1710,8 @@
       "corpus": "academic",
       "ancestors": [
         "hrp-2",
-        "hrp-4"
+        "hrp-4",
+        "kajita-lipm"
       ],
       "descendants": []
     },
@@ -1460,7 +1733,8 @@
       "ancestors": [
         "mit-cheetah",
         "mit-cheetah-2",
-        "mit-cheetah-3"
+        "mit-cheetah-3",
+        "tan-quadruped-sim2real"
       ],
       "descendants": [
         "agibot-a1",
@@ -1491,6 +1765,20 @@
         "cassie-osu"
       ],
       "descendants": []
+    },
+    {
+      "id": "hwangbo-anymal-sim2real",
+      "name": "Hwangbo ANYmal Sim-to-Real Locomotion",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [
+        "pratt-williamson-sea",
+        "tan-quadruped-sim2real"
+      ],
+      "descendants": [
+        "berkeley-humanoid",
+        "mit-cheetah-3"
+      ]
     },
     {
       "id": "diligent-moxi",
@@ -1534,7 +1822,8 @@
       "year": "2020",
       "corpus": "academic",
       "ancestors": [
-        "gelsight"
+        "gelsight",
+        "pratt-williamson-sea"
       ],
       "descendants": []
     },
@@ -1605,21 +1894,96 @@
       "descendants": []
     },
     {
+      "id": "saycan-google",
+      "name": "SayCan (Do As I Can, Not As I Say)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "openai-rt-2",
+        "palm-e",
+        "rt-1"
+      ]
+    },
+    {
+      "id": "gato-deepmind",
+      "name": "Gato (DeepMind generalist agent)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "open-x-embodiment",
+        "openvla",
+        "robocat"
+      ]
+    },
+    {
+      "id": "vima",
+      "name": "VIMA (General Robot Manipulation with Multimodal Prompts)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "openvla",
+        "robocat"
+      ]
+    },
+    {
+      "id": "rt-1",
+      "name": "RT-1 (Robotics Transformer 1)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [
+        "saycan-google"
+      ],
+      "descendants": [
+        "octo-policy",
+        "open-x-embodiment",
+        "openai-rt-2",
+        "openvla",
+        "robocat"
+      ]
+    },
+    {
+      "id": "palm-e",
+      "name": "PaLM-E (Embodied Multimodal Language Model)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "saycan-google"
+      ],
+      "descendants": [
+        "openai-rt-2",
+        "openvla"
+      ]
+    },
+    {
       "id": "diffusion-policy",
       "name": "Diffusion Policy",
       "year": "2023",
       "corpus": "academic",
-      "ancestors": [],
-      "descendants": []
+      "ancestors": [
+        "dmp-schaal-ijspeert",
+        "mason-mechanics-manipulation",
+        "schaal-imitation-1999"
+      ],
+      "descendants": [
+        "octo-policy",
+        "umi-stanford"
+      ]
     },
     {
       "id": "act-aloha",
       "name": "ACT (Action Chunking Transformer) / ALOHA",
       "year": "2023",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "dmp-schaal-ijspeert",
+        "schaal-imitation-1999"
+      ],
       "descendants": [
-        "mobile-aloha"
+        "mobile-aloha",
+        "umi-stanford"
       ]
     },
     {
@@ -1636,6 +2000,21 @@
       "descendants": []
     },
     {
+      "id": "robocat",
+      "name": "RoboCat (Self-Improving Generalist Agent)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "gato-deepmind",
+        "rt-1",
+        "vima"
+      ],
+      "descendants": [
+        "octo-policy",
+        "openvla"
+      ]
+    },
+    {
       "id": "fourier-gr1",
       "name": "Fourier GR-1",
       "year": "2023",
@@ -1650,10 +2029,15 @@
       "corpus": "academic",
       "ancestors": [
         "ex-machina-ava",
-        "pomerleau-alvinn"
+        "mason-mechanics-manipulation",
+        "palm-e",
+        "pomerleau-alvinn",
+        "rt-1",
+        "saycan-google"
       ],
       "descendants": [
         "open-x-embodiment",
+        "openvla",
         "physical-intelligence-pi-zero"
       ]
     },
@@ -1712,10 +2096,15 @@
       "year": "2023",
       "corpus": "academic",
       "ancestors": [
+        "gato-deepmind",
         "openai-rt-2",
-        "pomerleau-alvinn"
+        "pomerleau-alvinn",
+        "rt-1"
       ],
       "descendants": [
+        "droid-dataset",
+        "octo-policy",
+        "openvla",
         "physical-intelligence-pi-zero"
       ]
     },
@@ -1747,8 +2136,10 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [
+        "hwangbo-anymal-sim2real",
         "mcgeer-passive-walker",
-        "mini-cheetah"
+        "mini-cheetah",
+        "tan-quadruped-sim2real"
       ],
       "descendants": []
     },
@@ -1776,9 +2167,25 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [
-        "act-aloha"
+        "act-aloha",
+        "roetenberg-xsens-imu"
       ],
-      "descendants": []
+      "descendants": [
+        "droid-dataset"
+      ]
+    },
+    {
+      "id": "umi-stanford",
+      "name": "Universal Manipulation Interface (UMI)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "act-aloha",
+        "diffusion-policy"
+      ],
+      "descendants": [
+        "droid-dataset"
+      ]
     },
     {
       "id": "covariant-rfm",
@@ -1799,6 +2206,21 @@
       "descendants": []
     },
     {
+      "id": "droid-dataset",
+      "name": "DROID Dataset",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "mobile-aloha",
+        "open-x-embodiment",
+        "umi-stanford"
+      ],
+      "descendants": [
+        "octo-policy",
+        "openvla"
+      ]
+    },
+    {
       "id": "neura-4ne1",
       "name": "Neura 4NE-1",
       "year": "2024",
@@ -1814,6 +2236,40 @@
       "ancestors": [
         "mini-cheetah",
         "unitree-h1"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "octo-policy",
+      "name": "Octo (Open-Source Generalist Robot Policy)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "diffusion-policy",
+        "droid-dataset",
+        "open-x-embodiment",
+        "robocat",
+        "rt-1"
+      ],
+      "descendants": [
+        "openvla"
+      ]
+    },
+    {
+      "id": "openvla",
+      "name": "OpenVLA (Open-Source Vision-Language-Action Model)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "droid-dataset",
+        "gato-deepmind",
+        "octo-policy",
+        "open-x-embodiment",
+        "openai-rt-2",
+        "palm-e",
+        "robocat",
+        "rt-1",
+        "vima"
       ],
       "descendants": []
     },

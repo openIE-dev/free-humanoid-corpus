@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-zmp-balancing`
 
-**15 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1988-04
+Earliest disclosure: 1969
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Vukobratović Zero Moment Point (1969)
+
+- **id**: `vukobratovic-zmp`
+- **corpus**: academic
+- **creator**: Miomir Vukobratović and D. Juričić, Mihajlo Pupin Institute, Belgrade
+- **disclosure**: Vukobratović, Miomir and Juričić, D. 'Contribution to the synthesis of biped gait.' IEEE Transactions on Bio-Medical Engineering BME-16(1): 1-6, January 1969. Earlier conference: Vukobratović, M. and Juričić, D. 'Contribution to the synthesis of biped gait.' Proc. IFAC Symposium on Technical and Biological Problems of Control, Yerevan, 1968.
+- **ip status**: public-domain
+- **prior art notes**: Vukobratović's 1969 ZMP formulation is the foundational academic disclosure of dynamic-stability criteria for bipedal walking. Predates Honda P2 (1996) by 27 years and predates every modern humanoid bipedal patent at extraordinary depth. Anticipates with mathematical specificity: (1) the ZMP constraint as a sufficient condition for non-tipping bipedal gait — directly relevant to virtually every bipedal walking patent filed since 1990 (Honda, Sony, Toyota, every Asian humanoid program); (2) gait synthesis by ZMP-trajectory planning — relevant to claims on humanoid walking pattern generators (HRP series, ASIMO, NAO all use ZMP-derived planners); (3) the support polygon as the safety region for COM projection — relevant to claims on bipedal balance recovery. Heavily cited (>5000 citations); the ZMP concept has 13 books and several hundred papers as direct extensions. 57-year-deep 102 anchor against any bipedal-stability patent.
 
 ## AV-98 Ingram (1988-04)
 
@@ -42,6 +51,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Final Honda P-series prototype before ASIMO. Refinements to the P2 architecture; key continuity in the Honda prior art chain.
 
+## Goswami Foot Rotation Indicator (1999-12)
+
+- **id**: `goswami-fri`
+- **corpus**: academic
+- **creator**: Ambarish Goswami, INRIA Rhône-Alpes (later Honda Research Institute)
+- **disclosure**: Goswami, Ambarish. 'Postural stability of biped robots and the foot-rotation indicator (FRI) point.' International Journal of Robotics Research 18(6): 523-533, June 1999.
+- **ip status**: public-domain
+- **prior art notes**: Goswami's FRI is the canonical academic disclosure of an extended-ZMP stability indicator capable of quantifying impending foot-rotation. Anticipates: (1) graded stability metrics for bipedal walking that go beyond binary ZMP-inside/outside checks — relevant to claims on bipedal balance estimators in modern humanoids; (2) FRI as a continuous early-warning signal for tipping-onset — relevant to fall-prediction IP (every academic and commercial humanoid claiming 'fall prediction' or 'stability margin estimation' faces this); (3) the formal distinction between ZMP and FRI in non-quasi-static gaits — relevant to dynamic-walking control claims. Highly cited (>1000 citations); Goswami's later work at Honda Research Institute (Asimo group) extended this. 27-year-deep 102 anchor against bipedal-stability-monitoring IP.
+
 ## ASIMO (2000-10-31)
 
 - **id**: `asimo`
@@ -50,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Honda Motor Co. press conference, Tokyo, October 31, 2000.
 - **ip status**: patented
 - **prior art notes**: ASIMO's public disclosures and Honda's published papers anticipate most claimed innovations in modern bipedal humanoids. The Hirose/Ogawa 2007 Phil. Trans. paper is a particularly comprehensive disclosure that should be referenced when reading current humanoid patent claims.
+
+## Kajita Linear Inverted Pendulum Model (2001-10)
+
+- **id**: `kajita-lipm`
+- **corpus**: academic
+- **creator**: Shuuji Kajita, Fumio Kanehiro, Kenji Kaneko, Kazuhito Yokoi, Hirohisa Hirukawa; AIST National Institute of Advanced Industrial Science and Technology, Japan
+- **disclosure**: Kajita, Shuuji, Kanehiro, F., Kaneko, K., Yokoi, K., Hirukawa, H. 'The 3D Linear Inverted Pendulum Mode: A simple modeling for a biped walking pattern generation.' IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Maui HI, October 29-November 3, 2001: 239-246.
+- **ip status**: public-domain
+- **prior art notes**: Kajita's 3D-LIPM is the canonical academic disclosure of real-time humanoid walking pattern generation via reduced-order model. Anticipates: (1) the LIPM ẍ = (g/h)(x - p) reduction — directly relevant to claims on real-time bipedal pattern generation in essentially every academic and commercial humanoid since 2001 (HRP series, NAO, ASIMO derivatives, Atlas-class, Optimus, Figure 02 all use LIPM-derivative real-time planners); (2) preview-control-based ZMP tracking (Kajita-Kanehiro 2003 ICRA paper extending this) — relevant to model-predictive bipedal walking IP; (3) the constant-height constraint as a real-time-tractable simplification — relevant to humanoid walking-controller claims. Heavily cited (>4000 citations between LIPM 2001 and preview-control 2003 papers). Basis for the textbook Kajita et al. 'Introduction to Humanoid Robotics' (Springer 2014).
 
 ## HRP-2 (2002)
 

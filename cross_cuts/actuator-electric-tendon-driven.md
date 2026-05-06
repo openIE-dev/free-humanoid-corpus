@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-tendon-driven`
 
-**14 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pierre Jaquet-Droz, exhibited 1774 in La Chaux-de-Fonds; finished 1772. Documented in Chapuis, Alfred and Droz, Edmond. Automata: A Historical and Technological Study, Editions du Griffon, 1958. Currently held at Musée d'Art et d'Histoire, Neuchâtel.
 - **ip status**: public-domain
 - **prior art notes**: Programmable humanoid behavior with articulated finger movement, fully disclosed in 1772. The cam-disc system is functionally equivalent to a behavior-tree primitive: one disc encodes one character; the sequencing of discs produces arbitrary output. Anticipates: (1) programmable humanoid behavior via interchangeable behavior modules — directly relevant to modern claims on policy-modular humanoids; (2) precision finger articulation for writing — relevant to dexterous-fingertip patents; (3) closed-loop sensorimotor coordination (eye tracks hand) — directly relevant to claims on visuomotor control loops. The companion automata (The Musician with breathing motion, The Draughtsman with multiple drawings) extend this disclosure to keyboard playing and pencil sketching. Continuously exhibited since 1774; documented in Chapuis-Droz 1958 (the canonical reference).
+
+## Salisbury Stanford/JPL Hand (1982)
+
+- **id**: `salisbury-stanford-jpl-hand`
+- **corpus**: academic
+- **creator**: J. Kenneth Salisbury, Stanford University and JPL
+- **disclosure**: Salisbury, J. Kenneth. 'Kinematic and Force Analysis of Articulated Hands.' PhD Thesis, Stanford University, May 1982. Companion paper: Salisbury, J.K. and Craig, J.J. 'Articulated hands: Force control and kinematic issues.' International Journal of Robotics Research 1(1): 4-17, March 1982.
+- **ip status**: public-domain
+- **prior art notes**: Salisbury's 1982 thesis is the foundational academic disclosure of dexterous tendon-driven multi-finger hands with analytic grasp planning. Anticipates with mechanism-level specificity: (1) N+1 antagonistic tendon architecture for fingers — directly relevant to claims on tendon-driven humanoid hand actuators (Tesla Optimus hand, Figure hand, 1X hand); (2) the grasp matrix G and grip Jacobian formalism — anticipates virtually every modern grasp-planning patent; (3) force-closure analysis for grasp synthesis — relevant to grasp-search IP; (4) per-finger stiffness control — relevant to compliant-grasp claims. Salisbury later co-developed the PHANToM haptic device using the same kinematic framework. Thesis publicly available through Stanford Libraries; the IJRR companion paper has >2000 citations. 44-year-deep 102 anchor.
 
 ## Major Motoko Kusanagi (Ghost in the Shell) (1989-05-22)
 
