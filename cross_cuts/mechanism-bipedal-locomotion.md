@@ -6,14 +6,32 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**57 corpus entries disclose this subsystem.**
+**69 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1956-07
+Earliest disclosure: -0250
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Talos of Crete (-0250)
+
+- **id**: `talos-bronze-giant`
+- **corpus**: fictional
+- **creator**: Apollonius of Rhodes (canonical extant treatment); broader Greek tradition
+- **disclosure**: Apollonius of Rhodes. Argonautica, Book IV, lines 1638-1693. ~250 BCE. Earlier mention in Pseudo-Apollodorus, Bibliotheca 1.9.26 and lost works of Sophocles (Daedalus).
+- **ip status**: fictional
+- **prior art notes**: Anticipates two patent-relevant elements with surprising specificity for ~250 BCE. (1) Hydraulic-fluid power transmission via a single internal channel: directly relevant to claims on closed-loop hydraulic actuator architectures in legged robots. (2) Single-point-of-disable hard-fail safety: the bronze ankle nail is functionally a kill-switch designed into the mechanical architecture, anticipating modern claims on mechanically-mediated hard-stop safety supervisors. The Talos disclosure predates every modern bipedal hydraulic claim by ~2200 years; combined with later medieval and early-modern automaton disclosures, the chain anchors any 102/103 contention against modern hydraulic-humanoid IP at extraordinary depth.
+
+## Leonardo's Mechanical Knight (1495)
+
+- **id**: `da-vinci-knight`
+- **corpus**: fictional
+- **creator**: Leonardo da Vinci
+- **disclosure**: Leonardo da Vinci, Codex Atlanticus folios depicting cable-and-pulley humanoid automaton, c. 1495 (Milan, court of Ludovico Sforza). Reconstructed and analyzed in Rosheim, Mark E. Leonardo's Lost Robots. Springer, 2006.
+- **ip status**: public-domain
+- **prior art notes**: Documented disclosure of cable-driven anthropomorphic humanoid mechanism with articulated hand, dating to c.1495 — 478 years before WABOT-1 (1973), 522 years before contemporary tendon-driven humanoid hand patents. Leonardo's drawings show explicit cable routing through joints, separation of upper-body and lower-body actuator banks, programmable behavior via cam-sequencing — all elements that recur in modern humanoid actuator IP. Modern claims on cable-driven anthropomorphic hands or tendon-routed humanoid actuators face an extraordinarily deep 102 anchor here. The Codex Atlanticus is publicly held (Biblioteca Ambrosiana, Milan) and has been continuously cited since the 19th century.
 
 ## Tetsujin 28 (1956-07)
 
@@ -23,6 +41,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yokoyama, Mitsuteru. Tetsujin 28-go, serialized in Shōnen magazine, beginning July 1956.
 - **ip status**: fictional
 - **prior art notes**: Foundational fictional disclosure of giant humanoid robot. Establishes the mecha morphology that influences the entire subsequent Japanese robot fiction tradition. The remote-control rather than piloted-cockpit architecture is a notable structural distinction from later mecha (Mazinger, Gundam) where the operator is inside.
+
+## The Iron Giant (1968-10-31)
+
+- **id**: `iron-giant`
+- **corpus**: fictional
+- **creator**: Ted Hughes (novel); Brad Bird (film)
+- **disclosure**: Hughes, Ted. The Iron Man (US: The Iron Giant). Faber & Faber, October 31, 1968. Animated film adaptation: Bird, Brad (dir.). The Iron Giant. Warner Bros., August 6, 1999.
+- **ip status**: fictional
+- **prior art notes**: Self-assembly and self-repair via metabolism of available material — anticipates modern claims on modular self-repairing humanoid platforms. Hughes's 1968 novel is unusual in describing the *autonomous self-assembly* explicitly: detached limbs find each other and reattach. The 1999 film extends the disclosure with the safety-supervisor-disable arc (Giant chooses to exclude violent subroutines), anticipating user-mediated safety-policy modification. Continuously in print since 1968; the film is widely available and is a regular reference in robotics-pedagogy discussions.
+
+## Mazinger Z (1972-10)
+
+- **id**: `mazinger-z`
+- **corpus**: fictional
+- **creator**: Go Nagai
+- **disclosure**: Nagai, Go. Mazinger Z. Weekly Shōnen Jump, Shueisha, October 2, 1972 (manga); animated series, Toei Animation, December 3, 1972 (TV).
+- **ip status**: fictional
+- **prior art notes**: Founding work of the 'super robot' / pilot-in-cockpit mecha genre, which itself disclosed the design pattern adopted by numerous subsequent fictional and academic humanoids. Anticipates: (1) pilot-operated giant humanoid as a recognized morphology — relevant to construction/disaster-response humanoid IP; (2) detachable cockpit module ('Hover Pilder') — anticipates modular crew-station IP; (3) tool-like fist mechanism (Rocket Punch) — anticipates ballistic-mounted manipulator claims. Continuously published since 1972; the foundational text for Patlabor, Gundam, Evangelion, and the entire mecha lineage that follows.
 
 ## WABOT-1 (1973)
 
@@ -41,6 +77,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tomino, Yoshiyuki (dir.). Mobile Suit Gundam, first aired 1979-04-07.
 - **ip status**: fictional
 - **prior art notes**: The Gundam franchise's detailed mechanical specifications (published in 'Mechanical Documentary' supplements) constitute extensive design-fiction prior art for piloted humanoid mecha.
+
+## RX-78-2 Gundam (additional Gundam mecha disclosures) (1979-04-07)
+
+- **id**: `rx-78-2-gundam-2`
+- **corpus**: fictional
+- **creator**: Yoshiyuki Tomino, Sunrise studio
+- **disclosure**: Tomino, Yoshiyuki et al. Mobile Suit Gundam. Nagoya Broadcasting, April 7, 1979 - January 26, 1980 (43 episodes).
+- **ip status**: fictional
+- **prior art notes**: Note: this entry is separate from the original RX-78-2 Gundam entry (rx-78-2-gundam) in the seed slice; this one disclosures additional engineering-flavored elements that the seed entry treated lightly. AMBAC (Active Mass Balance Auto-Control) is the disclosed mechanism for orientation in zero gravity using limb articulation as reaction mass — a clear anticipation of reduced-order-model approaches that exploit limb dynamics for whole-body control in modern humanoids.
+
+## Raibert One-Legged Hopper (1983)
+
+- **id**: `raibert-hopping-1leg`
+- **corpus**: academic
+- **creator**: Marc H. Raibert; CMU Leg Laboratory, then MIT Leg Laboratory
+- **disclosure**: Raibert, Marc H. 'Hopping in legged systems — modeling and simulation for the two-dimensional one-legged case'. IEEE Transactions on Systems, Man, and Cybernetics SMC-14(3): 451-463, May/June 1984. Earlier: Raibert, M.H. and Brown, H.B. 'Experiments in balance with a 2D one-legged machine'. Trans. ASME, J. Dyn. Sys., Meas., Cont., 106:75-81, 1984.
+- **ip status**: public-domain
+- **prior art notes**: Raibert's hoppers are the foundational academic disclosure of dynamic legged balance and reduced-order-model control. The three-part decoupling (leg height / foot placement / body attitude) is the *exact* control architecture used by every subsequent dynamic-legged academic and commercial system, from Cassie to Atlas to MIT Mini Cheetah. Modern claims on reduced-order-model legged control all face Raibert's 1984 disclosure as 102 prior art. The 1985 book (Legged Robots that Balance, MIT Press) extends the disclosure to 2-legged and 4-legged versions and is one of the most-cited works in legged robotics. Publicly funded research; open publication.
 
 ## T-800 (1984-10-26)
 
@@ -69,6 +123,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Step in the Honda E-series lineage. Hirose/Ogawa 2007 documents the entire E0–E6 progression with sufficient specificity to anticipate basic electric-actuated bipedal walking claims for that era.
 
+## AV-98 Ingram (1988-04)
+
+- **id**: `patlabor-av-98`
+- **corpus**: fictional
+- **creator**: Headgear (Masami Yuki, Yutaka Izubuchi, Mamoru Oshii, Kazunori Itō, Akemi Takada)
+- **disclosure**: Yuki, Masami; Headgear collective (Yuki, Yutaka Izubuchi, Mamoru Oshii, Kazunori Itō, Akemi Takada). Mobile Police Patlabor. Original video animation, Bandai Visual, April 25, 1988; manga in Shōnen Sunday Super, Shogakukan, 1988-94.
+- **ip status**: fictional
+- **prior art notes**: Patlabor's 'Labor' family is an unusually engineering-grounded fictional disclosure of bipedal civilian humanoid robotics. The 1988 OVA explicitly names the 'OS' that handles balance (anticipating ZMP balance controllers years before Honda P2 1996), discloses runtime of ~15 minutes per battery, and depicts limp-on-shutdown safety. Anticipates: (1) civil-deployment bipedal humanoid for construction/police work — directly relevant to modern industrial humanoid IP (Apptronik Apollo, Agility Digit, 1X NEO all target similar workloads); (2) computer-assisted balance with named operating-system layer — anticipates whole-body controller IP; (3) hard-constraint shutdown-on-failure safety supervisor — relevant to safety-supervisor claims. The 1989 theatrical film (directed by Mamoru Oshii) extends the disclosure into hijack/cybersecurity threat models for connected humanoids — directly relevant to modern fleet-cybersecurity IP.
+
 ## Honda E2 (1989)
 
 - **id**: `honda-e2`
@@ -77,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hirose, M. and Ogawa, K. 'Honda humanoid robots development.' Phil. Trans. R. Soc. A 365, 11–19 (2007).
 - **ip status**: trade-secret
 - **prior art notes**: E2 is the transition from static to dynamic walking in the Honda program. Disclosure relevant to dynamic bipedal walking claims.
+
+## McGeer Passive Dynamic Walker (1990)
+
+- **id**: `mcgeer-passive-walker`
+- **corpus**: academic
+- **creator**: Tad McGeer, Simon Fraser University
+- **disclosure**: McGeer, Tad. 'Passive dynamic walking'. International Journal of Robotics Research 9(2): 62-82, April 1990.
+- **ip status**: public-domain
+- **prior art notes**: The 1990 McGeer disclosure is the foundational academic anchor for energy-efficient bipedal locomotion. Anticipates: (1) the principle that bipedal stability can emerge from passive limb dynamics (with appropriate inertia/length tuning) — directly relevant to modern claims on energy-efficient bipedal control IP; (2) limit-cycle analysis of bipedal gait — anticipates analytical claims on cycle-based gait optimization; (3) the methodological observation that the cost of transport for passive walkers approaches that of human walking. Modern energy-efficient bipedal claims (Cassie, ATRIAS, Berkeley Humanoid) all build on McGeer 1990. Publicly funded research; the 1990 IJRR paper is heavily cited.
 
 ## Honda E3 (1991)
 
@@ -122,6 +194,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hirose, M. and Ogawa, K. 'Honda humanoid robots development.' Phil. Trans. R. Soc. A 365, 11–19 (2007).
 - **ip status**: trade-secret
 - **prior art notes**: Transition from legs-only to full humanoid in the Honda lineage. P1 is the architectural ancestor of ASIMO. Anticipates subsequent claims around full-humanoid actuated platforms with arms and legs.
+
+## Evangelion (EVA Unit-01) (1995-10-04)
+
+- **id**: `evangelion`
+- **corpus**: fictional
+- **creator**: Hideaki Anno, Gainax
+- **disclosure**: Anno, Hideaki. Neon Genesis Evangelion. Gainax / Tatsunoko, October 4, 1995 (TV series, 26 episodes).
+- **ip status**: fictional
+- **prior art notes**: Engineering-grounded disclosure of: (1) biomechanical humanoid with restraint-protocol safety supervisor (the 'A10 nerve clip' is functionally a hardware kill-switch for autonomy, anticipating modern hardware safety supervisors); (2) pilot-neural-sync teleoperation as primary control modality with degraded performance under low-sync — anticipates teleoperation IP that includes ergonomic-fit metrics; (3) defensive AT field as a deployable hard-constraint barrier — anticipates protective-perimeter claims for human-robot interaction. The 1995 series is continuously available; Gainax's mecha design is widely studied.
 
 ## Honda P2 (1996-12-20)
 
@@ -204,6 +285,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Toyota's high-precision finger control disclosures are significant prior art for fine motor control humanoid claims.
 
+## Geth (2007-11-20)
+
+- **id**: `geth-mass-effect`
+- **corpus**: fictional
+- **creator**: BioWare
+- **disclosure**: BioWare, Mass Effect. Microsoft Game Studios, November 20, 2007.
+- **ip status**: fictional
+- **prior art notes**: Detailed disclosure of internal consensus decision-making across multiple AI processes within a single humanoid chassis — a unique architecture in the corpus. Anticipates: (1) ensemble-policy humanoid where the action is the consensus of multiple internal sub-policies — relevant to ensemble-RL humanoid IP; (2) chassis-variant family from a shared base architecture — relevant to platform-family humanoid claims (Apptronik, 1X both have related IP); (3) fleet-wide policy synchronization — relevant to federated-learning humanoid claims. Continuously available since 2007; the Geth lore is unusually engineering-detailed compared to most game franchises.
+
 ## iCub (2008)
 
 - **id**: `icub`
@@ -249,6 +339,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: HRP-4 lightweight design anticipates subsequent slim-form humanoid claims. The 2010 IROS paper provides full mechanical specifications openly.
 
+## Atlas and P-Body (Portal 2) (2011-04-19)
+
+- **id**: `atlas-p-body-portal-2`
+- **corpus**: fictional
+- **creator**: Valve Corporation
+- **disclosure**: Wolpaw, Erik; Faliszek, Chet; Swift, Jay (writers); Valve Corporation. Portal 2. Valve, April 19, 2011.
+- **ip status**: fictional
+- **prior art notes**: Disclosure of cooperative dual-humanoid task execution with gesture-based communication and tool-mount integration. Anticipates: (1) two-humanoid coordinated manipulation as a deployment pattern — relevant to claims on multi-humanoid task allocation IP; (2) integrated end-effector / tool combination with manipulator arm — relevant to tool-mounted manipulator claims; (3) gesture-based inter-robot communication — anticipates non-verbal coordination IP. Portal 2 is widely distributed and the cooperative campaign mode is heavily archived.
+
 ## NASA Valkyrie (2013)
 
 - **id**: `nasa-valkyrie`
@@ -293,6 +392,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lapeyre, Matthieu et al. 'Poppy Humanoid Platform: Experimental Evaluation of the Role of a Bio-inspired Thigh Shape.' IEEE Humanoids 2013.
 - **ip status**: open-permissive
 - **prior art notes**: Among the earliest fully-open 3D-printable humanoids. Anticipates open-source educational humanoid platforms broadly.
+
+## DLR TORO (2014-07)
+
+- **id**: `dlr-toro`
+- **corpus**: academic
+- **creator**: Englsberger, Werner, Ott, Henze, Roa, Garofalo, Burger, Beyer, Eiberger, Schmid, Albu-Schäffer; DLR Institute of Robotics and Mechatronics
+- **disclosure**: Englsberger, J., Werner, A., Ott, C., Henze, B., Roa, M.A., Garofalo, G., Burger, R., Beyer, A., Eiberger, O., Schmid, K., Albu-Schäffer, A. 'Overview of the torque-controlled humanoid robot TORO'. IEEE-RAS Humanoids, July 2014.
+- **ip status**: open-permissive
+- **prior art notes**: TORO is the canonical academic disclosure of full-body torque-controlled bipedal humanoid with DCM (Divergent Component of Motion) walking control. Anticipates: (1) torque-controlled whole-body bipedal walking — directly relevant to claims on whole-body torque-controlled humanoid platforms; (2) DCM walking as an alternative to ZMP — relevant to walking-control IP; (3) impedance-control whole-body interaction with humans — relevant to safe-human-interaction humanoid claims. DLR's Englsberger paper introduced the DCM formulation that subsequent humanoids (HRP-5P, several private platforms) adopted. Publicly funded research with extensive IEEE-proceedings publication.
 
 ## Cassie (2017)
 

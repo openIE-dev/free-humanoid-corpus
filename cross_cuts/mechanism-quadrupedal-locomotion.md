@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-quadrupedal-locomotion`
 
-**10 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1999-05-11
+Earliest disclosure: 1968-09-27
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## GE Quadruped Transporter (Walking Truck) (1968-09-27)
+
+- **id**: `ge-walking-truck`
+- **corpus**: academic
+- **creator**: Ralph S. Mosher and team, General Electric Research Laboratory, Schenectady NY
+- **disclosure**: Mosher, Ralph S. 'Test and evaluation of a versatile walking truck.' General Electric Schenectady Research Lab Report, September 1968. Published abstract: Mosher, R.S. 'Exploring the potential of a quadruped'. Society of Automotive Engineers, January 1969 (Detroit Engineering Show, Paper 690191).
+- **ip status**: public-domain
+- **prior art notes**: The GE Walking Truck is the deepest hydraulic legged-locomotion academic disclosure in the corpus and substantially predates everything in the modern legged-robotics commercial portfolio. Mosher's 1968 SAE paper discloses with full specificity: (1) hydraulic actuation per leg with 3-DOF — anticipates hydraulic legged claims by Boston Dynamics (BigDog 2005) by 37 years; (2) master-slave kinesthetic teleoperation with force feedback — anticipates teleoperation claims for legged systems; (3) 1500 kg payload legged loadbearing — anticipates legged-loadbearing claims (Boston Dynamics LS3, Ghost Robotics Vision 60); (4) 90 hp combustion engine power source for legged locomotion. Modern claims on hydraulic / combustion-powered legged loadbearing all face this 1968 disclosure as 102 prior art at unusual depth. Publicly funded research, openly published.
 
 ## Sony AIBO (1999-05-11)
 
@@ -32,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Seok, S. et al. 'Design principles for energy-efficient legged locomotion and implementation on the MIT Cheetah robot.' IEEE/ASME Transactions on Mechatronics 20(3), 2015. Earlier ICRA 2013 disclosure.
 - **ip status**: open-permissive
 - **prior art notes**: First-generation MIT Cheetah established the design principles for high-torque electric quadrupeds. Seok 2015 T-Mech paper provides foundational design-principles disclosure that anticipates many subsequent legged-robot actuation claims.
+
+## Cheetah-cub (2013-12)
+
+- **id**: `cheetah-cub-epfl`
+- **corpus**: academic
+- **creator**: Spröwitz, Tuleu, Vespignani, Ajallooeian, Badri, Ijspeert; EPFL Biorobotics Laboratory
+- **disclosure**: Spröwitz, A., Tuleu, A., Vespignani, M., Ajallooeian, M., Badri, E., Ijspeert, A.J. 'Towards dynamic trot gait locomotion: Design, control, and experiments with Cheetah-cub, a compliant quadruped robot'. International Journal of Robotics Research 32(8): 932-950, December 2013.
+- **ip status**: open-permissive
+- **prior art notes**: Cheetah-cub is one of the earliest open-source compliant compact quadruped academic disclosures. Anticipates: (1) compact open-source compliant quadruped — directly relevant to modern claims on small commercial quadrupeds (Unitree Go1, Boston Dynamics Spot Mini class); (2) parametric CPG-based gait control on a real platform — relevant to bio-inspired locomotion claims; (3) pantograph-leg mechanism as a compliant-footed quadruped architecture — relevant to compliant-leg quadruped IP. The 2013 IJRR paper and open-source EPFL releases provide deep prior art for modern commercial compact quadrupeds.
 
 ## MIT Cheetah 2 (2014)
 

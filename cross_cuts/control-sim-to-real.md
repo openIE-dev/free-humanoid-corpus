@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-sim-to-real`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2016
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Agility Robotics / Oregon State University Cassie release, 2017.
 - **ip status**: patented
 - **prior art notes**: Cassie and the broader Hurst lab work on reduced-order locomotion models is significant prior art for bipedal control claims industry-wide.
+
+## OpenAI Dactyl (2018-07-30)
+
+- **id**: `openai-dactyl`
+- **corpus**: academic
+- **creator**: Andrychowicz, Akkaya, Mordatch, Plappert, Petron, Powell, Wong, Schneider, Tezak, Tobin, et al.; OpenAI
+- **disclosure**: Andrychowicz, M. et al. 'Learning Dexterous In-Hand Manipulation'. arXiv:1808.00177, July 30, 2018; OpenAI. Akkaya, I. et al. 'Solving Rubik's Cube with a Robot Hand'. arXiv:1910.07113, October 16, 2019.
+- **ip status**: open-permissive
+- **prior art notes**: Dactyl is the foundational academic disclosure of large-scale sim-to-real RL for in-hand dexterous manipulation. Anticipates: (1) zero-shot policy transfer from massively-randomized simulation to real hardware — directly relevant to claims on sim-to-real humanoid manipulation IP (every modern humanoid hand uses this paradigm); (2) automatic domain randomization (ADR) as a self-tuning training procedure — relevant to claims on adaptive-randomization training; (3) LSTM-based policies for partial-observability manipulation — relevant to recurrent-policy IP. OpenAI's open-source code release plus the arXiv preprints provide deep prior art coverage. Modern in-hand-manipulation claims face this 2018-2019 anchor.
 
 ## Open X-Embodiment (2023-10)
 

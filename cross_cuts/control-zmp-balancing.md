@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-zmp-balancing`
 
-**13 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1996-12-20
+Earliest disclosure: 1988-04
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## AV-98 Ingram (1988-04)
+
+- **id**: `patlabor-av-98`
+- **corpus**: fictional
+- **creator**: Headgear (Masami Yuki, Yutaka Izubuchi, Mamoru Oshii, Kazunori Itō, Akemi Takada)
+- **disclosure**: Yuki, Masami; Headgear collective (Yuki, Yutaka Izubuchi, Mamoru Oshii, Kazunori Itō, Akemi Takada). Mobile Police Patlabor. Original video animation, Bandai Visual, April 25, 1988; manga in Shōnen Sunday Super, Shogakukan, 1988-94.
+- **ip status**: fictional
+- **prior art notes**: Patlabor's 'Labor' family is an unusually engineering-grounded fictional disclosure of bipedal civilian humanoid robotics. The 1988 OVA explicitly names the 'OS' that handles balance (anticipating ZMP balance controllers years before Honda P2 1996), discloses runtime of ~15 minutes per battery, and depicts limp-on-shutdown safety. Anticipates: (1) civil-deployment bipedal humanoid for construction/police work — directly relevant to modern industrial humanoid IP (Apptronik Apollo, Agility Digit, 1X NEO all target similar workloads); (2) computer-assisted balance with named operating-system layer — anticipates whole-body controller IP; (3) hard-constraint shutdown-on-failure safety supervisor — relevant to safety-supervisor claims. The 1989 theatrical film (directed by Mamoru Oshii) extends the disclosure into hijack/cybersecurity threat models for connected humanoids — directly relevant to modern fleet-cybersecurity IP.
 
 ## Honda P2 (1996-12-20)
 
@@ -122,6 +131,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: PAL Robotics REEM-C release, 2013.
 - **ip status**: patented
 - **prior art notes**: REEM-C distributed to multiple research labs; design characteristics openly published.
+
+## DLR TORO (2014-07)
+
+- **id**: `dlr-toro`
+- **corpus**: academic
+- **creator**: Englsberger, Werner, Ott, Henze, Roa, Garofalo, Burger, Beyer, Eiberger, Schmid, Albu-Schäffer; DLR Institute of Robotics and Mechatronics
+- **disclosure**: Englsberger, J., Werner, A., Ott, C., Henze, B., Roa, M.A., Garofalo, G., Burger, R., Beyer, A., Eiberger, O., Schmid, K., Albu-Schäffer, A. 'Overview of the torque-controlled humanoid robot TORO'. IEEE-RAS Humanoids, July 2014.
+- **ip status**: open-permissive
+- **prior art notes**: TORO is the canonical academic disclosure of full-body torque-controlled bipedal humanoid with DCM (Divergent Component of Motion) walking control. Anticipates: (1) torque-controlled whole-body bipedal walking — directly relevant to claims on whole-body torque-controlled humanoid platforms; (2) DCM walking as an alternative to ZMP — relevant to walking-control IP; (3) impedance-control whole-body interaction with humans — relevant to safe-human-interaction humanoid claims. DLR's Englsberger paper introduced the DCM formulation that subsequent humanoids (HRP-5P, several private platforms) adopted. Publicly funded research with extensive IEEE-proceedings publication.
 
 ## UBTech Walker (2018-01)
 

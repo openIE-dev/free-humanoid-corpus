@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `power-li-ion`
 
-**55 corpus entries disclose this subsystem.**
+**56 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1992
+Earliest disclosure: 1886
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Hadaly (L'Ève future) (1886)
+
+- **id**: `l-eve-future`
+- **corpus**: fictional
+- **creator**: Auguste Villiers de l'Isle-Adam
+- **disclosure**: Villiers de l'Isle-Adam, Auguste. L'Ève future. Brunhoff, Paris, 1886.
+- **ip status**: fictional
+- **prior art notes**: The first detailed engineering disclosure of a female-form electromechanical humanoid in Western literature. Anticipates with specific mechanism: (1) electromotor-per-joint articulation — directly relevant to modern direct-drive humanoid claims, predating Honda E0 (1986) by exactly 100 years; (2) battery-powered humanoid speech synthesis using phonograph audio playback driven by speech recognition keywords — anticipates speech-triggered behavior selection in conversational humanoids, an arguable precursor to multimodal vision-language-action policy by 137 years; (3) compliant skin with sensor capillaries — anticipates whole-body tactile sensing claims; (4) seven-hour battery runtime — claims modern operational duration as a known design target in 1886. The novel was favorably reviewed and continuously in print since 1886; English translation (Forge of Tomorrow, also Tomorrow's Eve) widely studied in academic SF/cyborg theory courses. Strong specificity supports 102 anticipation arguments.
 
 ## Honda E5 (1992)
 

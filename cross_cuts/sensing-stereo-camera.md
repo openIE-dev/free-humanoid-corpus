@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `sensing-stereo-camera`
 
-**54 corpus entries disclose this subsystem.**
+**57 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1973
 
@@ -23,6 +23,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kato, Ichiro et al. 'Information-Power Machine with Senses and Limbs (WABOT-1).' Proceedings of First CISM-IFToMM Symposium on Theory and Practice of Robots and Manipulators, 1973.
 - **ip status**: public-domain
 - **prior art notes**: First full-scale humanoid in academic record. Anticipates virtually every subsystem of modern humanoids at concept level: bipedal locomotion, bimanual manipulation, multimodal sensing, natural language interface. Specific implementations are crude by modern standards but the architectural decomposition is foundational.
+
+## ALVINN (Autonomous Land Vehicle in a Neural Network) (1989)
+
+- **id**: `pomerleau-alvinn`
+- **corpus**: academic
+- **creator**: Dean Pomerleau; Carnegie Mellon University Robotics Institute
+- **disclosure**: Pomerleau, Dean A. 'ALVINN: An Autonomous Land Vehicle in a Neural Network'. NIPS 1988 (December 1988); published in Touretzky, D.S. (ed.), Advances in Neural Information Processing Systems 1: 305-313, Morgan Kaufmann, 1989.
+- **ip status**: public-domain
+- **prior art notes**: Pomerleau's ALVINN is the foundational academic disclosure of end-to-end vision-to-action neural network policies — the architectural pattern that modern VLA models implement at scale. Anticipates: (1) end-to-end vision-to-action neural policy as a deployable control architecture — directly relevant to RT-1, RT-2, OpenVLA, Octo, and every subsequent foundation-model-policy claim; (2) training data augmentation via simulated variation — relevant to sim-to-real claims; (3) deploying neural policies on real-world hardware — relevant to deployment-on-robot patents. The 1989 NIPS paper and subsequent CMU technical reports establish the lineage that culminates in modern VLA systems. Modern VLA claims face this 35-year academic anchor as 102 prior art.
+
+## Robonaut 1 (1996)
+
+- **id**: `robonaut-1`
+- **corpus**: academic
+- **creator**: Robert O. Ambrose, Myron A. Diftler, et al.; NASA Johnson Space Center, with DARPA
+- **disclosure**: Diftler, M.A., Ambrose, R.O. 'Robonaut: A Robotic Astronaut Assistant'. International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS) 2001 (consolidated paper); earlier disclosures NASA JSC 1996 onwards.
+- **ip status**: public-domain
+- **prior art notes**: Robonaut 1 is the academic predecessor to Robonaut 2 and the deepest NASA-side disclosure of humanoid platform IP for space applications. Anticipates: (1) torso-only humanoid form factor for collaborative work with humans — relevant to current commercial torso-only humanoid claims; (2) VR teleoperation with force-feedback gloves as the operator interface — relevant to teleoperation IP; (3) tendon-driven anthropomorphic hands integrated with harmonic-drive arms — relevant to integrated-hand-arm claims. NASA JSC publications and i-SAIRAS proceedings are publicly accessible. Modern humanoid hand claims face this 1996 academic anchor.
 
 ## Sony AIBO (1999-05-11)
 
@@ -113,6 +131,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wyrobek, K.A. et al. 'Towards a Personal Robotics Development Platform: Rationale and Design of an Intrinsically Safe Personal Robot.' ICRA 2008.
 - **ip status**: open-permissive
 - **prior art notes**: PR1 is significant prior art for safety-by-design humanoid robotics. Cable-driven intrinsically-safe architecture anticipates several modern compliant-actuator humanoid claims.
+
+## DLR Justin (Rollin' Justin) (2009-05)
+
+- **id**: `dlr-justin`
+- **corpus**: academic
+- **creator**: Borst, Wimboeck, Schmidt, Fuchs, Brunner, Zacharias, Giordano, Konietschke, Sepp, Fuchs, Rink, Albu-Schäffer, Hirzinger; DLR Institute of Robotics and Mechatronics
+- **disclosure**: Borst, C., Wimboeck, T., Schmidt, F., Fuchs, M., Brunner, B., Zacharias, F., Giordano, P. R., Konietschke, R., Sepp, W., Fuchs, S., Rink, C., Albu-Schäffer, A., Hirzinger, G. 'Rollin' Justin — Mobile platform with variable base'. IEEE ICRA, May 2009.
+- **ip status**: open-permissive
+- **prior art notes**: Justin is the canonical academic disclosure of wheeled humanoid mobile manipulation with full impedance control. Anticipates and provides extensive prior art for: (1) wheeled humanoid platform for service tasks — relevant to claims on wheeled humanoid IP (Diligent Moxi, NEXTAGE follow this paradigm); (2) torque-controlled dual-arm coordination — relevant to bimanual humanoid manipulation IP; (3) variable-wheelbase mobile base — relevant to morphology-changing wheeled platform claims. DLR has published Justin disclosures in ICRA, IROS, Humanoids continuously since 2009. Modern wheeled humanoid claims face this deep academic anchor.
 
 ## DARwIn-OP (2010)
 

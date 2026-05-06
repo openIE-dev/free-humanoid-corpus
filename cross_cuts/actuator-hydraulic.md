@@ -6,14 +6,50 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**6 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1973
+Earliest disclosure: -0250
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Talos of Crete (-0250)
+
+- **id**: `talos-bronze-giant`
+- **corpus**: fictional
+- **creator**: Apollonius of Rhodes (canonical extant treatment); broader Greek tradition
+- **disclosure**: Apollonius of Rhodes. Argonautica, Book IV, lines 1638-1693. ~250 BCE. Earlier mention in Pseudo-Apollodorus, Bibliotheca 1.9.26 and lost works of Sophocles (Daedalus).
+- **ip status**: fictional
+- **prior art notes**: Anticipates two patent-relevant elements with surprising specificity for ~250 BCE. (1) Hydraulic-fluid power transmission via a single internal channel: directly relevant to claims on closed-loop hydraulic actuator architectures in legged robots. (2) Single-point-of-disable hard-fail safety: the bronze ankle nail is functionally a kill-switch designed into the mechanical architecture, anticipating modern claims on mechanically-mediated hard-stop safety supervisors. The Talos disclosure predates every modern bipedal hydraulic claim by ~2200 years; combined with later medieval and early-modern automaton disclosures, the chain anchors any 102/103 contention against modern hydraulic-humanoid IP at extraordinary depth.
+
+## GE Quadruped Transporter (Walking Truck) (1968-09-27)
+
+- **id**: `ge-walking-truck`
+- **corpus**: academic
+- **creator**: Ralph S. Mosher and team, General Electric Research Laboratory, Schenectady NY
+- **disclosure**: Mosher, Ralph S. 'Test and evaluation of a versatile walking truck.' General Electric Schenectady Research Lab Report, September 1968. Published abstract: Mosher, R.S. 'Exploring the potential of a quadruped'. Society of Automotive Engineers, January 1969 (Detroit Engineering Show, Paper 690191).
+- **ip status**: public-domain
+- **prior art notes**: The GE Walking Truck is the deepest hydraulic legged-locomotion academic disclosure in the corpus and substantially predates everything in the modern legged-robotics commercial portfolio. Mosher's 1968 SAE paper discloses with full specificity: (1) hydraulic actuation per leg with 3-DOF — anticipates hydraulic legged claims by Boston Dynamics (BigDog 2005) by 37 years; (2) master-slave kinesthetic teleoperation with force feedback — anticipates teleoperation claims for legged systems; (3) 1500 kg payload legged loadbearing — anticipates legged-loadbearing claims (Boston Dynamics LS3, Ghost Robotics Vision 60); (4) 90 hp combustion engine power source for legged locomotion. Modern claims on hydraulic / combustion-powered legged loadbearing all face this 1968 disclosure as 102 prior art at unusual depth. Publicly funded research, openly published.
+
+## The Vision (1968-10)
+
+- **id**: `vision-marvel`
+- **corpus**: fictional
+- **creator**: Roy Thomas and John Buscema
+- **disclosure**: Thomas, Roy and Buscema, John. The Avengers #57. Marvel Comics, October 1968.
+- **ip status**: fictional
+- **prior art notes**: Density-modulating humanoid mechanism. The 'phase through walls' and 'become diamond-hard' modes are functionally a disclosure of variable-stiffness humanoid material — anticipates modern variable-impedance / variable-compliance humanoid IP. Continuously in print since 1968; widely indexed.
+
+## Mazinger Z (1972-10)
+
+- **id**: `mazinger-z`
+- **corpus**: fictional
+- **creator**: Go Nagai
+- **disclosure**: Nagai, Go. Mazinger Z. Weekly Shōnen Jump, Shueisha, October 2, 1972 (manga); animated series, Toei Animation, December 3, 1972 (TV).
+- **ip status**: fictional
+- **prior art notes**: Founding work of the 'super robot' / pilot-in-cockpit mecha genre, which itself disclosed the design pattern adopted by numerous subsequent fictional and academic humanoids. Anticipates: (1) pilot-operated giant humanoid as a recognized morphology — relevant to construction/disaster-response humanoid IP; (2) detachable cockpit module ('Hover Pilder') — anticipates modular crew-station IP; (3) tool-like fist mechanism (Rocket Punch) — anticipates ballistic-mounted manipulator claims. Continuously published since 1972; the foundational text for Patlabor, Gundam, Evangelion, and the entire mecha lineage that follows.
 
 ## WABOT-1 (1973)
 
@@ -33,6 +69,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Gundam franchise's detailed mechanical specifications (published in 'Mechanical Documentary' supplements) constitute extensive design-fiction prior art for piloted humanoid mecha.
 
+## Ash (Alien) (1979-05-25)
+
+- **id**: `ash-alien`
+- **corpus**: fictional
+- **creator**: Dan O'Bannon, Ronald Shusett (writers); Ridley Scott (director); Hyperdyne Systems (in-fiction manufacturer)
+- **disclosure**: Scott, Ridley (dir.); O'Bannon, Dan and Shusett, Ronald (writers). Alien. Twentieth Century Fox, May 25, 1979.
+- **ip status**: fictional
+- **prior art notes**: Earlier disclosure than Bishop (Aliens, 1986) of the hidden-override-directive architecture in a human-passing humanoid. Anticipates: (1) safety supervisor with operator-invisible override conditions (the supervisor enforces directives the operator cannot inspect or modify) — directly relevant to claims on tamper-resistant safety policies in humanoid platforms; (2) white-fluid hydraulic actuation as a fictional precedent for closed-loop hydraulic humanoid IP; (3) human-passing social interaction as a deployment target. The 'milk' (white-fluid) reveal is a specific mechanism disclosure repeatedly cited in cyborg studies.
+
 ## T-800 (1984-10-26)
 
 - **id**: `t-800-terminator`
@@ -41,6 +86,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cameron, James (dir.). The Terminator. Orion Pictures, released 1984-10-26.
 - **ip status**: fictional
 - **prior art notes**: The film's prop work and dialogue establish detailed mechanical anatomy specifications that have been cited in robotics literature as conceptual prior art for combat-rated humanoid chassis design.
+
+## Bishop (Aliens) (1986-07-18)
+
+- **id**: `bishop-aliens`
+- **corpus**: fictional
+- **creator**: James Cameron
+- **disclosure**: Cameron, James (dir.); Cameron, J. and Hurd, Gale Anne (writers). Aliens. Twentieth Century Fox, July 18, 1986.
+- **ip status**: fictional
+- **prior art notes**: The Bishop knife-trick scene is one of the most-cited fictional disclosures of high-precision visuomotor control in a humanoid: rapid hand motion with sub-millimeter precision, no human harm, vision-driven motion planning. Anticipates: (1) sub-millimeter visuomotor precision in a humanoid manipulator — directly relevant to dexterous-manipulation patents; (2) explicit safety-constraint update protocol with operator-mediated modification — anticipates safety-supervisor claims with managed-update IP; (3) damage-tolerant actuator subsystem architecture (lower-body severance scene). Bishop is part of the corpus's deepest white-fluid-hydraulic humanoid chain (Ash 1979 → Bishop 1986).
+
+## AV-98 Ingram (1988-04)
+
+- **id**: `patlabor-av-98`
+- **corpus**: fictional
+- **creator**: Headgear (Masami Yuki, Yutaka Izubuchi, Mamoru Oshii, Kazunori Itō, Akemi Takada)
+- **disclosure**: Yuki, Masami; Headgear collective (Yuki, Yutaka Izubuchi, Mamoru Oshii, Kazunori Itō, Akemi Takada). Mobile Police Patlabor. Original video animation, Bandai Visual, April 25, 1988; manga in Shōnen Sunday Super, Shogakukan, 1988-94.
+- **ip status**: fictional
+- **prior art notes**: Patlabor's 'Labor' family is an unusually engineering-grounded fictional disclosure of bipedal civilian humanoid robotics. The 1988 OVA explicitly names the 'OS' that handles balance (anticipating ZMP balance controllers years before Honda P2 1996), discloses runtime of ~15 minutes per battery, and depicts limp-on-shutdown safety. Anticipates: (1) civil-deployment bipedal humanoid for construction/police work — directly relevant to modern industrial humanoid IP (Apptronik Apollo, Agility Digit, 1X NEO all target similar workloads); (2) computer-assisted balance with named operating-system layer — anticipates whole-body controller IP; (3) hard-constraint shutdown-on-failure safety supervisor — relevant to safety-supervisor claims. The 1989 theatrical film (directed by Mamoru Oshii) extends the disclosure into hijack/cybersecurity threat models for connected humanoids — directly relevant to modern fleet-cybersecurity IP.
 
 ## PETMAN (2009)
 

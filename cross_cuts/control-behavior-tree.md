@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-behavior-tree`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1999-05-11
+Earliest disclosure: 1772
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Jaquet-Droz The Writer (1772)
+
+- **id**: `jaquet-droz-writer`
+- **corpus**: fictional
+- **creator**: Pierre Jaquet-Droz, Henri-Louis Jaquet-Droz, Jean-Frédéric Leschot
+- **disclosure**: Pierre Jaquet-Droz, exhibited 1774 in La Chaux-de-Fonds; finished 1772. Documented in Chapuis, Alfred and Droz, Edmond. Automata: A Historical and Technological Study, Editions du Griffon, 1958. Currently held at Musée d'Art et d'Histoire, Neuchâtel.
+- **ip status**: public-domain
+- **prior art notes**: Programmable humanoid behavior with articulated finger movement, fully disclosed in 1772. The cam-disc system is functionally equivalent to a behavior-tree primitive: one disc encodes one character; the sequencing of discs produces arbitrary output. Anticipates: (1) programmable humanoid behavior via interchangeable behavior modules — directly relevant to modern claims on policy-modular humanoids; (2) precision finger articulation for writing — relevant to dexterous-fingertip patents; (3) closed-loop sensorimotor coordination (eye tracks hand) — directly relevant to claims on visuomotor control loops. The companion automata (The Musician with breathing motion, The Draughtsman with multiple drawings) extend this disclosure to keyboard playing and pencil sketching. Continuously exhibited since 1774; documented in Chapuis-Droz 1958 (the canonical reference).
 
 ## Sony AIBO (1999-05-11)
 

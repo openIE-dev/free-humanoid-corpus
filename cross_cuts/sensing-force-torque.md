@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `sensing-force-torque`
 
-**27 corpus entries disclose this subsystem.**
+**30 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1993
+Earliest disclosure: 1989-05-14
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Howe-Cutkosky tactile fingertip (1989-05-14)
+
+- **id**: `howe-cutkosky-tactile-1989`
+- **corpus**: academic
+- **creator**: Robert D. Howe and Mark R. Cutkosky; Stanford University Center for Design Research
+- **disclosure**: Howe, R.D. and Cutkosky, M.R. 'Sensing skin acceleration for slip and texture perception'. IEEE ICRA 1989, Scottsdale AZ, May 14-19, 1989. Extended in Howe, R.D. and Cutkosky, M.R. 'Dynamic tactile sensing: perception of fine surface features with stress rate sensing'. IEEE T-RO 9(2): 140-151, 1993.
+- **ip status**: open-permissive
+- **prior art notes**: Howe-Cutkosky 1989 is the deepest academic anchor for multimodal tactile fingertip sensing in the corpus. Anticipates with full mechanism specificity: (1) PVDF piezoelectric film as a slip-detection sensing layer — relevant to claims on slip-detection tactile IP (BioTac 2008, GelSight 2017, DIGIT 2020 all build on this lineage); (2) multimodal fingertip combining force, vibration, and thermal — relevant to multimodal tactile IP; (3) signal processing for texture classification from contact vibration — relevant to texture-recognition claims. The 1989 ICRA paper and 1993 T-RO paper are heavily cited; modern fingertip-sensing patents face this 35-year academic anchor as 102 prior art.
 
 ## Honda P1 (1993)
 
@@ -69,6 +78,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: DRC-Hubo's 2015 win demonstrated transformer-style transitioning between bipedal and wheeled-knee modes for navigating both stairs and flat ground. Anticipates: hybrid locomotion modes in humanoids.
 
+## DLR Hand-II (2004)
+
+- **id**: `dlr-hand-ii`
+- **corpus**: academic
+- **creator**: Butterfass, Grebenstein, Liu, Hirzinger; DLR Institute of Robotics and Mechatronics, Oberpfaffenhofen, Germany
+- **disclosure**: Butterfass, J., Grebenstein, M., Liu, H., Hirzinger, G. 'DLR-Hand II: next generation of a dextrous robot hand'. IEEE ICRA, 2001 (early disclosure); Butterfass, J. et al. 'Design and Experiences with DLR Hand II'. World Automation Congress, 2004.
+- **ip status**: open-permissive
+- **prior art notes**: DLR Hand-II is the canonical academic disclosure of joint-torque-sensing dexterous hands with compact actuator integration. Anticipates: (1) impedance-controlled dexterous manipulation with proprioceptive sensing — directly relevant to claims on torque-controlled humanoid hands (every modern humanoid hand IP); (2) cable-tendon transmission with harmonic-drive primary reducer — relevant to combined-mechanism actuator claims; (3) per-joint integrated torque sensor with calibrated absolute position — anticipates proprioceptive-actuator IP. The DLR series (Hand-II, then Hand-III, then Hand Arm System) is one of the deepest academic technical lineages in dexterous manipulation. Continuously published in IEEE proceedings since 2001.
+
 ## WABIAN-2 (2006)
 
 - **id**: `wabian-2`
@@ -113,6 +131,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wyrobek, K.A. et al. 'Towards a Personal Robotics Development Platform: Rationale and Design of an Intrinsically Safe Personal Robot.' ICRA 2008.
 - **ip status**: open-permissive
 - **prior art notes**: PR1 is significant prior art for safety-by-design humanoid robotics. Cable-driven intrinsically-safe architecture anticipates several modern compliant-actuator humanoid claims.
+
+## BioTac (2008)
+
+- **id**: `biotac-syntouch`
+- **corpus**: academic
+- **creator**: Wettels, Santos, Fishel, Johansson, Loeb; University of Southern California; commercial: SynTouch
+- **disclosure**: Lin, C.H., Erickson, T.W., Fishel, J.A., Wettels, N., Loeb, G.E. 'Signal processing and fabrication of a biomimetic tactile sensor array with thermal, force and microvibration modalities'. IEEE ROBIO 2009; commercial release by SynTouch (USC spinoff) 2008. Foundational biomimetic concepts in Wettels, N., Santos, V.J., Johansson, R.S., Loeb, G.E. 'Biomimetic tactile sensor array'. Advanced Robotics 22(8): 829-849, 2008.
+- **ip status**: patented
+- **prior art notes**: BioTac is the bridge between Howe-Cutkosky 1989 multimodal academic concept and modern commercial multimodal fingertip sensors. Anticipates: (1) commercial biomimetic multimodal fingertip — relevant to claims on integrated tactile fingertips for humanoids; (2) thermal-flux sensing as a material classification modality — relevant to material-identification claims; (3) hydroacoustic vibration sensing — relevant to dynamic-tactile-perception claims. Patented (US7878075) but the academic disclosure (Wettels et al. 2008) precedes the patent and is itself prior art. Widely deployed in research labs and modern humanoid platforms; canonical reference for 'biotac-class' multimodal fingertip.
 
 ## PR2 (2010)
 

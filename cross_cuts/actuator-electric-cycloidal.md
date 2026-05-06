@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `actuator-electric-cycloidal`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2023-05
+Earliest disclosure: 1937
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Sumitomo CYCLO Speed Reducer (1937)
+
+- **id**: `sumitomo-cyclo`
+- **corpus**: academic
+- **creator**: Lorenz Bayer-Ehrlich (inventor, Germany); Sumitomo Heavy Industries (commercial development, Japan)
+- **disclosure**: Lorenz Bayer-Ehrlich. German patent DE745552 (1937) for cycloidal speed reducer. Commercial production: Sumitomo Heavy Industries, CYCLO drive product line, 1937 onwards.
+- **ip status**: public-domain
+- **prior art notes**: Sumitomo CYCLO is the foundational academic and industrial disclosure of cycloidal speed reducers in robotic actuators. Anticipates with full mechanism specificity, dating to 1937: (1) cycloid-disk-and-pin-tooth gear reduction for high-ratio compact actuators — relevant to *every* modern humanoid claim using cycloidal reducers (Apptronik Apollo, Sanctuary Phoenix, Boston Dynamics Atlas G3, multiple Chinese commodity humanoids); (2) two-disk 180-degree opposed cycloid arrangement for vibration cancellation — relevant to claims on balanced cycloidal joints; (3) low-backlash multi-tooth meshing — relevant to backlash-control IP. The 1937 German patent has long since expired; CYCLO products have been continuously sold since 1937 with full mechanism documentation. Modern cycloidal humanoid actuator claims (the corpus's pre-this-entry chain only had 3 entries from 2023) face this 89-year industrial-academic anchor as 102 prior art at extraordinary depth.
 
 ## Sanctuary AI Phoenix (2023-05)
 

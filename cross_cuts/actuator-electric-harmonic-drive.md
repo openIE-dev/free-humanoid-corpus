@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-harmonic-drive`
 
-**14 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1986
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Honda Motor Co. internal program, publicly disclosed retrospectively in Honda's ASIMO documentation.
 - **ip status**: trade-secret
 - **prior art notes**: First in the Honda lineage that culminates in ASIMO. Establishes Honda's commitment to electric over hydraulic for humanoid bipedal locomotion. Anticipates: electric-actuator bipedal walking platforms.
+
+## Robonaut 1 (1996)
+
+- **id**: `robonaut-1`
+- **corpus**: academic
+- **creator**: Robert O. Ambrose, Myron A. Diftler, et al.; NASA Johnson Space Center, with DARPA
+- **disclosure**: Diftler, M.A., Ambrose, R.O. 'Robonaut: A Robotic Astronaut Assistant'. International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS) 2001 (consolidated paper); earlier disclosures NASA JSC 1996 onwards.
+- **ip status**: public-domain
+- **prior art notes**: Robonaut 1 is the academic predecessor to Robonaut 2 and the deepest NASA-side disclosure of humanoid platform IP for space applications. Anticipates: (1) torso-only humanoid form factor for collaborative work with humans — relevant to current commercial torso-only humanoid claims; (2) VR teleoperation with force-feedback gloves as the operator interface — relevant to teleoperation IP; (3) tendon-driven anthropomorphic hands integrated with harmonic-drive arms — relevant to integrated-hand-arm claims. NASA JSC publications and i-SAIRAS proceedings are publicly accessible. Modern humanoid hand claims face this 1996 academic anchor.
 
 ## Honda P2 (1996-12-20)
 
@@ -69,6 +78,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: DRC-Hubo's 2015 win demonstrated transformer-style transitioning between bipedal and wheeled-knee modes for navigating both stairs and flat ground. Anticipates: hybrid locomotion modes in humanoids.
 
+## DLR Hand-II (2004)
+
+- **id**: `dlr-hand-ii`
+- **corpus**: academic
+- **creator**: Butterfass, Grebenstein, Liu, Hirzinger; DLR Institute of Robotics and Mechatronics, Oberpfaffenhofen, Germany
+- **disclosure**: Butterfass, J., Grebenstein, M., Liu, H., Hirzinger, G. 'DLR-Hand II: next generation of a dextrous robot hand'. IEEE ICRA, 2001 (early disclosure); Butterfass, J. et al. 'Design and Experiences with DLR Hand II'. World Automation Congress, 2004.
+- **ip status**: open-permissive
+- **prior art notes**: DLR Hand-II is the canonical academic disclosure of joint-torque-sensing dexterous hands with compact actuator integration. Anticipates: (1) impedance-controlled dexterous manipulation with proprioceptive sensing — directly relevant to claims on torque-controlled humanoid hands (every modern humanoid hand IP); (2) cable-tendon transmission with harmonic-drive primary reducer — relevant to combined-mechanism actuator claims; (3) per-joint integrated torque sensor with calibrated absolute position — anticipates proprioceptive-actuator IP. The DLR series (Hand-II, then Hand-III, then Hand Arm System) is one of the deepest academic technical lineages in dexterous manipulation. Continuously published in IEEE proceedings since 2001.
+
 ## WABIAN-2 (2006)
 
 - **id**: `wabian-2`
@@ -96,6 +114,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: HRP-3's environmental sealing disclosures anticipate subsequent IP-rated humanoid claims. The HRP series is a deep commons asset because of consistent open academic disclosure across generations.
 
+## DLR Justin (Rollin' Justin) (2009-05)
+
+- **id**: `dlr-justin`
+- **corpus**: academic
+- **creator**: Borst, Wimboeck, Schmidt, Fuchs, Brunner, Zacharias, Giordano, Konietschke, Sepp, Fuchs, Rink, Albu-Schäffer, Hirzinger; DLR Institute of Robotics and Mechatronics
+- **disclosure**: Borst, C., Wimboeck, T., Schmidt, F., Fuchs, M., Brunner, B., Zacharias, F., Giordano, P. R., Konietschke, R., Sepp, W., Fuchs, S., Rink, C., Albu-Schäffer, A., Hirzinger, G. 'Rollin' Justin — Mobile platform with variable base'. IEEE ICRA, May 2009.
+- **ip status**: open-permissive
+- **prior art notes**: Justin is the canonical academic disclosure of wheeled humanoid mobile manipulation with full impedance control. Anticipates and provides extensive prior art for: (1) wheeled humanoid platform for service tasks — relevant to claims on wheeled humanoid IP (Diligent Moxi, NEXTAGE follow this paradigm); (2) torque-controlled dual-arm coordination — relevant to bimanual humanoid manipulation IP; (3) variable-wheelbase mobile base — relevant to morphology-changing wheeled platform claims. DLR has published Justin disclosures in ICRA, IROS, Humanoids continuously since 2009. Modern wheeled humanoid claims face this deep academic anchor.
+
 ## HRP-4 (2010)
 
 - **id**: `hrp-4`
@@ -104,6 +131,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaneko, K. et al. 'Humanoid Robot HRP-4: Humanoid Robotics Platform with Lightweight and Slim Body.' IROS 2010.
 - **ip status**: open-permissive
 - **prior art notes**: HRP-4 lightweight design anticipates subsequent slim-form humanoid claims. The 2010 IROS paper provides full mechanical specifications openly.
+
+## DLR TORO (2014-07)
+
+- **id**: `dlr-toro`
+- **corpus**: academic
+- **creator**: Englsberger, Werner, Ott, Henze, Roa, Garofalo, Burger, Beyer, Eiberger, Schmid, Albu-Schäffer; DLR Institute of Robotics and Mechatronics
+- **disclosure**: Englsberger, J., Werner, A., Ott, C., Henze, B., Roa, M.A., Garofalo, G., Burger, R., Beyer, A., Eiberger, O., Schmid, K., Albu-Schäffer, A. 'Overview of the torque-controlled humanoid robot TORO'. IEEE-RAS Humanoids, July 2014.
+- **ip status**: open-permissive
+- **prior art notes**: TORO is the canonical academic disclosure of full-body torque-controlled bipedal humanoid with DCM (Divergent Component of Motion) walking control. Anticipates: (1) torque-controlled whole-body bipedal walking — directly relevant to claims on whole-body torque-controlled humanoid platforms; (2) DCM walking as an alternative to ZMP — relevant to walking-control IP; (3) impedance-control whole-body interaction with humans — relevant to safe-human-interaction humanoid claims. DLR's Englsberger paper introduced the DCM formulation that subsequent humanoids (HRP-5P, several private platforms) adopted. Publicly funded research with extensive IEEE-proceedings publication.
 
 ## PAL TALOS (2017)
 
