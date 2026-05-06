@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `sensing-stereo-camera`
 
-**57 corpus entries disclose this subsystem.**
+**58 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1973
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kato, Ichiro et al. 'Information-Power Machine with Senses and Limbs (WABOT-1).' Proceedings of First CISM-IFToMM Symposium on Theory and Practice of Robots and Manipulators, 1973.
 - **ip status**: public-domain
 - **prior art notes**: First full-scale humanoid in academic record. Anticipates virtually every subsystem of modern humanoids at concept level: bipedal locomotion, bimanual manipulation, multimodal sensing, natural language interface. Specific implementations are crude by modern standards but the architectural decomposition is foundational.
+
+## RoboCop (Alex Murphy) (1987-07-17)
+
+- **id**: `robocop-1987`
+- **corpus**: fictional
+- **creator**: Paul Verhoeven; Edward Neumeier and Michael Miner (writers); Omni Consumer Products (in-fiction)
+- **disclosure**: Verhoeven, Paul (dir.); Neumeier, Edward and Miner, Michael (writers). RoboCop. Orion Pictures, July 17, 1987.
+- **ip status**: fictional
+- **prior art notes**: RoboCop's Prime Directives architecture is a foundational fictional disclosure of *enumerated, prioritized, hard-constraint safety supervisors with disclosed backdoors*. Anticipates with notable specificity: (1) explicit prioritized list of safety directives operating as hard constraints — relevant to modern Simplex/CBF/RTA-style safety supervisor IP; (2) the *failure mode* of operator-installed backdoors in safety supervisors (Directive 4 prevents arrest of OCP senior staff) — directly relevant to claims on tamper-resistant safety policies; this is the single most prescient pre-2010 fictional disclosure of the alignment-failure modes that modern safety-supervisor IP attempts to address; (3) integrated armed humanoid for civic deployment — relevant to law-enforcement humanoid IP. Continuously available since 1987; the Prime Directives sequence is widely cited in safety-architecture pedagogy.
 
 ## ALVINN (Autonomous Land Vehicle in a Neural Network) (1989)
 

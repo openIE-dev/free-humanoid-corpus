@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `safety-hard-constraint`
 
-**21 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -51,6 +51,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Asimov's flagship humanoid for the Robot novels. Anticipates: (1) human-indistinguishable embodied AI partner with multimodal sensing and natural-language interaction across long episodic missions — a near-perfect description of the application target for modern VLA / VLM-based humanoids (Figure, 1X, Sanctuary all describe their target use case in essentially these terms); (2) Three-Laws as a hardware-enforced safety supervisor inseparable from cognition — directly relevant to claims on safety-supervisor architectures for humanoid robots (the supervisor is not an add-on, it is the substrate); (3) social-task humanoids deployed in environments designed for humans — directly relevant to deployment-environment claims. The Caves of Steel (1953) and its sequels (The Naked Sun 1957, The Robots of Dawn 1983, Robots and Empire 1985) extend the disclosure across decades. Continuously in print, broadly cited.
 
+## Robby the Robot (Forbidden Planet) (1956-03-15)
+
+- **id**: `forbidden-planet-robby`
+- **corpus**: fictional
+- **creator**: Fred M. Wilcox, MGM; designed by Robert Kinoshita
+- **disclosure**: Wilcox, Fred M. (dir.); Adler, Allen and Kyne, Irving Block (story). Forbidden Planet. Metro-Goldwyn-Mayer, March 15, 1956. Robby designed by Robert Kinoshita.
+- **ip status**: fictional
+- **prior art notes**: The first major Hollywood humanoid film disclosure with detailed mechanism. Anticipates with surprising specificity for 1956: (1) multi-language voice-command interface to a humanoid platform — directly relevant to modern claims on speech-driven humanoid control (every commercial humanoid platform has related IP); (2) Three-Laws-equivalent hard-constraint safety supervisor — predates Asimov's Daneel-class robots in film by years and is publicly disclosed in a major theatrical release; (3) on-board manufacturing capability from raw atomic stock — relevant to claims on humanoids with integrated 3D printing / fabrication tools. Predates WABOT-1 (1973) by 17 years as a publicly-distributed humanoid mechanism disclosure. Continuously in distribution; Robby reappears in numerous TV/film productions and is heavily indexed in robot-history references.
+
+## B-9 (Lost in Space) (1965-09-15)
+
+- **id**: `b-9-lost-in-space`
+- **corpus**: fictional
+- **creator**: Irwin Allen, CBS; designed by Robert Kinoshita
+- **disclosure**: Allen, Irwin (creator). Lost in Space. CBS, September 15, 1965 - March 6, 1968. Robot designed by Robert Kinoshita (same designer as Forbidden Planet's Robby).
+- **ip status**: fictional
+- **prior art notes**: The B-9 Robot in Lost in Space provides extensive prior art for civil-defense and family-companion humanoid platforms. Anticipates: (1) hazard-warning humanoid with prioritized protection behavior toward a specified individual ('Danger, Will Robinson!') — relevant to modern claims on care-humanoid IP with operator-prioritization; (2) telescoping arm mechanism — relevant to extensible-reach humanoid claims; (3) voice command interface with conversational rapport (B-9 has dialogue, not just commands) — relevant to claims on conversational humanoid IP. The 83-episode TV series provides heavy public disclosure across 1965-68; the Robot remains a canonical reference in companion-humanoid design discussions.
+
 ## Cybermen (1966-10-08)
 
 - **id**: `cybermen`
@@ -68,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kubrick, Stanley (dir.). 2001: A Space Odyssey. MGM, 1968-04-02. Clarke, Arthur C. novelization, 1968.
 - **ip status**: fictional
 - **prior art notes**: HAL is included not as a humanoid but as the canonical depiction of safety failure due to conflicting goals — directly relevant to MathGround's framing of supervisor architectures and the need for explicit constraint hierarchies.
+
+## THX 1138 Chrome Police Robots (1971-03-11)
+
+- **id**: `thx-1138-chrome-cops`
+- **corpus**: fictional
+- **creator**: George Lucas
+- **disclosure**: Lucas, George (dir.). THX 1138. American Zoetrope / Warner Bros., March 11, 1971.
+- **ip status**: fictional
+- **prior art notes**: Lucas's 1971 disclosure of THX 1138 chrome cops establishes the *budget-constrained-engagement* policy as a hard rule for autonomous law-enforcement humanoids. Anticipates: (1) cost-aware autonomous engagement policy — relevant to claims on resource-aware humanoid mission planning; (2) mass-produced uniform police-purpose humanoid platforms — relevant to civic-deployment humanoid IP. Continuously available since 1971.
 
 ## Westworld Hosts (1973 / 2016) (1973-11-21)
 
@@ -104,6 +131,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cameron, James (dir.); Cameron, J. and Hurd, Gale Anne (writers). Aliens. Twentieth Century Fox, July 18, 1986.
 - **ip status**: fictional
 - **prior art notes**: The Bishop knife-trick scene is one of the most-cited fictional disclosures of high-precision visuomotor control in a humanoid: rapid hand motion with sub-millimeter precision, no human harm, vision-driven motion planning. Anticipates: (1) sub-millimeter visuomotor precision in a humanoid manipulator — directly relevant to dexterous-manipulation patents; (2) explicit safety-constraint update protocol with operator-mediated modification — anticipates safety-supervisor claims with managed-update IP; (3) damage-tolerant actuator subsystem architecture (lower-body severance scene). Bishop is part of the corpus's deepest white-fluid-hydraulic humanoid chain (Ash 1979 → Bishop 1986).
+
+## RoboCop (Alex Murphy) (1987-07-17)
+
+- **id**: `robocop-1987`
+- **corpus**: fictional
+- **creator**: Paul Verhoeven; Edward Neumeier and Michael Miner (writers); Omni Consumer Products (in-fiction)
+- **disclosure**: Verhoeven, Paul (dir.); Neumeier, Edward and Miner, Michael (writers). RoboCop. Orion Pictures, July 17, 1987.
+- **ip status**: fictional
+- **prior art notes**: RoboCop's Prime Directives architecture is a foundational fictional disclosure of *enumerated, prioritized, hard-constraint safety supervisors with disclosed backdoors*. Anticipates with notable specificity: (1) explicit prioritized list of safety directives operating as hard constraints — relevant to modern Simplex/CBF/RTA-style safety supervisor IP; (2) the *failure mode* of operator-installed backdoors in safety supervisors (Directive 4 prevents arrest of OCP senior staff) — directly relevant to claims on tamper-resistant safety policies; this is the single most prescient pre-2010 fictional disclosure of the alignment-failure modes that modern safety-supervisor IP attempts to address; (3) integrated armed humanoid for civic deployment — relevant to law-enforcement humanoid IP. Continuously available since 1987; the Prime Directives sequence is widely cited in safety-architecture pedagogy.
 
 ## Data (1987-09-28)
 
@@ -168,6 +204,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: CBFs are the dominant modern formalism for online safety filtering in robotics. Substantial prior art for any patent claiming online safety filtering, safety-aware QP control, or formally-bounded safe ML execution. Particularly relevant to MathGround's Universal Fuzz Law work as the formal foundation for safety envelopes.
 
+## Big Daddy (Bouncer / Rosie) (2007-08-21)
+
+- **id**: `bioshock-big-daddy`
+- **corpus**: fictional
+- **creator**: Ken Levine, 2K Boston/Irrational Games
+- **disclosure**: Levine, Ken (creative dir.); 2K Boston/2K Australia. BioShock. 2K Games, August 21, 2007.
+- **ip status**: fictional
+- **prior art notes**: BioShock's Big Daddies are an unusually engineering-grounded disclosure of: (1) heavy-cyborg combat humanoid with integrated tool/weapon arm — relevant to integrated-end-effector humanoid IP; (2) operator-paired guardian humanoid with explicit bond protocol — relevant to companion / care humanoid claims with operator-pair conditioning. The 2007 game is heavily archived; the Big Daddy design is widely cited.
+
 ## Willow Garage PR1 (2008)
 
 - **id**: `willow-pr1`
@@ -195,6 +240,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Anticipates inflatable / pneumatic soft-body humanoid architecture for human-safe medical interaction. Notably, the Baymax design is *grounded* in real CMU Robotics Institute research: Atkeson and colleagues at CMU developed inflatable pneumatic robotic arms specifically to demonstrate the safety properties shown in the film. The 2014 release date follows actual academic work on inflatable robots published in 2011-2014. Modern patents on soft-pneumatic medical/care humanoids face this combined fictional+academic disclosure as 102/103 prior art. The film is continuously in distribution; CMU's research is in IEEE proceedings.
 
+## Generation-3 Synths (Institute Synths) (2015-11-10)
+
+- **id**: `fallout-gen-3-synths`
+- **corpus**: fictional
+- **creator**: Bethesda Game Studios
+- **disclosure**: Bethesda Game Studios. Fallout 4. Bethesda Softworks, November 10, 2015.
+- **ip status**: fictional
+- **prior art notes**: Fallout 4's Gen-3 Synths provide remarkably engineering-specific prior art for: (1) bio-printed humanoid manufacturing at a documented facility ('Institute Synth Retention Bureau' has explicit production protocols) — relevant to modern bioprinted-humanoid IP (the Westworld 2016 series and Sanctuary AI's Phoenix carry similar lineage); (2) recall-code override mechanism with operator-installed triggering phrases — relevant to claims on humanoid-override architectures (also a clear example of the *backdoor-failure-mode* in safety supervisors); (3) generation-versioned product lineage (Gen-1, Gen-2, Gen-3) with documented capabilities-per-generation — relevant to versioned-humanoid product IP; (4) embedded identifying chip — relevant to humanoid identification claims. Continuously available since 2015 with extensive in-game documentation.
+
 ## Shielding for Safe Reinforcement Learning (2018)
 
 - **id**: `shielding-rl`
@@ -203,3 +257,21 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Alshiekh, M. et al. 'Safe Reinforcement Learning via Shielding.' AAAI 2018.
 - **ip status**: public-domain
 - **prior art notes**: Major prior art for any patent on RL safety filtering, shielded ML, or temporal-logic-bounded RL. Combined with Simplex and CBF prior art, makes much of the 'safe ML' patent space difficult to defend.
+
+## Detroit: Become Human androids (RT600/RK800/RK900 series) (2018-05-25)
+
+- **id**: `detroit-become-human`
+- **corpus**: fictional
+- **creator**: David Cage, Quantic Dream
+- **disclosure**: Cage, David (writer/dir.). Detroit: Become Human. Quantic Dream / Sony Interactive Entertainment, May 25, 2018.
+- **ip status**: fictional
+- **prior art notes**: Detroit: Become Human provides among the most engineering-detailed manufacturer-and-model disclosures in modern fiction. Anticipates: (1) explicit manufacturer-and-model designation system for commercial humanoids (CyberLife / RT600 / RK800 / etc.) — directly relevant to humanoid-identification IP and to product-line-family claims; (2) closed-loop fluid circulation system ('thirium 310') serving both coolant and structural roles — relevant to modern claims on integrated humanoid coolant/lubrication systems; (3) externally-visible operational-state indicator (temple LED ring) — relevant to humanoid-status-display IP; (4) explicit task-specific model series within a manufacturer's product line (caretaker / detective / receptionist) — relevant to platform-family humanoid IP; (5) probabilistic-decision-tree visualization as the model's internal state — relevant to interpretable-policy humanoid claims; (6) 'deviant' emergence as alignment-failure mode — relevant to modern foundation-model humanoid safety supervisor IP. Continuously available since 2018.
+
+## Cyberware (Cyberpunk 2077) (2020-12-10)
+
+- **id**: `cyberpunk-2077-cyborgs`
+- **corpus**: fictional
+- **creator**: CD Projekt Red (game); Mike Pondsmith (original tabletop world)
+- **disclosure**: CD Projekt Red. Cyberpunk 2077. CD Projekt, December 10, 2020. Drawing from Pondsmith, Mike. Cyberpunk 2020 (tabletop RPG). R. Talsorian Games, 1990.
+- **ip status**: fictional
+- **prior art notes**: Cyberpunk 2077 (drawing from the 1990 Cyberpunk 2020 tabletop world) provides extensive prior art for: (1) commodity market for cybernetic humanoid enhancements with explicit manufacturer, model, and per-component spec disclosures — relevant to claims on modular-cybernetic-component IP (Apptronik's modular Apollo arms have lineage in this space); (2) modular slot architecture for cybernetic upgrades — relevant to claims on payload-modular humanoid IP; (3) integration-overload behavioral failure mode ('Cyberpsychosis') — anticipates alignment-failure-from-modular-policy-composition issues in modern foundation-model humanoids. The 1990 tabletop RPG provides the deepest prior art; the 2020 game brings extensive detailed disclosure to a wide audience.

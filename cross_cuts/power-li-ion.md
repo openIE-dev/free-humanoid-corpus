@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `power-li-ion`
 
-**56 corpus entries disclose this subsystem.**
+**57 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Villiers de l'Isle-Adam, Auguste. L'Ève future. Brunhoff, Paris, 1886.
 - **ip status**: fictional
 - **prior art notes**: The first detailed engineering disclosure of a female-form electromechanical humanoid in Western literature. Anticipates with specific mechanism: (1) electromotor-per-joint articulation — directly relevant to modern direct-drive humanoid claims, predating Honda E0 (1986) by exactly 100 years; (2) battery-powered humanoid speech synthesis using phonograph audio playback driven by speech recognition keywords — anticipates speech-triggered behavior selection in conversational humanoids, an arguable precursor to multimodal vision-language-action policy by 137 years; (3) compliant skin with sensor capillaries — anticipates whole-body tactile sensing claims; (4) seven-hour battery runtime — claims modern operational duration as a known design target in 1886. The novel was favorably reviewed and continuously in print since 1886; English translation (Forge of Tomorrow, also Tomorrow's Eve) widely studied in academic SF/cyborg theory courses. Strong specificity supports 102 anticipation arguments.
+
+## Val and Aqua (Heartbeeps) (1981-12-18)
+
+- **id**: `heartbeeps-val-aqua`
+- **corpus**: fictional
+- **creator**: Allan Arkush, Universal Pictures
+- **disclosure**: Marshall, Allan Arkush (dir.). Heartbeeps. Universal Pictures, December 18, 1981.
+- **ip status**: fictional
+- **prior art notes**: Heartbeeps is unusually-engineering-detailed for a 1981 comedy film. Anticipates: (1) standard-household-outlet recharging as the power architecture for domestic humanoids — directly relevant to claims on commercial humanoid recharging IP (Tesla Optimus, 1X NEO target home power outlets); (2) explicit model/manufacturer/designation system for commercial humanoids — relevant to humanoid-identification IP; (3) self-assembly of offspring units from spare parts — relevant to humanoid-self-replication IP (a niche but real research direction); (4) task-specific class designations within a manufacturer's product line — relevant to platform-family humanoid IP. The film is continuously available; Val Com 17485 has become a recurring reference in domestic-humanoid design discussions.
 
 ## Honda E5 (1992)
 

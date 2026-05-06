@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**69 corpus entries disclose this subsystem.**
+**77 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -33,6 +33,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Documented disclosure of cable-driven anthropomorphic humanoid mechanism with articulated hand, dating to c.1495 — 478 years before WABOT-1 (1973), 522 years before contemporary tendon-driven humanoid hand patents. Leonardo's drawings show explicit cable routing through joints, separation of upper-body and lower-body actuator banks, programmable behavior via cam-sequencing — all elements that recur in modern humanoid actuator IP. Modern claims on cable-driven anthropomorphic hands or tendon-routed humanoid actuators face an extraordinarily deep 102 anchor here. The Codex Atlanticus is publicly held (Biblioteca Ambrosiana, Milan) and has been continuously cited since the 19th century.
 
+## Robby the Robot (Forbidden Planet) (1956-03-15)
+
+- **id**: `forbidden-planet-robby`
+- **corpus**: fictional
+- **creator**: Fred M. Wilcox, MGM; designed by Robert Kinoshita
+- **disclosure**: Wilcox, Fred M. (dir.); Adler, Allen and Kyne, Irving Block (story). Forbidden Planet. Metro-Goldwyn-Mayer, March 15, 1956. Robby designed by Robert Kinoshita.
+- **ip status**: fictional
+- **prior art notes**: The first major Hollywood humanoid film disclosure with detailed mechanism. Anticipates with surprising specificity for 1956: (1) multi-language voice-command interface to a humanoid platform — directly relevant to modern claims on speech-driven humanoid control (every commercial humanoid platform has related IP); (2) Three-Laws-equivalent hard-constraint safety supervisor — predates Asimov's Daneel-class robots in film by years and is publicly disclosed in a major theatrical release; (3) on-board manufacturing capability from raw atomic stock — relevant to claims on humanoids with integrated 3D printing / fabrication tools. Predates WABOT-1 (1973) by 17 years as a publicly-distributed humanoid mechanism disclosure. Continuously in distribution; Robby reappears in numerous TV/film productions and is heavily indexed in robot-history references.
+
 ## Tetsujin 28 (1956-07)
 
 - **id**: `tetsujin-28`
@@ -42,6 +51,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Foundational fictional disclosure of giant humanoid robot. Establishes the mecha morphology that influences the entire subsequent Japanese robot fiction tradition. The remote-control rather than piloted-cockpit architecture is a notable structural distinction from later mecha (Mazinger, Gundam) where the operator is inside.
 
+## Magnus, Robot Fighter (4000 A.D.) (1963-02)
+
+- **id**: `magnus-robot-fighter`
+- **corpus**: fictional
+- **creator**: Russ Manning
+- **disclosure**: Manning, Russ (writer/artist). Magnus, Robot Fighter 4000 AD #1. Gold Key Comics, February 1963.
+- **ip status**: fictional
+- **prior art notes**: Magnus Robot Fighter establishes the trope of mass-produced humanoid civic deployment 60+ years before commercial efforts. Anticipates: (1) humanoid platforms specialized by job function (police variant, industrial variant, transit variant) — relevant to morphology-family humanoid IP claims (Apptronik, 1X both have related lineage); (2) centralized AI fleet coordination across mass-produced humanoid units — relevant to fleet-management humanoid IP. Continuously in print across multiple publishers since 1963.
+
 ## The Iron Giant (1968-10-31)
 
 - **id**: `iron-giant`
@@ -50,6 +68,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hughes, Ted. The Iron Man (US: The Iron Giant). Faber & Faber, October 31, 1968. Animated film adaptation: Bird, Brad (dir.). The Iron Giant. Warner Bros., August 6, 1999.
 - **ip status**: fictional
 - **prior art notes**: Self-assembly and self-repair via metabolism of available material — anticipates modern claims on modular self-repairing humanoid platforms. Hughes's 1968 novel is unusual in describing the *autonomous self-assembly* explicitly: detached limbs find each other and reattach. The 1999 film extends the disclosure with the safety-supervisor-disable arc (Giant chooses to exclude violent subroutines), anticipating user-mediated safety-policy modification. Continuously in print since 1968; the film is widely available and is a regular reference in robotics-pedagogy discussions.
+
+## THX 1138 Chrome Police Robots (1971-03-11)
+
+- **id**: `thx-1138-chrome-cops`
+- **corpus**: fictional
+- **creator**: George Lucas
+- **disclosure**: Lucas, George (dir.). THX 1138. American Zoetrope / Warner Bros., March 11, 1971.
+- **ip status**: fictional
+- **prior art notes**: Lucas's 1971 disclosure of THX 1138 chrome cops establishes the *budget-constrained-engagement* policy as a hard rule for autonomous law-enforcement humanoids. Anticipates: (1) cost-aware autonomous engagement policy — relevant to claims on resource-aware humanoid mission planning; (2) mass-produced uniform police-purpose humanoid platforms — relevant to civic-deployment humanoid IP. Continuously available since 1971.
+
+## Huey, Dewey, and Louie (Silent Running) (1972-03-10)
+
+- **id**: `silent-running-drones`
+- **corpus**: fictional
+- **creator**: Douglas Trumbull, Universal Pictures
+- **disclosure**: Trumbull, Douglas (dir.); Hill, Deric and Cocks, Steven and Wilhelm, Mike and Cimino, Michael (writers). Silent Running. Universal Pictures, March 10, 1972.
+- **ip status**: fictional
+- **prior art notes**: Silent Running's drones provide an unusually engineering-grounded fictional disclosure: the on-set drones were *physically functional* compact bipedal humanoid platforms, operated by performers inside, and the production team published behind-the-scenes documentation of the mechanism. Anticipates: (1) compact (sub-meter) bipedal humanoid mechanism with internal volume for human-equivalent operator — relevant to claims on small-form-factor humanoid IP; (2) task-learning-from-demonstration (Lowell teaches drones gardening) — relevant to imitation-learning humanoid claims; (3) multi-unit cooperative humanoid task allocation. The film itself plus the production documentation (exhibit at the Smithsonian) provide a documented mechanism disclosure.
 
 ## Mazinger Z (1972-10)
 
@@ -69,6 +105,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: First full-scale humanoid in academic record. Anticipates virtually every subsystem of modern humanoids at concept level: bipedal locomotion, bimanual manipulation, multimodal sensing, natural language interface. Specific implementations are crude by modern standards but the architectural decomposition is foundational.
 
+## Cylon Centurion (1978) (1978-09-17)
+
+- **id**: `cylon-centurion-1978`
+- **corpus**: fictional
+- **creator**: Glen A. Larson (1978); Ronald D. Moore and David Eick (2004 reboot)
+- **disclosure**: Larson, Glen A. (creator). Battlestar Galactica (1978-1979). ABC, September 17, 1978 - April 29, 1979 (24 episodes). Reboot: Moore, Ronald D. and Eick, David. Battlestar Galactica. Sci-Fi Channel, December 8, 2003 - March 20, 2009.
+- **ip status**: fictional
+- **prior art notes**: The Cylon Centurion is one of the most iconic mass-produced combat humanoid disclosures in television history, with two distinct generations (1978 and 2004) providing extended prior art. Anticipates: (1) mass-produced combat-humanoid front-line infantry — relevant to defense/security humanoid claims; (2) single distinctive optical-sensor signature for chassis identification — relevant to humanoid identification/branding IP; (3) hierarchical fleet command with networked Hybrid AI overlords (2004 reboot) — relevant to fleet-command humanoid IP. Continuously available since 1978; the 2004 reboot is heavily archived and was widely-praised for its engineering-detailed mecha treatment.
+
 ## RX-78-2 Gundam (1979-04-07)
 
 - **id**: `gundam-rx-78-2`
@@ -86,6 +131,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tomino, Yoshiyuki et al. Mobile Suit Gundam. Nagoya Broadcasting, April 7, 1979 - January 26, 1980 (43 episodes).
 - **ip status**: fictional
 - **prior art notes**: Note: this entry is separate from the original RX-78-2 Gundam entry (rx-78-2-gundam) in the seed slice; this one disclosures additional engineering-flavored elements that the seed entry treated lightly. AMBAC (Active Mass Balance Auto-Control) is the disclosed mechanism for orientation in zero gravity using limb articulation as reaction mass — a clear anticipation of reduced-order-model approaches that exploit limb dynamics for whole-body control in modern humanoids.
+
+## Twiki (Buck Rogers in the 25th Century) (1979-09-20)
+
+- **id**: `buck-rogers-twiki`
+- **corpus**: fictional
+- **creator**: Glen A. Larson, NBC
+- **disclosure**: Larson, Glen A. (creator). Buck Rogers in the 25th Century. NBC, September 20, 1979 - April 16, 1981 (37 episodes).
+- **ip status**: fictional
+- **prior art notes**: Buck Rogers' Twiki provides prior art for: (1) compact bipedal humanoid companion (~1 m) carrying a separate AI module — relevant to claims on humanoid+AI-companion-module architectures (Apptronik's 'Apollo carries Apollo Compute' has lineage here); (2) distinctive non-verbal vocalization as identification signature — relevant to humanoid-vocalization IP. Continuously available since 1979.
+
+## Hector (Saturn 3) (1980-02-15)
+
+- **id**: `saturn-3-hector`
+- **corpus**: fictional
+- **creator**: Stanley Donen; ITC Entertainment
+- **disclosure**: Donen, Stanley (dir.); Barry, Martin Amis (writer). Saturn 3. Associated Film Distribution, February 15, 1980.
+- **ip status**: fictional
+- **prior art notes**: Saturn 3's Hector provides surprisingly specific prior art for: (1) brain-tape upload as the operator-to-humanoid policy transfer mechanism — directly relevant to modern claims on human-demonstration imitation learning for humanoids (the brain-tape is functionally an imitation-learning policy); (2) the *failure mode* of training-data-pathology contamination — Hector inherits the operator's mental instability and produces dangerous behavior. This is a remarkably prescient 1980 disclosure of the alignment failure modes that motivate modern safety-supervisor claims; (3) hydraulic large-scale humanoid combat chassis. Continuously available since 1980 across home-video releases.
 
 ## Raibert One-Legged Hopper (1983)
 
@@ -401,6 +464,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Englsberger, J., Werner, A., Ott, C., Henze, B., Roa, M.A., Garofalo, G., Burger, R., Beyer, A., Eiberger, O., Schmid, K., Albu-Schäffer, A. 'Overview of the torque-controlled humanoid robot TORO'. IEEE-RAS Humanoids, July 2014.
 - **ip status**: open-permissive
 - **prior art notes**: TORO is the canonical academic disclosure of full-body torque-controlled bipedal humanoid with DCM (Divergent Component of Motion) walking control. Anticipates: (1) torque-controlled whole-body bipedal walking — directly relevant to claims on whole-body torque-controlled humanoid platforms; (2) DCM walking as an alternative to ZMP — relevant to walking-control IP; (3) impedance-control whole-body interaction with humans — relevant to safe-human-interaction humanoid claims. DLR's Englsberger paper introduced the DCM formulation that subsequent humanoids (HRP-5P, several private platforms) adopted. Publicly funded research with extensive IEEE-proceedings publication.
+
+## Talos Principle Robots (2014-12-11)
+
+- **id**: `talos-principle-robots`
+- **corpus**: fictional
+- **creator**: Croteam (game); Tom Jubert and Jonas Kyratzes (story)
+- **disclosure**: Croteam. The Talos Principle. Devolver Digital, December 11, 2014. Story by Tom Jubert and Jonas Kyratzes.
+- **ip status**: fictional
+- **prior art notes**: The Talos Principle is one of the most engineering-philosophical fictional disclosures of *sim-to-real training as the explicit deployment paradigm* for humanoid policies. Anticipates: (1) deliberately-constructed simulation training environment as the policy-acquisition substrate — directly relevant to modern sim-to-real humanoid IP (every commercial humanoid uses some variant of this paradigm); (2) curriculum design for progressive task difficulty — relevant to curriculum-learning humanoid claims; (3) ethical/philosophical reasoning as part of the training curriculum — relevant to alignment-supervision humanoid IP. The 2014 release predates much of the academic literature on sim-to-real humanoid policies. Continuously available since 2014.
 
 ## Cassie (2017)
 

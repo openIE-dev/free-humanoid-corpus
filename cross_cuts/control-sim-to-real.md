@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-sim-to-real`
 
-**9 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2016
+Earliest disclosure: 2014-12-11
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Talos Principle Robots (2014-12-11)
+
+- **id**: `talos-principle-robots`
+- **corpus**: fictional
+- **creator**: Croteam (game); Tom Jubert and Jonas Kyratzes (story)
+- **disclosure**: Croteam. The Talos Principle. Devolver Digital, December 11, 2014. Story by Tom Jubert and Jonas Kyratzes.
+- **ip status**: fictional
+- **prior art notes**: The Talos Principle is one of the most engineering-philosophical fictional disclosures of *sim-to-real training as the explicit deployment paradigm* for humanoid policies. Anticipates: (1) deliberately-constructed simulation training environment as the policy-acquisition substrate — directly relevant to modern sim-to-real humanoid IP (every commercial humanoid uses some variant of this paradigm); (2) curriculum design for progressive task difficulty — relevant to curriculum-learning humanoid claims; (3) ethical/philosophical reasoning as part of the training curriculum — relevant to alignment-supervision humanoid IP. The 2014 release predates much of the academic literature on sim-to-real humanoid policies. Continuously available since 2014.
 
 ## ANYmal (2016)
 

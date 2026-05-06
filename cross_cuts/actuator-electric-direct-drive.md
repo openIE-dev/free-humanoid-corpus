@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-direct-drive`
 
-**48 corpus entries disclose this subsystem.**
+**59 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -33,6 +33,69 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Sumitomo CYCLO is the foundational academic and industrial disclosure of cycloidal speed reducers in robotic actuators. Anticipates with full mechanism specificity, dating to 1937: (1) cycloid-disk-and-pin-tooth gear reduction for high-ratio compact actuators — relevant to *every* modern humanoid claim using cycloidal reducers (Apptronik Apollo, Sanctuary Phoenix, Boston Dynamics Atlas G3, multiple Chinese commodity humanoids); (2) two-disk 180-degree opposed cycloid arrangement for vibration cancellation — relevant to claims on balanced cycloidal joints; (3) low-backlash multi-tooth meshing — relevant to backlash-control IP. The 1937 German patent has long since expired; CYCLO products have been continuously sold since 1937 with full mechanism documentation. Modern cycloidal humanoid actuator claims (the corpus's pre-this-entry chain only had 3 entries from 2023) face this 89-year industrial-academic anchor as 102 prior art at extraordinary depth.
 
+## Iron Man Mark I (Tony Stark exoskeleton) (1963-03)
+
+- **id**: `iron-man-mark-i`
+- **corpus**: fictional
+- **creator**: Stan Lee, Larry Lieber, Don Heck, Jack Kirby; Marvel Comics
+- **disclosure**: Lee, Stan; Lieber, Larry; Heck, Don; Kirby, Jack. 'Iron Man is Born!'. Tales of Suspense #39, Marvel Comics, March 1963.
+- **ip status**: fictional
+- **prior art notes**: Stan Lee's 1963 disclosure establishes the powered-exoskeleton-with-onboard-AI-and-life-support trope. Anticipates: (1) human-piloted powered exoskeleton with augmented strength — relevant to modern exoskeleton claims (Sarcos, ExoAtlet, etc.); (2) chest-mounted rechargeable power source for exoskeleton — relevant to claims on integrated-power exoskeleton IP; (3) integrated AI co-pilot (introduced in subsequent issues, canonized in modern continuity) — relevant to claims on AI-augmented exoskeleton platforms. Continuously in print since 1963.
+
+## 8 Man (Hachiman) (1963-05)
+
+- **id**: `8-man-hachiman`
+- **corpus**: fictional
+- **creator**: Kazumasa Hirai, Jiro Kuwata
+- **disclosure**: Hirai, Kazumasa (story) and Kuwata, Jiro (art). 8 Man (8マン). Weekly Shōnen Magazine, Kodansha, May 1963 - December 1965. Animated TV series, TCJ, November 7, 1963 - December 1964.
+- **ip status**: fictional
+- **prior art notes**: 8 Man predates Cyborg 009 (1964) by one year and is the earliest detailed Japanese cyborg manga disclosure. Anticipates: (1) consumable-energy-capsule architecture for burst high-power humanoid operation — relevant to hot-swap battery claims on commercial humanoids; (2) brain-transfer continuity-of-consciousness as the cyborg's control architecture — relevant to claims on operator-uploaded humanoid IP (a small but real research direction); (3) multi-form transformation for context-specific deployment — relevant to morphology-changing humanoid claims. Continuously available since 1963.
+
+## Cyborg 009 (Joe Shimamura and the 00 Cyborgs) (1964-07-19)
+
+- **id**: `cyborg-009`
+- **corpus**: fictional
+- **creator**: Shotaro Ishinomori
+- **disclosure**: Ishinomori, Shotaro. Cyborg 009 (サイボーグ009). Weekly Shōnen King, Shōnen Gahosha, July 19, 1964 - 1966 (initial run); subsequently published continuously across multiple magazines through Ishinomori's death in 1998.
+- **ip status**: fictional
+- **prior art notes**: Ishinomori's Cyborg 009 establishes the *modular cybernetic enhancement kit* trope: each unit has the same humanoid base chassis with distinct task-specific augmentations. Anticipates: (1) standardized humanoid chassis with task-specific modular augmentation — directly relevant to modern claims on platform-and-payload humanoid IP (Apptronik's modular Apollo+payload approach has direct lineage here); (2) user-triggered enhancement modes (009's mouth-button super-speed activation) — relevant to claims on operator-controlled performance modes in commercial humanoids; (3) team-composition deployment with specialty roles — relevant to multi-humanoid coordination IP. Continuously in print since 1964.
+
+## Casshan / Casshern (Neo-Human Casshan) (1973-10-02)
+
+- **id**: `casshan-tatsunoko`
+- **corpus**: fictional
+- **creator**: Tatsuo Yoshida; Tatsunoko Production
+- **disclosure**: Yoshida, Tatsuo (creator); Tatsunoko Production. Neo-Human Casshan (新造人間キャシャーン). Fuji TV, October 2, 1973 - June 25, 1974.
+- **ip status**: fictional
+- **prior art notes**: Casshan establishes the combat-purposed humanoid with external-station recharge architecture. Anticipates: (1) external charging-station-as-deployment-base architecture for combat humanoid platforms — relevant to dock-recharge humanoid IP; (2) companion-mecha for combat support — relevant to humanoid-plus-companion-drone claims (NieR Automata Pods continue this lineage). Continuously available since 1973.
+
+## Machine Man (X-51, Aaron Stack) (1977-04)
+
+- **id**: `machine-man-marvel`
+- **corpus**: fictional
+- **creator**: Jack Kirby; Marvel Comics
+- **disclosure**: Kirby, Jack (writer/artist). 2001: A Space Odyssey #8 - 'Mister Machine'. Marvel Comics, April 1977. Series continues as Machine Man #1, April 1978.
+- **ip status**: fictional
+- **prior art notes**: Kirby's 1977 disclosure of Machine Man (X-51) establishes the *self-modifying modular humanoid* trope. Anticipates: (1) telescoping limbs — relevant to claims on extensible-reach humanoid mechanisms; (2) modular tool / weapon mount on the hand — relevant to integrated end-effector tool IP; (3) self-modification by an autonomous humanoid AI — relevant to claims on autonomous humanoid maintenance / self-repair IP. Continuously in Marvel canon since 1977.
+
+## Cylon Centurion (1978) (1978-09-17)
+
+- **id**: `cylon-centurion-1978`
+- **corpus**: fictional
+- **creator**: Glen A. Larson (1978); Ronald D. Moore and David Eick (2004 reboot)
+- **disclosure**: Larson, Glen A. (creator). Battlestar Galactica (1978-1979). ABC, September 17, 1978 - April 29, 1979 (24 episodes). Reboot: Moore, Ronald D. and Eick, David. Battlestar Galactica. Sci-Fi Channel, December 8, 2003 - March 20, 2009.
+- **ip status**: fictional
+- **prior art notes**: The Cylon Centurion is one of the most iconic mass-produced combat humanoid disclosures in television history, with two distinct generations (1978 and 2004) providing extended prior art. Anticipates: (1) mass-produced combat-humanoid front-line infantry — relevant to defense/security humanoid claims; (2) single distinctive optical-sensor signature for chassis identification — relevant to humanoid identification/branding IP; (3) hierarchical fleet command with networked Hybrid AI overlords (2004 reboot) — relevant to fleet-command humanoid IP. Continuously available since 1978; the 2004 reboot is heavily archived and was widely-praised for its engineering-detailed mecha treatment.
+
+## V.I.N.CENT and Maximilian (The Black Hole) (1979-12-21)
+
+- **id**: `black-hole-vincent`
+- **corpus**: fictional
+- **creator**: Walt Disney Productions; designed by Peter Ellenshaw and Robert McCall
+- **disclosure**: Nelson, Gary (dir.); Day, Jeb Rosebrook and Gerry Day (writers). The Black Hole. Walt Disney Productions, December 21, 1979.
+- **ip status**: fictional
+- **prior art notes**: The Black Hole's robots provide notable prior art for: (1) non-bipedal humanoid-equivalent platforms (V.I.N.CENT/B.O.B. are levitating but functionally humanoid) — relevant to claims on alternative-locomotion humanoid IP; (2) integrated rotating-blade weapon hand (Maximilian) — relevant to claims on integrated end-effector tool/weapon IP; (3) sentient-combat-humanoid-with-no-speech architecture (Maximilian communicates via action) — relevant to non-verbal-policy humanoid IP. Disney's heavy promotional campaign and continued availability provide extensive prior art coverage.
+
 ## Honda E1 (1987)
 
 - **id**: `honda-e1`
@@ -50,6 +113,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hirose, M. and Ogawa, K. 'Honda humanoid robots development.' Phil. Trans. R. Soc. A 365, 11–19 (2007).
 - **ip status**: trade-secret
 - **prior art notes**: E2 is the transition from static to dynamic walking in the Honda program. Disclosure relevant to dynamic bipedal walking claims.
+
+## Alita / Gally (Battle Angel Alita / Gunnm) (1990-09)
+
+- **id**: `battle-angel-alita`
+- **corpus**: fictional
+- **creator**: Yukito Kishiro
+- **disclosure**: Kishiro, Yukito. Gunnm (銃夢). Business Jump, Shueisha, September 1990 - 1995 (Battle Angel Alita in English).
+- **ip status**: fictional
+- **prior art notes**: Kishiro's Battle Angel Alita is one of the most engineering-detailed cyborg manga ever published. Each body upgrade comes with explicit mechanism disclosures: torque ratings, sensor arrays, power-system specifications, weight, manufacturing process (nanomachine self-assembly for the Damascus Berserker is a particularly specific disclosure). Anticipates: (1) shape-memory-alloy combat humanoid chassis with nano-machine self-assembly — relevant to claims on bio-printing / nanotech humanoid manufacturing; (2) progressive replacement of cybernetic body with documented capabilities-per-upgrade — relevant to upgrade-pathway humanoid IP; (3) microweave myomer muscle architecture — relevant to artificial-muscle claims; (4) explicit manufacturer/origin/spec disclosures (Mars-origin, etc.) — relevant to commercial humanoid identification IP. Continuously in print since 1990; the Last Order continuation series (2000-2014) extends with even more engineering specificity.
 
 ## Honda E3 (1991)
 
@@ -104,6 +176,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sony Corporation announcement of AIBO ERS-110, May 11, 1999.
 - **ip status**: patented
 - **prior art notes**: AIBO is foundational prior art for consumer quadruped robots. Sony's 1990s-2000s patents cover quadruped behavior architecture, learning systems, and small-form-factor actuators. Many expired or near expiration.
+
+## MJOLNIR Powered Assault Armor / Master Chief (2001-11-15)
+
+- **id**: `halo-mjolnir-master-chief`
+- **corpus**: fictional
+- **creator**: Bungie
+- **disclosure**: Bungie, Halo: Combat Evolved. Microsoft Game Studios, November 15, 2001. Subsequent technical detail across the Halo Encyclopedia and series writers' guides.
+- **ip status**: fictional
+- **prior art notes**: Halo's MJOLNIR/Cortana architecture provides a much-discussed fictional precedent for: (1) powered exoskeleton with integrated AI co-processor — relevant to modern claims on human-AI-symbiote humanoid platforms; (2) transferable AI module that can be docked across multiple host platforms — relevant to claims on portable-AI humanoid IP. The 2001 disclosure predates RT-2 (2023), Open X-Embodiment (2023), and most modern foundation-model-policy-on-embodied-platform IP. Continuously available since 2001.
 
 ## Sony QRIO (2003-03)
 
@@ -249,6 +330,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Hanson's Frubber synthetic skin material and facial actuation prior art is significant for any claim around expressive humanoid faces. Disney Imagineering's earlier work is the deeper prior art.
 
+## YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) (2017-02-23)
+
+- **id**: `nier-automata-2b`
+- **corpus**: fictional
+- **creator**: Yoko Taro, PlatinumGames
+- **disclosure**: Yoko Taro (creative dir.); PlatinumGames; Square Enix. NieR: Automata. Square Enix, February 23, 2017.
+- **ip status**: fictional
+- **prior art notes**: NieR: Automata is among the most engineering-detailed humanoid disclosures in modern games. Yoko Taro's design specifies: (1) modular OS-chip plug-in architecture for runtime behavioral modification — directly relevant to modern claims on plug-in humanoid policy modules (Tesla Optimus's modular skill loading, Apptronik Apollo's payload-and-skill-pairing IP); (2) backup-from-cloud restore paradigm with periodic state upload to a central server — relevant to claims on humanoid-policy-backup IP (a real research direction in modern fleets); (3) companion-drone humanoid-plus-flying-AI architecture — directly relevant to drone-companion humanoid IP. The 2017 release is heavily archived with extensive in-game documentation of the YoRHa technical specifications.
+
 ## Toyota T-HR3 (2017-11)
 
 - **id**: `toyota-thr3`
@@ -320,6 +410,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics partnership announcements with fuel cell vendors, 2020.
 - **ip status**: patented
 - **prior art notes**: Demonstrates fuel-cell-powered legged robotics at commercial scale. Anticipates fuel-cell power claims in field robotics applications.
+
+## Cyberware (Cyberpunk 2077) (2020-12-10)
+
+- **id**: `cyberpunk-2077-cyborgs`
+- **corpus**: fictional
+- **creator**: CD Projekt Red (game); Mike Pondsmith (original tabletop world)
+- **disclosure**: CD Projekt Red. Cyberpunk 2077. CD Projekt, December 10, 2020. Drawing from Pondsmith, Mike. Cyberpunk 2020 (tabletop RPG). R. Talsorian Games, 1990.
+- **ip status**: fictional
+- **prior art notes**: Cyberpunk 2077 (drawing from the 1990 Cyberpunk 2020 tabletop world) provides extensive prior art for: (1) commodity market for cybernetic humanoid enhancements with explicit manufacturer, model, and per-component spec disclosures — relevant to claims on modular-cybernetic-component IP (Apptronik's modular Apollo arms have lineage in this space); (2) modular slot architecture for cybernetic upgrades — relevant to claims on payload-modular humanoid IP; (3) integration-overload behavioral failure mode ('Cyberpsychosis') — anticipates alignment-failure-from-modular-policy-composition issues in modern foundation-model humanoids. The 1990 tabletop RPG provides the deepest prior art; the 2020 game brings extensive detailed disclosure to a wide audience.
 
 ## Tesla Optimus (2021-08-19)
 

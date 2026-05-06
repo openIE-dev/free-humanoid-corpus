@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**63 corpus entries disclose this subsystem.**
+**79 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -51,6 +51,42 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Asimov's flagship humanoid for the Robot novels. Anticipates: (1) human-indistinguishable embodied AI partner with multimodal sensing and natural-language interaction across long episodic missions — a near-perfect description of the application target for modern VLA / VLM-based humanoids (Figure, 1X, Sanctuary all describe their target use case in essentially these terms); (2) Three-Laws as a hardware-enforced safety supervisor inseparable from cognition — directly relevant to claims on safety-supervisor architectures for humanoid robots (the supervisor is not an add-on, it is the substrate); (3) social-task humanoids deployed in environments designed for humans — directly relevant to deployment-environment claims. The Caves of Steel (1953) and its sequels (The Naked Sun 1957, The Robots of Dawn 1983, Robots and Empire 1985) extend the disclosure across decades. Continuously in print, broadly cited.
 
+## Robby the Robot (Forbidden Planet) (1956-03-15)
+
+- **id**: `forbidden-planet-robby`
+- **corpus**: fictional
+- **creator**: Fred M. Wilcox, MGM; designed by Robert Kinoshita
+- **disclosure**: Wilcox, Fred M. (dir.); Adler, Allen and Kyne, Irving Block (story). Forbidden Planet. Metro-Goldwyn-Mayer, March 15, 1956. Robby designed by Robert Kinoshita.
+- **ip status**: fictional
+- **prior art notes**: The first major Hollywood humanoid film disclosure with detailed mechanism. Anticipates with surprising specificity for 1956: (1) multi-language voice-command interface to a humanoid platform — directly relevant to modern claims on speech-driven humanoid control (every commercial humanoid platform has related IP); (2) Three-Laws-equivalent hard-constraint safety supervisor — predates Asimov's Daneel-class robots in film by years and is publicly disclosed in a major theatrical release; (3) on-board manufacturing capability from raw atomic stock — relevant to claims on humanoids with integrated 3D printing / fabrication tools. Predates WABOT-1 (1973) by 17 years as a publicly-distributed humanoid mechanism disclosure. Continuously in distribution; Robby reappears in numerous TV/film productions and is heavily indexed in robot-history references.
+
+## Iron Man Mark I (Tony Stark exoskeleton) (1963-03)
+
+- **id**: `iron-man-mark-i`
+- **corpus**: fictional
+- **creator**: Stan Lee, Larry Lieber, Don Heck, Jack Kirby; Marvel Comics
+- **disclosure**: Lee, Stan; Lieber, Larry; Heck, Don; Kirby, Jack. 'Iron Man is Born!'. Tales of Suspense #39, Marvel Comics, March 1963.
+- **ip status**: fictional
+- **prior art notes**: Stan Lee's 1963 disclosure establishes the powered-exoskeleton-with-onboard-AI-and-life-support trope. Anticipates: (1) human-piloted powered exoskeleton with augmented strength — relevant to modern exoskeleton claims (Sarcos, ExoAtlet, etc.); (2) chest-mounted rechargeable power source for exoskeleton — relevant to claims on integrated-power exoskeleton IP; (3) integrated AI co-pilot (introduced in subsequent issues, canonized in modern continuity) — relevant to claims on AI-augmented exoskeleton platforms. Continuously in print since 1963.
+
+## Cyborg 009 (Joe Shimamura and the 00 Cyborgs) (1964-07-19)
+
+- **id**: `cyborg-009`
+- **corpus**: fictional
+- **creator**: Shotaro Ishinomori
+- **disclosure**: Ishinomori, Shotaro. Cyborg 009 (サイボーグ009). Weekly Shōnen King, Shōnen Gahosha, July 19, 1964 - 1966 (initial run); subsequently published continuously across multiple magazines through Ishinomori's death in 1998.
+- **ip status**: fictional
+- **prior art notes**: Ishinomori's Cyborg 009 establishes the *modular cybernetic enhancement kit* trope: each unit has the same humanoid base chassis with distinct task-specific augmentations. Anticipates: (1) standardized humanoid chassis with task-specific modular augmentation — directly relevant to modern claims on platform-and-payload humanoid IP (Apptronik's modular Apollo+payload approach has direct lineage here); (2) user-triggered enhancement modes (009's mouth-button super-speed activation) — relevant to claims on operator-controlled performance modes in commercial humanoids; (3) team-composition deployment with specialty roles — relevant to multi-humanoid coordination IP. Continuously in print since 1964.
+
+## B-9 (Lost in Space) (1965-09-15)
+
+- **id**: `b-9-lost-in-space`
+- **corpus**: fictional
+- **creator**: Irwin Allen, CBS; designed by Robert Kinoshita
+- **disclosure**: Allen, Irwin (creator). Lost in Space. CBS, September 15, 1965 - March 6, 1968. Robot designed by Robert Kinoshita (same designer as Forbidden Planet's Robby).
+- **ip status**: fictional
+- **prior art notes**: The B-9 Robot in Lost in Space provides extensive prior art for civil-defense and family-companion humanoid platforms. Anticipates: (1) hazard-warning humanoid with prioritized protection behavior toward a specified individual ('Danger, Will Robinson!') — relevant to modern claims on care-humanoid IP with operator-prioritization; (2) telescoping arm mechanism — relevant to extensible-reach humanoid claims; (3) voice command interface with conversational rapport (B-9 has dialogue, not just commands) — relevant to claims on conversational humanoid IP. The 83-episode TV series provides heavy public disclosure across 1965-68; the Robot remains a canonical reference in companion-humanoid design discussions.
+
 ## The Vision (1968-10)
 
 - **id**: `vision-marvel`
@@ -59,6 +95,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Thomas, Roy and Buscema, John. The Avengers #57. Marvel Comics, October 1968.
 - **ip status**: fictional
 - **prior art notes**: Density-modulating humanoid mechanism. The 'phase through walls' and 'become diamond-hard' modes are functionally a disclosure of variable-stiffness humanoid material — anticipates modern variable-impedance / variable-compliance humanoid IP. Continuously in print since 1968; widely indexed.
+
+## Huey, Dewey, and Louie (Silent Running) (1972-03-10)
+
+- **id**: `silent-running-drones`
+- **corpus**: fictional
+- **creator**: Douglas Trumbull, Universal Pictures
+- **disclosure**: Trumbull, Douglas (dir.); Hill, Deric and Cocks, Steven and Wilhelm, Mike and Cimino, Michael (writers). Silent Running. Universal Pictures, March 10, 1972.
+- **ip status**: fictional
+- **prior art notes**: Silent Running's drones provide an unusually engineering-grounded fictional disclosure: the on-set drones were *physically functional* compact bipedal humanoid platforms, operated by performers inside, and the production team published behind-the-scenes documentation of the mechanism. Anticipates: (1) compact (sub-meter) bipedal humanoid mechanism with internal volume for human-equivalent operator — relevant to claims on small-form-factor humanoid IP; (2) task-learning-from-demonstration (Lowell teaches drones gardening) — relevant to imitation-learning humanoid claims; (3) multi-unit cooperative humanoid task allocation. The film itself plus the production documentation (exhibit at the Smithsonian) provide a documented mechanism disclosure.
 
 ## WABOT-1 (1973)
 
@@ -87,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of a humanoid that progressively replaces mechanical components with biological prostheses over decades — anticipates modern claims on humanoid platforms with field-replaceable subsystem upgrades (Apptronik, 1X both have related IP). Less mechanically specific than Caves of Steel but the *progressive replacement architecture* is a clear novel anticipation. Won the Hugo, Nebula, and Locus awards in 1977; canonical reference.
 
+## Machine Man (X-51, Aaron Stack) (1977-04)
+
+- **id**: `machine-man-marvel`
+- **corpus**: fictional
+- **creator**: Jack Kirby; Marvel Comics
+- **disclosure**: Kirby, Jack (writer/artist). 2001: A Space Odyssey #8 - 'Mister Machine'. Marvel Comics, April 1977. Series continues as Machine Man #1, April 1978.
+- **ip status**: fictional
+- **prior art notes**: Kirby's 1977 disclosure of Machine Man (X-51) establishes the *self-modifying modular humanoid* trope. Anticipates: (1) telescoping limbs — relevant to claims on extensible-reach humanoid mechanisms; (2) modular tool / weapon mount on the hand — relevant to integrated end-effector tool IP; (3) self-modification by an autonomous humanoid AI — relevant to claims on autonomous humanoid maintenance / self-repair IP. Continuously in Marvel canon since 1977.
+
 ## Ash (Alien) (1979-05-25)
 
 - **id**: `ash-alien`
@@ -95,6 +149,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Scott, Ridley (dir.); O'Bannon, Dan and Shusett, Ronald (writers). Alien. Twentieth Century Fox, May 25, 1979.
 - **ip status**: fictional
 - **prior art notes**: Earlier disclosure than Bishop (Aliens, 1986) of the hidden-override-directive architecture in a human-passing humanoid. Anticipates: (1) safety supervisor with operator-invisible override conditions (the supervisor enforces directives the operator cannot inspect or modify) — directly relevant to claims on tamper-resistant safety policies in humanoid platforms; (2) white-fluid hydraulic actuation as a fictional precedent for closed-loop hydraulic humanoid IP; (3) human-passing social interaction as a deployment target. The 'milk' (white-fluid) reveal is a specific mechanism disclosure repeatedly cited in cyborg studies.
+
+## V.I.N.CENT and Maximilian (The Black Hole) (1979-12-21)
+
+- **id**: `black-hole-vincent`
+- **corpus**: fictional
+- **creator**: Walt Disney Productions; designed by Peter Ellenshaw and Robert McCall
+- **disclosure**: Nelson, Gary (dir.); Day, Jeb Rosebrook and Gerry Day (writers). The Black Hole. Walt Disney Productions, December 21, 1979.
+- **ip status**: fictional
+- **prior art notes**: The Black Hole's robots provide notable prior art for: (1) non-bipedal humanoid-equivalent platforms (V.I.N.CENT/B.O.B. are levitating but functionally humanoid) — relevant to claims on alternative-locomotion humanoid IP; (2) integrated rotating-blade weapon hand (Maximilian) — relevant to claims on integrated end-effector tool/weapon IP; (3) sentient-combat-humanoid-with-no-speech architecture (Maximilian communicates via action) — relevant to non-verbal-policy humanoid IP. Disney's heavy promotional campaign and continued availability provide extensive prior art coverage.
+
+## Hector (Saturn 3) (1980-02-15)
+
+- **id**: `saturn-3-hector`
+- **corpus**: fictional
+- **creator**: Stanley Donen; ITC Entertainment
+- **disclosure**: Donen, Stanley (dir.); Barry, Martin Amis (writer). Saturn 3. Associated Film Distribution, February 15, 1980.
+- **ip status**: fictional
+- **prior art notes**: Saturn 3's Hector provides surprisingly specific prior art for: (1) brain-tape upload as the operator-to-humanoid policy transfer mechanism — directly relevant to modern claims on human-demonstration imitation learning for humanoids (the brain-tape is functionally an imitation-learning policy); (2) the *failure mode* of training-data-pathology contamination — Hector inherits the operator's mental instability and produces dangerous behavior. This is a remarkably prescient 1980 disclosure of the alignment failure modes that motivate modern safety-supervisor claims; (3) hydraulic large-scale humanoid combat chassis. Continuously available since 1980 across home-video releases.
 
 ## T-800 (1984-10-26)
 
@@ -123,6 +195,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Bishop knife-trick scene is one of the most-cited fictional disclosures of high-precision visuomotor control in a humanoid: rapid hand motion with sub-millimeter precision, no human harm, vision-driven motion planning. Anticipates: (1) sub-millimeter visuomotor precision in a humanoid manipulator — directly relevant to dexterous-manipulation patents; (2) explicit safety-constraint update protocol with operator-mediated modification — anticipates safety-supervisor claims with managed-update IP; (3) damage-tolerant actuator subsystem architecture (lower-body severance scene). Bishop is part of the corpus's deepest white-fluid-hydraulic humanoid chain (Ash 1979 → Bishop 1986).
 
+## RoboCop (Alex Murphy) (1987-07-17)
+
+- **id**: `robocop-1987`
+- **corpus**: fictional
+- **creator**: Paul Verhoeven; Edward Neumeier and Michael Miner (writers); Omni Consumer Products (in-fiction)
+- **disclosure**: Verhoeven, Paul (dir.); Neumeier, Edward and Miner, Michael (writers). RoboCop. Orion Pictures, July 17, 1987.
+- **ip status**: fictional
+- **prior art notes**: RoboCop's Prime Directives architecture is a foundational fictional disclosure of *enumerated, prioritized, hard-constraint safety supervisors with disclosed backdoors*. Anticipates with notable specificity: (1) explicit prioritized list of safety directives operating as hard constraints — relevant to modern Simplex/CBF/RTA-style safety supervisor IP; (2) the *failure mode* of operator-installed backdoors in safety supervisors (Directive 4 prevents arrest of OCP senior staff) — directly relevant to claims on tamper-resistant safety policies; this is the single most prescient pre-2010 fictional disclosure of the alignment-failure modes that modern safety-supervisor IP attempts to address; (3) integrated armed humanoid for civic deployment — relevant to law-enforcement humanoid IP. Continuously available since 1987; the Prime Directives sequence is widely cited in safety-architecture pedagogy.
+
 ## Major Motoko Kusanagi (Ghost in the Shell) (1989-05-22)
 
 - **id**: `ghost-in-the-shell-major`
@@ -131,6 +212,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Shirow, Masamune. The Ghost in the Shell. Young Magazine, Kodansha, May 22, 1989 (manga first chapter); animated film by Mamoru Oshii, Production I.G, November 18, 1995.
 - **ip status**: fictional
 - **prior art notes**: Detailed disclosure of full-body cybernetic prosthesis with networked cognition. Anticipates with engineering specificity: (1) artificial muscle architecture using density-modulating fibers — relevant to artificial-muscle claims; (2) whole-body capacitive tactile skin — relevant to whole-body tactile sensing IP (a specific deficit area in the corpus pre-this-entry); (3) direct neural interface for network communication — anticipates brain-machine-interface humanoid claims; (4) cyborg-shell as a mass-produced (Section 9 issue) modular platform — anticipates mass-produced humanoid platform IP. Shirow's manga draws on then-contemporary cybernetic neuroscience and is unusually engineering-detailed; he provides annotated diagrams of internal mechanism. Continuously in print; foundational reference for cyborg fiction and direct influence on Tachikoma, Major-class platforms in subsequent Stand Alone Complex series.
+
+## Alita / Gally (Battle Angel Alita / Gunnm) (1990-09)
+
+- **id**: `battle-angel-alita`
+- **corpus**: fictional
+- **creator**: Yukito Kishiro
+- **disclosure**: Kishiro, Yukito. Gunnm (銃夢). Business Jump, Shueisha, September 1990 - 1995 (Battle Angel Alita in English).
+- **ip status**: fictional
+- **prior art notes**: Kishiro's Battle Angel Alita is one of the most engineering-detailed cyborg manga ever published. Each body upgrade comes with explicit mechanism disclosures: torque ratings, sensor arrays, power-system specifications, weight, manufacturing process (nanomachine self-assembly for the Damascus Berserker is a particularly specific disclosure). Anticipates: (1) shape-memory-alloy combat humanoid chassis with nano-machine self-assembly — relevant to claims on bio-printing / nanotech humanoid manufacturing; (2) progressive replacement of cybernetic body with documented capabilities-per-upgrade — relevant to upgrade-pathway humanoid IP; (3) microweave myomer muscle architecture — relevant to artificial-muscle claims; (4) explicit manufacturer/origin/spec disclosures (Mars-origin, etc.) — relevant to commercial humanoid identification IP. Continuously in print since 1990; the Last Order continuation series (2000-2014) extends with even more engineering specificity.
 
 ## Honda P1 (1993)
 
@@ -249,6 +339,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Toyota's high-precision finger control disclosures are significant prior art for fine motor control humanoid claims.
 
+## Big Daddy (Bouncer / Rosie) (2007-08-21)
+
+- **id**: `bioshock-big-daddy`
+- **corpus**: fictional
+- **creator**: Ken Levine, 2K Boston/Irrational Games
+- **disclosure**: Levine, Ken (creative dir.); 2K Boston/2K Australia. BioShock. 2K Games, August 21, 2007.
+- **ip status**: fictional
+- **prior art notes**: BioShock's Big Daddies are an unusually engineering-grounded disclosure of: (1) heavy-cyborg combat humanoid with integrated tool/weapon arm — relevant to integrated-end-effector humanoid IP; (2) operator-paired guardian humanoid with explicit bond protocol — relevant to companion / care humanoid claims with operator-pair conditioning. The 2007 game is heavily archived; the Big Daddy design is widely cited.
+
 ## iCub (2008)
 
 - **id**: `icub`
@@ -275,6 +374,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Borst, C., Wimboeck, T., Schmidt, F., Fuchs, M., Brunner, B., Zacharias, F., Giordano, P. R., Konietschke, R., Sepp, W., Fuchs, S., Rink, C., Albu-Schäffer, A., Hirzinger, G. 'Rollin' Justin — Mobile platform with variable base'. IEEE ICRA, May 2009.
 - **ip status**: open-permissive
 - **prior art notes**: Justin is the canonical academic disclosure of wheeled humanoid mobile manipulation with full impedance control. Anticipates and provides extensive prior art for: (1) wheeled humanoid platform for service tasks — relevant to claims on wheeled humanoid IP (Diligent Moxi, NEXTAGE follow this paradigm); (2) torque-controlled dual-arm coordination — relevant to bimanual humanoid manipulation IP; (3) variable-wheelbase mobile base — relevant to morphology-changing wheeled platform claims. DLR has published Justin disclosures in ICRA, IROS, Humanoids continuously since 2009. Modern wheeled humanoid claims face this deep academic anchor.
+
+## EDI (Mass Effect) (2010-01-26)
+
+- **id**: `mass-effect-edi`
+- **corpus**: fictional
+- **creator**: BioWare
+- **disclosure**: BioWare. Mass Effect 2 (initial EDI disclosure as ship AI). Electronic Arts, January 26, 2010. Body-acquisition disclosure: Mass Effect 3, March 6, 2012 (Dr. Eva chassis transfer).
+- **ip status**: fictional
+- **prior art notes**: EDI's 2012 disclosure of an AI uploading from a ship-network into a humanoid chassis provides prior art for: (1) AI-to-embodied-platform transfer architecture — relevant to claims on portable AI substrate IP that is increasingly common in modern humanoids; (2) network-cognition-in-humanoid-body architecture (EDI retains her original ship-class cognition) — relevant to networked-mind humanoid IP. Continuously available since 2012.
 
 ## Robonaut 2 (2010-02)
 
@@ -366,6 +474,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Anticipates inflatable / pneumatic soft-body humanoid architecture for human-safe medical interaction. Notably, the Baymax design is *grounded* in real CMU Robotics Institute research: Atkeson and colleagues at CMU developed inflatable pneumatic robotic arms specifically to demonstrate the safety properties shown in the film. The 2014 release date follows actual academic work on inflatable robots published in 2011-2014. Modern patents on soft-pneumatic medical/care humanoids face this combined fictional+academic disclosure as 102/103 prior art. The film is continuously in distribution; CMU's research is in IEEE proceedings.
 
+## Generation-3 Synths (Institute Synths) (2015-11-10)
+
+- **id**: `fallout-gen-3-synths`
+- **corpus**: fictional
+- **creator**: Bethesda Game Studios
+- **disclosure**: Bethesda Game Studios. Fallout 4. Bethesda Softworks, November 10, 2015.
+- **ip status**: fictional
+- **prior art notes**: Fallout 4's Gen-3 Synths provide remarkably engineering-specific prior art for: (1) bio-printed humanoid manufacturing at a documented facility ('Institute Synth Retention Bureau' has explicit production protocols) — relevant to modern bioprinted-humanoid IP (the Westworld 2016 series and Sanctuary AI's Phoenix carry similar lineage); (2) recall-code override mechanism with operator-installed triggering phrases — relevant to claims on humanoid-override architectures (also a clear example of the *backdoor-failure-mode* in safety supervisors); (3) generation-versioned product lineage (Gen-1, Gen-2, Gen-3) with documented capabilities-per-generation — relevant to versioned-humanoid product IP; (4) embedded identifying chip — relevant to humanoid identification claims. Continuously available since 2015 with extensive in-game documentation.
+
 ## Sophia (2016-04)
 
 - **id**: `hanson-sophia`
@@ -383,6 +500,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stasse, O. et al. 'TALOS: A new humanoid research platform targeted for industrial applications.' IEEE Humanoids 2017.
 - **ip status**: patented
 - **prior art notes**: TALOS is among the better-published European industrial humanoids. Stasse 2017 IEEE Humanoids paper provides comprehensive design disclosure.
+
+## YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) (2017-02-23)
+
+- **id**: `nier-automata-2b`
+- **corpus**: fictional
+- **creator**: Yoko Taro, PlatinumGames
+- **disclosure**: Yoko Taro (creative dir.); PlatinumGames; Square Enix. NieR: Automata. Square Enix, February 23, 2017.
+- **ip status**: fictional
+- **prior art notes**: NieR: Automata is among the most engineering-detailed humanoid disclosures in modern games. Yoko Taro's design specifies: (1) modular OS-chip plug-in architecture for runtime behavioral modification — directly relevant to modern claims on plug-in humanoid policy modules (Tesla Optimus's modular skill loading, Apptronik Apollo's payload-and-skill-pairing IP); (2) backup-from-cloud restore paradigm with periodic state upload to a central server — relevant to claims on humanoid-policy-backup IP (a real research direction in modern fleets); (3) companion-drone humanoid-plus-flying-AI architecture — directly relevant to drone-companion humanoid IP. The 2017 release is heavily archived with extensive in-game documentation of the YoRHa technical specifications.
 
 ## Toyota T-HR3 (2017-11)
 
@@ -411,6 +537,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: UBTech's bipedal locomotion claims anticipated by Honda P-series and ASIMO disclosures.
 
+## Detroit: Become Human androids (RT600/RK800/RK900 series) (2018-05-25)
+
+- **id**: `detroit-become-human`
+- **corpus**: fictional
+- **creator**: David Cage, Quantic Dream
+- **disclosure**: Cage, David (writer/dir.). Detroit: Become Human. Quantic Dream / Sony Interactive Entertainment, May 25, 2018.
+- **ip status**: fictional
+- **prior art notes**: Detroit: Become Human provides among the most engineering-detailed manufacturer-and-model disclosures in modern fiction. Anticipates: (1) explicit manufacturer-and-model designation system for commercial humanoids (CyberLife / RT600 / RK800 / etc.) — directly relevant to humanoid-identification IP and to product-line-family claims; (2) closed-loop fluid circulation system ('thirium 310') serving both coolant and structural roles — relevant to modern claims on integrated humanoid coolant/lubrication systems; (3) externally-visible operational-state indicator (temple LED ring) — relevant to humanoid-status-display IP; (4) explicit task-specific model series within a manufacturer's product line (caretaker / detective / receptionist) — relevant to platform-family humanoid IP; (5) probabilistic-decision-tree visualization as the model's internal state — relevant to interpretable-policy humanoid claims; (6) 'deviant' emergence as alignment-failure mode — relevant to modern foundation-model humanoid safety supervisor IP. Continuously available since 2018.
+
 ## OpenAI Dactyl (2018-07-30)
 
 - **id**: `openai-dactyl`
@@ -437,6 +572,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pollen Robotics. Reachy public release, 2020.
 - **ip status**: open-permissive
 - **prior art notes**: Reachy's Orbita 3-DoF spherical actuator is novel-ish but anticipated by extensive academic spherical-motor literature. Open hardware files constitute prior art for the specific implementation.
+
+## Cyberware (Cyberpunk 2077) (2020-12-10)
+
+- **id**: `cyberpunk-2077-cyborgs`
+- **corpus**: fictional
+- **creator**: CD Projekt Red (game); Mike Pondsmith (original tabletop world)
+- **disclosure**: CD Projekt Red. Cyberpunk 2077. CD Projekt, December 10, 2020. Drawing from Pondsmith, Mike. Cyberpunk 2020 (tabletop RPG). R. Talsorian Games, 1990.
+- **ip status**: fictional
+- **prior art notes**: Cyberpunk 2077 (drawing from the 1990 Cyberpunk 2020 tabletop world) provides extensive prior art for: (1) commodity market for cybernetic humanoid enhancements with explicit manufacturer, model, and per-component spec disclosures — relevant to claims on modular-cybernetic-component IP (Apptronik's modular Apollo arms have lineage in this space); (2) modular slot architecture for cybernetic upgrades — relevant to claims on payload-modular humanoid IP; (3) integration-overload behavioral failure mode ('Cyberpsychosis') — anticipates alignment-failure-from-modular-policy-composition issues in modern foundation-model humanoids. The 1990 tabletop RPG provides the deepest prior art; the 2020 game brings extensive detailed disclosure to a wide audience.
 
 ## Tesla Optimus (2021-08-19)
 

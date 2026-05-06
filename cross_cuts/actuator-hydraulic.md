@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**13 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -78,6 +78,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Earlier disclosure than Bishop (Aliens, 1986) of the hidden-override-directive architecture in a human-passing humanoid. Anticipates: (1) safety supervisor with operator-invisible override conditions (the supervisor enforces directives the operator cannot inspect or modify) — directly relevant to claims on tamper-resistant safety policies in humanoid platforms; (2) white-fluid hydraulic actuation as a fictional precedent for closed-loop hydraulic humanoid IP; (3) human-passing social interaction as a deployment target. The 'milk' (white-fluid) reveal is a specific mechanism disclosure repeatedly cited in cyborg studies.
 
+## Hector (Saturn 3) (1980-02-15)
+
+- **id**: `saturn-3-hector`
+- **corpus**: fictional
+- **creator**: Stanley Donen; ITC Entertainment
+- **disclosure**: Donen, Stanley (dir.); Barry, Martin Amis (writer). Saturn 3. Associated Film Distribution, February 15, 1980.
+- **ip status**: fictional
+- **prior art notes**: Saturn 3's Hector provides surprisingly specific prior art for: (1) brain-tape upload as the operator-to-humanoid policy transfer mechanism — directly relevant to modern claims on human-demonstration imitation learning for humanoids (the brain-tape is functionally an imitation-learning policy); (2) the *failure mode* of training-data-pathology contamination — Hector inherits the operator's mental instability and produces dangerous behavior. This is a remarkably prescient 1980 disclosure of the alignment failure modes that motivate modern safety-supervisor claims; (3) hydraulic large-scale humanoid combat chassis. Continuously available since 1980 across home-video releases.
+
 ## T-800 (1984-10-26)
 
 - **id**: `t-800-terminator`
@@ -96,6 +105,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Bishop knife-trick scene is one of the most-cited fictional disclosures of high-precision visuomotor control in a humanoid: rapid hand motion with sub-millimeter precision, no human harm, vision-driven motion planning. Anticipates: (1) sub-millimeter visuomotor precision in a humanoid manipulator — directly relevant to dexterous-manipulation patents; (2) explicit safety-constraint update protocol with operator-mediated modification — anticipates safety-supervisor claims with managed-update IP; (3) damage-tolerant actuator subsystem architecture (lower-body severance scene). Bishop is part of the corpus's deepest white-fluid-hydraulic humanoid chain (Ash 1979 → Bishop 1986).
 
+## RoboCop (Alex Murphy) (1987-07-17)
+
+- **id**: `robocop-1987`
+- **corpus**: fictional
+- **creator**: Paul Verhoeven; Edward Neumeier and Michael Miner (writers); Omni Consumer Products (in-fiction)
+- **disclosure**: Verhoeven, Paul (dir.); Neumeier, Edward and Miner, Michael (writers). RoboCop. Orion Pictures, July 17, 1987.
+- **ip status**: fictional
+- **prior art notes**: RoboCop's Prime Directives architecture is a foundational fictional disclosure of *enumerated, prioritized, hard-constraint safety supervisors with disclosed backdoors*. Anticipates with notable specificity: (1) explicit prioritized list of safety directives operating as hard constraints — relevant to modern Simplex/CBF/RTA-style safety supervisor IP; (2) the *failure mode* of operator-installed backdoors in safety supervisors (Directive 4 prevents arrest of OCP senior staff) — directly relevant to claims on tamper-resistant safety policies; this is the single most prescient pre-2010 fictional disclosure of the alignment-failure modes that modern safety-supervisor IP attempts to address; (3) integrated armed humanoid for civic deployment — relevant to law-enforcement humanoid IP. Continuously available since 1987; the Prime Directives sequence is widely cited in safety-architecture pedagogy.
+
 ## AV-98 Ingram (1988-04)
 
 - **id**: `patlabor-av-98`
@@ -104,6 +122,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yuki, Masami; Headgear collective (Yuki, Yutaka Izubuchi, Mamoru Oshii, Kazunori Itō, Akemi Takada). Mobile Police Patlabor. Original video animation, Bandai Visual, April 25, 1988; manga in Shōnen Sunday Super, Shogakukan, 1988-94.
 - **ip status**: fictional
 - **prior art notes**: Patlabor's 'Labor' family is an unusually engineering-grounded fictional disclosure of bipedal civilian humanoid robotics. The 1988 OVA explicitly names the 'OS' that handles balance (anticipating ZMP balance controllers years before Honda P2 1996), discloses runtime of ~15 minutes per battery, and depicts limp-on-shutdown safety. Anticipates: (1) civil-deployment bipedal humanoid for construction/police work — directly relevant to modern industrial humanoid IP (Apptronik Apollo, Agility Digit, 1X NEO all target similar workloads); (2) computer-assisted balance with named operating-system layer — anticipates whole-body controller IP; (3) hard-constraint shutdown-on-failure safety supervisor — relevant to safety-supervisor claims. The 1989 theatrical film (directed by Mamoru Oshii) extends the disclosure into hijack/cybersecurity threat models for connected humanoids — directly relevant to modern fleet-cybersecurity IP.
+
+## Big Daddy (Bouncer / Rosie) (2007-08-21)
+
+- **id**: `bioshock-big-daddy`
+- **corpus**: fictional
+- **creator**: Ken Levine, 2K Boston/Irrational Games
+- **disclosure**: Levine, Ken (creative dir.); 2K Boston/2K Australia. BioShock. 2K Games, August 21, 2007.
+- **ip status**: fictional
+- **prior art notes**: BioShock's Big Daddies are an unusually engineering-grounded disclosure of: (1) heavy-cyborg combat humanoid with integrated tool/weapon arm — relevant to integrated-end-effector humanoid IP; (2) operator-paired guardian humanoid with explicit bond protocol — relevant to companion / care humanoid claims with operator-pair conditioning. The 2007 game is heavily archived; the Big Daddy design is widely cited.
 
 ## PETMAN (2009)
 

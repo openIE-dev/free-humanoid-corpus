@@ -155,6 +155,14 @@
       ]
     },
     {
+      "id": "forbidden-planet-robby",
+      "name": "Robby the Robot (Forbidden Planet)",
+      "year": "1956",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "tetsujin-28",
       "name": "Tetsujin 28",
       "year": "1956",
@@ -165,6 +173,30 @@
       ]
     },
     {
+      "id": "magnus-robot-fighter",
+      "name": "Magnus, Robot Fighter (4000 A.D.)",
+      "year": "1963",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "iron-man-mark-i",
+      "name": "Iron Man Mark I (Tony Stark exoskeleton)",
+      "year": "1963",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "8-man-hachiman",
+      "name": "8 Man (Hachiman)",
+      "year": "1963",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "daleks-doctor-who",
       "name": "Daleks",
       "year": "1963",
@@ -173,6 +205,22 @@
       "descendants": [
         "cybermen"
       ]
+    },
+    {
+      "id": "cyborg-009",
+      "name": "Cyborg 009 (Joe Shimamura and the 00 Cyborgs)",
+      "year": "1964",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "b-9-lost-in-space",
+      "name": "B-9 (Lost in Space)",
+      "year": "1965",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "cybermen",
@@ -231,6 +279,30 @@
       "descendants": []
     },
     {
+      "id": "doraemon",
+      "name": "Doraemon",
+      "year": "1969",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "thx-1138-chrome-cops",
+      "name": "THX 1138 Chrome Police Robots",
+      "year": "1971",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "silent-running-drones",
+      "name": "Huey, Dewey, and Louie (Silent Running)",
+      "year": "1972",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mazinger-z",
       "name": "Mazinger Z",
       "year": "1972",
@@ -257,6 +329,14 @@
       ]
     },
     {
+      "id": "casshan-tatsunoko",
+      "name": "Casshan / Casshern (Neo-Human Casshan)",
+      "year": "1973",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "westworld-hosts",
       "name": "Westworld Hosts (1973 / 2016)",
       "year": "1973",
@@ -274,6 +354,22 @@
       "ancestors": [
         "asimov-caves-of-steel-daneel"
       ],
+      "descendants": []
+    },
+    {
+      "id": "machine-man-marvel",
+      "name": "Machine Man (X-51, Aaron Stack)",
+      "year": "1977",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cylon-centurion-1978",
+      "name": "Cylon Centurion (1978)",
+      "year": "1978",
+      "corpus": "fictional",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -308,6 +404,38 @@
       "descendants": [
         "bishop-aliens"
       ]
+    },
+    {
+      "id": "buck-rogers-twiki",
+      "name": "Twiki (Buck Rogers in the 25th Century)",
+      "year": "1979",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "black-hole-vincent",
+      "name": "V.I.N.CENT and Maximilian (The Black Hole)",
+      "year": "1979",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "saturn-3-hector",
+      "name": "Hector (Saturn 3)",
+      "year": "1980",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "heartbeeps-val-aqua",
+      "name": "Val and Aqua (Heartbeeps)",
+      "year": "1981",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "raibert-hopping-1leg",
@@ -394,6 +522,14 @@
       ]
     },
     {
+      "id": "robocop-1987",
+      "name": "RoboCop (Alex Murphy)",
+      "year": "1987",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "data-tng",
       "name": "Data",
       "year": "1987",
@@ -475,6 +611,16 @@
         "atrias",
         "berkeley-humanoid",
         "cassie-osu"
+      ]
+    },
+    {
+      "id": "battle-angel-alita",
+      "name": "Alita / Gally (Battle Angel Alita / Gunnm)",
+      "year": "1990",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "nier-automata-2b"
       ]
     },
     {
@@ -628,6 +774,14 @@
       ]
     },
     {
+      "id": "halo-mjolnir-master-chief",
+      "name": "MJOLNIR Powered Assault Armor / Master Chief",
+      "year": "2001",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hrp-2",
       "name": "HRP-2",
       "year": "2002",
@@ -773,6 +927,14 @@
       ]
     },
     {
+      "id": "bioshock-big-daddy",
+      "name": "Big Daddy (Bouncer / Rosie)",
+      "year": "2007",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "geth-mass-effect",
       "name": "Geth",
       "year": "2007",
@@ -902,6 +1064,14 @@
       "ancestors": [
         "sherman-simplex-architecture"
       ],
+      "descendants": []
+    },
+    {
+      "id": "mass-effect-edi",
+      "name": "EDI (Mass Effect)",
+      "year": "2010",
+      "corpus": "fictional",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -1101,6 +1271,14 @@
       "descendants": []
     },
     {
+      "id": "talos-principle-robots",
+      "name": "Talos Principle Robots",
+      "year": "2014",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hyundai-boston-dynamics-spot",
       "name": "Boston Dynamics Spot",
       "year": "2015",
@@ -1109,6 +1287,14 @@
       "descendants": [
         "spot-fuel-cell"
       ]
+    },
+    {
+      "id": "fallout-gen-3-synths",
+      "name": "Generation-3 Synths (Institute Synths)",
+      "year": "2015",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "anymal",
@@ -1160,6 +1346,16 @@
       "year": "2017",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nier-automata-2b",
+      "name": "YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata)",
+      "year": "2017",
+      "corpus": "fictional",
+      "ancestors": [
+        "battle-angel-alita"
+      ],
       "descendants": []
     },
     {
@@ -1216,6 +1412,14 @@
       "name": "UBTech Walker",
       "year": "2018",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "detroit-become-human",
+      "name": "Detroit: Become Human androids (RT600/RK800/RK900 series)",
+      "year": "2018",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -1332,6 +1536,14 @@
       "ancestors": [
         "gelsight"
       ],
+      "descendants": []
+    },
+    {
+      "id": "cyberpunk-2077-cyborgs",
+      "name": "Cyberware (Cyberpunk 2077)",
+      "year": "2020",
+      "corpus": "fictional",
+      "ancestors": [],
       "descendants": []
     },
     {

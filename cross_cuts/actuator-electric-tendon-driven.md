@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-tendon-driven`
 
-**13 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Shirow, Masamune. The Ghost in the Shell. Young Magazine, Kodansha, May 22, 1989 (manga first chapter); animated film by Mamoru Oshii, Production I.G, November 18, 1995.
 - **ip status**: fictional
 - **prior art notes**: Detailed disclosure of full-body cybernetic prosthesis with networked cognition. Anticipates with engineering specificity: (1) artificial muscle architecture using density-modulating fibers — relevant to artificial-muscle claims; (2) whole-body capacitive tactile skin — relevant to whole-body tactile sensing IP (a specific deficit area in the corpus pre-this-entry); (3) direct neural interface for network communication — anticipates brain-machine-interface humanoid claims; (4) cyborg-shell as a mass-produced (Section 9 issue) modular platform — anticipates mass-produced humanoid platform IP. Shirow's manga draws on then-contemporary cybernetic neuroscience and is unusually engineering-detailed; he provides annotated diagrams of internal mechanism. Continuously in print; foundational reference for cyborg fiction and direct influence on Tachikoma, Major-class platforms in subsequent Stand Alone Complex series.
+
+## Alita / Gally (Battle Angel Alita / Gunnm) (1990-09)
+
+- **id**: `battle-angel-alita`
+- **corpus**: fictional
+- **creator**: Yukito Kishiro
+- **disclosure**: Kishiro, Yukito. Gunnm (銃夢). Business Jump, Shueisha, September 1990 - 1995 (Battle Angel Alita in English).
+- **ip status**: fictional
+- **prior art notes**: Kishiro's Battle Angel Alita is one of the most engineering-detailed cyborg manga ever published. Each body upgrade comes with explicit mechanism disclosures: torque ratings, sensor arrays, power-system specifications, weight, manufacturing process (nanomachine self-assembly for the Damascus Berserker is a particularly specific disclosure). Anticipates: (1) shape-memory-alloy combat humanoid chassis with nano-machine self-assembly — relevant to claims on bio-printing / nanotech humanoid manufacturing; (2) progressive replacement of cybernetic body with documented capabilities-per-upgrade — relevant to upgrade-pathway humanoid IP; (3) microweave myomer muscle architecture — relevant to artificial-muscle claims; (4) explicit manufacturer/origin/spec disclosures (Mars-origin, etc.) — relevant to commercial humanoid identification IP. Continuously in print since 1990; the Last Order continuation series (2000-2014) extends with even more engineering specificity.
 
 ## Robonaut 1 (1996)
 
