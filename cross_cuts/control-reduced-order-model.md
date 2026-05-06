@@ -1,3 +1,9 @@
+---
+title: control-reduced-order-model
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `control-reduced-order-model`
 
 **5 corpus entries disclose this subsystem.**

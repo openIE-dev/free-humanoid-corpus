@@ -1,3 +1,9 @@
+---
+title: actuator-bldc-controller
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-bldc-controller`
 
 **9 corpus entries disclose this subsystem.**

@@ -1,3 +1,9 @@
+---
+title: sensing-force-torque
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `sensing-force-torque`
 
 **27 corpus entries disclose this subsystem.**

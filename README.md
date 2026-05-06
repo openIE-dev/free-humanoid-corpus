@@ -32,16 +32,16 @@ open.jsonl          — generated mirror
 fictional.jsonl     — generated mirror
 academic.jsonl      — generated mirror
 
-INDEX.md            — generated alphabetical index
+CORPUS_INDEX.md            — generated alphabetical index
 lineage.json        — generated ancestor/descendant DAG
 
 cross_cuts/         — generated per-subsystem prior art views
-  INDEX.md          — table of all cross-cuts with counts
+  CORPUS_INDEX.md          — table of all cross-cuts with counts
   <tag>.md          — chronological view of all entries disclosing <tag>
 
 tools/
   validate.py       — schema and quality-bar enforcement
-  index.py          — generates INDEX.md, lineage.json, per-corpus mirrors
+  index.py          — generates CORPUS_INDEX.md, lineage.json, per-corpus mirrors
   cross_cuts.py     — generates cross_cuts/
 
 release.sh          — quarterly release ceremony with timestamping

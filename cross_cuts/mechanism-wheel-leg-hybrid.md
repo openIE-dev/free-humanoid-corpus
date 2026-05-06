@@ -1,3 +1,9 @@
+---
+title: mechanism-wheel-leg-hybrid
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `mechanism-wheel-leg-hybrid`
 
 **1 corpus entries disclose this subsystem.**

@@ -1,3 +1,9 @@
+---
+title: power-fuel-cell
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `power-fuel-cell`
 
 **1 corpus entries disclose this subsystem.**

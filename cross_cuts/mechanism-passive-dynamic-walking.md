@@ -1,3 +1,9 @@
+---
+title: mechanism-passive-dynamic-walking
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `mechanism-passive-dynamic-walking`
 
 **2 corpus entries disclose this subsystem.**

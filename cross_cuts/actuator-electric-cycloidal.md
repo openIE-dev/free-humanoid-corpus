@@ -1,3 +1,9 @@
+---
+title: actuator-electric-cycloidal
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-electric-cycloidal`
 
 **3 corpus entries disclose this subsystem.**

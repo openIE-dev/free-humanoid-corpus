@@ -1,3 +1,9 @@
+---
+title: actuator-electric-tendon-driven
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-electric-tendon-driven`
 
 **6 corpus entries disclose this subsystem.**

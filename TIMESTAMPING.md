@@ -1,3 +1,9 @@
+---
+title: Timestamping
+layout: default
+nav_order: 6
+---
+
 # Timestamping the Corpus
 
 ## Why this matters
@@ -17,7 +23,7 @@ A release tarball containing:
 
 - `corpus.jsonl` — the master corpus at release time
 - `SCHEMA.md` — schema spec at release time
-- `INDEX.md`, `lineage.json` — derived artifacts
+- `CORPUS_INDEX.md`, `lineage.json` — derived artifacts
 - Per-corpus mirrors (private/open/fictional/academic .jsonl files)
 - `cross_cuts/` — all subsystem cross-cut analyses
 

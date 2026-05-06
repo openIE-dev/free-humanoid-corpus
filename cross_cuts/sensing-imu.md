@@ -1,3 +1,9 @@
+---
+title: sensing-imu
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `sensing-imu`
 
 **62 corpus entries disclose this subsystem.**

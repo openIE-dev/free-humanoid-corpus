@@ -1,3 +1,9 @@
+---
+title: safety-hard-constraint
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `safety-hard-constraint`
 
 **11 corpus entries disclose this subsystem.**

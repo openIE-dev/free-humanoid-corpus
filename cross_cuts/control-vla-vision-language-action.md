@@ -1,3 +1,9 @@
+---
+title: control-vla-vision-language-action
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `control-vla-vision-language-action`
 
 **9 corpus entries disclose this subsystem.**

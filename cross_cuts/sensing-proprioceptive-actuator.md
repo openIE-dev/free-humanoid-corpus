@@ -1,3 +1,9 @@
+---
+title: sensing-proprioceptive-actuator
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `sensing-proprioceptive-actuator`
 
 **3 corpus entries disclose this subsystem.**

@@ -1,3 +1,9 @@
+---
+title: actuator-pneumatic-muscle
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-pneumatic-muscle`
 
 **1 corpus entries disclose this subsystem.**

@@ -1,3 +1,9 @@
+---
+title: Contributing
+layout: default
+nav_order: 5
+---
+
 # Contributing to the Free Humanoid Corpus
 
 Thank you for considering a contribution. Before you write an entry,
@@ -99,7 +105,7 @@ patents are published or third-party teardowns appear.
 
 1. Run `python3 tools/validate.py corpus.jsonl --strict` before submitting.
    This catches structural errors and quality bar failures.
-2. Run `python3 tools/index.py .` to regenerate INDEX.md, lineage.json,
+2. Run `python3 tools/index.py .` to regenerate CORPUS_INDEX.md, lineage.json,
    and per-corpus mirrors.
 3. Run `python3 tools/cross_cuts.py` to regenerate the prior art views.
 4. Commit the regenerated artifacts alongside your entry — they are

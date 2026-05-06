@@ -1,3 +1,9 @@
+---
+title: safety-simplex-supervisor
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `safety-simplex-supervisor`
 
 **6 corpus entries disclose this subsystem.**

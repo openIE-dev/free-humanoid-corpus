@@ -1,3 +1,9 @@
+---
+title: control-sim-to-real
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `control-sim-to-real`
 
 **8 corpus entries disclose this subsystem.**

@@ -1,3 +1,9 @@
+---
+title: sensing-tactile-fingertip
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `sensing-tactile-fingertip`
 
 **3 corpus entries disclose this subsystem.**

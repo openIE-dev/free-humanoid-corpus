@@ -1,3 +1,9 @@
+---
+title: actuator-spherical-multi-dof
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-spherical-multi-dof`
 
 **1 corpus entries disclose this subsystem.**

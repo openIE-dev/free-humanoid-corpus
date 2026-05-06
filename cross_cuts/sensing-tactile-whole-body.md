@@ -1,3 +1,9 @@
+---
+title: sensing-tactile-whole-body
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `sensing-tactile-whole-body`
 
 **1 corpus entries disclose this subsystem.**

@@ -1,3 +1,9 @@
+---
+title: actuator-electric-series-elastic
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-electric-series-elastic`
 
 **8 corpus entries disclose this subsystem.**

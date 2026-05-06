@@ -1,3 +1,9 @@
+---
+title: sensing-stereo-camera
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `sensing-stereo-camera`
 
 **54 corpus entries disclose this subsystem.**

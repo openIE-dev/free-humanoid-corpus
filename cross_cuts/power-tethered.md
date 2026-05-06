@@ -1,3 +1,9 @@
+---
+title: power-tethered
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `power-tethered`
 
 **13 corpus entries disclose this subsystem.**

@@ -1,3 +1,9 @@
+---
+title: mechanism-anthropomorphic-hand
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
 **42 corpus entries disclose this subsystem.**

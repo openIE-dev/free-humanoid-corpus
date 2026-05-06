@@ -1,3 +1,9 @@
+---
+title: software-yarp
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `software-yarp`
 
 **1 corpus entries disclose this subsystem.**

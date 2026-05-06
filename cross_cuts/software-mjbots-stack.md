@@ -1,3 +1,9 @@
+---
+title: software-mjbots-stack
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `software-mjbots-stack`
 
 **2 corpus entries disclose this subsystem.**

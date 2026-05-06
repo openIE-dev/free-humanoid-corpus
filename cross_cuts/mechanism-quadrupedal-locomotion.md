@@ -1,3 +1,9 @@
+---
+title: mechanism-quadrupedal-locomotion
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `mechanism-quadrupedal-locomotion`
 
 **10 corpus entries disclose this subsystem.**

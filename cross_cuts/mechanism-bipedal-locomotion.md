@@ -1,3 +1,9 @@
+---
+title: mechanism-bipedal-locomotion
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `mechanism-bipedal-locomotion`
 
 **57 corpus entries disclose this subsystem.**

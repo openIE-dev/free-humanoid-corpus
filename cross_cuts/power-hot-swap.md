@@ -1,3 +1,9 @@
+---
+title: power-hot-swap
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `power-hot-swap`
 
 **2 corpus entries disclose this subsystem.**

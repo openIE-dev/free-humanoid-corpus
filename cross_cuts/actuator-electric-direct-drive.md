@@ -1,3 +1,9 @@
+---
+title: actuator-electric-direct-drive
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-electric-direct-drive`
 
 **44 corpus entries disclose this subsystem.**

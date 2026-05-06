@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""index.py — regenerate INDEX.md, lineage.json, and per-corpus mirrors.
+"""index.py — regenerate CORPUS_INDEX.md, lineage.json, and per-corpus mirrors.
 
 Usage:
     python3 tools/index.py .
 
 Reads `corpus.jsonl` from the given root directory and writes:
-    - INDEX.md           (sorted markdown table of every entry)
+    - CORPUS_INDEX.md           (sorted markdown table of every entry)
     - lineage.json       (DAG with nodes, warnings, cycles)
     - private.jsonl
     - open.jsonl
@@ -58,7 +58,7 @@ def write_index_md(root, entries):
             f"| {e.get('ip_status', '')} "
             f"| {draft} |"
         )
-    (root / "INDEX.md").write_text("\n".join(lines) + "\n")
+    (root / "CORPUS_INDEX.md").write_text("\n".join(lines) + "\n")
 
 
 def build_lineage(entries):
@@ -147,7 +147,7 @@ def main():
         json.dumps(lineage, indent=2, ensure_ascii=False) + "\n"
     )
 
-    print(f"  INDEX.md:     {n} entries")
+    print(f"  CORPUS_INDEX.md:     {n} entries")
     print(f"  per-corpus:   private={counts['private']} open={counts['open']} "
           f"fictional={counts['fictional']} academic={counts['academic']}")
     print(f"  lineage:      {len(lineage['nodes'])} nodes, "

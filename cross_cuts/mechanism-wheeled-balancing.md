@@ -1,3 +1,9 @@
+---
+title: mechanism-wheeled-balancing
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `mechanism-wheeled-balancing`
 
 **2 corpus entries disclose this subsystem.**

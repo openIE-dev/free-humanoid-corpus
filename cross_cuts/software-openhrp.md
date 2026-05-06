@@ -1,3 +1,9 @@
+---
+title: software-openhrp
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `software-openhrp`
 
 **1 corpus entries disclose this subsystem.**

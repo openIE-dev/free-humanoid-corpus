@@ -1,3 +1,9 @@
+---
+title: actuator-foc-controller
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-foc-controller`
 
 **4 corpus entries disclose this subsystem.**

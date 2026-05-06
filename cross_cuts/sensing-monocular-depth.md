@@ -1,3 +1,9 @@
+---
+title: sensing-monocular-depth
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `sensing-monocular-depth`
 
 **5 corpus entries disclose this subsystem.**

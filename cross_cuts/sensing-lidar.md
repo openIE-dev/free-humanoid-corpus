@@ -1,3 +1,9 @@
+---
+title: sensing-lidar
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `sensing-lidar`
 
 **12 corpus entries disclose this subsystem.**

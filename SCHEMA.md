@@ -1,3 +1,9 @@
+---
+title: Schema
+layout: default
+nav_order: 4
+---
+
 # Free Humanoid Corpus — Schema v0.2
 
 ## Status
@@ -240,7 +246,7 @@ first entry to introduce a tag documents it in `notes`.
 
 Master corpus: `corpus.jsonl` — one JSON object per line, append-only, git-tracked.
 Per-corpus mirrors: `private.jsonl`, `open.jsonl`, `fictional.jsonl`, `academic.jsonl`.
-Index: `INDEX.md` — generated, alphabetical by canonical_name with id and one-line summary.
+Index: `CORPUS_INDEX.md` — generated, alphabetical by canonical_name with id and one-line summary.
 Lineage graph: `lineage.json` — derived, ancestor/descendant DAG.
 
 ## Versioning

@@ -1,3 +1,9 @@
+---
+title: actuator-hydraulic
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-hydraulic`
 
 **6 corpus entries disclose this subsystem.**

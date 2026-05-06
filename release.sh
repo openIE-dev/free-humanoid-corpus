@@ -131,11 +131,11 @@ echo "  Index, lineage, per-corpus mirrors, and cross-cuts regenerated."
 # Detect drift: if regeneration produced different artifacts than what's
 # committed, warn the user.
 if [ "$DRY_RUN" -eq 0 ]; then
-  if ! git diff --quiet INDEX.md lineage.json *.jsonl cross_cuts/ 2>/dev/null; then
+  if ! git diff --quiet CORPUS_INDEX.md lineage.json *.jsonl cross_cuts/ 2>/dev/null; then
     echo "WARNING: regenerated artifacts differ from committed versions."
     echo "         You probably want to commit these before tagging."
     echo "         Affected files:"
-    git diff --name-only INDEX.md lineage.json *.jsonl cross_cuts/ | sed 's/^/           /'
+    git diff --name-only CORPUS_INDEX.md lineage.json *.jsonl cross_cuts/ | sed 's/^/           /'
     echo ""
     read -p "Continue anyway? [y/N] " -n 1 -r
     echo
@@ -177,7 +177,7 @@ $TAR --use-compress-program='gzip -n' -cf "$TARBALL_PATH" \
   --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime \
   corpus.jsonl \
   SCHEMA.md \
-  INDEX.md \
+  CORPUS_INDEX.md \
   lineage.json \
   private.jsonl open.jsonl fictional.jsonl academic.jsonl \
   cross_cuts/ \

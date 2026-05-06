@@ -1,3 +1,9 @@
+---
+title: control-teleoperation
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `control-teleoperation`
 
 **5 corpus entries disclose this subsystem.**

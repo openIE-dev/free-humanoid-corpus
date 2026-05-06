@@ -1,3 +1,9 @@
+---
+title: Release runbook
+layout: default
+nav_order: 7
+---
+
 # Release Runbook — 2026.Q2
 
 This is the step-by-step procedure for cutting the first quarterly
@@ -85,7 +91,7 @@ Now run the release:
 The script will:
 
 1. Validate the corpus passes strict mode
-2. Regenerate INDEX.md, lineage.json, per-corpus mirrors, cross-cuts
+2. Regenerate CORPUS_INDEX.md, lineage.json, per-corpus mirrors, cross-cuts
 3. Build the deterministic tarball (will produce the same SHA-256:
    `120ecf49a8d1d2ac274933cac6d09ce55fbebc7142b9e77b5740e060dc3e3e67`)
 4. Submit the hash to FreeTSA (RFC 3161, free)

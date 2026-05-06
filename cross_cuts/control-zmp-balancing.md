@@ -1,3 +1,9 @@
+---
+title: control-zmp-balancing
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `control-zmp-balancing`
 
 **13 corpus entries disclose this subsystem.**

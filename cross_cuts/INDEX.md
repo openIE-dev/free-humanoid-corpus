@@ -1,3 +1,10 @@
+---
+title: Cross-cuts
+has_children: true
+nav_order: 3
+permalink: /cross_cuts/
+---
+
 # Subsystem cross-cut index
 
 Each cross-cut file lists every corpus entry disclosing the tagged subsystem,

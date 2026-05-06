@@ -1,3 +1,9 @@
+---
+title: actuator-electric-harmonic-drive
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-electric-harmonic-drive`
 
 **14 corpus entries disclose this subsystem.**

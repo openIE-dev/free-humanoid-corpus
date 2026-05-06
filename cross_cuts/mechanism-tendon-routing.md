@@ -1,3 +1,9 @@
+---
+title: mechanism-tendon-routing
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `mechanism-tendon-routing`
 
 **8 corpus entries disclose this subsystem.**

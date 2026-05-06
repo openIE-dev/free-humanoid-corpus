@@ -1,3 +1,9 @@
+---
+title: control-mpc
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `control-mpc`
 
 **19 corpus entries disclose this subsystem.**

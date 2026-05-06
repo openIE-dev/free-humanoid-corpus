@@ -1,3 +1,9 @@
+---
+title: actuator-electric-planetary
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `actuator-electric-planetary`
 
 **2 corpus entries disclose this subsystem.**

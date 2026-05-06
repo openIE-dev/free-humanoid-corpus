@@ -1,3 +1,9 @@
+---
+title: power-li-po
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `power-li-po`
 
 **3 corpus entries disclose this subsystem.**

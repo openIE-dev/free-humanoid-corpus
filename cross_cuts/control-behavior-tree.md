@@ -1,3 +1,9 @@
+---
+title: control-behavior-tree
+parent: Cross-cuts
+layout: default
+---
+
 # Cross-cut: `control-behavior-tree`
 
 **5 corpus entries disclose this subsystem.**

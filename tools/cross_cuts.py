@@ -37,6 +37,12 @@ def write_tag_file(tag, entries):
     entries_sorted = sorted(entries, key=date_key)
     earliest = entries_sorted[0].get("first_disclosure_date", "")
     lines = [
+        "---",
+        f"title: {tag}",
+        "parent: Cross-cuts",
+        "layout: default",
+        "---",
+        "",
         f"# Cross-cut: `{tag}`",
         "",
         f"**{len(entries_sorted)} corpus entries disclose this subsystem.**",
@@ -75,6 +81,13 @@ def write_index(by_tag):
         rows.append((tag, len(entries), earliest))
 
     lines = [
+        "---",
+        "title: Cross-cuts",
+        "has_children: true",
+        "nav_order: 3",
+        "permalink: /cross_cuts/",
+        "---",
+        "",
         "# Subsystem cross-cut index",
         "",
         "Each cross-cut file lists every corpus entry disclosing the tagged subsystem,",
