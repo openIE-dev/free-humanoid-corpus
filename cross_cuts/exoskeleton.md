@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `exoskeleton`
 
-**14 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1963-03
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yoshida, Tatsuo (creator); Tatsunoko Production. Neo-Human Casshan (新造人間キャシャーン). Fuji TV, October 2, 1973 - June 25, 1974.
 - **ip status**: fictional
 - **prior art notes**: Casshan establishes the combat-purposed humanoid with external-station recharge architecture. Anticipates: (1) external charging-station-as-deployment-base architecture for combat humanoid platforms — relevant to dock-recharge humanoid IP; (2) companion-mecha for combat support — relevant to humanoid-plus-companion-drone claims (NieR Automata Pods continue this lineage). Continuously available since 1973.
+
+## Cyborg (Vic Stone) (1980-10)
+
+- **id**: `cyborg-vic-stone-dc`
+- **corpus**: fictional
+- **creator**: Marv Wolfman and George Pérez
+- **disclosure**: Wolfman, Marv and Pérez, George. DC Comics Presents #26, 'A Special Comics Insert: The New Teen Titans'. DC Comics, October 1980.
+- **ip status**: fictional
+- **prior art notes**: Cyborg's 1980 disclosure is DC's foundational cyborg humanoid character. Anticipates: (1) progressive cybernetic body replacement following biological injury — relevant to medical-prosthetic humanoid IP; (2) explicit dual-substrate cognition (biological mind + cybernetic body) — relevant to modern claims on hybrid biological/cybernetic humanoid platforms; (3) continuous upgrade pathway with named successive versions — relevant to platform-versioning humanoid IP. Continuously in print since 1980; appeared in Justice League canon and the 2011 New 52 reboot as a founding Justice League member.
 
 ## Akira (Tetsuo cyborg-mutation, Akira containment) (1982-12)
 
@@ -140,3 +149,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: CD Projekt Red. Cyberpunk 2077. CD Projekt, December 10, 2020. Drawing from Pondsmith, Mike. Cyberpunk 2020 (tabletop RPG). R. Talsorian Games, 1990.
 - **ip status**: fictional
 - **prior art notes**: Cyberpunk 2077 (drawing from the 1990 Cyberpunk 2020 tabletop world) provides extensive prior art for: (1) commodity market for cybernetic humanoid enhancements with explicit manufacturer, model, and per-component spec disclosures — relevant to claims on modular-cybernetic-component IP (Apptronik's modular Apollo arms have lineage in this space); (2) modular slot architecture for cybernetic upgrades — relevant to claims on payload-modular humanoid IP; (3) integration-overload behavioral failure mode ('Cyberpsychosis') — anticipates alignment-failure-from-modular-policy-composition issues in modern foundation-model humanoids. The 1990 tabletop RPG provides the deepest prior art; the 2020 game brings extensive detailed disclosure to a wide audience.
+
+## Smith (Atlas 2024) (2024-05-24)
+
+- **id**: `atlas-2024-film`
+- **corpus**: fictional
+- **creator**: Brad Peyton, Aron Eli Stein, Leo Steakley
+- **disclosure**: Wyatt, Brad Peyton (dir.); Stein, Aron Eli and Steakley, Leo (writers). Atlas. Netflix, May 24, 2024.
+- **ip status**: fictional
+- **prior art notes**: Atlas's 2024 disclosure is recent and provides notable prior art for: (1) pilot-AI neural-handshake co-pilot architecture in a humanoid platform — directly relevant to modern claims on operator-AI humanoid co-pilot IP (the 'drift' architecture from Pacific Rim 2013 is the deeper anchor; Atlas extends with the AI-as-explicit-co-pilot framing); (2) explicit trust-building progression as a policy-update protocol — relevant to humanoid policies that adjust autonomy-level over deployment time; (3) AI override authority for safety-critical decisions in operator-piloted humanoids — relevant to modern safety-supervisor humanoid IP. Continuously available since May 2024.

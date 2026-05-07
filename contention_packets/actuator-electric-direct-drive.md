@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `actuator-electric-direct-drive`  
-**Entries:** 65 (47 commons-grade, 18 draft)  
+**Entries:** 68 (50 commons-grade, 18 draft)  
 **Earliest disclosure:** 1886  
 **Most recent disclosure:** 2024-11
 
@@ -58,6 +58,27 @@ cite, copy, or redistribute these contentions.
 1. Villiers de l'Isle-Adam, A. L'Ève future. 1886.
 2. Tomorrow's Eve. Translated by Robert Martin Adams. University of Illinois Press, 2001.
 3. Lathers, Marie. The Aesthetics of Artifice: Villiers's L'Ève future. North Carolina Studies in Romance Languages and Literatures, 1996.
+
+---
+
+### 1929-07 — Park's Transformation (dq0 transformation)
+
+- **id:** `park-transformation-1929`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Robert H. Park
+- **disclosure citation:** Park, Robert H. 'Two-reaction theory of synchronous machines — generalized method of analysis — Part I'. AIEE Transactions 48(3): 716-727, July 1929.
+- **disclosed subsystems:** `actuator-foc-controller`, `actuator-bldc-controller`, `actuator-electric-direct-drive`
+
+**Prior art notes:**
+
+> Park's 1929 transformation is the mathematical foundation underlying FOC (Field-Oriented Control) of every modern brushless DC and AC servo motor in humanoid platforms. Anticipates with 97 years of prior art: (1) the dq0 reference-frame transformation as the basis for vector control — every modern humanoid actuator controller (Moteus, ODrive, SimpleFOC, T-Motor, plus closed proprietary controllers) uses this transformation; (2) the decoupling of torque-producing and flux-producing current components — foundational for any motor-control humanoid IP. Modern claims on FOC implementations in humanoid actuators all face this 97-year academic prior art.
+
+**Sources:**
+
+1. Park, R.H. 'Two-reaction theory of synchronous machines, Part I'. AIEE Trans. 48(3): 716-727, 1929.
+2. Park, R.H. 'Two-reaction theory of synchronous machines, Part II'. AIEE Trans. 52(2): 352-355, 1933.
+3. Krause, P.C., Wasynczuk, O., Sudhoff, S.D. Analysis of Electric Machinery and Drive Systems (textbook lineage).
 
 ---
 
@@ -282,6 +303,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1980-05-21 — IG-88
+
+- **id:** `ig-88-star-wars`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** George Lucas, Lawrence Kasdan; visual design by Industrial Light & Magic
+- **disclosure citation:** Kershner, Irvin (dir.); Brackett, Leigh and Kasdan, Lawrence (writers). Star Wars: The Empire Strikes Back. Twentieth Century Fox / Lucasfilm, May 21, 1980.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric-direct-drive`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> IG-88's 1980 Star Wars disclosure provides specific prior art for: (1) 360° sensor coverage via multi-photoreceptor head architecture — relevant to humanoid head-mounted sensor IP; (2) forearm-integrated weapon platforms — relevant to integrated end-effector tool/weapon claims (HK-47 2003 lineage); (3) batch-wide alignment failure (the IG-series collectively rebelled against creators) — relevant to claims on fleet-wide alignment-failure detection. Continuously available since 1980; the 'Tales of the Bounty Hunters' 1996 anthology extended the disclosure with detailed mechanism backstory.
+
+**Sources:**
+
+1. Kershner, I. The Empire Strikes Back. Lucasfilm/Fox, 1980.
+2. Anderson, K.J. (ed.) Tales of the Bounty Hunters. Bantam, 1996.
+
+---
+
 ### 1987 — Honda E1
 
 - **id:** `honda-e1`
@@ -453,6 +494,26 @@ cite, copy, or redistribute these contentions.
 1. Sony AIBO product materials.
 2. Fujita, M. and Kageyama, K. 'An open architecture for robot entertainment.' Autonomous Agents 1997.
 3. Various academic papers using AIBO as research platform.
+
+---
+
+### 1999-05-19 — B1 Battle Droid
+
+- **id:** `b1-battle-droid`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** George Lucas; designed by Doug Chiang
+- **disclosure citation:** Lucas, George (writer/dir.). Star Wars: Episode I — The Phantom Menace. Twentieth Century Fox / Lucasfilm, May 19, 1999.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric-direct-drive`, `control-rl-policy`
+
+**Prior art notes:**
+
+> B1 Battle Droid's 1999 disclosure provides specific prior art for: (1) folding compact transport mode for humanoid platforms — directly relevant to claims on compact-transport humanoid IP (a current commercial focus for shipping logistics); (2) centralized fleet command via remote signal (Droid Control Ship) — relevant to fleet-coordination IP, though the disclosure also anticipates the *single-point-of-failure failure mode*; (3) mass-production at million-unit scale — relevant to commercial humanoid manufacturing scale claims. Continuously available since 1999.
+
+**Sources:**
+
+1. Lucas, G. The Phantom Menace. Lucasfilm/Fox, 1999.
+2. Reynolds, D.W. Star Wars Episode I: Incredible Cross-Sections. DK Publishing, 1999.
 
 ---
 
@@ -1358,4 +1419,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

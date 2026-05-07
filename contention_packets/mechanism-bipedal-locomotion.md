@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 103 (77 commons-grade, 26 draft)  
+**Entries:** 107 (81 commons-grade, 26 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2025-10
 
@@ -340,6 +340,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1977-01-29 — Voc Robots (Robots of Death)
+
+- **id:** `voc-robots-doctor-who`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Chris Boucher (writer); BBC
+- **disclosure citation:** Boucher, Chris (writer). 'The Robots of Death'. Doctor Who serial, BBC, January 29 - February 19, 1977 (4-episode arc).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `control-vla-vision-language-action`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> The 1977 'Robots of Death' Doctor Who serial is one of the most engineering-detailed BBC humanoid disclosures. Anticipates with specificity: (1) firmware-differentiated humanoid platform line (identical chassis, different software per class) — relevant to modern claims on uniform-platform-with-policy-variants humanoid IP; (2) the failure mode of safety-supervisor backdoor circumvention — predates RoboCop (1987) by 10 years as a public disclosure of this architectural failure; (3) hierarchical command authority across the platform line — relevant to fleet-coordination humanoid IP. Continuously available since 1977.
+
+**Sources:**
+
+1. Boucher, C. 'The Robots of Death'. Doctor Who, BBC, 1977.
+2. BBC Doctor Who Programme Guide (Hayward, A. 1981).
+
+---
+
 ### 1978-09-17 — Cylon Centurion (1978)
 
 - **id:** `cylon-centurion-1978`
@@ -438,6 +458,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1980-05-21 — IG-88
+
+- **id:** `ig-88-star-wars`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** George Lucas, Lawrence Kasdan; visual design by Industrial Light & Magic
+- **disclosure citation:** Kershner, Irvin (dir.); Brackett, Leigh and Kasdan, Lawrence (writers). Star Wars: The Empire Strikes Back. Twentieth Century Fox / Lucasfilm, May 21, 1980.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric-direct-drive`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> IG-88's 1980 Star Wars disclosure provides specific prior art for: (1) 360° sensor coverage via multi-photoreceptor head architecture — relevant to humanoid head-mounted sensor IP; (2) forearm-integrated weapon platforms — relevant to integrated end-effector tool/weapon claims (HK-47 2003 lineage); (3) batch-wide alignment failure (the IG-series collectively rebelled against creators) — relevant to claims on fleet-wide alignment-failure detection. Continuously available since 1980; the 'Tales of the Bounty Hunters' 1996 anthology extended the disclosure with detailed mechanism backstory.
+
+**Sources:**
+
+1. Kershner, I. The Empire Strikes Back. Lucasfilm/Fox, 1980.
+2. Anderson, K.J. (ed.) Tales of the Bounty Hunters. Bantam, 1996.
+
+---
+
 ### 1983 — Raibert One-Legged Hopper
 
 - **id:** `raibert-hopping-1leg`
@@ -456,6 +496,26 @@ cite, copy, or redistribute these contentions.
 1. Raibert, M.H. 'Hopping in legged systems'. IEEE Trans. SMC, 1984.
 2. Raibert, M.H. and Brown, H.B. 'Experiments in balance with a 2D one-legged machine'. ASME J. DSMC, 1984.
 3. Raibert, M.H. Legged Robots that Balance. MIT Press, 1986.
+
+---
+
+### 1983 — Brockett's Necessary Condition for Stabilizability
+
+- **id:** `brockett-condition-1983`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Roger W. Brockett, Harvard University
+- **disclosure citation:** Brockett, Roger W. 'Asymptotic stability and feedback stabilization'. In Differential Geometric Control Theory (Brockett, Millman, Sussmann eds.), Birkhäuser, 1983, pp. 181-191.
+- **disclosed subsystems:** `control-reduced-order-model`, `control-mpc`, `mechanism-bipedal-locomotion`, `mechanism-wheeled-balancing`
+
+**Prior art notes:**
+
+> Brockett's 1983 condition is the theoretical foundation for understanding why certain humanoid and wheeled-robot systems cannot be stabilized with continuous time-invariant feedback. Modern claims on humanoid walking controllers, wheeled-balance controllers, and switched-system humanoid policies all rest on the design space Brockett's condition characterizes. Anticipates with 43 years of prior art: (1) theoretical justification for time-varying controllers in nonholonomic systems — relevant to wheeled-base humanoid IP; (2) the foundational characterization that motivates ZMP-based walking, LIPM-based walking, and modern reduced-order-model control. Heavily cited; canonical reference in nonlinear control textbooks.
+
+**Sources:**
+
+1. Brockett, R.W. 'Asymptotic stability and feedback stabilization'. Differential Geometric Control Theory, Birkhäuser, 1983.
+2. Khalil, H. Nonlinear Systems (textbook reference for Brockett's condition).
 
 ---
 
@@ -772,6 +832,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Hirose, M. and Ogawa, K. Phil. Trans. R. Soc. A 365, 11–19 (2007).
+
+---
+
+### 1999-05-19 — B1 Battle Droid
+
+- **id:** `b1-battle-droid`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** George Lucas; designed by Doug Chiang
+- **disclosure citation:** Lucas, George (writer/dir.). Star Wars: Episode I — The Phantom Menace. Twentieth Century Fox / Lucasfilm, May 19, 1999.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric-direct-drive`, `control-rl-policy`
+
+**Prior art notes:**
+
+> B1 Battle Droid's 1999 disclosure provides specific prior art for: (1) folding compact transport mode for humanoid platforms — directly relevant to claims on compact-transport humanoid IP (a current commercial focus for shipping logistics); (2) centralized fleet command via remote signal (Droid Control Ship) — relevant to fleet-coordination IP, though the disclosure also anticipates the *single-point-of-failure failure mode*; (3) mass-production at million-unit scale — relevant to commercial humanoid manufacturing scale claims. Continuously available since 1999.
+
+**Sources:**
+
+1. Lucas, G. The Phantom Menace. Lucasfilm/Fox, 1999.
+2. Reynolds, D.W. Star Wars Episode I: Incredible Cross-Sections. DK Publishing, 1999.
 
 ---
 
@@ -2119,4 +2199,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

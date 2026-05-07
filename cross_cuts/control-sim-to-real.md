@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-sim-to-real`
 
-**15 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014-12-11
 
@@ -78,6 +78,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: ANYmal-D is the production-deployed industrial quadruped of the 2022-2024 period and the platform for the headline RSL/ANYbotics RL-locomotion papers in Science Robotics. It anticipates with full specificity: (1) claims on perceptive-locomotion RL policies trained in simulation and transferred to outdoor industrial terrain — Miki Sci.Rob. 2022 publishes the teacher-student distillation pipeline running on this hardware; (2) claims on agile parkour-class learned locomotion — Hoeller Sci.Rob. 2024 publishes the policy on ANYmal-D; (3) claims on series-elastic torque-controlled quadruped joints in IP67 industrial enclosures — ANYdrive disclosed at IROS 2018 with hardware refresh on D-variant. Modern legged-robot IP claims face this timestamped industrial-deployment anchor.
 
+## Dreamer V3 (2023-01-10)
+
+- **id**: `hafner-dreamer-v3-2023`
+- **corpus**: academic
+- **creator**: Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap; Google DeepMind, University of Toronto
+- **disclosure**: Hafner, Danijar; Pasukonis, Jurgis; Ba, Jimmy; Lillicrap, Timothy. 'Mastering diverse domains through world models'. arXiv:2301.04104, January 10, 2023. Earlier Dreamer (Hafner et al. 2019/2020) at arXiv:1912.01603.
+- **ip status**: open-permissive
+- **prior art notes**: Dreamer V3 (2023) is one of the strongest academic disclosures of model-based RL for cross-domain generalization. Anticipates: (1) world-model RL (RSSM) as the policy-learning substrate for humanoid platforms — relevant to modern model-based humanoid IP; (2) imagination-rollout-based policy training — relevant to claims on data-efficient humanoid RL; (3) cross-domain generalization without per-task hyperparameter tuning — relevant to platform-agnostic humanoid policy IP. The 2023 arXiv preprint plus the open-source DreamerV3 reference implementation provide deep prior art coverage. Modern world-model-based humanoid IP face this 3-year academic anchor.
+
 ## RoboCat (Self-Improving Generalist Agent) (2023-06-20)
 
 - **id**: `robocat`
@@ -131,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Liao, Q. et al. 'Berkeley Humanoid: A Research Platform for Learning-based Control.' arXiv 2024.
 - **ip status**: open-permissive
 - **prior art notes**: Berkeley quasi-direct-drive lineage (predates the humanoid; comes from the Mini Cheetah / leg work) anticipates many actuator architecture claims.
+
+## NVIDIA GR00T (Generalist Robot 00 Technology) (2024-03-18)
+
+- **id**: `nvidia-groot-2024`
+- **corpus**: academic
+- **creator**: NVIDIA Research, GEAR Lab
+- **disclosure**: Huang, Jensen et al. NVIDIA GR00T announcement at GTC 2024 keynote, March 18, 2024. Technical disclosure: Reddit Project GR00T technical blog, March 2024. GR00T N1 paper published 2025-03 (arXiv:2503.14734).
+- **ip status**: open-permissive
+- **prior art notes**: NVIDIA GR00T's 2024 disclosure is the canonical foundation-model-for-humanoids announcement. Anticipates: (1) dual-system fast/slow policy architecture for humanoid platforms — directly relevant to modern humanoid foundation-model IP (every major humanoid manufacturer is developing equivalent architectures); (2) cross-embodiment generalization across multiple humanoid platforms — relevant to platform-agnostic policy IP; (3) open-weights humanoid foundation model release — provides defensive baseline against closed-weights claims. The March 2024 GTC keynote announcement plus the subsequent GR00T N1 paper (March 2025) and open-weights release provide extensive prior art coverage.
 
 ## Robot Era STAR1 (2024-10)
 

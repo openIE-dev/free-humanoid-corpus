@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-wheeled-balancing`
 
-**5 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1963-12-21
 
@@ -23,6 +23,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Nation, Terry. 'The Daleks' (also titled 'The Mutants'). Doctor Who serial, BBC, December 21, 1963 - February 1, 1964 (seven-episode arc).
 - **ip status**: fictional
 - **prior art notes**: Mass-produced operator-in-shell humanoid with wheeled base and centralized command coordination. Anticipates with surprising specificity for 1963: (1) operator-in-shell architecture with the operator providing high-level decisions while the chassis provides locomotion, manipulation, and weapon systems — directly analogous to modern teleoperated humanoid IP; (2) mass-production identical-unit fleet with networked command — anticipates fleet-coordination patents in modern humanoid platforms; (3) modular plug-in subsystem upgrades (over the 60-year run, Daleks gain hovering, regeneration, networked time-travel, etc.). The 1963 origin means any commercial fleet-coordination claim post-1963 faces a 60+ year fictional disclosure with specific element-level anticipations.
+
+## Brockett's Necessary Condition for Stabilizability (1983)
+
+- **id**: `brockett-condition-1983`
+- **corpus**: academic
+- **creator**: Roger W. Brockett, Harvard University
+- **disclosure**: Brockett, Roger W. 'Asymptotic stability and feedback stabilization'. In Differential Geometric Control Theory (Brockett, Millman, Sussmann eds.), Birkhäuser, 1983, pp. 181-191.
+- **ip status**: public-domain
+- **prior art notes**: Brockett's 1983 condition is the theoretical foundation for understanding why certain humanoid and wheeled-robot systems cannot be stabilized with continuous time-invariant feedback. Modern claims on humanoid walking controllers, wheeled-balance controllers, and switched-system humanoid policies all rest on the design space Brockett's condition characterizes. Anticipates with 43 years of prior art: (1) theoretical justification for time-varying controllers in nonholonomic systems — relevant to wheeled-base humanoid IP; (2) the foundational characterization that motivates ZMP-based walking, LIPM-based walking, and modern reduced-order-model control. Heavily cited; canonical reference in nonlinear control textbooks.
+
+## BB-8 (2015-12-18)
+
+- **id**: `bb-8-star-wars`
+- **corpus**: fictional
+- **creator**: J.J. Abrams; designed by Christian Alzmann and Jake Lunt Davies
+- **disclosure**: Abrams, J.J. (dir.); Kasdan, Lawrence and Abrams, J.J. (writers). Star Wars: The Force Awakens. Walt Disney Studios / Lucasfilm, December 18, 2015.
+- **ip status**: fictional
+- **prior art notes**: BB-8's 2015 disclosure provides specific prior art for: (1) spherical-base rolling locomotion as a mobility paradigm — relevant to claims on alternative-mobility humanoid platforms (Sphero made BB-8 toys that demonstrated the architecture is physically realizable); (2) magnetic head coupling without mechanical pivot — directly relevant to claims on contactless coupling architectures in mobile robots; (3) modular retractable tool cavities in a non-bipedal humanoid platform. Continuously available since 2015.
 
 ## Stanford JackRabbot 2 (JR-2) wheeled-arm research robot (2018-10)
 

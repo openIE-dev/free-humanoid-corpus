@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `control-teleoperation`  
-**Entries:** 28 (23 commons-grade, 5 draft)  
+**Entries:** 29 (24 commons-grade, 5 draft)  
 **Earliest disclosure:** 1956-07  
-**Most recent disclosure:** 2024-03-19
+**Most recent disclosure:** 2024-05-24
 
 ---
 
@@ -607,6 +607,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-05-24 — Smith (Atlas 2024)
+
+- **id:** `atlas-2024-film`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Brad Peyton, Aron Eli Stein, Leo Steakley
+- **disclosure citation:** Wyatt, Brad Peyton (dir.); Stein, Aron Eli and Steakley, Leo (writers). Atlas. Netflix, May 24, 2024.
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `control-vla-vision-language-action`, `control-teleoperation`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Atlas's 2024 disclosure is recent and provides notable prior art for: (1) pilot-AI neural-handshake co-pilot architecture in a humanoid platform — directly relevant to modern claims on operator-AI humanoid co-pilot IP (the 'drift' architecture from Pacific Rim 2013 is the deeper anchor; Atlas extends with the AI-as-explicit-co-pilot framing); (2) explicit trust-building progression as a policy-update protocol — relevant to humanoid policies that adjust autonomy-level over deployment time; (3) AI override authority for safety-critical decisions in operator-piloted humanoids — relevant to modern safety-supervisor humanoid IP. Continuously available since May 2024.
+
+**Sources:**
+
+1. Wyatt, B.P. Atlas. Netflix, 2024.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -637,4 +656,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

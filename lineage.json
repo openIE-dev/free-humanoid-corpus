@@ -85,6 +85,18 @@
       ]
     },
     {
+      "id": "park-transformation-1929",
+      "name": "Park's Transformation (dq0 transformation)",
+      "year": "1929",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "mjbots-moteus",
+        "odrive",
+        "simplefoc"
+      ]
+    },
+    {
       "id": "sumitomo-cyclo",
       "name": "Sumitomo CYCLO Speed Reducer",
       "year": "1937",
@@ -271,6 +283,14 @@
       ]
     },
     {
+      "id": "modok-marvel",
+      "name": "MODOK",
+      "year": "1967",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "replicants-blade-runner",
       "name": "Replicants",
       "year": "1968",
@@ -278,7 +298,9 @@
       "ancestors": [
         "rur-rossums-robots"
       ],
-      "descendants": []
+      "descendants": [
+        "blade-runner-2049"
+      ]
     },
     {
       "id": "hal-9000",
@@ -419,8 +441,24 @@
       "descendants": []
     },
     {
+      "id": "voc-robots-doctor-who",
+      "name": "Voc Robots (Robots of Death)",
+      "year": "1977",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "machine-man-marvel",
       "name": "Machine Man (X-51, Aaron Stack)",
+      "year": "1977",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "r2-d2-star-wars",
+      "name": "R2-D2",
       "year": "1977",
       "corpus": "fictional",
       "ancestors": [],
@@ -464,12 +502,21 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": [
-        "bishop-aliens"
+        "bishop-aliens",
+        "david-prometheus-walter-covenant"
       ]
     },
     {
       "id": "buck-rogers-twiki",
       "name": "Twiki (Buck Rogers in the 25th Century)",
+      "year": "1979",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "v-ger-star-trek",
+      "name": "V'Ger",
       "year": "1979",
       "corpus": "fictional",
       "ancestors": [],
@@ -492,6 +539,22 @@
       "descendants": []
     },
     {
+      "id": "ig-88-star-wars",
+      "name": "IG-88",
+      "year": "1980",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cyborg-vic-stone-dc",
+      "name": "Cyborg (Vic Stone)",
+      "year": "1980",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hollerbach-manipulator-1980",
       "name": "Hollerbach Recursive Lagrangian Manipulator Dynamics",
       "year": "1980",
@@ -500,6 +563,14 @@
       "descendants": [
         "featherstone-rdf"
       ]
+    },
+    {
+      "id": "lucas-kanade-1981",
+      "name": "Lucas-Kanade Optical Flow",
+      "year": "1981",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "heartbeeps-val-aqua",
@@ -527,6 +598,14 @@
       "name": "Akira (Tetsuo cyborg-mutation, Akira containment)",
       "year": "1982",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "brockett-condition-1983",
+      "name": "Brockett's Necessary Condition for Stabilizability",
+      "year": "1983",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -630,7 +709,9 @@
       "ancestors": [
         "ash-alien"
       ],
-      "descendants": []
+      "descendants": [
+        "david-prometheus-walter-covenant"
+      ]
     },
     {
       "id": "featherstone-rdf",
@@ -907,6 +988,14 @@
       ]
     },
     {
+      "id": "emh-mark-i-voyager",
+      "name": "The Doctor (Emergency Medical Hologram Mark I)",
+      "year": "1995",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "armitage-iii-1995",
       "name": "Armitage III (third-generation androids)",
       "year": "1995",
@@ -991,6 +1080,14 @@
       "descendants": []
     },
     {
+      "id": "b1-battle-droid",
+      "name": "B1 Battle Droid",
+      "year": "1999",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "schaal-imitation-1999",
       "name": "Schaal 'Is imitation learning the route to humanoid robots?'",
       "year": "1999",
@@ -1003,6 +1100,16 @@
         "dmp-schaal-ijspeert",
         "gail-ho-ermon",
         "ijspeert-dmp-2013"
+      ]
+    },
+    {
+      "id": "lowe-sift-1999",
+      "name": "SIFT (Scale-Invariant Feature Transform)",
+      "year": "1999",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "orb-slam-mur-artal-2015"
       ]
     },
     {
@@ -1386,6 +1493,14 @@
       "descendants": []
     },
     {
+      "id": "wall-e-eve-pixar",
+      "name": "WALL-E and EVE (Pixar 2008)",
+      "year": "2008",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ziebart-maxent-irl-2008",
       "name": "Ziebart Maximum Entropy Inverse Reinforcement Learning",
       "year": "2008",
@@ -1610,6 +1725,17 @@
         "cmu-andy-herb2-srinivasa-2014",
         "pr2"
       ]
+    },
+    {
+      "id": "david-prometheus-walter-covenant",
+      "name": "David and Walter (Alien franchise synthetics)",
+      "year": "2012",
+      "corpus": "fictional",
+      "ancestors": [
+        "ash-alien",
+        "bishop-aliens"
+      ],
+      "descendants": []
     },
     {
       "id": "atrias",
@@ -1858,6 +1984,16 @@
       ]
     },
     {
+      "id": "orb-slam-mur-artal-2015",
+      "name": "ORB-SLAM",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [
+        "lowe-sift-1999"
+      ],
+      "descendants": []
+    },
+    {
       "id": "plastic-memories-2015",
       "name": "Plastic Memories (Giftia humanoids with explicit lifecycle)",
       "year": "2015",
@@ -1886,6 +2022,14 @@
     {
       "id": "steins-gate-amadeus-2015",
       "name": "Steins;Gate 0 Amadeus AI consciousness backup",
+      "year": "2015",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bb-8-star-wars",
+      "name": "BB-8",
       "year": "2015",
       "corpus": "fictional",
       "ancestors": [],
@@ -1962,7 +2106,9 @@
       "name": "ODrive",
       "year": "2017",
       "corpus": "open",
-      "ancestors": [],
+      "ancestors": [
+        "park-transformation-1929"
+      ],
       "descendants": [
         "mjbots-moteus"
       ]
@@ -1994,6 +2140,14 @@
       "descendants": []
     },
     {
+      "id": "christiano-rlhf-2017",
+      "name": "RLHF (Deep Reinforcement Learning from Human Preferences)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hindsight-experience-replay",
       "name": "Hindsight Experience Replay (HER)",
       "year": "2017",
@@ -2015,6 +2169,16 @@
         "reachy",
         "reachy-2-pollen-2023"
       ]
+    },
+    {
+      "id": "blade-runner-2049",
+      "name": "Blade Runner 2049 (Nexus-9 K, Joi)",
+      "year": "2017",
+      "corpus": "fictional",
+      "ancestors": [
+        "replicants-blade-runner"
+      ],
+      "descendants": []
     },
     {
       "id": "kawasaki-kaleido",
@@ -2178,7 +2342,8 @@
       "year": "2019",
       "corpus": "open",
       "ancestors": [
-        "odrive"
+        "odrive",
+        "park-transformation-1929"
       ],
       "descendants": []
     },
@@ -2239,7 +2404,9 @@
       "name": "SimpleFOC",
       "year": "2020",
       "corpus": "open",
-      "ancestors": [],
+      "ancestors": [
+        "park-transformation-1929"
+      ],
       "descendants": []
     },
     {
@@ -2280,6 +2447,19 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "radford-clip-2021",
+      "name": "CLIP (Contrastive Language-Image Pretraining)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "open-x-embodiment",
+        "openai-rt-2",
+        "openvla",
+        "palm-e"
+      ]
     },
     {
       "id": "ishiguro-klara-and-the-sun-2021",
@@ -2429,11 +2609,20 @@
       "descendants": []
     },
     {
+      "id": "hafner-dreamer-v3-2023",
+      "name": "Dreamer V3",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "palm-e",
       "name": "PaLM-E (Embodied Multimodal Language Model)",
       "year": "2023",
       "corpus": "academic",
       "ancestors": [
+        "radford-clip-2021",
         "saycan-google"
       ],
       "descendants": [
@@ -2518,6 +2707,7 @@
         "mason-mechanics-manipulation",
         "palm-e",
         "pomerleau-alvinn",
+        "radford-clip-2021",
         "rt-1",
         "saycan-google"
       ],
@@ -2634,6 +2824,7 @@
         "gato-deepmind",
         "openai-rt-2",
         "pomerleau-alvinn",
+        "radford-clip-2021",
         "rh20t-fang-2024",
         "rt-1"
       ],
@@ -2764,6 +2955,14 @@
       "descendants": []
     },
     {
+      "id": "nvidia-groot-2024",
+      "name": "NVIDIA GR00T (Generalist Robot 00 Technology)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "droid-dataset",
       "name": "DROID Dataset",
       "year": "2024",
@@ -2815,6 +3014,14 @@
       ]
     },
     {
+      "id": "atlas-2024-film",
+      "name": "Smith (Atlas 2024)",
+      "year": "2024",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "openvla",
       "name": "OpenVLA (Open-Source Vision-Language-Action Model)",
       "year": "2024",
@@ -2828,6 +3035,7 @@
         "open-x-embodiment",
         "openai-rt-2",
         "palm-e",
+        "radford-clip-2021",
         "robocat",
         "rt-1",
         "vima"

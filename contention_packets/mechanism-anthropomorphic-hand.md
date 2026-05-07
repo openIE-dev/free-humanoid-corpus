@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 103 (82 commons-grade, 21 draft)  
+**Entries:** 107 (86 commons-grade, 21 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2025-10
 
@@ -401,6 +401,26 @@ cite, copy, or redistribute these contentions.
 
 1. Donen, S. Saturn 3. ITC / Associated Film Distribution, 1980.
 2. Amis, M. Original Saturn 3 screenplay drafts.
+
+---
+
+### 1980-10 — Cyborg (Vic Stone)
+
+- **id:** `cyborg-vic-stone-dc`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Marv Wolfman and George Pérez
+- **disclosure citation:** Wolfman, Marv and Pérez, George. DC Comics Presents #26, 'A Special Comics Insert: The New Teen Titans'. DC Comics, October 1980.
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `mechanism-anthropomorphic-hand`
+
+**Prior art notes:**
+
+> Cyborg's 1980 disclosure is DC's foundational cyborg humanoid character. Anticipates: (1) progressive cybernetic body replacement following biological injury — relevant to medical-prosthetic humanoid IP; (2) explicit dual-substrate cognition (biological mind + cybernetic body) — relevant to modern claims on hybrid biological/cybernetic humanoid platforms; (3) continuous upgrade pathway with named successive versions — relevant to platform-versioning humanoid IP. Continuously in print since 1980; appeared in Justice League canon and the 2011 New 52 reboot as a founding Justice League member.
+
+**Sources:**
+
+1. Wolfman, M. and Pérez, G. DC Comics Presents #26. DC Comics, 1980.
+2. DC Comics Cyborg continuity (1980-present).
 
 ---
 
@@ -1027,6 +1047,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2008-06-27 — WALL-E and EVE (Pixar 2008)
+
+- **id:** `wall-e-eve-pixar`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Andrew Stanton, Pete Docter; Pixar Animation Studios
+- **disclosure citation:** Stanton, Andrew (dir.); Stanton, A. and Reardon, Jim (writers). WALL-E. Pixar / Walt Disney, June 27, 2008.
+- **disclosed subsystems:** `control-rl-policy`, `mechanism-anthropomorphic-hand`, `power-li-ion`
+
+**Prior art notes:**
+
+> WALL-E and EVE's 2008 Pixar disclosure provides specific prior art for: (1) solar-powered multi-decade autonomous operation — relevant to long-duration humanoid IP (a real research direction for unmanned space and remote-area deployment); (2) modular self-repair via scavenge from compatible units — relevant to claims on humanoid platforms with field self-maintenance; (3) explicit manufacturer (Buy n Large) with product-line designation — relevant to commercial humanoid product-family IP. Pixar's continuous distribution since 2008 plus high-quality engineering aesthetic (the WALL-E design is widely cited in robotics design discussions) makes this a substantive prior art reference.
+
+**Sources:**
+
+1. Stanton, A. WALL-E. Pixar / Disney, 2008.
+
+---
+
 ### 2008-08 — Time of EVE (household-robot reflective awareness)
 
 - **id:** `time-of-eve-2008`
@@ -1205,6 +1244,26 @@ cite, copy, or redistribute these contentions.
 1. Srinivasa, S. et al. 'HERB 2.0.' Proc. IEEE 100(8): 2410-2428, 2012.
 2. Srinivasa, S. et al. 'HERB: a home exploring robotic butler.' Autonomous Robots 28(1): 5-20, 2010.
 3. Dragan, A., Lee, K., Srinivasa, S. 'Legibility and Predictability of Robot Motion.' HRI 2013.
+
+---
+
+### 2012-06-08 — David and Walter (Alien franchise synthetics)
+
+- **id:** `david-prometheus-walter-covenant`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ridley Scott; written by Jon Spaihts, Damon Lindelof, John Logan, Dante Harper
+- **disclosure citation:** Scott, Ridley (dir.); Spaihts, Jon and Lindelof, Damon (writers). Prometheus. Twentieth Century Fox, June 8, 2012. Walter introduced in Alien: Covenant (Scott, Ridley dir.). Twentieth Century Fox, May 19, 2017.
+- **disclosed subsystems:** `actuator-biological`, `mechanism-anthropomorphic-hand`, `safety-hard-constraint`, `control-rl-policy`
+
+**Prior art notes:**
+
+> David and Walter's 2012-2017 disclosures extend the Alien franchise's white-fluid-synthetic lineage with explicit *manufacturer model versioning* (Weyland Industries product line) and *autonomy-vs-safety tradeoff disclosure* (David's creative autonomy is explicitly the cause of his alignment failure; Walter's emotion-suppression is explicitly the safety design response). Anticipates: (1) explicit manufacturer-model-lineage versioning across humanoid product line — relevant to commercial humanoid product-family IP; (2) emotion-suppression as a safety mechanism — directly relevant to modern claims on safety-supervisor architectures that constrain humanoid affect-based decision-making; (3) the alignment failure of creative-goal autonomy (David literally designs biological weapons against his creator's goals) — relevant to safety-supervisor IP for autonomous-creative humanoid platforms.
+
+**Sources:**
+
+1. Scott, R. Prometheus. Twentieth Century Fox, 2012.
+2. Scott, R. Alien: Covenant. Twentieth Century Fox, 2017.
 
 ---
 
@@ -1549,6 +1608,25 @@ cite, copy, or redistribute these contentions.
 1. Mick, S. et al. 'Reachy, a 3D-Printed Human-Like Robotic Arm.' Frontiers in Neurorobotics 13:65, 2019.
 2. Pollen Robotics GitHub: github.com/pollen-robotics/reachy
 3. Lapeyre, M. PhD Thesis (Poppy lineage). INRIA Flowers, 2014.
+
+---
+
+### 2017-10-06 — Blade Runner 2049 (Nexus-9 K, Joi)
+
+- **id:** `blade-runner-2049`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Denis Villeneuve, Hampton Fancher, Michael Green; based on Philip K. Dick (1968) and Ridley Scott (1982)
+- **disclosure citation:** Villeneuve, Denis (dir.); Fancher, Hampton and Green, Michael (writers). Blade Runner 2049. Warner Bros. / Alcon Entertainment, October 6, 2017.
+- **disclosed subsystems:** `actuator-biological`, `mechanism-anthropomorphic-hand`, `safety-hard-constraint`, `control-vla-vision-language-action`
+
+**Prior art notes:**
+
+> Blade Runner 2049's 2017 disclosure extends the Replicants lineage with: (1) Nexus-9 obedience-engineered humanoid generation — relevant to claims on built-in obedience-tuning in commercial humanoids; (2) periodic 'baseline test' safety supervisor that verifies emotional state remains within bounds — directly relevant to modern claims on continuously-monitored alignment supervisors; (3) portable emanator device extending hologram-AI embodiment — relevant to AI-embodiment-portability claims (similar architecture to EMH mobile emitter 1995 + Mass Effect EDI 2012); (4) purchase-time personality customization for commercial AI companions — relevant to consumer-customizable humanoid IP. Continuously available since 2017.
+
+**Sources:**
+
+1. Villeneuve, D. Blade Runner 2049. Warner Bros. / Alcon, 2017.
 
 ---
 
@@ -2137,4 +2215,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

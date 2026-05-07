@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-direct-drive`
 
-**65 corpus entries disclose this subsystem.**
+**68 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Villiers de l'Isle-Adam, Auguste. L'Ève future. Brunhoff, Paris, 1886.
 - **ip status**: fictional
 - **prior art notes**: The first detailed engineering disclosure of a female-form electromechanical humanoid in Western literature. Anticipates with specific mechanism: (1) electromotor-per-joint articulation — directly relevant to modern direct-drive humanoid claims, predating Honda E0 (1986) by exactly 100 years; (2) battery-powered humanoid speech synthesis using phonograph audio playback driven by speech recognition keywords — anticipates speech-triggered behavior selection in conversational humanoids, an arguable precursor to multimodal vision-language-action policy by 137 years; (3) compliant skin with sensor capillaries — anticipates whole-body tactile sensing claims; (4) seven-hour battery runtime — claims modern operational duration as a known design target in 1886. The novel was favorably reviewed and continuously in print since 1886; English translation (Forge of Tomorrow, also Tomorrow's Eve) widely studied in academic SF/cyborg theory courses. Strong specificity supports 102 anticipation arguments.
+
+## Park's Transformation (dq0 transformation) (1929-07)
+
+- **id**: `park-transformation-1929`
+- **corpus**: academic
+- **creator**: Robert H. Park
+- **disclosure**: Park, Robert H. 'Two-reaction theory of synchronous machines — generalized method of analysis — Part I'. AIEE Transactions 48(3): 716-727, July 1929.
+- **ip status**: public-domain
+- **prior art notes**: Park's 1929 transformation is the mathematical foundation underlying FOC (Field-Oriented Control) of every modern brushless DC and AC servo motor in humanoid platforms. Anticipates with 97 years of prior art: (1) the dq0 reference-frame transformation as the basis for vector control — every modern humanoid actuator controller (Moteus, ODrive, SimpleFOC, T-Motor, plus closed proprietary controllers) uses this transformation; (2) the decoupling of torque-producing and flux-producing current components — foundational for any motor-control humanoid IP. Modern claims on FOC implementations in humanoid actuators all face this 97-year academic prior art.
 
 ## Sumitomo CYCLO Speed Reducer (1937)
 
@@ -123,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Black Hole's robots provide notable prior art for: (1) non-bipedal humanoid-equivalent platforms (V.I.N.CENT/B.O.B. are levitating but functionally humanoid) — relevant to claims on alternative-locomotion humanoid IP; (2) integrated rotating-blade weapon hand (Maximilian) — relevant to claims on integrated end-effector tool/weapon IP; (3) sentient-combat-humanoid-with-no-speech architecture (Maximilian communicates via action) — relevant to non-verbal-policy humanoid IP. Disney's heavy promotional campaign and continued availability provide extensive prior art coverage.
 
+## IG-88 (1980-05-21)
+
+- **id**: `ig-88-star-wars`
+- **corpus**: fictional
+- **creator**: George Lucas, Lawrence Kasdan; visual design by Industrial Light & Magic
+- **disclosure**: Kershner, Irvin (dir.); Brackett, Leigh and Kasdan, Lawrence (writers). Star Wars: The Empire Strikes Back. Twentieth Century Fox / Lucasfilm, May 21, 1980.
+- **ip status**: fictional
+- **prior art notes**: IG-88's 1980 Star Wars disclosure provides specific prior art for: (1) 360° sensor coverage via multi-photoreceptor head architecture — relevant to humanoid head-mounted sensor IP; (2) forearm-integrated weapon platforms — relevant to integrated end-effector tool/weapon claims (HK-47 2003 lineage); (3) batch-wide alignment failure (the IG-series collectively rebelled against creators) — relevant to claims on fleet-wide alignment-failure detection. Continuously available since 1980; the 'Tales of the Bounty Hunters' 1996 anthology extended the disclosure with detailed mechanism backstory.
+
 ## Honda E1 (1987)
 
 - **id**: `honda-e1`
@@ -203,6 +221,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sony Corporation announcement of AIBO ERS-110, May 11, 1999.
 - **ip status**: patented
 - **prior art notes**: AIBO is foundational prior art for consumer quadruped robots. Sony's 1990s-2000s patents cover quadruped behavior architecture, learning systems, and small-form-factor actuators. Many expired or near expiration.
+
+## B1 Battle Droid (1999-05-19)
+
+- **id**: `b1-battle-droid`
+- **corpus**: fictional
+- **creator**: George Lucas; designed by Doug Chiang
+- **disclosure**: Lucas, George (writer/dir.). Star Wars: Episode I — The Phantom Menace. Twentieth Century Fox / Lucasfilm, May 19, 1999.
+- **ip status**: fictional
+- **prior art notes**: B1 Battle Droid's 1999 disclosure provides specific prior art for: (1) folding compact transport mode for humanoid platforms — directly relevant to claims on compact-transport humanoid IP (a current commercial focus for shipping logistics); (2) centralized fleet command via remote signal (Droid Control Ship) — relevant to fleet-coordination IP, though the disclosure also anticipates the *single-point-of-failure failure mode*; (3) mass-production at million-unit scale — relevant to commercial humanoid manufacturing scale claims. Continuously available since 1999.
 
 ## MJOLNIR Powered Assault Armor / Master Chief (2001-11-15)
 

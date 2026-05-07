@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-teleoperation`
 
-**28 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-07
 
@@ -266,3 +266,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Khazatsky, Alexander et al. 'DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset.' arXiv:2403.12945, March 19, 2024. Robotics: Science and Systems (RSS) 2024. Authors: Khazatsky, A., Pertsch, K., Nair, S., Balakrishna, A., Dasari, S., Karamcheti, S., Nasiriany, S., Srirama, M.K., Chen, L.Y., Ellis, K., Fagan, P.D., Hejna, J., Itkina, M., Lepert, M., Ma, Y.J., Miller, P.T., Wu, J., Belkhale, S., Dass, S., Ha, H., Jain, A., Lee, A., Lee, Y., Memmel, M., Park, S., Radosavovic, I., Wang, K., Zhan, A., Black, K., Chi, C., Hatch, K.B., Lin, S., Lu, J., Mercat, J., Rehman, A., Sanketi, P.R., Sharma, A., Simpson, C., Vuong, Q., Walke, H.R., Wulfe, B., Xiao, T., Yang, J.H., Yavary, A., Zhao, T.Z., Agia, C., Baijal, R., Castro, M.G., Chen, D., Chen, Q., Chung, T., Drake, J., Foster, E.P., Gao, J., Garcia Herrera, D.A., Heo, M., Hsu, K., Hu, J., Jackson, D., Le, C., Li, Y., Lin, K., Lin, R., Ma, Z., Maddukuri, A., Mirchandani, S., Morton, D., Nguyen, T., O'Neill, A., Scalise, R., Seale, D., Son, V., Tian, S., Tran, E., Wang, A.E., Wu, Y., Xie, A., Yang, J., Yin, P., Zhang, Y., Bastani, O., Berseth, G., Bohg, J., Goldberg, K., Gupta, A., Gupta, A., Jayaraman, D., Lim, J.J., Malik, J., Martín-Martín, R., Ramamoorthy, S., Sadigh, D., Song, S., Wu, J., Yip, M.C., Zhu, Y., Kollar, T., Levine, S., Finn, C. (Stanford / Berkeley / TRI / GoogleDeepMind / 18-institution academic consortium).
 - **ip status**: open-permissive
 - **prior art notes**: DROID is the canonical academic disclosure of large-scale standardized robot manipulation data collection across diverse environments. Anticipates: (1) standardized hardware-stack-based data collection at multi-institutional scale — directly relevant to claims on 'data-flywheel' humanoid programs (Tesla Optimus operator floor, Figure data pipeline, 1X data-collection program); (2) teleoperated demonstration data as the substrate for VLA training — relevant to claims on imitation-learning-based humanoid IP; (3) the open data + open hardware spec combination — establishes prior art for any 'standardized fleet for robot data' patent claim. Released under permissive license (CC-BY 4.0 for data); 76k trajectories, 564 scenes, full hardware spec. Modern humanoid data-collection patent claims face this 2-year-deep anchor.
+
+## Smith (Atlas 2024) (2024-05-24)
+
+- **id**: `atlas-2024-film`
+- **corpus**: fictional
+- **creator**: Brad Peyton, Aron Eli Stein, Leo Steakley
+- **disclosure**: Wyatt, Brad Peyton (dir.); Stein, Aron Eli and Steakley, Leo (writers). Atlas. Netflix, May 24, 2024.
+- **ip status**: fictional
+- **prior art notes**: Atlas's 2024 disclosure is recent and provides notable prior art for: (1) pilot-AI neural-handshake co-pilot architecture in a humanoid platform — directly relevant to modern claims on operator-AI humanoid co-pilot IP (the 'drift' architecture from Pacific Rim 2013 is the deeper anchor; Atlas extends with the AI-as-explicit-co-pilot framing); (2) explicit trust-building progression as a policy-update protocol — relevant to humanoid policies that adjust autonomy-level over deployment time; (3) AI override authority for safety-critical decisions in operator-piloted humanoids — relevant to modern safety-supervisor humanoid IP. Continuously available since May 2024.

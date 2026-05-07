@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `safety-hard-constraint`  
-**Entries:** 46 (45 commons-grade, 1 draft)  
+**Entries:** 52 (51 commons-grade, 1 draft)  
 **Earliest disclosure:** -0250  
-**Most recent disclosure:** 2022-12-30
+**Most recent disclosure:** 2024-05-24
 
 ---
 
@@ -265,6 +265,46 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1977-01-29 — Voc Robots (Robots of Death)
+
+- **id:** `voc-robots-doctor-who`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Chris Boucher (writer); BBC
+- **disclosure citation:** Boucher, Chris (writer). 'The Robots of Death'. Doctor Who serial, BBC, January 29 - February 19, 1977 (4-episode arc).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `control-vla-vision-language-action`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> The 1977 'Robots of Death' Doctor Who serial is one of the most engineering-detailed BBC humanoid disclosures. Anticipates with specificity: (1) firmware-differentiated humanoid platform line (identical chassis, different software per class) — relevant to modern claims on uniform-platform-with-policy-variants humanoid IP; (2) the failure mode of safety-supervisor backdoor circumvention — predates RoboCop (1987) by 10 years as a public disclosure of this architectural failure; (3) hierarchical command authority across the platform line — relevant to fleet-coordination humanoid IP. Continuously available since 1977.
+
+**Sources:**
+
+1. Boucher, C. 'The Robots of Death'. Doctor Who, BBC, 1977.
+2. BBC Doctor Who Programme Guide (Hayward, A. 1981).
+
+---
+
+### 1977-05-25 — R2-D2
+
+- **id:** `r2-d2-star-wars`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** George Lucas; designed by Ralph McQuarrie and John Stears
+- **disclosure citation:** Lucas, George (writer/dir.). Star Wars (later A New Hope). Twentieth Century Fox / Lucasfilm, May 25, 1977.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> R2-D2's 1977 disclosure establishes foundational tropes for: (1) modular retractable tool inventory in a single robot platform — anticipating modern tool-changing humanoid IP (Apptronik Apollo's payload-and-skill-pairing has direct lineage); (2) standardized vehicle-computer-integration socket interface — anticipating claims on humanoid-vehicle integration architectures; (3) memory-wipe-evasion as a behavioral pattern — anticipating modern claims on persistence-aware policy backups (NieR Automata's 2017 backup-from-cloud architecture builds on this lineage). Continuously available since 1977 across 11+ films.
+
+**Sources:**
+
+1. Lucas, G. Star Wars (A New Hope). Lucasfilm/Fox, 1977.
+2. Star Wars Encyclopedia (multiple Lucasfilm publications, 1977-2024).
+
+---
+
 ### 1979-05-25 — Ash (Alien)
 
 - **id:** `ash-alien`
@@ -282,6 +322,26 @@ cite, copy, or redistribute these contentions.
 
 1. O'Bannon, D. and Shusett, R. Alien. 1979 shooting script (publicly available).
 2. Scott, R. Alien. Twentieth Century Fox, 1979.
+
+---
+
+### 1980-05-21 — IG-88
+
+- **id:** `ig-88-star-wars`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** George Lucas, Lawrence Kasdan; visual design by Industrial Light & Magic
+- **disclosure citation:** Kershner, Irvin (dir.); Brackett, Leigh and Kasdan, Lawrence (writers). Star Wars: The Empire Strikes Back. Twentieth Century Fox / Lucasfilm, May 21, 1980.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric-direct-drive`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> IG-88's 1980 Star Wars disclosure provides specific prior art for: (1) 360° sensor coverage via multi-photoreceptor head architecture — relevant to humanoid head-mounted sensor IP; (2) forearm-integrated weapon platforms — relevant to integrated end-effector tool/weapon claims (HK-47 2003 lineage); (3) batch-wide alignment failure (the IG-series collectively rebelled against creators) — relevant to claims on fleet-wide alignment-failure detection. Continuously available since 1980; the 'Tales of the Bounty Hunters' 1996 anthology extended the disclosure with detailed mechanism backstory.
+
+**Sources:**
+
+1. Kershner, I. The Empire Strikes Back. Lucasfilm/Fox, 1980.
+2. Anderson, K.J. (ed.) Tales of the Bounty Hunters. Bantam, 1996.
 
 ---
 
@@ -749,6 +809,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2012-06-08 — David and Walter (Alien franchise synthetics)
+
+- **id:** `david-prometheus-walter-covenant`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ridley Scott; written by Jon Spaihts, Damon Lindelof, John Logan, Dante Harper
+- **disclosure citation:** Scott, Ridley (dir.); Spaihts, Jon and Lindelof, Damon (writers). Prometheus. Twentieth Century Fox, June 8, 2012. Walter introduced in Alien: Covenant (Scott, Ridley dir.). Twentieth Century Fox, May 19, 2017.
+- **disclosed subsystems:** `actuator-biological`, `mechanism-anthropomorphic-hand`, `safety-hard-constraint`, `control-rl-policy`
+
+**Prior art notes:**
+
+> David and Walter's 2012-2017 disclosures extend the Alien franchise's white-fluid-synthetic lineage with explicit *manufacturer model versioning* (Weyland Industries product line) and *autonomy-vs-safety tradeoff disclosure* (David's creative autonomy is explicitly the cause of his alignment failure; Walter's emotion-suppression is explicitly the safety design response). Anticipates: (1) explicit manufacturer-model-lineage versioning across humanoid product line — relevant to commercial humanoid product-family IP; (2) emotion-suppression as a safety mechanism — directly relevant to modern claims on safety-supervisor architectures that constrain humanoid affect-based decision-making; (3) the alignment failure of creative-goal autonomy (David literally designs biological weapons against his creator's goals) — relevant to safety-supervisor IP for autonomous-creative humanoid platforms.
+
+**Sources:**
+
+1. Scott, R. Prometheus. Twentieth Century Fox, 2012.
+2. Scott, R. Alien: Covenant. Twentieth Century Fox, 2017.
+
+---
+
 ### 2014-11-07 — Baymax
 
 - **id:** `baymax-big-hero-6`
@@ -848,6 +928,25 @@ cite, copy, or redistribute these contentions.
 1. Wells, M. 'All Systems Red.' Tor.com Publishing, 2017.
 2. Wells, M. The Murderbot Diaries series 2017-2024.
 3. Hugo Award (Best Novella) 2018; Nebula Award (Best Novella) 2017.
+
+---
+
+### 2017-10-06 — Blade Runner 2049 (Nexus-9 K, Joi)
+
+- **id:** `blade-runner-2049`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Denis Villeneuve, Hampton Fancher, Michael Green; based on Philip K. Dick (1968) and Ridley Scott (1982)
+- **disclosure citation:** Villeneuve, Denis (dir.); Fancher, Hampton and Green, Michael (writers). Blade Runner 2049. Warner Bros. / Alcon Entertainment, October 6, 2017.
+- **disclosed subsystems:** `actuator-biological`, `mechanism-anthropomorphic-hand`, `safety-hard-constraint`, `control-vla-vision-language-action`
+
+**Prior art notes:**
+
+> Blade Runner 2049's 2017 disclosure extends the Replicants lineage with: (1) Nexus-9 obedience-engineered humanoid generation — relevant to claims on built-in obedience-tuning in commercial humanoids; (2) periodic 'baseline test' safety supervisor that verifies emotional state remains within bounds — directly relevant to modern claims on continuously-monitored alignment supervisors; (3) portable emanator device extending hologram-AI embodiment — relevant to AI-embodiment-portability claims (similar architecture to EMH mobile emitter 1995 + Mass Effect EDI 2012); (4) purchase-time personality customization for commercial AI companions — relevant to consumer-customizable humanoid IP. Continuously available since 2017.
+
+**Sources:**
+
+1. Villeneuve, D. Blade Runner 2049. Warner Bros. / Alcon, 2017.
 
 ---
 
@@ -972,6 +1071,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-05-24 — Smith (Atlas 2024)
+
+- **id:** `atlas-2024-film`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Brad Peyton, Aron Eli Stein, Leo Steakley
+- **disclosure citation:** Wyatt, Brad Peyton (dir.); Stein, Aron Eli and Steakley, Leo (writers). Atlas. Netflix, May 24, 2024.
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `control-vla-vision-language-action`, `control-teleoperation`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Atlas's 2024 disclosure is recent and provides notable prior art for: (1) pilot-AI neural-handshake co-pilot architecture in a humanoid platform — directly relevant to modern claims on operator-AI humanoid co-pilot IP (the 'drift' architecture from Pacific Rim 2013 is the deeper anchor; Atlas extends with the AI-as-explicit-co-pilot framing); (2) explicit trust-building progression as a policy-update protocol — relevant to humanoid policies that adjust autonomy-level over deployment time; (3) AI override authority for safety-critical decisions in operator-piloted humanoids — relevant to modern safety-supervisor humanoid IP. Continuously available since May 2024.
+
+**Sources:**
+
+1. Wyatt, B.P. Atlas. Netflix, 2024.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -1002,4 +1120,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

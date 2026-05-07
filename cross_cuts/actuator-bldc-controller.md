@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `actuator-bldc-controller`
 
-**9 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2013
+Earliest disclosure: 1929-07
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Park's Transformation (dq0 transformation) (1929-07)
+
+- **id**: `park-transformation-1929`
+- **corpus**: academic
+- **creator**: Robert H. Park
+- **disclosure**: Park, Robert H. 'Two-reaction theory of synchronous machines — generalized method of analysis — Part I'. AIEE Transactions 48(3): 716-727, July 1929.
+- **ip status**: public-domain
+- **prior art notes**: Park's 1929 transformation is the mathematical foundation underlying FOC (Field-Oriented Control) of every modern brushless DC and AC servo motor in humanoid platforms. Anticipates with 97 years of prior art: (1) the dq0 reference-frame transformation as the basis for vector control — every modern humanoid actuator controller (Moteus, ODrive, SimpleFOC, T-Motor, plus closed proprietary controllers) uses this transformation; (2) the decoupling of torque-producing and flux-producing current components — foundational for any motor-control humanoid IP. Modern claims on FOC implementations in humanoid actuators all face this 97-year academic prior art.
 
 ## MIT Cheetah (2013)
 

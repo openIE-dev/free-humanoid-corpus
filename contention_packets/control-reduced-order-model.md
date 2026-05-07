@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `control-reduced-order-model`  
-**Entries:** 20 (19 commons-grade, 1 draft)  
+**Entries:** 21 (20 commons-grade, 1 draft)  
 **Earliest disclosure:** 1979-04-07  
 **Most recent disclosure:** 2022
 
@@ -97,6 +97,26 @@ cite, copy, or redistribute these contentions.
 1. Raibert, M.H. 'Hopping in legged systems'. IEEE Trans. SMC, 1984.
 2. Raibert, M.H. and Brown, H.B. 'Experiments in balance with a 2D one-legged machine'. ASME J. DSMC, 1984.
 3. Raibert, M.H. Legged Robots that Balance. MIT Press, 1986.
+
+---
+
+### 1983 — Brockett's Necessary Condition for Stabilizability
+
+- **id:** `brockett-condition-1983`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Roger W. Brockett, Harvard University
+- **disclosure citation:** Brockett, Roger W. 'Asymptotic stability and feedback stabilization'. In Differential Geometric Control Theory (Brockett, Millman, Sussmann eds.), Birkhäuser, 1983, pp. 181-191.
+- **disclosed subsystems:** `control-reduced-order-model`, `control-mpc`, `mechanism-bipedal-locomotion`, `mechanism-wheeled-balancing`
+
+**Prior art notes:**
+
+> Brockett's 1983 condition is the theoretical foundation for understanding why certain humanoid and wheeled-robot systems cannot be stabilized with continuous time-invariant feedback. Modern claims on humanoid walking controllers, wheeled-balance controllers, and switched-system humanoid policies all rest on the design space Brockett's condition characterizes. Anticipates with 43 years of prior art: (1) theoretical justification for time-varying controllers in nonholonomic systems — relevant to wheeled-base humanoid IP; (2) the foundational characterization that motivates ZMP-based walking, LIPM-based walking, and modern reduced-order-model control. Heavily cited; canonical reference in nonlinear control textbooks.
+
+**Sources:**
+
+1. Brockett, R.W. 'Asymptotic stability and feedback stabilization'. Differential Geometric Control Theory, Birkhäuser, 1983.
+2. Khalil, H. Nonlinear Systems (textbook reference for Brockett's condition).
 
 ---
 
@@ -474,4 +494,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

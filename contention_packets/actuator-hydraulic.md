@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `actuator-hydraulic`  
-**Entries:** 21 (16 commons-grade, 5 draft)  
+**Entries:** 24 (18 commons-grade, 6 draft)  
 **Earliest disclosure:** -0250  
-**Most recent disclosure:** 2022
+**Most recent disclosure:** 2024-05-24
 
 ---
 
@@ -78,6 +78,26 @@ cite, copy, or redistribute these contentions.
 
 1. Tezuka, O. Astro Boy: 'The Greatest Robot on Earth'. Kodansha Shōnen Magazine, 1964-1965 (collected in tankōbon volumes).
 2. Tezuka, O. Tetsuwan Atom complete works (Kodansha, 1979-1981 collected edition).
+
+---
+
+### 1967-09 — MODOK *(draft)*
+
+- **id:** `modok-marvel`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Stan Lee and Jack Kirby
+- **disclosure citation:** Lee, Stan and Kirby, Jack. Tales of Suspense #94, 'If This Be... MODOK!'. Marvel Comics, October 1967 (cover-dated).
+- **disclosed subsystems:** `actuator-hydraulic`
+
+**Prior art notes:**
+
+> MODOK's 1967 disclosure provides specific prior art for: (1) cognition-focused chassis architecture wherein the platform's mass is allocated to compute substrate rather than manipulation — relevant to claims on compute-heavy humanoid platforms (a future trend with on-platform foundation-model inference); (2) hover-chair / floating-chassis locomotion paradigm — relevant to alternative-mobility platforms; (3) integrated weapon mounts on a chair-mounted humanoid platform. Continuously in print since 1967.
+
+**Sources:**
+
+1. Lee, S. and Kirby, J. Tales of Suspense #94. Marvel Comics, 1967.
+2. Marvel Comics MODOK continuity (1967-present).
 
 ---
 
@@ -219,6 +239,26 @@ cite, copy, or redistribute these contentions.
 
 1. Donen, S. Saturn 3. ITC / Associated Film Distribution, 1980.
 2. Amis, M. Original Saturn 3 screenplay drafts.
+
+---
+
+### 1980-10 — Cyborg (Vic Stone)
+
+- **id:** `cyborg-vic-stone-dc`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Marv Wolfman and George Pérez
+- **disclosure citation:** Wolfman, Marv and Pérez, George. DC Comics Presents #26, 'A Special Comics Insert: The New Teen Titans'. DC Comics, October 1980.
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `mechanism-anthropomorphic-hand`
+
+**Prior art notes:**
+
+> Cyborg's 1980 disclosure is DC's foundational cyborg humanoid character. Anticipates: (1) progressive cybernetic body replacement following biological injury — relevant to medical-prosthetic humanoid IP; (2) explicit dual-substrate cognition (biological mind + cybernetic body) — relevant to modern claims on hybrid biological/cybernetic humanoid platforms; (3) continuous upgrade pathway with named successive versions — relevant to platform-versioning humanoid IP. Continuously in print since 1980; appeared in Justice League canon and the 2011 New 52 reboot as a founding Justice League member.
+
+**Sources:**
+
+1. Wolfman, M. and Pérez, G. DC Comics Presents #26. DC Comics, 1980.
+2. DC Comics Cyborg continuity (1980-present).
 
 ---
 
@@ -460,6 +500,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-05-24 — Smith (Atlas 2024)
+
+- **id:** `atlas-2024-film`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Brad Peyton, Aron Eli Stein, Leo Steakley
+- **disclosure citation:** Wyatt, Brad Peyton (dir.); Stein, Aron Eli and Steakley, Leo (writers). Atlas. Netflix, May 24, 2024.
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `control-vla-vision-language-action`, `control-teleoperation`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Atlas's 2024 disclosure is recent and provides notable prior art for: (1) pilot-AI neural-handshake co-pilot architecture in a humanoid platform — directly relevant to modern claims on operator-AI humanoid co-pilot IP (the 'drift' architecture from Pacific Rim 2013 is the deeper anchor; Atlas extends with the AI-as-explicit-co-pilot framing); (2) explicit trust-building progression as a policy-update protocol — relevant to humanoid policies that adjust autonomy-level over deployment time; (3) AI override authority for safety-critical decisions in operator-piloted humanoids — relevant to modern safety-supervisor humanoid IP. Continuously available since May 2024.
+
+**Sources:**
+
+1. Wyatt, B.P. Atlas. Netflix, 2024.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -490,4 +549,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

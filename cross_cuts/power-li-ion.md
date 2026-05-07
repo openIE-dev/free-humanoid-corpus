@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `power-li-ion`
 
-**59 corpus entries disclose this subsystem.**
+**60 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -140,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaneko, K. et al. 'Humanoid Robot HRP-3.' IROS 2008.
 - **ip status**: open-permissive
 - **prior art notes**: HRP-3's environmental sealing disclosures anticipate subsequent IP-rated humanoid claims. The HRP series is a deep commons asset because of consistent open academic disclosure across generations.
+
+## WALL-E and EVE (Pixar 2008) (2008-06-27)
+
+- **id**: `wall-e-eve-pixar`
+- **corpus**: fictional
+- **creator**: Andrew Stanton, Pete Docter; Pixar Animation Studios
+- **disclosure**: Stanton, Andrew (dir.); Stanton, A. and Reardon, Jim (writers). WALL-E. Pixar / Walt Disney, June 27, 2008.
+- **ip status**: fictional
+- **prior art notes**: WALL-E and EVE's 2008 Pixar disclosure provides specific prior art for: (1) solar-powered multi-decade autonomous operation — relevant to long-duration humanoid IP (a real research direction for unmanned space and remote-area deployment); (2) modular self-repair via scavenge from compatible units — relevant to claims on humanoid platforms with field self-maintenance; (3) explicit manufacturer (Buy n Large) with product-line designation — relevant to commercial humanoid product-family IP. Pixar's continuous distribution since 2008 plus high-quality engineering aesthetic (the WALL-E design is widely cited in robotics design discussions) makes this a substantive prior art reference.
 
 ## PR2 (2010)
 

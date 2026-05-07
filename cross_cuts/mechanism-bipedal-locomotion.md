@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**103 corpus entries disclose this subsystem.**
+**107 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -150,6 +150,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: First full-scale humanoid in academic record. Anticipates virtually every subsystem of modern humanoids at concept level: bipedal locomotion, bimanual manipulation, multimodal sensing, natural language interface. Specific implementations are crude by modern standards but the architectural decomposition is foundational.
 
+## Voc Robots (Robots of Death) (1977-01-29)
+
+- **id**: `voc-robots-doctor-who`
+- **corpus**: fictional
+- **creator**: Chris Boucher (writer); BBC
+- **disclosure**: Boucher, Chris (writer). 'The Robots of Death'. Doctor Who serial, BBC, January 29 - February 19, 1977 (4-episode arc).
+- **ip status**: fictional
+- **prior art notes**: The 1977 'Robots of Death' Doctor Who serial is one of the most engineering-detailed BBC humanoid disclosures. Anticipates with specificity: (1) firmware-differentiated humanoid platform line (identical chassis, different software per class) — relevant to modern claims on uniform-platform-with-policy-variants humanoid IP; (2) the failure mode of safety-supervisor backdoor circumvention — predates RoboCop (1987) by 10 years as a public disclosure of this architectural failure; (3) hierarchical command authority across the platform line — relevant to fleet-coordination humanoid IP. Continuously available since 1977.
+
 ## Cylon Centurion (1978) (1978-09-17)
 
 - **id**: `cylon-centurion-1978`
@@ -195,6 +204,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Saturn 3's Hector provides surprisingly specific prior art for: (1) brain-tape upload as the operator-to-humanoid policy transfer mechanism — directly relevant to modern claims on human-demonstration imitation learning for humanoids (the brain-tape is functionally an imitation-learning policy); (2) the *failure mode* of training-data-pathology contamination — Hector inherits the operator's mental instability and produces dangerous behavior. This is a remarkably prescient 1980 disclosure of the alignment failure modes that motivate modern safety-supervisor claims; (3) hydraulic large-scale humanoid combat chassis. Continuously available since 1980 across home-video releases.
 
+## IG-88 (1980-05-21)
+
+- **id**: `ig-88-star-wars`
+- **corpus**: fictional
+- **creator**: George Lucas, Lawrence Kasdan; visual design by Industrial Light & Magic
+- **disclosure**: Kershner, Irvin (dir.); Brackett, Leigh and Kasdan, Lawrence (writers). Star Wars: The Empire Strikes Back. Twentieth Century Fox / Lucasfilm, May 21, 1980.
+- **ip status**: fictional
+- **prior art notes**: IG-88's 1980 Star Wars disclosure provides specific prior art for: (1) 360° sensor coverage via multi-photoreceptor head architecture — relevant to humanoid head-mounted sensor IP; (2) forearm-integrated weapon platforms — relevant to integrated end-effector tool/weapon claims (HK-47 2003 lineage); (3) batch-wide alignment failure (the IG-series collectively rebelled against creators) — relevant to claims on fleet-wide alignment-failure detection. Continuously available since 1980; the 'Tales of the Bounty Hunters' 1996 anthology extended the disclosure with detailed mechanism backstory.
+
 ## Raibert One-Legged Hopper (1983)
 
 - **id**: `raibert-hopping-1leg`
@@ -203,6 +221,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Raibert, Marc H. 'Hopping in legged systems — modeling and simulation for the two-dimensional one-legged case'. IEEE Transactions on Systems, Man, and Cybernetics SMC-14(3): 451-463, May/June 1984. Earlier: Raibert, M.H. and Brown, H.B. 'Experiments in balance with a 2D one-legged machine'. Trans. ASME, J. Dyn. Sys., Meas., Cont., 106:75-81, 1984.
 - **ip status**: public-domain
 - **prior art notes**: Raibert's hoppers are the foundational academic disclosure of dynamic legged balance and reduced-order-model control. The three-part decoupling (leg height / foot placement / body attitude) is the *exact* control architecture used by every subsequent dynamic-legged academic and commercial system, from Cassie to Atlas to MIT Mini Cheetah. Modern claims on reduced-order-model legged control all face Raibert's 1984 disclosure as 102 prior art. The 1985 book (Legged Robots that Balance, MIT Press) extends the disclosure to 2-legged and 4-legged versions and is one of the most-cited works in legged robotics. Publicly funded research; open publication.
+
+## Brockett's Necessary Condition for Stabilizability (1983)
+
+- **id**: `brockett-condition-1983`
+- **corpus**: academic
+- **creator**: Roger W. Brockett, Harvard University
+- **disclosure**: Brockett, Roger W. 'Asymptotic stability and feedback stabilization'. In Differential Geometric Control Theory (Brockett, Millman, Sussmann eds.), Birkhäuser, 1983, pp. 181-191.
+- **ip status**: public-domain
+- **prior art notes**: Brockett's 1983 condition is the theoretical foundation for understanding why certain humanoid and wheeled-robot systems cannot be stabilized with continuous time-invariant feedback. Modern claims on humanoid walking controllers, wheeled-balance controllers, and switched-system humanoid policies all rest on the design space Brockett's condition characterizes. Anticipates with 43 years of prior art: (1) theoretical justification for time-varying controllers in nonholonomic systems — relevant to wheeled-base humanoid IP; (2) the foundational characterization that motivates ZMP-based walking, LIPM-based walking, and modern reduced-order-model control. Heavily cited; canonical reference in nonlinear control textbooks.
 
 ## T-800 (1984-10-26)
 
@@ -347,6 +374,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Honda Motor Co. press materials, September 1997. Hirose, M. and Ogawa, K. Phil. Trans. R. Soc. A 365, 11–19 (2007).
 - **ip status**: patented
 - **prior art notes**: Final Honda P-series prototype before ASIMO. Refinements to the P2 architecture; key continuity in the Honda prior art chain.
+
+## B1 Battle Droid (1999-05-19)
+
+- **id**: `b1-battle-droid`
+- **corpus**: fictional
+- **creator**: George Lucas; designed by Doug Chiang
+- **disclosure**: Lucas, George (writer/dir.). Star Wars: Episode I — The Phantom Menace. Twentieth Century Fox / Lucasfilm, May 19, 1999.
+- **ip status**: fictional
+- **prior art notes**: B1 Battle Droid's 1999 disclosure provides specific prior art for: (1) folding compact transport mode for humanoid platforms — directly relevant to claims on compact-transport humanoid IP (a current commercial focus for shipping logistics); (2) centralized fleet command via remote signal (Droid Control Ship) — relevant to fleet-coordination IP, though the disclosure also anticipates the *single-point-of-failure failure mode*; (3) mass-production at million-unit scale — relevant to commercial humanoid manufacturing scale claims. Continuously available since 1999.
 
 ## Big O (The Big O) (1999-10-13)
 

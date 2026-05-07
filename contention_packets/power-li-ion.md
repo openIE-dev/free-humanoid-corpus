@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `power-li-ion`  
-**Entries:** 59 (39 commons-grade, 20 draft)  
+**Entries:** 60 (40 commons-grade, 20 draft)  
 **Earliest disclosure:** 1886  
 **Most recent disclosure:** 2025-10
 
@@ -313,6 +313,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Kaneko, K. et al. IROS 2008.
+
+---
+
+### 2008-06-27 — WALL-E and EVE (Pixar 2008)
+
+- **id:** `wall-e-eve-pixar`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Andrew Stanton, Pete Docter; Pixar Animation Studios
+- **disclosure citation:** Stanton, Andrew (dir.); Stanton, A. and Reardon, Jim (writers). WALL-E. Pixar / Walt Disney, June 27, 2008.
+- **disclosed subsystems:** `control-rl-policy`, `mechanism-anthropomorphic-hand`, `power-li-ion`
+
+**Prior art notes:**
+
+> WALL-E and EVE's 2008 Pixar disclosure provides specific prior art for: (1) solar-powered multi-decade autonomous operation — relevant to long-duration humanoid IP (a real research direction for unmanned space and remote-area deployment); (2) modular self-repair via scavenge from compatible units — relevant to claims on humanoid platforms with field self-maintenance; (3) explicit manufacturer (Buy n Large) with product-line designation — relevant to commercial humanoid product-family IP. Pixar's continuous distribution since 2008 plus high-quality engineering aesthetic (the WALL-E design is widely cited in robotics design discussions) makes this a substantive prior art reference.
+
+**Sources:**
+
+1. Stanton, A. WALL-E. Pixar / Disney, 2008.
 
 ---
 
@@ -1235,4 +1254,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

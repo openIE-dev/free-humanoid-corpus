@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `actuator-foc-controller`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
-**Earliest disclosure:** 2017  
+**Entries:** 5 (5 commons-grade, 0 draft)  
+**Earliest disclosure:** 1929-07  
 **Most recent disclosure:** 2022
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1929-07 — Park's Transformation (dq0 transformation)
+
+- **id:** `park-transformation-1929`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Robert H. Park
+- **disclosure citation:** Park, Robert H. 'Two-reaction theory of synchronous machines — generalized method of analysis — Part I'. AIEE Transactions 48(3): 716-727, July 1929.
+- **disclosed subsystems:** `actuator-foc-controller`, `actuator-bldc-controller`, `actuator-electric-direct-drive`
+
+**Prior art notes:**
+
+> Park's 1929 transformation is the mathematical foundation underlying FOC (Field-Oriented Control) of every modern brushless DC and AC servo motor in humanoid platforms. Anticipates with 97 years of prior art: (1) the dq0 reference-frame transformation as the basis for vector control — every modern humanoid actuator controller (Moteus, ODrive, SimpleFOC, T-Motor, plus closed proprietary controllers) uses this transformation; (2) the decoupling of torque-producing and flux-producing current components — foundational for any motor-control humanoid IP. Modern claims on FOC implementations in humanoid actuators all face this 97-year academic prior art.
+
+**Sources:**
+
+1. Park, R.H. 'Two-reaction theory of synchronous machines, Part I'. AIEE Trans. 48(3): 716-727, 1929.
+2. Park, R.H. 'Two-reaction theory of synchronous machines, Part II'. AIEE Trans. 52(2): 352-355, 1933.
+3. Krause, P.C., Wasynczuk, O., Sudhoff, S.D. Analysis of Electric Machinery and Drive Systems (textbook lineage).
+
+---
 
 ### 2017 — ODrive
 
@@ -150,4 +171,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

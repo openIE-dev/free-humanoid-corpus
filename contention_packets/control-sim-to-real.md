@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `control-sim-to-real`  
-**Entries:** 15 (11 commons-grade, 4 draft)  
+**Entries:** 17 (13 commons-grade, 4 draft)  
 **Earliest disclosure:** 2014-12-11  
 **Most recent disclosure:** 2024-12
 
@@ -182,6 +182,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-01-10 — Dreamer V3
+
+- **id:** `hafner-dreamer-v3-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap; Google DeepMind, University of Toronto
+- **disclosure citation:** Hafner, Danijar; Pasukonis, Jurgis; Ba, Jimmy; Lillicrap, Timothy. 'Mastering diverse domains through world models'. arXiv:2301.04104, January 10, 2023. Earlier Dreamer (Hafner et al. 2019/2020) at arXiv:1912.01603.
+- **disclosed subsystems:** `control-rl-policy`, `control-sim-to-real`
+
+**Prior art notes:**
+
+> Dreamer V3 (2023) is one of the strongest academic disclosures of model-based RL for cross-domain generalization. Anticipates: (1) world-model RL (RSSM) as the policy-learning substrate for humanoid platforms — relevant to modern model-based humanoid IP; (2) imagination-rollout-based policy training — relevant to claims on data-efficient humanoid RL; (3) cross-domain generalization without per-task hyperparameter tuning — relevant to platform-agnostic humanoid policy IP. The 2023 arXiv preprint plus the open-source DreamerV3 reference implementation provide deep prior art coverage. Modern world-model-based humanoid IP face this 3-year academic anchor.
+
+**Sources:**
+
+1. Hafner, D. et al. 'Mastering diverse domains through world models'. arXiv:2301.04104, 2023.
+2. Hafner, D. et al. 'Dream to control'. arXiv:1912.01603, ICLR 2020 (predecessor).
+
+---
+
 ### 2023-06-20 — RoboCat (Self-Improving Generalist Agent)
 
 - **id:** `robocat`
@@ -300,6 +320,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-03-18 — NVIDIA GR00T (Generalist Robot 00 Technology)
+
+- **id:** `nvidia-groot-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA Research, GEAR Lab
+- **disclosure citation:** Huang, Jensen et al. NVIDIA GR00T announcement at GTC 2024 keynote, March 18, 2024. Technical disclosure: Reddit Project GR00T technical blog, March 2024. GR00T N1 paper published 2025-03 (arXiv:2503.14734).
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `control-sim-to-real`
+
+**Prior art notes:**
+
+> NVIDIA GR00T's 2024 disclosure is the canonical foundation-model-for-humanoids announcement. Anticipates: (1) dual-system fast/slow policy architecture for humanoid platforms — directly relevant to modern humanoid foundation-model IP (every major humanoid manufacturer is developing equivalent architectures); (2) cross-embodiment generalization across multiple humanoid platforms — relevant to platform-agnostic policy IP; (3) open-weights humanoid foundation model release — provides defensive baseline against closed-weights claims. The March 2024 GTC keynote announcement plus the subsequent GR00T N1 paper (March 2025) and open-weights release provide extensive prior art coverage.
+
+**Sources:**
+
+1. NVIDIA. Project GR00T technical blog. NVIDIA Developer, March 2024.
+2. NVIDIA GEAR Lab. 'GR00T N1: An Open Foundation Model for Generalist Humanoid Robots'. arXiv:2503.14734, March 2025.
+
+---
+
 ### 2024-10 — Robot Era STAR1 *(draft)*
 
 - **id:** `robot-era-star1`
@@ -370,4 +410,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

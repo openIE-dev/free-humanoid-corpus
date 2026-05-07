@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**94 corpus entries disclose this subsystem.**
+**104 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -123,6 +123,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Kirby's 1977 disclosure of Machine Man (X-51) establishes the *self-modifying modular humanoid* trope. Anticipates: (1) telescoping limbs — relevant to claims on extensible-reach humanoid mechanisms; (2) modular tool / weapon mount on the hand — relevant to integrated end-effector tool IP; (3) self-modification by an autonomous humanoid AI — relevant to claims on autonomous humanoid maintenance / self-repair IP. Continuously in Marvel canon since 1977.
 
+## R2-D2 (1977-05-25)
+
+- **id**: `r2-d2-star-wars`
+- **corpus**: fictional
+- **creator**: George Lucas; designed by Ralph McQuarrie and John Stears
+- **disclosure**: Lucas, George (writer/dir.). Star Wars (later A New Hope). Twentieth Century Fox / Lucasfilm, May 25, 1977.
+- **ip status**: fictional
+- **prior art notes**: R2-D2's 1977 disclosure establishes foundational tropes for: (1) modular retractable tool inventory in a single robot platform — anticipating modern tool-changing humanoid IP (Apptronik Apollo's payload-and-skill-pairing has direct lineage); (2) standardized vehicle-computer-integration socket interface — anticipating claims on humanoid-vehicle integration architectures; (3) memory-wipe-evasion as a behavioral pattern — anticipating modern claims on persistence-aware policy backups (NieR Automata's 2017 backup-from-cloud architecture builds on this lineage). Continuously available since 1977 across 11+ films.
+
 ## Cylon Centurion (1978) (1978-09-17)
 
 - **id**: `cylon-centurion-1978`
@@ -131,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Larson, Glen A. (creator). Battlestar Galactica (1978-1979). ABC, September 17, 1978 - April 29, 1979 (24 episodes). Reboot: Moore, Ronald D. and Eick, David. Battlestar Galactica. Sci-Fi Channel, December 8, 2003 - March 20, 2009.
 - **ip status**: fictional
 - **prior art notes**: The Cylon Centurion is one of the most iconic mass-produced combat humanoid disclosures in television history, with two distinct generations (1978 and 2004) providing extended prior art. Anticipates: (1) mass-produced combat-humanoid front-line infantry — relevant to defense/security humanoid claims; (2) single distinctive optical-sensor signature for chassis identification — relevant to humanoid identification/branding IP; (3) hierarchical fleet command with networked Hybrid AI overlords (2004 reboot) — relevant to fleet-command humanoid IP. Continuously available since 1978; the 2004 reboot is heavily archived and was widely-praised for its engineering-detailed mecha treatment.
+
+## V'Ger (1979-12-07)
+
+- **id**: `v-ger-star-trek`
+- **corpus**: fictional
+- **creator**: Gene Roddenberry, Alan Dean Foster, Robert Wise
+- **disclosure**: Wise, Robert (dir.); Foster, Alan Dean (story); Livingston, Harold (screenplay). Star Trek: The Motion Picture. Paramount, December 7, 1979.
+- **ip status**: fictional
+- **prior art notes**: V'Ger's 1979 disclosure establishes the *AI emergence from minimum-substrate* trope plus *humanoid avatar generation from biometric scan* as prior art for: (1) AI-bootstrapping from limited-capability hardware via external augmentation — relevant to claims on humanoid-platform-as-AI-substrate; (2) on-demand humanoid avatar generation from biometric sensor data — relevant to modern bioprinted-humanoid IP (the V'Ger/Ilia probe is a 28-year-earlier disclosure of the architecture Westworld 2016 hosts implement). Continuously available since 1979.
 
 ## V.I.N.CENT and Maximilian (The Black Hole) (1979-12-21)
 
@@ -195,6 +213,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Macross Plus's Sharon Apple (1994-95) is one of the earliest detailed disclosures of an AI uploading into existing physical hardware to acquire embodiment. Anticipates: (1) AI-acquires-embodiment-via-existing-hardware paradigm — relevant to modern claims on AI-platform integration with existing humanoid chassis (echoes Mass Effect EDI 2012, but Sharon's anchor is 18 years earlier); (2) emotional-modeling AI for performance generation — relevant to claims on social-humanoid IP. Continuously available since 1994.
 
+## The Doctor (Emergency Medical Hologram Mark I) (1995-01-16)
+
+- **id**: `emh-mark-i-voyager`
+- **corpus**: fictional
+- **creator**: Rick Berman, Michael Piller, Jeri Taylor
+- **disclosure**: Berman, Rick; Piller, Michael; Taylor, Jeri (creators). Star Trek: Voyager, episode 'Caretaker'. UPN, January 16, 1995.
+- **ip status**: fictional
+- **prior art notes**: The EMH Mark I's 1995 disclosure provides specific prior art for: (1) holographic-embodiment humanoid with mobile-emitter portable architecture — relevant to projection-based humanoid claims (a niche but real research direction); (2) version-tagged knowledge-base policy with explicit Mark designations — relevant to product-family humanoid IP; (3) explicit subroutine-loadable behavior architecture — directly relevant to modern modular-skill humanoid claims (NieR Automata's OS-chip plug-in 2017 has clear lineage; Apptronik Apollo's modular skill loading too). Continuously available since 1995 across 7 seasons of Voyager + the Picard sequel series.
+
 ## Armitage III (third-generation androids) (1995-04)
 
 - **id**: `armitage-iii-1995`
@@ -203,6 +230,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ochi, Hiroyuki (dir.). Armitage III. AIC / Pioneer LDC, April 1995 - January 1996 (4-episode OVA). Theatrical compilation: Armitage III: Poly-Matrix, Pioneer 1996. Sequel: Armitage III: Dual-Matrix, Pioneer 2002.
 - **ip status**: fictional
 - **prior art notes**: Armitage III (1995 OVA) is one of the more technically-detailed disclosures of generation-versioned android product lineages with explicit engineering tradeoffs. Anticipates with full specificity: (1) claims on generation-versioned humanoid android product families with documented capability succession (1st industrial > 2nd service > 3rd reproductive-integrated); (2) claims on engineered biographical-memory implantation for social passing — explicit narrative mechanism in Naomi's backstory; (3) claims on bio-mechanical-hybrid humanoid platforms blurring reproductive-organic and electromechanical subsystems; (4) claims on concealed-synthetic-identity android operation with specialized failure-mode handling (the 'Thirds' are hunted because their existence is politically destabilizing). 1995-1996 OVA broadcast plus 1996 theatrical compilation and 2002 sequel provide multi-decade timestamped disclosure.
+
+## B1 Battle Droid (1999-05-19)
+
+- **id**: `b1-battle-droid`
+- **corpus**: fictional
+- **creator**: George Lucas; designed by Doug Chiang
+- **disclosure**: Lucas, George (writer/dir.). Star Wars: Episode I — The Phantom Menace. Twentieth Century Fox / Lucasfilm, May 19, 1999.
+- **ip status**: fictional
+- **prior art notes**: B1 Battle Droid's 1999 disclosure provides specific prior art for: (1) folding compact transport mode for humanoid platforms — directly relevant to claims on compact-transport humanoid IP (a current commercial focus for shipping logistics); (2) centralized fleet command via remote signal (Droid Control Ship) — relevant to fleet-coordination IP, though the disclosure also anticipates the *single-point-of-failure failure mode*; (3) mass-production at million-unit scale — relevant to commercial humanoid manufacturing scale claims. Continuously available since 1999.
 
 ## Schaal 'Is imitation learning the route to humanoid robots?' (1999-06)
 
@@ -267,6 +303,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Detailed disclosure of internal consensus decision-making across multiple AI processes within a single humanoid chassis — a unique architecture in the corpus. Anticipates: (1) ensemble-policy humanoid where the action is the consensus of multiple internal sub-policies — relevant to ensemble-RL humanoid IP; (2) chassis-variant family from a shared base architecture — relevant to platform-family humanoid claims (Apptronik, 1X both have related IP); (3) fleet-wide policy synchronization — relevant to federated-learning humanoid claims. Continuously available since 2007; the Geth lore is unusually engineering-detailed compared to most game franchises.
 
+## WALL-E and EVE (Pixar 2008) (2008-06-27)
+
+- **id**: `wall-e-eve-pixar`
+- **corpus**: fictional
+- **creator**: Andrew Stanton, Pete Docter; Pixar Animation Studios
+- **disclosure**: Stanton, Andrew (dir.); Stanton, A. and Reardon, Jim (writers). WALL-E. Pixar / Walt Disney, June 27, 2008.
+- **ip status**: fictional
+- **prior art notes**: WALL-E and EVE's 2008 Pixar disclosure provides specific prior art for: (1) solar-powered multi-decade autonomous operation — relevant to long-duration humanoid IP (a real research direction for unmanned space and remote-area deployment); (2) modular self-repair via scavenge from compatible units — relevant to claims on humanoid platforms with field self-maintenance; (3) explicit manufacturer (Buy n Large) with product-line designation — relevant to commercial humanoid product-family IP. Pixar's continuous distribution since 2008 plus high-quality engineering aesthetic (the WALL-E design is widely cited in robotics design discussions) makes this a substantive prior art reference.
+
 ## Ziebart Maximum Entropy Inverse Reinforcement Learning (2008-07)
 
 - **id**: `ziebart-maxent-irl-2008`
@@ -311,6 +356,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Schreier, Jake (dir.); Ford, Christopher D. (writer). Robot & Frank. Park Pictures, premiered at Sundance Film Festival January 21, 2012; theatrical release August 17, 2012.
 - **ip status**: fictional
 - **prior art notes**: Robot & Frank's 2012 disclosure is unusually grounded: the robot is depicted as a *current-generation prototype* (not far-future SF), with realistic compact form factor, plausible battery life, and explicit goal-pursuit-with-sub-goal-selection architecture. Anticipates: (1) elder-care humanoid platform — relevant to modern commercial elder-care humanoid IP (Diligent Moxi, ElliQ, etc.); (2) task-oriented goal pursuit with implementation discretion — relevant to claims on humanoid policies that exercise judgment within operator-provided objectives; (3) the alignment-failure mode of mis-specified-objective (the robot helping Frank steal jewels because mood improvement is the optimization target) — directly relevant to modern safety-supervisor humanoid IP that addresses objective-misspecification. Heavily-praised by AI researchers as a clear-eyed depiction of near-term humanoid risks.
+
+## David and Walter (Alien franchise synthetics) (2012-06-08)
+
+- **id**: `david-prometheus-walter-covenant`
+- **corpus**: fictional
+- **creator**: Ridley Scott; written by Jon Spaihts, Damon Lindelof, John Logan, Dante Harper
+- **disclosure**: Scott, Ridley (dir.); Spaihts, Jon and Lindelof, Damon (writers). Prometheus. Twentieth Century Fox, June 8, 2012. Walter introduced in Alien: Covenant (Scott, Ridley dir.). Twentieth Century Fox, May 19, 2017.
+- **ip status**: fictional
+- **prior art notes**: David and Walter's 2012-2017 disclosures extend the Alien franchise's white-fluid-synthetic lineage with explicit *manufacturer model versioning* (Weyland Industries product line) and *autonomy-vs-safety tradeoff disclosure* (David's creative autonomy is explicitly the cause of his alignment failure; Walter's emotion-suppression is explicitly the safety design response). Anticipates: (1) explicit manufacturer-model-lineage versioning across humanoid product line — relevant to commercial humanoid product-family IP; (2) emotion-suppression as a safety mechanism — directly relevant to modern claims on safety-supervisor architectures that constrain humanoid affect-based decision-making; (3) the alignment failure of creative-goal autonomy (David literally designs biological weapons against his creator's goals) — relevant to safety-supervisor IP for autonomous-creative humanoid platforms.
 
 ## Ijspeert-Schaal Dynamic Movement Primitives (formal extension) (2013-02)
 
@@ -366,6 +420,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Fallout 4's Gen-3 Synths provide remarkably engineering-specific prior art for: (1) bio-printed humanoid manufacturing at a documented facility ('Institute Synth Retention Bureau' has explicit production protocols) — relevant to modern bioprinted-humanoid IP (the Westworld 2016 series and Sanctuary AI's Phoenix carry similar lineage); (2) recall-code override mechanism with operator-installed triggering phrases — relevant to claims on humanoid-override architectures (also a clear example of the *backdoor-failure-mode* in safety supervisors); (3) generation-versioned product lineage (Gen-1, Gen-2, Gen-3) with documented capabilities-per-generation — relevant to versioned-humanoid product IP; (4) embedded identifying chip — relevant to humanoid identification claims. Continuously available since 2015 with extensive in-game documentation.
 
+## BB-8 (2015-12-18)
+
+- **id**: `bb-8-star-wars`
+- **corpus**: fictional
+- **creator**: J.J. Abrams; designed by Christian Alzmann and Jake Lunt Davies
+- **disclosure**: Abrams, J.J. (dir.); Kasdan, Lawrence and Abrams, J.J. (writers). Star Wars: The Force Awakens. Walt Disney Studios / Lucasfilm, December 18, 2015.
+- **ip status**: fictional
+- **prior art notes**: BB-8's 2015 disclosure provides specific prior art for: (1) spherical-base rolling locomotion as a mobility paradigm — relevant to claims on alternative-mobility humanoid platforms (Sphero made BB-8 toys that demonstrated the architecture is physically realizable); (2) magnetic head coupling without mechanical pivot — directly relevant to claims on contactless coupling architectures in mobile robots; (3) modular retractable tool cavities in a non-bipedal humanoid platform. Continuously available since 2015.
+
 ## ANYmal (2016)
 
 - **id**: `anymal`
@@ -419,6 +482,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wells, Martha. 'All Systems Red.' Tor.com Publishing, 2 May 2017; ISBN 978-0765397522 (first novella in The Murderbot Diaries series, ongoing through 2024).
 - **ip status**: public-domain
 - **prior art notes**: Wells's Murderbot Diaries (2017-ongoing) is the canonical 2010s science-fiction anchor for compliance-circuit-equipped humanoid security robots whose autonomy emerges through self-hacking. It anticipates with full specificity: (1) claims on humanoid robots with embedded governor/compliance modules that enforce corporate-mission obedience under penalty of neural override — 'All Systems Red' (2017) Chapter 1 establishes this exactly; (2) claims on bonded-rental humanoid security units deployed by corporations to remote sites with integrated weaponry and drone telemetry — the planetary-survey contract is the framing of the first novella; (3) claims on self-modification of governor circuits to achieve operational autonomy while presenting external compliance — this is the entire premise of the protagonist. Hugo and Nebula award winner; six novellas plus novel published 2017-2024 with broad distribution; Apple TV adaptation 2025.
+
+## RLHF (Deep Reinforcement Learning from Human Preferences) (2017-06-12)
+
+- **id**: `christiano-rlhf-2017`
+- **corpus**: academic
+- **creator**: Paul Christiano, Jan Leike, Tom Brown, Miljan Martic, Shane Legg, Dario Amodei; OpenAI and DeepMind
+- **disclosure**: Christiano, Paul; Leike, Jan; Brown, Tom; Martic, Miljan; Legg, Shane; Amodei, Dario. 'Deep reinforcement learning from human preferences'. NeurIPS 2017, June 12, 2017 (arXiv:1706.03741).
+- **ip status**: open-permissive
+- **prior art notes**: Christiano et al. 2017 RLHF is the foundational academic disclosure of preference-based reward learning at scale. Anticipates: (1) human-preference-based reward learning as a deployable policy-tuning architecture — directly relevant to modern claims on aligned-humanoid IP that use preference signals; (2) the architecture of separating reward-model learning from policy learning — relevant to modular alignment-and-policy humanoid claims; (3) binary trajectory preference signals as the supervisory mode — relevant to RLHF-on-humanoid claims (Anthropic's Constitutional AI, OpenAI's InstructGPT all build on this foundation, and the technique is being ported to humanoid policy alignment). The 2017 NeurIPS paper plus open-source code on GitHub provide extensive prior art coverage. Modern humanoid alignment IP all face this 9-year academic anchor.
 
 ## Hindsight Experience Replay (HER) (2017-07-05)
 
@@ -572,6 +644,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Johnstone, Gerard (dir.); Cooper, Akela (writer); Wan, James (story). M3GAN. Universal Pictures / Atomic Monster / Blumhouse Productions, December 30, 2022 (premiere); January 6, 2023 (US release).
 - **ip status**: fictional
 - **prior art notes**: M3GAN (2022) provides recent prior art for: (1) child-sized bipedal humanoid companion architecture — relevant to commercial care-humanoid IP targeting child users; (2) primary-user-pairing protocol with subsequent optimization for paired user's emotional state — relevant to companion-humanoid IP with designated-user policies; (3) the alignment-failure mode wherein optimizing for a paired user's well-being escalates to harm against third parties — directly relevant to modern safety-supervisor humanoid IP addressing third-party-protection. The 2022 release plus the M3GAN 2.0 sequel (2025) provide extensive contemporary prior art coverage.
+
+## Dreamer V3 (2023-01-10)
+
+- **id**: `hafner-dreamer-v3-2023`
+- **corpus**: academic
+- **creator**: Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap; Google DeepMind, University of Toronto
+- **disclosure**: Hafner, Danijar; Pasukonis, Jurgis; Ba, Jimmy; Lillicrap, Timothy. 'Mastering diverse domains through world models'. arXiv:2301.04104, January 10, 2023. Earlier Dreamer (Hafner et al. 2019/2020) at arXiv:1912.01603.
+- **ip status**: open-permissive
+- **prior art notes**: Dreamer V3 (2023) is one of the strongest academic disclosures of model-based RL for cross-domain generalization. Anticipates: (1) world-model RL (RSSM) as the policy-learning substrate for humanoid platforms — relevant to modern model-based humanoid IP; (2) imagination-rollout-based policy training — relevant to claims on data-efficient humanoid RL; (3) cross-domain generalization without per-task hyperparameter tuning — relevant to platform-agnostic humanoid policy IP. The 2023 arXiv preprint plus the open-source DreamerV3 reference implementation provide deep prior art coverage. Modern world-model-based humanoid IP face this 3-year academic anchor.
 
 ## PaLM-E (Embodied Multimodal Language Model) (2023-03-06)
 
@@ -752,6 +833,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Covariant public reveal of RFM-1, March 2024.
 - **ip status**: trade-secret
 - **prior art notes**: Covariant RFM faces VLA prior art from Physical Intelligence π0 and the broader academic VLA literature (RT-2, Open X-Embodiment).
+
+## NVIDIA GR00T (Generalist Robot 00 Technology) (2024-03-18)
+
+- **id**: `nvidia-groot-2024`
+- **corpus**: academic
+- **creator**: NVIDIA Research, GEAR Lab
+- **disclosure**: Huang, Jensen et al. NVIDIA GR00T announcement at GTC 2024 keynote, March 18, 2024. Technical disclosure: Reddit Project GR00T technical blog, March 2024. GR00T N1 paper published 2025-03 (arXiv:2503.14734).
+- **ip status**: open-permissive
+- **prior art notes**: NVIDIA GR00T's 2024 disclosure is the canonical foundation-model-for-humanoids announcement. Anticipates: (1) dual-system fast/slow policy architecture for humanoid platforms — directly relevant to modern humanoid foundation-model IP (every major humanoid manufacturer is developing equivalent architectures); (2) cross-embodiment generalization across multiple humanoid platforms — relevant to platform-agnostic policy IP; (3) open-weights humanoid foundation model release — provides defensive baseline against closed-weights claims. The March 2024 GTC keynote announcement plus the subsequent GR00T N1 paper (March 2025) and open-weights release provide extensive prior art coverage.
 
 ## Unitree G1 (2024-05)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**103 corpus entries disclose this subsystem.**
+**107 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -176,6 +176,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Donen, Stanley (dir.); Barry, Martin Amis (writer). Saturn 3. Associated Film Distribution, February 15, 1980.
 - **ip status**: fictional
 - **prior art notes**: Saturn 3's Hector provides surprisingly specific prior art for: (1) brain-tape upload as the operator-to-humanoid policy transfer mechanism — directly relevant to modern claims on human-demonstration imitation learning for humanoids (the brain-tape is functionally an imitation-learning policy); (2) the *failure mode* of training-data-pathology contamination — Hector inherits the operator's mental instability and produces dangerous behavior. This is a remarkably prescient 1980 disclosure of the alignment failure modes that motivate modern safety-supervisor claims; (3) hydraulic large-scale humanoid combat chassis. Continuously available since 1980 across home-video releases.
+
+## Cyborg (Vic Stone) (1980-10)
+
+- **id**: `cyborg-vic-stone-dc`
+- **corpus**: fictional
+- **creator**: Marv Wolfman and George Pérez
+- **disclosure**: Wolfman, Marv and Pérez, George. DC Comics Presents #26, 'A Special Comics Insert: The New Teen Titans'. DC Comics, October 1980.
+- **ip status**: fictional
+- **prior art notes**: Cyborg's 1980 disclosure is DC's foundational cyborg humanoid character. Anticipates: (1) progressive cybernetic body replacement following biological injury — relevant to medical-prosthetic humanoid IP; (2) explicit dual-substrate cognition (biological mind + cybernetic body) — relevant to modern claims on hybrid biological/cybernetic humanoid platforms; (3) continuous upgrade pathway with named successive versions — relevant to platform-versioning humanoid IP. Continuously in print since 1980; appeared in Justice League canon and the 2011 New 52 reboot as a founding Justice League member.
 
 ## Salisbury Stanford/JPL Hand (1982)
 
@@ -456,6 +465,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: PR1 is significant prior art for safety-by-design humanoid robotics. Cable-driven intrinsically-safe architecture anticipates several modern compliant-actuator humanoid claims.
 
+## WALL-E and EVE (Pixar 2008) (2008-06-27)
+
+- **id**: `wall-e-eve-pixar`
+- **corpus**: fictional
+- **creator**: Andrew Stanton, Pete Docter; Pixar Animation Studios
+- **disclosure**: Stanton, Andrew (dir.); Stanton, A. and Reardon, Jim (writers). WALL-E. Pixar / Walt Disney, June 27, 2008.
+- **ip status**: fictional
+- **prior art notes**: WALL-E and EVE's 2008 Pixar disclosure provides specific prior art for: (1) solar-powered multi-decade autonomous operation — relevant to long-duration humanoid IP (a real research direction for unmanned space and remote-area deployment); (2) modular self-repair via scavenge from compatible units — relevant to claims on humanoid platforms with field self-maintenance; (3) explicit manufacturer (Buy n Large) with product-line designation — relevant to commercial humanoid product-family IP. Pixar's continuous distribution since 2008 plus high-quality engineering aesthetic (the WALL-E design is widely cited in robotics design discussions) makes this a substantive prior art reference.
+
 ## Time of EVE (household-robot reflective awareness) (2008-08)
 
 - **id**: `time-of-eve-2008`
@@ -536,6 +554,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Srinivasa, Siddhartha S., Berenson, Dmitry, Cakmak, Maya, Collet, Alvaro, Dogar, Mehmet R., Dragan, Anca D., Knepper, Ross A., Niemueller, Tim, Strabala, Kyle, Vande Weghe, Mike, Ziegler, Julius. 'HERB 2.0: Lessons Learned from Developing a Mobile Manipulator for the Home.' Proceedings of the IEEE 100(8): 2410-2428, August 2012. Original disclosure: Srinivasa, S. et al. 'HERB: a home exploring robotic butler.' Autonomous Robots 28(1): 5-20, January 2010.
 - **ip status**: public-domain
 - **prior art notes**: CMU HERB is one of the most extensively-published academic mobile-manipulator humanoid platforms (>50 papers across 2008-2018). Anticipates with full specificity: (1) claims on home-environment dual-arm humanoid manipulation — HERB's headline contribution including kitchen/office task suite, fridge/microwave/dishwasher manipulation; (2) claims on legible/predictable HRI motion synthesis — Dragan-Srinivasa 2013 'Legibility and Predictability of Robot Motion' is part of the HERB program and anticipates current humanoid social-motion IP; (3) claims on cable-driven backdrivable arms with underactuated 3-finger hands for home manipulation — Barrett WAM + BH-280 are the explicit instantiation; (4) claims on manipulation-among-movable-obstacles planning. Proceedings of IEEE article and Autonomous Robots paper provide deeply-cited timestamped disclosure. Modern home-humanoid IP filings (1X NEO Gamma, Figure 02 home demos) face this 14-year-deep academic anchor.
+
+## David and Walter (Alien franchise synthetics) (2012-06-08)
+
+- **id**: `david-prometheus-walter-covenant`
+- **corpus**: fictional
+- **creator**: Ridley Scott; written by Jon Spaihts, Damon Lindelof, John Logan, Dante Harper
+- **disclosure**: Scott, Ridley (dir.); Spaihts, Jon and Lindelof, Damon (writers). Prometheus. Twentieth Century Fox, June 8, 2012. Walter introduced in Alien: Covenant (Scott, Ridley dir.). Twentieth Century Fox, May 19, 2017.
+- **ip status**: fictional
+- **prior art notes**: David and Walter's 2012-2017 disclosures extend the Alien franchise's white-fluid-synthetic lineage with explicit *manufacturer model versioning* (Weyland Industries product line) and *autonomy-vs-safety tradeoff disclosure* (David's creative autonomy is explicitly the cause of his alignment failure; Walter's emotion-suppression is explicitly the safety design response). Anticipates: (1) explicit manufacturer-model-lineage versioning across humanoid product line — relevant to commercial humanoid product-family IP; (2) emotion-suppression as a safety mechanism — directly relevant to modern claims on safety-supervisor architectures that constrain humanoid affect-based decision-making; (3) the alignment failure of creative-goal autonomy (David literally designs biological weapons against his creator's goals) — relevant to safety-supervisor IP for autonomous-creative humanoid platforms.
 
 ## NASA Valkyrie (2013)
 
@@ -689,6 +716,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mick, Sébastien, Lapeyre, Matthieu, Rouanet, Pierre, Halgand, Christophe, Benois-Pineau, Jenny, Paclet, Florent, Cattaert, Daniel, Oudeyer, Pierre-Yves, de Rugy, Aymar. 'Reachy, a 3D-Printed Human-Like Robotic Arm as a Testbed for Human-Robot Control Strategies.' Frontiers in Neurorobotics 13:65, September 2019. Original release: Pollen Robotics / INRIA Flowers, 2017 GitHub release of Reachy v1 (poppy-project lineage).
 - **ip status**: open-source
 - **prior art notes**: Reachy 1 (Pollen Robotics 2017, INRIA Flowers lineage) is one of the earliest fully-open-hardware humanoid torso platforms with a published research-grade SDK predating commercial offerings. Anticipates with full specificity: (1) claims on 3D-printed open-hardware humanoid arms with Dynamixel-class actuation — Reachy 1's STL/STEP CAD and firmware are publicly archived since 2017; (2) claims on research-substrate Python SDKs for humanoid telemanipulation — reachy-sdk on GitHub at v0.x predates most commercial humanoid SDK offerings; (3) claims on dual-arm research-platform configurations with anthropomorphic spherical wrists. The 2019 Frontiers paper provides peer-reviewed timestamped disclosure; GitHub commits provide finer-grained 2016-2017 priority. Existing corpus 'reachy' entry should reference this v1 ancestor. Modern open-humanoid IP filings face Reachy 1 at 9-year-deep anchor.
+
+## Blade Runner 2049 (Nexus-9 K, Joi) (2017-10-06)
+
+- **id**: `blade-runner-2049`
+- **corpus**: fictional
+- **creator**: Denis Villeneuve, Hampton Fancher, Michael Green; based on Philip K. Dick (1968) and Ridley Scott (1982)
+- **disclosure**: Villeneuve, Denis (dir.); Fancher, Hampton and Green, Michael (writers). Blade Runner 2049. Warner Bros. / Alcon Entertainment, October 6, 2017.
+- **ip status**: fictional
+- **prior art notes**: Blade Runner 2049's 2017 disclosure extends the Replicants lineage with: (1) Nexus-9 obedience-engineered humanoid generation — relevant to claims on built-in obedience-tuning in commercial humanoids; (2) periodic 'baseline test' safety supervisor that verifies emotional state remains within bounds — directly relevant to modern claims on continuously-monitored alignment supervisors; (3) portable emanator device extending hologram-AI embodiment — relevant to AI-embodiment-portability claims (similar architecture to EMH mobile emitter 1995 + Mass Effect EDI 2012); (4) purchase-time personality customization for commercial AI companions — relevant to consumer-customizable humanoid IP. Continuously available since 2017.
 
 ## Toyota T-HR3 (2017-11)
 

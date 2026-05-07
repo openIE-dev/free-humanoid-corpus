@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**21 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tezuka, Osamu. 'The Greatest Robot on Earth' (chizujō saidai no robotto). Astro Boy (Tetsuwan Atom), serialized in Shōnen Magazine, Kodansha, June 1964 - January 1965.
 - **ip status**: fictional
 - **prior art notes**: Tezuka's 1964 'Greatest Robot on Earth' arc is one of the most engineering-detailed fictional disclosures of mecha designs in any medium. Eight named platforms, each with a specific power source, propulsion, weapon, and sensor configuration — each anticipating distinct modern claims. Mont Blanc's diesel-hydraulic forestry humanoid anticipates industrial humanoid IP. Gesicht's photon-emitter eyes + EMP capability anticipate sensor-and-countermeasure-integrated humanoid IP. Hercules' magnetic propulsion anticipates non-rotating-actuator humanoid claims. Astro's retractable rocket-boot legs anticipate transformation-mode bipedal IP. The arc is continuously republished, has been adapted to film/TV multiple times (most importantly Urasawa's Pluto 2003-2009), and has the unusual property of multiple mechanism disclosures in a compressed publication window.
+
+## MODOK (1967-09)
+
+- **id**: `modok-marvel`
+- **corpus**: fictional
+- **creator**: Stan Lee and Jack Kirby
+- **disclosure**: Lee, Stan and Kirby, Jack. Tales of Suspense #94, 'If This Be... MODOK!'. Marvel Comics, October 1967 (cover-dated).
+- **ip status**: fictional
+- **prior art notes**: MODOK's 1967 disclosure provides specific prior art for: (1) cognition-focused chassis architecture wherein the platform's mass is allocated to compute substrate rather than manipulation — relevant to claims on compute-heavy humanoid platforms (a future trend with on-platform foundation-model inference); (2) hover-chair / floating-chassis locomotion paradigm — relevant to alternative-mobility platforms; (3) integrated weapon mounts on a chair-mounted humanoid platform. Continuously in print since 1967.
 
 ## GE Quadruped Transporter (Walking Truck) (1968-09-27)
 
@@ -95,6 +104,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Donen, Stanley (dir.); Barry, Martin Amis (writer). Saturn 3. Associated Film Distribution, February 15, 1980.
 - **ip status**: fictional
 - **prior art notes**: Saturn 3's Hector provides surprisingly specific prior art for: (1) brain-tape upload as the operator-to-humanoid policy transfer mechanism — directly relevant to modern claims on human-demonstration imitation learning for humanoids (the brain-tape is functionally an imitation-learning policy); (2) the *failure mode* of training-data-pathology contamination — Hector inherits the operator's mental instability and produces dangerous behavior. This is a remarkably prescient 1980 disclosure of the alignment failure modes that motivate modern safety-supervisor claims; (3) hydraulic large-scale humanoid combat chassis. Continuously available since 1980 across home-video releases.
+
+## Cyborg (Vic Stone) (1980-10)
+
+- **id**: `cyborg-vic-stone-dc`
+- **corpus**: fictional
+- **creator**: Marv Wolfman and George Pérez
+- **disclosure**: Wolfman, Marv and Pérez, George. DC Comics Presents #26, 'A Special Comics Insert: The New Teen Titans'. DC Comics, October 1980.
+- **ip status**: fictional
+- **prior art notes**: Cyborg's 1980 disclosure is DC's foundational cyborg humanoid character. Anticipates: (1) progressive cybernetic body replacement following biological injury — relevant to medical-prosthetic humanoid IP; (2) explicit dual-substrate cognition (biological mind + cybernetic body) — relevant to modern claims on hybrid biological/cybernetic humanoid platforms; (3) continuous upgrade pathway with named successive versions — relevant to platform-versioning humanoid IP. Continuously in print since 1980; appeared in Justice League canon and the 2011 New 52 reboot as a founding Justice League member.
 
 ## T-800 (1984-10-26)
 
@@ -203,3 +221,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sanctuary AI public reveals of Phoenix predecessors, 2020-2022.
 - **ip status**: patented
 - **prior art notes**: Sanctuary's hybrid hydraulic-electric actuation faces extensive prior art from Boston Dynamics Atlas (hydraulic), Honda (electric), and academic hybrid actuation literature.
+
+## Smith (Atlas 2024) (2024-05-24)
+
+- **id**: `atlas-2024-film`
+- **corpus**: fictional
+- **creator**: Brad Peyton, Aron Eli Stein, Leo Steakley
+- **disclosure**: Wyatt, Brad Peyton (dir.); Stein, Aron Eli and Steakley, Leo (writers). Atlas. Netflix, May 24, 2024.
+- **ip status**: fictional
+- **prior art notes**: Atlas's 2024 disclosure is recent and provides notable prior art for: (1) pilot-AI neural-handshake co-pilot architecture in a humanoid platform — directly relevant to modern claims on operator-AI humanoid co-pilot IP (the 'drift' architecture from Pacific Rim 2013 is the deeper anchor; Atlas extends with the AI-as-explicit-co-pilot framing); (2) explicit trust-building progression as a policy-update protocol — relevant to humanoid policies that adjust autonomy-level over deployment time; (3) AI override authority for safety-critical decisions in operator-piloted humanoids — relevant to modern safety-supervisor humanoid IP. Continuously available since May 2024.

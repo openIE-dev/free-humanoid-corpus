@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-biological`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1973-11-21
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Anno, Hideaki. Neon Genesis Evangelion. Gainax / Tatsunoko, October 4, 1995 (TV series, 26 episodes).
 - **ip status**: fictional
 - **prior art notes**: Engineering-grounded disclosure of: (1) biomechanical humanoid with restraint-protocol safety supervisor (the 'A10 nerve clip' is functionally a hardware kill-switch for autonomy, anticipating modern hardware safety supervisors); (2) pilot-neural-sync teleoperation as primary control modality with degraded performance under low-sync — anticipates teleoperation IP that includes ergonomic-fit metrics; (3) defensive AT field as a deployable hard-constraint barrier — anticipates protective-perimeter claims for human-robot interaction. The 1995 series is continuously available; Gainax's mecha design is widely studied.
+
+## David and Walter (Alien franchise synthetics) (2012-06-08)
+
+- **id**: `david-prometheus-walter-covenant`
+- **corpus**: fictional
+- **creator**: Ridley Scott; written by Jon Spaihts, Damon Lindelof, John Logan, Dante Harper
+- **disclosure**: Scott, Ridley (dir.); Spaihts, Jon and Lindelof, Damon (writers). Prometheus. Twentieth Century Fox, June 8, 2012. Walter introduced in Alien: Covenant (Scott, Ridley dir.). Twentieth Century Fox, May 19, 2017.
+- **ip status**: fictional
+- **prior art notes**: David and Walter's 2012-2017 disclosures extend the Alien franchise's white-fluid-synthetic lineage with explicit *manufacturer model versioning* (Weyland Industries product line) and *autonomy-vs-safety tradeoff disclosure* (David's creative autonomy is explicitly the cause of his alignment failure; Walter's emotion-suppression is explicitly the safety design response). Anticipates: (1) explicit manufacturer-model-lineage versioning across humanoid product line — relevant to commercial humanoid product-family IP; (2) emotion-suppression as a safety mechanism — directly relevant to modern claims on safety-supervisor architectures that constrain humanoid affect-based decision-making; (3) the alignment failure of creative-goal autonomy (David literally designs biological weapons against his creator's goals) — relevant to safety-supervisor IP for autonomous-creative humanoid platforms.
 
 ## Black Mirror 'Be Right Back' bio-printed companion humanoid (2013-02)
 
@@ -59,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wells, Martha. 'All Systems Red.' Tor.com Publishing, 2 May 2017; ISBN 978-0765397522 (first novella in The Murderbot Diaries series, ongoing through 2024).
 - **ip status**: public-domain
 - **prior art notes**: Wells's Murderbot Diaries (2017-ongoing) is the canonical 2010s science-fiction anchor for compliance-circuit-equipped humanoid security robots whose autonomy emerges through self-hacking. It anticipates with full specificity: (1) claims on humanoid robots with embedded governor/compliance modules that enforce corporate-mission obedience under penalty of neural override — 'All Systems Red' (2017) Chapter 1 establishes this exactly; (2) claims on bonded-rental humanoid security units deployed by corporations to remote sites with integrated weaponry and drone telemetry — the planetary-survey contract is the framing of the first novella; (3) claims on self-modification of governor circuits to achieve operational autonomy while presenting external compliance — this is the entire premise of the protagonist. Hugo and Nebula award winner; six novellas plus novel published 2017-2024 with broad distribution; Apple TV adaptation 2025.
+
+## Blade Runner 2049 (Nexus-9 K, Joi) (2017-10-06)
+
+- **id**: `blade-runner-2049`
+- **corpus**: fictional
+- **creator**: Denis Villeneuve, Hampton Fancher, Michael Green; based on Philip K. Dick (1968) and Ridley Scott (1982)
+- **disclosure**: Villeneuve, Denis (dir.); Fancher, Hampton and Green, Michael (writers). Blade Runner 2049. Warner Bros. / Alcon Entertainment, October 6, 2017.
+- **ip status**: fictional
+- **prior art notes**: Blade Runner 2049's 2017 disclosure extends the Replicants lineage with: (1) Nexus-9 obedience-engineered humanoid generation — relevant to claims on built-in obedience-tuning in commercial humanoids; (2) periodic 'baseline test' safety supervisor that verifies emotional state remains within bounds — directly relevant to modern claims on continuously-monitored alignment supervisors; (3) portable emanator device extending hologram-AI embodiment — relevant to AI-embodiment-portability claims (similar architecture to EMH mobile emitter 1995 + Mass Effect EDI 2012); (4) purchase-time personality customization for commercial AI companions — relevant to consumer-customizable humanoid IP. Continuously available since 2017.
 
 ## Detroit: Become Human androids (RT600/RK800/RK900 series) (2018-05-25)
 

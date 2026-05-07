@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `sensing-stereo-camera`  
-**Entries:** 76 (56 commons-grade, 20 draft)  
+**Entries:** 79 (59 commons-grade, 20 draft)  
 **Earliest disclosure:** 1973  
 **Most recent disclosure:** 2024-11
 
@@ -57,6 +57,27 @@ cite, copy, or redistribute these contentions.
 
 1. Kato, I. et al. 1973 CISM-IFToMM Symposium proceedings.
 2. Waseda University Humanoid Robotics Institute archives.
+
+---
+
+### 1981-08 — Lucas-Kanade Optical Flow
+
+- **id:** `lucas-kanade-1981`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bruce D. Lucas and Takeo Kanade, Carnegie Mellon University
+- **disclosure citation:** Lucas, Bruce D. and Kanade, Takeo. 'An iterative image registration technique with an application to stereo vision'. Proceedings of the 7th International Joint Conference on Artificial Intelligence (IJCAI), Vancouver, August 1981, pp. 674-679.
+- **disclosed subsystems:** `sensing-stereo-camera`, `sensing-monocular-depth`
+
+**Prior art notes:**
+
+> Lucas-Kanade 1981 is the foundational academic disclosure of dense optical flow estimation for robotic vision. Anticipates with 45 years of prior art: (1) optical-flow-based visual servoing for humanoid manipulation and locomotion — relevant to claims on visual-tracking-based humanoid policies; (2) iterative least-squares formulation that extends to modern KLT and PWC-style optical flow networks; (3) image-pyramid for multi-scale flow estimation. The KLT tracker is essentially the universal default for visual feature tracking and underlies SLAM, visual odometry, and many manipulation control loops. Modern visual humanoid IP all face this 1981 academic anchor.
+
+**Sources:**
+
+1. Lucas, B.D. and Kanade, T. 'An iterative image registration technique'. IJCAI 1981.
+2. Tomasi, C. and Kanade, T. 'Detection and tracking of point features'. CMU Tech Report CMU-CS-91-132, 1991.
+3. Bouguet, J.-Y. 'Pyramidal implementation of the affine Lucas Kanade feature tracker'. OpenCV documentation, 1999-2024.
 
 ---
 
@@ -140,6 +161,27 @@ cite, copy, or redistribute these contentions.
 1. Sony AIBO product materials.
 2. Fujita, M. and Kageyama, K. 'An open architecture for robot entertainment.' Autonomous Agents 1997.
 3. Various academic papers using AIBO as research platform.
+
+---
+
+### 1999-09 — SIFT (Scale-Invariant Feature Transform)
+
+- **id:** `lowe-sift-1999`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** David G. Lowe, University of British Columbia
+- **disclosure citation:** Lowe, David G. 'Object recognition from local scale-invariant features'. Proceedings of the IEEE International Conference on Computer Vision (ICCV), Corfu, September 1999, pp. 1150-1157. Extended in Lowe, D.G. 'Distinctive image features from scale-invariant keypoints'. IJCV 60(2): 91-110, 2004.
+- **disclosed subsystems:** `sensing-stereo-camera`, `sensing-monocular-depth`
+
+**Prior art notes:**
+
+> SIFT 1999 (and the canonical 2004 IJCV paper) is one of the most-cited algorithms in computer vision and a foundational visual-feature anchor for humanoid perception. Anticipates: (1) scale-invariant feature detection and matching — relevant to claims on visual humanoid perception that use feature-based localization (every visual SLAM system pre-deep-learning, and many modern hybrid systems, use SIFT or its descendants ORB / SURF); (2) the 128-D local-gradient histogram descriptor architecture. Patented (US6711293, expired 2020); the 2004 IJCV paper is the standard citation. Modern visual humanoid IP that uses local-feature matching faces this 27-year academic anchor.
+
+**Sources:**
+
+1. Lowe, D.G. 'Object recognition from local scale-invariant features'. ICCV 1999.
+2. Lowe, D.G. 'Distinctive image features from scale-invariant keypoints'. IJCV 60(2), 2004.
+3. US Patent 6711293 (UBC; expired 2020).
 
 ---
 
@@ -620,6 +662,28 @@ cite, copy, or redistribute these contentions.
 1. Levine, S., Finn, C., Darrell, T., Abbeel, P. 'End-to-End Training of Deep Visuomotor Policies.' JMLR 17(39): 1-40, 2016.
 2. Levine, S., Wagener, N., Abbeel, P. 'Learning Contact-Rich Manipulation Skills with Guided Policy Search.' ICRA 2015.
 3. BRETT video archive, UC Berkeley RAIL Lab, 2015.
+
+---
+
+### 2015-04 — ORB-SLAM
+
+- **id:** `orb-slam-mur-artal-2015`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Raul Mur-Artal, J.M.M. Montiel, Juan D. Tardós; University of Zaragoza
+- **disclosure citation:** Mur-Artal, Raul; Montiel, J.M.M.; Tardós, Juan D. 'ORB-SLAM: a versatile and accurate monocular SLAM system'. IEEE Transactions on Robotics 31(5): 1147-1163, October 2015. Extended: ORB-SLAM2 (RGB-D + stereo, 2017); ORB-SLAM3 (visual-inertial + multi-map, 2021).
+- **disclosed subsystems:** `sensing-stereo-camera`, `sensing-monocular-depth`
+
+**Prior art notes:**
+
+> ORB-SLAM is one of the standard reference visual SLAM systems for humanoid platforms. Anticipates: (1) real-time monocular SLAM as a deployable architecture — relevant to claims on humanoid visual localization; (2) the three-thread tracking + mapping + loop-closing architecture — relevant to multi-thread perception humanoid IP; (3) ORB-feature-based place recognition for loop closure — relevant to scene-recognition humanoid claims. The 2015 T-RO paper plus subsequent ORB-SLAM2 (2017) and ORB-SLAM3 (2021) extensions provide deep prior art coverage; the GitHub release (GPL-v3) makes the architecture defensively-published.
+
+**Sources:**
+
+1. Mur-Artal, R. et al. 'ORB-SLAM'. IEEE T-RO 31(5), 2015.
+2. Mur-Artal, R. and Tardós, J.D. 'ORB-SLAM2'. IEEE T-RO 33(5), 2017.
+3. Campos, C. et al. 'ORB-SLAM3'. IEEE T-RO 37(6), 2021.
+4. ORB-SLAM GitHub repository (GPL-v3).
 
 ---
 
@@ -1588,4 +1652,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*

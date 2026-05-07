@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vla-vision-language-action`
 
-**60 corpus entries disclose this subsystem.**
+**69 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -96,6 +96,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Casshan establishes the combat-purposed humanoid with external-station recharge architecture. Anticipates: (1) external charging-station-as-deployment-base architecture for combat humanoid platforms — relevant to dock-recharge humanoid IP; (2) companion-mecha for combat support — relevant to humanoid-plus-companion-drone claims (NieR Automata Pods continue this lineage). Continuously available since 1973.
 
+## Voc Robots (Robots of Death) (1977-01-29)
+
+- **id**: `voc-robots-doctor-who`
+- **corpus**: fictional
+- **creator**: Chris Boucher (writer); BBC
+- **disclosure**: Boucher, Chris (writer). 'The Robots of Death'. Doctor Who serial, BBC, January 29 - February 19, 1977 (4-episode arc).
+- **ip status**: fictional
+- **prior art notes**: The 1977 'Robots of Death' Doctor Who serial is one of the most engineering-detailed BBC humanoid disclosures. Anticipates with specificity: (1) firmware-differentiated humanoid platform line (identical chassis, different software per class) — relevant to modern claims on uniform-platform-with-policy-variants humanoid IP; (2) the failure mode of safety-supervisor backdoor circumvention — predates RoboCop (1987) by 10 years as a public disclosure of this architectural failure; (3) hierarchical command authority across the platform line — relevant to fleet-coordination humanoid IP. Continuously available since 1977.
+
+## R2-D2 (1977-05-25)
+
+- **id**: `r2-d2-star-wars`
+- **corpus**: fictional
+- **creator**: George Lucas; designed by Ralph McQuarrie and John Stears
+- **disclosure**: Lucas, George (writer/dir.). Star Wars (later A New Hope). Twentieth Century Fox / Lucasfilm, May 25, 1977.
+- **ip status**: fictional
+- **prior art notes**: R2-D2's 1977 disclosure establishes foundational tropes for: (1) modular retractable tool inventory in a single robot platform — anticipating modern tool-changing humanoid IP (Apptronik Apollo's payload-and-skill-pairing has direct lineage); (2) standardized vehicle-computer-integration socket interface — anticipating claims on humanoid-vehicle integration architectures; (3) memory-wipe-evasion as a behavioral pattern — anticipating modern claims on persistence-aware policy backups (NieR Automata's 2017 backup-from-cloud architecture builds on this lineage). Continuously available since 1977 across 11+ films.
+
 ## Twiki (Buck Rogers in the 25th Century) (1979-09-20)
 
 - **id**: `buck-rogers-twiki`
@@ -104,6 +122,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Larson, Glen A. (creator). Buck Rogers in the 25th Century. NBC, September 20, 1979 - April 16, 1981 (37 episodes).
 - **ip status**: fictional
 - **prior art notes**: Buck Rogers' Twiki provides prior art for: (1) compact bipedal humanoid companion (~1 m) carrying a separate AI module — relevant to claims on humanoid+AI-companion-module architectures (Apptronik's 'Apollo carries Apollo Compute' has lineage here); (2) distinctive non-verbal vocalization as identification signature — relevant to humanoid-vocalization IP. Continuously available since 1979.
+
+## V'Ger (1979-12-07)
+
+- **id**: `v-ger-star-trek`
+- **corpus**: fictional
+- **creator**: Gene Roddenberry, Alan Dean Foster, Robert Wise
+- **disclosure**: Wise, Robert (dir.); Foster, Alan Dean (story); Livingston, Harold (screenplay). Star Trek: The Motion Picture. Paramount, December 7, 1979.
+- **ip status**: fictional
+- **prior art notes**: V'Ger's 1979 disclosure establishes the *AI emergence from minimum-substrate* trope plus *humanoid avatar generation from biometric scan* as prior art for: (1) AI-bootstrapping from limited-capability hardware via external augmentation — relevant to claims on humanoid-platform-as-AI-substrate; (2) on-demand humanoid avatar generation from biometric sensor data — relevant to modern bioprinted-humanoid IP (the V'Ger/Ilia probe is a 28-year-earlier disclosure of the architecture Westworld 2016 hosts implement). Continuously available since 1979.
 
 ## Hector (Saturn 3) (1980-02-15)
 
@@ -176,6 +203,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kawamori, Shoji (dir.); Watanabe, Shinichirō (dir.). Macross Plus. Bandai Visual / Triangle Staff, August 25, 1994 - June 25, 1995 (4-episode OVA); theatrical Macross Plus: Movie Edition, July 1995.
 - **ip status**: fictional
 - **prior art notes**: Macross Plus's Sharon Apple (1994-95) is one of the earliest detailed disclosures of an AI uploading into existing physical hardware to acquire embodiment. Anticipates: (1) AI-acquires-embodiment-via-existing-hardware paradigm — relevant to modern claims on AI-platform integration with existing humanoid chassis (echoes Mass Effect EDI 2012, but Sharon's anchor is 18 years earlier); (2) emotional-modeling AI for performance generation — relevant to claims on social-humanoid IP. Continuously available since 1994.
+
+## The Doctor (Emergency Medical Hologram Mark I) (1995-01-16)
+
+- **id**: `emh-mark-i-voyager`
+- **corpus**: fictional
+- **creator**: Rick Berman, Michael Piller, Jeri Taylor
+- **disclosure**: Berman, Rick; Piller, Michael; Taylor, Jeri (creators). Star Trek: Voyager, episode 'Caretaker'. UPN, January 16, 1995.
+- **ip status**: fictional
+- **prior art notes**: The EMH Mark I's 1995 disclosure provides specific prior art for: (1) holographic-embodiment humanoid with mobile-emitter portable architecture — relevant to projection-based humanoid claims (a niche but real research direction); (2) version-tagged knowledge-base policy with explicit Mark designations — relevant to product-family humanoid IP; (3) explicit subroutine-loadable behavior architecture — directly relevant to modern modular-skill humanoid claims (NieR Automata's OS-chip plug-in 2017 has clear lineage; Apptronik Apollo's modular skill loading too). Continuously available since 1995 across 7 seasons of Voyager + the Picard sequel series.
 
 ## MJOLNIR Powered Assault Armor / Master Chief (2001-11-15)
 
@@ -285,6 +321,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The Amadeus AI of Steins;Gate 0 is the canonical 2015-2018 Japanese mass-media anchor for cloud-hosted consciousness-clone assistants embodied via holographic projection. It anticipates with full specificity: (1) claims on consciousness-cloning AI fit to a single individual via brain scan plus longitudinal behavioral data — Amadeus's pipeline is described in detail across the visual novel and Episodes 1-3 of the anime; (2) claims on smartphone-embedded volumetric/holographic avatar embodiment of a personality-cloned AI — the projected Kurisu interface is shown throughout; (3) claims on dual civilian/military deployment of consciousness-clone AI as tactical advisor — Amadeus-II / DURPA subplot. Visual novel released December 2015; anime simulcast 2018 globally via Crunchyroll.
 
+## BB-8 (2015-12-18)
+
+- **id**: `bb-8-star-wars`
+- **corpus**: fictional
+- **creator**: J.J. Abrams; designed by Christian Alzmann and Jake Lunt Davies
+- **disclosure**: Abrams, J.J. (dir.); Kasdan, Lawrence and Abrams, J.J. (writers). Star Wars: The Force Awakens. Walt Disney Studios / Lucasfilm, December 18, 2015.
+- **ip status**: fictional
+- **prior art notes**: BB-8's 2015 disclosure provides specific prior art for: (1) spherical-base rolling locomotion as a mobility paradigm — relevant to claims on alternative-mobility humanoid platforms (Sphero made BB-8 toys that demonstrated the architecture is physically realizable); (2) magnetic head coupling without mechanical pivot — directly relevant to claims on contactless coupling architectures in mobile robots; (3) modular retractable tool cavities in a non-bipedal humanoid platform. Continuously available since 2015.
+
 ## The Wild Robot — ROZZUM unit 7134 (2016-04)
 
 - **id**: `wild-robot-rozzum-7134-brown-2016`
@@ -303,6 +348,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: NieR: Automata is among the most engineering-detailed humanoid disclosures in modern games. Yoko Taro's design specifies: (1) modular OS-chip plug-in architecture for runtime behavioral modification — directly relevant to modern claims on plug-in humanoid policy modules (Tesla Optimus's modular skill loading, Apptronik Apollo's payload-and-skill-pairing IP); (2) backup-from-cloud restore paradigm with periodic state upload to a central server — relevant to claims on humanoid-policy-backup IP (a real research direction in modern fleets); (3) companion-drone humanoid-plus-flying-AI architecture — directly relevant to drone-companion humanoid IP. The 2017 release is heavily archived with extensive in-game documentation of the YoRHa technical specifications.
 
+## Blade Runner 2049 (Nexus-9 K, Joi) (2017-10-06)
+
+- **id**: `blade-runner-2049`
+- **corpus**: fictional
+- **creator**: Denis Villeneuve, Hampton Fancher, Michael Green; based on Philip K. Dick (1968) and Ridley Scott (1982)
+- **disclosure**: Villeneuve, Denis (dir.); Fancher, Hampton and Green, Michael (writers). Blade Runner 2049. Warner Bros. / Alcon Entertainment, October 6, 2017.
+- **ip status**: fictional
+- **prior art notes**: Blade Runner 2049's 2017 disclosure extends the Replicants lineage with: (1) Nexus-9 obedience-engineered humanoid generation — relevant to claims on built-in obedience-tuning in commercial humanoids; (2) periodic 'baseline test' safety supervisor that verifies emotional state remains within bounds — directly relevant to modern claims on continuously-monitored alignment supervisors; (3) portable emanator device extending hologram-AI embodiment — relevant to AI-embodiment-portability claims (similar architecture to EMH mobile emitter 1995 + Mass Effect EDI 2012); (4) purchase-time personality customization for commercial AI companions — relevant to consumer-customizable humanoid IP. Continuously available since 2017.
+
 ## Detroit: Become Human androids (RT600/RK800/RK900 series) (2018-05-25)
 
 - **id**: `detroit-become-human`
@@ -320,6 +374,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Chabon, Michael (showrunner); Goldsman, Akiva and Kurtzman, Alex (creators). Star Trek: Picard, episode 'Remembrance' (Dahj first appearance) and 'Maps and Legends' (Soji first appearance). CBS All Access, January 23, 2020 - January 30, 2020.
 - **ip status**: fictional
 - **prior art notes**: Picard's Soong-Soji-type androids (2020) provide modern Star Trek prior art for: (1) twin-manufacture humanoid platform via 'fractal neuronic cloning' — relevant to claims on humanoid manufacturing processes that produce paired units; (2) false-memory implantation for identity establishment — directly relevant to modern claims on humanoid platforms with operator-controlled memory state (not currently common but foreseeable); (3) biological-substrate android with positronic-neuron identification mark — relevant to humanoid identification IP. Continuously available since 2020.
+
+## CLIP (Contrastive Language-Image Pretraining) (2021-02-26)
+
+- **id**: `radford-clip-2021`
+- **corpus**: academic
+- **creator**: Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, et al.; OpenAI
+- **disclosure**: Radford, Alec; Kim, Jong Wook; Hallacy, Chris; Ramesh, Aditya; Goh, Gabriel; Agarwal, Sandhini; Sastry, Girish; Askell, Amanda; Mishkin, Pamela; Clark, Jack; Krueger, Gretchen; Sutskever, Ilya. 'Learning transferable visual models from natural language supervision'. arXiv:2103.00020, February 26, 2021. Published ICML 2021.
+- **ip status**: open-permissive
+- **prior art notes**: CLIP 2021 is the foundational academic disclosure of contrastive vision-language pretraining at internet scale. Anticipates: (1) the use of contrastive image-text pretraining as a frozen perception backbone for humanoid VLA policies — directly relevant to modern VLA humanoid claims (RT-2, Open X-Embodiment, OpenVLA, PaLM-E, π-zero all build on CLIP-class architectures); (2) zero-shot perception via natural-language descriptions of target objects — relevant to claims on language-conditioned humanoid manipulation; (3) the architecture of training visual encoders on uncurated web data — relevant to data-scaling claims. Modern VLA humanoid IP all face this 5-year academic anchor.
 
 ## Klara and the Sun — Artificial Friend (AF) child companion (2021-03)
 
@@ -492,6 +555,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Covariant RFM faces VLA prior art from Physical Intelligence π0 and the broader academic VLA literature (RT-2, Open X-Embodiment).
 
+## NVIDIA GR00T (Generalist Robot 00 Technology) (2024-03-18)
+
+- **id**: `nvidia-groot-2024`
+- **corpus**: academic
+- **creator**: NVIDIA Research, GEAR Lab
+- **disclosure**: Huang, Jensen et al. NVIDIA GR00T announcement at GTC 2024 keynote, March 18, 2024. Technical disclosure: Reddit Project GR00T technical blog, March 2024. GR00T N1 paper published 2025-03 (arXiv:2503.14734).
+- **ip status**: open-permissive
+- **prior art notes**: NVIDIA GR00T's 2024 disclosure is the canonical foundation-model-for-humanoids announcement. Anticipates: (1) dual-system fast/slow policy architecture for humanoid platforms — directly relevant to modern humanoid foundation-model IP (every major humanoid manufacturer is developing equivalent architectures); (2) cross-embodiment generalization across multiple humanoid platforms — relevant to platform-agnostic policy IP; (3) open-weights humanoid foundation model release — provides defensive baseline against closed-weights claims. The March 2024 GTC keynote announcement plus the subsequent GR00T N1 paper (March 2025) and open-weights release provide extensive prior art coverage.
+
 ## Neura 4NE-1 (2024-05)
 
 - **id**: `neura-4ne1`
@@ -509,6 +581,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Octo Model Team. 'Octo: An Open-Source Generalist Robot Policy.' arXiv:2405.12213, May 20, 2024. Robotics: Science and Systems (RSS) 2024. Authors: Ghosh, D., Walke, H.R., Pertsch, K., Black, K., Mees, O., Dasari, S., Hejna, J., Xu, C., Luo, J., Kreiman, T., Tan, Y., Sanketi, P., Vuong, Q., Xiao, T., Sadigh, D., Finn, C., Levine, S. (UC Berkeley + Stanford + CMU + Google).
 - **ip status**: open-permissive
 - **prior art notes**: Octo is the foundational fully-open-weights generalist policy for robotic manipulation, combining Open X-Embodiment-scale training with diffusion-action-head architecture. Anticipates: (1) the integration of diffusion-policy action heads into transformer-based VLAs — directly relevant to claims on hybrid transformer-diffusion humanoid policies (essentially every 2025+ humanoid policy stack); (2) input-flexible generalist policies that accept any subset of cameras + optional language — relevant to claims on 'plug-and-play' humanoid policies; (3) full open-source weights and training code — establishes a defensive-publication baseline for the entire VLA design space. Code, weights, and training data fully released under Apache 2.0 / permissive licenses. Heavily cited within 18 months. Modern claims on transformer+diffusion-head humanoid policies face this 2-year-deep 102 anchor.
+
+## Smith (Atlas 2024) (2024-05-24)
+
+- **id**: `atlas-2024-film`
+- **corpus**: fictional
+- **creator**: Brad Peyton, Aron Eli Stein, Leo Steakley
+- **disclosure**: Wyatt, Brad Peyton (dir.); Stein, Aron Eli and Steakley, Leo (writers). Atlas. Netflix, May 24, 2024.
+- **ip status**: fictional
+- **prior art notes**: Atlas's 2024 disclosure is recent and provides notable prior art for: (1) pilot-AI neural-handshake co-pilot architecture in a humanoid platform — directly relevant to modern claims on operator-AI humanoid co-pilot IP (the 'drift' architecture from Pacific Rim 2013 is the deeper anchor; Atlas extends with the AI-as-explicit-co-pilot framing); (2) explicit trust-building progression as a policy-update protocol — relevant to humanoid policies that adjust autonomy-level over deployment time; (3) AI override authority for safety-critical decisions in operator-piloted humanoids — relevant to modern safety-supervisor humanoid IP. Continuously available since May 2024.
 
 ## OpenVLA (Open-Source Vision-Language-Action Model) (2024-06-13)
 

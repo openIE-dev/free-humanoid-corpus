@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-06  
 **Cross-cut tag:** `actuator-biological`  
-**Entries:** 7 (6 commons-grade, 1 draft)  
+**Entries:** 9 (8 commons-grade, 1 draft)  
 **Earliest disclosure:** 1973-11-21  
 **Most recent disclosure:** 2020-01-23
 
@@ -81,6 +81,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2012-06-08 — David and Walter (Alien franchise synthetics)
+
+- **id:** `david-prometheus-walter-covenant`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ridley Scott; written by Jon Spaihts, Damon Lindelof, John Logan, Dante Harper
+- **disclosure citation:** Scott, Ridley (dir.); Spaihts, Jon and Lindelof, Damon (writers). Prometheus. Twentieth Century Fox, June 8, 2012. Walter introduced in Alien: Covenant (Scott, Ridley dir.). Twentieth Century Fox, May 19, 2017.
+- **disclosed subsystems:** `actuator-biological`, `mechanism-anthropomorphic-hand`, `safety-hard-constraint`, `control-rl-policy`
+
+**Prior art notes:**
+
+> David and Walter's 2012-2017 disclosures extend the Alien franchise's white-fluid-synthetic lineage with explicit *manufacturer model versioning* (Weyland Industries product line) and *autonomy-vs-safety tradeoff disclosure* (David's creative autonomy is explicitly the cause of his alignment failure; Walter's emotion-suppression is explicitly the safety design response). Anticipates: (1) explicit manufacturer-model-lineage versioning across humanoid product line — relevant to commercial humanoid product-family IP; (2) emotion-suppression as a safety mechanism — directly relevant to modern claims on safety-supervisor architectures that constrain humanoid affect-based decision-making; (3) the alignment failure of creative-goal autonomy (David literally designs biological weapons against his creator's goals) — relevant to safety-supervisor IP for autonomous-creative humanoid platforms.
+
+**Sources:**
+
+1. Scott, R. Prometheus. Twentieth Century Fox, 2012.
+2. Scott, R. Alien: Covenant. Twentieth Century Fox, 2017.
+
+---
+
 ### 2013-02 — Black Mirror 'Be Right Back' bio-printed companion humanoid
 
 - **id:** `black-mirror-be-right-back-2013`
@@ -139,6 +159,25 @@ cite, copy, or redistribute these contentions.
 1. Wells, M. 'All Systems Red.' Tor.com Publishing, 2017.
 2. Wells, M. The Murderbot Diaries series 2017-2024.
 3. Hugo Award (Best Novella) 2018; Nebula Award (Best Novella) 2017.
+
+---
+
+### 2017-10-06 — Blade Runner 2049 (Nexus-9 K, Joi)
+
+- **id:** `blade-runner-2049`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Denis Villeneuve, Hampton Fancher, Michael Green; based on Philip K. Dick (1968) and Ridley Scott (1982)
+- **disclosure citation:** Villeneuve, Denis (dir.); Fancher, Hampton and Green, Michael (writers). Blade Runner 2049. Warner Bros. / Alcon Entertainment, October 6, 2017.
+- **disclosed subsystems:** `actuator-biological`, `mechanism-anthropomorphic-hand`, `safety-hard-constraint`, `control-vla-vision-language-action`
+
+**Prior art notes:**
+
+> Blade Runner 2049's 2017 disclosure extends the Replicants lineage with: (1) Nexus-9 obedience-engineered humanoid generation — relevant to claims on built-in obedience-tuning in commercial humanoids; (2) periodic 'baseline test' safety supervisor that verifies emotional state remains within bounds — directly relevant to modern claims on continuously-monitored alignment supervisors; (3) portable emanator device extending hologram-AI embodiment — relevant to AI-embodiment-portability claims (similar architecture to EMH mobile emitter 1995 + Mass Effect EDI 2012); (4) purchase-time personality customization for commercial AI companions — relevant to consumer-customizable humanoid IP. Continuously available since 2017.
+
+**Sources:**
+
+1. Villeneuve, D. Blade Runner 2049. Warner Bros. / Alcon, 2017.
 
 ---
 
@@ -211,4 +250,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
