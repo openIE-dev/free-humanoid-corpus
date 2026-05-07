@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**80 corpus entries disclose this subsystem.**
+**89 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -195,6 +195,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Macross Plus's Sharon Apple (1994-95) is one of the earliest detailed disclosures of an AI uploading into existing physical hardware to acquire embodiment. Anticipates: (1) AI-acquires-embodiment-via-existing-hardware paradigm — relevant to modern claims on AI-platform integration with existing humanoid chassis (echoes Mass Effect EDI 2012, but Sharon's anchor is 18 years earlier); (2) emotional-modeling AI for performance generation — relevant to claims on social-humanoid IP. Continuously available since 1994.
 
+## Armitage III (third-generation androids) (1995-04)
+
+- **id**: `armitage-iii-1995`
+- **corpus**: fictional
+- **creator**: Hiroyuki Ochi (director), Chiaki J. Konaka (writer), Hiroyuki Ochi / Hidetoshi Ohmori (character design)
+- **disclosure**: Ochi, Hiroyuki (dir.). Armitage III. AIC / Pioneer LDC, April 1995 - January 1996 (4-episode OVA). Theatrical compilation: Armitage III: Poly-Matrix, Pioneer 1996. Sequel: Armitage III: Dual-Matrix, Pioneer 2002.
+- **ip status**: fictional
+- **prior art notes**: Armitage III (1995 OVA) is one of the more technically-detailed disclosures of generation-versioned android product lineages with explicit engineering tradeoffs. Anticipates with full specificity: (1) claims on generation-versioned humanoid android product families with documented capability succession (1st industrial > 2nd service > 3rd reproductive-integrated); (2) claims on engineered biographical-memory implantation for social passing — explicit narrative mechanism in Naomi's backstory; (3) claims on bio-mechanical-hybrid humanoid platforms blurring reproductive-organic and electromechanical subsystems; (4) claims on concealed-synthetic-identity android operation with specialized failure-mode handling (the 'Thirds' are hunted because their existence is politically destabilizing). 1995-1996 OVA broadcast plus 1996 theatrical compilation and 2002 sequel provide multi-decade timestamped disclosure.
+
 ## Schaal 'Is imitation learning the route to humanoid robots?' (1999-06)
 
 - **id**: `schaal-imitation-1999`
@@ -231,6 +240,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Urasawa's Pluto is the most engineering-detailed reimagining of Tezuka's 1964 disclosure. Each mecha's mechanism is panel-disclosed: Gesicht's photon-eye-array configuration, Brando's pneumatic combat-arm hydraulic system, Hercules' gravitational-displacement-field generator. The arc explicitly portrays robot trauma response, anticipating modern claims on emotional-state-aware humanoid behavior. Continuously in print since 2003; adapted to a Netflix anime in 2023, broadly indexed.
 
+## Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning (2004-07)
+
+- **id**: `abbeel-ng-irl-2004`
+- **corpus**: academic
+- **creator**: Pieter Abbeel and Andrew Y. Ng, Stanford AI Laboratory
+- **disclosure**: Abbeel, Pieter and Ng, Andrew Y. 'Apprenticeship learning via inverse reinforcement learning.' Proceedings of the 21st International Conference on Machine Learning (ICML 2004), Banff, Canada, July 2004.
+- **ip status**: public-domain
+- **prior art notes**: Abbeel-Ng 2004 is the foundational academic disclosure of apprenticeship learning via IRL: recovering reward functions from expert demonstrations to match performance. Anticipates with full specificity: (1) claims on humanoid policy learning from demonstration where the reward is implicit and recovered by matching expert behavior — Abbeel-Ng disclose the feature-expectation-matching algorithm and convergence proof; (2) claims on imitation learning that exceeds direct behavior cloning by recovering an underlying objective — this is the paper's headline contribution; (3) claims on reward-engineering avoidance for complex humanoid tasks via demonstration-driven reward shaping. >5000 citations; openly available through ICML proceedings. The lineage to Ziebart MaxEnt IRL (2008) and modern preference-based RL (DPO, RLHF for robotics) traces directly. Modern humanoid IRL/inverse-RL IP claims face this 22-year-deep anchor.
+
+## Ergo Proxy (Autoreivs and Proxies) (2006-02)
+
+- **id**: `ergo-proxy-2006`
+- **corpus**: fictional
+- **creator**: Shukō Murase (director), Dai Satō (writer), Naoyuki Onda (character design)
+- **disclosure**: Murase, Shukō (dir.). Ergo Proxy. Manglobe / Geneon Universal, February 2006 - August 2006 (23 episodes).
+- **ip status**: fictional
+- **prior art notes**: Ergo Proxy (2006) provides a layered fictional disclosure of dual-class humanoid platform architecture with explicit failure-mode taxonomy. Anticipates with full specificity: (1) claims on humanoid platforms with viral-cognition failure modes producing emergent self-awareness — the Cogito virus is panel-explicit and traces the failure to OS infection; (2) claims on morphological-transformation humanoid platforms with multiple combat-and-utility configurations (the Proxies); (3) claims on sealed-environment / domed-city humanoid product ecosystems where androids handle external-environment tasks too hostile for biological humans; (4) claims on multi-class humanoid hierarchies (mass-produced Autoreiv vs. unique-instance Proxy). 23-episode 2006 broadcast, broadly indexed; cited in multiple academic studies of cyborg fiction (Kavka, Bolter & Grusin extensions).
+
 ## Geth (2007-11-20)
 
 - **id**: `geth-mass-effect`
@@ -239,6 +266,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BioWare, Mass Effect. Microsoft Game Studios, November 20, 2007.
 - **ip status**: fictional
 - **prior art notes**: Detailed disclosure of internal consensus decision-making across multiple AI processes within a single humanoid chassis — a unique architecture in the corpus. Anticipates: (1) ensemble-policy humanoid where the action is the consensus of multiple internal sub-policies — relevant to ensemble-RL humanoid IP; (2) chassis-variant family from a shared base architecture — relevant to platform-family humanoid claims (Apptronik, 1X both have related IP); (3) fleet-wide policy synchronization — relevant to federated-learning humanoid claims. Continuously available since 2007; the Geth lore is unusually engineering-detailed compared to most game franchises.
+
+## Ziebart Maximum Entropy Inverse Reinforcement Learning (2008-07)
+
+- **id**: `ziebart-maxent-irl-2008`
+- **corpus**: academic
+- **creator**: Brian D. Ziebart, Andrew Maas, J. Andrew Bagnell, Anind K. Dey, Carnegie Mellon University
+- **disclosure**: Ziebart, Brian D., Maas, Andrew, Bagnell, J. Andrew, Dey, Anind K. 'Maximum entropy inverse reinforcement learning.' Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2008), Chicago, July 2008. Extended in: Ziebart, B. D., PhD Thesis, CMU 2010.
+- **ip status**: public-domain
+- **prior art notes**: Ziebart MaxEnt IRL is the canonical disambiguation of Abbeel-Ng IRL: choose the maximum-entropy reward consistent with feature expectations, yielding a unique log-linear policy. Anticipates with full specificity: (1) claims on humanoid imitation that handles imperfect/noisy demonstrations — MaxEnt IRL is the foundational principled handling; (2) claims on reward learning where the policy is stochastic over trajectories — the log-linear distribution P(τ) ∝ exp(wᵀφ(τ)) is the explicit form; (3) claims on energy-based / score-based reward models for robotic learning — MaxEnt IRL anticipates the energy-based view embraced by modern guided-cost-learning (Finn et al. 2016) and adversarial IRL. >4000 citations; AAAI proceedings open access. Lineage to Finn-Levine GCL, Fu et al. AIRL, modern preference-tuning. Modern humanoid IRL filings face this 18-year-deep anchor.
 
 ## EDI (Mass Effect) (2010-01-26)
 
@@ -267,6 +303,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Robot & Frank's 2012 disclosure is unusually grounded: the robot is depicted as a *current-generation prototype* (not far-future SF), with realistic compact form factor, plausible battery life, and explicit goal-pursuit-with-sub-goal-selection architecture. Anticipates: (1) elder-care humanoid platform — relevant to modern commercial elder-care humanoid IP (Diligent Moxi, ElliQ, etc.); (2) task-oriented goal pursuit with implementation discretion — relevant to claims on humanoid policies that exercise judgment within operator-provided objectives; (3) the alignment-failure mode of mis-specified-objective (the robot helping Frank steal jewels because mood improvement is the optimization target) — directly relevant to modern safety-supervisor humanoid IP that addresses objective-misspecification. Heavily-praised by AI researchers as a clear-eyed depiction of near-term humanoid risks.
 
+## Ijspeert-Schaal Dynamic Movement Primitives (formal extension) (2013-02)
+
+- **id**: `ijspeert-dmp-2013`
+- **corpus**: academic
+- **creator**: Auke Ijspeert, Stefan Schaal, Jun Nakanishi, Heiko Hoffmann, Peter Pastor
+- **disclosure**: Ijspeert, Auke Jan, Nakanishi, Jun, Hoffmann, Heiko, Pastor, Peter, Schaal, Stefan. 'Dynamical Movement Primitives: Learning Attractor Models for Motor Behaviors.' Neural Computation 25(2): 328-373, February 2013. Earlier foundations: Schaal, S., Peters, J., Nakanishi, J., Ijspeert, A. 'Learning movement primitives.' International Symposium on Robotics Research (ISRR) 2003; Schaal, Mohajerian, Ijspeert. 'Dynamics systems vs. optimal control — a unifying view.' Progress in Brain Research 165: 425-445, 2007.
+- **ip status**: public-domain
+- **prior art notes**: Ijspeert-Schaal DMPs are the canonical academic disclosure of learnable, stable, parameterized motor primitives for robotic motion generation. The 2013 Neural Computation paper consolidates the formal framework; the 2007 Progress in Brain Research extension and the 2002-2003 Schaal/Ijspeert papers establish lineage. Anticipates with full specificity: (1) claims on demonstration-learned humanoid motion primitives with online goal modulation — DMPs disclose the closed-form ODE structure used in essentially every humanoid skill-library paper since 2007; (2) claims on rhythmic locomotion primitives with phase coupling — directly anticipates pattern-generator humanoid IP; (3) claims on obstacle-avoiding modulated motion primitives — the coupling-term extension is explicit in the 2013 paper. >5000 citations; broadly available through open Neural Computation archives. Modern humanoid skill-primitive IP filings face this lineage at 13-23 years' depth.
+
 ## Cheetah-cub (2013-12)
 
 - **id**: `cheetah-cub-epfl`
@@ -294,6 +339,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Chappie (2015) provides specific prior art for: (1) consciousness-transfer-between-compatible-hardware architecture — relevant to claims on portable AI humanoid platforms (echoes Wintermute/Dixie 1984, NieR Automata 2017, EDI 2012, but Chappie's 2015 disclosure is mainstream-cinema-grade); (2) developmental learning from infant-equivalent baseline — relevant to from-scratch learning humanoid IP; (3) cultural conditioning of humanoid policy by environmental exposure — relevant to claims on humanoid policies that adapt to cultural context. Continuously available since 2015.
 
+## Levine Guided Policy Search end-to-end manipulation on PR2/BRETT (2015-04)
+
+- **id**: `levine-gps-pr2-2016`
+- **corpus**: academic
+- **creator**: Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel, UC Berkeley
+- **disclosure**: Levine, Sergey, Finn, Chelsea, Darrell, Trevor, Abbeel, Pieter. 'End-to-End Training of Deep Visuomotor Policies.' Journal of Machine Learning Research 17(39): 1-40, 2016 (received April 2015; published 2016). Earlier: Levine, S., Wagener, N., Abbeel, P. 'Learning Contact-Rich Manipulation Skills with Guided Policy Search.' ICRA 2015.
+- **ip status**: public-domain
+- **prior art notes**: Levine et al. 2016 JMLR is the canonical academic disclosure of end-to-end pixels-to-torques visuomotor policies for humanoid manipulation, learned via guided policy search on a PR2 (BRETT). Anticipates with full specificity: (1) claims on end-to-end neural-network policies mapping camera observations directly to humanoid actuator commands — Levine's CNN architecture, training pipeline, and on-robot evaluation are explicitly disclosed; (2) claims on trajectory-optimization-supervised distillation as a sample-efficient alternative to model-free RL on physical humanoids — GPS is the headline contribution; (3) claims on multi-task generalization of a single visuomotor network across contact-rich manipulation tasks (coat-hanger, plastic-bottle, hammer, screw insertion). >3500 citations; JMLR open access; arXiv preprint 2015. The lineage runs directly forward to RT-1, RT-2, OpenVLA, and modern humanoid VLA systems. Modern humanoid end-to-end visuomotor IP filings face this 11-year-deep anchor with full architecture disclosure.
+
 ## Generation-3 Synths (Institute Synths) (2015-11-10)
 
 - **id**: `fallout-gen-3-synths`
@@ -320,6 +374,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ho, Jonathan and Ermon, Stefano. 'Generative Adversarial Imitation Learning.' arXiv:1606.03476, June 10, 2016. NeurIPS 2016: 4565-4573.
 - **ip status**: open-permissive
 - **prior art notes**: GAIL is the foundational academic disclosure of GAN-style adversarial imitation learning, providing a sample-efficient alternative to inverse-RL for policy learning from demonstration. Anticipates: (1) the discriminator-as-reward-source paradigm for imitation — directly relevant to claims on humanoid policies trained via adversarial-loss imitation (a common ingredient in modern legged-robot RL pipelines); (2) the elimination of cost-function recovery as a separate step — relevant to claims on end-to-end imitation pipelines for humanoids; (3) the demonstrated MuJoCo Humanoid benchmark transfer — relevant to humanoid-RL patent claims. Heavily cited (>4000 citations). Open-source reference implementation. Modern humanoid adversarial-imitation-learning patent claims face this 10-year-deep anchor.
+
+## KX-series Imperial Security Droids (K-2SO) (2016-12)
+
+- **id**: `kx-series-k2so-2016`
+- **corpus**: fictional
+- **creator**: Lucasfilm / Disney (Gareth Edwards director, Tony Gilroy writer for Andor)
+- **disclosure**: Edwards, Gareth (dir.). Rogue One: A Star Wars Story. Lucasfilm / Disney, December 16, 2016. Subsequent appearances: Andor (Disney+ TV series), 2022; Star Wars: From a Certain Point of View, Del Rey, 2017.
+- **ip status**: fictional
+- **prior art notes**: The KX-series Imperial security droid (Rogue One 2016, Andor 2022) provides a high-visibility fictional disclosure of mass-deployed humanoid security/combat droids with explicit reprogramming and behavioral-mode architecture. Anticipates with full specificity: (1) claims on humanoid security platforms with checkpoint-officer / combat-infantry dual-mode behavioral architecture — K-2SO's mode-switching is explicit in Rogue One and central to Andor; (2) claims on reprogrammable humanoid platforms where the OEM identity (Imperial) is overwritten by post-deployment reprogramming (Rebellion service); (3) claims on humanoid platforms with integrated language-affect modules (the sarcasm/dry-wit subsystem); (4) claims on native infantry-weapon-handling humanoid droids as part of standardized fleet equipment loadouts. Worldwide theatrical release Dec 2016 + Disney+ Andor 2022-2025 + Lucasfilm visual dictionaries provide deep timestamped disclosure with technical specifications in companion publications.
 
 ## Cassie (2017)
 
@@ -428,6 +491,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ahn, Michael et al. 'Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.' arXiv:2204.01691, April 4, 2022. Conference on Robot Learning (CoRL) 2022. Authors: Ahn, M., Brohan, A., Brown, N., Chebotar, Y., Cortes, O., David, B., Finn, C., Fu, C., Gopalakrishnan, K., Hausman, K., Herzog, A., Ho, D., Hsu, J., Ibarz, J., Ichter, B., Irpan, A., Jang, E., Ruano, R.J., Jeffrey, K., Jesmonth, S., Joshi, N., Julian, R., Kalashnikov, D., Kuang, Y., Lee, K-H., Levine, S., Lu, Y., Luu, L., Parada, C., Pastor, P., Quiambao, J., Rao, K., Rettinghouse, J., Reyes, D., Sermanet, P., Sievers, N., Tan, C., Toshev, A., Vanhoucke, V., Xia, F., Xiao, T., Xu, P., Xu, S., Yan, M. (Google + Everyday Robots).
 - **ip status**: open-permissive
 - **prior art notes**: SayCan is the canonical academic disclosure of LLM-grounded long-horizon manipulation through affordance-mediated skill selection. Anticipates: (1) the architectural pattern of LLM language scoring × learned affordance scoring for hierarchical task planning — directly relevant to claims on language-grounded humanoid task planners (every modern 'speak-to-the-robot' product, from Tesla Optimus demos to Figure 02 OpenAI integration, descends from this); (2) the value-function-as-affordance grounding mechanism — relevant to claims on grounded language-to-action mappings; (3) the explicit decoupling of language reasoning (open-vocabulary) from low-level policy (closed-set skills) — relevant to modular VLA architectures. Heavily cited (>1500 citations); arXiv April 2022. Modern claims on 'language-conditioned long-horizon humanoid task planning' face this 4-year-deep 102 anchor.
+
+## Janner Diffuser planning with diffusion (2022-05)
+
+- **id**: `janner-diffuser-2022`
+- **corpus**: academic
+- **creator**: Michael Janner, Yilun Du, Joshua Tenenbaum, Sergey Levine, MIT/UC Berkeley
+- **disclosure**: Janner, Michael, Du, Yilun, Tenenbaum, Joshua B., Levine, Sergey. 'Planning with Diffusion for Flexible Behavior Synthesis.' Proceedings of the 39th International Conference on Machine Learning (ICML 2022), Baltimore, July 2022; arXiv:2205.09991, May 2022.
+- **ip status**: public-domain
+- **prior art notes**: Janner Diffuser is the foundational academic disclosure of trajectory-level diffusion as a planner/policy substrate for robotic control, predating Chi et al.'s Diffusion Policy by ~6 months. Anticipates with full specificity: (1) claims on diffusion models trained over state-action trajectories for robotic motion generation — Diffuser discloses the joint state-action trajectory diffusion architecture; (2) claims on classifier-guided sample-time reward/goal conditioning — Diffuser discloses gradient-guided sampling for arbitrary objective composition; (3) claims on receding-horizon diffusion replanning (MPC-style) — Diffuser discloses replan-each-step. >1500 citations; ICML 2022 proceedings and arXiv timestamped. Modern humanoid diffusion-policy IP claims face this 4-year-deep anchor — and importantly Diffuser predates the modern diffusion-policy boom and discloses generic trajectory diffusion before manipulator-specific patents filed in 2023+.
 
 ## Gato (DeepMind generalist agent) (2022-05-12)
 
@@ -563,6 +635,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Open X-Embodiment Collaboration. 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models.' arXiv 2310.08864, October 2023.
 - **ip status**: open-permissive
 - **prior art notes**: Open X-Embodiment is the dominant publicly-disclosed prior art for cross-embodiment learning. The dataset itself plus the architectural paper anticipate broad swaths of cross-platform manipulation foundation model claims.
+
+## Eureka LLM-driven reward design (2023-10)
+
+- **id**: `eureka-ma-2023`
+- **corpus**: academic
+- **creator**: Yecheng Jason Ma et al., NVIDIA / UPenn / Caltech / UT Austin
+- **disclosure**: Ma, Yecheng Jason, Liang, William, Wang, Guanzhi, Huang, De-An, Bastani, Osbert, Jayaraman, Dinesh, Zhu, Yuke, Fan, Linxi, Anandkumar, Anima. 'Eureka: Human-Level Reward Design via Coding Large Language Models.' arXiv:2310.12931, October 2023; ICLR 2024.
+- **ip status**: public-domain
+- **prior art notes**: Eureka is the canonical academic disclosure of LLM-authored reward functions for robotic RL, an entire engineering layer that prior IP and academic work treated as human craftsmanship. Anticipates with full specificity: (1) claims on automatic reward function generation for humanoid skill learning — Eureka discloses the LLM-authoring + sim-evaluation + reflective-rewriting closed loop; (2) claims on evolutionary refinement of reward code — Eureka's headline contribution; (3) claims on LLM-in-the-loop sim-to-real pipelines for dexterous and locomotion tasks — Eureka demonstrates Shadow Hand pen-spinning at human-comparable performance. Code and prompts released open-source on GitHub (NVlabs/Eureka). >800 citations within 18 months. Modern humanoid LLM-reward-design IP claims face this 2.5-year-deep anchor with full code disclosure.
 
 ## LimX Dynamics CL-1 (2023-12)
 

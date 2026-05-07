@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-reduced-order-model`
 
-**16 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979-04-07
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tomino, Yoshiyuki et al. Mobile Suit Gundam. Nagoya Broadcasting, April 7, 1979 - January 26, 1980 (43 episodes).
 - **ip status**: fictional
 - **prior art notes**: Note: this entry is separate from the original RX-78-2 Gundam entry (rx-78-2-gundam) in the seed slice; this one disclosures additional engineering-flavored elements that the seed entry treated lightly. AMBAC (Active Mass Balance Auto-Control) is the disclosed mechanism for orientation in zero gravity using limb articulation as reaction mass — a clear anticipation of reduced-order-model approaches that exploit limb dynamics for whole-body control in modern humanoids.
+
+## Hollerbach Recursive Lagrangian Manipulator Dynamics (1980-11)
+
+- **id**: `hollerbach-manipulator-1980`
+- **corpus**: academic
+- **creator**: John M. Hollerbach, MIT Artificial Intelligence Laboratory
+- **disclosure**: Hollerbach, John M. 'A Recursive Lagrangian Formulation of Manipulator Dynamics and a Comparative Study of Dynamics Formulation Complexity.' IEEE Transactions on Systems, Man, and Cybernetics SMC-10(11): 730-736, November 1980.
+- **ip status**: public-domain
+- **prior art notes**: Hollerbach 1980 is the canonical academic disclosure of efficient recursive Lagrangian manipulator dynamics, alongside Luh-Walker-Paul 1980 Newton-Euler. Anticipates with full specificity: (1) claims on real-time computed-torque inverse-dynamics for humanoid arms — Hollerbach's O(n³) recursion is the basis for every embedded humanoid arm controller since the early 1980s; (2) claims on per-link recursive computation enabling distributed/parallel inverse-dynamics — Hollerbach's structure is explicitly recursive forward-and-backward; (3) the comparative-complexity tabulation enabling design-time formulation selection. >2500 citations; IEEE TSMC archive openly indexed. Lineage runs forward to Featherstone spatial-vector algebra (existing corpus entry) and Articulated-Body Algorithms. Modern humanoid arm-dynamics IP claims face this 46-year-deep anchor.
 
 ## Raibert One-Legged Hopper (1983)
 
@@ -87,6 +96,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: DMPs are the canonical academic disclosure of stability-guaranteed learnable motor primitives for humanoid robotics. Anticipates: (1) one-shot trajectory-from-demonstration learning with stability guarantees — directly relevant to claims on humanoid skill libraries built from human demonstration (a foundational pattern in every commercial humanoid program); (2) goal-parameterizable motor primitives — relevant to claims on adaptable humanoid skills; (3) compositional skill chaining — relevant to claims on humanoid behavior trees built from learned primitives. Heavily cited (>3000 citations across the series); the 2013 Neural Computation paper is the canonical reference. Modern humanoid skill-library patents face this 24-year-deep 102 anchor.
 
+## Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning (2004-07)
+
+- **id**: `abbeel-ng-irl-2004`
+- **corpus**: academic
+- **creator**: Pieter Abbeel and Andrew Y. Ng, Stanford AI Laboratory
+- **disclosure**: Abbeel, Pieter and Ng, Andrew Y. 'Apprenticeship learning via inverse reinforcement learning.' Proceedings of the 21st International Conference on Machine Learning (ICML 2004), Banff, Canada, July 2004.
+- **ip status**: public-domain
+- **prior art notes**: Abbeel-Ng 2004 is the foundational academic disclosure of apprenticeship learning via IRL: recovering reward functions from expert demonstrations to match performance. Anticipates with full specificity: (1) claims on humanoid policy learning from demonstration where the reward is implicit and recovered by matching expert behavior — Abbeel-Ng disclose the feature-expectation-matching algorithm and convergence proof; (2) claims on imitation learning that exceeds direct behavior cloning by recovering an underlying objective — this is the paper's headline contribution; (3) claims on reward-engineering avoidance for complex humanoid tasks via demonstration-driven reward shaping. >5000 citations; openly available through ICML proceedings. The lineage to Ziebart MaxEnt IRL (2008) and modern preference-based RL (DPO, RLHF for robotics) traces directly. Modern humanoid IRL/inverse-RL IP claims face this 22-year-deep anchor.
+
 ## Sentis-Khatib Whole-Body Prioritized Task Control (2005)
 
 - **id**: `sentis-khatib-whole-body`
@@ -105,6 +123,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Ott's impedance-control framework is the canonical academic disclosure of Cartesian impedance with explicit joint-flexibility modeling — the foundation of every modern collaborative torque-controlled robot (KUKA LBR iiwa, Franka Emika Panda, all DLR-derived humanoids including TORO and Justin). Anticipates: (1) passivity-based Cartesian impedance with provable stability — directly relevant to claims on safe-interaction humanoid IP; (2) flexible-joint compensation via post-reducer torque sensing — relevant to harmonic-drive actuator claims (every modern humanoid arm uses post-reducer torque sensing); (3) redundancy-resolved Cartesian impedance — relevant to whole-body compliance claims. Springer monograph and IJRR paper heavily cited (>2000 citations). Direct lineage to Franka Panda, KUKA iiwa, and modern humanoid platforms.
 
+## Ziebart Maximum Entropy Inverse Reinforcement Learning (2008-07)
+
+- **id**: `ziebart-maxent-irl-2008`
+- **corpus**: academic
+- **creator**: Brian D. Ziebart, Andrew Maas, J. Andrew Bagnell, Anind K. Dey, Carnegie Mellon University
+- **disclosure**: Ziebart, Brian D., Maas, Andrew, Bagnell, J. Andrew, Dey, Anind K. 'Maximum entropy inverse reinforcement learning.' Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2008), Chicago, July 2008. Extended in: Ziebart, B. D., PhD Thesis, CMU 2010.
+- **ip status**: public-domain
+- **prior art notes**: Ziebart MaxEnt IRL is the canonical disambiguation of Abbeel-Ng IRL: choose the maximum-entropy reward consistent with feature expectations, yielding a unique log-linear policy. Anticipates with full specificity: (1) claims on humanoid imitation that handles imperfect/noisy demonstrations — MaxEnt IRL is the foundational principled handling; (2) claims on reward learning where the policy is stochastic over trajectories — the log-linear distribution P(τ) ∝ exp(wᵀφ(τ)) is the explicit form; (3) claims on energy-based / score-based reward models for robotic learning — MaxEnt IRL anticipates the energy-based view embraced by modern guided-cost-learning (Finn et al. 2016) and adversarial IRL. >4000 citations; AAAI proceedings open access. Lineage to Finn-Levine GCL, Fu et al. AIRL, modern preference-tuning. Modern humanoid IRL filings face this 18-year-deep anchor.
+
 ## ATRIAS (2013)
 
 - **id**: `atrias`
@@ -113,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hubicki, C. et al. 'ATRIAS: Design and validation of a tether-free 3D-capable spring-mass bipedal robot.' International Journal of Robotics Research 35(12), 2016.
 - **ip status**: open-permissive
 - **prior art notes**: ATRIAS is foundational prior art for spring-mass bipedal locomotion. The SLIP-based reduced-order control approach has become a dominant paradigm in dynamic bipedal walking, anticipating many subsequent commercial control claims.
+
+## Ijspeert-Schaal Dynamic Movement Primitives (formal extension) (2013-02)
+
+- **id**: `ijspeert-dmp-2013`
+- **corpus**: academic
+- **creator**: Auke Ijspeert, Stefan Schaal, Jun Nakanishi, Heiko Hoffmann, Peter Pastor
+- **disclosure**: Ijspeert, Auke Jan, Nakanishi, Jun, Hoffmann, Heiko, Pastor, Peter, Schaal, Stefan. 'Dynamical Movement Primitives: Learning Attractor Models for Motor Behaviors.' Neural Computation 25(2): 328-373, February 2013. Earlier foundations: Schaal, S., Peters, J., Nakanishi, J., Ijspeert, A. 'Learning movement primitives.' International Symposium on Robotics Research (ISRR) 2003; Schaal, Mohajerian, Ijspeert. 'Dynamics systems vs. optimal control — a unifying view.' Progress in Brain Research 165: 425-445, 2007.
+- **ip status**: public-domain
+- **prior art notes**: Ijspeert-Schaal DMPs are the canonical academic disclosure of learnable, stable, parameterized motor primitives for robotic motion generation. The 2013 Neural Computation paper consolidates the formal framework; the 2007 Progress in Brain Research extension and the 2002-2003 Schaal/Ijspeert papers establish lineage. Anticipates with full specificity: (1) claims on demonstration-learned humanoid motion primitives with online goal modulation — DMPs disclose the closed-form ODE structure used in essentially every humanoid skill-library paper since 2007; (2) claims on rhythmic locomotion primitives with phase coupling — directly anticipates pattern-generator humanoid IP; (3) claims on obstacle-avoiding modulated motion primitives — the coupling-term extension is explicit in the 2013 paper. >5000 citations; broadly available through open Neural Computation archives. Modern humanoid skill-primitive IP filings face this lineage at 13-23 years' depth.
 
 ## DLR TORO (2014-07)
 

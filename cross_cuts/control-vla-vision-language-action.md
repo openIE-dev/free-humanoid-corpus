@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vla-vision-language-action`
 
-**46 corpus entries disclose this subsystem.**
+**51 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -222,6 +222,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Chappie (2015) provides specific prior art for: (1) consciousness-transfer-between-compatible-hardware architecture — relevant to claims on portable AI humanoid platforms (echoes Wintermute/Dixie 1984, NieR Automata 2017, EDI 2012, but Chappie's 2015 disclosure is mainstream-cinema-grade); (2) developmental learning from infant-equivalent baseline — relevant to from-scratch learning humanoid IP; (3) cultural conditioning of humanoid policy by environmental exposure — relevant to claims on humanoid policies that adapt to cultural context. Continuously available since 2015.
 
+## Levine Guided Policy Search end-to-end manipulation on PR2/BRETT (2015-04)
+
+- **id**: `levine-gps-pr2-2016`
+- **corpus**: academic
+- **creator**: Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel, UC Berkeley
+- **disclosure**: Levine, Sergey, Finn, Chelsea, Darrell, Trevor, Abbeel, Pieter. 'End-to-End Training of Deep Visuomotor Policies.' Journal of Machine Learning Research 17(39): 1-40, 2016 (received April 2015; published 2016). Earlier: Levine, S., Wagener, N., Abbeel, P. 'Learning Contact-Rich Manipulation Skills with Guided Policy Search.' ICRA 2015.
+- **ip status**: public-domain
+- **prior art notes**: Levine et al. 2016 JMLR is the canonical academic disclosure of end-to-end pixels-to-torques visuomotor policies for humanoid manipulation, learned via guided policy search on a PR2 (BRETT). Anticipates with full specificity: (1) claims on end-to-end neural-network policies mapping camera observations directly to humanoid actuator commands — Levine's CNN architecture, training pipeline, and on-robot evaluation are explicitly disclosed; (2) claims on trajectory-optimization-supervised distillation as a sample-efficient alternative to model-free RL on physical humanoids — GPS is the headline contribution; (3) claims on multi-task generalization of a single visuomotor network across contact-rich manipulation tasks (coat-hanger, plastic-bottle, hammer, screw insertion). >3500 citations; JMLR open access; arXiv preprint 2015. The lineage runs directly forward to RT-1, RT-2, OpenVLA, and modern humanoid VLA systems. Modern humanoid end-to-end visuomotor IP filings face this 11-year-deep anchor with full architecture disclosure.
+
 ## YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) (2017-02-23)
 
 - **id**: `nier-automata-2b`
@@ -257,6 +266,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ahn, Michael et al. 'Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.' arXiv:2204.01691, April 4, 2022. Conference on Robot Learning (CoRL) 2022. Authors: Ahn, M., Brohan, A., Brown, N., Chebotar, Y., Cortes, O., David, B., Finn, C., Fu, C., Gopalakrishnan, K., Hausman, K., Herzog, A., Ho, D., Hsu, J., Ibarz, J., Ichter, B., Irpan, A., Jang, E., Ruano, R.J., Jeffrey, K., Jesmonth, S., Joshi, N., Julian, R., Kalashnikov, D., Kuang, Y., Lee, K-H., Levine, S., Lu, Y., Luu, L., Parada, C., Pastor, P., Quiambao, J., Rao, K., Rettinghouse, J., Reyes, D., Sermanet, P., Sievers, N., Tan, C., Toshev, A., Vanhoucke, V., Xia, F., Xiao, T., Xu, P., Xu, S., Yan, M. (Google + Everyday Robots).
 - **ip status**: open-permissive
 - **prior art notes**: SayCan is the canonical academic disclosure of LLM-grounded long-horizon manipulation through affordance-mediated skill selection. Anticipates: (1) the architectural pattern of LLM language scoring × learned affordance scoring for hierarchical task planning — directly relevant to claims on language-grounded humanoid task planners (every modern 'speak-to-the-robot' product, from Tesla Optimus demos to Figure 02 OpenAI integration, descends from this); (2) the value-function-as-affordance grounding mechanism — relevant to claims on grounded language-to-action mappings; (3) the explicit decoupling of language reasoning (open-vocabulary) from low-level policy (closed-set skills) — relevant to modular VLA architectures. Heavily cited (>1500 citations); arXiv April 2022. Modern claims on 'language-conditioned long-horizon humanoid task planning' face this 4-year-deep 102 anchor.
+
+## Janner Diffuser planning with diffusion (2022-05)
+
+- **id**: `janner-diffuser-2022`
+- **corpus**: academic
+- **creator**: Michael Janner, Yilun Du, Joshua Tenenbaum, Sergey Levine, MIT/UC Berkeley
+- **disclosure**: Janner, Michael, Du, Yilun, Tenenbaum, Joshua B., Levine, Sergey. 'Planning with Diffusion for Flexible Behavior Synthesis.' Proceedings of the 39th International Conference on Machine Learning (ICML 2022), Baltimore, July 2022; arXiv:2205.09991, May 2022.
+- **ip status**: public-domain
+- **prior art notes**: Janner Diffuser is the foundational academic disclosure of trajectory-level diffusion as a planner/policy substrate for robotic control, predating Chi et al.'s Diffusion Policy by ~6 months. Anticipates with full specificity: (1) claims on diffusion models trained over state-action trajectories for robotic motion generation — Diffuser discloses the joint state-action trajectory diffusion architecture; (2) claims on classifier-guided sample-time reward/goal conditioning — Diffuser discloses gradient-guided sampling for arbitrary objective composition; (3) claims on receding-horizon diffusion replanning (MPC-style) — Diffuser discloses replan-each-step. >1500 citations; ICML 2022 proceedings and arXiv timestamped. Modern humanoid diffusion-policy IP claims face this 4-year-deep anchor — and importantly Diffuser predates the modern diffusion-policy boom and discloses generic trajectory diffusion before manipulator-specific patents filed in 2023+.
 
 ## Gato (DeepMind generalist agent) (2022-05-12)
 
@@ -330,6 +348,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: RT-2 is foundational publicly-disclosed prior art for VLA architectures applied to robotics. Any subsequent VLA patent claim must contend with this disclosure.
 
+## RH20T heterogeneous robot trajectory dataset (2023-07)
+
+- **id**: `rh20t-fang-2024`
+- **corpus**: academic
+- **creator**: Hao-Shu Fang et al., Shanghai Jiao Tong University Machine Vision and Intelligence Group
+- **disclosure**: Fang, Hao-Shu, Fang, Hongjie, Tang, Zhenyu, Liu, Jirong, Wang, Junbo, Zhu, Haoyi, Lu, Cewu. 'RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot.' arXiv:2307.00595, July 2023; ICRA 2024 workshop and project release.
+- **ip status**: public-domain
+- **prior art notes**: RH20T is one of the largest publicly-released heterogeneous robot trajectory datasets prior to OpenX-Embodiment. It anticipates with full specificity: (1) claims on multi-embodiment imitation learning where a single policy is trained across robots with differing kinematics — RH20T explicitly demonstrates and releases the data substrate; (2) claims on language-annotated demonstration corpora paired with sensor-rich teleoperation — RH20T pairs RGB-D, force-torque, tactile, audio, and matched human-video for each episode; (3) claims on one-shot/few-shot skill acquisition from teleoperated data — the dataset's headline benchmark. Released CC-BY 4.0 with timestamped arXiv and project page; broadly indexed. Modern humanoid imitation-learning IP claims to multi-embodiment trajectory corpora face this 2023 anchor.
+
+## BridgeData V2 multi-robot trajectory dataset (2023-08)
+
+- **id**: `bridgedata-v2-walke-2023`
+- **corpus**: academic
+- **creator**: Homer Walke et al., UC Berkeley RAIL / Stanford IRIS
+- **disclosure**: Walke, Homer, Black, Kevin, Zhao, Tony, Vuong, Quan, Zheng, Chongyi, Hansen-Estruch, Philippe, He, Andre Wang, Myers, Vivek, Kim, Moo Jin, Du, Max, Lee, Abraham, Fang, Kuan, Finn, Chelsea, Levine, Sergey. 'BridgeData V2: A Dataset for Robot Learning at Scale.' Conference on Robot Learning (CoRL) 2023; arXiv:2308.12952, August 2023.
+- **ip status**: public-domain
+- **prior art notes**: BridgeData V2 is the canonical scaled trajectory dataset for low-cost manipulator imitation learning prior to the foundation-model robotic policy era. It anticipates with full specificity: (1) claims on language-conditioned manipulation policies trained from scaled demonstration data — BridgeV2 pairs natural-language instructions with each episode and is the headline training corpus for RT-1, RT-2 and Octo follow-ons; (2) claims on cross-environment generalization of imitation policies — the 24-environment span is its core benchmark; (3) claims on affordable-platform shared trajectory infrastructure (the WidowX 250s standardization) anticipating community-platform humanoid IP. Released under CC-BY-4.0 with timestamped arXiv. Modern humanoid VLA training-data claims face this 2023 anchor at element-by-element specificity.
+
 ## Figure 01 (2023-10)
 
 - **id**: `figure-01`
@@ -347,6 +383,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Open X-Embodiment Collaboration. 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models.' arXiv 2310.08864, October 2023.
 - **ip status**: open-permissive
 - **prior art notes**: Open X-Embodiment is the dominant publicly-disclosed prior art for cross-embodiment learning. The dataset itself plus the architectural paper anticipate broad swaths of cross-platform manipulation foundation model claims.
+
+## Eureka LLM-driven reward design (2023-10)
+
+- **id**: `eureka-ma-2023`
+- **corpus**: academic
+- **creator**: Yecheng Jason Ma et al., NVIDIA / UPenn / Caltech / UT Austin
+- **disclosure**: Ma, Yecheng Jason, Liang, William, Wang, Guanzhi, Huang, De-An, Bastani, Osbert, Jayaraman, Dinesh, Zhu, Yuke, Fan, Linxi, Anandkumar, Anima. 'Eureka: Human-Level Reward Design via Coding Large Language Models.' arXiv:2310.12931, October 2023; ICLR 2024.
+- **ip status**: public-domain
+- **prior art notes**: Eureka is the canonical academic disclosure of LLM-authored reward functions for robotic RL, an entire engineering layer that prior IP and academic work treated as human craftsmanship. Anticipates with full specificity: (1) claims on automatic reward function generation for humanoid skill learning — Eureka discloses the LLM-authoring + sim-evaluation + reflective-rewriting closed loop; (2) claims on evolutionary refinement of reward code — Eureka's headline contribution; (3) claims on LLM-in-the-loop sim-to-real pipelines for dexterous and locomotion tasks — Eureka demonstrates Shadow Hand pen-spinning at human-comparable performance. Code and prompts released open-source on GitHub (NVlabs/Eureka). >800 citations within 18 months. Modern humanoid LLM-reward-design IP claims face this 2.5-year-deep anchor with full code disclosure.
 
 ## Mobile ALOHA (2024-01-04)
 

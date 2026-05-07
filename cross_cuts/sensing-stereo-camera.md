@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `sensing-stereo-camera`
 
-**61 corpus entries disclose this subsystem.**
+**68 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1973
 
@@ -195,6 +195,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: HSR's telescoping torso with whole-body control is significant prior art for domestic-context wheeled humanoid claims.
 
+## CMU HERB (Home Exploring Robotic Butler) (2012-04)
+
+- **id**: `cmu-herb-srinivasa-2012`
+- **corpus**: academic
+- **creator**: Siddhartha Srinivasa et al., Carnegie Mellon Personal Robotics Lab / Intel Labs Pittsburgh
+- **disclosure**: Srinivasa, Siddhartha S., Berenson, Dmitry, Cakmak, Maya, Collet, Alvaro, Dogar, Mehmet R., Dragan, Anca D., Knepper, Ross A., Niemueller, Tim, Strabala, Kyle, Vande Weghe, Mike, Ziegler, Julius. 'HERB 2.0: Lessons Learned from Developing a Mobile Manipulator for the Home.' Proceedings of the IEEE 100(8): 2410-2428, August 2012. Original disclosure: Srinivasa, S. et al. 'HERB: a home exploring robotic butler.' Autonomous Robots 28(1): 5-20, January 2010.
+- **ip status**: public-domain
+- **prior art notes**: CMU HERB is one of the most extensively-published academic mobile-manipulator humanoid platforms (>50 papers across 2008-2018). Anticipates with full specificity: (1) claims on home-environment dual-arm humanoid manipulation — HERB's headline contribution including kitchen/office task suite, fridge/microwave/dishwasher manipulation; (2) claims on legible/predictable HRI motion synthesis — Dragan-Srinivasa 2013 'Legibility and Predictability of Robot Motion' is part of the HERB program and anticipates current humanoid social-motion IP; (3) claims on cable-driven backdrivable arms with underactuated 3-finger hands for home manipulation — Barrett WAM + BH-280 are the explicit instantiation; (4) claims on manipulation-among-movable-obstacles planning. Proceedings of IEEE article and Autonomous Robots paper provide deeply-cited timestamped disclosure. Modern home-humanoid IP filings (1X NEO Gamma, Figure 02 home demos) face this 14-year-deep academic anchor.
+
 ## NASA Valkyrie (2013)
 
 - **id**: `nasa-valkyrie`
@@ -249,6 +258,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Spot is the most commercially deployed quadruped robot. BD's Spot patents face deep prior art from MIT Cheetah series, ANYmal lineage, and academic quadruped literature.
 
+## Levine Guided Policy Search end-to-end manipulation on PR2/BRETT (2015-04)
+
+- **id**: `levine-gps-pr2-2016`
+- **corpus**: academic
+- **creator**: Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel, UC Berkeley
+- **disclosure**: Levine, Sergey, Finn, Chelsea, Darrell, Trevor, Abbeel, Pieter. 'End-to-End Training of Deep Visuomotor Policies.' Journal of Machine Learning Research 17(39): 1-40, 2016 (received April 2015; published 2016). Earlier: Levine, S., Wagener, N., Abbeel, P. 'Learning Contact-Rich Manipulation Skills with Guided Policy Search.' ICRA 2015.
+- **ip status**: public-domain
+- **prior art notes**: Levine et al. 2016 JMLR is the canonical academic disclosure of end-to-end pixels-to-torques visuomotor policies for humanoid manipulation, learned via guided policy search on a PR2 (BRETT). Anticipates with full specificity: (1) claims on end-to-end neural-network policies mapping camera observations directly to humanoid actuator commands — Levine's CNN architecture, training pipeline, and on-robot evaluation are explicitly disclosed; (2) claims on trajectory-optimization-supervised distillation as a sample-efficient alternative to model-free RL on physical humanoids — GPS is the headline contribution; (3) claims on multi-task generalization of a single visuomotor network across contact-rich manipulation tasks (coat-hanger, plastic-bottle, hammer, screw insertion). >3500 citations; JMLR open access; arXiv preprint 2015. The lineage runs directly forward to RT-1, RT-2, OpenVLA, and modern humanoid VLA systems. Modern humanoid end-to-end visuomotor IP filings face this 11-year-deep anchor with full architecture disclosure.
+
 ## ANYmal (2016)
 
 - **id**: `anymal`
@@ -267,6 +285,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Hanson's Frubber synthetic skin material and facial actuation prior art is significant for any claim around expressive humanoid faces. Disney Imagineering's earlier work is the deeper prior art.
 
+## KX-series Imperial Security Droids (K-2SO) (2016-12)
+
+- **id**: `kx-series-k2so-2016`
+- **corpus**: fictional
+- **creator**: Lucasfilm / Disney (Gareth Edwards director, Tony Gilroy writer for Andor)
+- **disclosure**: Edwards, Gareth (dir.). Rogue One: A Star Wars Story. Lucasfilm / Disney, December 16, 2016. Subsequent appearances: Andor (Disney+ TV series), 2022; Star Wars: From a Certain Point of View, Del Rey, 2017.
+- **ip status**: fictional
+- **prior art notes**: The KX-series Imperial security droid (Rogue One 2016, Andor 2022) provides a high-visibility fictional disclosure of mass-deployed humanoid security/combat droids with explicit reprogramming and behavioral-mode architecture. Anticipates with full specificity: (1) claims on humanoid security platforms with checkpoint-officer / combat-infantry dual-mode behavioral architecture — K-2SO's mode-switching is explicit in Rogue One and central to Andor; (2) claims on reprogrammable humanoid platforms where the OEM identity (Imperial) is overwritten by post-deployment reprogramming (Rebellion service); (3) claims on humanoid platforms with integrated language-affect modules (the sarcasm/dry-wit subsystem); (4) claims on native infantry-weapon-handling humanoid droids as part of standardized fleet equipment loadouts. Worldwide theatrical release Dec 2016 + Disney+ Andor 2022-2025 + Lucasfilm visual dictionaries provide deep timestamped disclosure with technical specifications in companion publications.
+
 ## PAL TALOS (2017)
 
 - **id**: `pal-talos`
@@ -275,6 +302,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stasse, O. et al. 'TALOS: A new humanoid research platform targeted for industrial applications.' IEEE Humanoids 2017.
 - **ip status**: patented
 - **prior art notes**: TALOS is among the better-published European industrial humanoids. Stasse 2017 IEEE Humanoids paper provides comprehensive design disclosure.
+
+## Reachy 1 (Pollen Robotics open-source humanoid) (2017-09)
+
+- **id**: `reachy-1-pollen-2017`
+- **corpus**: open
+- **creator**: Pollen Robotics / INRIA Flowers (Pierre Rouanet, Matthieu Lapeyre, Pierre-Yves Oudeyer)
+- **disclosure**: Mick, Sébastien, Lapeyre, Matthieu, Rouanet, Pierre, Halgand, Christophe, Benois-Pineau, Jenny, Paclet, Florent, Cattaert, Daniel, Oudeyer, Pierre-Yves, de Rugy, Aymar. 'Reachy, a 3D-Printed Human-Like Robotic Arm as a Testbed for Human-Robot Control Strategies.' Frontiers in Neurorobotics 13:65, September 2019. Original release: Pollen Robotics / INRIA Flowers, 2017 GitHub release of Reachy v1 (poppy-project lineage).
+- **ip status**: open-source
+- **prior art notes**: Reachy 1 (Pollen Robotics 2017, INRIA Flowers lineage) is one of the earliest fully-open-hardware humanoid torso platforms with a published research-grade SDK predating commercial offerings. Anticipates with full specificity: (1) claims on 3D-printed open-hardware humanoid arms with Dynamixel-class actuation — Reachy 1's STL/STEP CAD and firmware are publicly archived since 2017; (2) claims on research-substrate Python SDKs for humanoid telemanipulation — reachy-sdk on GitHub at v0.x predates most commercial humanoid SDK offerings; (3) claims on dual-arm research-platform configurations with anthropomorphic spherical wrists. The 2019 Frontiers paper provides peer-reviewed timestamped disclosure; GitHub commits provide finer-grained 2016-2017 priority. Existing corpus 'reachy' entry should reference this v1 ancestor. Modern open-humanoid IP filings face Reachy 1 at 9-year-deep anchor.
 
 ## Toyota T-HR3 (2017-11)
 
@@ -320,6 +356,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaneko, K. et al. 'Humanoid Robot HRP-5P: An Electrically Actuated Humanoid Robot With High-Power and Wide-Range Joints.' IEEE Robotics and Automation Letters 4(2), 2019.
 - **ip status**: open-permissive
 - **prior art notes**: HRP-5P's construction-task demonstrations and high-power actuator disclosures are among the most thoroughly published examples of humanoid construction work. Anticipates many subsequent industrial humanoid claims.
+
+## Stanford JackRabbot 2 (JR-2) wheeled-arm research robot (2018-10)
+
+- **id**: `stanford-jr2-2018`
+- **corpus**: academic
+- **creator**: Stanford Vision and Learning Lab (Silvio Savarese et al.)
+- **disclosure**: Martín-Martín, Roberto, Patel, Mihir, Rezatofighi, Hamid, Shenoi, Abhijeet, Gwak, JunYoung, Frankel, Eric, Sadeghian, Amir, Savarese, Silvio. 'JRDB: A Dataset and Benchmark for Visual Perception for Navigation in Human Environments.' arXiv:1910.11792, October 2019. Robot platform first disclosed: Stanford Vision and Learning Lab, October 2018 release announcement; JRDB dataset released alongside.
+- **ip status**: public-domain
+- **prior art notes**: Stanford JR-2 (2018) is a canonical academic wheeled-arm research humanoid for social navigation research, with associated public benchmark dataset (JRDB). Anticipates with full specificity: (1) claims on wheeled-balancing humanoids with dual mounted manipulators at human shoulder height — JR-2's Segway-base + dual Kinova architecture is a published exemplar; (2) claims on 360° multi-modal sensor fusion (lidar+cameras+audio) for human-environment navigation — JR-2 carries the full sensor stack; (3) claims on human-aware social navigation benchmarks paired with platform — JRDB releases 64 minutes of annotated multi-modal data alongside the platform. Stanford SVL hosts CAD/sensor specs and the JRDB benchmark openly. Modern wheeled-humanoid IP filings (Apptronik Apollo, Agility Cassie/Digit base, 1X NEO) face this 8-year-deep academic anchor.
 
 ## Digit (2019-01)
 
@@ -411,6 +456,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Fourier transitions from rehabilitation exoskeletons to humanoids; actuator IP from exoskeleton work potentially anticipates some humanoid actuator claims by other companies.
 
+## RH20T heterogeneous robot trajectory dataset (2023-07)
+
+- **id**: `rh20t-fang-2024`
+- **corpus**: academic
+- **creator**: Hao-Shu Fang et al., Shanghai Jiao Tong University Machine Vision and Intelligence Group
+- **disclosure**: Fang, Hao-Shu, Fang, Hongjie, Tang, Zhenyu, Liu, Jirong, Wang, Junbo, Zhu, Haoyi, Lu, Cewu. 'RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot.' arXiv:2307.00595, July 2023; ICRA 2024 workshop and project release.
+- **ip status**: public-domain
+- **prior art notes**: RH20T is one of the largest publicly-released heterogeneous robot trajectory datasets prior to OpenX-Embodiment. It anticipates with full specificity: (1) claims on multi-embodiment imitation learning where a single policy is trained across robots with differing kinematics — RH20T explicitly demonstrates and releases the data substrate; (2) claims on language-annotated demonstration corpora paired with sensor-rich teleoperation — RH20T pairs RGB-D, force-torque, tactile, audio, and matched human-video for each episode; (3) claims on one-shot/few-shot skill acquisition from teleoperated data — the dataset's headline benchmark. Released CC-BY 4.0 with timestamped arXiv and project page; broadly indexed. Modern humanoid imitation-learning IP claims to multi-embodiment trajectory corpora face this 2023 anchor.
+
 ## Unitree H1 (2023-08)
 
 - **id**: `unitree-h1`
@@ -437,6 +491,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AgiBot (Shanghai Zhiyuan New Technology) public reveal, August 2023.
 - **ip status**: patented
 - **prior art notes**: AgiBot's actuator IP heavily anticipated by Honda P-series harmonic drive work and MIT Cheetah QDD lineage. Chinese-language patent filings should be enumerated in strengthening pass.
+
+## BridgeData V2 multi-robot trajectory dataset (2023-08)
+
+- **id**: `bridgedata-v2-walke-2023`
+- **corpus**: academic
+- **creator**: Homer Walke et al., UC Berkeley RAIL / Stanford IRIS
+- **disclosure**: Walke, Homer, Black, Kevin, Zhao, Tony, Vuong, Quan, Zheng, Chongyi, Hansen-Estruch, Philippe, He, Andre Wang, Myers, Vivek, Kim, Moo Jin, Du, Max, Lee, Abraham, Fang, Kuan, Finn, Chelsea, Levine, Sergey. 'BridgeData V2: A Dataset for Robot Learning at Scale.' Conference on Robot Learning (CoRL) 2023; arXiv:2308.12952, August 2023.
+- **ip status**: public-domain
+- **prior art notes**: BridgeData V2 is the canonical scaled trajectory dataset for low-cost manipulator imitation learning prior to the foundation-model robotic policy era. It anticipates with full specificity: (1) claims on language-conditioned manipulation policies trained from scaled demonstration data — BridgeV2 pairs natural-language instructions with each episode and is the headline training corpus for RT-1, RT-2 and Octo follow-ons; (2) claims on cross-environment generalization of imitation policies — the 24-environment span is its core benchmark; (3) claims on affordable-platform shared trajectory infrastructure (the WidowX 250s standardization) anticipating community-platform humanoid IP. Released under CC-BY-4.0 with timestamped arXiv. Modern humanoid VLA training-data claims face this 2023 anchor at element-by-element specificity.
 
 ## Figure 01 (2023-10)
 

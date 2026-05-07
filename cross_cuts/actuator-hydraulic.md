@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**20 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -167,6 +167,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics PETMAN program, DOD-funded, public videos beginning 2009.
 - **ip status**: trade-secret
 - **prior art notes**: Direct ancestor of Atlas; establishes Boston Dynamics' hydraulic bipedal lineage.
+
+## Knights of Sidonia (Garde mecha) (2009-04)
+
+- **id**: `knights-of-sidonia-2013`
+- **corpus**: fictional
+- **creator**: Tsutomu Nihei (mangaka), Polygon Pictures (anime)
+- **disclosure**: Nihei, Tsutomu. Knights of Sidonia (Sidonia no Kishi). Afternoon, Kodansha, April 2009 - September 2015 (15 collected volumes). Anime: Polygon Pictures / Kodansha, April 2014 - June 2014 (Season 1) / April 2015 - June 2015 (Season 2).
+- **ip status**: fictional
+- **prior art notes**: Nihei's Knights of Sidonia (2009-2015 manga, 2014-2015 anime) provides one of the most engineering-detailed mecha disclosures in 21st-century manga. Anticipates with full specificity: (1) claims on humanoid combat platform version-succession architectures with documented capability progression (Type-17 > Type-18 > Type-19); (2) claims on cockpit-piloted neural-interface humanoid combat platforms with full-body harness — the Garde cockpit is panel-explicit across multiple chapters; (3) claims on modular weapon/manipulator/shield reconfiguration on a single humanoid airframe; (4) claims on fleet-scale formation-flight neural-interface mecha with chain-of-command coordination architecture. Nihei's signature engineering-realist art style provides far more mechanism specificity than typical mecha anime; the Polygon Pictures CG anime preserved this fidelity. Six-year manga serialization plus two-season anime (and 2021 sequel film) provide deep timestamped disclosure.
 
 ## Atlas (2013-07)
 

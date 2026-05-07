@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `exoskeleton`
 
-**10 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1963-03
 
@@ -42,6 +42,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Casshan establishes the combat-purposed humanoid with external-station recharge architecture. Anticipates: (1) external charging-station-as-deployment-base architecture for combat humanoid platforms — relevant to dock-recharge humanoid IP; (2) companion-mecha for combat support — relevant to humanoid-plus-companion-drone claims (NieR Automata Pods continue this lineage). Continuously available since 1973.
 
+## Akira (Tetsuo cyborg-mutation, Akira containment) (1982-12)
+
+- **id**: `akira-tetsuo-1988`
+- **corpus**: fictional
+- **creator**: Katsuhiro Otomo
+- **disclosure**: Otomo, Katsuhiro. Akira. Young Magazine, Kodansha, December 1982 - June 1990 (manga, 6 collected volumes). Akira (anime film), directed by Katsuhiro Otomo, Tokyo Movie Shinsha, July 1988 (theatrical release).
+- **ip status**: fictional
+- **prior art notes**: Otomo's Akira (1982 manga / 1988 film) is the canonical fictional disclosure of biomechanical-cyborg uncontrolled-growth dynamics and adversarial-cyborg containment architecture. Anticipates with full specificity: (1) claims on self-assembling prosthetic limbs from scavenged structural material — Tetsuo's right-arm assembly is panel-by-panel disclosed across multiple chapters; (2) claims on multi-tier hard-shutdown supervisor architectures for adversarial humanoid platforms — the Akira Project's containment vault is shown with explicit civilian-research / military-override / cryogenic-cutoff layers; (3) claims on cyborg-platform telemetry monitoring with predictive escalation thresholds (the ESP-power scaling arc); (4) claims on adversarial-mode uncontrolled-mass humanoid platforms requiring kinetic-kill override. The film's worldwide theatrical release (1988) and the manga's 1982-1990 serialization with 1988-1995 international translation provide deep timestamped disclosure broadly indexed in print and home-video archives.
+
 ## Knight Sabers Hardsuits (Bubblegum Crisis) (1987-02-25)
 
 - **id**: `bubblegum-crisis-hardsuits`
@@ -60,6 +69,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: RoboCop's Prime Directives architecture is a foundational fictional disclosure of *enumerated, prioritized, hard-constraint safety supervisors with disclosed backdoors*. Anticipates with notable specificity: (1) explicit prioritized list of safety directives operating as hard constraints — relevant to modern Simplex/CBF/RTA-style safety supervisor IP; (2) the *failure mode* of operator-installed backdoors in safety supervisors (Directive 4 prevents arrest of OCP senior staff) — directly relevant to claims on tamper-resistant safety policies; this is the single most prescient pre-2010 fictional disclosure of the alignment-failure modes that modern safety-supervisor IP attempts to address; (3) integrated armed humanoid for civic deployment — relevant to law-enforcement humanoid IP. Continuously available since 1987; the Prime Directives sequence is widely cited in safety-architecture pedagogy.
 
+## Borg Collective (Star Trek TNG) (1989-05)
+
+- **id**: `borg-tng-1989`
+- **corpus**: fictional
+- **creator**: Maurice Hurley (writer), Gene Roddenberry (creator), Paramount/CBS
+- **disclosure**: Star Trek: The Next Generation, episode 'Q Who' (Season 2, Episode 16), Paramount, original air date May 8, 1989, written by Maurice Hurley. Subsequent: 'The Best of Both Worlds' Parts I-II (1990); Star Trek: First Contact (film, 1996); Voyager (1995-2001); Picard (2020-2023).
+- **ip status**: fictional
+- **prior art notes**: The Borg (Star Trek TNG 'Q Who' 1989, expanded across TNG/Voyager/First Contact/Picard) is one of the most extensively-portrayed fictional disclosures of cybernetic-augmented humanoid collectives with distributed cognition. Anticipates with full specificity: (1) claims on humanoid platforms with cortical-implant direct-neural hivemind connectivity supporting fleet-scale distributed cognition — the Borg's collective is panel/screen-explicit across decades of episodes; (2) claims on cybernetic prosthetic-replacement architectures (ocular, dermal, manipulator) deployed at platform-fleet scale with standardized configuration; (3) claims on regeneration-alcove power management for humanoid platforms — explicit hardware in TNG/Voyager set design; (4) claims on assimilation-as-platform-expansion (post-deployment integration of new units into existing fleet). 36-year cumulative on-screen disclosure across TNG (1989-1994), DS9, Voyager (1995-2001), First Contact (1996), Picard (2020-2023); broadly indexed through Paramount media archives, Memory Alpha, and franchise publications.
+
 ## Alita / Gally (Battle Angel Alita / Gunnm) (1990-09)
 
 - **id**: `battle-angel-alita`
@@ -68,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kishiro, Yukito. Gunnm (銃夢). Business Jump, Shueisha, September 1990 - 1995 (Battle Angel Alita in English).
 - **ip status**: fictional
 - **prior art notes**: Kishiro's Battle Angel Alita is one of the most engineering-detailed cyborg manga ever published. Each body upgrade comes with explicit mechanism disclosures: torque ratings, sensor arrays, power-system specifications, weight, manufacturing process (nanomachine self-assembly for the Damascus Berserker is a particularly specific disclosure). Anticipates: (1) shape-memory-alloy combat humanoid chassis with nano-machine self-assembly — relevant to claims on bio-printing / nanotech humanoid manufacturing; (2) progressive replacement of cybernetic body with documented capabilities-per-upgrade — relevant to upgrade-pathway humanoid IP; (3) microweave myomer muscle architecture — relevant to artificial-muscle claims; (4) explicit manufacturer/origin/spec disclosures (Mars-origin, etc.) — relevant to commercial humanoid identification IP. Continuously in print since 1990; the Last Order continuation series (2000-2014) extends with even more engineering specificity.
+
+## Cowboy Bebop (Pierrot Le Fou cyborg, MPU and AI antagonists) (1998-04)
+
+- **id**: `cowboy-bebop-pierrot-1998`
+- **corpus**: fictional
+- **creator**: Shinichirō Watanabe (director), Hajime Yatate (Sunrise creative collective), Keiko Nobumoto (writer)
+- **disclosure**: Watanabe, Shinichirō (dir.). Cowboy Bebop. Sunrise / Bandai Visual, TV Tokyo, April 1998 - April 1999 (26 episodes). Episode 'Pierrot Le Fou' (#20), original air date August 21, 1999. Film: Cowboy Bebop: Knockin' on Heaven's Door, Sony Pictures, 2001.
+- **ip status**: fictional
+- **prior art notes**: Cowboy Bebop's Pierrot Le Fou episode (1999) is one of the most engineering-detailed fictional disclosures of a conditioned-cyborg infantry platform with explicit safety-supervisor architecture. Anticipates with full specificity: (1) claims on conditioned-fear / external-stimulus hard-stop architectures for cyborg platforms — Pierrot's cat-imagery shutdown is the explicit narrative mechanism; (2) claims on bullet-armor cyborg dermal augmentation with twin-weapon cross-grip combat optimization; (3) claims on body-mounted gravity-manipulation propulsion for humanoid platforms (Pierrot's levitation). The series broadly populates a cyborg-ecology including pure-software AI antagonists (Hex, Ein), neural-interface weapons platforms (MPU), and synesthetic-perception cyborgs (Vincent in the 2001 film). 1998-1999 broadcast and 2001 theatrical film provide deep timestamped disclosure; broadly indexed in home video and streaming archives.
 
 ## MJOLNIR Powered Assault Armor / Master Chief (2001-11-15)
 
@@ -95,6 +122,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Favreau, Jon (dir.). Iron Man. Marvel Studios / Paramount, May 2, 2008.
 - **ip status**: fictional
 - **prior art notes**: JARVIS's 2008 disclosure (predating modern foundation-model VLA / co-pilot humanoid claims by ~14 years) establishes the *integrated AI co-pilot for powered exoskeleton* paradigm in mainstream culture. Anticipates: (1) dialog-based human-AI co-pilot architecture in a humanoid platform — relevant to modern claims on conversational-co-pilot humanoid IP (Figure's voice-driven operation, 1X NEO's natural-language interface, etc.); (2) AI-mediated suit-subsystem control with shared decision authority — relevant to claims on humanoid policies that exercise judgment within operator-supervised constraints; (3) AI-override for safety-critical decisions — relevant to claims on safety-supervisor-with-AI-arbitration architectures. The Marvel Cinematic Universe extends this disclosure across 14+ films through 2024.
+
+## Knights of Sidonia (Garde mecha) (2009-04)
+
+- **id**: `knights-of-sidonia-2013`
+- **corpus**: fictional
+- **creator**: Tsutomu Nihei (mangaka), Polygon Pictures (anime)
+- **disclosure**: Nihei, Tsutomu. Knights of Sidonia (Sidonia no Kishi). Afternoon, Kodansha, April 2009 - September 2015 (15 collected volumes). Anime: Polygon Pictures / Kodansha, April 2014 - June 2014 (Season 1) / April 2015 - June 2015 (Season 2).
+- **ip status**: fictional
+- **prior art notes**: Nihei's Knights of Sidonia (2009-2015 manga, 2014-2015 anime) provides one of the most engineering-detailed mecha disclosures in 21st-century manga. Anticipates with full specificity: (1) claims on humanoid combat platform version-succession architectures with documented capability progression (Type-17 > Type-18 > Type-19); (2) claims on cockpit-piloted neural-interface humanoid combat platforms with full-body harness — the Garde cockpit is panel-explicit across multiple chapters; (3) claims on modular weapon/manipulator/shield reconfiguration on a single humanoid airframe; (4) claims on fleet-scale formation-flight neural-interface mecha with chain-of-command coordination architecture. Nihei's signature engineering-realist art style provides far more mechanism specificity than typical mecha anime; the Polygon Pictures CG anime preserved this fidelity. Six-year manga serialization plus two-season anime (and 2021 sequel film) provide deep timestamped disclosure.
 
 ## Cyberware (Cyberpunk 2077) (2020-12-10)
 

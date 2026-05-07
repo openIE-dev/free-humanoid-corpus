@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**88 corpus entries disclose this subsystem.**
+**97 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -186,6 +186,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Salisbury's 1982 thesis is the foundational academic disclosure of dexterous tendon-driven multi-finger hands with analytic grasp planning. Anticipates with mechanism-level specificity: (1) N+1 antagonistic tendon architecture for fingers — directly relevant to claims on tendon-driven humanoid hand actuators (Tesla Optimus hand, Figure hand, 1X hand); (2) the grasp matrix G and grip Jacobian formalism — anticipates virtually every modern grasp-planning patent; (3) force-closure analysis for grasp synthesis — relevant to grasp-search IP; (4) per-finger stiffness control — relevant to compliant-grasp claims. Salisbury later co-developed the PHANToM haptic device using the same kinematic framework. Thesis publicly available through Stanford Libraries; the IJRR companion paper has >2000 citations. 44-year-deep 102 anchor.
 
+## Akira (Tetsuo cyborg-mutation, Akira containment) (1982-12)
+
+- **id**: `akira-tetsuo-1988`
+- **corpus**: fictional
+- **creator**: Katsuhiro Otomo
+- **disclosure**: Otomo, Katsuhiro. Akira. Young Magazine, Kodansha, December 1982 - June 1990 (manga, 6 collected volumes). Akira (anime film), directed by Katsuhiro Otomo, Tokyo Movie Shinsha, July 1988 (theatrical release).
+- **ip status**: fictional
+- **prior art notes**: Otomo's Akira (1982 manga / 1988 film) is the canonical fictional disclosure of biomechanical-cyborg uncontrolled-growth dynamics and adversarial-cyborg containment architecture. Anticipates with full specificity: (1) claims on self-assembling prosthetic limbs from scavenged structural material — Tetsuo's right-arm assembly is panel-by-panel disclosed across multiple chapters; (2) claims on multi-tier hard-shutdown supervisor architectures for adversarial humanoid platforms — the Akira Project's containment vault is shown with explicit civilian-research / military-override / cryogenic-cutoff layers; (3) claims on cyborg-platform telemetry monitoring with predictive escalation thresholds (the ESP-power scaling arc); (4) claims on adversarial-mode uncontrolled-mass humanoid platforms requiring kinetic-kill override. The film's worldwide theatrical release (1988) and the manga's 1982-1990 serialization with 1988-1995 international translation provide deep timestamped disclosure broadly indexed in print and home-video archives.
+
 ## T-800 (1984-10-26)
 
 - **id**: `t-800-terminator`
@@ -240,6 +249,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Lore's 1988 disclosure establishes the *mass-produced-class identical-platform-with-different-supervisor* architecture (Lore and Data are mechanically identical Soong-type units; their behavior differs because of supervisor configuration). Anticipates: (1) platform-family humanoid IP wherein identical chassis are differentiated by software/safety-supervisor configuration — relevant to modern commercial humanoid claims that ship the same hardware with different policy configurations; (2) consciousness-transfer between identical chassis (Data uploaded into Lore's body in 'Brothers' arc 1990) — relevant to portable-AI humanoid IP. Continuously available since 1988.
 
+## Borg Collective (Star Trek TNG) (1989-05)
+
+- **id**: `borg-tng-1989`
+- **corpus**: fictional
+- **creator**: Maurice Hurley (writer), Gene Roddenberry (creator), Paramount/CBS
+- **disclosure**: Star Trek: The Next Generation, episode 'Q Who' (Season 2, Episode 16), Paramount, original air date May 8, 1989, written by Maurice Hurley. Subsequent: 'The Best of Both Worlds' Parts I-II (1990); Star Trek: First Contact (film, 1996); Voyager (1995-2001); Picard (2020-2023).
+- **ip status**: fictional
+- **prior art notes**: The Borg (Star Trek TNG 'Q Who' 1989, expanded across TNG/Voyager/First Contact/Picard) is one of the most extensively-portrayed fictional disclosures of cybernetic-augmented humanoid collectives with distributed cognition. Anticipates with full specificity: (1) claims on humanoid platforms with cortical-implant direct-neural hivemind connectivity supporting fleet-scale distributed cognition — the Borg's collective is panel/screen-explicit across decades of episodes; (2) claims on cybernetic prosthetic-replacement architectures (ocular, dermal, manipulator) deployed at platform-fleet scale with standardized configuration; (3) claims on regeneration-alcove power management for humanoid platforms — explicit hardware in TNG/Voyager set design; (4) claims on assimilation-as-platform-expansion (post-deployment integration of new units into existing fleet). 36-year cumulative on-screen disclosure across TNG (1989-1994), DS9, Voyager (1995-2001), First Contact (1996), Picard (2020-2023); broadly indexed through Paramount media archives, Memory Alpha, and franchise publications.
+
 ## Major Motoko Kusanagi (Ghost in the Shell) (1989-05-22)
 
 - **id**: `ghost-in-the-shell-major`
@@ -266,6 +284,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hirose, M. and Ogawa, K. 'Honda humanoid robots development.' Phil. Trans. R. Soc. A 365, 11–19 (2007).
 - **ip status**: trade-secret
 - **prior art notes**: Transition from legs-only to full humanoid in the Honda lineage. P1 is the architectural ancestor of ASIMO. Anticipates subsequent claims around full-humanoid actuated platforms with arms and legs.
+
+## Armitage III (third-generation androids) (1995-04)
+
+- **id**: `armitage-iii-1995`
+- **corpus**: fictional
+- **creator**: Hiroyuki Ochi (director), Chiaki J. Konaka (writer), Hiroyuki Ochi / Hidetoshi Ohmori (character design)
+- **disclosure**: Ochi, Hiroyuki (dir.). Armitage III. AIC / Pioneer LDC, April 1995 - January 1996 (4-episode OVA). Theatrical compilation: Armitage III: Poly-Matrix, Pioneer 1996. Sequel: Armitage III: Dual-Matrix, Pioneer 2002.
+- **ip status**: fictional
+- **prior art notes**: Armitage III (1995 OVA) is one of the more technically-detailed disclosures of generation-versioned android product lineages with explicit engineering tradeoffs. Anticipates with full specificity: (1) claims on generation-versioned humanoid android product families with documented capability succession (1st industrial > 2nd service > 3rd reproductive-integrated); (2) claims on engineered biographical-memory implantation for social passing — explicit narrative mechanism in Naomi's backstory; (3) claims on bio-mechanical-hybrid humanoid platforms blurring reproductive-organic and electromechanical subsystems; (4) claims on concealed-synthetic-identity android operation with specialized failure-mode handling (the 'Thirds' are hunted because their existence is politically destabilizing). 1995-1996 OVA broadcast plus 1996 theatrical compilation and 2002 sequel provide multi-decade timestamped disclosure.
 
 ## Robonaut 1 (1996)
 
@@ -384,6 +411,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: NAO's mechatronic design publication is well-cited prior art. The platform's wide academic distribution since 2006 makes its design choices broadly disclosed.
 
+## Ergo Proxy (Autoreivs and Proxies) (2006-02)
+
+- **id**: `ergo-proxy-2006`
+- **corpus**: fictional
+- **creator**: Shukō Murase (director), Dai Satō (writer), Naoyuki Onda (character design)
+- **disclosure**: Murase, Shukō (dir.). Ergo Proxy. Manglobe / Geneon Universal, February 2006 - August 2006 (23 episodes).
+- **ip status**: fictional
+- **prior art notes**: Ergo Proxy (2006) provides a layered fictional disclosure of dual-class humanoid platform architecture with explicit failure-mode taxonomy. Anticipates with full specificity: (1) claims on humanoid platforms with viral-cognition failure modes producing emergent self-awareness — the Cogito virus is panel-explicit and traces the failure to OS infection; (2) claims on morphological-transformation humanoid platforms with multiple combat-and-utility configurations (the Proxies); (3) claims on sealed-environment / domed-city humanoid product ecosystems where androids handle external-environment tasks too hostile for biological humans; (4) claims on multi-class humanoid hierarchies (mass-produced Autoreiv vs. unique-instance Proxy). 23-episode 2006 broadcast, broadly indexed; cited in multiple academic studies of cyborg fiction (Kavka, Bolter & Grusin extensions).
+
 ## Toyota Partner Robot (Violin) (2007)
 
 - **id**: `toyota-partner-robot-violin`
@@ -419,6 +455,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wyrobek, K.A. et al. 'Towards a Personal Robotics Development Platform: Rationale and Design of an Intrinsically Safe Personal Robot.' ICRA 2008.
 - **ip status**: open-permissive
 - **prior art notes**: PR1 is significant prior art for safety-by-design humanoid robotics. Cable-driven intrinsically-safe architecture anticipates several modern compliant-actuator humanoid claims.
+
+## Time of EVE (household-robot reflective awareness) (2008-08)
+
+- **id**: `time-of-eve-2008`
+- **corpus**: fictional
+- **creator**: Yasuhiro Yoshiura, Studio Rikka
+- **disclosure**: Yoshiura, Yasuhiro (dir.). Eve no Jikan (Time of EVE). Studio Rikka, ONA, August 2008 - September 2009 (6 episodes); theatrical version 2010.
+- **ip status**: fictional
+- **prior art notes**: Yoshiura's Time of EVE (2008-2010) is a precise fictional disclosure of context-aware social-mode-switching for household humanoid robots. Anticipates with full specificity: (1) claims on humanoid robots with externally-visible android-status indicators (the holographic ring) that can be voluntarily suppressed in defined contexts — directly relevant to consumer-humanoid identification-disclosure UX patents; (2) claims on context-conditional behavioral mode supervisors (formal-compliance-mode vs. informal-passing-mode) — the café's rule architecture is panel-explicit; (3) claims on Three-Laws-derived ethical-conflict resolution kernels for service humanoids; (4) claims on consumer-grade humanoid platforms targeting domestic household integration with fully indistinguishable-from-human external presentation. ONA broadcast 2008-2009, theatrical 2010, broadly indexed.
 
 ## DLR Justin (Rollin' Justin) (2009-05)
 
@@ -473,6 +518,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Langevin, Gaël. InMoov project launch, 2012.
 - **ip status**: open-permissive
 - **prior art notes**: InMoov has been replicated globally thousands of times since 2012; the design is among the most-built humanoid platforms in history. Anticipates: 3D-printed tendon-driven anthropomorphic hands, modular humanoid construction.
+
+## CMU HERB (Home Exploring Robotic Butler) (2012-04)
+
+- **id**: `cmu-herb-srinivasa-2012`
+- **corpus**: academic
+- **creator**: Siddhartha Srinivasa et al., Carnegie Mellon Personal Robotics Lab / Intel Labs Pittsburgh
+- **disclosure**: Srinivasa, Siddhartha S., Berenson, Dmitry, Cakmak, Maya, Collet, Alvaro, Dogar, Mehmet R., Dragan, Anca D., Knepper, Ross A., Niemueller, Tim, Strabala, Kyle, Vande Weghe, Mike, Ziegler, Julius. 'HERB 2.0: Lessons Learned from Developing a Mobile Manipulator for the Home.' Proceedings of the IEEE 100(8): 2410-2428, August 2012. Original disclosure: Srinivasa, S. et al. 'HERB: a home exploring robotic butler.' Autonomous Robots 28(1): 5-20, January 2010.
+- **ip status**: public-domain
+- **prior art notes**: CMU HERB is one of the most extensively-published academic mobile-manipulator humanoid platforms (>50 papers across 2008-2018). Anticipates with full specificity: (1) claims on home-environment dual-arm humanoid manipulation — HERB's headline contribution including kitchen/office task suite, fridge/microwave/dishwasher manipulation; (2) claims on legible/predictable HRI motion synthesis — Dragan-Srinivasa 2013 'Legibility and Predictability of Robot Motion' is part of the HERB program and anticipates current humanoid social-motion IP; (3) claims on cable-driven backdrivable arms with underactuated 3-finger hands for home manipulation — Barrett WAM + BH-280 are the explicit instantiation; (4) claims on manipulation-among-movable-obstacles planning. Proceedings of IEEE article and Autonomous Robots paper provide deeply-cited timestamped disclosure. Modern home-humanoid IP filings (1X NEO Gamma, Figure 02 home demos) face this 14-year-deep academic anchor.
 
 ## NASA Valkyrie (2013)
 
@@ -537,6 +591,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Anticipates inflatable / pneumatic soft-body humanoid architecture for human-safe medical interaction. Notably, the Baymax design is *grounded* in real CMU Robotics Institute research: Atkeson and colleagues at CMU developed inflatable pneumatic robotic arms specifically to demonstrate the safety properties shown in the film. The 2014 release date follows actual academic work on inflatable robots published in 2011-2014. Modern patents on soft-pneumatic medical/care humanoids face this combined fictional+academic disclosure as 102/103 prior art. The film is continuously in distribution; CMU's research is in IEEE proceedings.
 
+## Plastic Memories (Giftia humanoids with explicit lifecycle) (2015-04)
+
+- **id**: `plastic-memories-2015`
+- **corpus**: fictional
+- **creator**: Naotaka Hayashi (writer), Doga Kobo
+- **disclosure**: Hayashi, Naotaka (writer); Fujiwara, Yoshiyuki (dir.). Plastic Memories. Doga Kobo / Aniplex, April 2015 - June 2015 (13 episodes).
+- **ip status**: fictional
+- **prior art notes**: Plastic Memories (2015) is one of the most engineering-explicit fictional disclosures of bounded-lifespan consumer humanoid product architectures with manufacturer-operated decommissioning services. Anticipates with full specificity: (1) claims on consumer humanoid platforms with manufacturer-imposed maximum operational lifespans and post-lifespan failure-mode classification — Giftia's 81,920-hour bound and personality-coherence-degradation failure mode are panel-explicit; (2) claims on manufacturer-operated humanoid end-of-life retrieval, transport, and witnessed-decommissioning protocols — the Terminal Service is the show's narrative engine and is portrayed with full procedural specificity (paperwork, owner consent, retrieval team composition, controlled shutdown sequence); (3) claims on humanoid-platform memory-wipe protocols at end-of-service-life. 13-episode broadcast 2015, broadly indexed in home video archives.
+
 ## Generation-3 Synths (Institute Synths) (2015-11-10)
 
 - **id**: `fallout-gen-3-synths`
@@ -555,6 +618,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Hanson's Frubber synthetic skin material and facial actuation prior art is significant for any claim around expressive humanoid faces. Disney Imagineering's earlier work is the deeper prior art.
 
+## KX-series Imperial Security Droids (K-2SO) (2016-12)
+
+- **id**: `kx-series-k2so-2016`
+- **corpus**: fictional
+- **creator**: Lucasfilm / Disney (Gareth Edwards director, Tony Gilroy writer for Andor)
+- **disclosure**: Edwards, Gareth (dir.). Rogue One: A Star Wars Story. Lucasfilm / Disney, December 16, 2016. Subsequent appearances: Andor (Disney+ TV series), 2022; Star Wars: From a Certain Point of View, Del Rey, 2017.
+- **ip status**: fictional
+- **prior art notes**: The KX-series Imperial security droid (Rogue One 2016, Andor 2022) provides a high-visibility fictional disclosure of mass-deployed humanoid security/combat droids with explicit reprogramming and behavioral-mode architecture. Anticipates with full specificity: (1) claims on humanoid security platforms with checkpoint-officer / combat-infantry dual-mode behavioral architecture — K-2SO's mode-switching is explicit in Rogue One and central to Andor; (2) claims on reprogrammable humanoid platforms where the OEM identity (Imperial) is overwritten by post-deployment reprogramming (Rebellion service); (3) claims on humanoid platforms with integrated language-affect modules (the sarcasm/dry-wit subsystem); (4) claims on native infantry-weapon-handling humanoid droids as part of standardized fleet equipment loadouts. Worldwide theatrical release Dec 2016 + Disney+ Andor 2022-2025 + Lucasfilm visual dictionaries provide deep timestamped disclosure with technical specifications in companion publications.
+
 ## PAL TALOS (2017)
 
 - **id**: `pal-talos`
@@ -572,6 +644,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yoko Taro (creative dir.); PlatinumGames; Square Enix. NieR: Automata. Square Enix, February 23, 2017.
 - **ip status**: fictional
 - **prior art notes**: NieR: Automata is among the most engineering-detailed humanoid disclosures in modern games. Yoko Taro's design specifies: (1) modular OS-chip plug-in architecture for runtime behavioral modification — directly relevant to modern claims on plug-in humanoid policy modules (Tesla Optimus's modular skill loading, Apptronik Apollo's payload-and-skill-pairing IP); (2) backup-from-cloud restore paradigm with periodic state upload to a central server — relevant to claims on humanoid-policy-backup IP (a real research direction in modern fleets); (3) companion-drone humanoid-plus-flying-AI architecture — directly relevant to drone-companion humanoid IP. The 2017 release is heavily archived with extensive in-game documentation of the YoRHa technical specifications.
+
+## Reachy 1 (Pollen Robotics open-source humanoid) (2017-09)
+
+- **id**: `reachy-1-pollen-2017`
+- **corpus**: open
+- **creator**: Pollen Robotics / INRIA Flowers (Pierre Rouanet, Matthieu Lapeyre, Pierre-Yves Oudeyer)
+- **disclosure**: Mick, Sébastien, Lapeyre, Matthieu, Rouanet, Pierre, Halgand, Christophe, Benois-Pineau, Jenny, Paclet, Florent, Cattaert, Daniel, Oudeyer, Pierre-Yves, de Rugy, Aymar. 'Reachy, a 3D-Printed Human-Like Robotic Arm as a Testbed for Human-Robot Control Strategies.' Frontiers in Neurorobotics 13:65, September 2019. Original release: Pollen Robotics / INRIA Flowers, 2017 GitHub release of Reachy v1 (poppy-project lineage).
+- **ip status**: open-source
+- **prior art notes**: Reachy 1 (Pollen Robotics 2017, INRIA Flowers lineage) is one of the earliest fully-open-hardware humanoid torso platforms with a published research-grade SDK predating commercial offerings. Anticipates with full specificity: (1) claims on 3D-printed open-hardware humanoid arms with Dynamixel-class actuation — Reachy 1's STL/STEP CAD and firmware are publicly archived since 2017; (2) claims on research-substrate Python SDKs for humanoid telemanipulation — reachy-sdk on GitHub at v0.x predates most commercial humanoid SDK offerings; (3) claims on dual-arm research-platform configurations with anthropomorphic spherical wrists. The 2019 Frontiers paper provides peer-reviewed timestamped disclosure; GitHub commits provide finer-grained 2016-2017 priority. Existing corpus 'reachy' entry should reference this v1 ancestor. Modern open-humanoid IP filings face Reachy 1 at 9-year-deep anchor.
 
 ## Toyota T-HR3 (2017-11)
 

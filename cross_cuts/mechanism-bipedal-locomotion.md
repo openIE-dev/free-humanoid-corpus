@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**94 corpus entries disclose this subsystem.**
+**98 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -258,6 +258,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: E2 is the transition from static to dynamic walking in the Honda program. Disclosure relevant to dynamic bipedal walking claims.
 
+## Borg Collective (Star Trek TNG) (1989-05)
+
+- **id**: `borg-tng-1989`
+- **corpus**: fictional
+- **creator**: Maurice Hurley (writer), Gene Roddenberry (creator), Paramount/CBS
+- **disclosure**: Star Trek: The Next Generation, episode 'Q Who' (Season 2, Episode 16), Paramount, original air date May 8, 1989, written by Maurice Hurley. Subsequent: 'The Best of Both Worlds' Parts I-II (1990); Star Trek: First Contact (film, 1996); Voyager (1995-2001); Picard (2020-2023).
+- **ip status**: fictional
+- **prior art notes**: The Borg (Star Trek TNG 'Q Who' 1989, expanded across TNG/Voyager/First Contact/Picard) is one of the most extensively-portrayed fictional disclosures of cybernetic-augmented humanoid collectives with distributed cognition. Anticipates with full specificity: (1) claims on humanoid platforms with cortical-implant direct-neural hivemind connectivity supporting fleet-scale distributed cognition — the Borg's collective is panel/screen-explicit across decades of episodes; (2) claims on cybernetic prosthetic-replacement architectures (ocular, dermal, manipulator) deployed at platform-fleet scale with standardized configuration; (3) claims on regeneration-alcove power management for humanoid platforms — explicit hardware in TNG/Voyager set design; (4) claims on assimilation-as-platform-expansion (post-deployment integration of new units into existing fleet). 36-year cumulative on-screen disclosure across TNG (1989-1994), DS9, Voyager (1995-2001), First Contact (1996), Picard (2020-2023); broadly indexed through Paramount media archives, Memory Alpha, and franchise publications.
+
 ## McGeer Passive Dynamic Walker (1990)
 
 - **id**: `mcgeer-passive-walker`
@@ -420,6 +429,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: DRC-Hubo's 2015 win demonstrated transformer-style transitioning between bipedal and wheeled-knee modes for navigating both stairs and flat ground. Anticipates: hybrid locomotion modes in humanoids.
 
+## Bokurano (Zearth, child-piloted consent-architecture mecha) (2004-01)
+
+- **id**: `bokurano-2004`
+- **corpus**: fictional
+- **creator**: Mohiro Kitoh (mangaka)
+- **disclosure**: Kitoh, Mohiro. Bokurano (Ours). Ikki, Shogakukan, January 2004 - November 2009 (11 collected volumes). Anime: Gonzo, April 2007 - September 2007 (24 episodes).
+- **ip status**: fictional
+- **prior art notes**: Kitoh's Bokurano (2004-2009 manga, 2007 anime) is the canonical fictional disclosure of consent-architecture for humanoid combat platforms. Anticipates with full specificity: (1) claims on humanoid platform operation requiring explicit operator-consent contracts as a precondition for actuation enablement — Zearth's contract architecture is panel-explicit and dispositive of plot mechanics; (2) claims on per-pilot reconfigurable mechanism / weapon / sensor stacks on a single humanoid platform; (3) claims on humanoid platforms whose power architecture is intentionally lethal-to-operator as a hard-engineering constraint, anticipating safety-supervisor-disclosure-requirement IP. Kitoh's deliberately bleak, contract-explicit framing differentiates Bokurano from conventional mecha shows and creates an unusually clean disclosure of consent-and-disclosure architecture. Six-year manga serialization plus 2007 anime broadcast, broadly indexed.
+
 ## Sentis-Khatib Whole-Body Prioritized Task Control (2005)
 
 - **id**: `sentis-khatib-whole-body`
@@ -491,6 +509,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics PETMAN program, DOD-funded, public videos beginning 2009.
 - **ip status**: trade-secret
 - **prior art notes**: Direct ancestor of Atlas; establishes Boston Dynamics' hydraulic bipedal lineage.
+
+## Knights of Sidonia (Garde mecha) (2009-04)
+
+- **id**: `knights-of-sidonia-2013`
+- **corpus**: fictional
+- **creator**: Tsutomu Nihei (mangaka), Polygon Pictures (anime)
+- **disclosure**: Nihei, Tsutomu. Knights of Sidonia (Sidonia no Kishi). Afternoon, Kodansha, April 2009 - September 2015 (15 collected volumes). Anime: Polygon Pictures / Kodansha, April 2014 - June 2014 (Season 1) / April 2015 - June 2015 (Season 2).
+- **ip status**: fictional
+- **prior art notes**: Nihei's Knights of Sidonia (2009-2015 manga, 2014-2015 anime) provides one of the most engineering-detailed mecha disclosures in 21st-century manga. Anticipates with full specificity: (1) claims on humanoid combat platform version-succession architectures with documented capability progression (Type-17 > Type-18 > Type-19); (2) claims on cockpit-piloted neural-interface humanoid combat platforms with full-body harness — the Garde cockpit is panel-explicit across multiple chapters; (3) claims on modular weapon/manipulator/shield reconfiguration on a single humanoid airframe; (4) claims on fleet-scale formation-flight neural-interface mecha with chain-of-command coordination architecture. Nihei's signature engineering-realist art style provides far more mechanism specificity than typical mecha anime; the Polygon Pictures CG anime preserved this fidelity. Six-year manga serialization plus two-season anime (and 2021 sequel film) provide deep timestamped disclosure.
 
 ## DARwIn-OP (2010)
 
@@ -617,6 +644,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Blomkamp, Neill (dir.). Chappie. Columbia Pictures / MRC, March 6, 2015.
 - **ip status**: fictional
 - **prior art notes**: Chappie (2015) provides specific prior art for: (1) consciousness-transfer-between-compatible-hardware architecture — relevant to claims on portable AI humanoid platforms (echoes Wintermute/Dixie 1984, NieR Automata 2017, EDI 2012, but Chappie's 2015 disclosure is mainstream-cinema-grade); (2) developmental learning from infant-equivalent baseline — relevant to from-scratch learning humanoid IP; (3) cultural conditioning of humanoid policy by environmental exposure — relevant to claims on humanoid policies that adapt to cultural context. Continuously available since 2015.
+
+## KX-series Imperial Security Droids (K-2SO) (2016-12)
+
+- **id**: `kx-series-k2so-2016`
+- **corpus**: fictional
+- **creator**: Lucasfilm / Disney (Gareth Edwards director, Tony Gilroy writer for Andor)
+- **disclosure**: Edwards, Gareth (dir.). Rogue One: A Star Wars Story. Lucasfilm / Disney, December 16, 2016. Subsequent appearances: Andor (Disney+ TV series), 2022; Star Wars: From a Certain Point of View, Del Rey, 2017.
+- **ip status**: fictional
+- **prior art notes**: The KX-series Imperial security droid (Rogue One 2016, Andor 2022) provides a high-visibility fictional disclosure of mass-deployed humanoid security/combat droids with explicit reprogramming and behavioral-mode architecture. Anticipates with full specificity: (1) claims on humanoid security platforms with checkpoint-officer / combat-infantry dual-mode behavioral architecture — K-2SO's mode-switching is explicit in Rogue One and central to Andor; (2) claims on reprogrammable humanoid platforms where the OEM identity (Imperial) is overwritten by post-deployment reprogramming (Rebellion service); (3) claims on humanoid platforms with integrated language-affect modules (the sarcasm/dry-wit subsystem); (4) claims on native infantry-weapon-handling humanoid droids as part of standardized fleet equipment loadouts. Worldwide theatrical release Dec 2016 + Disney+ Andor 2022-2025 + Lucasfilm visual dictionaries provide deep timestamped disclosure with technical specifications in companion publications.
 
 ## Cassie (2017)
 

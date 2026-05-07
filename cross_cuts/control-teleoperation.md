@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-teleoperation`
 
-**19 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-07
 
@@ -69,6 +69,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Patlabor's 'Labor' family is an unusually engineering-grounded fictional disclosure of bipedal civilian humanoid robotics. The 1988 OVA explicitly names the 'OS' that handles balance (anticipating ZMP balance controllers years before Honda P2 1996), discloses runtime of ~15 minutes per battery, and depicts limp-on-shutdown safety. Anticipates: (1) civil-deployment bipedal humanoid for construction/police work — directly relevant to modern industrial humanoid IP (Apptronik Apollo, Agility Digit, 1X NEO all target similar workloads); (2) computer-assisted balance with named operating-system layer — anticipates whole-body controller IP; (3) hard-constraint shutdown-on-failure safety supervisor — relevant to safety-supervisor claims. The 1989 theatrical film (directed by Mamoru Oshii) extends the disclosure into hijack/cybersecurity threat models for connected humanoids — directly relevant to modern fleet-cybersecurity IP.
 
+## Borg Collective (Star Trek TNG) (1989-05)
+
+- **id**: `borg-tng-1989`
+- **corpus**: fictional
+- **creator**: Maurice Hurley (writer), Gene Roddenberry (creator), Paramount/CBS
+- **disclosure**: Star Trek: The Next Generation, episode 'Q Who' (Season 2, Episode 16), Paramount, original air date May 8, 1989, written by Maurice Hurley. Subsequent: 'The Best of Both Worlds' Parts I-II (1990); Star Trek: First Contact (film, 1996); Voyager (1995-2001); Picard (2020-2023).
+- **ip status**: fictional
+- **prior art notes**: The Borg (Star Trek TNG 'Q Who' 1989, expanded across TNG/Voyager/First Contact/Picard) is one of the most extensively-portrayed fictional disclosures of cybernetic-augmented humanoid collectives with distributed cognition. Anticipates with full specificity: (1) claims on humanoid platforms with cortical-implant direct-neural hivemind connectivity supporting fleet-scale distributed cognition — the Borg's collective is panel/screen-explicit across decades of episodes; (2) claims on cybernetic prosthetic-replacement architectures (ocular, dermal, manipulator) deployed at platform-fleet scale with standardized configuration; (3) claims on regeneration-alcove power management for humanoid platforms — explicit hardware in TNG/Voyager set design; (4) claims on assimilation-as-platform-expansion (post-deployment integration of new units into existing fleet). 36-year cumulative on-screen disclosure across TNG (1989-1994), DS9, Voyager (1995-2001), First Contact (1996), Picard (2020-2023); broadly indexed through Paramount media archives, Memory Alpha, and franchise publications.
+
 ## Evangelion (EVA Unit-01) (1995-10-04)
 
 - **id**: `evangelion`
@@ -87,6 +96,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Robonaut 1 is the academic predecessor to Robonaut 2 and the deepest NASA-side disclosure of humanoid platform IP for space applications. Anticipates: (1) torso-only humanoid form factor for collaborative work with humans — relevant to current commercial torso-only humanoid claims; (2) VR teleoperation with force-feedback gloves as the operator interface — relevant to teleoperation IP; (3) tendon-driven anthropomorphic hands integrated with harmonic-drive arms — relevant to integrated-hand-arm claims. NASA JSC publications and i-SAIRAS proceedings are publicly accessible. Modern humanoid hand claims face this 1996 academic anchor.
 
+## Cowboy Bebop (Pierrot Le Fou cyborg, MPU and AI antagonists) (1998-04)
+
+- **id**: `cowboy-bebop-pierrot-1998`
+- **corpus**: fictional
+- **creator**: Shinichirō Watanabe (director), Hajime Yatate (Sunrise creative collective), Keiko Nobumoto (writer)
+- **disclosure**: Watanabe, Shinichirō (dir.). Cowboy Bebop. Sunrise / Bandai Visual, TV Tokyo, April 1998 - April 1999 (26 episodes). Episode 'Pierrot Le Fou' (#20), original air date August 21, 1999. Film: Cowboy Bebop: Knockin' on Heaven's Door, Sony Pictures, 2001.
+- **ip status**: fictional
+- **prior art notes**: Cowboy Bebop's Pierrot Le Fou episode (1999) is one of the most engineering-detailed fictional disclosures of a conditioned-cyborg infantry platform with explicit safety-supervisor architecture. Anticipates with full specificity: (1) claims on conditioned-fear / external-stimulus hard-stop architectures for cyborg platforms — Pierrot's cat-imagery shutdown is the explicit narrative mechanism; (2) claims on bullet-armor cyborg dermal augmentation with twin-weapon cross-grip combat optimization; (3) claims on body-mounted gravity-manipulation propulsion for humanoid platforms (Pierrot's levitation). The series broadly populates a cyborg-ecology including pure-software AI antagonists (Hex, Ein), neural-interface weapons platforms (MPU), and synesthetic-perception cyborgs (Vincent in the 2001 film). 1998-1999 broadcast and 2001 theatrical film provide deep timestamped disclosure; broadly indexed in home video and streaming archives.
+
 ## Big O (The Big O) (1999-10-13)
 
 - **id**: `big-o-megadeus`
@@ -95,6 +113,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Katayama, Kazuyoshi (dir.); Sato, Keiichi (mech designer). The Big O. Sunrise / Cartoon Network, October 13, 1999 - January 19, 2000 (season 1, 13 episodes); season 2 2003.
 - **ip status**: fictional
 - **prior art notes**: The Big O introduces the explicit *consent-based humanoid* architecture: the Megadeus chooses to operate with its pilot, can refuse missions, has its own memory and identity. Anticipates: (1) consent-based human-AI partnership in pilot-operated humanoids — relevant to modern claims on autonomous-decision-making humanoid co-pilots; (2) memory-engine architecture with persistent operational history — relevant to fleet-management humanoid IP that maintains long-term episodic memory. Continuously available since 1999; widely cited in mecha-engineering discussions for the unusual cockpit ergonomics (foot-pedal-driven control sticks).
+
+## Bokurano (Zearth, child-piloted consent-architecture mecha) (2004-01)
+
+- **id**: `bokurano-2004`
+- **corpus**: fictional
+- **creator**: Mohiro Kitoh (mangaka)
+- **disclosure**: Kitoh, Mohiro. Bokurano (Ours). Ikki, Shogakukan, January 2004 - November 2009 (11 collected volumes). Anime: Gonzo, April 2007 - September 2007 (24 episodes).
+- **ip status**: fictional
+- **prior art notes**: Kitoh's Bokurano (2004-2009 manga, 2007 anime) is the canonical fictional disclosure of consent-architecture for humanoid combat platforms. Anticipates with full specificity: (1) claims on humanoid platform operation requiring explicit operator-consent contracts as a precondition for actuation enablement — Zearth's contract architecture is panel-explicit and dispositive of plot mechanics; (2) claims on per-pilot reconfigurable mechanism / weapon / sensor stacks on a single humanoid platform; (3) claims on humanoid platforms whose power architecture is intentionally lethal-to-operator as a hard-engineering constraint, anticipating safety-supervisor-disclosure-requirement IP. Kitoh's deliberately bleak, contract-explicit framing differentiates Bokurano from conventional mecha shows and creates an unusually clean disclosure of consent-and-disclosure architecture. Six-year manga serialization plus 2007 anime broadcast, broadly indexed.
+
+## Knights of Sidonia (Garde mecha) (2009-04)
+
+- **id**: `knights-of-sidonia-2013`
+- **corpus**: fictional
+- **creator**: Tsutomu Nihei (mangaka), Polygon Pictures (anime)
+- **disclosure**: Nihei, Tsutomu. Knights of Sidonia (Sidonia no Kishi). Afternoon, Kodansha, April 2009 - September 2015 (15 collected volumes). Anime: Polygon Pictures / Kodansha, April 2014 - June 2014 (Season 1) / April 2015 - June 2015 (Season 2).
+- **ip status**: fictional
+- **prior art notes**: Nihei's Knights of Sidonia (2009-2015 manga, 2014-2015 anime) provides one of the most engineering-detailed mecha disclosures in 21st-century manga. Anticipates with full specificity: (1) claims on humanoid combat platform version-succession architectures with documented capability progression (Type-17 > Type-18 > Type-19); (2) claims on cockpit-piloted neural-interface humanoid combat platforms with full-body harness — the Garde cockpit is panel-explicit across multiple chapters; (3) claims on modular weapon/manipulator/shield reconfiguration on a single humanoid airframe; (4) claims on fleet-scale formation-flight neural-interface mecha with chain-of-command coordination architecture. Nihei's signature engineering-realist art style provides far more mechanism specificity than typical mecha anime; the Polygon Pictures CG anime preserved this fidelity. Six-year manga serialization plus two-season anime (and 2021 sequel film) provide deep timestamped disclosure.
 
 ## Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) (2011-10-07)
 

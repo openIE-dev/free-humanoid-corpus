@@ -492,6 +492,16 @@
       "descendants": []
     },
     {
+      "id": "hollerbach-manipulator-1980",
+      "name": "Hollerbach Recursive Lagrangian Manipulator Dynamics",
+      "year": "1980",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "featherstone-rdf"
+      ]
+    },
+    {
       "id": "heartbeeps-val-aqua",
       "name": "Val and Aqua (Heartbeeps)",
       "year": "1981",
@@ -511,6 +521,14 @@
         "robonaut-2",
         "shadow-dexterous-hand"
       ]
+    },
+    {
+      "id": "akira-tetsuo-1988",
+      "name": "Akira (Tetsuo cyborg-mutation, Akira containment)",
+      "year": "1982",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "raibert-hopping-1leg",
@@ -620,6 +638,7 @@
       "year": "1987",
       "corpus": "academic",
       "ancestors": [
+        "hollerbach-manipulator-1980",
         "khatib-operational-space"
       ],
       "descendants": [
@@ -735,6 +754,14 @@
         "open-x-embodiment",
         "openai-rt-2"
       ]
+    },
+    {
+      "id": "borg-tng-1989",
+      "name": "Borg Collective (Star Trek TNG)",
+      "year": "1989",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "howe-cutkosky-tactile-1989",
@@ -880,6 +907,14 @@
       ]
     },
     {
+      "id": "armitage-iii-1995",
+      "name": "Armitage III (third-generation androids)",
+      "year": "1995",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "pratt-williamson-sea",
       "name": "Pratt-Williamson Series Elastic Actuator",
       "year": "1995",
@@ -940,6 +975,14 @@
       ]
     },
     {
+      "id": "cowboy-bebop-pierrot-1998",
+      "name": "Cowboy Bebop (Pierrot Le Fou cyborg, MPU and AI antagonists)",
+      "year": "1998",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sony-aibo",
       "name": "Sony AIBO",
       "year": "1999",
@@ -957,7 +1000,8 @@
         "act-aloha",
         "diffusion-policy",
         "dmp-schaal-ijspeert",
-        "gail-ho-ermon"
+        "gail-ho-ermon",
+        "ijspeert-dmp-2013"
       ]
     },
     {
@@ -1047,7 +1091,8 @@
       ],
       "descendants": [
         "act-aloha",
-        "diffusion-policy"
+        "diffusion-policy",
+        "ijspeert-dmp-2013"
       ]
     },
     {
@@ -1156,6 +1201,25 @@
       ]
     },
     {
+      "id": "bokurano-2004",
+      "name": "Bokurano (Zearth, child-piloted consent-architecture mecha)",
+      "year": "2004",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "abbeel-ng-irl-2004",
+      "name": "Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning",
+      "year": "2004",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "gail-ho-ermon",
+        "ziebart-maxent-irl-2008"
+      ]
+    },
+    {
       "id": "reachability-analysis-safe-control",
       "name": "Hamilton-Jacobi Reachability for Safe Control",
       "year": "2005",
@@ -1205,6 +1269,14 @@
         "vukobratovic-zmp",
         "wabot-1"
       ],
+      "descendants": []
+    },
+    {
+      "id": "ergo-proxy-2006",
+      "name": "Ergo Proxy (Autoreivs and Proxies)",
+      "year": "2006",
+      "corpus": "fictional",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -1313,6 +1385,26 @@
       "descendants": []
     },
     {
+      "id": "ziebart-maxent-irl-2008",
+      "name": "Ziebart Maximum Entropy Inverse Reinforcement Learning",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [
+        "abbeel-ng-irl-2004"
+      ],
+      "descendants": [
+        "gail-ho-ermon"
+      ]
+    },
+    {
+      "id": "time-of-eve-2008",
+      "name": "Time of EVE (household-robot reflective awareness)",
+      "year": "2008",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "petman",
       "name": "PETMAN",
       "year": "2009",
@@ -1321,6 +1413,14 @@
       "descendants": [
         "atlas-boston-dynamics"
       ]
+    },
+    {
+      "id": "knights-of-sidonia-2013",
+      "name": "Knights of Sidonia (Garde mecha)",
+      "year": "2009",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "roetenberg-xsens-imu",
@@ -1387,10 +1487,12 @@
       "year": "2010",
       "corpus": "open",
       "ancestors": [
+        "cmu-herb-srinivasa-2012",
         "willow-pr1"
       ],
       "descendants": [
-        "diligent-moxi"
+        "diligent-moxi",
+        "levine-gps-pr2-2016"
       ]
     },
     {
@@ -1475,6 +1577,16 @@
       "descendants": []
     },
     {
+      "id": "cmu-herb-srinivasa-2012",
+      "name": "CMU HERB (Home Exploring Robotic Butler)",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "pr2"
+      ]
+    },
+    {
       "id": "atrias",
       "name": "ATRIAS",
       "year": "2013",
@@ -1534,6 +1646,17 @@
       "descendants": []
     },
     {
+      "id": "ijspeert-dmp-2013",
+      "name": "Ijspeert-Schaal Dynamic Movement Primitives (formal extension)",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [
+        "dmp-schaal-ijspeert",
+        "schaal-imitation-1999"
+      ],
+      "descendants": []
+    },
+    {
       "id": "atlas-boston-dynamics",
       "name": "Atlas",
       "year": "2013",
@@ -1588,7 +1711,8 @@
         "darwin-op"
       ],
       "descendants": [
-        "k-scale-os"
+        "k-scale-os",
+        "reachy-1-pollen-2017"
       ]
     },
     {
@@ -1669,6 +1793,27 @@
       "descendants": []
     },
     {
+      "id": "levine-gps-pr2-2016",
+      "name": "Levine Guided Policy Search end-to-end manipulation on PR2/BRETT",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [
+        "pr2"
+      ],
+      "descendants": [
+        "openvla",
+        "rt-1"
+      ]
+    },
+    {
+      "id": "plastic-memories-2015",
+      "name": "Plastic Memories (Giftia humanoids with explicit lifecycle)",
+      "year": "2015",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "fallout-gen-3-synths",
       "name": "Generation-3 Synths (Institute Synths)",
       "year": "2015",
@@ -1700,8 +1845,18 @@
       "year": "2016",
       "corpus": "academic",
       "ancestors": [
-        "schaal-imitation-1999"
+        "abbeel-ng-irl-2004",
+        "schaal-imitation-1999",
+        "ziebart-maxent-irl-2008"
       ],
+      "descendants": []
+    },
+    {
+      "id": "kx-series-k2so-2016",
+      "name": "KX-series Imperial Security Droids (K-2SO)",
+      "year": "2016",
+      "corpus": "fictional",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -1758,6 +1913,18 @@
       "ancestors": [],
       "descendants": [
         "openai-dactyl"
+      ]
+    },
+    {
+      "id": "reachy-1-pollen-2017",
+      "name": "Reachy 1 (Pollen Robotics open-source humanoid)",
+      "year": "2017",
+      "corpus": "open",
+      "ancestors": [
+        "poppy-humanoid"
+      ],
+      "descendants": [
+        "reachy"
       ]
     },
     {
@@ -1862,6 +2029,14 @@
       "descendants": []
     },
     {
+      "id": "stanford-jr2-2018",
+      "name": "Stanford JackRabbot 2 (JR-2) wheeled-arm research robot",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ascento",
       "name": "Ascento",
       "year": "2019",
@@ -1941,7 +2116,9 @@
       "name": "Reachy",
       "year": "2020",
       "corpus": "open",
-      "ancestors": [],
+      "ancestors": [
+        "reachy-1-pollen-2017"
+      ],
       "descendants": []
     },
     {
@@ -2062,6 +2239,16 @@
       ]
     },
     {
+      "id": "janner-diffuser-2022",
+      "name": "Janner Diffuser planning with diffusion",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "diffusion-policy"
+      ]
+    },
+    {
       "id": "gato-deepmind",
       "name": "Gato (DeepMind generalist agent)",
       "year": "2022",
@@ -2090,9 +2277,11 @@
       "year": "2022",
       "corpus": "academic",
       "ancestors": [
+        "levine-gps-pr2-2016",
         "saycan-google"
       ],
       "descendants": [
+        "bridgedata-v2-walke-2023",
         "octo-policy",
         "open-x-embodiment",
         "openai-rt-2",
@@ -2128,6 +2317,7 @@
       "corpus": "academic",
       "ancestors": [
         "dmp-schaal-ijspeert",
+        "janner-diffuser-2022",
         "mason-mechanics-manipulation",
         "schaal-imitation-1999"
       ],
@@ -2206,6 +2396,17 @@
       ]
     },
     {
+      "id": "rh20t-fang-2024",
+      "name": "RH20T heterogeneous robot trajectory dataset",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "droid-dataset",
+        "open-x-embodiment"
+      ]
+    },
+    {
       "id": "agibot-a1",
       "name": "AgiBot A1",
       "year": "2023",
@@ -2228,6 +2429,19 @@
       "descendants": []
     },
     {
+      "id": "bridgedata-v2-walke-2023",
+      "name": "BridgeData V2 multi-robot trajectory dataset",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "rt-1"
+      ],
+      "descendants": [
+        "open-x-embodiment",
+        "openvla"
+      ]
+    },
+    {
       "id": "unitree-h1",
       "name": "Unitree H1",
       "year": "2023",
@@ -2240,6 +2454,14 @@
         "unitree-g1",
         "unitree-h2"
       ]
+    },
+    {
+      "id": "eureka-ma-2023",
+      "name": "Eureka LLM-driven reward design",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "figure-01",
@@ -2260,9 +2482,11 @@
       "year": "2023",
       "corpus": "academic",
       "ancestors": [
+        "bridgedata-v2-walke-2023",
         "gato-deepmind",
         "openai-rt-2",
         "pomerleau-alvinn",
+        "rh20t-fang-2024",
         "rt-1"
       ],
       "descendants": [
@@ -2377,6 +2601,7 @@
       "ancestors": [
         "mobile-aloha",
         "open-x-embodiment",
+        "rh20t-fang-2024",
         "umi-stanford"
       ],
       "descendants": [
@@ -2425,8 +2650,10 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [
+        "bridgedata-v2-walke-2023",
         "droid-dataset",
         "gato-deepmind",
+        "levine-gps-pr2-2016",
         "octo-policy",
         "open-x-embodiment",
         "openai-rt-2",
