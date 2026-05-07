@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 115 (90 commons-grade, 25 draft)  
+**Entries:** 117 (91 commons-grade, 26 draft)  
 **Earliest disclosure:** 1818  
-**Most recent disclosure:** 2025-10
+**Most recent disclosure:** 2026-04
 
 ---
 
@@ -2318,6 +2318,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-12 — Genesis (open-source physics simulator)
+
+- **id:** `genesis-embodied-ai-simulator`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Genesis Authors collaboration (multi-institution: CMU, Stanford, MIT CSAIL, Tsinghua, Peking, ETH Zürich, UMD, et al.)
+- **disclosure citation:** Genesis Authors. 'Genesis: A Generative and Universal Physics Engine for Robotics and Beyond'. GitHub release at https://github.com/Genesis-Embodied-AI/Genesis, December 19, 2024. Multi-institution collaboration including Carnegie Mellon University, Stanford University, MIT CSAIL, Tsinghua University, Peking University, ETH Zürich, University of Maryland.
+- **disclosed subsystems:** `control-sim-to-real`, `control-rl-policy`, `control-mpc`
+
+**Prior art notes:**
+
+> The Genesis simulator (Genesis-Embodied-AI/Genesis, December 2024) is the most recent and highest-throughput academic-grade open-source physics engine for robotics simulation, published Apache-2.0 by a multi-institution academic collaboration. Anticipates with full architectural specificity: (1) GPU-parallelized robotics simulation at 43M-FPS scale — directly relevant to commercial claims on sim-to-real-at-scale humanoid IP (notably Genesis AI Inc.'s GENE-26.5 product, with which this open-source project shares a name); (2) unified multi-physics architecture (rigid + soft + MPM + FEM + fluid) — relevant to claims on multi-domain humanoid simulation; (3) differentiable simulation for gradient-based policy optimization — relevant to claims on policy-gradient humanoid training at scale; (4) the URDF/MJCF interoperability surface that permits OpenLoco-class descriptors to be simulated without modification. Modern claims on sim-to-real-at-scale, multi-physics simulation, or differentiable physics for humanoid training all face this 1.5-year-deep open-source academic prior art with full source disclosure under Apache-2.0.
+
+**Sources:**
+
+1. Genesis-Embodied-AI/Genesis GitHub repository (https://github.com/Genesis-Embodied-AI/Genesis), December 2024.
+2. Genesis project website (https://genesis-embodied-ai.github.io/), December 2024.
+3. Genesis benchmark report (rigid-body 43M FPS on RTX 4090) included with the December 2024 release.
+
+---
+
 ### 2025-10 — Unitree H2 *(draft)*
 
 - **id:** `unitree-h2`
@@ -2334,6 +2355,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Unitree Robotics public materials, October 2025.
+
+---
+
+### 2026-04 — Genesis AI GENE-26.5 *(draft)*
+
+- **id:** `genesis-ai-gene-26-5`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Genesis AI Inc.
+- **disclosure citation:** Genesis AI Inc. corporate website at https://www.genesis.ai/, GENE-26.5 product page (April 2026 surface). Demo videos showing cooking, lab pipetting, beverage preparation, puzzle-solving, object manipulation, assembly, and fine-motor tasks.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `control-sim-to-real`, `mechanism-anthropomorphic-hand`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> Genesis AI's GENE-26.5 platform is a closed-source commercial robotics product whose public disclosure surface (corporate website + demo videos) does not reveal specific mechanism. The capability set claimed — multi-task vision-language-action manipulation, sim-to-real generalization, dexterous fine-motor — is fully covered by deep open academic prior art chains in the corpus: Pomerleau ALVINN (1989) → Levine GPS PR2/BRETT (2016) for end-to-end visuomotor policy; CLIP (Radford 2021) for vision-language alignment; RT-1 (2022), RT-2 (2023), Open X-Embodiment (2023), OpenVLA (2024), π-zero (2024), NVIDIA GR00T N1 (2025) for VLA architecture; OpenAI Dactyl (2018-2019), Hwangbo ANYmal sim-to-real (2019), Tan quadruped sim-to-real (2018) for sim-to-real; Mobile ALOHA (2024), ACT/ALOHA (2023), Diffusion Policy (2023) for bimanual fine manipulation; Salisbury Stanford-JPL hand (1982), DLR Hand-II (2001), Shadow Hand (2002), Pisa-IIT SoftHand (2014) for dexterous hand mechanism; Park's transformation (1929) for any FOC actuator control. Claims that GENE represents novel art in any of these subsystems face element-by-element prior art at depths from 4 years (Diffusion Policy) to 97 years (Park) to 530 years (Da Vinci's Knight, anthropomorphic tendon-driven hand). Demo task set (cooking, beverage preparation, lab manipulation) maps directly to Mobile ALOHA (2024), DLR Justin (2009), CMU HERB (2012), and the PR2 lineage.
+
+**Sources:**
+
+1. Genesis AI Inc. corporate website (https://www.genesis.ai/), April 2026 surface.
+2. GENE-26.5 demonstration videos on the Genesis AI corporate website.
 
 ---
 
@@ -2367,4 +2408,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `559a8b5`.*

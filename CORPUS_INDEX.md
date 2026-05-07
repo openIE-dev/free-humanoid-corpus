@@ -1,6 +1,6 @@
 # Corpus Index
 
-306 entries total. Generated from corpus.jsonl.
+308 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -109,6 +109,8 @@
 | GelSight | `gelsight` | 2009 | academic | open-permissive |  |
 | Generation-3 Synths (Institute Synths) | `fallout-gen-3-synths` | 2015 | fictional | fictional |  |
 | Generative Adversarial Imitation Learning (GAIL) | `gail-ho-ermon` | 2016 | academic | open-permissive |  |
+| Genesis (open-source physics simulator) | `genesis-embodied-ai-simulator` | 2024 | open | open-permissive |  |
+| Genesis AI GENE-26.5 | `genesis-ai-gene-26-5` | 2026 | private | trade-secret | ✓ |
 | Genos (One Punch Man) | `opm-genos` | 2009 | fictional | fictional |  |
 | Geth | `geth-mass-effect` | 2007 | fictional | fictional |  |
 | Ghost Robotics Vision 60 | `ghost-robotics-vision-60` | 2018 | private | patented |  |

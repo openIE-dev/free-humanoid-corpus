@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 109 (88 commons-grade, 21 draft)  
+**Entries:** 110 (88 commons-grade, 22 draft)  
 **Earliest disclosure:** 1495  
-**Most recent disclosure:** 2025-10
+**Most recent disclosure:** 2026-04
 
 ---
 
@@ -2225,6 +2225,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2026-04 — Genesis AI GENE-26.5 *(draft)*
+
+- **id:** `genesis-ai-gene-26-5`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Genesis AI Inc.
+- **disclosure citation:** Genesis AI Inc. corporate website at https://www.genesis.ai/, GENE-26.5 product page (April 2026 surface). Demo videos showing cooking, lab pipetting, beverage preparation, puzzle-solving, object manipulation, assembly, and fine-motor tasks.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `control-sim-to-real`, `mechanism-anthropomorphic-hand`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> Genesis AI's GENE-26.5 platform is a closed-source commercial robotics product whose public disclosure surface (corporate website + demo videos) does not reveal specific mechanism. The capability set claimed — multi-task vision-language-action manipulation, sim-to-real generalization, dexterous fine-motor — is fully covered by deep open academic prior art chains in the corpus: Pomerleau ALVINN (1989) → Levine GPS PR2/BRETT (2016) for end-to-end visuomotor policy; CLIP (Radford 2021) for vision-language alignment; RT-1 (2022), RT-2 (2023), Open X-Embodiment (2023), OpenVLA (2024), π-zero (2024), NVIDIA GR00T N1 (2025) for VLA architecture; OpenAI Dactyl (2018-2019), Hwangbo ANYmal sim-to-real (2019), Tan quadruped sim-to-real (2018) for sim-to-real; Mobile ALOHA (2024), ACT/ALOHA (2023), Diffusion Policy (2023) for bimanual fine manipulation; Salisbury Stanford-JPL hand (1982), DLR Hand-II (2001), Shadow Hand (2002), Pisa-IIT SoftHand (2014) for dexterous hand mechanism; Park's transformation (1929) for any FOC actuator control. Claims that GENE represents novel art in any of these subsystems face element-by-element prior art at depths from 4 years (Diffusion Policy) to 97 years (Park) to 530 years (Da Vinci's Knight, anthropomorphic tendon-driven hand). Demo task set (cooking, beverage preparation, lab manipulation) maps directly to Mobile ALOHA (2024), DLR Justin (2009), CMU HERB (2012), and the PR2 lineage.
+
+**Sources:**
+
+1. Genesis AI Inc. corporate website (https://www.genesis.ai/), April 2026 surface.
+2. GENE-26.5 demonstration videos on the Genesis AI corporate website.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -2255,4 +2275,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `559a8b5`.*

@@ -10,7 +10,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Packets:** 48  
-**Corpus revision:** `32bba80`
+**Corpus revision:** `559a8b5`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -41,16 +41,16 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-pneumatic-muscle`](actuator-pneumatic-muscle.md) | 6 | 6 | 0 | 1983 | 2018-07-30 |
 | [`actuator-spherical-multi-dof`](actuator-spherical-multi-dof.md) | 2 | 2 | 0 | 2020 | 2023-10 |
 | [`control-behavior-tree`](control-behavior-tree.md) | 12 | 12 | 0 | 1772 | 2022-04-04 |
-| [`control-mpc`](control-mpc.md) | 28 | 25 | 3 | 1980-11 | 2024-03 |
+| [`control-mpc`](control-mpc.md) | 29 | 26 | 3 | 1980-11 | 2024-12 |
 | [`control-reduced-order-model`](control-reduced-order-model.md) | 21 | 20 | 1 | 1979-04-07 | 2022 |
-| [`control-rl-policy`](control-rl-policy.md) | 115 | 90 | 25 | 1818 | 2025-10 |
-| [`control-sim-to-real`](control-sim-to-real.md) | 17 | 13 | 4 | 2014-12-11 | 2024-12 |
+| [`control-rl-policy`](control-rl-policy.md) | 117 | 91 | 26 | 1818 | 2026-04 |
+| [`control-sim-to-real`](control-sim-to-real.md) | 19 | 14 | 5 | 2014-12-11 | 2026-04 |
 | [`control-teleoperation`](control-teleoperation.md) | 29 | 24 | 5 | 1956-07 | 2024-05-24 |
-| [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 75 | 67 | 8 | 1886 | 2024-11 |
+| [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 76 | 67 | 9 | 1886 | 2026-04 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 20 | 20 | 0 | 1969 | 2023-08 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |
-| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 109 | 88 | 21 | 1495 | 2025-10 |
-| [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 117 | 91 | 26 | -0250 | 2025-10 |
+| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 110 | 88 | 22 | 1495 | 2026-04 |
+| [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 118 | 91 | 27 | -0250 | 2026-04 |
 | [`mechanism-passive-dynamic-walking`](mechanism-passive-dynamic-walking.md) | 3 | 3 | 0 | 1990 | 2017 |
 | [`mechanism-quadrupedal-locomotion`](mechanism-quadrupedal-locomotion.md) | 16 | 15 | 1 | 1968-09-27 | 2022-09 |
 | [`mechanism-tendon-routing`](mechanism-tendon-routing.md) | 12 | 9 | 3 | 1495 | 2024 |
