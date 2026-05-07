@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-reconfigurable`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2019-05
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Zarrouk, D., Mann, M., Degani, N., Yehuda, T., Jarbi, N., Hess, A. 'Single Actuator Wave-Like Robot (SAW): Design, Modeling, and Experiments' and follow-up RSTAR papers (IEEE RA-L 2018-2019). Ben-Gurion University of the Negev, Bio-inspired and Medical Robotics Lab. RSTAR = 'Rising STAR'.
 - **ip status**: open-permissive
 - **prior art notes**: RSTAR is the immediate predecessor of DSTAR and the founding member of the Zarrouk-group Ben-Gurion STAR lineage. 7 years of open-academic publication via IEEE RA-L and IROS. Establishes element-by-element prior art for: wheel-leg-hybrid reconfigurable robots, body-extension step-climbing, turtle-gait crawling without wheels, mode-switching between rolling and walking. Directly shields free-humanoid-centaur commitments on wheel-leg hybrid morphology and mode-switching.
+
+## FLORES wheel-legged robot (2025-07)
+
+- **id**: `flores-wheel-legged-2025`
+- **corpus**: academic
+- **creator**: FLORES authors (per arXiv:2507.22345)
+- **disclosure**: FLORES authors. 'FLORES: A Reconfigured Wheel-Legged Robot for Enhanced Steering and Adaptability'. arXiv:2507.22345, July 2025. Authors per arXiv listing.
+- **ip status**: open-permissive
+- **prior art notes**: FLORES is a contemporary (July 2025) wheel-legged-hybrid academic publication. Architecturally distinct from the STAR family by swapping hip-roll for hip-yaw on the front legs — a design choice that complements the DSTAR sprawl-tuned approach. Shields any commercial claim on hip-yaw front-leg wheel-leg-hybrid configurations and adds to the wheel-leg prior-art chain alongside DSTAR, RSTAR, STAR, AmphiSTAR. Specific authorship and venue per the arXiv preprint.
 
 ## Decoupled STAR (DSTAR) (2026-01)
 

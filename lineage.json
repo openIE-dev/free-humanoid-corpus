@@ -1949,6 +1949,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "howell-tassa-mujoco-mpc-2025",
         "mastalli-crocoddyl-2020"
       ]
     },
@@ -2594,7 +2595,9 @@
       "ancestors": [
         "pisa-iit-softhand"
       ],
-      "descendants": []
+      "descendants": [
+        "tactile-softhand-a-2025"
+      ]
     },
     {
       "id": "stanford-jr2-2018",
@@ -2897,6 +2900,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "nvidia-vipe-2025",
         "radio-vipe-itmo-2026"
       ]
     },
@@ -3464,6 +3468,16 @@
       "descendants": []
     },
     {
+      "id": "tactile-softhand-a-2025",
+      "name": "Tactile SoftHand-A",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "pisa-iit-softhand-2"
+      ],
+      "descendants": []
+    },
+    {
       "id": "openvla",
       "name": "OpenVLA (Open-Source Vision-Language-Action Model)",
       "year": "2024",
@@ -3483,6 +3497,16 @@
         "vima"
       ],
       "descendants": []
+    },
+    {
+      "id": "berkeley-humanoid-2024",
+      "name": "Berkeley Humanoid",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "berkeley-humanoid-lite-2025"
+      ]
     },
     {
       "id": "kepler-k2",
@@ -3560,6 +3584,62 @@
       "descendants": []
     },
     {
+      "id": "stanford-toddlerbot-2025",
+      "name": "ToddlerBot",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "howell-tassa-mujoco-mpc-2025",
+      "name": "MuJoCo MPC (Howell-Tassa)",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [
+        "tassa-ilqg-2012"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "berkeley-humanoid-lite-2025",
+      "name": "Berkeley Humanoid Lite",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [
+        "berkeley-humanoid-2024"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "wildgs-slam-2025",
+      "name": "WildGS-SLAM",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "flores-wheel-legged-2025",
+      "name": "FLORES wheel-legged robot",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nvidia-vipe-2025",
+      "name": "ViPE (Video Pose Engine)",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [
+        "droid-slam-2021"
+      ],
+      "descendants": [
+        "radio-vipe-itmo-2026"
+      ]
+    },
+    {
       "id": "unitree-h2",
       "name": "Unitree H2",
       "year": "2025",
@@ -3596,6 +3676,7 @@
       "corpus": "academic",
       "ancestors": [
         "droid-slam-2021",
+        "nvidia-vipe-2025",
         "orb-slam3-2021"
       ],
       "descendants": []

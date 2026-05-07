@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-wheel-leg-hybrid`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2002-10-01
 
@@ -59,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cohen, A., Zarrouk, D. 'AmphiSTAR: A High-Speed Amphibious Reconfigurable Robot'. IEEE Robotics and Automation Letters 2023; ICRA 2023 demo. Ben-Gurion University, Zarrouk lab.
 - **ip status**: open-permissive
 - **prior art notes**: AmphiSTAR establishes 3-year-deep open-academic prior art for **terrestrial-aquatic transition in a single platform with shared ground-contact mechanism**. Directly relevant to free-humanoid-submersible (and the centaur's wetland mode-transition) — proves that wheel-paddle hybrid contact patches and sealed-enclosure amphibious operation are well-anticipated open art. Any commercial claim on amphibious humanoid robotics faces this lineage plus the deeper aquatic-robotics chain (Slocum/Seaglider, OceanOne, AmphiSTAR).
+
+## FLORES wheel-legged robot (2025-07)
+
+- **id**: `flores-wheel-legged-2025`
+- **corpus**: academic
+- **creator**: FLORES authors (per arXiv:2507.22345)
+- **disclosure**: FLORES authors. 'FLORES: A Reconfigured Wheel-Legged Robot for Enhanced Steering and Adaptability'. arXiv:2507.22345, July 2025. Authors per arXiv listing.
+- **ip status**: open-permissive
+- **prior art notes**: FLORES is a contemporary (July 2025) wheel-legged-hybrid academic publication. Architecturally distinct from the STAR family by swapping hip-roll for hip-yaw on the front legs — a design choice that complements the DSTAR sprawl-tuned approach. Shields any commercial claim on hip-yaw front-leg wheel-leg-hybrid configurations and adds to the wheel-leg prior-art chain alongside DSTAR, RSTAR, STAR, AmphiSTAR. Specific authorship and venue per the arXiv preprint.
 
 ## Decoupled STAR (DSTAR) (2026-01)
 

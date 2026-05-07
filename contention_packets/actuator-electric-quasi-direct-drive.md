@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-electric-quasi-direct-drive`  
-**Entries:** 17 (11 commons-grade, 6 draft)  
+**Entries:** 18 (12 commons-grade, 6 draft)  
 **Earliest disclosure:** 2014  
 **Most recent disclosure:** 2025-10
 
@@ -341,6 +341,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-07 — Berkeley Humanoid
+
+- **id:** `berkeley-humanoid-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley Hybrid Robotics Lab; Liao, Zhang, X. Huang, X. Huang, Li, Sreenath
+- **disclosure citation:** Liao, Q., Zhang, B., Huang, X., Huang, X., Li, Z., Sreenath, K. 'Berkeley Humanoid: A Research Platform for Learning-based Control'. arXiv:2407.21781, July 2024. IEEE International Conference on Robotics and Automation (ICRA) 2025. UC Berkeley Hybrid Robotics Lab.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric-quasi-direct-drive`, `control-rl-policy`, `control-sim-to-real`, `control-rough-terrain-locomotion`
+
+**Prior art notes:**
+
+> Berkeley Humanoid is the open academic mid-scale bipedal humanoid research platform from the Sreenath group, ICRA 2025. Open-permissive. Establishes 1-year-deep prior art for: RL-trained locomotion with sim-to-real zero-shot transfer at humanoid scale, low-cost in-house-built humanoid for learning research, anthropomorphic kinematics optimized for sim-to-real. Direct shielding for free-humanoid-platform commitments on bipedal RL locomotion and any commercial humanoid claim on RL-trained outdoor walking. Parent of Berkeley Humanoid Lite (round-11 entry below).
+
+**Sources:**
+
+1. Liao et al. arXiv:2407.21781 July 2024.
+2. ICRA 2025 paper PDF (hybrid-robotics.berkeley.edu/publications/ICRA2025_Berkeley_Humanoid.pdf).
+3. Project page (berkeley-humanoid.com).
+
+---
+
 ### 2024-12 — EngineAI PM01 *(draft)*
 
 - **id:** `engineai-pm01`
@@ -410,4 +431,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*

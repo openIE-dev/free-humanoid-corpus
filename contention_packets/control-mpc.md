@@ -1,7 +1,7 @@
 ---
 title: "control-mpc"
 parent: "Invalidity Contentions"
-nav_order: 21
+nav_order: 22
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-mpc`  
-**Entries:** 37 (34 commons-grade, 3 draft)  
+**Entries:** 38 (35 commons-grade, 3 draft)  
 **Earliest disclosure:** 1980-11  
-**Most recent disclosure:** 2024-12
+**Most recent disclosure:** 2025-03
 
 ---
 
@@ -789,6 +789,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-03 — MuJoCo MPC (Howell-Tassa)
+
+- **id:** `howell-tassa-mujoco-mpc-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Google DeepMind; Howell, Lutter, Tassa et al.
+- **disclosure citation:** Howell, T., Lutter, M., Acero, F., Yuan, M., Tassa, Y., et al. 'Whole-Body Model-Predictive Control of Legged Robots with MuJoCo'. arXiv:2503.04613, March 2025. Google DeepMind / Tassa group.
+- **disclosed subsystems:** `control-mpc`, `control-trajectory-optimization`, `control-real-time-control`, `actuator-foc-controller`
+
+**Prior art notes:**
+
+> Howell-Tassa MuJoCo MPC is the direct 2025 successor to the Tassa iLQG 2012 entry already in the corpus. 14-month-deep open-permissive prior art for: real-time whole-body humanoid MPC using MuJoCo dynamics + finite-difference iLQR. Demonstrated on full-sized humanoid hardware, which closes the simulation-to-real gap that the 2012 Tassa work left open. Direct shielding for any commercial humanoid claim on real-time whole-body trajectory optimization.
+
+**Sources:**
+
+1. Howell et al. arXiv:2503.04613 March 2025.
+2. GitHub: github.com/google-deepmind/mujoco_mpc.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -819,4 +839,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*

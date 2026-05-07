@@ -1,7 +1,7 @@
 ---
 title: "mechanism-reconfigurable"
 parent: "Invalidity Contentions"
-nav_order: 44
+nav_order: 46
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-reconfigurable`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (2 commons-grade, 1 draft)  
 **Earliest disclosure:** 2019-05  
 **Most recent disclosure:** 2026-01
 
@@ -57,6 +57,25 @@ cite, copy, or redistribute these contentions.
 
 1. Zarrouk, D. et al. 'RSTAR' IEEE RA-L 2018-2019.
 2. Ben-Gurion University Bio-inspired and Medical Robotics Lab (bgu.ac.il/zarrouklab).
+
+---
+
+### 2025-07 — FLORES wheel-legged robot *(draft)*
+
+- **id:** `flores-wheel-legged-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** FLORES authors (per arXiv:2507.22345)
+- **disclosure citation:** FLORES authors. 'FLORES: A Reconfigured Wheel-Legged Robot for Enhanced Steering and Adaptability'. arXiv:2507.22345, July 2025. Authors per arXiv listing.
+- **disclosed subsystems:** `mechanism-wheel-leg-hybrid`, `mechanism-reconfigurable`, `control-mode-switching`
+
+**Prior art notes:**
+
+> FLORES is a contemporary (July 2025) wheel-legged-hybrid academic publication. Architecturally distinct from the STAR family by swapping hip-roll for hip-yaw on the front legs — a design choice that complements the DSTAR sprawl-tuned approach. Shields any commercial claim on hip-yaw front-leg wheel-leg-hybrid configurations and adds to the wheel-leg prior-art chain alongside DSTAR, RSTAR, STAR, AmphiSTAR. Specific authorship and venue per the arXiv preprint.
+
+**Sources:**
+
+1. arXiv:2507.22345 July 2025 (https://arxiv.org/html/2507.22345v1).
 
 ---
 
@@ -111,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*

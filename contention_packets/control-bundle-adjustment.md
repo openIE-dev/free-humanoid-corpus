@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-bundle-adjustment`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2021-04  
 **Most recent disclosure:** 2026-04
 
@@ -82,6 +82,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-08 — ViPE (Video Pose Engine)
+
+- **id:** `nvidia-vipe-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA Toronto AI Lab (nv-tlabs); multi-author
+- **disclosure citation:** Huang, J., et al. (NVIDIA Toronto AI Lab + collaborators). 'ViPE: Video Pose Engine for 3D Geometric Perception'. arXiv:2508.10934, August 2025. Open-source release via nv-tlabs/vipe.
+- **disclosed subsystems:** `control-vio-slam`, `control-bundle-adjustment`, `control-monocular-metric-depth`, `control-uncalibrated-video-perception`
+
+**Prior art notes:**
+
+> ViPE is NVIDIA Toronto AI Lab's canonical Video Pose Engine, August 2025 arXiv. Sits **directly between DROID-SLAM (2021) and RADIO-ViPE (2026)** in the visual-SLAM lineage: it is RADIO-ViPE's explicit foundation per the round-10 paper's text ('we build upon ViPE [5]'). 9-month-deep open-permissive academic prior art for: calibration-free metric depth from uncalibrated video, dense bundle adjustment over heterogeneous camera models, online video pose estimation at 3-5 FPS. Direct shielding for any commercial humanoid claim on uncalibrated-camera onboard 3D perception. Plus the 96M-frame released dataset is itself prior art for any humanoid-vision data-curation IP.
+
+**Sources:**
+
+1. arXiv:2508.10934 August 2025.
+2. GitHub: github.com/nv-tlabs/vipe.
+3. HuggingFace paper page (huggingface.co/papers/2508.10934).
+
+---
+
 ### 2026-04 — RADIO-ViPE
 
 - **id:** `radio-vipe-itmo-2026`
@@ -134,4 +155,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*

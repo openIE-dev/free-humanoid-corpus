@@ -1,7 +1,7 @@
 ---
 title: "mechanism-bipedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 37
+nav_order: 39
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 123 (96 commons-grade, 27 draft)  
+**Entries:** 126 (99 commons-grade, 27 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2026-04
 
@@ -2377,6 +2377,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-07 — Berkeley Humanoid
+
+- **id:** `berkeley-humanoid-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley Hybrid Robotics Lab; Liao, Zhang, X. Huang, X. Huang, Li, Sreenath
+- **disclosure citation:** Liao, Q., Zhang, B., Huang, X., Huang, X., Li, Z., Sreenath, K. 'Berkeley Humanoid: A Research Platform for Learning-based Control'. arXiv:2407.21781, July 2024. IEEE International Conference on Robotics and Automation (ICRA) 2025. UC Berkeley Hybrid Robotics Lab.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric-quasi-direct-drive`, `control-rl-policy`, `control-sim-to-real`, `control-rough-terrain-locomotion`
+
+**Prior art notes:**
+
+> Berkeley Humanoid is the open academic mid-scale bipedal humanoid research platform from the Sreenath group, ICRA 2025. Open-permissive. Establishes 1-year-deep prior art for: RL-trained locomotion with sim-to-real zero-shot transfer at humanoid scale, low-cost in-house-built humanoid for learning research, anthropomorphic kinematics optimized for sim-to-real. Direct shielding for free-humanoid-platform commitments on bipedal RL locomotion and any commercial humanoid claim on RL-trained outdoor walking. Parent of Berkeley Humanoid Lite (round-11 entry below).
+
+**Sources:**
+
+1. Liao et al. arXiv:2407.21781 July 2024.
+2. ICRA 2025 paper PDF (hybrid-robotics.berkeley.edu/publications/ICRA2025_Berkeley_Humanoid.pdf).
+3. Project page (berkeley-humanoid.com).
+
+---
+
 ### 2024-08 — Figure 02 *(draft)*
 
 - **id:** `figure-02`
@@ -2457,6 +2478,50 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-02 — ToddlerBot
+
+- **id:** `stanford-toddlerbot-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford Robotics Lab; Haochen Shi, Weizhuo Wang, Shuran Song, C. Karen Liu
+- **disclosure citation:** Shi, H., Wang, W., Song, S., Liu, C. K. 'ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation'. arXiv:2502.00893, February 2025. Conference on Robot Learning (CoRL) 2025 oral. Stanford Robotics Lab.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-3d-printed-platform`, `control-rl-policy`, `control-imitation-learning`, `control-sim-to-real`, `control-loco-manipulation`
+
+**Prior art notes:**
+
+> ToddlerBot is Stanford's canonical sub-$6k open-hardware ML-compatible humanoid (CoRL 2025 oral). Establishes 1-year-deep open-academic prior art for: integrated loco-manipulation policy training on an open humanoid platform, transferable motor system-ID for sim-to-real without hand-tuning, 30-DoF anthropomorphic full-body at sub-$6k. Direct shielding for any commercial claim on integrated full-body humanoid policy training, particularly any 'one policy controls the whole body' claim. Together with Berkeley Humanoid Lite, establishes the open-academic baseline for sub-$10k humanoid robotics.
+
+**Sources:**
+
+1. Shi, Wang, Song, Liu. arXiv:2502.00893 February 2025.
+2. CoRL 2025 proceedings (proceedings.mlr.press/v305/shi25a.html).
+3. Project page (toddlerbot.github.io).
+4. GitHub: github.com/hshi74/toddlerbot.
+
+---
+
+### 2025-04 — Berkeley Humanoid Lite
+
+- **id:** `berkeley-humanoid-lite-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley Hybrid Robotics Lab; Sreenath group
+- **disclosure citation:** Cui, F., Sayle, J., Karydis, K., Liao, Q., et al. 'Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot'. arXiv:2504.17249, April 2025. Robotics: Science and Systems (RSS) 2025. UC Berkeley Hybrid Robotics Lab.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric-cycloidal`, `actuator-3d-printed-reducer`, `mechanism-3d-printed-platform`, `control-rl-policy`, `control-sim-to-real`
+
+**Prior art notes:**
+
+> Berkeley Humanoid Lite is the canonical sub-$5k open-hardware academic bipedal humanoid (RSS 2025). 1-year-deep prior art on: 3D-printed cycloidal reducer humanoid actuator (a specific architectural commitment), full open-source release of hardware + firmware + training, sub-$5k humanoid BOM, RL-controlled walking on a 3D-printed platform. **Direct shielding for free-humanoid-platform** — particularly the 3D-printed actuator path and any commercial claim on accessible humanoid hardware. Together with ToddlerBot and Berkeley Humanoid (full-size), establishes a deep open-academic substrate for any commercial humanoid platform claim.
+
+**Sources:**
+
+1. arXiv:2504.17249 April 2025.
+2. RSS 2025 proceedings paper p062 (roboticsproceedings.org/rss21/p062.pdf).
+3. Project page (lite.berkeley-humanoid.org).
+4. GitHub: github.com/HybridRobotics/Berkeley-Humanoid-Lite.
+
+---
+
 ### 2025-10 — Unitree H2 *(draft)*
 
 - **id:** `unitree-h2`
@@ -2526,4 +2591,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*

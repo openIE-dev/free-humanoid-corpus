@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-arm"
 parent: "Invalidity Contentions"
-nav_order: 35
+nav_order: 37
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-anthropomorphic-arm`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
+**Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 2016-04  
-**Most recent disclosure:** 2022-07
+**Most recent disclosure:** 2025-02
 
 ---
 
@@ -104,6 +104,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-02 — ToddlerBot
+
+- **id:** `stanford-toddlerbot-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford Robotics Lab; Haochen Shi, Weizhuo Wang, Shuran Song, C. Karen Liu
+- **disclosure citation:** Shi, H., Wang, W., Song, S., Liu, C. K. 'ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation'. arXiv:2502.00893, February 2025. Conference on Robot Learning (CoRL) 2025 oral. Stanford Robotics Lab.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-3d-printed-platform`, `control-rl-policy`, `control-imitation-learning`, `control-sim-to-real`, `control-loco-manipulation`
+
+**Prior art notes:**
+
+> ToddlerBot is Stanford's canonical sub-$6k open-hardware ML-compatible humanoid (CoRL 2025 oral). Establishes 1-year-deep open-academic prior art for: integrated loco-manipulation policy training on an open humanoid platform, transferable motor system-ID for sim-to-real without hand-tuning, 30-DoF anthropomorphic full-body at sub-$6k. Direct shielding for any commercial claim on integrated full-body humanoid policy training, particularly any 'one policy controls the whole body' claim. Together with Berkeley Humanoid Lite, establishes the open-academic baseline for sub-$10k humanoid robotics.
+
+**Sources:**
+
+1. Shi, Wang, Song, Liu. arXiv:2502.00893 February 2025.
+2. CoRL 2025 proceedings (proceedings.mlr.press/v305/shi25a.html).
+3. Project page (toddlerbot.github.io).
+4. GitHub: github.com/hshi74/toddlerbot.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -134,4 +156,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*

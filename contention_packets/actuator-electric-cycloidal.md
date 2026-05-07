@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-electric-cycloidal`  
-**Entries:** 4 (1 commons-grade, 3 draft)  
+**Entries:** 5 (2 commons-grade, 3 draft)  
 **Earliest disclosure:** 1937  
-**Most recent disclosure:** 2024-05
+**Most recent disclosure:** 2025-04
 
 ---
 
@@ -122,6 +122,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-04 — Berkeley Humanoid Lite
+
+- **id:** `berkeley-humanoid-lite-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley Hybrid Robotics Lab; Sreenath group
+- **disclosure citation:** Cui, F., Sayle, J., Karydis, K., Liao, Q., et al. 'Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot'. arXiv:2504.17249, April 2025. Robotics: Science and Systems (RSS) 2025. UC Berkeley Hybrid Robotics Lab.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric-cycloidal`, `actuator-3d-printed-reducer`, `mechanism-3d-printed-platform`, `control-rl-policy`, `control-sim-to-real`
+
+**Prior art notes:**
+
+> Berkeley Humanoid Lite is the canonical sub-$5k open-hardware academic bipedal humanoid (RSS 2025). 1-year-deep prior art on: 3D-printed cycloidal reducer humanoid actuator (a specific architectural commitment), full open-source release of hardware + firmware + training, sub-$5k humanoid BOM, RL-controlled walking on a 3D-printed platform. **Direct shielding for free-humanoid-platform** — particularly the 3D-printed actuator path and any commercial claim on accessible humanoid hardware. Together with ToddlerBot and Berkeley Humanoid (full-size), establishes a deep open-academic substrate for any commercial humanoid platform claim.
+
+**Sources:**
+
+1. arXiv:2504.17249 April 2025.
+2. RSS 2025 proceedings paper p062 (roboticsproceedings.org/rss21/p062.pdf).
+3. Project page (lite.berkeley-humanoid.org).
+4. GitHub: github.com/HybridRobotics/Berkeley-Humanoid-Lite.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -152,4 +174,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*
