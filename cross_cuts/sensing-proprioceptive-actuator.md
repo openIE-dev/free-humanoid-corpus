@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `sensing-proprioceptive-actuator`
 
-**14 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1980-11
 
@@ -132,6 +132,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: The QDD actuator topology (low gear ratio, high-torque BLDC, transparent backdrivability) is a foundational contribution. Establishes the design space for affordable dynamic legged robots.
 
+## Caltech CAST Hank bipedal platform (2019-05)
+
+- **id**: `caltech-hank-cast-2019`
+- **corpus**: academic
+- **creator**: Aaron D. Ames and the Caltech AMBER Lab / CAST
+- **disclosure**: Reher, Jenna and Ames, Aaron D. 'Inverse Dynamics Control of Compliant Hybrid Zero Dynamic Walking.' ICRA 2021; Csomay-Shanklin, Noel et al. 'Episodic Learning for Safe Bipedal Locomotion with Control Barrier Functions and Projection-to-State Safety.' L4DC 2021; CAST (Center for Autonomous Systems and Technologies) Caltech Hank reveal 2019.
+- **ip status**: public-domain
+- **prior art notes**: Hank is the Caltech CAST flagship humanoid biped of the late-2010s and is the canonical platform for HZD + CBF formal-method bipedal locomotion publications by the Ames group. It anticipates with full specificity: (1) claims on hybrid-zero-dynamics low-dimensional gait manifolds for humanoids — Reher-Ames ICRA 2021 publishes the formal HZD+ID-CLF-QP stack on Hank; (2) claims on control-barrier-function safety supervision for legged locomotion — Csomay-Shanklin L4DC 2021 publishes episodic CBF learning on Hank; (3) claims on quasi-direct-drive proprioceptive humanoid biped hardware — Hank's actuator topology predates and parallels Tesla Optimus and Apptronik Apollo public claims. All Hank publications are open-access with timestamped arXiv.
+
+## ANYmal-D industrial quadruped (ETH RSL / ANYbotics) (2022-09)
+
+- **id**: `anymal-d-eth-rsl-2022`
+- **corpus**: academic
+- **creator**: ANYbotics AG / ETH Zürich Robotic Systems Lab (Marco Hutter)
+- **disclosure**: ANYbotics product disclosure ANYmal D, September 2022; technical updates in Miki, Takahiro et al. 'Learning robust perceptive locomotion for quadrupedal robots in the wild.' Science Robotics 7(62), 2022; Hoeller, David et al. 'ANYmal Parkour: Learning agile navigation for quadrupedal robots.' Science Robotics 9(88), 2024.
+- **ip status**: public-domain
+- **prior art notes**: ANYmal-D is the production-deployed industrial quadruped of the 2022-2024 period and the platform for the headline RSL/ANYbotics RL-locomotion papers in Science Robotics. It anticipates with full specificity: (1) claims on perceptive-locomotion RL policies trained in simulation and transferred to outdoor industrial terrain — Miki Sci.Rob. 2022 publishes the teacher-student distillation pipeline running on this hardware; (2) claims on agile parkour-class learned locomotion — Hoeller Sci.Rob. 2024 publishes the policy on ANYmal-D; (3) claims on series-elastic torque-controlled quadruped joints in IP67 industrial enclosures — ANYdrive disclosed at IROS 2018 with hardware refresh on D-variant. Modern legged-robot IP claims face this timestamped industrial-deployment anchor.
+
 ## BridgeData V2 multi-robot trajectory dataset (2023-08)
 
 - **id**: `bridgedata-v2-walke-2023`
@@ -140,3 +158,21 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Walke, Homer, Black, Kevin, Zhao, Tony, Vuong, Quan, Zheng, Chongyi, Hansen-Estruch, Philippe, He, Andre Wang, Myers, Vivek, Kim, Moo Jin, Du, Max, Lee, Abraham, Fang, Kuan, Finn, Chelsea, Levine, Sergey. 'BridgeData V2: A Dataset for Robot Learning at Scale.' Conference on Robot Learning (CoRL) 2023; arXiv:2308.12952, August 2023.
 - **ip status**: public-domain
 - **prior art notes**: BridgeData V2 is the canonical scaled trajectory dataset for low-cost manipulator imitation learning prior to the foundation-model robotic policy era. It anticipates with full specificity: (1) claims on language-conditioned manipulation policies trained from scaled demonstration data — BridgeV2 pairs natural-language instructions with each episode and is the headline training corpus for RT-1, RT-2 and Octo follow-ons; (2) claims on cross-environment generalization of imitation policies — the 24-environment span is its core benchmark; (3) claims on affordable-platform shared trajectory infrastructure (the WidowX 250s standardization) anticipating community-platform humanoid IP. Released under CC-BY-4.0 with timestamped arXiv. Modern humanoid VLA training-data claims face this 2023 anchor at element-by-element specificity.
+
+## Reachy-2 open-source humanoid platform (Pollen Robotics) (2023-10)
+
+- **id**: `reachy-2-pollen-2023`
+- **corpus**: academic
+- **creator**: Pollen Robotics SAS (Matthieu Lapeyre, Pierre Rouanet et al.)
+- **disclosure**: Pollen Robotics. 'Introducing Reachy 2.' Pollen Robotics blog and product launch, October 2023; technical hardware repository pollen-robotics/reachy2_sdk, GitHub, 2023-2024.
+- **ip status**: public-domain
+- **prior art notes**: Reachy-2 is the 2023 successor to the open-source Reachy-1 platform and is one of the few European-origin commercial humanoid upper-bodies released with full open hardware/firmware. It anticipates with full specificity: (1) claims on open-source humanoid SDKs with VR-teleoperation for imitation-learning data collection — Pollen publishes the SDK and Quest-Pro tele-op pipeline on GitHub Apache-2.0; (2) claims on parallel-spherical-mechanism necks (Orbita 3-DoF) — Reachy-2 ships and documents the kinematic with patent-expired joint topology; (3) claims on quasi-direct-drive humanoid arm modules at sub-40kg torso mass — Reachy-2 datasheet and CAD release. Modern humanoid commercial platforms claiming open-hardware tele-op pipelines face this timestamped 2023 anchor.
+
+## ALOHA-2 enhanced bimanual teleoperation platform (2024-02)
+
+- **id**: `aloha-2-aldaco-2024`
+- **corpus**: academic
+- **creator**: Aldaco, Armstrong, Bingham, Florence, Ichter, Finn, Levine, Zhao et al. (Google DeepMind + Stanford)
+- **disclosure**: Aldaco, Jorge, Armstrong, Travis, Baruch, Robert, Bingham, Jennifer, Chan, Sanky, Dwibedi, Debidatta, Finn, Chelsea, Florence, Pete, Ichter, Brian, et al. 'ALOHA 2: An Enhanced Low-Cost Hardware for Bimanual Teleoperation.' arXiv:2405.02292, May 2024; Google DeepMind/Stanford joint disclosure February 2024.
+- **ip status**: public-domain
+- **prior art notes**: ALOHA-2 is the canonical 2024 successor of the ALOHA bimanual teleoperation hardware and is the platform-of-record for Google DeepMind / Stanford bimanual imitation-learning papers from 2024 onward. It anticipates with full specificity: (1) claims on low-cost open-hardware bimanual teleoperation kits for imitation-learning data collection — ALOHA-2 publishes complete CAD, BOM, and firmware under Apache-2.0; (2) claims on rubber-compliant parallel-jaw fingertips for delicate-manipulation imitation data — explicitly described in Aldaco et al. 2024; (3) claims on leader-follower puppeteering protocols with friction-compensated gravity models — published with timestamped arXiv. Modern humanoid bimanual data-collection IP faces this anchor at hardware-element specificity.

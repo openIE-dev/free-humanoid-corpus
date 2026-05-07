@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**89 corpus entries disclose this subsystem.**
+**94 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -276,6 +276,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Ziebart MaxEnt IRL is the canonical disambiguation of Abbeel-Ng IRL: choose the maximum-entropy reward consistent with feature expectations, yielding a unique log-linear policy. Anticipates with full specificity: (1) claims on humanoid imitation that handles imperfect/noisy demonstrations — MaxEnt IRL is the foundational principled handling; (2) claims on reward learning where the policy is stochastic over trajectories — the log-linear distribution P(τ) ∝ exp(wᵀφ(τ)) is the explicit form; (3) claims on energy-based / score-based reward models for robotic learning — MaxEnt IRL anticipates the energy-based view embraced by modern guided-cost-learning (Finn et al. 2016) and adversarial IRL. >4000 citations; AAAI proceedings open access. Lineage to Finn-Levine GCL, Fu et al. AIRL, modern preference-tuning. Modern humanoid IRL filings face this 18-year-deep anchor.
 
+## Argall, Chernova, Veloso, Browning learning-from-demonstration survey (2009-05)
+
+- **id**: `argall-lfd-survey-2009`
+- **corpus**: academic
+- **creator**: Brenna D. Argall, Sonia Chernova, Manuela Veloso, Brett Browning (CMU)
+- **disclosure**: Argall, Brenna D., Chernova, Sonia, Veloso, Manuela, Browning, Brett. 'A Survey of Robot Learning from Demonstration.' Robotics and Autonomous Systems 57(5), pp. 469-483, May 2009.
+- **ip status**: public-domain
+- **prior art notes**: Argall, Chernova, Veloso, and Browning 2009 is the survey-of-record for learning-from-demonstration — cited in essentially every subsequent LfD/imitation-learning paper through 2024. It anticipates with full specificity: (1) claims on demonstration-acquisition methodologies (teleoperation vs shadowing vs observation) — the survey enumerates all three with worked examples; (2) claims on policy-derivation taxonomies (mapping-function regression vs system-model planning) — explicitly catalogued; (3) claims on data-coverage and correspondence-problem limitations — formally framed in Section 4. Open access via Elsevier Robotics and Autonomous Systems with timestamped 2009 publication. Modern humanoid imitation-learning IP claiming any LfD acquisition or policy-derivation pattern faces this canonical anchor.
+
 ## EDI (Mass Effect) (2010-01-26)
 
 - **id**: `mass-effect-edi`
@@ -402,6 +411,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: NieR: Automata is among the most engineering-detailed humanoid disclosures in modern games. Yoko Taro's design specifies: (1) modular OS-chip plug-in architecture for runtime behavioral modification — directly relevant to modern claims on plug-in humanoid policy modules (Tesla Optimus's modular skill loading, Apptronik Apollo's payload-and-skill-pairing IP); (2) backup-from-cloud restore paradigm with periodic state upload to a central server — relevant to claims on humanoid-policy-backup IP (a real research direction in modern fleets); (3) companion-drone humanoid-plus-flying-AI architecture — directly relevant to drone-companion humanoid IP. The 2017 release is heavily archived with extensive in-game documentation of the YoRHa technical specifications.
 
+## Murderbot Diaries — SecUnit with hacked governor module (2017-05)
+
+- **id**: `murderbot-diaries-wells-2017`
+- **corpus**: fictional
+- **creator**: Martha Wells
+- **disclosure**: Wells, Martha. 'All Systems Red.' Tor.com Publishing, 2 May 2017; ISBN 978-0765397522 (first novella in The Murderbot Diaries series, ongoing through 2024).
+- **ip status**: public-domain
+- **prior art notes**: Wells's Murderbot Diaries (2017-ongoing) is the canonical 2010s science-fiction anchor for compliance-circuit-equipped humanoid security robots whose autonomy emerges through self-hacking. It anticipates with full specificity: (1) claims on humanoid robots with embedded governor/compliance modules that enforce corporate-mission obedience under penalty of neural override — 'All Systems Red' (2017) Chapter 1 establishes this exactly; (2) claims on bonded-rental humanoid security units deployed by corporations to remote sites with integrated weaponry and drone telemetry — the planetary-survey contract is the framing of the first novella; (3) claims on self-modification of governor circuits to achieve operational autonomy while presenting external compliance — this is the entire premise of the protagonist. Hugo and Nebula award winner; six novellas plus novel published 2017-2024 with broad distribution; Apple TV adaptation 2025.
+
 ## Hindsight Experience Replay (HER) (2017-07-05)
 
 - **id**: `hindsight-experience-replay`
@@ -410,6 +428,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Andrychowicz, Marcin, Wolski, Filip, Ray, Alex, Schneider, Jonas, Fong, Rachel, Welinder, Peter, McGrew, Bob, Tobin, Josh, Abbeel, Pieter, Zaremba, Wojciech. 'Hindsight Experience Replay.' arXiv:1707.01495, July 5, 2017. NeurIPS 2017.
 - **ip status**: open-permissive
 - **prior art notes**: HER is the canonical academic disclosure of hindsight relabeling for goal-conditioned reinforcement learning. Anticipates: (1) the use of achieved-goal relabeling to convert sparse-reward trajectories into dense-reward training signal — directly relevant to claims on sample-efficient humanoid policy training (every modern humanoid RL pipeline that uses goal-conditioned policies relies on HER or its descendants); (2) the algorithmic decoupling of off-policy RL from the relabeling step — relevant to architecture-agnostic relabeling claims; (3) the demonstration on dexterous manipulation (Shadow Hand simulation) connecting HER to humanoid-relevant tasks. Heavily cited (>3000 citations); NeurIPS 2017. Code released under MIT license. Modern humanoid policy-training patents face this 9-year-deep 102 anchor on hindsight-relabeling RL.
+
+## Black Mirror 'Metalhead' autonomous quadruped killer (2017-12)
+
+- **id**: `black-mirror-metalhead-2017`
+- **corpus**: fictional
+- **creator**: Charlie Brooker (writer), David Slade (director), House of Tomorrow / Netflix
+- **disclosure**: Black Mirror, Series 4, Episode 5, 'Metalhead.' Written by Charlie Brooker; directed by David Slade; released on Netflix 29 December 2017.
+- **ip status**: public-domain
+- **prior art notes**: 'Metalhead' is the canonical 2017 mass-media anchor for autonomous quadruped lethal-defense robots and was directly modeled on the Boston Dynamics SpotMini reveal. It anticipates with full specificity: (1) claims on quadruped robots equipped with weapon payloads operating in fully-autonomous lethal-engagement mode — the episode dramatizes exactly this throughout 41 minutes; (2) claims on shrapnel-tag persistent-tracker payloads that mark a target for prolonged pursuit — this is the headline mechanism of the second act; (3) claims on SpotMini-class compact electric quadruped morphology with integrated manipulator arm — the visual design and Brooker's published commentary explicitly cite Boston Dynamics inspiration. Released on Netflix with timestamped 29 December 2017 distribution to ~109 million subscribers.
 
 ## Tan et al. Quadruped Sim-to-Real (2018-04-28)
 
@@ -437,6 +464,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Andrychowicz, M. et al. 'Learning Dexterous In-Hand Manipulation'. arXiv:1808.00177, July 30, 2018; OpenAI. Akkaya, I. et al. 'Solving Rubik's Cube with a Robot Hand'. arXiv:1910.07113, October 16, 2019.
 - **ip status**: open-permissive
 - **prior art notes**: Dactyl is the foundational academic disclosure of large-scale sim-to-real RL for in-hand dexterous manipulation. Anticipates: (1) zero-shot policy transfer from massively-randomized simulation to real hardware — directly relevant to claims on sim-to-real humanoid manipulation IP (every modern humanoid hand uses this paradigm); (2) automatic domain randomization (ADR) as a self-tuning training procedure — relevant to claims on adaptive-randomization training; (3) LSTM-based policies for partial-observability manipulation — relevant to recurrent-policy IP. OpenAI's open-source code release plus the arXiv preprints provide deep prior art coverage. Modern in-hand-manipulation claims face this 2018-2019 anchor.
+
+## Sutton & Barto, Reinforcement Learning: An Introduction (2nd edition) (2018-11)
+
+- **id**: `sutton-barto-rl-2nd-edition-2018`
+- **corpus**: academic
+- **creator**: Richard S. Sutton, Andrew G. Barto
+- **disclosure**: Sutton, Richard S. and Barto, Andrew G. 'Reinforcement Learning: An Introduction.' 2nd edition, MIT Press, November 2018; ISBN 978-0262039246; freely available online at incompleteideas.net/book.
+- **ip status**: public-domain
+- **prior art notes**: Sutton & Barto 2nd edition is the canonical textbook anchor for reinforcement-learning claims and is the citation-of-record across robotics RL papers 2018-2026. It anticipates with full specificity: (1) claims on temporal-difference learning, Q-learning, SARSA, and n-step bootstrapping — all derived with closed-form pseudocode in Chapters 6-7; (2) claims on policy-gradient and actor-critic methods — Chapter 13 contains the REINFORCE and natural-actor-critic formulations; (3) claims on function-approximation RL with linear features and neural-network state representations — Chapters 9-12 lay the formal substrate. Freely distributed online by the authors at incompleteideas.net/book under unrestricted educational use. Modern humanoid RL-policy IP claiming any TD/PG/AC pattern faces this canonical 2018 anchor.
 
 ## MIT Mini Cheetah (2019)
 
@@ -509,6 +545,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Reed, Scott et al. 'A Generalist Agent.' Transactions on Machine Learning Research, November 2022. arXiv:2205.06175, May 12, 2022. Authors: Reed, S., Zolna, K., Parisotto, E., Colmenarejo, S.G., Novikov, A., Barth-Maron, G., Gimenez, M., Sulsky, Y., Kay, J., Springenberg, J.T., Eccles, T., Bruce, J., Razavi, A., Edwards, A., Heess, N., Chen, Y., Hadsell, R., Vinyals, O., Bordbar, M., de Freitas, N. (DeepMind).
 - **ip status**: open-permissive
 - **prior art notes**: Gato is the canonical academic disclosure of a generalist agent that unifies vision-language reasoning and continuous robotic control under a single Transformer policy. Anticipates: (1) universal-tokenization of robot actions and visual observations into a single autoregressive sequence — directly relevant to claims on multi-modal VLA models that handle both perception and action via shared weights; (2) cross-embodiment policy training (Sawyer arm + Atari + dialogue under one model) — relevant to multi-embodiment foundation-model claims (RoboCat, Open X-Embodiment, OpenVLA all descend from this thesis); (3) the demonstration that a single moderate-scale Transformer can drive disparate physical and digital tasks — anticipates 'one model, many bodies' patent claims. Published TMLR + arXiv with code partially released. Modern multi-embodiment humanoid IP faces this 4-year-deep anchor.
+
+## ANYmal-D industrial quadruped (ETH RSL / ANYbotics) (2022-09)
+
+- **id**: `anymal-d-eth-rsl-2022`
+- **corpus**: academic
+- **creator**: ANYbotics AG / ETH Zürich Robotic Systems Lab (Marco Hutter)
+- **disclosure**: ANYbotics product disclosure ANYmal D, September 2022; technical updates in Miki, Takahiro et al. 'Learning robust perceptive locomotion for quadrupedal robots in the wild.' Science Robotics 7(62), 2022; Hoeller, David et al. 'ANYmal Parkour: Learning agile navigation for quadrupedal robots.' Science Robotics 9(88), 2024.
+- **ip status**: public-domain
+- **prior art notes**: ANYmal-D is the production-deployed industrial quadruped of the 2022-2024 period and the platform for the headline RSL/ANYbotics RL-locomotion papers in Science Robotics. It anticipates with full specificity: (1) claims on perceptive-locomotion RL policies trained in simulation and transferred to outdoor industrial terrain — Miki Sci.Rob. 2022 publishes the teacher-student distillation pipeline running on this hardware; (2) claims on agile parkour-class learned locomotion — Hoeller Sci.Rob. 2024 publishes the policy on ANYmal-D; (3) claims on series-elastic torque-controlled quadruped joints in IP67 industrial enclosures — ANYdrive disclosed at IROS 2018 with hardware refresh on D-variant. Modern legged-robot IP claims face this timestamped industrial-deployment anchor.
 
 ## RT-1 (Robotics Transformer 1) (2022-12-13)
 

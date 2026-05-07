@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vla-vision-language-action`
 
-**51 corpus entries disclose this subsystem.**
+**60 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -195,6 +195,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: JARVIS's 2008 disclosure (predating modern foundation-model VLA / co-pilot humanoid claims by ~14 years) establishes the *integrated AI co-pilot for powered exoskeleton* paradigm in mainstream culture. Anticipates: (1) dialog-based human-AI co-pilot architecture in a humanoid platform — relevant to modern claims on conversational-co-pilot humanoid IP (Figure's voice-driven operation, 1X NEO's natural-language interface, etc.); (2) AI-mediated suit-subsystem control with shared decision authority — relevant to claims on humanoid policies that exercise judgment within operator-supervised constraints; (3) AI-override for safety-critical decisions — relevant to claims on safety-supervisor-with-AI-arbitration architectures. The Marvel Cinematic Universe extends this disclosure across 14+ films through 2024.
 
+## Argall, Chernova, Veloso, Browning learning-from-demonstration survey (2009-05)
+
+- **id**: `argall-lfd-survey-2009`
+- **corpus**: academic
+- **creator**: Brenna D. Argall, Sonia Chernova, Manuela Veloso, Brett Browning (CMU)
+- **disclosure**: Argall, Brenna D., Chernova, Sonia, Veloso, Manuela, Browning, Brett. 'A Survey of Robot Learning from Demonstration.' Robotics and Autonomous Systems 57(5), pp. 469-483, May 2009.
+- **ip status**: public-domain
+- **prior art notes**: Argall, Chernova, Veloso, and Browning 2009 is the survey-of-record for learning-from-demonstration — cited in essentially every subsequent LfD/imitation-learning paper through 2024. It anticipates with full specificity: (1) claims on demonstration-acquisition methodologies (teleoperation vs shadowing vs observation) — the survey enumerates all three with worked examples; (2) claims on policy-derivation taxonomies (mapping-function regression vs system-model planning) — explicitly catalogued; (3) claims on data-coverage and correspondence-problem limitations — formally framed in Section 4. Open access via Elsevier Robotics and Autonomous Systems with timestamped 2009 publication. Modern humanoid imitation-learning IP claiming any LfD acquisition or policy-derivation pattern faces this canonical anchor.
+
 ## EDI (Mass Effect) (2010-01-26)
 
 - **id**: `mass-effect-edi`
@@ -204,6 +213,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: EDI's 2012 disclosure of an AI uploading from a ship-network into a humanoid chassis provides prior art for: (1) AI-to-embodied-platform transfer architecture — relevant to claims on portable AI substrate IP that is increasingly common in modern humanoids; (2) network-cognition-in-humanoid-body architecture (EDI retains her original ship-class cognition) — relevant to networked-mind humanoid IP. Continuously available since 2012.
 
+## Real Humans / Äkta människor — Hubot household humanoids (2012-01)
+
+- **id**: `akta-manniskor-real-humans-2012`
+- **corpus**: fictional
+- **creator**: Lars Lundström (creator); Matador Film / SVT
+- **disclosure**: Äkta människor (Real Humans), Series 1. Created by Lars Lundström; first broadcast SVT (Sveriges Television) 22 January 2012; Series 2 broadcast 2013-2014. Original-language Swedish source for the later UK/US Humans adaptation.
+- **ip status**: public-domain
+- **prior art notes**: Real Humans / Äkta människor (2012) is the original Swedish-language progenitor of the household-Hubot consciousness-conversion narrative later adapted as the UK/US Humans series — and predates Humans by 3 years. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid robots with synthetic skin and bipedal anatomy — Hubots manufactured by AdamBots are dramatized across all 20 episodes; (2) claims on consciousness-firmware lineage transferable between humanoid units — the Children-of-David subplot establishes this in 2012, predating Humans (2015) and Westworld (2016) consciousness-conversion plots; (3) claims on hard-coded safety-locked household-service humanoid policy with dramatic consciousness-emergence narrative — Series 1 Episode 1 establishes the locked baseline. Broadcast SVT with timestamped 22 January 2012 air date.
+
+## Black Mirror 'Be Right Back' bio-printed companion humanoid (2013-02)
+
+- **id**: `black-mirror-be-right-back-2013`
+- **corpus**: fictional
+- **creator**: Charlie Brooker (writer), Owen Harris (director), Channel 4 / Zeppotron
+- **disclosure**: Black Mirror, Series 2, Episode 1, 'Be Right Back.' Written by Charlie Brooker; directed by Owen Harris; first broadcast Channel 4, 11 February 2013.
+- **ip status**: public-domain
+- **prior art notes**: 'Be Right Back' is the canonical 2013 mass-media anchor for the concept of a bio-printed companion humanoid bonded to a behavioral model trained on the deceased's digital trace. It anticipates with full specificity: (1) claims on personality-cloning humanoids whose policy is fit to a corpus of social-media posts, photographs, and video — the episode dramatizes exactly this pipeline including training-data ingestion screens; (2) claims on bio-printed/vat-grown anatomical humanoid bodies with sensorimotor parity to humans — the activation tank scene depicts the manufacturing process; (3) claims on companionship-grade humanoid emotional-response calibration with explicit failure modes (no unprompted affect, no sleep cycle) — these are the dramatic core of Acts 2-3. Broadcast on Channel 4 with timestamped 11 Feb 2013 air date and broadly redistributed via Netflix.
+
 ## Ava (Ex Machina) (2014-09-04)
 
 - **id**: `ex-machina-ava`
@@ -212,6 +239,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Garland, Alex (writer/dir.). Ex Machina. Universal Pictures International, September 4, 2014 (Toronto Film Festival premiere; UK release January 2015).
 - **ip status**: fictional
 - **prior art notes**: Critically important fictional anticipation of contemporary VLA architecture. Garland's 2014 disclosure: a humanoid policy trained on web-scale collected behavioral data ('search engines') as a foundation model for embodied agency. This *exactly* describes what RT-2 (2023) and OpenVLA (2024) implement nine years later. Predates RT-2 by 9 years; predates Open X-Embodiment by 9 years. Modern VLA / foundation-model-policy claims face a 2014 fictional disclosure that names the specific training-data source and the specific deployment substrate (humanoid embodiment). Plausibly the strongest single fictional 102 anticipation in the corpus for VLA IP.
+
+## Black Mirror 'White Christmas' cookies and consciousness copies (2014-12)
+
+- **id**: `black-mirror-white-christmas-2014`
+- **corpus**: fictional
+- **creator**: Charlie Brooker (writer), Carl Tibbetts (director), Channel 4 / Zeppotron
+- **disclosure**: Black Mirror, 'White Christmas.' Written by Charlie Brooker; directed by Carl Tibbetts; first broadcast Channel 4, 16 December 2014.
+- **ip status**: public-domain
+- **prior art notes**: 'White Christmas' is the canonical 2014 mass-media anchor for surgically-extracted consciousness-copy cookies used as embedded virtual-assistant intelligences. It anticipates with full specificity: (1) claims on whole-brain-emulation copies sourced from a single human and embedded as a smart-home or assistant intelligence — the episode dramatizes exactly this with on-screen extraction, calibration, and deployment; (2) claims on subjective-time-dilation control of digital consciousness for training/coercion purposes — Matt's interrogation sequences explicitly depict thousand-to-one and million-to-one ratios; (3) claims on social-isolation blocking primitives applied to copied consciousness as a punishment mechanism — this is the third-act concept. Broadcast Channel 4 16 Dec 2014, distributed globally via Netflix with timestamped redistribution.
 
 ## Chappie (2015-03-06)
 
@@ -230,6 +266,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Levine, Sergey, Finn, Chelsea, Darrell, Trevor, Abbeel, Pieter. 'End-to-End Training of Deep Visuomotor Policies.' Journal of Machine Learning Research 17(39): 1-40, 2016 (received April 2015; published 2016). Earlier: Levine, S., Wagener, N., Abbeel, P. 'Learning Contact-Rich Manipulation Skills with Guided Policy Search.' ICRA 2015.
 - **ip status**: public-domain
 - **prior art notes**: Levine et al. 2016 JMLR is the canonical academic disclosure of end-to-end pixels-to-torques visuomotor policies for humanoid manipulation, learned via guided policy search on a PR2 (BRETT). Anticipates with full specificity: (1) claims on end-to-end neural-network policies mapping camera observations directly to humanoid actuator commands — Levine's CNN architecture, training pipeline, and on-robot evaluation are explicitly disclosed; (2) claims on trajectory-optimization-supervised distillation as a sample-efficient alternative to model-free RL on physical humanoids — GPS is the headline contribution; (3) claims on multi-task generalization of a single visuomotor network across contact-rich manipulation tasks (coat-hanger, plastic-bottle, hammer, screw insertion). >3500 citations; JMLR open access; arXiv preprint 2015. The lineage runs directly forward to RT-1, RT-2, OpenVLA, and modern humanoid VLA systems. Modern humanoid end-to-end visuomotor IP filings face this 11-year-deep anchor with full architecture disclosure.
+
+## Humans (Channel 4 / AMC) Synth household robots (2015-06)
+
+- **id**: `humans-channel4-amc-2015`
+- **corpus**: fictional
+- **creator**: Sam Vincent, Jonathan Brackley (developers); Kudos / Channel 4 / AMC
+- **disclosure**: Humans, Series 1-3. Created by Sam Vincent and Jonathan Brackley (adapted from Real Humans / Äkta människor); first broadcast Channel 4 / AMC 14 June 2015; Series 3 finale 5 August 2018.
+- **ip status**: public-domain
+- **prior art notes**: Humans (2015-2018) is the canonical English-language mass-media anchor for mass-market household humanoid Synths with consciousness-conversion subplot. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid service robots with hyper-real synthetic skin and factory-assembly pipelines — Persona Synthetics is shown across all 3 series; (2) claims on hard-coded safety constraint layers ('do no harm to humans') overlaid on policy networks — Synths cannot override these in standard configuration; (3) claims on consciousness-conversion firmware patches that propagate awareness to peer Synths — the 'Day Zero' code distribution is the Series 3 dramatic core. Broadcast on Channel 4 / AMC with timestamped 14 June 2015 air date.
+
+## Steins;Gate 0 Amadeus AI consciousness backup (2015-12)
+
+- **id**: `steins-gate-amadeus-2015`
+- **corpus**: fictional
+- **creator**: 5pb. / Mages (Chiyomaru Shikura, scenario); White Fox studio (anime adaptation)
+- **disclosure**: Steins;Gate 0 (visual novel), 5pb. / Mages, December 2015; anime adaptation White Fox, April-September 2018; original mechanism premise extends from Steins;Gate (2009 VN) Amadeus subplot.
+- **ip status**: public-domain
+- **prior art notes**: The Amadeus AI of Steins;Gate 0 is the canonical 2015-2018 Japanese mass-media anchor for cloud-hosted consciousness-clone assistants embodied via holographic projection. It anticipates with full specificity: (1) claims on consciousness-cloning AI fit to a single individual via brain scan plus longitudinal behavioral data — Amadeus's pipeline is described in detail across the visual novel and Episodes 1-3 of the anime; (2) claims on smartphone-embedded volumetric/holographic avatar embodiment of a personality-cloned AI — the projected Kurisu interface is shown throughout; (3) claims on dual civilian/military deployment of consciousness-clone AI as tactical advisor — Amadeus-II / DURPA subplot. Visual novel released December 2015; anime simulcast 2018 globally via Crunchyroll.
+
+## The Wild Robot — ROZZUM unit 7134 (2016-04)
+
+- **id**: `wild-robot-rozzum-7134-brown-2016`
+- **corpus**: fictional
+- **creator**: Peter Brown (novelist); Chris Sanders (DreamWorks adaptation)
+- **disclosure**: Brown, Peter. 'The Wild Robot.' Little, Brown Books for Young Readers, 5 April 2016; ISBN 978-0316382007. DreamWorks Animation theatrical adaptation directed by Chris Sanders, released 27 September 2024.
+- **ip status**: public-domain
+- **prior art notes**: Peter Brown's 'The Wild Robot' (2016) and the DreamWorks 2024 theatrical adaptation form the canonical mass-media anchor for mass-produced general-purpose service humanoids that dramatically refine their objective functions through wilderness-environment adaptation. It anticipates with full specificity: (1) claims on mass-produced bipedal service humanoids with weatherproof construction and multi-arm tool-changer configurations — ROZZUM datasheet language used in the novel; (2) claims on adaptive policy revision in service humanoids exposed to long-duration unstructured environments — Roz's three-year island arc dramatizes exactly this; (3) claims on cross-species or cross-cultural communication acquisition by a service humanoid — Roz's animal-language acquisition is the second-act core. Children's-book bestseller 2016; DreamWorks theatrical release 27 September 2024 reached ~$330M box office.
 
 ## YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) (2017-02-23)
 
@@ -257,6 +320,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Chabon, Michael (showrunner); Goldsman, Akiva and Kurtzman, Alex (creators). Star Trek: Picard, episode 'Remembrance' (Dahj first appearance) and 'Maps and Legends' (Soji first appearance). CBS All Access, January 23, 2020 - January 30, 2020.
 - **ip status**: fictional
 - **prior art notes**: Picard's Soong-Soji-type androids (2020) provide modern Star Trek prior art for: (1) twin-manufacture humanoid platform via 'fractal neuronic cloning' — relevant to claims on humanoid manufacturing processes that produce paired units; (2) false-memory implantation for identity establishment — directly relevant to modern claims on humanoid platforms with operator-controlled memory state (not currently common but foreseeable); (3) biological-substrate android with positronic-neuron identification mark — relevant to humanoid identification IP. Continuously available since 2020.
+
+## Klara and the Sun — Artificial Friend (AF) child companion (2021-03)
+
+- **id**: `ishiguro-klara-and-the-sun-2021`
+- **corpus**: fictional
+- **creator**: Kazuo Ishiguro
+- **disclosure**: Ishiguro, Kazuo. 'Klara and the Sun.' Faber & Faber (UK) / Alfred A. Knopf (US), 2 March 2021; ISBN 978-0593318171.
+- **ip status**: public-domain
+- **prior art notes**: Ishiguro's 'Klara and the Sun' (2021) is the canonical literary-fiction anchor for solar-powered child-companion AFs by a Nobel-laureate author. It anticipates with full specificity: (1) claims on solar-powered humanoid child-companion robots with continually-learning observation policies — Klara's solar dependence and observational learning are core to the novel; (2) claims on model-generation lineage with successive sensorimotor refinement (B1/B2/B3) — explicit market-segmentation language used; (3) claims on companion humanoids designed as 'continuation' substitutes for ill or deceased humans — the Josie subplot dramatizes exactly this proposed substitution. Published with hardcover ISBN and timestamped 2 March 2021 release; international literary distribution; Nobel-laureate author elevates evidentiary weight.
 
 ## SayCan (Do As I Can, Not As I Say) (2022-04-04)
 
@@ -401,6 +473,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fu, Z., Zhao, T.Z., Finn, C. 'Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation'. arXiv:2401.02117, January 4, 2024.
 - **ip status**: open-permissive
 - **prior art notes**: Mobile ALOHA extends ACT/ALOHA to whole-body wheeled-mobile bimanual manipulation. Anticipates: (1) low-cost wheeled-bimanual humanoid teleoperation rigs — directly relevant to claims on commercial wheeled-humanoid teleop IP; (2) co-training across static and mobile demonstrations — relevant to claims on multi-data-source humanoid policies; (3) whole-body action chunking — relevant to whole-body humanoid policy IP. The January 2024 release with full open-source design provides immediate prior art coverage for the year's subsequent commercial wheeled-bimanual humanoid claims.
+
+## ALOHA-2 enhanced bimanual teleoperation platform (2024-02)
+
+- **id**: `aloha-2-aldaco-2024`
+- **corpus**: academic
+- **creator**: Aldaco, Armstrong, Bingham, Florence, Ichter, Finn, Levine, Zhao et al. (Google DeepMind + Stanford)
+- **disclosure**: Aldaco, Jorge, Armstrong, Travis, Baruch, Robert, Bingham, Jennifer, Chan, Sanky, Dwibedi, Debidatta, Finn, Chelsea, Florence, Pete, Ichter, Brian, et al. 'ALOHA 2: An Enhanced Low-Cost Hardware for Bimanual Teleoperation.' arXiv:2405.02292, May 2024; Google DeepMind/Stanford joint disclosure February 2024.
+- **ip status**: public-domain
+- **prior art notes**: ALOHA-2 is the canonical 2024 successor of the ALOHA bimanual teleoperation hardware and is the platform-of-record for Google DeepMind / Stanford bimanual imitation-learning papers from 2024 onward. It anticipates with full specificity: (1) claims on low-cost open-hardware bimanual teleoperation kits for imitation-learning data collection — ALOHA-2 publishes complete CAD, BOM, and firmware under Apache-2.0; (2) claims on rubber-compliant parallel-jaw fingertips for delicate-manipulation imitation data — explicitly described in Aldaco et al. 2024; (3) claims on leader-follower puppeteering protocols with friction-compensated gravity models — published with timestamped arXiv. Modern humanoid bimanual data-collection IP faces this anchor at hardware-element specificity.
 
 ## Covariant RFM-1 (2024-03)
 

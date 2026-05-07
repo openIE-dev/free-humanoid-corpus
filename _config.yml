@@ -46,6 +46,12 @@ defaults:
     values:
       layout: default
       parent: "Cross-cuts"
+  - scope:
+      path: "contention_packets"
+      type: "pages"
+    values:
+      layout: default
+      parent: "Invalidity Contentions"
 
 plugins:
   - jekyll-remote-theme

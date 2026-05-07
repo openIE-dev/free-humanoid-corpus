@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-mpc`
 
-**26 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1980-11
 
@@ -185,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaneko, K. et al. 'Humanoid Robot HRP-5P: An Electrically Actuated Humanoid Robot With High-Power and Wide-Range Joints.' IEEE Robotics and Automation Letters 4(2), 2019.
 - **ip status**: open-permissive
 - **prior art notes**: HRP-5P's construction-task demonstrations and high-power actuator disclosures are among the most thoroughly published examples of humanoid construction work. Anticipates many subsequent industrial humanoid claims.
+
+## Sutton & Barto, Reinforcement Learning: An Introduction (2nd edition) (2018-11)
+
+- **id**: `sutton-barto-rl-2nd-edition-2018`
+- **corpus**: academic
+- **creator**: Richard S. Sutton, Andrew G. Barto
+- **disclosure**: Sutton, Richard S. and Barto, Andrew G. 'Reinforcement Learning: An Introduction.' 2nd edition, MIT Press, November 2018; ISBN 978-0262039246; freely available online at incompleteideas.net/book.
+- **ip status**: public-domain
+- **prior art notes**: Sutton & Barto 2nd edition is the canonical textbook anchor for reinforcement-learning claims and is the citation-of-record across robotics RL papers 2018-2026. It anticipates with full specificity: (1) claims on temporal-difference learning, Q-learning, SARSA, and n-step bootstrapping — all derived with closed-form pseudocode in Chapters 6-7; (2) claims on policy-gradient and actor-critic methods — Chapter 13 contains the REINFORCE and natural-actor-critic formulations; (3) claims on function-approximation RL with linear features and neural-network state representations — Chapters 9-12 lay the formal substrate. Freely distributed online by the authors at incompleteideas.net/book under unrestricted educational use. Modern humanoid RL-policy IP claiming any TD/PG/AC pattern faces this canonical 2018 anchor.
 
 ## MIT Mini Cheetah (2019)
 

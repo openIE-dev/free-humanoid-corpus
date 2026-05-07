@@ -1,0 +1,133 @@
+---
+title: "mechanism-passive-dynamic-walking"
+parent: "Invalidity Contentions"
+nav_order: 25
+layout: default
+---
+
+# Invalidity Contention Packet — `mechanism-passive-dynamic-walking`
+
+**Generated:** 2026-05-06  
+**Cross-cut tag:** `mechanism-passive-dynamic-walking`  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 1990  
+**Most recent disclosure:** 2017
+
+---
+
+## How to use this packet
+
+This document is an invalidity-contention packet — a chronologically-ordered
+list of every disclosed prior art reference in the Free Humanoid Corpus that
+bears on the subsystem `mechanism-passive-dynamic-walking`.
+
+To use it:
+
+1. Identify the patent claim element being challenged.
+2. Match the element against the entries below in chronological order (earliest
+   first). The earliest entry that discloses the element is the strongest 102
+   anticipation candidate.
+3. For 103 obviousness contentions, identify the closest two-or-more entries
+   that together disclose all claim elements.
+4. Each entry's **prior_art_notes** field is element-by-element 102/103
+   anticipation analysis — citable as-is.
+5. Verify the timestamp authority via the procedures in Verification (below).
+
+The Free Humanoid Corpus is licensed CC0 1.0; no permission is required to
+cite, copy, or redistribute these contentions.
+
+---
+
+## Entries (chronological)
+
+### 1990 — McGeer Passive Dynamic Walker
+
+- **id:** `mcgeer-passive-walker`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Tad McGeer, Simon Fraser University
+- **disclosure citation:** McGeer, Tad. 'Passive dynamic walking'. International Journal of Robotics Research 9(2): 62-82, April 1990.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-passive-dynamic-walking`
+
+**Prior art notes:**
+
+> The 1990 McGeer disclosure is the foundational academic anchor for energy-efficient bipedal locomotion. Anticipates: (1) the principle that bipedal stability can emerge from passive limb dynamics (with appropriate inertia/length tuning) — directly relevant to modern claims on energy-efficient bipedal control IP; (2) limit-cycle analysis of bipedal gait — anticipates analytical claims on cycle-based gait optimization; (3) the methodological observation that the cost of transport for passive walkers approaches that of human walking. Modern energy-efficient bipedal claims (Cassie, ATRIAS, Berkeley Humanoid) all build on McGeer 1990. Publicly funded research; the 1990 IJRR paper is heavily cited.
+
+**Sources:**
+
+1. McGeer, T. 'Passive dynamic walking'. IJRR 9(2): 62-82, 1990.
+2. Collins, S.H., Wisse, M., Ruina, A. 'A three-dimensional passive-dynamic walking robot with two legs and knees'. IJRR 20(7): 607-615, 2001 (extends McGeer to 3D).
+
+---
+
+### 2013 — ATRIAS
+
+- **id:** `atrias`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Oregon State University, Dynamic Robotics Laboratory (Jonathan Hurst)
+- **disclosure citation:** Hubicki, C. et al. 'ATRIAS: Design and validation of a tether-free 3D-capable spring-mass bipedal robot.' International Journal of Robotics Research 35(12), 2016.
+- **disclosed subsystems:** `actuator-electric-series-elastic`, `mechanism-bipedal-locomotion`, `mechanism-passive-dynamic-walking`, `control-reduced-order-model`, `sensing-imu`, `power-li-ion`
+
+**Prior art notes:**
+
+> ATRIAS is foundational prior art for spring-mass bipedal locomotion. The SLIP-based reduced-order control approach has become a dominant paradigm in dynamic bipedal walking, anticipating many subsequent commercial control claims.
+
+**Sources:**
+
+1. Hubicki, C. et al. IJRR 35(12), 2016.
+2. Hurst, J. et al. various IROS and ICRA publications, 2012-2015.
+
+---
+
+### 2017 — Cassie
+
+- **id:** `cassie-osu`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Oregon State University, Dynamic Robotics Laboratory (Jonathan Hurst)
+- **disclosure citation:** Agility Robotics / Oregon State University Cassie release, 2017.
+- **disclosed subsystems:** `actuator-electric-series-elastic`, `mechanism-bipedal-locomotion`, `mechanism-passive-dynamic-walking`, `control-reduced-order-model`, `control-rl-policy`, `control-sim-to-real`, `sensing-imu`, `software-ros1`
+
+**Prior art notes:**
+
+> Cassie and the broader Hurst lab work on reduced-order locomotion models is significant prior art for bipedal control claims industry-wide.
+
+**Sources:**
+
+1. Hurst Lab publications.
+2. Agility Robotics technical materials.
+
+---
+
+## Verification
+
+This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
+release with three independent cryptographic timestamps proving
+pre-existence:
+
+- **FreeTSA RFC 3161** — `releases/2026.Q2/freetsa.tsr` in the corpus repo
+- **DigiCert RFC 3161** — `releases/2026.Q2/digicert.tsr`
+- **OpenTimestamps Bitcoin-anchored** — `releases/2026.Q2/corpus-2026.Q2.tar.gz.ots`,
+  with Bitcoin block headers at heights **948142** (bob),
+  **948151** (eternitywall), and **948161** (catallaxy).
+
+The full release tarball SHA-256 is `aa9430c6e785a409e3dbb10042b16e0e5677752c85eeffcba2c6b5605cde27ce`,
+archived on Zenodo at <https://doi.org/10.5281/zenodo.20049531>.
+
+Anyone with a Bitcoin block explorer can independently verify that the corpus
+tarball — containing all entries cited in this packet — existed at or before
+the timestamps anchored in those blocks.
+
+For verification procedure see <https://github.com/openIE-dev/free-humanoid-corpus/blob/main/tools/verify_release.sh>.
+
+---
+
+## License
+
+CC0 1.0 Universal (public domain dedication). No copyright restrictions on
+use, citation, copying, or redistribution.
+
+---
+
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0249808`.*

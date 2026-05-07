@@ -1,6 +1,6 @@
 # Corpus Index
 
-252 entries total. Generated from corpus.jsonl.
+269 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -11,11 +11,15 @@
 | AgiBot A1 | `agibot-a1` | 2023 | private | patented | ✓ |
 | Akira (Tetsuo cyborg-mutation, Akira containment) | `akira-tetsuo-1988` | 1982 | fictional | fictional |  |
 | Alita / Gally (Battle Angel Alita / Gunnm) | `battle-angel-alita` | 1990 | fictional | fictional |  |
+| ALOHA-2 enhanced bimanual teleoperation platform | `aloha-2-aldaco-2024` | 2024 | academic | public-domain |  |
 | ALVINN (Autonomous Land Vehicle in a Neural Network) | `pomerleau-alvinn` | 1989 | academic | public-domain |  |
 | Ameca | `ameca` | 2021 | private | patented | ✓ |
 | Andrew (The Bicentennial Man) | `asimov-bicentennial-man` | 1976 | fictional | fictional | ✓ |
 | ANYmal | `anymal` | 2016 | private | patented |  |
+| ANYmal-D industrial quadruped (ETH RSL / ANYbotics) | `anymal-d-eth-rsl-2022` | 2022 | academic | public-domain |  |
 | Apptronik Apollo | `apptronik-apollo` | 2023 | private | patented | ✓ |
+| Apptronik Apollo academic and technical disclosures (2023-2024) | `apptronik-apollo-publications-2024` | 2023 | academic | public-domain |  |
+| Argall, Chernova, Veloso, Browning learning-from-demonstration survey | `argall-lfd-survey-2009` | 2009 | academic | public-domain |  |
 | Armitage III (third-generation androids) | `armitage-iii-1995` | 1995 | fictional | fictional |  |
 | Ascento | `ascento` | 2019 | academic | open-permissive |  |
 | Ash (Alien) | `ash-alien` | 1979 | fictional | fictional |  |
@@ -35,16 +39,21 @@
 | Big O (The Big O) | `big-o-megadeus` | 1999 | fictional | fictional |  |
 | BioTac | `biotac-syntouch` | 2008 | academic | patented |  |
 | Bishop (Aliens) | `bishop-aliens` | 1986 | fictional | fictional |  |
+| Black Mirror 'Be Right Back' bio-printed companion humanoid | `black-mirror-be-right-back-2013` | 2013 | fictional | public-domain |  |
+| Black Mirror 'Metalhead' autonomous quadruped killer | `black-mirror-metalhead-2017` | 2017 | fictional | public-domain |  |
+| Black Mirror 'White Christmas' cookies and consciousness copies | `black-mirror-white-christmas-2014` | 2014 | fictional | public-domain |  |
 | Bokurano (Zearth, child-piloted consent-architecture mecha) | `bokurano-2004` | 2004 | fictional | fictional |  |
 | Borg Collective (Star Trek TNG) | `borg-tng-1989` | 1989 | fictional | fictional |  |
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
 | Boston Dynamics Spot (fuel-cell variant) | `spot-fuel-cell` | 2020 | private | patented | ✓ |
 | BridgeData V2 multi-robot trajectory dataset | `bridgedata-v2-walke-2023` | 2023 | academic | public-domain |  |
+| Caltech CAST Hank bipedal platform | `caltech-hank-cast-2019` | 2019 | academic | public-domain |  |
 | Casshan / Casshern (Neo-Human Casshan) | `casshan-tatsunoko` | 1973 | fictional | fictional | ✓ |
 | Cassie | `cassie-osu` | 2017 | academic | patented |  |
 | Chappie | `chappie` | 2015 | fictional | fictional |  |
 | Cheetah-cub | `cheetah-cub-epfl` | 2013 | academic | open-permissive |  |
 | CMU HERB (Home Exploring Robotic Butler) | `cmu-herb-srinivasa-2012` | 2012 | academic | public-domain |  |
+| CMU Personal Robotics Lab Andy / HERB-2 follow-on platform | `cmu-andy-herb2-srinivasa-2014` | 2014 | academic | public-domain |  |
 | Control Barrier Functions | `control-barrier-functions` | 2007 | academic | public-domain |  |
 | Cornell Universal Jamming Gripper | `cornell-jamming-gripper` | 2010 | academic | open-permissive |  |
 | Covariant RFM-1 | `covariant-rfm` | 2024 | private | trade-secret | ✓ |
@@ -116,6 +125,7 @@
 | HUBO | `hubo` | 2004 | academic | open-permissive |  |
 | Huey, Dewey, and Louie (Silent Running) | `silent-running-drones` | 1972 | fictional | fictional |  |
 | Humanoids (With Folded Hands) | `williamson-folded-hands` | 1947 | fictional | fictional |  |
+| Humans (Channel 4 / AMC) Synth household robots | `humans-channel4-amc-2015` | 2015 | fictional | public-domain |  |
 | Hwangbo ANYmal Sim-to-Real Locomotion | `hwangbo-anymal-sim2real` | 2019 | academic | open-permissive |  |
 | iCub | `icub` | 2008 | academic | open-permissive |  |
 | Ijspeert-Schaal Dynamic Movement Primitives (formal extension) | `ijspeert-dmp-2013` | 2013 | academic | public-domain |  |
@@ -131,6 +141,7 @@
 | Kawasaki Kaleido | `kawasaki-kaleido` | 2017 | private | patented |  |
 | Kepler K2 | `kepler-k2` | 2024 | private | patented | ✓ |
 | Khatib Operational Space Formulation | `khatib-operational-space` | 1987 | academic | public-domain |  |
+| Klara and the Sun — Artificial Friend (AF) child companion | `ishiguro-klara-and-the-sun-2021` | 2021 | fictional | public-domain |  |
 | Knight Sabers Hardsuits (Bubblegum Crisis) | `bubblegum-crisis-hardsuits` | 1987 | fictional | fictional |  |
 | Knights of Sidonia (Garde mecha) | `knights-of-sidonia-2013` | 2009 | fictional | fictional |  |
 | KX-series Imperial Security Droids (K-2SO) | `kx-series-k2so-2016` | 2016 | fictional | fictional |  |
@@ -153,6 +164,7 @@
 | mjbots Moteus | `mjbots-moteus` | 2019 | open | open-permissive |  |
 | MJOLNIR Powered Assault Armor / Master Chief | `halo-mjolnir-master-chief` | 2001 | fictional | fictional |  |
 | Mobile ALOHA | `mobile-aloha` | 2024 | academic | open-permissive |  |
+| Murderbot Diaries — SecUnit with hacked governor module | `murderbot-diaries-wells-2017` | 2017 | fictional | public-domain |  |
 | NAO | `nao` | 2006 | private | patented |  |
 | NASA Valkyrie | `nasa-valkyrie` | 2013 | academic | open-permissive |  |
 | Neura 4NE-1 | `neura-4ne1` | 2024 | private | patented | ✓ |
@@ -182,6 +194,8 @@
 | Rainbow Robotics RB-Y1 | `rainbow-robotics-rb-y1` | 2024 | private | patented |  |
 | Reachy | `reachy` | 2020 | open | open-permissive |  |
 | Reachy 1 (Pollen Robotics open-source humanoid) | `reachy-1-pollen-2017` | 2017 | open | open-source |  |
+| Reachy-2 open-source humanoid platform (Pollen Robotics) | `reachy-2-pollen-2023` | 2023 | academic | public-domain |  |
+| Real Humans / Äkta människor — Hubot household humanoids | `akta-manniskor-real-humans-2012` | 2012 | fictional | public-domain |  |
 | Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) | `real-steel-boxers` | 2011 | fictional | fictional |  |
 | REEM-C | `reem-c` | 2013 | private | patented |  |
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
@@ -218,7 +232,9 @@
 | Sony QRIO | `sony-qrio` | 2003 | private | patented |  |
 | Sophia | `hanson-sophia` | 2016 | private | patented |  |
 | Stanford JackRabbot 2 (JR-2) wheeled-arm research robot | `stanford-jr2-2018` | 2018 | academic | public-domain |  |
+| Steins;Gate 0 Amadeus AI consciousness backup | `steins-gate-amadeus-2015` | 2015 | fictional | public-domain |  |
 | Sumitomo CYCLO Speed Reducer | `sumitomo-cyclo` | 1937 | academic | public-domain |  |
+| Sutton & Barto, Reinforcement Learning: An Introduction (2nd edition) | `sutton-barto-rl-2nd-edition-2018` | 2018 | academic | public-domain |  |
 | T-800 | `t-800-terminator` | 1984 | fictional | fictional |  |
 | Tachikoma | `ghost-in-the-shell-tachikoma` | 2002 | fictional | fictional |  |
 | Talos of Crete | `talos-bronze-giant` | -025 | fictional | fictional |  |
@@ -229,6 +245,7 @@
 | The Greatest Robot on Earth (eight mecha disclosures) | `astro-boy-greatest-robot` | 1964 | fictional | fictional |  |
 | The Iron Giant | `iron-giant` | 1968 | fictional | fictional |  |
 | The Vision | `vision-marvel` | 1968 | fictional | fictional | ✓ |
+| The Wild Robot — ROZZUM unit 7134 | `wild-robot-rozzum-7134-brown-2016` | 2016 | fictional | public-domain |  |
 | THX 1138 Chrome Police Robots | `thx-1138-chrome-cops` | 1971 | fictional | fictional |  |
 | Time of EVE (household-robot reflective awareness) | `time-of-eve-2008` | 2008 | fictional | fictional |  |
 | Toyota HSR | `toyota-hsr` | 2012 | private | patented |  |

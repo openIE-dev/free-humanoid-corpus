@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `safety-simplex-supervisor`
 
-**7 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1940-09
 
@@ -77,3 +77,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Alshiekh, M. et al. 'Safe Reinforcement Learning via Shielding.' AAAI 2018.
 - **ip status**: public-domain
 - **prior art notes**: Major prior art for any patent on RL safety filtering, shielded ML, or temporal-logic-bounded RL. Combined with Simplex and CBF prior art, makes much of the 'safe ML' patent space difficult to defend.
+
+## Caltech CAST Hank bipedal platform (2019-05)
+
+- **id**: `caltech-hank-cast-2019`
+- **corpus**: academic
+- **creator**: Aaron D. Ames and the Caltech AMBER Lab / CAST
+- **disclosure**: Reher, Jenna and Ames, Aaron D. 'Inverse Dynamics Control of Compliant Hybrid Zero Dynamic Walking.' ICRA 2021; Csomay-Shanklin, Noel et al. 'Episodic Learning for Safe Bipedal Locomotion with Control Barrier Functions and Projection-to-State Safety.' L4DC 2021; CAST (Center for Autonomous Systems and Technologies) Caltech Hank reveal 2019.
+- **ip status**: public-domain
+- **prior art notes**: Hank is the Caltech CAST flagship humanoid biped of the late-2010s and is the canonical platform for HZD + CBF formal-method bipedal locomotion publications by the Ames group. It anticipates with full specificity: (1) claims on hybrid-zero-dynamics low-dimensional gait manifolds for humanoids — Reher-Ames ICRA 2021 publishes the formal HZD+ID-CLF-QP stack on Hank; (2) claims on control-barrier-function safety supervision for legged locomotion — Csomay-Shanklin L4DC 2021 publishes episodic CBF learning on Hank; (3) claims on quasi-direct-drive proprioceptive humanoid biped hardware — Hank's actuator topology predates and parallels Tesla Optimus and Apptronik Apollo public claims. All Hank publications are open-access with timestamped arXiv.

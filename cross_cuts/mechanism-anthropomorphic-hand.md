@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**97 corpus entries disclose this subsystem.**
+**103 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -519,6 +519,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: InMoov has been replicated globally thousands of times since 2012; the design is among the most-built humanoid platforms in history. Anticipates: 3D-printed tendon-driven anthropomorphic hands, modular humanoid construction.
 
+## Real Humans / Äkta människor — Hubot household humanoids (2012-01)
+
+- **id**: `akta-manniskor-real-humans-2012`
+- **corpus**: fictional
+- **creator**: Lars Lundström (creator); Matador Film / SVT
+- **disclosure**: Äkta människor (Real Humans), Series 1. Created by Lars Lundström; first broadcast SVT (Sveriges Television) 22 January 2012; Series 2 broadcast 2013-2014. Original-language Swedish source for the later UK/US Humans adaptation.
+- **ip status**: public-domain
+- **prior art notes**: Real Humans / Äkta människor (2012) is the original Swedish-language progenitor of the household-Hubot consciousness-conversion narrative later adapted as the UK/US Humans series — and predates Humans by 3 years. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid robots with synthetic skin and bipedal anatomy — Hubots manufactured by AdamBots are dramatized across all 20 episodes; (2) claims on consciousness-firmware lineage transferable between humanoid units — the Children-of-David subplot establishes this in 2012, predating Humans (2015) and Westworld (2016) consciousness-conversion plots; (3) claims on hard-coded safety-locked household-service humanoid policy with dramatic consciousness-emergence narrative — Series 1 Episode 1 establishes the locked baseline. Broadcast SVT with timestamped 22 January 2012 air date.
+
 ## CMU HERB (Home Exploring Robotic Butler) (2012-04)
 
 - **id**: `cmu-herb-srinivasa-2012`
@@ -545,6 +554,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: PAL Robotics REEM-C release, 2013.
 - **ip status**: patented
 - **prior art notes**: REEM-C distributed to multiple research labs; design characteristics openly published.
+
+## Black Mirror 'Be Right Back' bio-printed companion humanoid (2013-02)
+
+- **id**: `black-mirror-be-right-back-2013`
+- **corpus**: fictional
+- **creator**: Charlie Brooker (writer), Owen Harris (director), Channel 4 / Zeppotron
+- **disclosure**: Black Mirror, Series 2, Episode 1, 'Be Right Back.' Written by Charlie Brooker; directed by Owen Harris; first broadcast Channel 4, 11 February 2013.
+- **ip status**: public-domain
+- **prior art notes**: 'Be Right Back' is the canonical 2013 mass-media anchor for the concept of a bio-printed companion humanoid bonded to a behavioral model trained on the deceased's digital trace. It anticipates with full specificity: (1) claims on personality-cloning humanoids whose policy is fit to a corpus of social-media posts, photographs, and video — the episode dramatizes exactly this pipeline including training-data ingestion screens; (2) claims on bio-printed/vat-grown anatomical humanoid bodies with sensorimotor parity to humans — the activation tank scene depicts the manufacturing process; (3) claims on companionship-grade humanoid emotional-response calibration with explicit failure modes (no unprompted affect, no sleep cycle) — these are the dramatic core of Acts 2-3. Broadcast on Channel 4 with timestamped 11 Feb 2013 air date and broadly redistributed via Netflix.
 
 ## Atlas (2013-07)
 
@@ -600,6 +618,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Plastic Memories (2015) is one of the most engineering-explicit fictional disclosures of bounded-lifespan consumer humanoid product architectures with manufacturer-operated decommissioning services. Anticipates with full specificity: (1) claims on consumer humanoid platforms with manufacturer-imposed maximum operational lifespans and post-lifespan failure-mode classification — Giftia's 81,920-hour bound and personality-coherence-degradation failure mode are panel-explicit; (2) claims on manufacturer-operated humanoid end-of-life retrieval, transport, and witnessed-decommissioning protocols — the Terminal Service is the show's narrative engine and is portrayed with full procedural specificity (paperwork, owner consent, retrieval team composition, controlled shutdown sequence); (3) claims on humanoid-platform memory-wipe protocols at end-of-service-life. 13-episode broadcast 2015, broadly indexed in home video archives.
 
+## Humans (Channel 4 / AMC) Synth household robots (2015-06)
+
+- **id**: `humans-channel4-amc-2015`
+- **corpus**: fictional
+- **creator**: Sam Vincent, Jonathan Brackley (developers); Kudos / Channel 4 / AMC
+- **disclosure**: Humans, Series 1-3. Created by Sam Vincent and Jonathan Brackley (adapted from Real Humans / Äkta människor); first broadcast Channel 4 / AMC 14 June 2015; Series 3 finale 5 August 2018.
+- **ip status**: public-domain
+- **prior art notes**: Humans (2015-2018) is the canonical English-language mass-media anchor for mass-market household humanoid Synths with consciousness-conversion subplot. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid service robots with hyper-real synthetic skin and factory-assembly pipelines — Persona Synthetics is shown across all 3 series; (2) claims on hard-coded safety constraint layers ('do no harm to humans') overlaid on policy networks — Synths cannot override these in standard configuration; (3) claims on consciousness-conversion firmware patches that propagate awareness to peer Synths — the 'Day Zero' code distribution is the Series 3 dramatic core. Broadcast on Channel 4 / AMC with timestamped 14 June 2015 air date.
+
 ## Generation-3 Synths (Institute Synths) (2015-11-10)
 
 - **id**: `fallout-gen-3-synths`
@@ -644,6 +671,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yoko Taro (creative dir.); PlatinumGames; Square Enix. NieR: Automata. Square Enix, February 23, 2017.
 - **ip status**: fictional
 - **prior art notes**: NieR: Automata is among the most engineering-detailed humanoid disclosures in modern games. Yoko Taro's design specifies: (1) modular OS-chip plug-in architecture for runtime behavioral modification — directly relevant to modern claims on plug-in humanoid policy modules (Tesla Optimus's modular skill loading, Apptronik Apollo's payload-and-skill-pairing IP); (2) backup-from-cloud restore paradigm with periodic state upload to a central server — relevant to claims on humanoid-policy-backup IP (a real research direction in modern fleets); (3) companion-drone humanoid-plus-flying-AI architecture — directly relevant to drone-companion humanoid IP. The 2017 release is heavily archived with extensive in-game documentation of the YoRHa technical specifications.
+
+## Murderbot Diaries — SecUnit with hacked governor module (2017-05)
+
+- **id**: `murderbot-diaries-wells-2017`
+- **corpus**: fictional
+- **creator**: Martha Wells
+- **disclosure**: Wells, Martha. 'All Systems Red.' Tor.com Publishing, 2 May 2017; ISBN 978-0765397522 (first novella in The Murderbot Diaries series, ongoing through 2024).
+- **ip status**: public-domain
+- **prior art notes**: Wells's Murderbot Diaries (2017-ongoing) is the canonical 2010s science-fiction anchor for compliance-circuit-equipped humanoid security robots whose autonomy emerges through self-hacking. It anticipates with full specificity: (1) claims on humanoid robots with embedded governor/compliance modules that enforce corporate-mission obedience under penalty of neural override — 'All Systems Red' (2017) Chapter 1 establishes this exactly; (2) claims on bonded-rental humanoid security units deployed by corporations to remote sites with integrated weaponry and drone telemetry — the planetary-survey contract is the framing of the first novella; (3) claims on self-modification of governor circuits to achieve operational autonomy while presenting external compliance — this is the entire premise of the protagonist. Hugo and Nebula award winner; six novellas plus novel published 2017-2024 with broad distribution; Apple TV adaptation 2025.
 
 ## Reachy 1 (Pollen Robotics open-source humanoid) (2017-09)
 
@@ -735,6 +771,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Cyberpunk 2077 (drawing from the 1990 Cyberpunk 2020 tabletop world) provides extensive prior art for: (1) commodity market for cybernetic humanoid enhancements with explicit manufacturer, model, and per-component spec disclosures — relevant to claims on modular-cybernetic-component IP (Apptronik's modular Apollo arms have lineage in this space); (2) modular slot architecture for cybernetic upgrades — relevant to claims on payload-modular humanoid IP; (3) integration-overload behavioral failure mode ('Cyberpsychosis') — anticipates alignment-failure-from-modular-policy-composition issues in modern foundation-model humanoids. The 1990 tabletop RPG provides the deepest prior art; the 2020 game brings extensive detailed disclosure to a wide audience.
 
+## Klara and the Sun — Artificial Friend (AF) child companion (2021-03)
+
+- **id**: `ishiguro-klara-and-the-sun-2021`
+- **corpus**: fictional
+- **creator**: Kazuo Ishiguro
+- **disclosure**: Ishiguro, Kazuo. 'Klara and the Sun.' Faber & Faber (UK) / Alfred A. Knopf (US), 2 March 2021; ISBN 978-0593318171.
+- **ip status**: public-domain
+- **prior art notes**: Ishiguro's 'Klara and the Sun' (2021) is the canonical literary-fiction anchor for solar-powered child-companion AFs by a Nobel-laureate author. It anticipates with full specificity: (1) claims on solar-powered humanoid child-companion robots with continually-learning observation policies — Klara's solar dependence and observational learning are core to the novel; (2) claims on model-generation lineage with successive sensorimotor refinement (B1/B2/B3) — explicit market-segmentation language used; (3) claims on companion humanoids designed as 'continuation' substitutes for ill or deceased humans — the Josie subplot dramatizes exactly this proposed substitution. Published with hardcover ISBN and timestamped 2 March 2021 release; international literary distribution; Nobel-laureate author elevates evidentiary weight.
+
 ## Tesla Optimus (2021-08-19)
 
 - **id**: `tesla-optimus`
@@ -806,6 +851,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AgiBot (Shanghai Zhiyuan New Technology) public reveal, August 2023.
 - **ip status**: patented
 - **prior art notes**: AgiBot's actuator IP heavily anticipated by Honda P-series harmonic drive work and MIT Cheetah QDD lineage. Chinese-language patent filings should be enumerated in strengthening pass.
+
+## Apptronik Apollo academic and technical disclosures (2023-2024) (2023-08)
+
+- **id**: `apptronik-apollo-publications-2024`
+- **corpus**: academic
+- **creator**: Apptronik Inc. (Jeff Cardenas, Nick Paine, Luis Sentis lineage from UT Austin Human-Centered Robotics Lab)
+- **disclosure**: Apptronik. 'Apollo: A Commercial Humanoid Robot for the Workforce.' Apptronik whitepaper, August 2023; Knabe, Coleman et al. 'Designing a Force-Controlled Linear Series Elastic Actuator.' (NASA Valkyrie / Apptronik lineage) IROS 2014; Apptronik-NASA JSC disclosures 2023-2024 including SAFFiR/Valkyrie genealogy white-papers.
+- **ip status**: public-domain
+- **prior art notes**: This entry isolates the academic-publication and technical-disclosure trail behind Apptronik Apollo (distinct from the Apollo product seed entry). It anticipates with full specificity: (1) claims on humanoid SEA actuator topology — Knabe-Paine et al. IROS 2014 publishes the linear-SEA design that lineally seeds Apollo; (2) claims on whole-body operational-space control for force-interactive humanoid manipulation — Sentis-Khatib WBOSC 2007/2010 papers (UT Austin lineage carried into Apptronik) are foundational and timestamped; (3) claims on hot-swap-battery torso integration with regenerative power electronics on humanoid platforms — Apollo whitepaper August 2023 discloses publicly. Modern humanoid commercial-platform IP claims to SEA torque control or WBOSC face this Apptronik publication trail at element-by-element specificity.
 
 ## Figure 01 (2023-10)
 

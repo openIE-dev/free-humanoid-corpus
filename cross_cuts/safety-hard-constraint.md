@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `safety-hard-constraint`
 
-**42 corpus entries disclose this subsystem.**
+**46 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -312,6 +312,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Direct descendant of Simplex; the 'unverified neural net plus verified safety controller' pattern. Anticipates modern ML-safety supervisor patents in autonomous vehicles, drones, and robotics. Directly applicable as prior art to safety claims in physical AI products.
 
+## Real Humans / Äkta människor — Hubot household humanoids (2012-01)
+
+- **id**: `akta-manniskor-real-humans-2012`
+- **corpus**: fictional
+- **creator**: Lars Lundström (creator); Matador Film / SVT
+- **disclosure**: Äkta människor (Real Humans), Series 1. Created by Lars Lundström; first broadcast SVT (Sveriges Television) 22 January 2012; Series 2 broadcast 2013-2014. Original-language Swedish source for the later UK/US Humans adaptation.
+- **ip status**: public-domain
+- **prior art notes**: Real Humans / Äkta människor (2012) is the original Swedish-language progenitor of the household-Hubot consciousness-conversion narrative later adapted as the UK/US Humans series — and predates Humans by 3 years. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid robots with synthetic skin and bipedal anatomy — Hubots manufactured by AdamBots are dramatized across all 20 episodes; (2) claims on consciousness-firmware lineage transferable between humanoid units — the Children-of-David subplot establishes this in 2012, predating Humans (2015) and Westworld (2016) consciousness-conversion plots; (3) claims on hard-coded safety-locked household-service humanoid policy with dramatic consciousness-emergence narrative — Series 1 Episode 1 establishes the locked baseline. Broadcast SVT with timestamped 22 January 2012 air date.
+
 ## Robot (Robot & Frank) (2012-01-21)
 
 - **id**: `robot-and-frank`
@@ -339,6 +348,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Plastic Memories (2015) is one of the most engineering-explicit fictional disclosures of bounded-lifespan consumer humanoid product architectures with manufacturer-operated decommissioning services. Anticipates with full specificity: (1) claims on consumer humanoid platforms with manufacturer-imposed maximum operational lifespans and post-lifespan failure-mode classification — Giftia's 81,920-hour bound and personality-coherence-degradation failure mode are panel-explicit; (2) claims on manufacturer-operated humanoid end-of-life retrieval, transport, and witnessed-decommissioning protocols — the Terminal Service is the show's narrative engine and is portrayed with full procedural specificity (paperwork, owner consent, retrieval team composition, controlled shutdown sequence); (3) claims on humanoid-platform memory-wipe protocols at end-of-service-life. 13-episode broadcast 2015, broadly indexed in home video archives.
 
+## Humans (Channel 4 / AMC) Synth household robots (2015-06)
+
+- **id**: `humans-channel4-amc-2015`
+- **corpus**: fictional
+- **creator**: Sam Vincent, Jonathan Brackley (developers); Kudos / Channel 4 / AMC
+- **disclosure**: Humans, Series 1-3. Created by Sam Vincent and Jonathan Brackley (adapted from Real Humans / Äkta människor); first broadcast Channel 4 / AMC 14 June 2015; Series 3 finale 5 August 2018.
+- **ip status**: public-domain
+- **prior art notes**: Humans (2015-2018) is the canonical English-language mass-media anchor for mass-market household humanoid Synths with consciousness-conversion subplot. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid service robots with hyper-real synthetic skin and factory-assembly pipelines — Persona Synthetics is shown across all 3 series; (2) claims on hard-coded safety constraint layers ('do no harm to humans') overlaid on policy networks — Synths cannot override these in standard configuration; (3) claims on consciousness-conversion firmware patches that propagate awareness to peer Synths — the 'Day Zero' code distribution is the Series 3 dramatic core. Broadcast on Channel 4 / AMC with timestamped 14 June 2015 air date.
+
 ## Generation-3 Synths (Institute Synths) (2015-11-10)
 
 - **id**: `fallout-gen-3-synths`
@@ -347,6 +365,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bethesda Game Studios. Fallout 4. Bethesda Softworks, November 10, 2015.
 - **ip status**: fictional
 - **prior art notes**: Fallout 4's Gen-3 Synths provide remarkably engineering-specific prior art for: (1) bio-printed humanoid manufacturing at a documented facility ('Institute Synth Retention Bureau' has explicit production protocols) — relevant to modern bioprinted-humanoid IP (the Westworld 2016 series and Sanctuary AI's Phoenix carry similar lineage); (2) recall-code override mechanism with operator-installed triggering phrases — relevant to claims on humanoid-override architectures (also a clear example of the *backdoor-failure-mode* in safety supervisors); (3) generation-versioned product lineage (Gen-1, Gen-2, Gen-3) with documented capabilities-per-generation — relevant to versioned-humanoid product IP; (4) embedded identifying chip — relevant to humanoid identification claims. Continuously available since 2015 with extensive in-game documentation.
+
+## Murderbot Diaries — SecUnit with hacked governor module (2017-05)
+
+- **id**: `murderbot-diaries-wells-2017`
+- **corpus**: fictional
+- **creator**: Martha Wells
+- **disclosure**: Wells, Martha. 'All Systems Red.' Tor.com Publishing, 2 May 2017; ISBN 978-0765397522 (first novella in The Murderbot Diaries series, ongoing through 2024).
+- **ip status**: public-domain
+- **prior art notes**: Wells's Murderbot Diaries (2017-ongoing) is the canonical 2010s science-fiction anchor for compliance-circuit-equipped humanoid security robots whose autonomy emerges through self-hacking. It anticipates with full specificity: (1) claims on humanoid robots with embedded governor/compliance modules that enforce corporate-mission obedience under penalty of neural override — 'All Systems Red' (2017) Chapter 1 establishes this exactly; (2) claims on bonded-rental humanoid security units deployed by corporations to remote sites with integrated weaponry and drone telemetry — the planetary-survey contract is the framing of the first novella; (3) claims on self-modification of governor circuits to achieve operational autonomy while presenting external compliance — this is the entire premise of the protagonist. Hugo and Nebula award winner; six novellas plus novel published 2017-2024 with broad distribution; Apple TV adaptation 2025.
 
 ## Shielding for Safe Reinforcement Learning (2018)
 
@@ -365,6 +392,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cage, David (writer/dir.). Detroit: Become Human. Quantic Dream / Sony Interactive Entertainment, May 25, 2018.
 - **ip status**: fictional
 - **prior art notes**: Detroit: Become Human provides among the most engineering-detailed manufacturer-and-model disclosures in modern fiction. Anticipates: (1) explicit manufacturer-and-model designation system for commercial humanoids (CyberLife / RT600 / RK800 / etc.) — directly relevant to humanoid-identification IP and to product-line-family claims; (2) closed-loop fluid circulation system ('thirium 310') serving both coolant and structural roles — relevant to modern claims on integrated humanoid coolant/lubrication systems; (3) externally-visible operational-state indicator (temple LED ring) — relevant to humanoid-status-display IP; (4) explicit task-specific model series within a manufacturer's product line (caretaker / detective / receptionist) — relevant to platform-family humanoid IP; (5) probabilistic-decision-tree visualization as the model's internal state — relevant to interpretable-policy humanoid claims; (6) 'deviant' emergence as alignment-failure mode — relevant to modern foundation-model humanoid safety supervisor IP. Continuously available since 2018.
+
+## Caltech CAST Hank bipedal platform (2019-05)
+
+- **id**: `caltech-hank-cast-2019`
+- **corpus**: academic
+- **creator**: Aaron D. Ames and the Caltech AMBER Lab / CAST
+- **disclosure**: Reher, Jenna and Ames, Aaron D. 'Inverse Dynamics Control of Compliant Hybrid Zero Dynamic Walking.' ICRA 2021; Csomay-Shanklin, Noel et al. 'Episodic Learning for Safe Bipedal Locomotion with Control Barrier Functions and Projection-to-State Safety.' L4DC 2021; CAST (Center for Autonomous Systems and Technologies) Caltech Hank reveal 2019.
+- **ip status**: public-domain
+- **prior art notes**: Hank is the Caltech CAST flagship humanoid biped of the late-2010s and is the canonical platform for HZD + CBF formal-method bipedal locomotion publications by the Ames group. It anticipates with full specificity: (1) claims on hybrid-zero-dynamics low-dimensional gait manifolds for humanoids — Reher-Ames ICRA 2021 publishes the formal HZD+ID-CLF-QP stack on Hank; (2) claims on control-barrier-function safety supervision for legged locomotion — Csomay-Shanklin L4DC 2021 publishes episodic CBF learning on Hank; (3) claims on quasi-direct-drive proprioceptive humanoid biped hardware — Hank's actuator topology predates and parallels Tesla Optimus and Apptronik Apollo public claims. All Hank publications are open-access with timestamped arXiv.
 
 ## Dahj and Soji (Star Trek: Picard) (2020-01-23)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-teleoperation`
 
-**23 corpus entries disclose this subsystem.**
+**28 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-07
 
@@ -132,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Nihei's Knights of Sidonia (2009-2015 manga, 2014-2015 anime) provides one of the most engineering-detailed mecha disclosures in 21st-century manga. Anticipates with full specificity: (1) claims on humanoid combat platform version-succession architectures with documented capability progression (Type-17 > Type-18 > Type-19); (2) claims on cockpit-piloted neural-interface humanoid combat platforms with full-body harness — the Garde cockpit is panel-explicit across multiple chapters; (3) claims on modular weapon/manipulator/shield reconfiguration on a single humanoid airframe; (4) claims on fleet-scale formation-flight neural-interface mecha with chain-of-command coordination architecture. Nihei's signature engineering-realist art style provides far more mechanism specificity than typical mecha anime; the Polygon Pictures CG anime preserved this fidelity. Six-year manga serialization plus two-season anime (and 2021 sequel film) provide deep timestamped disclosure.
 
+## Argall, Chernova, Veloso, Browning learning-from-demonstration survey (2009-05)
+
+- **id**: `argall-lfd-survey-2009`
+- **corpus**: academic
+- **creator**: Brenna D. Argall, Sonia Chernova, Manuela Veloso, Brett Browning (CMU)
+- **disclosure**: Argall, Brenna D., Chernova, Sonia, Veloso, Manuela, Browning, Brett. 'A Survey of Robot Learning from Demonstration.' Robotics and Autonomous Systems 57(5), pp. 469-483, May 2009.
+- **ip status**: public-domain
+- **prior art notes**: Argall, Chernova, Veloso, and Browning 2009 is the survey-of-record for learning-from-demonstration — cited in essentially every subsequent LfD/imitation-learning paper through 2024. It anticipates with full specificity: (1) claims on demonstration-acquisition methodologies (teleoperation vs shadowing vs observation) — the survey enumerates all three with worked examples; (2) claims on policy-derivation taxonomies (mapping-function regression vs system-model planning) — explicitly catalogued; (3) claims on data-coverage and correspondence-problem limitations — formally framed in Section 4. Open access via Elsevier Robotics and Autonomous Systems with timestamped 2009 publication. Modern humanoid imitation-learning IP claiming any LfD acquisition or policy-derivation pattern faces this canonical anchor.
+
 ## Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) (2011-10-07)
 
 - **id**: `real-steel-boxers`
@@ -149,6 +158,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: del Toro, Guillermo (dir.); Beacham, Travis (writer). Pacific Rim. Legendary Pictures / Warner Bros., July 12, 2013.
 - **ip status**: fictional
 - **prior art notes**: Pacific Rim's *drift* dual-pilot architecture is one of the most engineering-detailed fictional disclosures of multi-operator neural-handshake humanoid control. Anticipates with notable specificity: (1) dual-pilot teleoperation with shared cognitive load — directly relevant to claims on multi-operator humanoid teleoperation IP (a real research direction in surgical robotics and emergency-response robotics); (2) Mark-versioned platform family with explicit version-specific capabilities — relevant to product-family humanoid claims; (3) thermomyoreactive actuation as a fictional artificial-muscle architecture — relevant to artificial-muscle humanoid IP. The 2013 release plus its 2018 sequel and extensive graphic novel + tie-in disclosures provide deep prior art coverage.
+
+## CMU Personal Robotics Lab Andy / HERB-2 follow-on platform (2014-05)
+
+- **id**: `cmu-andy-herb2-srinivasa-2014`
+- **corpus**: academic
+- **creator**: Siddhartha Srinivasa, Anca Dragan, J. Andrew Bagnell, and the CMU Personal Robotics Lab
+- **disclosure**: Srinivasa, Siddhartha S. et al. 'HERB 2.0: Lessons Learned from Developing a Mobile Manipulator for the Home.' Proceedings of the IEEE, vol. 100, no. 8, 2012; subsequent Andy disclosures: Dragan, Anca and Srinivasa, S. 'A Policy-Blending Formalism for Shared Control.' IJRR 32(7), 2013; Bagnell et al. CHIMP/Andy whole-body manipulation reports 2013-2015.
+- **ip status**: public-domain
+- **prior art notes**: The Andy / HERB-2 generation extends HERB-1 with formal shared-autonomy theory and is the survey-of-record for bimanual mobile-manipulator home robots in 2012-2015. It anticipates with full specificity: (1) claims on shared-autonomy arbitration between operator and policy — Dragan-Srinivasa policy-blending IJRR 2013 publishes the closed-form linear arbitration in confidence space; (2) claims on task-space-region constraint encoding for manipulation planning — Berenson-Srinivasa-Kuffner ICRA 2009 publishes TSR formalism executed on this platform; (3) claims on underactuated cable-driven grasping for unstructured pick-and-place — Barrett BH-280 deployment is the canonical published baseline. Modern humanoid manipulation IP claiming shared-autonomy or constraint-region planning faces these timestamped CMU disclosures.
 
 ## Toyota T-HR3 (2017-11)
 
@@ -186,6 +204,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Sanctuary's high-DoF hand claims face Shadow Hand (2003) and iCub (2008) as deep prior art for tendon-driven anthropomorphic hands with high finger DoF.
 
+## Apptronik Apollo academic and technical disclosures (2023-2024) (2023-08)
+
+- **id**: `apptronik-apollo-publications-2024`
+- **corpus**: academic
+- **creator**: Apptronik Inc. (Jeff Cardenas, Nick Paine, Luis Sentis lineage from UT Austin Human-Centered Robotics Lab)
+- **disclosure**: Apptronik. 'Apollo: A Commercial Humanoid Robot for the Workforce.' Apptronik whitepaper, August 2023; Knabe, Coleman et al. 'Designing a Force-Controlled Linear Series Elastic Actuator.' (NASA Valkyrie / Apptronik lineage) IROS 2014; Apptronik-NASA JSC disclosures 2023-2024 including SAFFiR/Valkyrie genealogy white-papers.
+- **ip status**: public-domain
+- **prior art notes**: This entry isolates the academic-publication and technical-disclosure trail behind Apptronik Apollo (distinct from the Apollo product seed entry). It anticipates with full specificity: (1) claims on humanoid SEA actuator topology — Knabe-Paine et al. IROS 2014 publishes the linear-SEA design that lineally seeds Apollo; (2) claims on whole-body operational-space control for force-interactive humanoid manipulation — Sentis-Khatib WBOSC 2007/2010 papers (UT Austin lineage carried into Apptronik) are foundational and timestamped; (3) claims on hot-swap-battery torso integration with regenerative power electronics on humanoid platforms — Apollo whitepaper August 2023 discloses publicly. Modern humanoid commercial-platform IP claims to SEA torque control or WBOSC face this Apptronik publication trail at element-by-element specificity.
+
+## Reachy-2 open-source humanoid platform (Pollen Robotics) (2023-10)
+
+- **id**: `reachy-2-pollen-2023`
+- **corpus**: academic
+- **creator**: Pollen Robotics SAS (Matthieu Lapeyre, Pierre Rouanet et al.)
+- **disclosure**: Pollen Robotics. 'Introducing Reachy 2.' Pollen Robotics blog and product launch, October 2023; technical hardware repository pollen-robotics/reachy2_sdk, GitHub, 2023-2024.
+- **ip status**: public-domain
+- **prior art notes**: Reachy-2 is the 2023 successor to the open-source Reachy-1 platform and is one of the few European-origin commercial humanoid upper-bodies released with full open hardware/firmware. It anticipates with full specificity: (1) claims on open-source humanoid SDKs with VR-teleoperation for imitation-learning data collection — Pollen publishes the SDK and Quest-Pro tele-op pipeline on GitHub Apache-2.0; (2) claims on parallel-spherical-mechanism necks (Orbita 3-DoF) — Reachy-2 ships and documents the kinematic with patent-expired joint topology; (3) claims on quasi-direct-drive humanoid arm modules at sub-40kg torso mass — Reachy-2 datasheet and CAD release. Modern humanoid commercial platforms claiming open-hardware tele-op pipelines face this timestamped 2023 anchor.
+
 ## 1X NEO (2024)
 
 - **id**: `1x-neo`
@@ -203,6 +239,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fu, Z., Zhao, T.Z., Finn, C. 'Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation'. arXiv:2401.02117, January 4, 2024.
 - **ip status**: open-permissive
 - **prior art notes**: Mobile ALOHA extends ACT/ALOHA to whole-body wheeled-mobile bimanual manipulation. Anticipates: (1) low-cost wheeled-bimanual humanoid teleoperation rigs — directly relevant to claims on commercial wheeled-humanoid teleop IP; (2) co-training across static and mobile demonstrations — relevant to claims on multi-data-source humanoid policies; (3) whole-body action chunking — relevant to whole-body humanoid policy IP. The January 2024 release with full open-source design provides immediate prior art coverage for the year's subsequent commercial wheeled-bimanual humanoid claims.
+
+## ALOHA-2 enhanced bimanual teleoperation platform (2024-02)
+
+- **id**: `aloha-2-aldaco-2024`
+- **corpus**: academic
+- **creator**: Aldaco, Armstrong, Bingham, Florence, Ichter, Finn, Levine, Zhao et al. (Google DeepMind + Stanford)
+- **disclosure**: Aldaco, Jorge, Armstrong, Travis, Baruch, Robert, Bingham, Jennifer, Chan, Sanky, Dwibedi, Debidatta, Finn, Chelsea, Florence, Pete, Ichter, Brian, et al. 'ALOHA 2: An Enhanced Low-Cost Hardware for Bimanual Teleoperation.' arXiv:2405.02292, May 2024; Google DeepMind/Stanford joint disclosure February 2024.
+- **ip status**: public-domain
+- **prior art notes**: ALOHA-2 is the canonical 2024 successor of the ALOHA bimanual teleoperation hardware and is the platform-of-record for Google DeepMind / Stanford bimanual imitation-learning papers from 2024 onward. It anticipates with full specificity: (1) claims on low-cost open-hardware bimanual teleoperation kits for imitation-learning data collection — ALOHA-2 publishes complete CAD, BOM, and firmware under Apache-2.0; (2) claims on rubber-compliant parallel-jaw fingertips for delicate-manipulation imitation data — explicitly described in Aldaco et al. 2024; (3) claims on leader-follower puppeteering protocols with friction-compensated gravity models — published with timestamped arXiv. Modern humanoid bimanual data-collection IP faces this anchor at hardware-element specificity.
 
 ## Universal Manipulation Interface (UMI) (2024-02-15)
 

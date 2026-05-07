@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `sensing-stereo-camera`
 
-**68 corpus entries disclose this subsystem.**
+**76 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1973
 
@@ -240,6 +240,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Among the earliest fully-open 3D-printable humanoids. Anticipates open-source educational humanoid platforms broadly.
 
+## CMU Personal Robotics Lab Andy / HERB-2 follow-on platform (2014-05)
+
+- **id**: `cmu-andy-herb2-srinivasa-2014`
+- **corpus**: academic
+- **creator**: Siddhartha Srinivasa, Anca Dragan, J. Andrew Bagnell, and the CMU Personal Robotics Lab
+- **disclosure**: Srinivasa, Siddhartha S. et al. 'HERB 2.0: Lessons Learned from Developing a Mobile Manipulator for the Home.' Proceedings of the IEEE, vol. 100, no. 8, 2012; subsequent Andy disclosures: Dragan, Anca and Srinivasa, S. 'A Policy-Blending Formalism for Shared Control.' IJRR 32(7), 2013; Bagnell et al. CHIMP/Andy whole-body manipulation reports 2013-2015.
+- **ip status**: public-domain
+- **prior art notes**: The Andy / HERB-2 generation extends HERB-1 with formal shared-autonomy theory and is the survey-of-record for bimanual mobile-manipulator home robots in 2012-2015. It anticipates with full specificity: (1) claims on shared-autonomy arbitration between operator and policy — Dragan-Srinivasa policy-blending IJRR 2013 publishes the closed-form linear arbitration in confidence space; (2) claims on task-space-region constraint encoding for manipulation planning — Berenson-Srinivasa-Kuffner ICRA 2009 publishes TSR formalism executed on this platform; (3) claims on underactuated cable-driven grasping for unstructured pick-and-place — Barrett BH-280 deployment is the canonical published baseline. Modern humanoid manipulation IP claiming shared-autonomy or constraint-region planning faces these timestamped CMU disclosures.
+
 ## Pepper (2014-06)
 
 - **id**: `pepper-softbank`
@@ -285,6 +294,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Hanson's Frubber synthetic skin material and facial actuation prior art is significant for any claim around expressive humanoid faces. Disney Imagineering's earlier work is the deeper prior art.
 
+## The Wild Robot — ROZZUM unit 7134 (2016-04)
+
+- **id**: `wild-robot-rozzum-7134-brown-2016`
+- **corpus**: fictional
+- **creator**: Peter Brown (novelist); Chris Sanders (DreamWorks adaptation)
+- **disclosure**: Brown, Peter. 'The Wild Robot.' Little, Brown Books for Young Readers, 5 April 2016; ISBN 978-0316382007. DreamWorks Animation theatrical adaptation directed by Chris Sanders, released 27 September 2024.
+- **ip status**: public-domain
+- **prior art notes**: Peter Brown's 'The Wild Robot' (2016) and the DreamWorks 2024 theatrical adaptation form the canonical mass-media anchor for mass-produced general-purpose service humanoids that dramatically refine their objective functions through wilderness-environment adaptation. It anticipates with full specificity: (1) claims on mass-produced bipedal service humanoids with weatherproof construction and multi-arm tool-changer configurations — ROZZUM datasheet language used in the novel; (2) claims on adaptive policy revision in service humanoids exposed to long-duration unstructured environments — Roz's three-year island arc dramatizes exactly this; (3) claims on cross-species or cross-cultural communication acquisition by a service humanoid — Roz's animal-language acquisition is the second-act core. Children's-book bestseller 2016; DreamWorks theatrical release 27 September 2024 reached ~$330M box office.
+
 ## KX-series Imperial Security Droids (K-2SO) (2016-12)
 
 - **id**: `kx-series-k2so-2016`
@@ -329,6 +347,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kawasaki Heavy Industries public reveal of Kaleido, iREX November 2017.
 - **ip status**: patented
 - **prior art notes**: Kawasaki's deep industrial robotics IP base means much of their humanoid claims are anticipated by their own prior industrial robotics disclosures, plus AIST HRP series prior art.
+
+## Black Mirror 'Metalhead' autonomous quadruped killer (2017-12)
+
+- **id**: `black-mirror-metalhead-2017`
+- **corpus**: fictional
+- **creator**: Charlie Brooker (writer), David Slade (director), House of Tomorrow / Netflix
+- **disclosure**: Black Mirror, Series 4, Episode 5, 'Metalhead.' Written by Charlie Brooker; directed by David Slade; released on Netflix 29 December 2017.
+- **ip status**: public-domain
+- **prior art notes**: 'Metalhead' is the canonical 2017 mass-media anchor for autonomous quadruped lethal-defense robots and was directly modeled on the Boston Dynamics SpotMini reveal. It anticipates with full specificity: (1) claims on quadruped robots equipped with weapon payloads operating in fully-autonomous lethal-engagement mode — the episode dramatizes exactly this throughout 41 minutes; (2) claims on shrapnel-tag persistent-tracker payloads that mark a target for prolonged pursuit — this is the headline mechanism of the second act; (3) claims on SpotMini-class compact electric quadruped morphology with integrated manipulator arm — the visual design and Brooker's published commentary explicitly cite Boston Dynamics inspiration. Released on Netflix with timestamped 29 December 2017 distribution to ~109 million subscribers.
 
 ## Ghost Robotics Vision 60 (2018)
 
@@ -402,6 +429,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Demonstrates fuel-cell-powered legged robotics at commercial scale. Anticipates fuel-cell power claims in field robotics applications.
 
+## Klara and the Sun — Artificial Friend (AF) child companion (2021-03)
+
+- **id**: `ishiguro-klara-and-the-sun-2021`
+- **corpus**: fictional
+- **creator**: Kazuo Ishiguro
+- **disclosure**: Ishiguro, Kazuo. 'Klara and the Sun.' Faber & Faber (UK) / Alfred A. Knopf (US), 2 March 2021; ISBN 978-0593318171.
+- **ip status**: public-domain
+- **prior art notes**: Ishiguro's 'Klara and the Sun' (2021) is the canonical literary-fiction anchor for solar-powered child-companion AFs by a Nobel-laureate author. It anticipates with full specificity: (1) claims on solar-powered humanoid child-companion robots with continually-learning observation policies — Klara's solar dependence and observational learning are core to the novel; (2) claims on model-generation lineage with successive sensorimotor refinement (B1/B2/B3) — explicit market-segmentation language used; (3) claims on companion humanoids designed as 'continuation' substitutes for ill or deceased humans — the Josie subplot dramatizes exactly this proposed substitution. Published with hardcover ISBN and timestamped 2 March 2021 release; international literary distribution; Nobel-laureate author elevates evidentiary weight.
+
 ## Tesla Optimus (2021-08-19)
 
 - **id**: `tesla-optimus`
@@ -428,6 +464,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sanctuary AI public reveals of Phoenix predecessors, 2020-2022.
 - **ip status**: patented
 - **prior art notes**: Sanctuary's hybrid hydraulic-electric actuation faces extensive prior art from Boston Dynamics Atlas (hydraulic), Honda (electric), and academic hybrid actuation literature.
+
+## ANYmal-D industrial quadruped (ETH RSL / ANYbotics) (2022-09)
+
+- **id**: `anymal-d-eth-rsl-2022`
+- **corpus**: academic
+- **creator**: ANYbotics AG / ETH Zürich Robotic Systems Lab (Marco Hutter)
+- **disclosure**: ANYbotics product disclosure ANYmal D, September 2022; technical updates in Miki, Takahiro et al. 'Learning robust perceptive locomotion for quadrupedal robots in the wild.' Science Robotics 7(62), 2022; Hoeller, David et al. 'ANYmal Parkour: Learning agile navigation for quadrupedal robots.' Science Robotics 9(88), 2024.
+- **ip status**: public-domain
+- **prior art notes**: ANYmal-D is the production-deployed industrial quadruped of the 2022-2024 period and the platform for the headline RSL/ANYbotics RL-locomotion papers in Science Robotics. It anticipates with full specificity: (1) claims on perceptive-locomotion RL policies trained in simulation and transferred to outdoor industrial terrain — Miki Sci.Rob. 2022 publishes the teacher-student distillation pipeline running on this hardware; (2) claims on agile parkour-class learned locomotion — Hoeller Sci.Rob. 2024 publishes the policy on ANYmal-D; (3) claims on series-elastic torque-controlled quadruped joints in IP67 industrial enclosures — ANYdrive disclosed at IROS 2018 with hardware refresh on D-variant. Modern legged-robot IP claims face this timestamped industrial-deployment anchor.
 
 ## RT-1 (Robotics Transformer 1) (2022-12-13)
 
@@ -501,6 +546,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: BridgeData V2 is the canonical scaled trajectory dataset for low-cost manipulator imitation learning prior to the foundation-model robotic policy era. It anticipates with full specificity: (1) claims on language-conditioned manipulation policies trained from scaled demonstration data — BridgeV2 pairs natural-language instructions with each episode and is the headline training corpus for RT-1, RT-2 and Octo follow-ons; (2) claims on cross-environment generalization of imitation policies — the 24-environment span is its core benchmark; (3) claims on affordable-platform shared trajectory infrastructure (the WidowX 250s standardization) anticipating community-platform humanoid IP. Released under CC-BY-4.0 with timestamped arXiv. Modern humanoid VLA training-data claims face this 2023 anchor at element-by-element specificity.
 
+## Apptronik Apollo academic and technical disclosures (2023-2024) (2023-08)
+
+- **id**: `apptronik-apollo-publications-2024`
+- **corpus**: academic
+- **creator**: Apptronik Inc. (Jeff Cardenas, Nick Paine, Luis Sentis lineage from UT Austin Human-Centered Robotics Lab)
+- **disclosure**: Apptronik. 'Apollo: A Commercial Humanoid Robot for the Workforce.' Apptronik whitepaper, August 2023; Knabe, Coleman et al. 'Designing a Force-Controlled Linear Series Elastic Actuator.' (NASA Valkyrie / Apptronik lineage) IROS 2014; Apptronik-NASA JSC disclosures 2023-2024 including SAFFiR/Valkyrie genealogy white-papers.
+- **ip status**: public-domain
+- **prior art notes**: This entry isolates the academic-publication and technical-disclosure trail behind Apptronik Apollo (distinct from the Apollo product seed entry). It anticipates with full specificity: (1) claims on humanoid SEA actuator topology — Knabe-Paine et al. IROS 2014 publishes the linear-SEA design that lineally seeds Apollo; (2) claims on whole-body operational-space control for force-interactive humanoid manipulation — Sentis-Khatib WBOSC 2007/2010 papers (UT Austin lineage carried into Apptronik) are foundational and timestamped; (3) claims on hot-swap-battery torso integration with regenerative power electronics on humanoid platforms — Apollo whitepaper August 2023 discloses publicly. Modern humanoid commercial-platform IP claims to SEA torque control or WBOSC face this Apptronik publication trail at element-by-element specificity.
+
 ## Figure 01 (2023-10)
 
 - **id**: `figure-01`
@@ -509,6 +563,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Figure AI public reveal, October 2023.
 - **ip status**: patented
 - **prior art notes**: Figure's claimed innovations in electric humanoid actuation are heavily anticipated by Honda's E-series and ASIMO publications, by KAIST HUBO papers, and by the entire academic literature.
+
+## Reachy-2 open-source humanoid platform (Pollen Robotics) (2023-10)
+
+- **id**: `reachy-2-pollen-2023`
+- **corpus**: academic
+- **creator**: Pollen Robotics SAS (Matthieu Lapeyre, Pierre Rouanet et al.)
+- **disclosure**: Pollen Robotics. 'Introducing Reachy 2.' Pollen Robotics blog and product launch, October 2023; technical hardware repository pollen-robotics/reachy2_sdk, GitHub, 2023-2024.
+- **ip status**: public-domain
+- **prior art notes**: Reachy-2 is the 2023 successor to the open-source Reachy-1 platform and is one of the few European-origin commercial humanoid upper-bodies released with full open hardware/firmware. It anticipates with full specificity: (1) claims on open-source humanoid SDKs with VR-teleoperation for imitation-learning data collection — Pollen publishes the SDK and Quest-Pro tele-op pipeline on GitHub Apache-2.0; (2) claims on parallel-spherical-mechanism necks (Orbita 3-DoF) — Reachy-2 ships and documents the kinematic with patent-expired joint topology; (3) claims on quasi-direct-drive humanoid arm modules at sub-40kg torso mass — Reachy-2 datasheet and CAD release. Modern humanoid commercial platforms claiming open-hardware tele-op pipelines face this timestamped 2023 anchor.
 
 ## LimX Dynamics CL-1 (2023-12)
 
@@ -554,6 +617,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Persona AI public reveal, 2024.
 - **ip status**: trade-secret
 - **prior art notes**: Public technical disclosure is thin; strengthening pass needed.
+
+## ALOHA-2 enhanced bimanual teleoperation platform (2024-02)
+
+- **id**: `aloha-2-aldaco-2024`
+- **corpus**: academic
+- **creator**: Aldaco, Armstrong, Bingham, Florence, Ichter, Finn, Levine, Zhao et al. (Google DeepMind + Stanford)
+- **disclosure**: Aldaco, Jorge, Armstrong, Travis, Baruch, Robert, Bingham, Jennifer, Chan, Sanky, Dwibedi, Debidatta, Finn, Chelsea, Florence, Pete, Ichter, Brian, et al. 'ALOHA 2: An Enhanced Low-Cost Hardware for Bimanual Teleoperation.' arXiv:2405.02292, May 2024; Google DeepMind/Stanford joint disclosure February 2024.
+- **ip status**: public-domain
+- **prior art notes**: ALOHA-2 is the canonical 2024 successor of the ALOHA bimanual teleoperation hardware and is the platform-of-record for Google DeepMind / Stanford bimanual imitation-learning papers from 2024 onward. It anticipates with full specificity: (1) claims on low-cost open-hardware bimanual teleoperation kits for imitation-learning data collection — ALOHA-2 publishes complete CAD, BOM, and firmware under Apache-2.0; (2) claims on rubber-compliant parallel-jaw fingertips for delicate-manipulation imitation data — explicitly described in Aldaco et al. 2024; (3) claims on leader-follower puppeteering protocols with friction-compensated gravity models — published with timestamped arXiv. Modern humanoid bimanual data-collection IP faces this anchor at hardware-element specificity.
 
 ## Universal Manipulation Interface (UMI) (2024-02-15)
 

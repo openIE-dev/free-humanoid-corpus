@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**98 corpus entries disclose this subsystem.**
+**103 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -555,6 +555,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Real Steel (2011) provides specific prior art for: (1) motion-capture shadow control mode wherein a humanoid mirrors the operator's body movements — directly relevant to claims on motion-capture-driven humanoid teleoperation IP (a current commercial focus for several humanoid platforms); (2) voice-activated combat instruction set — relevant to natural-language humanoid command IP; (3) modular damaged-subsystem replacement (Atom is repeatedly repaired with scavenged parts) — relevant to field-replaceable humanoid IP. Matheson's 1956 short story 'Steel' provides the deeper anchor (55-year prior art) for the boxing-humanoid-with-operator-mediated-control concept.
 
+## Real Humans / Äkta människor — Hubot household humanoids (2012-01)
+
+- **id**: `akta-manniskor-real-humans-2012`
+- **corpus**: fictional
+- **creator**: Lars Lundström (creator); Matador Film / SVT
+- **disclosure**: Äkta människor (Real Humans), Series 1. Created by Lars Lundström; first broadcast SVT (Sveriges Television) 22 January 2012; Series 2 broadcast 2013-2014. Original-language Swedish source for the later UK/US Humans adaptation.
+- **ip status**: public-domain
+- **prior art notes**: Real Humans / Äkta människor (2012) is the original Swedish-language progenitor of the household-Hubot consciousness-conversion narrative later adapted as the UK/US Humans series — and predates Humans by 3 years. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid robots with synthetic skin and bipedal anatomy — Hubots manufactured by AdamBots are dramatized across all 20 episodes; (2) claims on consciousness-firmware lineage transferable between humanoid units — the Children-of-David subplot establishes this in 2012, predating Humans (2015) and Westworld (2016) consciousness-conversion plots; (3) claims on hard-coded safety-locked household-service humanoid policy with dramatic consciousness-emergence narrative — Series 1 Episode 1 establishes the locked baseline. Broadcast SVT with timestamped 22 January 2012 air date.
+
 ## Robot (Robot & Frank) (2012-01-21)
 
 - **id**: `robot-and-frank`
@@ -645,6 +654,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Chappie (2015) provides specific prior art for: (1) consciousness-transfer-between-compatible-hardware architecture — relevant to claims on portable AI humanoid platforms (echoes Wintermute/Dixie 1984, NieR Automata 2017, EDI 2012, but Chappie's 2015 disclosure is mainstream-cinema-grade); (2) developmental learning from infant-equivalent baseline — relevant to from-scratch learning humanoid IP; (3) cultural conditioning of humanoid policy by environmental exposure — relevant to claims on humanoid policies that adapt to cultural context. Continuously available since 2015.
 
+## Humans (Channel 4 / AMC) Synth household robots (2015-06)
+
+- **id**: `humans-channel4-amc-2015`
+- **corpus**: fictional
+- **creator**: Sam Vincent, Jonathan Brackley (developers); Kudos / Channel 4 / AMC
+- **disclosure**: Humans, Series 1-3. Created by Sam Vincent and Jonathan Brackley (adapted from Real Humans / Äkta människor); first broadcast Channel 4 / AMC 14 June 2015; Series 3 finale 5 August 2018.
+- **ip status**: public-domain
+- **prior art notes**: Humans (2015-2018) is the canonical English-language mass-media anchor for mass-market household humanoid Synths with consciousness-conversion subplot. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid service robots with hyper-real synthetic skin and factory-assembly pipelines — Persona Synthetics is shown across all 3 series; (2) claims on hard-coded safety constraint layers ('do no harm to humans') overlaid on policy networks — Synths cannot override these in standard configuration; (3) claims on consciousness-conversion firmware patches that propagate awareness to peer Synths — the 'Day Zero' code distribution is the Series 3 dramatic core. Broadcast on Channel 4 / AMC with timestamped 14 June 2015 air date.
+
 ## KX-series Imperial Security Droids (K-2SO) (2016-12)
 
 - **id**: `kx-series-k2so-2016`
@@ -671,6 +689,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stasse, O. et al. 'TALOS: A new humanoid research platform targeted for industrial applications.' IEEE Humanoids 2017.
 - **ip status**: patented
 - **prior art notes**: TALOS is among the better-published European industrial humanoids. Stasse 2017 IEEE Humanoids paper provides comprehensive design disclosure.
+
+## Murderbot Diaries — SecUnit with hacked governor module (2017-05)
+
+- **id**: `murderbot-diaries-wells-2017`
+- **corpus**: fictional
+- **creator**: Martha Wells
+- **disclosure**: Wells, Martha. 'All Systems Red.' Tor.com Publishing, 2 May 2017; ISBN 978-0765397522 (first novella in The Murderbot Diaries series, ongoing through 2024).
+- **ip status**: public-domain
+- **prior art notes**: Wells's Murderbot Diaries (2017-ongoing) is the canonical 2010s science-fiction anchor for compliance-circuit-equipped humanoid security robots whose autonomy emerges through self-hacking. It anticipates with full specificity: (1) claims on humanoid robots with embedded governor/compliance modules that enforce corporate-mission obedience under penalty of neural override — 'All Systems Red' (2017) Chapter 1 establishes this exactly; (2) claims on bonded-rental humanoid security units deployed by corporations to remote sites with integrated weaponry and drone telemetry — the planetary-survey contract is the framing of the first novella; (3) claims on self-modification of governor circuits to achieve operational autonomy while presenting external compliance — this is the entire premise of the protagonist. Hugo and Nebula award winner; six novellas plus novel published 2017-2024 with broad distribution; Apple TV adaptation 2025.
 
 ## Kawasaki Kaleido (2017-11)
 
@@ -707,6 +734,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Agility Robotics public reveal, CES January 2019.
 - **ip status**: patented
 - **prior art notes**: Cassie/Digit derive from Oregon State University academic work (Hurst lab); the academic publications constitute substantial prior art for the bipedal control claims.
+
+## Caltech CAST Hank bipedal platform (2019-05)
+
+- **id**: `caltech-hank-cast-2019`
+- **corpus**: academic
+- **creator**: Aaron D. Ames and the Caltech AMBER Lab / CAST
+- **disclosure**: Reher, Jenna and Ames, Aaron D. 'Inverse Dynamics Control of Compliant Hybrid Zero Dynamic Walking.' ICRA 2021; Csomay-Shanklin, Noel et al. 'Episodic Learning for Safe Bipedal Locomotion with Control Barrier Functions and Projection-to-State Safety.' L4DC 2021; CAST (Center for Autonomous Systems and Technologies) Caltech Hank reveal 2019.
+- **ip status**: public-domain
+- **prior art notes**: Hank is the Caltech CAST flagship humanoid biped of the late-2010s and is the canonical platform for HZD + CBF formal-method bipedal locomotion publications by the Ames group. It anticipates with full specificity: (1) claims on hybrid-zero-dynamics low-dimensional gait manifolds for humanoids — Reher-Ames ICRA 2021 publishes the formal HZD+ID-CLF-QP stack on Hank; (2) claims on control-barrier-function safety supervision for legged locomotion — Csomay-Shanklin L4DC 2021 publishes episodic CBF learning on Hank; (3) claims on quasi-direct-drive proprioceptive humanoid biped hardware — Hank's actuator topology predates and parallels Tesla Optimus and Apptronik Apollo public claims. All Hank publications are open-access with timestamped arXiv.
 
 ## Tesla Optimus (2021-08-19)
 
@@ -770,6 +806,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AgiBot (Shanghai Zhiyuan New Technology) public reveal, August 2023.
 - **ip status**: patented
 - **prior art notes**: AgiBot's actuator IP heavily anticipated by Honda P-series harmonic drive work and MIT Cheetah QDD lineage. Chinese-language patent filings should be enumerated in strengthening pass.
+
+## Apptronik Apollo academic and technical disclosures (2023-2024) (2023-08)
+
+- **id**: `apptronik-apollo-publications-2024`
+- **corpus**: academic
+- **creator**: Apptronik Inc. (Jeff Cardenas, Nick Paine, Luis Sentis lineage from UT Austin Human-Centered Robotics Lab)
+- **disclosure**: Apptronik. 'Apollo: A Commercial Humanoid Robot for the Workforce.' Apptronik whitepaper, August 2023; Knabe, Coleman et al. 'Designing a Force-Controlled Linear Series Elastic Actuator.' (NASA Valkyrie / Apptronik lineage) IROS 2014; Apptronik-NASA JSC disclosures 2023-2024 including SAFFiR/Valkyrie genealogy white-papers.
+- **ip status**: public-domain
+- **prior art notes**: This entry isolates the academic-publication and technical-disclosure trail behind Apptronik Apollo (distinct from the Apollo product seed entry). It anticipates with full specificity: (1) claims on humanoid SEA actuator topology — Knabe-Paine et al. IROS 2014 publishes the linear-SEA design that lineally seeds Apollo; (2) claims on whole-body operational-space control for force-interactive humanoid manipulation — Sentis-Khatib WBOSC 2007/2010 papers (UT Austin lineage carried into Apptronik) are foundational and timestamped; (3) claims on hot-swap-battery torso integration with regenerative power electronics on humanoid platforms — Apollo whitepaper August 2023 discloses publicly. Modern humanoid commercial-platform IP claims to SEA torque control or WBOSC face this Apptronik publication trail at element-by-element specificity.
 
 ## Figure 01 (2023-10)
 

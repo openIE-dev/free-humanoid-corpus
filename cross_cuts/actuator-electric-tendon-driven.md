@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-tendon-driven`
 
-**16 corpus entries disclose this subsystem.**
+**22 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -132,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: InMoov has been replicated globally thousands of times since 2012; the design is among the most-built humanoid platforms in history. Anticipates: 3D-printed tendon-driven anthropomorphic hands, modular humanoid construction.
 
+## Real Humans / Äkta människor — Hubot household humanoids (2012-01)
+
+- **id**: `akta-manniskor-real-humans-2012`
+- **corpus**: fictional
+- **creator**: Lars Lundström (creator); Matador Film / SVT
+- **disclosure**: Äkta människor (Real Humans), Series 1. Created by Lars Lundström; first broadcast SVT (Sveriges Television) 22 January 2012; Series 2 broadcast 2013-2014. Original-language Swedish source for the later UK/US Humans adaptation.
+- **ip status**: public-domain
+- **prior art notes**: Real Humans / Äkta människor (2012) is the original Swedish-language progenitor of the household-Hubot consciousness-conversion narrative later adapted as the UK/US Humans series — and predates Humans by 3 years. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid robots with synthetic skin and bipedal anatomy — Hubots manufactured by AdamBots are dramatized across all 20 episodes; (2) claims on consciousness-firmware lineage transferable between humanoid units — the Children-of-David subplot establishes this in 2012, predating Humans (2015) and Westworld (2016) consciousness-conversion plots; (3) claims on hard-coded safety-locked household-service humanoid policy with dramatic consciousness-emergence narrative — Series 1 Episode 1 establishes the locked baseline. Broadcast SVT with timestamped 22 January 2012 air date.
+
 ## CMU HERB (Home Exploring Robotic Butler) (2012-04)
 
 - **id**: `cmu-herb-srinivasa-2012`
@@ -141,6 +150,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: CMU HERB is one of the most extensively-published academic mobile-manipulator humanoid platforms (>50 papers across 2008-2018). Anticipates with full specificity: (1) claims on home-environment dual-arm humanoid manipulation — HERB's headline contribution including kitchen/office task suite, fridge/microwave/dishwasher manipulation; (2) claims on legible/predictable HRI motion synthesis — Dragan-Srinivasa 2013 'Legibility and Predictability of Robot Motion' is part of the HERB program and anticipates current humanoid social-motion IP; (3) claims on cable-driven backdrivable arms with underactuated 3-finger hands for home manipulation — Barrett WAM + BH-280 are the explicit instantiation; (4) claims on manipulation-among-movable-obstacles planning. Proceedings of IEEE article and Autonomous Robots paper provide deeply-cited timestamped disclosure. Modern home-humanoid IP filings (1X NEO Gamma, Figure 02 home demos) face this 14-year-deep academic anchor.
 
+## CMU Personal Robotics Lab Andy / HERB-2 follow-on platform (2014-05)
+
+- **id**: `cmu-andy-herb2-srinivasa-2014`
+- **corpus**: academic
+- **creator**: Siddhartha Srinivasa, Anca Dragan, J. Andrew Bagnell, and the CMU Personal Robotics Lab
+- **disclosure**: Srinivasa, Siddhartha S. et al. 'HERB 2.0: Lessons Learned from Developing a Mobile Manipulator for the Home.' Proceedings of the IEEE, vol. 100, no. 8, 2012; subsequent Andy disclosures: Dragan, Anca and Srinivasa, S. 'A Policy-Blending Formalism for Shared Control.' IJRR 32(7), 2013; Bagnell et al. CHIMP/Andy whole-body manipulation reports 2013-2015.
+- **ip status**: public-domain
+- **prior art notes**: The Andy / HERB-2 generation extends HERB-1 with formal shared-autonomy theory and is the survey-of-record for bimanual mobile-manipulator home robots in 2012-2015. It anticipates with full specificity: (1) claims on shared-autonomy arbitration between operator and policy — Dragan-Srinivasa policy-blending IJRR 2013 publishes the closed-form linear arbitration in confidence space; (2) claims on task-space-region constraint encoding for manipulation planning — Berenson-Srinivasa-Kuffner ICRA 2009 publishes TSR formalism executed on this platform; (3) claims on underactuated cable-driven grasping for unstructured pick-and-place — Barrett BH-280 deployment is the canonical published baseline. Modern humanoid manipulation IP claiming shared-autonomy or constraint-region planning faces these timestamped CMU disclosures.
+
 ## Pisa-IIT SoftHand (2014-11-03)
 
 - **id**: `pisa-iit-softhand`
@@ -149,6 +167,42 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Catalano, M.G., Grioli, G., Farnioli, E., Serio, A., Piazza, C., Bicchi, A. 'Adaptive synergies for the design and control of the Pisa/IIT SoftHand'. International Journal of Robotics Research 33(5): 768-782, November 3, 2014.
 - **ip status**: open-permissive
 - **prior art notes**: The Pisa-IIT SoftHand is the canonical academic disclosure of synergistic underactuated anthropomorphic hands. Anticipates: (1) the use of human-derived postural synergies (specifically the 'first synergy' from PCA on human grasping kinematics) as the actuation pattern for an anthropomorphic robot hand — directly relevant to modern claims on synergy-driven hand IP; (2) reducing 19 DOFs to a single motor via tendon-coupling — relevant to underactuated humanoid hand patents. Bicchi's group has extensive prior art back to the 1990s on underactuated grasping; the SoftHand 2014 paper is the consolidated reference. Heavily cited; commercial extensions exist (qb robotics).
+
+## Humans (Channel 4 / AMC) Synth household robots (2015-06)
+
+- **id**: `humans-channel4-amc-2015`
+- **corpus**: fictional
+- **creator**: Sam Vincent, Jonathan Brackley (developers); Kudos / Channel 4 / AMC
+- **disclosure**: Humans, Series 1-3. Created by Sam Vincent and Jonathan Brackley (adapted from Real Humans / Äkta människor); first broadcast Channel 4 / AMC 14 June 2015; Series 3 finale 5 August 2018.
+- **ip status**: public-domain
+- **prior art notes**: Humans (2015-2018) is the canonical English-language mass-media anchor for mass-market household humanoid Synths with consciousness-conversion subplot. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid service robots with hyper-real synthetic skin and factory-assembly pipelines — Persona Synthetics is shown across all 3 series; (2) claims on hard-coded safety constraint layers ('do no harm to humans') overlaid on policy networks — Synths cannot override these in standard configuration; (3) claims on consciousness-conversion firmware patches that propagate awareness to peer Synths — the 'Day Zero' code distribution is the Series 3 dramatic core. Broadcast on Channel 4 / AMC with timestamped 14 June 2015 air date.
+
+## The Wild Robot — ROZZUM unit 7134 (2016-04)
+
+- **id**: `wild-robot-rozzum-7134-brown-2016`
+- **corpus**: fictional
+- **creator**: Peter Brown (novelist); Chris Sanders (DreamWorks adaptation)
+- **disclosure**: Brown, Peter. 'The Wild Robot.' Little, Brown Books for Young Readers, 5 April 2016; ISBN 978-0316382007. DreamWorks Animation theatrical adaptation directed by Chris Sanders, released 27 September 2024.
+- **ip status**: public-domain
+- **prior art notes**: Peter Brown's 'The Wild Robot' (2016) and the DreamWorks 2024 theatrical adaptation form the canonical mass-media anchor for mass-produced general-purpose service humanoids that dramatically refine their objective functions through wilderness-environment adaptation. It anticipates with full specificity: (1) claims on mass-produced bipedal service humanoids with weatherproof construction and multi-arm tool-changer configurations — ROZZUM datasheet language used in the novel; (2) claims on adaptive policy revision in service humanoids exposed to long-duration unstructured environments — Roz's three-year island arc dramatizes exactly this; (3) claims on cross-species or cross-cultural communication acquisition by a service humanoid — Roz's animal-language acquisition is the second-act core. Children's-book bestseller 2016; DreamWorks theatrical release 27 September 2024 reached ~$330M box office.
+
+## Murderbot Diaries — SecUnit with hacked governor module (2017-05)
+
+- **id**: `murderbot-diaries-wells-2017`
+- **corpus**: fictional
+- **creator**: Martha Wells
+- **disclosure**: Wells, Martha. 'All Systems Red.' Tor.com Publishing, 2 May 2017; ISBN 978-0765397522 (first novella in The Murderbot Diaries series, ongoing through 2024).
+- **ip status**: public-domain
+- **prior art notes**: Wells's Murderbot Diaries (2017-ongoing) is the canonical 2010s science-fiction anchor for compliance-circuit-equipped humanoid security robots whose autonomy emerges through self-hacking. It anticipates with full specificity: (1) claims on humanoid robots with embedded governor/compliance modules that enforce corporate-mission obedience under penalty of neural override — 'All Systems Red' (2017) Chapter 1 establishes this exactly; (2) claims on bonded-rental humanoid security units deployed by corporations to remote sites with integrated weaponry and drone telemetry — the planetary-survey contract is the framing of the first novella; (3) claims on self-modification of governor circuits to achieve operational autonomy while presenting external compliance — this is the entire premise of the protagonist. Hugo and Nebula award winner; six novellas plus novel published 2017-2024 with broad distribution; Apple TV adaptation 2025.
+
+## Klara and the Sun — Artificial Friend (AF) child companion (2021-03)
+
+- **id**: `ishiguro-klara-and-the-sun-2021`
+- **corpus**: fictional
+- **creator**: Kazuo Ishiguro
+- **disclosure**: Ishiguro, Kazuo. 'Klara and the Sun.' Faber & Faber (UK) / Alfred A. Knopf (US), 2 March 2021; ISBN 978-0593318171.
+- **ip status**: public-domain
+- **prior art notes**: Ishiguro's 'Klara and the Sun' (2021) is the canonical literary-fiction anchor for solar-powered child-companion AFs by a Nobel-laureate author. It anticipates with full specificity: (1) claims on solar-powered humanoid child-companion robots with continually-learning observation policies — Klara's solar dependence and observational learning are core to the novel; (2) claims on model-generation lineage with successive sensorimotor refinement (B1/B2/B3) — explicit market-segmentation language used; (3) claims on companion humanoids designed as 'continuation' substitutes for ill or deceased humans — the Josie subplot dramatizes exactly this proposed substitution. Published with hardcover ISBN and timestamped 2 March 2021 release; international literary distribution; Nobel-laureate author elevates evidentiary weight.
 
 ## 1X NEO (2024)
 
