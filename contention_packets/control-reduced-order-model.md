@@ -1,7 +1,7 @@
 ---
 title: "control-reduced-order-model"
 parent: "Invalidity Contentions"
-nav_order: 23
+nav_order: 25
 layout: default
 ---
 
@@ -642,4 +642,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0ab4327`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*

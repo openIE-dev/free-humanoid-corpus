@@ -1,7 +1,7 @@
 ---
 title: "sensing-tactile-fingertip"
 parent: "Invalidity Contentions"
-nav_order: 63
+nav_order: 68
 layout: default
 ---
 
@@ -357,4 +357,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0ab4327`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*

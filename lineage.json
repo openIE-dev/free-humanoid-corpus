@@ -2032,6 +2032,18 @@
       "descendants": []
     },
     {
+      "id": "star-fearing-2013",
+      "name": "STAR (Sprawl-Tuned Autonomous Robot)",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "amphistar-zarrouk-2023",
+        "dstar-zarrouk-2026",
+        "rstar-zarrouk-2019"
+      ]
+    },
+    {
       "id": "atlas-boston-dynamics",
       "name": "Atlas",
       "year": "2013",
@@ -2692,6 +2704,19 @@
       "descendants": []
     },
     {
+      "id": "rstar-zarrouk-2019",
+      "name": "RSTAR (Rising STAR)",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [
+        "star-fearing-2013"
+      ],
+      "descendants": [
+        "amphistar-zarrouk-2023",
+        "dstar-zarrouk-2026"
+      ]
+    },
+    {
       "id": "diligent-moxi",
       "name": "Diligent Moxi",
       "year": "2019",
@@ -2800,6 +2825,16 @@
       "descendants": []
     },
     {
+      "id": "orb-slam3-2021",
+      "name": "ORB-SLAM3",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "radio-vipe-itmo-2026"
+      ]
+    },
+    {
       "id": "unitree-go1",
       "name": "Unitree Go1",
       "year": "2021",
@@ -2854,6 +2889,16 @@
         "hanson-sophia"
       ],
       "descendants": []
+    },
+    {
+      "id": "droid-slam-2021",
+      "name": "DROID-SLAM",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "radio-vipe-itmo-2026"
+      ]
     },
     {
       "id": "sanctuary-phoenix-gen6",
@@ -3018,6 +3063,19 @@
         "aloha-2-aldaco-2024",
         "mobile-aloha",
         "umi-stanford"
+      ]
+    },
+    {
+      "id": "amphistar-zarrouk-2023",
+      "name": "AmphiSTAR",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "rstar-zarrouk-2019",
+        "star-fearing-2013"
+      ],
+      "descendants": [
+        "dstar-zarrouk-2026"
       ]
     },
     {
@@ -3512,11 +3570,34 @@
       "descendants": []
     },
     {
+      "id": "dstar-zarrouk-2026",
+      "name": "Decoupled STAR (DSTAR)",
+      "year": "2026",
+      "corpus": "academic",
+      "ancestors": [
+        "amphistar-zarrouk-2023",
+        "rstar-zarrouk-2019",
+        "star-fearing-2013"
+      ],
+      "descendants": []
+    },
+    {
       "id": "genesis-ai-gene-26-5",
       "name": "Genesis AI GENE-26.5",
       "year": "2026",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "radio-vipe-itmo-2026",
+      "name": "RADIO-ViPE",
+      "year": "2026",
+      "corpus": "academic",
+      "ancestors": [
+        "droid-slam-2021",
+        "orb-slam3-2021"
+      ],
       "descendants": []
     }
   ],

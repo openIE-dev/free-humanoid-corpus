@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-07  
-**Packets:** 67  
-**Corpus revision:** `0ab4327`
+**Packets:** 72  
+**Corpus revision:** `1bdd28b`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -43,11 +43,13 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-acoustic-comms`](control-acoustic-comms.md) | 10 | 9 | 1 | 1989-01 | 2018-04 |
 | [`control-behavior-tree`](control-behavior-tree.md) | 12 | 12 | 0 | 1772 | 2022-04-04 |
 | [`control-bilateral-teleop-haptic`](control-bilateral-teleop-haptic.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
+| [`control-bundle-adjustment`](control-bundle-adjustment.md) | 3 | 3 | 0 | 2021-04 | 2026-04 |
 | [`control-dvl-positioning`](control-dvl-positioning.md) | 8 | 7 | 1 | 1989-04 | 2018-04 |
 | [`control-mission-script`](control-mission-script.md) | 4 | 4 | 0 | 1989-01 | 2003-09 |
-| [`control-mode-switching`](control-mode-switching.md) | 2 | 1 | 1 | 2008-05 | 2018-04 |
+| [`control-mode-switching`](control-mode-switching.md) | 5 | 4 | 1 | 2008-05 | 2026-01 |
 | [`control-mpc`](control-mpc.md) | 37 | 34 | 3 | 1980-11 | 2024-12 |
 | [`control-network-protocol`](control-network-protocol.md) | 2 | 2 | 0 | 2014-09 | 2017-03 |
+| [`control-open-loop-gait`](control-open-loop-gait.md) | 2 | 2 | 0 | 2013-05 | 2026-01 |
 | [`control-operational-space`](control-operational-space.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
 | [`control-reduced-order-model`](control-reduced-order-model.md) | 28 | 27 | 1 | 1979-04-07 | 2023-08 |
 | [`control-rl-policy`](control-rl-policy.md) | 123 | 97 | 26 | 1818 | 2026-04 |
@@ -55,6 +57,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-station-keeping`](control-station-keeping.md) | 6 | 6 | 0 | 1964-06 | 2022-07 |
 | [`control-teleoperation`](control-teleoperation.md) | 31 | 26 | 5 | 1956-07 | 2024-05-24 |
 | [`control-tethered-teleoperation`](control-tethered-teleoperation.md) | 5 | 5 | 0 | 1989-04 | 2008-05 |
+| [`control-vio-slam`](control-vio-slam.md) | 3 | 3 | 0 | 2021-04 | 2026-04 |
 | [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 79 | 70 | 9 | 1886 | 2026-04 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 21 | 21 | 0 | 1969 | 2023-08 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |
@@ -67,13 +70,15 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-pitch-roll-trim`](mechanism-pitch-roll-trim.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
 | [`mechanism-pressure-hull`](mechanism-pressure-hull.md) | 7 | 6 | 1 | 1964-06 | 2018-04 |
 | [`mechanism-quadrupedal-locomotion`](mechanism-quadrupedal-locomotion.md) | 16 | 15 | 1 | 1968-09-27 | 2022-09 |
+| [`mechanism-reconfigurable`](mechanism-reconfigurable.md) | 2 | 2 | 0 | 2019-05 | 2026-01 |
+| [`mechanism-sprawl-tunable`](mechanism-sprawl-tunable.md) | 3 | 3 | 0 | 2013-05 | 2026-01 |
 | [`mechanism-syntactic-foam-ballast`](mechanism-syntactic-foam-ballast.md) | 2 | 2 | 0 | 1964-06 | 2008-05 |
 | [`mechanism-tendon-routing`](mechanism-tendon-routing.md) | 15 | 12 | 3 | 1495 | 2024 |
 | [`mechanism-thruster-axial`](mechanism-thruster-axial.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
 | [`mechanism-thruster-vectored`](mechanism-thruster-vectored.md) | 9 | 8 | 1 | 1964-06 | 2022-07 |
 | [`mechanism-underactuated-grasping`](mechanism-underactuated-grasping.md) | 9 | 9 | 0 | 1986 | 2018-09 |
 | [`mechanism-variable-buoyancy-glider`](mechanism-variable-buoyancy-glider.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
-| [`mechanism-wheel-leg-hybrid`](mechanism-wheel-leg-hybrid.md) | 2 | 2 | 0 | 2002-10-01 | 2004 |
+| [`mechanism-wheel-leg-hybrid`](mechanism-wheel-leg-hybrid.md) | 6 | 6 | 0 | 2002-10-01 | 2026-01 |
 | [`mechanism-wheeled-balancing`](mechanism-wheeled-balancing.md) | 7 | 7 | 0 | 1963-12-21 | 2024-01-04 |
 | [`power-hot-swap`](power-hot-swap.md) | 3 | 2 | 1 | 2015-02 | 2023-08 |
 | [`power-li-ion`](power-li-ion.md) | 61 | 41 | 20 | 1886 | 2025-10 |

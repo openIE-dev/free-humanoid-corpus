@@ -1,6 +1,6 @@
 # Corpus Index
 
-338 entries total. Generated from corpus.jsonl.
+345 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | ALOHA-2 enhanced bimanual teleoperation platform | `aloha-2-aldaco-2024` | 2024 | academic | public-domain |  |
 | ALVINN (Autonomous Land Vehicle in a Neural Network) | `pomerleau-alvinn` | 1989 | academic | public-domain |  |
 | Ameca | `ameca` | 2021 | private | patented | ✓ |
+| AmphiSTAR | `amphistar-zarrouk-2023` | 2023 | academic | open-permissive |  |
 | Andrew (The Bicentennial Man) | `asimov-bicentennial-man` | 1976 | fictional | fictional | ✓ |
 | Android 17 (Lapis) | `dbz-android-17` | 1992 | fictional | fictional |  |
 | Android 18 (Lazuli) | `dbz-android-18` | 1992 | fictional | fictional |  |
@@ -86,6 +87,7 @@
 | DARwIn-OP | `darwin-op` | 2010 | open | open-permissive |  |
 | Data | `data-tng` | 1987 | fictional | fictional |  |
 | David and Walter (Alien franchise synthetics) | `david-prometheus-walter-covenant` | 2012 | fictional | fictional |  |
+| Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
 | Diffusion Policy | `diffusion-policy` | 2023 | academic | open-permissive |  |
 | Digit | `agility-digit` | 2019 | private | patented |  |
@@ -98,6 +100,7 @@
 | Doraemon | `doraemon` | 1969 | fictional | fictional |  |
 | Dreamer V3 | `hafner-dreamer-v3-2023` | 2023 | academic | open-permissive |  |
 | DROID Dataset | `droid-dataset` | 2024 | academic | open-permissive |  |
+| DROID-SLAM | `droid-slam-2021` | 2021 | academic | open-permissive |  |
 | DSV Alvin | `alvin-hov-1964` | 1964 | academic | public-domain |  |
 | Dynamic Movement Primitives (DMP) | `dmp-schaal-ijspeert` | 2002 | academic | public-domain |  |
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
@@ -221,6 +224,7 @@
 | OpenAI Dactyl | `openai-dactyl` | 2018 | academic | open-permissive |  |
 | OpenVLA (Open-Source Vision-Language-Action Model) | `openvla` | 2024 | academic | open-permissive |  |
 | ORB-SLAM | `orb-slam-mur-artal-2015` | 2015 | academic | open-permissive |  |
+| ORB-SLAM3 | `orb-slam3-2021` | 2021 | academic | open-copyleft |  |
 | Ott Cartesian Impedance Control | `ott-impedance-control` | 2008 | academic | open-permissive |  |
 | PAL TALOS | `pal-talos` | 2017 | private | patented |  |
 | PaLM-E (Embodied Multimodal Language Model) | `palm-e` | 2023 | academic | open-permissive |  |
@@ -239,6 +243,7 @@
 | Pratt-Williamson Series Elastic Actuator | `pratt-williamson-sea` | 1995 | academic | public-domain |  |
 | R. Daneel Olivaw | `asimov-caves-of-steel-daneel` | 1953 | fictional | fictional |  |
 | R2-D2 | `r2-d2-star-wars` | 1977 | fictional | fictional |  |
+| RADIO-ViPE | `radio-vipe-itmo-2026` | 2026 | academic | open-permissive |  |
 | Raibert One-Legged Hopper | `raibert-hopping-1leg` | 1983 | academic | public-domain |  |
 | Rainbow Robotics RB-Y1 | `rainbow-robotics-rb-y1` | 2024 | private | patented |  |
 | Reachy | `reachy` | 2020 | open | open-permissive |  |
@@ -261,6 +266,7 @@
 | Robotman (Robert Crane) | `dc-robotman-1942` | 1942 | fictional | fictional |  |
 | Roetenberg Inertial Motion Capture (Xsens MVN) | `roetenberg-xsens-imu` | 2009 | academic | open-permissive |  |
 | Rossum's Universal Robots | `rur-rossums-robots` | 1920 | fictional | public-domain |  |
+| RSTAR (Rising STAR) | `rstar-zarrouk-2019` | 2019 | academic | open-permissive |  |
 | RT-1 (Robotics Transformer 1) | `rt-1` | 2022 | academic | open-permissive |  |
 | RT-2 | `openai-rt-2` | 2023 | academic | public-domain |  |
 | Runtime Assurance (RTA) | `runtime-assurance-rta` | 2010 | academic | public-domain |  |
@@ -290,6 +296,7 @@
 | Sophia | `hanson-sophia` | 2016 | private | patented |  |
 | Sophia (Persona 5 Royal) | `persona-5-sophia` | 2019 | fictional | fictional |  |
 | Stanford JackRabbot 2 (JR-2) wheeled-arm research robot | `stanford-jr2-2018` | 2018 | academic | public-domain |  |
+| STAR (Sprawl-Tuned Autonomous Robot) | `star-fearing-2013` | 2013 | academic | open-permissive |  |
 | Steins;Gate 0 Amadeus AI consciousness backup | `steins-gate-amadeus-2015` | 2015 | fictional | public-domain |  |
 | Stonefish underwater robotics simulator | `stonefish-sim-2018` | 2018 | open | open-permissive |  |
 | Sumitomo CYCLO Speed Reducer | `sumitomo-cyclo` | 1937 | academic | public-domain |  |

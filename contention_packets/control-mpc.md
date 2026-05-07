@@ -1,7 +1,7 @@
 ---
 title: "control-mpc"
 parent: "Invalidity Contentions"
-nav_order: 20
+nav_order: 21
 layout: default
 ---
 
@@ -819,4 +819,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0ab4327`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*

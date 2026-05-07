@@ -1,7 +1,7 @@
 ---
 title: "control-mode-switching"
 parent: "Invalidity Contentions"
-nav_order: 19
+nav_order: 20
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-mode-switching`  
-**Entries:** 2 (1 commons-grade, 1 draft)  
+**Entries:** 5 (4 commons-grade, 1 draft)  
 **Earliest disclosure:** 2008-05  
-**Most recent disclosure:** 2018-04
+**Most recent disclosure:** 2026-01
 
 ---
 
@@ -83,6 +83,67 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-05 — RSTAR (Rising STAR)
+
+- **id:** `rstar-zarrouk-2019`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Ben-Gurion University; David Zarrouk group
+- **disclosure citation:** Zarrouk, D., Mann, M., Degani, N., Yehuda, T., Jarbi, N., Hess, A. 'Single Actuator Wave-Like Robot (SAW): Design, Modeling, and Experiments' and follow-up RSTAR papers (IEEE RA-L 2018-2019). Ben-Gurion University of the Negev, Bio-inspired and Medical Robotics Lab. RSTAR = 'Rising STAR'.
+- **disclosed subsystems:** `mechanism-sprawl-tunable`, `mechanism-wheel-leg-hybrid`, `mechanism-extensible-body`, `mechanism-reconfigurable`, `control-mode-switching`
+
+**Prior art notes:**
+
+> RSTAR is the immediate predecessor of DSTAR and the founding member of the Zarrouk-group Ben-Gurion STAR lineage. 7 years of open-academic publication via IEEE RA-L and IROS. Establishes element-by-element prior art for: wheel-leg-hybrid reconfigurable robots, body-extension step-climbing, turtle-gait crawling without wheels, mode-switching between rolling and walking. Directly shields free-humanoid-centaur commitments on wheel-leg hybrid morphology and mode-switching.
+
+**Sources:**
+
+1. Zarrouk, D. et al. 'RSTAR' IEEE RA-L 2018-2019.
+2. Ben-Gurion University Bio-inspired and Medical Robotics Lab (bgu.ac.il/zarrouklab).
+
+---
+
+### 2023-05 — AmphiSTAR
+
+- **id:** `amphistar-zarrouk-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Ben-Gurion University; Avi Cohen, David Zarrouk
+- **disclosure citation:** Cohen, A., Zarrouk, D. 'AmphiSTAR: A High-Speed Amphibious Reconfigurable Robot'. IEEE Robotics and Automation Letters 2023; ICRA 2023 demo. Ben-Gurion University, Zarrouk lab.
+- **disclosed subsystems:** `mechanism-wheel-leg-hybrid`, `mechanism-amphibious-platform`, `mechanism-sealed-enclosure`, `control-mode-switching`
+
+**Prior art notes:**
+
+> AmphiSTAR establishes 3-year-deep open-academic prior art for **terrestrial-aquatic transition in a single platform with shared ground-contact mechanism**. Directly relevant to free-humanoid-submersible (and the centaur's wetland mode-transition) — proves that wheel-paddle hybrid contact patches and sealed-enclosure amphibious operation are well-anticipated open art. Any commercial claim on amphibious humanoid robotics faces this lineage plus the deeper aquatic-robotics chain (Slocum/Seaglider, OceanOne, AmphiSTAR).
+
+**Sources:**
+
+1. Cohen, A., Zarrouk, D. IEEE RA-L 2023.
+2. ICRA 2023 demo session.
+
+---
+
+### 2026-01 — Decoupled STAR (DSTAR)
+
+- **id:** `dstar-zarrouk-2026`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Ben-Gurion University; Tomer Siboni, Matan Coronel, David Zarrouk
+- **disclosure citation:** Siboni, T., Coronel, M., Zarrouk, D. 'Design and Modeling of a Reconfigurable Robot: Decoupled STAR (DSTAR)'. IEEE Robotics and Automation Letters vol. 11 no. 1, January 2026, pp. 882-889. DOI: 10.1109/LRA.2025.3634888. Ben-Gurion University, Department of Mechanical Engineering / Bio-inspired Robotics Lab. Funded by Helmsley Charitable Trust + Marcus Endowment Fund.
+- **disclosed subsystems:** `mechanism-sprawl-tunable`, `mechanism-wheel-leg-hybrid`, `mechanism-four-bar-extension`, `mechanism-reconfigurable`, `mechanism-3d-printed-platform`, `control-mode-switching`, `control-open-loop-gait`
+
+**Prior art notes:**
+
+> DSTAR is the most recent STAR-family member, published IEEE RA-L January 2026. Establishes very-recent (4-month-deep) open-academic prior art for: decoupled-FBEM wheel-leg reconfigurable robotics, sideways rolling via asymmetric mechanical configuration, COM-shifting via independent left/right leg actuation, 18-20 cm obstacle traversal in palm-sized class. Directly anticipates free-humanoid-centaur's wheel-leg hybrid mode-switching commitment, free-humanoid-wheeled's obstacle-climbing requirement, and any commercial humanoid claim on reconfigurable wheel-leg architectures (including any mid-size extrapolation of DSTAR to humanoid scale). The full STAR family lineage (Berkeley original 2013 → Zarrouk RSTAR 2019 → AmphiSTAR 2023 → DSTAR 2026) provides 13-year-deep open-academic continuous publication coverage of every architectural element. Highly relevant for shoal dock-A wetland service: DSTAR's terrain-adaptation gait library is a published reference design for centaur-class wetland mode-transition.
+
+**Sources:**
+
+1. Siboni, T., Coronel, M., Zarrouk, D. IEEE RA-L 11(1) January 2026, pp. 882-889. DOI 10.1109/LRA.2025.3634888.
+2. Ben-Gurion University Bio-inspired and Medical Robotics Lab (bgu.ac.il/zarrouklab).
+3. Supplementary video material via IEEE Xplore.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -113,4 +174,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0ab4327`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1bdd28b`.*
