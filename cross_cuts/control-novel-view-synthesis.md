@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-novel-view-synthesis`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2025-04
+Earliest disclosure: 2024-03
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## SemGauss-SLAM (2024-03)
+
+- **id**: `semgauss-slam-2024`
+- **corpus**: academic
+- **creator**: Zhu, Siting et al. (per arXiv 2403.07494)
+- **disclosure**: Zhu, S., et al. 'SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM'. arXiv:2403.07494, March 2024.
+- **ip status**: open-permissive
+- **prior art notes**: SemGauss-SLAM is one of the first dense-semantic Gaussian-splatting SLAM systems (March 2024). 14-month-deep prior art for combining 3D Gaussian representations with per-primitive semantic features. Predates and informs the open-vocabulary GS-SLAM lineage that WildGS-SLAM, LEG-SLAM, LEGO-SLAM, and RADIO-ViPE descend from.
 
 ## WildGS-SLAM (2025-04)
 

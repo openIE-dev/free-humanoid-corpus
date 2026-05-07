@@ -1,7 +1,7 @@
 ---
 title: "control-vio-slam"
 parent: "Invalidity Contentions"
-nav_order: 32
+nav_order: 40
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-vio-slam`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
+**Entries:** 8 (5 commons-grade, 3 draft)  
 **Earliest disclosure:** 2021-04  
 **Most recent disclosure:** 2026-04
 
@@ -82,6 +82,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-03 — SemGauss-SLAM *(draft)*
+
+- **id:** `semgauss-slam-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Zhu, Siting et al. (per arXiv 2403.07494)
+- **disclosure citation:** Zhu, S., et al. 'SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM'. arXiv:2403.07494, March 2024.
+- **disclosed subsystems:** `control-vio-slam`, `control-gaussian-splatting-slam`, `control-semantic-slam`, `control-novel-view-synthesis`
+
+**Prior art notes:**
+
+> SemGauss-SLAM is one of the first dense-semantic Gaussian-splatting SLAM systems (March 2024). 14-month-deep prior art for combining 3D Gaussian representations with per-primitive semantic features. Predates and informs the open-vocabulary GS-SLAM lineage that WildGS-SLAM, LEG-SLAM, LEGO-SLAM, and RADIO-ViPE descend from.
+
+**Sources:**
+
+1. arXiv:2403.07494 March 2024.
+
+---
+
 ### 2025-04 — WildGS-SLAM
 
 - **id:** `wildgs-slam-2025`
@@ -104,6 +123,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-06 — LEG-SLAM *(draft)*
+
+- **id:** `leg-slam-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** LEG-SLAM authors (per arXiv 2506.03073)
+- **disclosure citation:** Authors per arXiv 2506.03073. 'LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM'. arXiv:2506.03073, June 2025.
+- **disclosed subsystems:** `control-vio-slam`, `control-gaussian-splatting-slam`, `control-semantic-slam`, `control-foundation-model-perception`
+
+**Prior art notes:**
+
+> LEG-SLAM (June 2025) is a real-time language-enhanced GS-SLAM system. 11-month-deep prior art on: real-time fps-class language-aligned GS-SLAM, DINOv2 feature compression for compact per-Gaussian language encoding. Distinct from but contemporary with LEGO-SLAM (Nov 2025). Both feed the open-vocab GS-SLAM lineage that RADIO-ViPE compares against.
+
+**Sources:**
+
+1. arXiv:2506.03073 June 2025.
+2. Project page (titrom025.github.io/LEG-SLAM/).
+
+---
+
 ### 2025-08 — ViPE (Video Pose Engine)
 
 - **id:** `nvidia-vipe-2025`
@@ -122,6 +161,26 @@ cite, copy, or redistribute these contentions.
 1. arXiv:2508.10934 August 2025.
 2. GitHub: github.com/nv-tlabs/vipe.
 3. HuggingFace paper page (huggingface.co/papers/2508.10934).
+
+---
+
+### 2025-11 — LEGO-SLAM *(draft)*
+
+- **id:** `lego-slam-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Lab of AI and Robotics (per github.com/Lab-of-AI-and-Robotics/LEGO-SLAM)
+- **disclosure citation:** Authors per arXiv 2511.16144. 'LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM'. arXiv:2511.16144, November 2025. Lab of AI and Robotics.
+- **disclosed subsystems:** `control-vio-slam`, `control-gaussian-splatting-slam`, `control-open-vocabulary`, `control-semantic-slam`, `control-foundation-model-perception`
+
+**Prior art notes:**
+
+> LEGO-SLAM (Nov 2025) is the first claimed real-time open-vocabulary GS-SLAM system. 6-month-deep prior art for: 16-dim language-feature compression in GS, language-guided Gaussian pruning. Direct shielding for any commercial humanoid claim on real-time onboard open-vocabulary scene mapping. Together with LEG-SLAM, LEGS, and SemGauss-SLAM, the open-vocab GS-SLAM corpus is now ~6-month to 14-month deep across five contemporary systems — fully covering the architectural surface of RADIO-ViPE's competitor table.
+
+**Sources:**
+
+1. arXiv:2511.16144 November 2025.
+2. GitHub: github.com/Lab-of-AI-and-Robotics/LEGO-SLAM.
 
 ---
 
@@ -177,4 +236,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*

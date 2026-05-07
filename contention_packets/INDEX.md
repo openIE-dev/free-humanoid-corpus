@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-07  
-**Packets:** 74  
-**Corpus revision:** `7da5df4`
+**Packets:** 83  
+**Corpus revision:** `94325f7`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -46,25 +46,34 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-bundle-adjustment`](control-bundle-adjustment.md) | 4 | 4 | 0 | 2021-04 | 2026-04 |
 | [`control-dvl-positioning`](control-dvl-positioning.md) | 8 | 7 | 1 | 1989-04 | 2018-04 |
 | [`control-dynamic-scene-robust`](control-dynamic-scene-robust.md) | 2 | 2 | 0 | 2025-04 | 2026-04 |
+| [`control-foundation-model-perception`](control-foundation-model-perception.md) | 4 | 2 | 2 | 2024-09 | 2026-04 |
+| [`control-foundation-model-policy`](control-foundation-model-policy.md) | 4 | 4 | 0 | 2024-06 | 2025-04 |
+| [`control-gaussian-splatting-slam`](control-gaussian-splatting-slam.md) | 5 | 2 | 3 | 2024-03 | 2025-11 |
+| [`control-imitation-learning`](control-imitation-learning.md) | 4 | 4 | 0 | 2024-06 | 2025-02 |
+| [`control-loco-manipulation`](control-loco-manipulation.md) | 2 | 2 | 0 | 2025-02 | 2025-04 |
 | [`control-mission-script`](control-mission-script.md) | 4 | 4 | 0 | 1989-01 | 2003-09 |
 | [`control-mode-switching`](control-mode-switching.md) | 6 | 4 | 2 | 2008-05 | 2026-01 |
 | [`control-mpc`](control-mpc.md) | 38 | 35 | 3 | 1980-11 | 2025-03 |
 | [`control-network-protocol`](control-network-protocol.md) | 2 | 2 | 0 | 2014-09 | 2017-03 |
+| [`control-novel-view-synthesis`](control-novel-view-synthesis.md) | 2 | 1 | 1 | 2024-03 | 2025-04 |
 | [`control-open-loop-gait`](control-open-loop-gait.md) | 2 | 2 | 0 | 2013-05 | 2026-01 |
+| [`control-open-vocabulary`](control-open-vocabulary.md) | 3 | 2 | 1 | 2024-09 | 2026-04 |
 | [`control-operational-space`](control-operational-space.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
 | [`control-reduced-order-model`](control-reduced-order-model.md) | 28 | 27 | 1 | 1979-04-07 | 2023-08 |
 | [`control-rl-policy`](control-rl-policy.md) | 126 | 100 | 26 | 1818 | 2026-04 |
+| [`control-semantic-slam`](control-semantic-slam.md) | 4 | 1 | 3 | 2024-03 | 2026-04 |
 | [`control-sim-to-real`](control-sim-to-real.md) | 28 | 23 | 5 | 2014-12-11 | 2026-04 |
 | [`control-station-keeping`](control-station-keeping.md) | 6 | 6 | 0 | 1964-06 | 2022-07 |
 | [`control-teleoperation`](control-teleoperation.md) | 31 | 26 | 5 | 1956-07 | 2024-05-24 |
 | [`control-tethered-teleoperation`](control-tethered-teleoperation.md) | 5 | 5 | 0 | 1989-04 | 2008-05 |
-| [`control-vio-slam`](control-vio-slam.md) | 5 | 5 | 0 | 2021-04 | 2026-04 |
-| [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 79 | 70 | 9 | 1886 | 2026-04 |
+| [`control-vio-slam`](control-vio-slam.md) | 8 | 5 | 3 | 2021-04 | 2026-04 |
+| [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 83 | 74 | 9 | 1886 | 2026-04 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 21 | 21 | 0 | 1969 | 2023-08 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |
 | [`mechanism-3d-printed-platform`](mechanism-3d-printed-platform.md) | 3 | 3 | 0 | 2025-02 | 2026-01 |
+| [`mechanism-antagonistic-tendon`](mechanism-antagonistic-tendon.md) | 2 | 2 | 0 | 2024-06 | 2025-10 |
 | [`mechanism-anthropomorphic-arm`](mechanism-anthropomorphic-arm.md) | 4 | 3 | 1 | 2016-04 | 2025-02 |
-| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 116 | 94 | 22 | 1495 | 2026-04 |
+| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 117 | 95 | 22 | 1495 | 2026-04 |
 | [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 126 | 99 | 27 | -0250 | 2026-04 |
 | [`mechanism-control-fin`](mechanism-control-fin.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
 | [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 9 | 8 | 1 | 1964-06 | 2022-07 |

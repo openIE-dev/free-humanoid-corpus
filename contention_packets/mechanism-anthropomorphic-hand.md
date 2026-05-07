@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 38
+nav_order: 47
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 116 (94 commons-grade, 22 draft)  
+**Entries:** 117 (95 commons-grade, 22 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2026-04
 
@@ -2352,6 +2352,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-10 — Educational SoftHand-A
+
+- **id:** `educational-softhand-a-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Bristol Robotics Laboratory + Bristol Grammar School; Jared Lepora (16-yr student), Haoran Li, Efi Psomopoulou, Nathan F. Lepora
+- **disclosure citation:** Lepora, J., Li, H., Psomopoulou, E., Lepora, N. F. 'Educational SoftHand-A: Building an Anthropomorphic Hand with Soft Synergies using LEGO® MINDSTORMS®'. arXiv:2510.15638, October 2025. Bristol Robotics Laboratory + Bristol Grammar School.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-antagonistic-tendon`, `mechanism-differential-synergy`, `mechanism-soft-synergy`, `mechanism-educational-platform`
+
+**Prior art notes:**
+
+> Educational SoftHand-A is the LEGO MINDSTORMS instantiation of the Pisa-IIT SoftHand / Tactile SoftHand-A lineage (Oct 2025). 7-month-deep prior art for: differential clutch-gear synergy mechanism in LEGO bricks, agonist-antagonist tendon pair from a single dual-motor module, accessible educational reproduction of professional SoftHand-class designs. **Direct relevance for free-humanoid-platform hand v0.2** — the differential-synergy clutch-gear approach is documented open art that the v0.2 hand could adopt or explicitly diverge from. Together with pisa-iit-softhand, pisa-iit-softhand-2, and tactile-softhand-a-2025, the SoftHand synergy-mechanism lineage is now 11-year-deep continuous open academic publication (2014-2025) across four design generations.
+
+**Sources:**
+
+1. Lepora, Li, Psomopoulou, Lepora. arXiv:2510.15638 October 2025.
+2. Project page (lepora.com/EduSoftHand-A).
+3. Press: TechXplore, Interesting Engineering, Popular Science (October 2025).
+
+---
+
 ### 2026-04 — Genesis AI GENE-26.5 *(draft)*
 
 - **id:** `genesis-ai-gene-26-5`
@@ -2402,4 +2423,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*

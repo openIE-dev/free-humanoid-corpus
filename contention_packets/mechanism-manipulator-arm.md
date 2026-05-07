@@ -1,7 +1,7 @@
 ---
 title: "mechanism-manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 41
+nav_order: 50
 layout: default
 ---
 
@@ -259,4 +259,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7da5df4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*

@@ -1,6 +1,6 @@
 # Corpus Index
 
-353 entries total. Generated from corpus.jsonl.
+362 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | DSV Alvin | `alvin-hov-1964` | 1964 | academic | public-domain |  |
 | Dynamic Movement Primitives (DMP) | `dmp-schaal-ijspeert` | 2002 | academic | public-domain |  |
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
+| Educational SoftHand-A | `educational-softhand-a-2025` | 2025 | academic | open-permissive |  |
 | EngineAI PM01 | `engineai-pm01` | 2024 | private | patented | ✓ |
 | Ergo Proxy (Autoreivs and Proxies) | `ergo-proxy-2006` | 2006 | fictional | fictional |  |
 | Eureka LLM-driven reward design | `eureka-ma-2023` | 2023 | academic | public-domain |  |
@@ -181,6 +182,9 @@
 | Knight Sabers Hardsuits (Bubblegum Crisis) | `bubblegum-crisis-hardsuits` | 1987 | fictional | fictional |  |
 | Knights of Sidonia (Garde mecha) | `knights-of-sidonia-2013` | 2009 | fictional | fictional |  |
 | KX-series Imperial Security Droids (K-2SO) | `kx-series-k2so-2016` | 2016 | fictional | fictional |  |
+| LEG-SLAM | `leg-slam-2025` | 2025 | academic | open-permissive | ✓ |
+| LEGO-SLAM | `lego-slam-2025` | 2025 | academic | open-permissive | ✓ |
+| LEGS (Language-Embedded Gaussian Splats) | `legs-berkeley-2024` | 2024 | academic | open-permissive |  |
 | Leonardo's Mechanical Knight | `da-vinci-knight` | 1495 | fictional | public-domain |  |
 | LeRobot (HuggingFace) | `huggingface-lerobot-2024` | 2024 | academic | open-permissive |  |
 | Levine Guided Policy Search end-to-end manipulation on PR2/BRETT | `levine-gps-pr2-2016` | 2015 | academic | public-domain |  |
@@ -226,7 +230,9 @@
 | OmniGibson / iGibson (Stanford SVL) | `stanford-omnigibson-2023` | 2018 | academic | open-permissive |  |
 | Open X-Embodiment | `open-x-embodiment` | 2023 | academic | open-permissive |  |
 | OpenAI Dactyl | `openai-dactyl` | 2018 | academic | open-permissive |  |
+| OpenVLA | `openvla-stanford-2024` | 2024 | academic | open-permissive |  |
 | OpenVLA (Open-Source Vision-Language-Action Model) | `openvla` | 2024 | academic | open-permissive |  |
+| OpenVLA-OFT | `openvla-oft-stanford-2025` | 2025 | academic | open-permissive |  |
 | ORB-SLAM | `orb-slam-mur-artal-2015` | 2015 | academic | open-permissive |  |
 | ORB-SLAM3 | `orb-slam3-2021` | 2021 | academic | open-copyleft |  |
 | Ott Cartesian Impedance Control | `ott-impedance-control` | 2008 | academic | open-permissive |  |
@@ -283,6 +289,7 @@
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
 | Seaglider AUV | `seaglider-auv-2001` | 2001 | academic | open-permissive |  |
+| SemGauss-SLAM | `semgauss-slam-2024` | 2024 | academic | open-permissive | ✓ |
 | Sentinels (X-Men) | `sentinels-marvel` | 1965 | fictional | fictional |  |
 | Sentis-Khatib Whole-Body Prioritized Task Control | `sentis-khatib-whole-body` | 2005 | academic | public-domain |  |
 | Shadow Dexterous Hand | `shadow-hand` | 2003 | private | patented |  |
@@ -357,3 +364,5 @@
 | YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) | `nier-automata-2b` | 2017 | fictional | fictional |  |
 | Yoshikawa Manipulability Ellipsoid | `yoshikawa-manipulability` | 1985 | academic | public-domain |  |
 | Ziebart Maximum Entropy Inverse Reinforcement Learning | `ziebart-maxent-irl-2008` | 2008 | academic | public-domain |  |
+| π₀ (Pi-Zero) | `physical-intelligence-pi0-2024` | 2024 | academic | open-permissive |  |
+| π₀.₅ (Pi-0.5) | `physical-intelligence-pi05-2025` | 2025 | academic | open-permissive |  |
