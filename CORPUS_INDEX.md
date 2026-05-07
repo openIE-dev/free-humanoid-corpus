@@ -1,6 +1,6 @@
 # Corpus Index
 
-362 entries total. Generated from corpus.jsonl.
+375 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | Alita / Gally (Battle Angel Alita / Gunnm) | `battle-angel-alita` | 1990 | fictional | fictional |  |
 | ALOHA-2 enhanced bimanual teleoperation platform | `aloha-2-aldaco-2024` | 2024 | academic | public-domain |  |
 | ALVINN (Autonomous Land Vehicle in a Neural Network) | `pomerleau-alvinn` | 1989 | academic | public-domain |  |
+| AM-RADIO (NVIDIA) | `nvidia-am-radio-2024` | 2023 | academic | open-permissive |  |
 | Ameca | `ameca` | 2021 | private | patented | ✓ |
 | AmphiSTAR | `amphistar-zarrouk-2023` | 2023 | academic | open-permissive |  |
 | Andrew (The Bicentennial Man) | `asimov-bicentennial-man` | 1976 | fictional | fictional | ✓ |
@@ -95,16 +96,19 @@
 | Digit | `agility-digit` | 2019 | private | patented |  |
 | DIGIT | `digit-meta` | 2020 | academic | open-permissive |  |
 | Diligent Moxi | `diligent-moxi` | 2019 | private | patented |  |
+| DINOv2 | `dinov2-oquab-2023` | 2023 | academic | open-permissive |  |
 | DLR Hand-Arm System | `dlr-hand-arm-system-2011` | 2011 | academic | public-domain |  |
 | DLR Hand-II | `dlr-hand-ii` | 2004 | academic | open-permissive |  |
 | DLR Justin (Rollin' Justin) | `dlr-justin` | 2009 | academic | open-permissive |  |
 | DLR TORO | `dlr-toro` | 2014 | academic | open-permissive |  |
 | Doraemon | `doraemon` | 1969 | fictional | fictional |  |
+| Drake | `drake-tedrake-2019` | 2019 | academic | open-permissive |  |
 | Dreamer V3 | `hafner-dreamer-v3-2023` | 2023 | academic | open-permissive |  |
 | DROID Dataset | `droid-dataset` | 2024 | academic | open-permissive |  |
 | DROID-SLAM | `droid-slam-2021` | 2021 | academic | open-permissive |  |
 | DSV Alvin | `alvin-hov-1964` | 1964 | academic | public-domain |  |
 | Dynamic Movement Primitives (DMP) | `dmp-schaal-ijspeert` | 2002 | academic | public-domain |  |
+| DynaSLAM | `dynaslam-bescos-2018` | 2018 | academic | open-copyleft |  |
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
 | Educational SoftHand-A | `educational-softhand-a-2025` | 2025 | academic | open-permissive |  |
 | EngineAI PM01 | `engineai-pm01` | 2024 | private | patented | ✓ |
@@ -186,10 +190,12 @@
 | LEGO-SLAM | `lego-slam-2025` | 2025 | academic | open-permissive | ✓ |
 | LEGS (Language-Embedded Gaussian Splats) | `legs-berkeley-2024` | 2024 | academic | open-permissive |  |
 | Leonardo's Mechanical Knight | `da-vinci-knight` | 1495 | fictional | public-domain |  |
+| LERF (Language Embedded Radiance Fields) | `lerf-kerr-2023` | 2023 | academic | open-permissive |  |
 | LeRobot (HuggingFace) | `huggingface-lerobot-2024` | 2024 | academic | open-permissive |  |
 | Levine Guided Policy Search end-to-end manipulation on PR2/BRETT | `levine-gps-pr2-2016` | 2015 | academic | public-domain |  |
 | Liberty Prime | `fallout-liberty-prime` | 2008 | fictional | fictional |  |
 | LimX Dynamics CL-1 | `limx-cl1` | 2023 | private | patented | ✓ |
+| LLaMA 2 | `meta-llama-2-2023` | 2023 | academic | open-permissive |  |
 | Lore (Star Trek: TNG) | `star-trek-tng-lore` | 1988 | fictional | fictional |  |
 | Lucas-Kanade Optical Flow | `lucas-kanade-1981` | 1981 | academic | public-domain |  |
 | M3GAN | `m3gan` | 2022 | fictional | fictional |  |
@@ -200,6 +206,7 @@
 | Mason Mechanics of Manipulation | `mason-mechanics-manipulation` | 1986 | academic | public-domain |  |
 | Mazinger Z | `mazinger-z` | 1972 | fictional | fictional |  |
 | McGeer Passive Dynamic Walker | `mcgeer-passive-walker` | 1990 | academic | public-domain |  |
+| MegaSaM | `megasam-google-2024` | 2024 | academic | open-permissive | ✓ |
 | MIT Cheetah | `mit-cheetah` | 2013 | academic | open-permissive |  |
 | MIT Cheetah 2 | `mit-cheetah-2` | 2014 | academic | open-permissive |  |
 | MIT Cheetah 3 | `mit-cheetah-3` | 2018 | academic | open-permissive |  |
@@ -210,6 +217,7 @@
 | Mobile ALOHA | `mobile-aloha` | 2024 | academic | open-permissive |  |
 | MODOK | `modok-marvel` | 1967 | fictional | fictional | ✓ |
 | Mr Sin (The Peking Homunculus) | `dr-who-mr-sin` | 1977 | fictional | fictional |  |
+| MuJoCo (original) | `mujoco-todorov-2012` | 2012 | academic | open-permissive |  |
 | MuJoCo MJX | `deepmind-mujoco-mjx-2023` | 2023 | academic | open-permissive |  |
 | MuJoCo MPC (Howell-Tassa) | `howell-tassa-mujoco-mpc-2025` | 2025 | academic | open-permissive |  |
 | Murderbot Diaries — SecUnit with hacked governor module | `murderbot-diaries-wells-2017` | 2017 | fictional | public-domain |  |
@@ -221,6 +229,7 @@
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
 | Number Six (Cylon Model Six) | `bsg-number-six` | 2003 | fictional | fictional |  |
 | NVIDIA GR00T (Generalist Robot 00 Technology) | `nvidia-groot-2024` | 2024 | academic | open-permissive |  |
+| NVIDIA Isaac Gym | `nvidia-isaac-gym-2021` | 2021 | academic | open-permissive |  |
 | NVIDIA Isaac Lab | `nvidia-isaac-lab-2024` | 2023 | academic | open-permissive |  |
 | Oceaneering Magnum / Magnum Plus work-class ROV | `oceaneering-magnum-rov` | 1995 | private | trade-secret |  |
 | OceanOne | `oceanone-stanford-2016` | 2016 | academic | open-permissive |  |
@@ -256,6 +265,7 @@
 | RADIO-ViPE | `radio-vipe-itmo-2026` | 2026 | academic | open-permissive |  |
 | Raibert One-Legged Hopper | `raibert-hopping-1leg` | 1983 | academic | public-domain |  |
 | Rainbow Robotics RB-Y1 | `rainbow-robotics-rb-y1` | 2024 | private | patented |  |
+| RDT-1B (Robotics Diffusion Transformer) | `rdt-1b-thu-2024` | 2024 | academic | open-permissive |  |
 | Reachy | `reachy` | 2020 | open | open-permissive |  |
 | Reachy 1 (Pollen Robotics open-source humanoid) | `reachy-1-pollen-2017` | 2017 | open | open-source |  |
 | Reachy-2 open-source humanoid platform (Pollen Robotics) | `reachy-2-pollen-2023` | 2023 | academic | public-domain |  |
@@ -275,6 +285,8 @@
 | Robot Era STAR1 | `robot-era-star1` | 2024 | private | patented | ✓ |
 | Robotman (Robert Crane) | `dc-robotman-1942` | 1942 | fictional | fictional |  |
 | Roetenberg Inertial Motion Capture (Xsens MVN) | `roetenberg-xsens-imu` | 2009 | academic | open-permissive |  |
+| ROS (Robot Operating System) | `ros-quigley-2009` | 2009 | academic | open-permissive |  |
+| ROS 2 | `ros-2-2017` | 2017 | academic | open-permissive |  |
 | Rossum's Universal Robots | `rur-rossums-robots` | 1920 | fictional | public-domain |  |
 | RSTAR (Rising STAR) | `rstar-zarrouk-2019` | 2019 | academic | open-permissive |  |
 | RT-1 (Robotics Transformer 1) | `rt-1` | 2022 | academic | open-permissive |  |
@@ -297,6 +309,7 @@
 | Sharon Apple | `macross-plus-sharon-apple` | 1994 | fictional | fictional |  |
 | Shielding for Safe Reinforcement Learning | `shielding-rl` | 2018 | academic | public-domain |  |
 | SIFT (Scale-Invariant Feature Transform) | `lowe-sift-1999` | 1999 | academic | patented |  |
+| SigLIP | `siglip-zhai-2023` | 2023 | academic | open-permissive |  |
 | SimpleFOC | `simplefoc` | 2020 | open | open-permissive |  |
 | Simplex Architecture | `sherman-simplex-architecture` | 1995 | academic | public-domain |  |
 | Skild AI foundation model | `skild-foundation-model` | 2024 | private | trade-secret | ✓ |

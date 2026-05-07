@@ -1,7 +1,7 @@
 ---
 title: "control-vio-slam"
 parent: "Invalidity Contentions"
-nav_order: 40
+nav_order: 45
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-vio-slam`  
-**Entries:** 8 (5 commons-grade, 3 draft)  
-**Earliest disclosure:** 2021-04  
+**Entries:** 10 (6 commons-grade, 4 draft)  
+**Earliest disclosure:** 2018-06  
 **Most recent disclosure:** 2026-04
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2018-06 — DynaSLAM
+
+- **id:** `dynaslam-bescos-2018`
+- **corpus:** academic
+- **ip status:** open-copyleft
+- **creator:** University of Zaragoza I3A; Bescos, Fácil, Civera, Neira
+- **disclosure citation:** Bescos, B., Fácil, J. M., Civera, J., Neira, J. 'DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes'. IEEE Robotics and Automation Letters 3(4) 2018; IROS 2018. arXiv:1806.05620. Universidad de Zaragoza I3A. GPLv3 source: github.com/BertaBescos/DynaSLAM.
+- **disclosed subsystems:** `control-vio-slam`, `control-dynamic-scene-robust`, `control-mask-segmentation`
+
+**Prior art notes:**
+
+> DynaSLAM is the canonical foundational dynamic-scene visual SLAM system (Bescos et al. RA-L + IROS 2018). 7-year-deep open-copyleft prior art. Anchor of the dynamic-SLAM lineage that the entire RADIO-ViPE Table II benchmarks against (DLD-SLAM, V3D-SLAM, DGS-SLAM, RoDyn-SLAM, DynaMON are all DynaSLAM descendants). Direct shielding for any commercial humanoid claim on 'SLAM that works in dynamic environments with moving people'.
+
+**Sources:**
+
+1. Bescos et al. arXiv:1806.05620 June 2018; RA-L + IROS 2018.
+2. GitHub: github.com/BertaBescos/DynaSLAM.
+
+---
 
 ### 2021-04 — ORB-SLAM3
 
@@ -98,6 +118,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. arXiv:2403.07494 March 2024.
+
+---
+
+### 2024-12 — MegaSaM *(draft)*
+
+- **id:** `megasam-google-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Google DeepMind + UC Berkeley + U. Michigan (per arXiv 2412.04463)
+- **disclosure citation:** Authors per arXiv 2412.04463. 'MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos'. arXiv:2412.04463, December 2024. Google DeepMind + UC Berkeley + University of Michigan.
+- **disclosed subsystems:** `control-vio-slam`, `control-bundle-adjustment`, `control-monocular-metric-depth`, `control-dynamic-scene-robust`
+
+**Prior art notes:**
+
+> MegaSaM (Dec 2024) is the immediate predecessor to NVIDIA ViPE in the calibration-free dynamic-monocular-video pose+depth lineage. 5-month-deep prior art for: differentiable BA with monocular depth priors + uncertainty-aware global BA on in-the-wild dynamic videos. ViPE explicitly outperforms MegaSaM in its results table; that comparison only exists if MegaSaM is the prior art baseline. Direct shielding for any commercial humanoid claim on calibration-free in-the-wild video perception.
+
+**Sources:**
+
+1. arXiv:2412.04463 December 2024.
+2. Project page (per arXiv listing).
 
 ---
 
@@ -236,4 +276,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*

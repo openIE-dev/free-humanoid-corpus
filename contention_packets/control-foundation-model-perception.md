@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-foundation-model-perception`  
-**Entries:** 4 (2 commons-grade, 2 draft)  
-**Earliest disclosure:** 2024-09  
+**Entries:** 8 (6 commons-grade, 2 draft)  
+**Earliest disclosure:** 2023-03  
 **Most recent disclosure:** 2026-04
 
 ---
@@ -39,6 +39,90 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2023-03 — SigLIP
+
+- **id:** `siglip-zhai-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Google Research; Zhai, Mustafa, Kolesnikov, Beyer
+- **disclosure citation:** Zhai, X., Mustafa, B., Kolesnikov, A., Beyer, L. 'Sigmoid Loss for Language Image Pre-Training'. arXiv:2303.15343, March 2023. ICCV 2023. Google Research.
+- **disclosed subsystems:** `control-vision-language`, `control-foundation-model-perception`
+
+**Prior art notes:**
+
+> SigLIP is the canonical sigmoid-loss vision-language foundation model (Google ICCV 2023). 2-year-deep prior art for: sigmoid-loss contrastive vision-language training, large-batch-friendly training regime. The text-encoder backbone in OpenVLA, RADIO-ViPE, and many VLA systems. Direct shielding for any commercial humanoid claim on open-vocabulary text-image alignment for instruction following.
+
+**Sources:**
+
+1. Zhai et al. arXiv:2303.15343 March 2023; ICCV 2023.
+2. HuggingFace: huggingface.co/google/siglip-base-patch16-224 et al.
+
+---
+
+### 2023-03 — LERF (Language Embedded Radiance Fields)
+
+- **id:** `lerf-kerr-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley AUTOLab + BAIR; Kerr, Kim, Goldberg, Kanazawa, Tancik
+- **disclosure citation:** Kerr, J., Kim, C. M., Goldberg, K., Kanazawa, A., Tancik, M. 'LERF: Language Embedded Radiance Fields'. arXiv:2303.09553, March 2023. ICCV 2023 (Oral). UC Berkeley AUTOLab + Berkeley AI Research.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-open-vocabulary`, `control-novel-view-synthesis`
+
+**Prior art notes:**
+
+> LERF is the canonical first language-embedded NeRF (Berkeley + BAIR, ICCV 2023 Oral). 2-year-deep prior art for: CLIP-embedded 3D radiance fields, open-vocabulary natural-language 3D scene queries. The architectural ancestor of LEGS (round-12), LEG-SLAM (round-12), LEGO-SLAM (round-12), and any commercial claim on language-queryable 3D scene representations. Predates the Gaussian-splatting instantiations and establishes the architectural pattern.
+
+**Sources:**
+
+1. Kerr et al. arXiv:2303.09553 March 2023; ICCV 2023.
+2. Project page (lerf.io).
+3. GitHub: github.com/kerrj/lerf.
+
+---
+
+### 2023-04 — DINOv2
+
+- **id:** `dinov2-oquab-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Meta AI Research (FAIR); Oquab, Darcet, Moutakanni et al.
+- **disclosure citation:** Oquab, M., Darcet, T., Moutakanni, T., Vo, H., Szafraniec, M., Khalidov, V., Fernandez, P., Haziza, D., Massa, F., El-Nouby, A., et al. 'DINOv2: Learning Robust Visual Features without Supervision'. arXiv:2304.07193, April 2023. Meta AI Research (FAIR). Apache-2.0 release.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-self-supervised-vision`
+
+**Prior art notes:**
+
+> DINOv2 is the canonical Meta self-supervised vision foundation model (April 2023). 2-year-deep open-permissive prior art for: self-supervised dense visual features at scale, ViT-g-class image encoders for robotics. The vision encoder in OpenVLA, LEG-SLAM, and many other systems in the corpus. Direct shielding for any commercial humanoid claim on self-supervised onboard visual feature learning.
+
+**Sources:**
+
+1. Oquab et al. arXiv:2304.07193 April 2023.
+2. GitHub: github.com/facebookresearch/dinov2.
+3. HuggingFace: huggingface.co/facebook/dinov2-* family.
+
+---
+
+### 2023-12 — AM-RADIO (NVIDIA)
+
+- **id:** `nvidia-am-radio-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA Learning and Perception Research; Ranzinger, Heinrich, Kautz, Molchanov
+- **disclosure citation:** Ranzinger, M., Heinrich, G., Kautz, J., Molchanov, P. 'AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One'. arXiv:2312.06709, December 2023. CVPR 2024. NVIDIA Learning and Perception Research. RADIOv2.5 follow-up: arXiv:2412.07679 December 2024.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-vision-language`, `control-multi-teacher-distillation`
+
+**Prior art notes:**
+
+> AM-RADIO is the canonical agglomerative-distillation vision foundation model (NVIDIA, CVPR 2024). 1.5-year-deep open-permissive prior art for: multi-teacher vision-foundation distillation, single-backbone CLIP+DINOv2+SAM amalgamation. **The literal embedding substrate of RADIO-ViPE** — the round-10 RADIO-ViPE entry's name comes from this. Direct shielding for any commercial humanoid claim on multi-modal vision-foundation backbones for onboard perception.
+
+**Sources:**
+
+1. Ranzinger et al. arXiv:2312.06709 December 2023; CVPR 2024.
+2. Heinrich et al. RADIOv2.5 arXiv:2412.07679 December 2024.
+3. HuggingFace: huggingface.co/nvidia/RADIO.
+4. Project page: research.nvidia.com/labs/lpr/publication/ranzinger2024radio/.
+
+---
 
 ### 2024-09 — LEGS (Language-Embedded Gaussian Splats)
 
@@ -152,4 +236,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*

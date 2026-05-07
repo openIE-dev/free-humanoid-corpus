@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-imitation-learning`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 2024-06  
 **Most recent disclosure:** 2025-02
 
@@ -80,6 +80,28 @@ cite, copy, or redistribute these contentions.
 1. Black et al. arXiv:2410.24164 October 2024.
 2. Physical Intelligence pi0 paper (physicalintelligence.company/download/pi0.pdf).
 3. Physical Intelligence company page (physicalintelligence.company).
+
+---
+
+### 2024-10 — RDT-1B (Robotics Diffusion Transformer)
+
+- **id:** `rdt-1b-thu-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Tsinghua TSAIL (THU-ML); Songming Liu et al.
+- **disclosure citation:** Liu, S., et al. 'RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation'. arXiv:2410.07864, October 2024. ICLR 2025. Tsinghua TSAIL (THU-ML) lab.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-diffusion-policy`, `control-imitation-learning`, `control-bimanual-manipulation`
+
+**Prior art notes:**
+
+> RDT-1B is THU-ML's canonical diffusion-based VLA foundation model for bimanual manipulation (ICLR 2025). 7-month-deep open-permissive prior art for: diffusion-formulation VLA at billion-parameter scale, bimanual manipulation foundation policy, multi-robot pre-training corpus. The canonical Chinese-academy entry in the open-weight VLA race alongside Stanford OpenVLA and Physical Intelligence π₀. Directly cited as a comparison baseline in OpenVLA-OFT (round-12); now resolves correctly. Direct shielding for any commercial humanoid claim on diffusion-based bimanual VLA.
+
+**Sources:**
+
+1. Liu et al. arXiv:2410.07864 October 2024.
+2. Project page (rdt-robotics.github.io/rdt-robotics).
+3. GitHub: github.com/thu-ml/RoboticsDiffusionTransformer.
+4. HuggingFace: huggingface.co/robotics-diffusion-transformer/rdt-1b.
 
 ---
 
@@ -156,4 +178,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*

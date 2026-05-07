@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-bundle-adjustment`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 5 (4 commons-grade, 1 draft)  
 **Earliest disclosure:** 2021-04  
 **Most recent disclosure:** 2026-04
 
@@ -79,6 +79,26 @@ cite, copy, or redistribute these contentions.
 1. Teed, Z., Deng, J. NeurIPS 2021.
 2. DROID-SLAM GitHub (github.com/princeton-vl/DROID-SLAM) BSD-3-Clause.
 3. Predecessor: RAFT (Teed/Deng ECCV 2020) for optical flow.
+
+---
+
+### 2024-12 — MegaSaM *(draft)*
+
+- **id:** `megasam-google-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Google DeepMind + UC Berkeley + U. Michigan (per arXiv 2412.04463)
+- **disclosure citation:** Authors per arXiv 2412.04463. 'MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos'. arXiv:2412.04463, December 2024. Google DeepMind + UC Berkeley + University of Michigan.
+- **disclosed subsystems:** `control-vio-slam`, `control-bundle-adjustment`, `control-monocular-metric-depth`, `control-dynamic-scene-robust`
+
+**Prior art notes:**
+
+> MegaSaM (Dec 2024) is the immediate predecessor to NVIDIA ViPE in the calibration-free dynamic-monocular-video pose+depth lineage. 5-month-deep prior art for: differentiable BA with monocular depth priors + uncertainty-aware global BA on in-the-wild dynamic videos. ViPE explicitly outperforms MegaSaM in its results table; that comparison only exists if MegaSaM is the prior art baseline. Direct shielding for any commercial humanoid claim on calibration-free in-the-wild video perception.
+
+**Sources:**
+
+1. arXiv:2412.04463 December 2024.
+2. Project page (per arXiv listing).
 
 ---
 
@@ -155,4 +175,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*

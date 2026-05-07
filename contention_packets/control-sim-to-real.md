@@ -1,7 +1,7 @@
 ---
 title: "control-sim-to-real"
 parent: "Invalidity Contentions"
-nav_order: 36
+nav_order: 40
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-sim-to-real`  
-**Entries:** 28 (23 commons-grade, 5 draft)  
+**Entries:** 29 (24 commons-grade, 5 draft)  
 **Earliest disclosure:** 2014-12-11  
 **Most recent disclosure:** 2026-04
 
@@ -223,6 +223,26 @@ cite, copy, or redistribute these contentions.
 2. Szot, A. et al. 'Habitat 2.0: Training Home Assistants to Rearrange their Habitat.' NeurIPS 2021.
 3. Puig, X. et al. 'Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots.' ICLR 2024.
 4. Habitat-Sim source code: https://github.com/facebookresearch/habitat-sim, MIT License.
+
+---
+
+### 2021-08 — NVIDIA Isaac Gym
+
+- **id:** `nvidia-isaac-gym-2021`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA + ETH Zürich Robotic Systems Lab; Makoviychuk et al.
+- **disclosure citation:** Makoviychuk, V., Wawrzyniak, L., Guo, Y., Lu, M., Storey, K., Macklin, M., Hoeller, D., Rudin, N., Allshire, A., Handa, A., State, G. 'Isaac Gym: High-Performance GPU-Based Physics Simulation For Robot Learning'. NeurIPS 2021 Track on Datasets and Benchmarks. arXiv:2108.10470.
+- **disclosed subsystems:** `control-physics-simulation`, `control-rl-policy`, `control-sim-to-real`, `control-gpu-parallelized-rl`
+
+**Prior art notes:**
+
+> Isaac Gym is the canonical first-generation NVIDIA GPU-parallelized robotic RL simulator (NeurIPS 2021). 4-year-deep open-permissive prior art. Direct ancestor of Isaac Lab (round-8 entry nvidia-isaac-lab-2024) and the substrate for the canonical sim-to-real ANYmal perceptive-locomotion papers. Direct shielding for any commercial humanoid claim on GPU-parallelized RL training; particularly the thousands-of-parallel-envs scaling that commercial humanoid vendors cite as proprietary.
+
+**Sources:**
+
+1. Makoviychuk et al. arXiv:2108.10470 NeurIPS 2021.
+2. GitHub: github.com/NVIDIA-Omniverse/IsaacGymEnvs (research preview, archived).
 
 ---
 
@@ -645,4 +665,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*

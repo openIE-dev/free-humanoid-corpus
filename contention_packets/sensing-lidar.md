@@ -1,7 +1,7 @@
 ---
 title: "sensing-lidar"
 parent: "Invalidity Contentions"
-nav_order: 75
+nav_order: 81
 layout: default
 ---
 
@@ -391,4 +391,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*

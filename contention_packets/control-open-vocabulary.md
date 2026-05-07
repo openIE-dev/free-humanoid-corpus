@@ -1,7 +1,7 @@
 ---
 title: "control-open-vocabulary"
 parent: "Invalidity Contentions"
-nav_order: 31
+nav_order: 33
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-open-vocabulary`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
-**Earliest disclosure:** 2024-09  
+**Entries:** 4 (3 commons-grade, 1 draft)  
+**Earliest disclosure:** 2023-03  
 **Most recent disclosure:** 2026-04
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2023-03 — LERF (Language Embedded Radiance Fields)
+
+- **id:** `lerf-kerr-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley AUTOLab + BAIR; Kerr, Kim, Goldberg, Kanazawa, Tancik
+- **disclosure citation:** Kerr, J., Kim, C. M., Goldberg, K., Kanazawa, A., Tancik, M. 'LERF: Language Embedded Radiance Fields'. arXiv:2303.09553, March 2023. ICCV 2023 (Oral). UC Berkeley AUTOLab + Berkeley AI Research.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-open-vocabulary`, `control-novel-view-synthesis`
+
+**Prior art notes:**
+
+> LERF is the canonical first language-embedded NeRF (Berkeley + BAIR, ICCV 2023 Oral). 2-year-deep prior art for: CLIP-embedded 3D radiance fields, open-vocabulary natural-language 3D scene queries. The architectural ancestor of LEGS (round-12), LEG-SLAM (round-12), LEGO-SLAM (round-12), and any commercial claim on language-queryable 3D scene representations. Predates the Gaussian-splatting instantiations and establishes the architectural pattern.
+
+**Sources:**
+
+1. Kerr et al. arXiv:2303.09553 March 2023; ICCV 2023.
+2. Project page (lerf.io).
+3. GitHub: github.com/kerrj/lerf.
+
+---
 
 ### 2024-09 — LEGS (Language-Embedded Gaussian Splats)
 
@@ -132,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*

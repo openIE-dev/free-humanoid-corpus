@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**126 corpus entries disclose this subsystem.**
+**127 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -707,6 +707,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unitree Robotics Go1 reveal, June 2021.
 - **ip status**: patented
 - **prior art notes**: Unitree Go1 actuator design is heavily anticipated by MIT Cheetah QDD prior art (Wensing 2017, Katz 2019). Pricing-driven commodification rather than novel IP.
+
+## NVIDIA Isaac Gym (2021-08)
+
+- **id**: `nvidia-isaac-gym-2021`
+- **corpus**: academic
+- **creator**: NVIDIA + ETH Zürich Robotic Systems Lab; Makoviychuk et al.
+- **disclosure**: Makoviychuk, V., Wawrzyniak, L., Guo, Y., Lu, M., Storey, K., Macklin, M., Hoeller, D., Rudin, N., Allshire, A., Handa, A., State, G. 'Isaac Gym: High-Performance GPU-Based Physics Simulation For Robot Learning'. NeurIPS 2021 Track on Datasets and Benchmarks. arXiv:2108.10470.
+- **ip status**: open-permissive
+- **prior art notes**: Isaac Gym is the canonical first-generation NVIDIA GPU-parallelized robotic RL simulator (NeurIPS 2021). 4-year-deep open-permissive prior art. Direct ancestor of Isaac Lab (round-8 entry nvidia-isaac-lab-2024) and the substrate for the canonical sim-to-real ANYmal perceptive-locomotion papers. Direct shielding for any commercial humanoid claim on GPU-parallelized RL training; particularly the thousands-of-parallel-envs scaling that commercial humanoid vendors cite as proprietary.
 
 ## Tesla Optimus (2021-08-19)
 

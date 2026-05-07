@@ -1762,6 +1762,16 @@
       ]
     },
     {
+      "id": "ros-quigley-2009",
+      "name": "ROS (Robot Operating System)",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "ros-2-2017"
+      ]
+    },
+    {
       "id": "gelsight",
       "name": "GelSight",
       "year": "2009",
@@ -1941,6 +1951,16 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "mujoco-todorov-2012",
+      "name": "MuJoCo (original)",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "deepmind-mujoco-mjx-2023"
+      ]
     },
     {
       "id": "tassa-ilqg-2012",
@@ -2488,6 +2508,16 @@
       "descendants": []
     },
     {
+      "id": "ros-2-2017",
+      "name": "ROS 2",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [
+        "ros-quigley-2009"
+      ],
+      "descendants": []
+    },
+    {
       "id": "ghost-robotics-vision-60",
       "name": "Ghost Robotics Vision 60",
       "year": "2018",
@@ -2561,6 +2591,14 @@
       "name": "Detroit: Become Human androids (RT600/RK800/RK900 series)",
       "year": "2018",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dynaslam-bescos-2018",
+      "name": "DynaSLAM",
+      "year": "2018",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -2674,6 +2712,14 @@
       "ancestors": [
         "cassie-osu"
       ],
+      "descendants": []
+    },
+    {
+      "id": "drake-tedrake-2019",
+      "name": "Drake",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2847,6 +2893,16 @@
       ],
       "descendants": [
         "unitree-h1"
+      ]
+    },
+    {
+      "id": "nvidia-isaac-gym-2021",
+      "name": "NVIDIA Isaac Gym",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "nvidia-isaac-lab-2024"
       ]
     },
     {
@@ -3025,6 +3081,24 @@
       "descendants": []
     },
     {
+      "id": "lerf-kerr-2023",
+      "name": "LERF (Language Embedded Radiance Fields)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "legs-berkeley-2024"
+      ]
+    },
+    {
+      "id": "siglip-zhai-2023",
+      "name": "SigLIP",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "palm-e",
       "name": "PaLM-E (Embodied Multimodal Language Model)",
       "year": "2023",
@@ -3053,6 +3127,14 @@
         "octo-policy",
         "umi-stanford"
       ]
+    },
+    {
+      "id": "dinov2-oquab-2023",
+      "name": "DINOv2",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "act-aloha",
@@ -3115,6 +3197,14 @@
       "name": "Fourier GR-1",
       "year": "2023",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "meta-llama-2-2023",
+      "name": "LLaMA 2",
+      "year": "2023",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -3205,7 +3295,9 @@
       "name": "MuJoCo MJX",
       "year": "2023",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "mujoco-todorov-2012"
+      ],
       "descendants": []
     },
     {
@@ -3213,7 +3305,9 @@
       "name": "NVIDIA Isaac Lab",
       "year": "2023",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "nvidia-isaac-gym-2021"
+      ],
       "descendants": []
     },
     {
@@ -3291,6 +3385,14 @@
         "cassie-osu",
         "mini-cheetah"
       ],
+      "descendants": []
+    },
+    {
+      "id": "nvidia-am-radio-2024",
+      "name": "AM-RADIO (NVIDIA)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -3559,7 +3661,9 @@
       "name": "LEGS (Language-Embedded Gaussian Splats)",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "lerf-kerr-2023"
+      ],
       "descendants": []
     },
     {
@@ -3582,6 +3686,14 @@
       "descendants": [
         "physical-intelligence-pi05-2025"
       ]
+    },
+    {
+      "id": "rdt-1b-thu-2024",
+      "name": "RDT-1B (Robotics Diffusion Transformer)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "robot-era-star1",
@@ -3620,6 +3732,16 @@
       "corpus": "open",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "megasam-google-2024",
+      "name": "MegaSaM",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "nvidia-vipe-2025"
+      ]
     },
     {
       "id": "openvla-oft-stanford-2025",
@@ -3699,7 +3821,8 @@
       "year": "2025",
       "corpus": "academic",
       "ancestors": [
-        "droid-slam-2021"
+        "droid-slam-2021",
+        "megasam-google-2024"
       ],
       "descendants": [
         "radio-vipe-itmo-2026"

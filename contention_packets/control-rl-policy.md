@@ -1,7 +1,7 @@
 ---
 title: "control-rl-policy"
 parent: "Invalidity Contentions"
-nav_order: 34
+nav_order: 38
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 126 (100 commons-grade, 26 draft)  
+**Entries:** 127 (101 commons-grade, 26 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2026-04
 
@@ -1588,6 +1588,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-08 — NVIDIA Isaac Gym
+
+- **id:** `nvidia-isaac-gym-2021`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA + ETH Zürich Robotic Systems Lab; Makoviychuk et al.
+- **disclosure citation:** Makoviychuk, V., Wawrzyniak, L., Guo, Y., Lu, M., Storey, K., Macklin, M., Hoeller, D., Rudin, N., Allshire, A., Handa, A., State, G. 'Isaac Gym: High-Performance GPU-Based Physics Simulation For Robot Learning'. NeurIPS 2021 Track on Datasets and Benchmarks. arXiv:2108.10470.
+- **disclosed subsystems:** `control-physics-simulation`, `control-rl-policy`, `control-sim-to-real`, `control-gpu-parallelized-rl`
+
+**Prior art notes:**
+
+> Isaac Gym is the canonical first-generation NVIDIA GPU-parallelized robotic RL simulator (NeurIPS 2021). 4-year-deep open-permissive prior art. Direct ancestor of Isaac Lab (round-8 entry nvidia-isaac-lab-2024) and the substrate for the canonical sim-to-real ANYmal perceptive-locomotion papers. Direct shielding for any commercial humanoid claim on GPU-parallelized RL training; particularly the thousands-of-parallel-envs scaling that commercial humanoid vendors cite as proprietary.
+
+**Sources:**
+
+1. Makoviychuk et al. arXiv:2108.10470 NeurIPS 2021.
+2. GitHub: github.com/NVIDIA-Omniverse/IsaacGymEnvs (research preview, archived).
+
+---
+
 ### 2021-08-19 — Tesla Optimus *(draft)*
 
 - **id:** `tesla-optimus`
@@ -2602,4 +2622,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*

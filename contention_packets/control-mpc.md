@@ -1,7 +1,7 @@
 ---
 title: "control-mpc"
 parent: "Invalidity Contentions"
-nav_order: 27
+nav_order: 29
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-mpc`  
-**Entries:** 38 (35 commons-grade, 3 draft)  
+**Entries:** 40 (37 commons-grade, 3 draft)  
 **Earliest disclosure:** 1980-11  
 **Most recent disclosure:** 2025-03
 
@@ -285,6 +285,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2012-10 — MuJoCo (original)
+
+- **id:** `mujoco-todorov-2012`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Emo Todorov, Tom Erez, Yuval Tassa (originally University of Washington / Roboti LLC; now Google DeepMind)
+- **disclosure citation:** Todorov, E., Erez, T., Tassa, Y. 'MuJoCo: A physics engine for model-based control'. IROS 2012. Originally proprietary (Roboti LLC); acquired by Google DeepMind October 2021 and released under Apache-2.0.
+- **disclosed subsystems:** `control-physics-simulation`, `control-mpc`, `control-trajectory-optimization`
+
+**Prior art notes:**
+
+> MuJoCo is the canonical academic physics engine for model-based robotic control (Todorov-Erez-Tassa 2012). 13-year-deep prior art spanning the proprietary Roboti era (2012-2021) and the open-source DeepMind era (2021+). The substrate that the Tassa iLQG entry, Howell-Tassa MuJoCo MPC entry, MJX entry, and Genesis simulator entry all build on or interop with. Direct shielding for any commercial humanoid claim on contact-rich policy training simulation. MJCF is the format OpenLoco compiles to, so MuJoCo is the reference simulator for the entire free-humanoid-family.
+
+**Sources:**
+
+1. Todorov, Erez, Tassa. IROS 2012.
+2. MuJoCo official site (mujoco.org).
+3. GitHub: github.com/google-deepmind/mujoco.
+4. DeepMind acquisition + open-sourcing announcement, October 2021.
+
+---
+
 ### 2013 — NASA Valkyrie
 
 - **id:** `nasa-valkyrie`
@@ -541,6 +563,27 @@ cite, copy, or redistribute these contentions.
 
 1. Katz, B. et al. ICRA 2019.
 2. Wensing, P. et al. 'Proprioceptive actuator design in the MIT Cheetah.' IEEE T-RO 2017.
+
+---
+
+### 2019-01 — Drake
+
+- **id:** `drake-tedrake-2019`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** MIT CSAIL Robot Locomotion Group + Toyota Research Institute; Russ Tedrake et al.
+- **disclosure citation:** Tedrake, R., the Drake Development Team. 'Drake: Model-Based Design and Verification for Robotics'. drake.mit.edu, project active since ~2010 with formal v1.0 in January 2019. BSD-3-Clause source: github.com/RobotLocomotion/drake. MIT CSAIL + Toyota Research Institute.
+- **disclosed subsystems:** `control-physics-simulation`, `control-mpc`, `control-formal-verification`, `control-trajectory-optimization`
+
+**Prior art notes:**
+
+> Drake is the canonical MIT/TRI model-based design + verification toolkit for robotics (Tedrake et al., active since ~2010, v1.0 Jan 2019). 6-year-deep formal-release prior art, 15-year-deep project. Distinct from MuJoCo by emphasis on deterministic verifiable semantics (relevant for safety-critical / certification use cases). Direct shielding for any commercial humanoid claim on verifiable model-based control or whole-body QP/MPC architectures. Free-humanoid-platform/wheeled/centaur/submersible all reference Drake as a tertiary simulator option for whole-body MPC validation.
+
+**Sources:**
+
+1. Tedrake, R. 'Underactuated Robotics' textbook (underactuated.mit.edu).
+2. Drake official site (drake.mit.edu).
+3. GitHub: github.com/RobotLocomotion/drake.
 
 ---
 
@@ -839,4 +882,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94325f7`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*
