@@ -235,6 +235,14 @@
       ]
     },
     {
+      "id": "alvin-hov-1964",
+      "name": "DSV Alvin",
+      "year": "1964",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "astro-boy-greatest-robot",
       "name": "The Greatest Robot on Earth (eight mecha disclosures)",
       "year": "1964",
@@ -878,6 +886,22 @@
       ]
     },
     {
+      "id": "slocum-glider-auv",
+      "name": "Slocum Glider",
+      "year": "1989",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "jason-rov-1989",
+      "name": "Jason ROV",
+      "year": "1989",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "borg-tng-1989",
       "name": "Borg Collective (Star Trek TNG)",
       "year": "1989",
@@ -1051,6 +1075,22 @@
         "runtime-assurance-rta",
         "shielding-rl"
       ]
+    },
+    {
+      "id": "kongsberg-remus-100-auv",
+      "name": "REMUS 100 AUV",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "oceaneering-magnum-rov",
+      "name": "Oceaneering Magnum / Magnum Plus work-class ROV",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "emh-mark-i-voyager",
@@ -1240,6 +1280,14 @@
       ]
     },
     {
+      "id": "seaglider-auv-2001",
+      "name": "Seaglider AUV",
+      "year": "2001",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "kajita-lipm",
       "name": "Kajita Linear Inverted Pendulum Model",
       "year": "2001",
@@ -1306,6 +1354,14 @@
       ]
     },
     {
+      "id": "saab-seaeye-falcon-rov",
+      "name": "Saab Seaeye Falcon",
+      "year": "2002",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ghost-in-the-shell-tachikoma",
       "name": "Tachikoma",
       "year": "2002",
@@ -1328,6 +1384,14 @@
       ]
     },
     {
+      "id": "triton-xlx-rov",
+      "name": "Triton XLX work-class ROV",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sony-qrio",
       "name": "Sony QRIO",
       "year": "2003",
@@ -1340,6 +1404,14 @@
       "name": "HK-47",
       "year": "2003",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bluefin-21-auv",
+      "name": "Bluefin-21 AUV",
+      "year": "2003",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -1574,6 +1646,14 @@
       "descendants": [
         "pr2"
       ]
+    },
+    {
+      "id": "nereus-hrov-2008",
+      "name": "Nereus HROV",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "jarvis-iron-man",
@@ -2065,6 +2145,14 @@
       "descendants": []
     },
     {
+      "id": "unetstack-subnero-2014",
+      "name": "UnetStack underwater networking framework",
+      "year": "2014",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ex-machina-ava",
       "name": "Ava (Ex Machina)",
       "year": "2014",
@@ -2220,6 +2308,14 @@
       ]
     },
     {
+      "id": "oceanone-stanford-2016",
+      "name": "OceanOne",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "wild-robot-rozzum-7134-brown-2016",
       "name": "The Wild Robot — ROZZUM unit 7134",
       "year": "2016",
@@ -2293,6 +2389,14 @@
       "ancestors": [
         "battle-angel-alita"
       ],
+      "descendants": []
+    },
+    {
+      "id": "janus-stanag-4748-2017",
+      "name": "JANUS underwater acoustic communications standard",
+      "year": "2017",
+      "corpus": "open",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2412,6 +2516,14 @@
       "descendants": []
     },
     {
+      "id": "aquanaut-houston-2017",
+      "name": "Aquanaut hybrid AUV/ROV",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "stanford-omnigibson-2023",
       "name": "OmniGibson / iGibson (Stanford SVL)",
       "year": "2018",
@@ -2477,6 +2589,14 @@
       "name": "Stanford JackRabbot 2 (JR-2) wheeled-arm research robot",
       "year": "2018",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "stonefish-sim-2018",
+      "name": "Stonefish underwater robotics simulator",
+      "year": "2018",
+      "corpus": "open",
       "ancestors": [],
       "descendants": []
     },
@@ -2791,6 +2911,14 @@
         "openvla",
         "robocat"
       ]
+    },
+    {
+      "id": "ocean-onek-stanford-2022",
+      "name": "OceanOneK",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "anymal-d-eth-rsl-2022",

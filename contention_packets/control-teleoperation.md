@@ -1,7 +1,7 @@
 ---
 title: "control-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 19
+nav_order: 27
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-teleoperation`  
-**Entries:** 30 (25 commons-grade, 5 draft)  
+**Entries:** 31 (26 commons-grade, 5 draft)  
 **Earliest disclosure:** 1956-07  
 **Most recent disclosure:** 2024-05-24
 
@@ -77,6 +77,28 @@ cite, copy, or redistribute these contentions.
 
 1. Nation, T. 'The Daleks'. Doctor Who, BBC, December 1963.
 2. Hayward, A. The Doctor Who Programme Guide. Virgin Books, 1981.
+
+---
+
+### 1964-06 — DSV Alvin
+
+- **id:** `alvin-hov-1964`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Woods Hole Oceanographic Institution / Allyn Vine concept (1956); General Mills Mechanical Division built v1
+- **disclosure citation:** Woods Hole Oceanographic Institution. DSV Alvin operational since June 1964; first published 4500 m dive Aug 1973. Extensive academic publication record via WHOI deep-submergence vehicle group: Ballard 1985 (Titanic dives), Yoerger et al. mission reports 1991+, Kohnen ed. 'Manned Submersibles' (1978). Operational and design details in the public domain via U.S. Navy / WHOI.
+- **disclosed subsystems:** `mechanism-pressure-hull`, `mechanism-syntactic-foam-ballast`, `mechanism-variable-ballast-trim`, `mechanism-thruster-vectored`, `mechanism-manipulator-arm`, `control-station-keeping`, `control-teleoperation`
+
+**Prior art notes:**
+
+> DSV Alvin is the foundational manned deep-submergence vehicle. Its 60-year operational record establishes essentially every architectural element of modern submersible robotics as long-anticipated prior art: titanium pressure-hull design at 4500 m+ depth (1973), syntactic-foam buoyancy matched to depth pressure, variable-ballast trim tanks, vectored-thruster station-keeping, master-slave manipulator pairs for sample collection. Directly shields free-humanoid-submersible commitments on: 50 m pressure hull (62 years deeper than Alvin's 1964 baseline), 8-thruster vectored layout (the 6-thruster Alvin pattern is the lower bound), bimanual manipulator architecture (Alvin's Schilling/Kraft 7-function arms are the ROV-class equivalent of the bipedal upper body). Any commercial humanoid AUV claim on these elements faces a 62-year-deep public-domain academic lineage with extensive WHOI publication.
+
+**Sources:**
+
+1. Woods Hole Oceanographic Institution, DSV Alvin operational record 1964-present (whoi.edu/what-we-do/explore/underwater-vehicles/alvin/).
+2. R. D. Ballard, 'The Discovery of the Titanic', Warner Books 1987.
+3. D. R. Yoerger, A. M. Bradley, B. B. Walden, 'The Autonomous Benthic Explorer', J. Field Robotics 1991.
+4. W. Kohnen (ed.), 'Manned Submersibles', U.S. Naval Institute 1978.
 
 ---
 
@@ -677,4 +699,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f6d8987`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0ab4327`.*

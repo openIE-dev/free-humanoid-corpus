@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-sim-to-real`
 
-**24 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014-12-11
 
@@ -68,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Andrychowicz, M. et al. 'Learning Dexterous In-Hand Manipulation'. arXiv:1808.00177, July 30, 2018; OpenAI. Akkaya, I. et al. 'Solving Rubik's Cube with a Robot Hand'. arXiv:1910.07113, October 16, 2019.
 - **ip status**: open-permissive
 - **prior art notes**: Dactyl is the foundational academic disclosure of large-scale sim-to-real RL for in-hand dexterous manipulation. Anticipates: (1) zero-shot policy transfer from massively-randomized simulation to real hardware — directly relevant to claims on sim-to-real humanoid manipulation IP (every modern humanoid hand uses this paradigm); (2) automatic domain randomization (ADR) as a self-tuning training procedure — relevant to claims on adaptive-randomization training; (3) LSTM-based policies for partial-observability manipulation — relevant to recurrent-policy IP. OpenAI's open-source code release plus the arXiv preprints provide deep prior art coverage. Modern in-hand-manipulation claims face this 2018-2019 anchor.
+
+## Stonefish underwater robotics simulator (2018-10)
+
+- **id**: `stonefish-sim-2018`
+- **corpus**: open
+- **creator**: Patryk Cieslak (University of Girona / Computer Vision and Robotics group)
+- **disclosure**: Cieslak, P. 'Stonefish: An Advanced Open-Source Simulation Tool Designed for Marine Robotics'. OCEANS 2019 IEEE/MTS, Marseille; preceded by IROS 2018 workshop demo. Open-source under CC-BY-NC-SA initially; later relicensed Apache-2.0 for upstream merge into ROS Underwater (2021).
+- **ip status**: open-permissive
+- **prior art notes**: Stonefish is the canonical open-source academic underwater robotics simulator. 7 years of public-academic publication and Apache-2.0 source. Establishes prior art for: fluid-drag-aware AUV/ROV simulation, simulated sonar return modeling, tether-dynamics simulation, ROS-integrated policy training for marine robotics. Directly shields free-humanoid-submersible's Phase-1 sim-to-real workflow (alongside Genesis MPM/fluid for higher-fidelity hydrodynamics). Any commercial claim on 'underwater-physics-aware sim-to-real for AUVs' faces 7 years of full-source open prior art.
 
 ## Hwangbo ANYmal Sim-to-Real Locomotion (2019-01-16)
 

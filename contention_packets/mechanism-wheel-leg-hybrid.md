@@ -1,7 +1,7 @@
 ---
 title: "mechanism-wheel-leg-hybrid"
 parent: "Invalidity Contentions"
-nav_order: 29
+nav_order: 47
 layout: default
 ---
 
@@ -110,4 +110,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f6d8987`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0ab4327`.*

@@ -1,6 +1,6 @@
 # Corpus Index
 
-322 entries total. Generated from corpus.jsonl.
+338 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | ANYmal-D industrial quadruped (ETH RSL / ANYbotics) | `anymal-d-eth-rsl-2022` | 2022 | academic | public-domain |  |
 | Apptronik Apollo | `apptronik-apollo` | 2023 | private | patented | ✓ |
 | Apptronik Apollo academic and technical disclosures (2023-2024) | `apptronik-apollo-publications-2024` | 2023 | academic | public-domain |  |
+| Aquanaut hybrid AUV/ROV | `aquanaut-houston-2017` | 2018 | private | trade-secret | ✓ |
 | Argall, Chernova, Veloso, Browning learning-from-demonstration survey | `argall-lfd-survey-2009` | 2009 | academic | public-domain |  |
 | Armitage III (third-generation androids) | `armitage-iii-1995` | 1995 | fictional | fictional |  |
 | Ascento | `ascento` | 2019 | academic | open-permissive |  |
@@ -48,6 +49,7 @@
 | Black Mirror 'Metalhead' autonomous quadruped killer | `black-mirror-metalhead-2017` | 2017 | fictional | public-domain |  |
 | Black Mirror 'White Christmas' cookies and consciousness copies | `black-mirror-white-christmas-2014` | 2014 | fictional | public-domain |  |
 | Blade Runner 2049 (Nexus-9 K, Joi) | `blade-runner-2049` | 2017 | fictional | fictional |  |
+| Bluefin-21 AUV | `bluefin-21-auv` | 2003 | private | trade-secret |  |
 | Bokurano (Zearth, child-piloted consent-architecture mecha) | `bokurano-2004` | 2004 | fictional | fictional |  |
 | Borg Collective (Star Trek TNG) | `borg-tng-1989` | 1989 | fictional | fictional |  |
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
@@ -96,6 +98,7 @@
 | Doraemon | `doraemon` | 1969 | fictional | fictional |  |
 | Dreamer V3 | `hafner-dreamer-v3-2023` | 2023 | academic | open-permissive |  |
 | DROID Dataset | `droid-dataset` | 2024 | academic | open-permissive |  |
+| DSV Alvin | `alvin-hov-1964` | 1964 | academic | public-domain |  |
 | Dynamic Movement Primitives (DMP) | `dmp-schaal-ijspeert` | 2002 | academic | public-domain |  |
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
 | EngineAI PM01 | `engineai-pm01` | 2024 | private | patented | ✓ |
@@ -158,8 +161,10 @@
 | ISO 10218 Collaborative Robot Safety | `iso-10218-collaborative-robots` | 2006 | academic | public-domain |  |
 | Jaegers (Pacific Rim) | `pacific-rim-jaegers` | 2013 | fictional | fictional |  |
 | Janner Diffuser planning with diffusion | `janner-diffuser-2022` | 2022 | academic | public-domain |  |
+| JANUS underwater acoustic communications standard | `janus-stanag-4748-2017` | 2017 | open | open-permissive |  |
 | Jaquet-Droz The Writer | `jaquet-droz-writer` | 1772 | fictional | public-domain |  |
 | JARVIS (Just A Rather Very Intelligent System) | `jarvis-iron-man` | 2008 | fictional | fictional |  |
+| Jason ROV | `jason-rov-1989` | 1989 | academic | public-domain |  |
 | K-Scale Labs Open Source Humanoid | `k-scale-os` | 2024 | open | open-permissive | ✓ |
 | K9 | `dr-who-k9` | 1977 | fictional | fictional |  |
 | Kajita Linear Inverted Pendulum Model | `kajita-lipm` | 2001 | academic | public-domain |  |
@@ -199,12 +204,16 @@
 | Murderbot Diaries — SecUnit with hacked governor module | `murderbot-diaries-wells-2017` | 2017 | fictional | public-domain |  |
 | NAO | `nao` | 2006 | private | patented |  |
 | NASA Valkyrie | `nasa-valkyrie` | 2013 | academic | open-permissive |  |
+| Nereus HROV | `nereus-hrov-2008` | 2008 | academic | public-domain |  |
 | Neura 4NE-1 | `neura-4ne1` | 2024 | private | patented | ✓ |
 | Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) | `gibson-neuromancer-constructs` | 1984 | fictional | fictional |  |
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
 | Number Six (Cylon Model Six) | `bsg-number-six` | 2003 | fictional | fictional |  |
 | NVIDIA GR00T (Generalist Robot 00 Technology) | `nvidia-groot-2024` | 2024 | academic | open-permissive |  |
 | NVIDIA Isaac Lab | `nvidia-isaac-lab-2024` | 2023 | academic | open-permissive |  |
+| Oceaneering Magnum / Magnum Plus work-class ROV | `oceaneering-magnum-rov` | 1995 | private | trade-secret |  |
+| OceanOne | `oceanone-stanford-2016` | 2016 | academic | open-permissive |  |
+| OceanOneK | `ocean-onek-stanford-2022` | 2022 | academic | open-permissive |  |
 | Octo (Open-Source Generalist Robot Policy) | `octo-policy` | 2024 | academic | open-permissive |  |
 | ODrive | `odrive` | 2017 | open | open-permissive |  |
 | OmniGibson / iGibson (Stanford SVL) | `stanford-omnigibson-2023` | 2018 | academic | open-permissive |  |
@@ -238,6 +247,7 @@
 | Real Humans / Äkta människor — Hubot household humanoids | `akta-manniskor-real-humans-2012` | 2012 | fictional | public-domain |  |
 | Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) | `real-steel-boxers` | 2011 | fictional | fictional |  |
 | REEM-C | `reem-c` | 2013 | private | patented |  |
+| REMUS 100 AUV | `kongsberg-remus-100-auv` | 1995 | private | trade-secret |  |
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
 | RH20T heterogeneous robot trajectory dataset | `rh20t-fang-2024` | 2023 | academic | public-domain |  |
 | RLHF (Deep Reinforcement Learning from Human Preferences) | `christiano-rlhf-2017` | 2017 | academic | open-permissive |  |
@@ -256,11 +266,13 @@
 | Runtime Assurance (RTA) | `runtime-assurance-rta` | 2010 | academic | public-domain |  |
 | RX-78-2 Gundam | `gundam-rx-78-2` | 1979 | fictional | fictional | ✓ |
 | RX-78-2 Gundam (additional Gundam mecha disclosures) | `rx-78-2-gundam-2` | 1979 | fictional | fictional | ✓ |
+| Saab Seaeye Falcon | `saab-seaeye-falcon-rov` | 2002 | private | trade-secret |  |
 | Salisbury Stanford/JPL Hand | `salisbury-stanford-jpl-hand` | 1982 | academic | public-domain |  |
 | Sanctuary AI Phoenix | `sanctuary-phoenix` | 2023 | private | patented | ✓ |
 | Sanctuary Phoenix Gen 6 | `sanctuary-phoenix-gen6` | 2022 | private | patented | ✓ |
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
+| Seaglider AUV | `seaglider-auv-2001` | 2001 | academic | open-permissive |  |
 | Sentinels (X-Men) | `sentinels-marvel` | 1965 | fictional | fictional |  |
 | Sentis-Khatib Whole-Body Prioritized Task Control | `sentis-khatib-whole-body` | 2005 | academic | public-domain |  |
 | Shadow Dexterous Hand | `shadow-hand` | 2003 | private | patented |  |
@@ -271,6 +283,7 @@
 | SimpleFOC | `simplefoc` | 2020 | open | open-permissive |  |
 | Simplex Architecture | `sherman-simplex-architecture` | 1995 | academic | public-domain |  |
 | Skild AI foundation model | `skild-foundation-model` | 2024 | private | trade-secret | ✓ |
+| Slocum Glider | `slocum-glider-auv` | 1989 | academic | open-permissive |  |
 | Smith (Atlas 2024) | `atlas-2024-film` | 2024 | fictional | fictional |  |
 | Sony AIBO | `sony-aibo` | 1999 | private | patented |  |
 | Sony QRIO | `sony-qrio` | 2003 | private | patented |  |
@@ -278,6 +291,7 @@
 | Sophia (Persona 5 Royal) | `persona-5-sophia` | 2019 | fictional | fictional |  |
 | Stanford JackRabbot 2 (JR-2) wheeled-arm research robot | `stanford-jr2-2018` | 2018 | academic | public-domain |  |
 | Steins;Gate 0 Amadeus AI consciousness backup | `steins-gate-amadeus-2015` | 2015 | fictional | public-domain |  |
+| Stonefish underwater robotics simulator | `stonefish-sim-2018` | 2018 | open | open-permissive |  |
 | Sumitomo CYCLO Speed Reducer | `sumitomo-cyclo` | 1937 | academic | public-domain |  |
 | Sutton & Barto, Reinforcement Learning: An Introduction (2nd edition) | `sutton-barto-rl-2nd-edition-2018` | 2018 | academic | public-domain |  |
 | T-800 | `t-800-terminator` | 1984 | fictional | fictional |  |
@@ -299,10 +313,12 @@
 | Toyota HSR | `toyota-hsr` | 2012 | private | patented |  |
 | Toyota Partner Robot (Violin) | `toyota-partner-robot-violin` | 2007 | private | patented |  |
 | Toyota T-HR3 | `toyota-thr3` | 2017 | private | patented |  |
+| Triton XLX work-class ROV | `triton-xlx-rov` | 2003 | private | trade-secret |  |
 | Trurl and Klapaucius (The Cyberiad) | `lem-cyberiad` | 1965 | fictional | fictional |  |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |
 | Ultron | `ultron-marvel` | 1968 | fictional | fictional |  |
+| UnetStack underwater networking framework | `unetstack-subnero-2014` | 2014 | open | open-permissive |  |
 | Unitree G1 | `unitree-g1` | 2024 | private | patented | ✓ |
 | Unitree Go1 | `unitree-go1` | 2021 | private | patented |  |
 | Unitree H1 | `unitree-h1` | 2023 | private | patented | ✓ |

@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-07  
-**Packets:** 48  
-**Corpus revision:** `f6d8987`
+**Packets:** 67  
+**Corpus revision:** `0ab4327`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -40,26 +40,45 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-hydraulic`](actuator-hydraulic.md) | 28 | 22 | 6 | -0250 | 2024-05-24 |
 | [`actuator-pneumatic-muscle`](actuator-pneumatic-muscle.md) | 6 | 6 | 0 | 1983 | 2018-07-30 |
 | [`actuator-spherical-multi-dof`](actuator-spherical-multi-dof.md) | 2 | 2 | 0 | 2020 | 2023-10 |
+| [`control-acoustic-comms`](control-acoustic-comms.md) | 10 | 9 | 1 | 1989-01 | 2018-04 |
 | [`control-behavior-tree`](control-behavior-tree.md) | 12 | 12 | 0 | 1772 | 2022-04-04 |
+| [`control-bilateral-teleop-haptic`](control-bilateral-teleop-haptic.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
+| [`control-dvl-positioning`](control-dvl-positioning.md) | 8 | 7 | 1 | 1989-04 | 2018-04 |
+| [`control-mission-script`](control-mission-script.md) | 4 | 4 | 0 | 1989-01 | 2003-09 |
+| [`control-mode-switching`](control-mode-switching.md) | 2 | 1 | 1 | 2008-05 | 2018-04 |
 | [`control-mpc`](control-mpc.md) | 37 | 34 | 3 | 1980-11 | 2024-12 |
+| [`control-network-protocol`](control-network-protocol.md) | 2 | 2 | 0 | 2014-09 | 2017-03 |
+| [`control-operational-space`](control-operational-space.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
 | [`control-reduced-order-model`](control-reduced-order-model.md) | 28 | 27 | 1 | 1979-04-07 | 2023-08 |
-| [`control-rl-policy`](control-rl-policy.md) | 122 | 96 | 26 | 1818 | 2026-04 |
-| [`control-sim-to-real`](control-sim-to-real.md) | 24 | 19 | 5 | 2014-12-11 | 2026-04 |
-| [`control-teleoperation`](control-teleoperation.md) | 30 | 25 | 5 | 1956-07 | 2024-05-24 |
+| [`control-rl-policy`](control-rl-policy.md) | 123 | 97 | 26 | 1818 | 2026-04 |
+| [`control-sim-to-real`](control-sim-to-real.md) | 25 | 20 | 5 | 2014-12-11 | 2026-04 |
+| [`control-station-keeping`](control-station-keeping.md) | 6 | 6 | 0 | 1964-06 | 2022-07 |
+| [`control-teleoperation`](control-teleoperation.md) | 31 | 26 | 5 | 1956-07 | 2024-05-24 |
+| [`control-tethered-teleoperation`](control-tethered-teleoperation.md) | 5 | 5 | 0 | 1989-04 | 2008-05 |
 | [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 79 | 70 | 9 | 1886 | 2026-04 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 21 | 21 | 0 | 1969 | 2023-08 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |
-| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 113 | 91 | 22 | 1495 | 2026-04 |
+| [`mechanism-anthropomorphic-arm`](mechanism-anthropomorphic-arm.md) | 3 | 2 | 1 | 2016-04 | 2022-07 |
+| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 115 | 93 | 22 | 1495 | 2026-04 |
 | [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 123 | 96 | 27 | -0250 | 2026-04 |
+| [`mechanism-control-fin`](mechanism-control-fin.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
+| [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 9 | 8 | 1 | 1964-06 | 2022-07 |
 | [`mechanism-passive-dynamic-walking`](mechanism-passive-dynamic-walking.md) | 3 | 3 | 0 | 1990 | 2017 |
+| [`mechanism-pitch-roll-trim`](mechanism-pitch-roll-trim.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
+| [`mechanism-pressure-hull`](mechanism-pressure-hull.md) | 7 | 6 | 1 | 1964-06 | 2018-04 |
 | [`mechanism-quadrupedal-locomotion`](mechanism-quadrupedal-locomotion.md) | 16 | 15 | 1 | 1968-09-27 | 2022-09 |
+| [`mechanism-syntactic-foam-ballast`](mechanism-syntactic-foam-ballast.md) | 2 | 2 | 0 | 1964-06 | 2008-05 |
 | [`mechanism-tendon-routing`](mechanism-tendon-routing.md) | 15 | 12 | 3 | 1495 | 2024 |
+| [`mechanism-thruster-axial`](mechanism-thruster-axial.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
+| [`mechanism-thruster-vectored`](mechanism-thruster-vectored.md) | 9 | 8 | 1 | 1964-06 | 2022-07 |
 | [`mechanism-underactuated-grasping`](mechanism-underactuated-grasping.md) | 9 | 9 | 0 | 1986 | 2018-09 |
+| [`mechanism-variable-buoyancy-glider`](mechanism-variable-buoyancy-glider.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
 | [`mechanism-wheel-leg-hybrid`](mechanism-wheel-leg-hybrid.md) | 2 | 2 | 0 | 2002-10-01 | 2004 |
 | [`mechanism-wheeled-balancing`](mechanism-wheeled-balancing.md) | 7 | 7 | 0 | 1963-12-21 | 2024-01-04 |
 | [`power-hot-swap`](power-hot-swap.md) | 3 | 2 | 1 | 2015-02 | 2023-08 |
 | [`power-li-ion`](power-li-ion.md) | 61 | 41 | 20 | 1886 | 2025-10 |
 | [`power-li-po`](power-li-po.md) | 3 | 3 | 0 | 2010 | 2022 |
+| [`power-pressure-balanced-li-ion`](power-pressure-balanced-li-ion.md) | 3 | 2 | 1 | 2003-09 | 2018-04 |
 | [`power-tethered`](power-tethered.md) | 13 | 11 | 2 | 1973 | 2017-11 |
 | [`safety-emergency-stop`](safety-emergency-stop.md) | 5 | 5 | 0 | 1982-12 | 2017-05 |
 | [`safety-hard-constraint`](safety-hard-constraint.md) | 58 | 57 | 1 | -0250 | 2024-05-24 |

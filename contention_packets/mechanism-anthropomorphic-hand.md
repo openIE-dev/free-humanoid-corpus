@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 23
+nav_order: 33
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 113 (91 commons-grade, 22 draft)  
+**Entries:** 115 (93 commons-grade, 22 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2026-04
 
@@ -1591,6 +1591,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-04 — OceanOne
+
+- **id:** `oceanone-stanford-2016`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford Robotics Laboratory; Oussama Khatib group; King Abdullah Univ. of Science and Technology partnership
+- **disclosure citation:** Khatib, O., Yeh, X., Brantner, G., et al. 'Ocean One: A Robotic Avatar for Oceanic Discovery'. IEEE Robotics and Automation Magazine vol. 23 no. 4, 2016. First operational dive (La Lune wreck, Mediterranean, 100 m depth) April 2016.
+- **disclosed subsystems:** `mechanism-thruster-vectored`, `mechanism-manipulator-arm`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `mechanism-pressure-hull`, `control-bilateral-teleop-haptic`, `control-operational-space`, `control-station-keeping`, `control-acoustic-comms`, `control-dvl-positioning`
+
+**Prior art notes:**
+
+> OceanOne is the canonical academic bimanual humanoid AUV. 9-year-deep open academic publication via the Khatib group at Stanford. Establishes element-by-element prior art for: 8-thruster vectored layout for humanoid AUV (exact match to free-humanoid-submersible commitment), bimanual 7-DoF anthropomorphic arms underwater, bilateral haptic teleoperation, F/T-sensor-in-the-loop manipulation, integration with Khatib's operational-space framework. Directly anticipates every architectural element of free-humanoid-submersible's design and any Aquanaut/Nauticus commercial claim on the same. The Khatib lineage extends back through Stanford operational-space papers to 1987 (38 years).
+
+**Sources:**
+
+1. Khatib et al. IEEE RAM 23(4) 2016.
+2. G. Brantner, O. Khatib, 'Controlling Ocean One', Stanford Robotics Lab tech reports 2014-2016.
+3. ICRA 2017 OceanOne workshop proceedings.
+
+---
+
 ### 2016-12 — KX-series Imperial Security Droids (K-2SO)
 
 - **id:** `kx-series-k2so-2016`
@@ -1991,6 +2012,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-07 — OceanOneK
+
+- **id:** `ocean-onek-stanford-2022`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford Robotics Laboratory; Khatib group; expanded design team
+- **disclosure citation:** Khatib, O., Brantner, G., Yeh, X., Salisbury, S. et al. 'OceanOneK: A 1000-meter-depth, bimanual underwater humanoid for archeology and marine exploration'. Science Robotics 2022 (announced July 2022). Subsequent IEEE RA-L publications detail control and pressure-hull innovations.
+- **disclosed subsystems:** `mechanism-thruster-vectored`, `mechanism-manipulator-arm`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `mechanism-pressure-tolerant-actuator`, `mechanism-glass-sphere-buoyancy`, `control-bilateral-teleop-haptic`, `control-operational-space`, `control-station-keeping`
+
+**Prior art notes:**
+
+> OceanOneK extends the OceanOne lineage to 1000 m depth and adds pressure-tolerant oil-filled-actuator art. Directly shields any commercial humanoid AUV claim on: deep-depth (>500 m) bimanual humanoid manipulation, pressure-tolerant joint actuation (no rigid pressure hull on appendages), and integration of Khatib's 38-year operational-space framework with deep underwater manipulation. A 3-year-deep open-academic prior art chain with full element-by-element technical disclosure.
+
+**Sources:**
+
+1. Khatib et al. Science Robotics 2022.
+2. Stanford Robotics Lab 'OceanOneK' project page (cs.stanford.edu/groups/manips/ocean-one-k/).
+3. BBC, Le Monde, IEEE Spectrum coverage of Mediterranean shipwreck operations 2022-2023.
+
+---
+
 ### 2022-12-30 — M3GAN
 
 - **id:** `m3gan`
@@ -2338,4 +2380,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f6d8987`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0ab4327`.*

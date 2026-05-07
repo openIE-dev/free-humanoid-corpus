@@ -1,7 +1,7 @@
 ---
 title: "control-sim-to-real"
 parent: "Invalidity Contentions"
-nav_order: 18
+nav_order: 25
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-sim-to-real`  
-**Entries:** 24 (19 commons-grade, 5 draft)  
+**Entries:** 25 (20 commons-grade, 5 draft)  
 **Earliest disclosure:** 2014-12-11  
 **Most recent disclosure:** 2026-04
 
@@ -160,6 +160,27 @@ cite, copy, or redistribute these contentions.
 1. Andrychowicz, M. et al. 'Learning Dexterous In-Hand Manipulation'. arXiv:1808.00177, 2018.
 2. Akkaya, I. et al. 'Solving Rubik's Cube with a Robot Hand'. arXiv:1910.07113, 2019.
 3. OpenAI Dactyl GitHub releases.
+
+---
+
+### 2018-10 — Stonefish underwater robotics simulator
+
+- **id:** `stonefish-sim-2018`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Patryk Cieslak (University of Girona / Computer Vision and Robotics group)
+- **disclosure citation:** Cieslak, P. 'Stonefish: An Advanced Open-Source Simulation Tool Designed for Marine Robotics'. OCEANS 2019 IEEE/MTS, Marseille; preceded by IROS 2018 workshop demo. Open-source under CC-BY-NC-SA initially; later relicensed Apache-2.0 for upstream merge into ROS Underwater (2021).
+- **disclosed subsystems:** `control-sim-to-real`, `control-rl-policy`, `control-fluid-simulation`
+
+**Prior art notes:**
+
+> Stonefish is the canonical open-source academic underwater robotics simulator. 7 years of public-academic publication and Apache-2.0 source. Establishes prior art for: fluid-drag-aware AUV/ROV simulation, simulated sonar return modeling, tether-dynamics simulation, ROS-integrated policy training for marine robotics. Directly shields free-humanoid-submersible's Phase-1 sim-to-real workflow (alongside Genesis MPM/fluid for higher-fidelity hydrodynamics). Any commercial claim on 'underwater-physics-aware sim-to-real for AUVs' faces 7 years of full-source open prior art.
+
+**Sources:**
+
+1. Cieslak, P. 'Stonefish', OCEANS 2019 IEEE/MTS Marseille.
+2. Stonefish GitHub repository (github.com/patrykcieslak/stonefish).
+3. ROS Underwater organization (github.com/ros-underwater).
 
 ---
 
@@ -559,4 +580,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f6d8987`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0ab4327`.*

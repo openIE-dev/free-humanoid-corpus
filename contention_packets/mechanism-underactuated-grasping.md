@@ -1,7 +1,7 @@
 ---
 title: "mechanism-underactuated-grasping"
 parent: "Invalidity Contentions"
-nav_order: 28
+nav_order: 45
 layout: default
 ---
 
@@ -256,4 +256,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f6d8987`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0ab4327`.*
