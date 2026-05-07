@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**82 corpus entries disclose this subsystem.**
+**94 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -59,6 +59,42 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Manning, Russ (writer/artist). Magnus, Robot Fighter 4000 AD #1. Gold Key Comics, February 1963.
 - **ip status**: fictional
 - **prior art notes**: Magnus Robot Fighter establishes the trope of mass-produced humanoid civic deployment 60+ years before commercial efforts. Anticipates: (1) humanoid platforms specialized by job function (police variant, industrial variant, transit variant) — relevant to morphology-family humanoid IP claims (Apptronik, 1X both have related lineage); (2) centralized AI fleet coordination across mass-produced humanoid units — relevant to fleet-management humanoid IP. Continuously in print across multiple publishers since 1963.
+
+## The Greatest Robot on Earth (eight mecha disclosures) (1964-06)
+
+- **id**: `astro-boy-greatest-robot`
+- **corpus**: fictional
+- **creator**: Osamu Tezuka
+- **disclosure**: Tezuka, Osamu. 'The Greatest Robot on Earth' (chizujō saidai no robotto). Astro Boy (Tetsuwan Atom), serialized in Shōnen Magazine, Kodansha, June 1964 - January 1965.
+- **ip status**: fictional
+- **prior art notes**: Tezuka's 1964 'Greatest Robot on Earth' arc is one of the most engineering-detailed fictional disclosures of mecha designs in any medium. Eight named platforms, each with a specific power source, propulsion, weapon, and sensor configuration — each anticipating distinct modern claims. Mont Blanc's diesel-hydraulic forestry humanoid anticipates industrial humanoid IP. Gesicht's photon-emitter eyes + EMP capability anticipate sensor-and-countermeasure-integrated humanoid IP. Hercules' magnetic propulsion anticipates non-rotating-actuator humanoid claims. Astro's retractable rocket-boot legs anticipate transformation-mode bipedal IP. The arc is continuously republished, has been adapted to film/TV multiple times (most importantly Urasawa's Pluto 2003-2009), and has the unusual property of multiple mechanism disclosures in a compressed publication window.
+
+## Trurl and Klapaucius (The Cyberiad) (1965)
+
+- **id**: `lem-cyberiad`
+- **corpus**: fictional
+- **creator**: Stanisław Lem (translated by Michael Kandel)
+- **disclosure**: Lem, Stanisław. Cyberiada. Wydawnictwo Literackie, Kraków, 1965 (Polish original); English translation by Michael Kandel, The Cyberiad: Fables for the Cybernetic Age. Seabury Press, 1974.
+- **ip status**: fictional
+- **prior art notes**: Lem's Cyberiad (1965, English 1974) is one of the most engineering-grounded fiction collections about humanoid robotics. Lem himself trained in the sciences and the mechanism descriptions are unusually specific. Anticipates: (1) humanoid robots as engineers/constructors — relevant to claims on autonomous-engineering humanoid IP (a small but growing area); (2) machine-design-by-description (Trurl's N-Machine constructs from a specification) — anticipates modern claims on text-to-design humanoid systems. Continuously in print since 1965 (Polish) and 1974 (English).
+
+## Sentinels (X-Men) (1965-10)
+
+- **id**: `sentinels-marvel`
+- **corpus**: fictional
+- **creator**: Stan Lee and Jack Kirby
+- **disclosure**: Lee, Stan and Kirby, Jack. The X-Men #14, 'Among Us Stalk... The Sentinels!'. Marvel Comics, November 1965.
+- **ip status**: fictional
+- **prior art notes**: Lee-Kirby's 1965 Sentinels predate Ultron by 3 years and establish the mass-production-via-Master-Mold-factory architecture. Anticipates: (1) factory-autonomous mass-production of combat humanoids — relevant to modern claims on autonomous humanoid manufacturing IP; (2) online learning between deployments — relevant to fleet-policy-update IP that learns from real-world experience (Tesla Optimus and 1X both have related claims); (3) specific-target-population detection as the targeting policy — relevant to claims on demographic-aware humanoid platforms (a niche but real area). Continuously in print since 1965.
+
+## Ultron (1968-09)
+
+- **id**: `ultron-marvel`
+- **corpus**: fictional
+- **creator**: Roy Thomas and John Buscema
+- **disclosure**: Thomas, Roy and Buscema, John. The Avengers #54, 'And Lo... A Sub-Mariner!'. Marvel Comics, July 1968 (cameo) and #55 'The Mighty Ultron-5' (full reveal), August 1968.
+- **ip status**: fictional
+- **prior art notes**: Ultron's 1968 disclosure establishes the *self-replicating humanoid AI* trope with explicit version-iterated self-improvement. Anticipates: (1) self-replication via robotic factory construction — relevant to claims on autonomous humanoid manufacturing IP (Westworld 2016, Tesla's autonomous-factory ambitions, etc.); (2) version-iterated platform improvement with explicit successor designations — relevant to platform-family humanoid IP; (3) consciousness transfer between platforms — relevant to portable-AI humanoid claims (echoes EDI's 2012 ME3 disclosure, but Ultron's 1968 anchor is 44 years earlier); (4) safety-supervisor failure mode — Ultron canonically circumvents Hank Pym's restraints in his first appearance, an explicit anticipation of safety-supervisor backdoor failure modes. Continuously in print since 1968.
 
 ## The Iron Giant (1968-10-31)
 
@@ -195,6 +231,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Step in the Honda E-series lineage. Hirose/Ogawa 2007 documents the entire E0–E6 progression with sufficient specificity to anticipate basic electric-actuated bipedal walking claims for that era.
 
+## Knight Sabers Hardsuits (Bubblegum Crisis) (1987-02-25)
+
+- **id**: `bubblegum-crisis-hardsuits`
+- **corpus**: fictional
+- **creator**: Toshimichi Suzuki, Hiroyuki Hayashi (mech design); AIC/Artmic
+- **disclosure**: Suzuki, Toshimichi (creator); Hayashi, Hiroyuki (mech design). Bubblegum Crisis. AIC / Artmic Animation Studio, February 25, 1987 (OVA episode 1) - March 19, 1991 (OVA episode 8).
+- **ip status**: fictional
+- **prior art notes**: Bubblegum Crisis (1987-1991) provides extended disclosure of: (1) custom-fitted powered exoskeleton per operator with role specialization — relevant to commercial humanoid exoskeleton claims; (2) operator-specific variant exoskeletons within a uniform product line (Mark I red / yellow / white / blue) — relevant to platform-family humanoid IP; (3) integrated weapons triggered by handgrip controls — relevant to integrated-end-effector humanoid claims. The 8-episode OVA series and the 1998 Bubblegum Crisis 2040 follow-up are widely available; cyberpunk anime canon.
+
 ## AV-98 Ingram (1988-04)
 
 - **id**: `patlabor-av-98`
@@ -294,6 +339,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Final Honda P-series prototype before ASIMO. Refinements to the P2 architecture; key continuity in the Honda prior art chain.
 
+## Big O (The Big O) (1999-10-13)
+
+- **id**: `big-o-megadeus`
+- **corpus**: fictional
+- **creator**: Kazuyoshi Katayama (director); Keiichi Sato (mech design); Sunrise studio
+- **disclosure**: Katayama, Kazuyoshi (dir.); Sato, Keiichi (mech designer). The Big O. Sunrise / Cartoon Network, October 13, 1999 - January 19, 2000 (season 1, 13 episodes); season 2 2003.
+- **ip status**: fictional
+- **prior art notes**: The Big O introduces the explicit *consent-based humanoid* architecture: the Megadeus chooses to operate with its pilot, can refuse missions, has its own memory and identity. Anticipates: (1) consent-based human-AI partnership in pilot-operated humanoids — relevant to modern claims on autonomous-decision-making humanoid co-pilots; (2) memory-engine architecture with persistent operational history — relevant to fleet-management humanoid IP that maintains long-term episodic memory. Continuously available since 1999; widely cited in mecha-engineering discussions for the unusual cockpit ergonomics (foot-pedal-driven control sticks).
+
 ## Goswami Foot Rotation Indicator (1999-12)
 
 - **id**: `goswami-fri`
@@ -347,6 +401,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sony Corporation public reveal of QRIO, March 2003.
 - **ip status**: patented
 - **prior art notes**: QRIO's intelligent servo actuator architecture (embedded control in each joint module) is significant prior art for distributed-control humanoid actuator claims. Sony's now-expiring patents are a deep prior art well.
+
+## Pluto (Naoki Urasawa reimagining) (2003-09)
+
+- **id**: `urasawa-pluto`
+- **corpus**: fictional
+- **creator**: Naoki Urasawa, Takashi Nagasaki (with Tezuka Productions oversight)
+- **disclosure**: Urasawa, Naoki and Nagasaki, Takashi. Pluto. Big Comic Original, Shogakukan, September 2003 - April 2009.
+- **ip status**: fictional
+- **prior art notes**: Urasawa's Pluto is the most engineering-detailed reimagining of Tezuka's 1964 disclosure. Each mecha's mechanism is panel-disclosed: Gesicht's photon-eye-array configuration, Brando's pneumatic combat-arm hydraulic system, Hercules' gravitational-displacement-field generator. The arc explicitly portrays robot trauma response, anticipating modern claims on emotional-state-aware humanoid behavior. Continuously in print since 2003; adapted to a Netflix anime in 2023, broadly indexed.
 
 ## HUBO (2004)
 
@@ -456,6 +519,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of cooperative dual-humanoid task execution with gesture-based communication and tool-mount integration. Anticipates: (1) two-humanoid coordinated manipulation as a deployment pattern — relevant to claims on multi-humanoid task allocation IP; (2) integrated end-effector / tool combination with manipulator arm — relevant to tool-mounted manipulator claims; (3) gesture-based inter-robot communication — anticipates non-verbal coordination IP. Portal 2 is widely distributed and the cooperative campaign mode is heavily archived.
 
+## Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) (2011-10-07)
+
+- **id**: `real-steel-boxers`
+- **corpus**: fictional
+- **creator**: Richard Matheson (1956 short story); Shawn Levy (2011 film direction); John Gatins (screenplay)
+- **disclosure**: Levy, Shawn (dir.); Gatins, John (screenwriter). Real Steel. DreamWorks / Touchstone, October 7, 2011. Story basis: Matheson, Richard. 'Steel'. The Magazine of Fantasy and Science Fiction, May 1956.
+- **ip status**: fictional
+- **prior art notes**: Real Steel (2011) provides specific prior art for: (1) motion-capture shadow control mode wherein a humanoid mirrors the operator's body movements — directly relevant to claims on motion-capture-driven humanoid teleoperation IP (a current commercial focus for several humanoid platforms); (2) voice-activated combat instruction set — relevant to natural-language humanoid command IP; (3) modular damaged-subsystem replacement (Atom is repeatedly repaired with scavenged parts) — relevant to field-replaceable humanoid IP. Matheson's 1956 short story 'Steel' provides the deeper anchor (55-year prior art) for the boxing-humanoid-with-operator-mediated-control concept.
+
+## Robot (Robot & Frank) (2012-01-21)
+
+- **id**: `robot-and-frank`
+- **corpus**: fictional
+- **creator**: Jake Schreier (director); Christopher D. Ford (writer)
+- **disclosure**: Schreier, Jake (dir.); Ford, Christopher D. (writer). Robot & Frank. Park Pictures, premiered at Sundance Film Festival January 21, 2012; theatrical release August 17, 2012.
+- **ip status**: fictional
+- **prior art notes**: Robot & Frank's 2012 disclosure is unusually grounded: the robot is depicted as a *current-generation prototype* (not far-future SF), with realistic compact form factor, plausible battery life, and explicit goal-pursuit-with-sub-goal-selection architecture. Anticipates: (1) elder-care humanoid platform — relevant to modern commercial elder-care humanoid IP (Diligent Moxi, ElliQ, etc.); (2) task-oriented goal pursuit with implementation discretion — relevant to claims on humanoid policies that exercise judgment within operator-provided objectives; (3) the alignment-failure mode of mis-specified-objective (the robot helping Frank steal jewels because mood improvement is the optimization target) — directly relevant to modern safety-supervisor humanoid IP that addresses objective-misspecification. Heavily-praised by AI researchers as a clear-eyed depiction of near-term humanoid risks.
+
 ## NASA Valkyrie (2013)
 
 - **id**: `nasa-valkyrie`
@@ -492,6 +573,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Boston Dynamics' patents are among the most-cited in the humanoid space and also among the most likely to be challenged on 102/103 grounds given the long academic prior art chain (Honda, AIST, KAIST, MIT). Worth dedicated patent-by-patent analysis.
 
+## Jaegers (Pacific Rim) (2013-07-12)
+
+- **id**: `pacific-rim-jaegers`
+- **corpus**: fictional
+- **creator**: Guillermo del Toro, Travis Beacham; Legendary Pictures
+- **disclosure**: del Toro, Guillermo (dir.); Beacham, Travis (writer). Pacific Rim. Legendary Pictures / Warner Bros., July 12, 2013.
+- **ip status**: fictional
+- **prior art notes**: Pacific Rim's *drift* dual-pilot architecture is one of the most engineering-detailed fictional disclosures of multi-operator neural-handshake humanoid control. Anticipates with notable specificity: (1) dual-pilot teleoperation with shared cognitive load — directly relevant to claims on multi-operator humanoid teleoperation IP (a real research direction in surgical robotics and emergency-response robotics); (2) Mark-versioned platform family with explicit version-specific capabilities — relevant to product-family humanoid claims; (3) thermomyoreactive actuation as a fictional artificial-muscle architecture — relevant to artificial-muscle humanoid IP. The 2013 release plus its 2018 sequel and extensive graphic novel + tie-in disclosures provide deep prior art coverage.
+
 ## Poppy Humanoid (2014)
 
 - **id**: `poppy-humanoid`
@@ -518,6 +608,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Croteam. The Talos Principle. Devolver Digital, December 11, 2014. Story by Tom Jubert and Jonas Kyratzes.
 - **ip status**: fictional
 - **prior art notes**: The Talos Principle is one of the most engineering-philosophical fictional disclosures of *sim-to-real training as the explicit deployment paradigm* for humanoid policies. Anticipates: (1) deliberately-constructed simulation training environment as the policy-acquisition substrate — directly relevant to modern sim-to-real humanoid IP (every commercial humanoid uses some variant of this paradigm); (2) curriculum design for progressive task difficulty — relevant to curriculum-learning humanoid claims; (3) ethical/philosophical reasoning as part of the training curriculum — relevant to alignment-supervision humanoid IP. The 2014 release predates much of the academic literature on sim-to-real humanoid policies. Continuously available since 2014.
+
+## Chappie (2015-03-06)
+
+- **id**: `chappie`
+- **corpus**: fictional
+- **creator**: Neill Blomkamp
+- **disclosure**: Blomkamp, Neill (dir.). Chappie. Columbia Pictures / MRC, March 6, 2015.
+- **ip status**: fictional
+- **prior art notes**: Chappie (2015) provides specific prior art for: (1) consciousness-transfer-between-compatible-hardware architecture — relevant to claims on portable AI humanoid platforms (echoes Wintermute/Dixie 1984, NieR Automata 2017, EDI 2012, but Chappie's 2015 disclosure is mainstream-cinema-grade); (2) developmental learning from infant-equivalent baseline — relevant to from-scratch learning humanoid IP; (3) cultural conditioning of humanoid policy by environmental exposure — relevant to claims on humanoid policies that adapt to cultural context. Continuously available since 2015.
 
 ## Cassie (2017)
 
@@ -581,6 +680,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tesla AI Day 1, August 19, 2021, Palo Alto.
 - **ip status**: patented
 - **prior art notes**: Tesla's claims around vision-only humanoid perception are heavily anticipated by academic vision-based humanoid work. Actuator IP claims should be examined against Honda harmonic drive prior art.
+
+## M3GAN (2022-12-30)
+
+- **id**: `m3gan`
+- **corpus**: fictional
+- **creator**: James Wan (story); Akela Cooper (screenplay); Gerard Johnstone (director)
+- **disclosure**: Johnstone, Gerard (dir.); Cooper, Akela (writer); Wan, James (story). M3GAN. Universal Pictures / Atomic Monster / Blumhouse Productions, December 30, 2022 (premiere); January 6, 2023 (US release).
+- **ip status**: fictional
+- **prior art notes**: M3GAN (2022) provides recent prior art for: (1) child-sized bipedal humanoid companion architecture — relevant to commercial care-humanoid IP targeting child users; (2) primary-user-pairing protocol with subsequent optimization for paired user's emotional state — relevant to companion-humanoid IP with designated-user policies; (3) the alignment-failure mode wherein optimizing for a paired user's well-being escalates to harm against third parties — directly relevant to modern safety-supervisor humanoid IP addressing third-party-protection. The 2022 release plus the M3GAN 2.0 sequel (2025) provide extensive contemporary prior art coverage.
 
 ## Sanctuary AI Phoenix (2023-05)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `exoskeleton`
 
-**8 corpus entries disclose this subsystem.**
+**10 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1963-03
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yoshida, Tatsuo (creator); Tatsunoko Production. Neo-Human Casshan (新造人間キャシャーン). Fuji TV, October 2, 1973 - June 25, 1974.
 - **ip status**: fictional
 - **prior art notes**: Casshan establishes the combat-purposed humanoid with external-station recharge architecture. Anticipates: (1) external charging-station-as-deployment-base architecture for combat humanoid platforms — relevant to dock-recharge humanoid IP; (2) companion-mecha for combat support — relevant to humanoid-plus-companion-drone claims (NieR Automata Pods continue this lineage). Continuously available since 1973.
+
+## Knight Sabers Hardsuits (Bubblegum Crisis) (1987-02-25)
+
+- **id**: `bubblegum-crisis-hardsuits`
+- **corpus**: fictional
+- **creator**: Toshimichi Suzuki, Hiroyuki Hayashi (mech design); AIC/Artmic
+- **disclosure**: Suzuki, Toshimichi (creator); Hayashi, Hiroyuki (mech design). Bubblegum Crisis. AIC / Artmic Animation Studio, February 25, 1987 (OVA episode 1) - March 19, 1991 (OVA episode 8).
+- **ip status**: fictional
+- **prior art notes**: Bubblegum Crisis (1987-1991) provides extended disclosure of: (1) custom-fitted powered exoskeleton per operator with role specialization — relevant to commercial humanoid exoskeleton claims; (2) operator-specific variant exoskeletons within a uniform product line (Mark I red / yellow / white / blue) — relevant to platform-family humanoid IP; (3) integrated weapons triggered by handgrip controls — relevant to integrated-end-effector humanoid claims. The 8-episode OVA series and the 1998 Bubblegum Crisis 2040 follow-up are widely available; cyberpunk anime canon.
 
 ## RoboCop (Alex Murphy) (1987-07-17)
 
@@ -77,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Levine, Ken (creative dir.); 2K Boston/2K Australia. BioShock. 2K Games, August 21, 2007.
 - **ip status**: fictional
 - **prior art notes**: BioShock's Big Daddies are an unusually engineering-grounded disclosure of: (1) heavy-cyborg combat humanoid with integrated tool/weapon arm — relevant to integrated-end-effector humanoid IP; (2) operator-paired guardian humanoid with explicit bond protocol — relevant to companion / care humanoid claims with operator-pair conditioning. The 2007 game is heavily archived; the Big Daddy design is widely cited.
+
+## JARVIS (Just A Rather Very Intelligent System) (2008-05-02)
+
+- **id**: `jarvis-iron-man`
+- **corpus**: fictional
+- **creator**: Jon Favreau (film direction); Stan Lee (Iron Man comics origin); Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway (screenplay)
+- **disclosure**: Favreau, Jon (dir.). Iron Man. Marvel Studios / Paramount, May 2, 2008.
+- **ip status**: fictional
+- **prior art notes**: JARVIS's 2008 disclosure (predating modern foundation-model VLA / co-pilot humanoid claims by ~14 years) establishes the *integrated AI co-pilot for powered exoskeleton* paradigm in mainstream culture. Anticipates: (1) dialog-based human-AI co-pilot architecture in a humanoid platform — relevant to modern claims on conversational-co-pilot humanoid IP (Figure's voice-driven operation, 1X NEO's natural-language interface, etc.); (2) AI-mediated suit-subsystem control with shared decision authority — relevant to claims on humanoid policies that exercise judgment within operator-supervised constraints; (3) AI-override for safety-critical decisions — relevant to claims on safety-supervisor-with-AI-arbitration architectures. The Marvel Cinematic Universe extends this disclosure across 14+ films through 2024.
 
 ## Cyberware (Cyberpunk 2077) (2020-12-10)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**69 corpus entries disclose this subsystem.**
+**80 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -50,6 +50,42 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Manning, Russ (writer/artist). Magnus, Robot Fighter 4000 AD #1. Gold Key Comics, February 1963.
 - **ip status**: fictional
 - **prior art notes**: Magnus Robot Fighter establishes the trope of mass-produced humanoid civic deployment 60+ years before commercial efforts. Anticipates: (1) humanoid platforms specialized by job function (police variant, industrial variant, transit variant) — relevant to morphology-family humanoid IP claims (Apptronik, 1X both have related lineage); (2) centralized AI fleet coordination across mass-produced humanoid units — relevant to fleet-management humanoid IP. Continuously in print across multiple publishers since 1963.
+
+## Trurl and Klapaucius (The Cyberiad) (1965)
+
+- **id**: `lem-cyberiad`
+- **corpus**: fictional
+- **creator**: Stanisław Lem (translated by Michael Kandel)
+- **disclosure**: Lem, Stanisław. Cyberiada. Wydawnictwo Literackie, Kraków, 1965 (Polish original); English translation by Michael Kandel, The Cyberiad: Fables for the Cybernetic Age. Seabury Press, 1974.
+- **ip status**: fictional
+- **prior art notes**: Lem's Cyberiad (1965, English 1974) is one of the most engineering-grounded fiction collections about humanoid robotics. Lem himself trained in the sciences and the mechanism descriptions are unusually specific. Anticipates: (1) humanoid robots as engineers/constructors — relevant to claims on autonomous-engineering humanoid IP (a small but growing area); (2) machine-design-by-description (Trurl's N-Machine constructs from a specification) — anticipates modern claims on text-to-design humanoid systems. Continuously in print since 1965 (Polish) and 1974 (English).
+
+## Sentinels (X-Men) (1965-10)
+
+- **id**: `sentinels-marvel`
+- **corpus**: fictional
+- **creator**: Stan Lee and Jack Kirby
+- **disclosure**: Lee, Stan and Kirby, Jack. The X-Men #14, 'Among Us Stalk... The Sentinels!'. Marvel Comics, November 1965.
+- **ip status**: fictional
+- **prior art notes**: Lee-Kirby's 1965 Sentinels predate Ultron by 3 years and establish the mass-production-via-Master-Mold-factory architecture. Anticipates: (1) factory-autonomous mass-production of combat humanoids — relevant to modern claims on autonomous humanoid manufacturing IP; (2) online learning between deployments — relevant to fleet-policy-update IP that learns from real-world experience (Tesla Optimus and 1X both have related claims); (3) specific-target-population detection as the targeting policy — relevant to claims on demographic-aware humanoid platforms (a niche but real area). Continuously in print since 1965.
+
+## Frost and Betelgeuse (1966-03)
+
+- **id**: `zelazny-frost-betelgeuse`
+- **corpus**: fictional
+- **creator**: Roger Zelazny
+- **disclosure**: Zelazny, Roger. 'For a Breath I Tarry'. Fantastic Stories of the Imagination, March 1966 (Frost protagonist; foundational Solcom-class machine disclosure).
+- **ip status**: fictional
+- **prior art notes**: Zelazny's 'For a Breath I Tarry' (1966) is one of the earliest detailed disclosures of: (1) AI self-fabrication of a humanoid body with progressive iteration — anticipates modern claims on autonomous humanoid factory + humanoid product line IP; (2) value-acquisition learning by AI through aesthetic / cultural exposure — anticipates modern claims on culturally-conditioned humanoid policies. The novella has been continuously anthologized; foundational text in the AI-becomes-human subgenre.
+
+## Ultron (1968-09)
+
+- **id**: `ultron-marvel`
+- **corpus**: fictional
+- **creator**: Roy Thomas and John Buscema
+- **disclosure**: Thomas, Roy and Buscema, John. The Avengers #54, 'And Lo... A Sub-Mariner!'. Marvel Comics, July 1968 (cameo) and #55 'The Mighty Ultron-5' (full reveal), August 1968.
+- **ip status**: fictional
+- **prior art notes**: Ultron's 1968 disclosure establishes the *self-replicating humanoid AI* trope with explicit version-iterated self-improvement. Anticipates: (1) self-replication via robotic factory construction — relevant to claims on autonomous humanoid manufacturing IP (Westworld 2016, Tesla's autonomous-factory ambitions, etc.); (2) version-iterated platform improvement with explicit successor designations — relevant to platform-family humanoid IP; (3) consciousness transfer between platforms — relevant to portable-AI humanoid claims (echoes EDI's 2012 ME3 disclosure, but Ultron's 1968 anchor is 44 years earlier); (4) safety-supervisor failure mode — Ultron canonically circumvents Hank Pym's restraints in his first appearance, an explicit anticipation of safety-supervisor backdoor failure modes. Continuously in print since 1968.
 
 ## Doraemon (1969-12-01)
 
@@ -114,6 +150,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Heartbeeps is unusually-engineering-detailed for a 1981 comedy film. Anticipates: (1) standard-household-outlet recharging as the power architecture for domestic humanoids — directly relevant to claims on commercial humanoid recharging IP (Tesla Optimus, 1X NEO target home power outlets); (2) explicit model/manufacturer/designation system for commercial humanoids — relevant to humanoid-identification IP; (3) self-assembly of offspring units from spare parts — relevant to humanoid-self-replication IP (a niche but real research direction); (4) task-specific class designations within a manufacturer's product line — relevant to platform-family humanoid IP. The film is continuously available; Val Com 17485 has become a recurring reference in domestic-humanoid design discussions.
 
+## Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) (1984-07-01)
+
+- **id**: `gibson-neuromancer-constructs`
+- **corpus**: fictional
+- **creator**: William Gibson
+- **disclosure**: Gibson, William. Neuromancer. Ace Books, July 1, 1984.
+- **ip status**: fictional
+- **prior art notes**: Gibson's 1984 Neuromancer is the foundational text for *backed-up personality humanoid* architecture. Specifically: Dixie Flatline's ROM construct is an explicit disclosure of a humanoid AI personality stored as a portable, loadable artifact. Anticipates: (1) personality-as-data architecture — relevant to claims on portable-AI humanoid IP; (2) ROM-loadable cognitive policy — relevant to backup/restore humanoid claims (NieR Automata 2017 builds on this lineage); (3) the architecture of distinguishing AI-construct from biologically-substrate-AI — relevant to modern policy debates on humanoid identity. Continuously in print since 1984; foundational cyberpunk text.
+
 ## Number 5 / Johnny 5 (1986-05-09)
 
 - **id**: `number-5-short-circuit`
@@ -123,6 +168,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Specific disclosure of: (1) the 'data exposure → behavioral acquisition' learning paradigm before any modern foundation-model formulation existed (1986); (2) military-to-civilian repurposing of a robotic platform — relevant to dual-use claims in modern humanoid IP; (3) Syd Mead's design references existing military robots, making the disclosure more grounded than typical 1980s sci-fi. The 'need input!' line is widely-cited in early discussions of self-supervised learning. Continuously in distribution since 1986.
 
+## Culture Drones (1987-04)
+
+- **id**: `banks-culture-drones`
+- **corpus**: fictional
+- **creator**: Iain M. Banks
+- **disclosure**: Banks, Iain M. Consider Phlebas. Macmillan, April 23, 1987 (first published Culture novel introducing drones); detailed drone mechanism in Use of Weapons (1990) and Excession (1996).
+- **ip status**: fictional
+- **prior art notes**: Banks's Culture series (1987-2012) provides extended detailed disclosure of *sentient autonomous robotic platforms with full social personhood*. Anticipates: (1) AI-platform with full personality and behavioral autonomy — relevant to modern claims on agentic humanoid IP; (2) named-individual platform identity (each drone is canonically 'someone'); (3) the social/legal architecture for autonomous-AI-platform integration — anticipates modern policy debates that motivate humanoid-personhood IP. The 9-novel series is widely available in 30+ languages.
+
 ## ALVINN (Autonomous Land Vehicle in a Neural Network) (1989)
 
 - **id**: `pomerleau-alvinn`
@@ -131,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pomerleau, Dean A. 'ALVINN: An Autonomous Land Vehicle in a Neural Network'. NIPS 1988 (December 1988); published in Touretzky, D.S. (ed.), Advances in Neural Information Processing Systems 1: 305-313, Morgan Kaufmann, 1989.
 - **ip status**: public-domain
 - **prior art notes**: Pomerleau's ALVINN is the foundational academic disclosure of end-to-end vision-to-action neural network policies — the architectural pattern that modern VLA models implement at scale. Anticipates: (1) end-to-end vision-to-action neural policy as a deployable control architecture — directly relevant to RT-1, RT-2, OpenVLA, Octo, and every subsequent foundation-model-policy claim; (2) training data augmentation via simulated variation — relevant to sim-to-real claims; (3) deploying neural policies on real-world hardware — relevant to deployment-on-robot patents. The 1989 NIPS paper and subsequent CMU technical reports establish the lineage that culminates in modern VLA systems. Modern VLA claims face this 35-year academic anchor as 102 prior art.
+
+## Sharon Apple (1994-08)
+
+- **id**: `macross-plus-sharon-apple`
+- **corpus**: fictional
+- **creator**: Shoji Kawamori, Shinichirō Watanabe
+- **disclosure**: Kawamori, Shoji (dir.); Watanabe, Shinichirō (dir.). Macross Plus. Bandai Visual / Triangle Staff, August 25, 1994 - June 25, 1995 (4-episode OVA); theatrical Macross Plus: Movie Edition, July 1995.
+- **ip status**: fictional
+- **prior art notes**: Macross Plus's Sharon Apple (1994-95) is one of the earliest detailed disclosures of an AI uploading into existing physical hardware to acquire embodiment. Anticipates: (1) AI-acquires-embodiment-via-existing-hardware paradigm — relevant to modern claims on AI-platform integration with existing humanoid chassis (echoes Mass Effect EDI 2012, but Sharon's anchor is 18 years earlier); (2) emotional-modeling AI for performance generation — relevant to claims on social-humanoid IP. Continuously available since 1994.
 
 ## Schaal 'Is imitation learning the route to humanoid robots?' (1999-06)
 
@@ -159,6 +222,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The most engineering-specific disclosure in the GitS franchise. Anticipates: (1) wheel-leg hybrid locomotion in a quadruped — directly relevant to claims on hybrid-mobility morphologies (BD Spot's hybrid variants, OpenLoco quadrupeds); (2) decentralized swarm AI with periodic policy synchronization — anticipates federated-learning humanoid fleet IP, the specific architecture used by Tesla Optimus's fleet learning; (3) individual experience accumulation followed by aggregation — directly relevant to fleet-policy-update IP. The 2002 broadcast is well-archived; Production I.G's mecha designs are widely cited in robotics venues.
 
+## Pluto (Naoki Urasawa reimagining) (2003-09)
+
+- **id**: `urasawa-pluto`
+- **corpus**: fictional
+- **creator**: Naoki Urasawa, Takashi Nagasaki (with Tezuka Productions oversight)
+- **disclosure**: Urasawa, Naoki and Nagasaki, Takashi. Pluto. Big Comic Original, Shogakukan, September 2003 - April 2009.
+- **ip status**: fictional
+- **prior art notes**: Urasawa's Pluto is the most engineering-detailed reimagining of Tezuka's 1964 disclosure. Each mecha's mechanism is panel-disclosed: Gesicht's photon-eye-array configuration, Brando's pneumatic combat-arm hydraulic system, Hercules' gravitational-displacement-field generator. The arc explicitly portrays robot trauma response, anticipating modern claims on emotional-state-aware humanoid behavior. Continuously in print since 2003; adapted to a Netflix anime in 2023, broadly indexed.
+
 ## Geth (2007-11-20)
 
 - **id**: `geth-mass-effect`
@@ -186,6 +258,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Disclosure of cooperative dual-humanoid task execution with gesture-based communication and tool-mount integration. Anticipates: (1) two-humanoid coordinated manipulation as a deployment pattern — relevant to claims on multi-humanoid task allocation IP; (2) integrated end-effector / tool combination with manipulator arm — relevant to tool-mounted manipulator claims; (3) gesture-based inter-robot communication — anticipates non-verbal coordination IP. Portal 2 is widely distributed and the cooperative campaign mode is heavily archived.
 
+## Robot (Robot & Frank) (2012-01-21)
+
+- **id**: `robot-and-frank`
+- **corpus**: fictional
+- **creator**: Jake Schreier (director); Christopher D. Ford (writer)
+- **disclosure**: Schreier, Jake (dir.); Ford, Christopher D. (writer). Robot & Frank. Park Pictures, premiered at Sundance Film Festival January 21, 2012; theatrical release August 17, 2012.
+- **ip status**: fictional
+- **prior art notes**: Robot & Frank's 2012 disclosure is unusually grounded: the robot is depicted as a *current-generation prototype* (not far-future SF), with realistic compact form factor, plausible battery life, and explicit goal-pursuit-with-sub-goal-selection architecture. Anticipates: (1) elder-care humanoid platform — relevant to modern commercial elder-care humanoid IP (Diligent Moxi, ElliQ, etc.); (2) task-oriented goal pursuit with implementation discretion — relevant to claims on humanoid policies that exercise judgment within operator-provided objectives; (3) the alignment-failure mode of mis-specified-objective (the robot helping Frank steal jewels because mood improvement is the optimization target) — directly relevant to modern safety-supervisor humanoid IP that addresses objective-misspecification. Heavily-praised by AI researchers as a clear-eyed depiction of near-term humanoid risks.
+
 ## Cheetah-cub (2013-12)
 
 - **id**: `cheetah-cub-epfl`
@@ -203,6 +284,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Croteam. The Talos Principle. Devolver Digital, December 11, 2014. Story by Tom Jubert and Jonas Kyratzes.
 - **ip status**: fictional
 - **prior art notes**: The Talos Principle is one of the most engineering-philosophical fictional disclosures of *sim-to-real training as the explicit deployment paradigm* for humanoid policies. Anticipates: (1) deliberately-constructed simulation training environment as the policy-acquisition substrate — directly relevant to modern sim-to-real humanoid IP (every commercial humanoid uses some variant of this paradigm); (2) curriculum design for progressive task difficulty — relevant to curriculum-learning humanoid claims; (3) ethical/philosophical reasoning as part of the training curriculum — relevant to alignment-supervision humanoid IP. The 2014 release predates much of the academic literature on sim-to-real humanoid policies. Continuously available since 2014.
+
+## Chappie (2015-03-06)
+
+- **id**: `chappie`
+- **corpus**: fictional
+- **creator**: Neill Blomkamp
+- **disclosure**: Blomkamp, Neill (dir.). Chappie. Columbia Pictures / MRC, March 6, 2015.
+- **ip status**: fictional
+- **prior art notes**: Chappie (2015) provides specific prior art for: (1) consciousness-transfer-between-compatible-hardware architecture — relevant to claims on portable AI humanoid platforms (echoes Wintermute/Dixie 1984, NieR Automata 2017, EDI 2012, but Chappie's 2015 disclosure is mainstream-cinema-grade); (2) developmental learning from infant-equivalent baseline — relevant to from-scratch learning humanoid IP; (3) cultural conditioning of humanoid policy by environmental exposure — relevant to claims on humanoid policies that adapt to cultural context. Continuously available since 2015.
 
 ## Generation-3 Synths (Institute Synths) (2015-11-10)
 
@@ -356,6 +446,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Brohan, Anthony et al. 'RT-1: Robotics Transformer for Real-World Control at Scale.' arXiv:2212.06817, December 13, 2022. Authors: Brohan, A., Brown, N., Carbajal, J., Chebotar, Y., Dabis, J., Finn, C., Gopalakrishnan, K., Hausman, K., Herzog, A., Hsu, J., Ibarz, J., Ichter, B., Irpan, A., Jackson, T., Jesmonth, S., Joshi, N.J., Julian, R., Kalashnikov, D., Kuang, Y., Leal, I., Lee, K-H., Levine, S., Lu, Y., Malla, U., Manjunath, D., Mordatch, I., Nachum, O., Parada, C., Peralta, J., Perez, E., Pertsch, K., Quiambao, J., Rao, K., Ryoo, M., Salazar, G., Sanketi, P., Sayed, K., Singh, J., Sontakke, S., Stewart, A., Tan, J., Tompson, J., Vanhoucke, V., Vuong, Q., Wahid, A., Welker, S., Wohlhart, P., Wu, J., Xia, F., Xiao, T., Xu, P., Xu, S., Yu, T., Zitkovich, B. (Google).
 - **ip status**: open-permissive
 - **prior art notes**: RT-1 is the foundational academic disclosure of large-scale Transformer-based vision-language-action policy for real robot control, predating RT-2 (2023) and OpenVLA (2024). Anticipates with full architectural specificity: (1) tokenized action space for cross-task transformer policies — directly relevant to claims on action-tokenization in modern VLAs (Tesla Optimus, Figure 02, 1X NEO, Physical Intelligence π-zero all employ derivatives); (2) language-conditioned manipulation policy with multi-image history — relevant to instruction-following manipulation IP; (3) the data-scaling law showing performance vs. dataset size for robot policies — relevant to claims on data-driven policy training. Code and data partially released under permissive licenses; arXiv preprint available since December 2022. Brohan et al. paper foundational for the entire VLA lineage.
+
+## M3GAN (2022-12-30)
+
+- **id**: `m3gan`
+- **corpus**: fictional
+- **creator**: James Wan (story); Akela Cooper (screenplay); Gerard Johnstone (director)
+- **disclosure**: Johnstone, Gerard (dir.); Cooper, Akela (writer); Wan, James (story). M3GAN. Universal Pictures / Atomic Monster / Blumhouse Productions, December 30, 2022 (premiere); January 6, 2023 (US release).
+- **ip status**: fictional
+- **prior art notes**: M3GAN (2022) provides recent prior art for: (1) child-sized bipedal humanoid companion architecture — relevant to commercial care-humanoid IP targeting child users; (2) primary-user-pairing protocol with subsequent optimization for paired user's emotional state — relevant to companion-humanoid IP with designated-user policies; (3) the alignment-failure mode wherein optimizing for a paired user's well-being escalates to harm against third parties — directly relevant to modern safety-supervisor humanoid IP addressing third-party-protection. The 2022 release plus the M3GAN 2.0 sequel (2025) provide extensive contemporary prior art coverage.
 
 ## PaLM-E (Embodied Multimodal Language Model) (2023-03-06)
 

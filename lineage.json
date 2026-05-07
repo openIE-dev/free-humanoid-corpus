@@ -207,6 +207,16 @@
       ]
     },
     {
+      "id": "astro-boy-greatest-robot",
+      "name": "The Greatest Robot on Earth (eight mecha disclosures)",
+      "year": "1964",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "urasawa-pluto"
+      ]
+    },
+    {
       "id": "cyborg-009",
       "name": "Cyborg 009 (Joe Shimamura and the 00 Cyborgs)",
       "year": "1964",
@@ -215,9 +225,35 @@
       "descendants": []
     },
     {
+      "id": "lem-cyberiad",
+      "name": "Trurl and Klapaucius (The Cyberiad)",
+      "year": "1965",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "b-9-lost-in-space",
       "name": "B-9 (Lost in Space)",
       "year": "1965",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sentinels-marvel",
+      "name": "Sentinels (X-Men)",
+      "year": "1965",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "ultron-marvel"
+      ]
+    },
+    {
+      "id": "zelazny-frost-betelgeuse",
+      "name": "Frost and Betelgeuse",
+      "year": "1966",
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
@@ -251,6 +287,16 @@
       "corpus": "fictional",
       "ancestors": [
         "asimov-positronic-robots"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "ultron-marvel",
+      "name": "Ultron",
+      "year": "1968",
+      "corpus": "fictional",
+      "ancestors": [
+        "sentinels-marvel"
       ],
       "descendants": []
     },
@@ -480,6 +526,14 @@
       ]
     },
     {
+      "id": "gibson-neuromancer-constructs",
+      "name": "Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline)",
+      "year": "1984",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "t-800-terminator",
       "name": "T-800",
       "year": "1984",
@@ -601,6 +655,22 @@
       ]
     },
     {
+      "id": "bubblegum-crisis-hardsuits",
+      "name": "Knight Sabers Hardsuits (Bubblegum Crisis)",
+      "year": "1987",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "banks-culture-drones",
+      "name": "Culture Drones",
+      "year": "1987",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "robocop-1987",
       "name": "RoboCop (Alex Murphy)",
       "year": "1987",
@@ -630,6 +700,16 @@
       "descendants": [
         "evangelion",
         "ghost-in-the-shell-major"
+      ]
+    },
+    {
+      "id": "star-trek-tng-lore",
+      "name": "Lore (Star Trek: TNG)",
+      "year": "1988",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "picard-soji"
       ]
     },
     {
@@ -778,6 +858,14 @@
       ]
     },
     {
+      "id": "macross-plus-sharon-apple",
+      "name": "Sharon Apple",
+      "year": "1994",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sherman-simplex-architecture",
       "name": "Simplex Architecture",
       "year": "1995",
@@ -871,6 +959,14 @@
         "dmp-schaal-ijspeert",
         "gail-ho-ermon"
       ]
+    },
+    {
+      "id": "big-o-megadeus",
+      "name": "Big O (The Big O)",
+      "year": "1999",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "goswami-fri",
@@ -1019,6 +1115,16 @@
       "year": "2003",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "urasawa-pluto",
+      "name": "Pluto (Naoki Urasawa reimagining)",
+      "year": "2003",
+      "corpus": "fictional",
+      "ancestors": [
+        "astro-boy-greatest-robot"
+      ],
       "descendants": []
     },
     {
@@ -1199,6 +1305,14 @@
       ]
     },
     {
+      "id": "jarvis-iron-man",
+      "name": "JARVIS (Just A Rather Very Intelligent System)",
+      "year": "2008",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "petman",
       "name": "PETMAN",
       "year": "2009",
@@ -1329,6 +1443,14 @@
       "descendants": []
     },
     {
+      "id": "real-steel-boxers",
+      "name": "Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy)",
+      "year": "2011",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "inmoov",
       "name": "InMoov",
       "year": "2012",
@@ -1341,6 +1463,14 @@
       "name": "Toyota HSR",
       "year": "2012",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "robot-and-frank",
+      "name": "Robot (Robot & Frank)",
+      "year": "2012",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -1419,6 +1549,14 @@
         "sanctuary-phoenix-gen6",
         "tesla-optimus"
       ]
+    },
+    {
+      "id": "pacific-rim-jaegers",
+      "name": "Jaegers (Pacific Rim)",
+      "year": "2013",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "cheetah-cub-epfl",
@@ -1521,6 +1659,14 @@
       "descendants": [
         "spot-fuel-cell"
       ]
+    },
+    {
+      "id": "chappie",
+      "name": "Chappie",
+      "year": "2015",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "fallout-gen-3-synths",
@@ -1817,6 +1963,16 @@
       "descendants": []
     },
     {
+      "id": "picard-soji",
+      "name": "Dahj and Soji (Star Trek: Picard)",
+      "year": "2020",
+      "corpus": "fictional",
+      "ancestors": [
+        "star-trek-tng-lore"
+      ],
+      "descendants": []
+    },
+    {
       "id": "digit-meta",
       "name": "DIGIT",
       "year": "2020",
@@ -1943,6 +2099,14 @@
         "openvla",
         "robocat"
       ]
+    },
+    {
+      "id": "m3gan",
+      "name": "M3GAN",
+      "year": "2022",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "palm-e",

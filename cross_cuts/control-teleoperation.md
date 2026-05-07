@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-teleoperation`
 
-**16 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-07
 
@@ -86,6 +86,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Diftler, M.A., Ambrose, R.O. 'Robonaut: A Robotic Astronaut Assistant'. International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS) 2001 (consolidated paper); earlier disclosures NASA JSC 1996 onwards.
 - **ip status**: public-domain
 - **prior art notes**: Robonaut 1 is the academic predecessor to Robonaut 2 and the deepest NASA-side disclosure of humanoid platform IP for space applications. Anticipates: (1) torso-only humanoid form factor for collaborative work with humans — relevant to current commercial torso-only humanoid claims; (2) VR teleoperation with force-feedback gloves as the operator interface — relevant to teleoperation IP; (3) tendon-driven anthropomorphic hands integrated with harmonic-drive arms — relevant to integrated-hand-arm claims. NASA JSC publications and i-SAIRAS proceedings are publicly accessible. Modern humanoid hand claims face this 1996 academic anchor.
+
+## Big O (The Big O) (1999-10-13)
+
+- **id**: `big-o-megadeus`
+- **corpus**: fictional
+- **creator**: Kazuyoshi Katayama (director); Keiichi Sato (mech design); Sunrise studio
+- **disclosure**: Katayama, Kazuyoshi (dir.); Sato, Keiichi (mech designer). The Big O. Sunrise / Cartoon Network, October 13, 1999 - January 19, 2000 (season 1, 13 episodes); season 2 2003.
+- **ip status**: fictional
+- **prior art notes**: The Big O introduces the explicit *consent-based humanoid* architecture: the Megadeus chooses to operate with its pilot, can refuse missions, has its own memory and identity. Anticipates: (1) consent-based human-AI partnership in pilot-operated humanoids — relevant to modern claims on autonomous-decision-making humanoid co-pilots; (2) memory-engine architecture with persistent operational history — relevant to fleet-management humanoid IP that maintains long-term episodic memory. Continuously available since 1999; widely cited in mecha-engineering discussions for the unusual cockpit ergonomics (foot-pedal-driven control sticks).
+
+## Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) (2011-10-07)
+
+- **id**: `real-steel-boxers`
+- **corpus**: fictional
+- **creator**: Richard Matheson (1956 short story); Shawn Levy (2011 film direction); John Gatins (screenplay)
+- **disclosure**: Levy, Shawn (dir.); Gatins, John (screenwriter). Real Steel. DreamWorks / Touchstone, October 7, 2011. Story basis: Matheson, Richard. 'Steel'. The Magazine of Fantasy and Science Fiction, May 1956.
+- **ip status**: fictional
+- **prior art notes**: Real Steel (2011) provides specific prior art for: (1) motion-capture shadow control mode wherein a humanoid mirrors the operator's body movements — directly relevant to claims on motion-capture-driven humanoid teleoperation IP (a current commercial focus for several humanoid platforms); (2) voice-activated combat instruction set — relevant to natural-language humanoid command IP; (3) modular damaged-subsystem replacement (Atom is repeatedly repaired with scavenged parts) — relevant to field-replaceable humanoid IP. Matheson's 1956 short story 'Steel' provides the deeper anchor (55-year prior art) for the boxing-humanoid-with-operator-mediated-control concept.
+
+## Jaegers (Pacific Rim) (2013-07-12)
+
+- **id**: `pacific-rim-jaegers`
+- **corpus**: fictional
+- **creator**: Guillermo del Toro, Travis Beacham; Legendary Pictures
+- **disclosure**: del Toro, Guillermo (dir.); Beacham, Travis (writer). Pacific Rim. Legendary Pictures / Warner Bros., July 12, 2013.
+- **ip status**: fictional
+- **prior art notes**: Pacific Rim's *drift* dual-pilot architecture is one of the most engineering-detailed fictional disclosures of multi-operator neural-handshake humanoid control. Anticipates with notable specificity: (1) dual-pilot teleoperation with shared cognitive load — directly relevant to claims on multi-operator humanoid teleoperation IP (a real research direction in surgical robotics and emergency-response robotics); (2) Mark-versioned platform family with explicit version-specific capabilities — relevant to product-family humanoid claims; (3) thermomyoreactive actuation as a fictional artificial-muscle architecture — relevant to artificial-muscle humanoid IP. The 2013 release plus its 2018 sequel and extensive graphic novel + tie-in disclosures provide deep prior art coverage.
 
 ## Toyota T-HR3 (2017-11)
 

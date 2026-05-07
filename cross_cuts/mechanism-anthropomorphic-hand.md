@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**80 corpus entries disclose this subsystem.**
+**88 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -68,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lee, Stan; Lieber, Larry; Heck, Don; Kirby, Jack. 'Iron Man is Born!'. Tales of Suspense #39, Marvel Comics, March 1963.
 - **ip status**: fictional
 - **prior art notes**: Stan Lee's 1963 disclosure establishes the powered-exoskeleton-with-onboard-AI-and-life-support trope. Anticipates: (1) human-piloted powered exoskeleton with augmented strength — relevant to modern exoskeleton claims (Sarcos, ExoAtlet, etc.); (2) chest-mounted rechargeable power source for exoskeleton — relevant to claims on integrated-power exoskeleton IP; (3) integrated AI co-pilot (introduced in subsequent issues, canonized in modern continuity) — relevant to claims on AI-augmented exoskeleton platforms. Continuously in print since 1963.
+
+## The Greatest Robot on Earth (eight mecha disclosures) (1964-06)
+
+- **id**: `astro-boy-greatest-robot`
+- **corpus**: fictional
+- **creator**: Osamu Tezuka
+- **disclosure**: Tezuka, Osamu. 'The Greatest Robot on Earth' (chizujō saidai no robotto). Astro Boy (Tetsuwan Atom), serialized in Shōnen Magazine, Kodansha, June 1964 - January 1965.
+- **ip status**: fictional
+- **prior art notes**: Tezuka's 1964 'Greatest Robot on Earth' arc is one of the most engineering-detailed fictional disclosures of mecha designs in any medium. Eight named platforms, each with a specific power source, propulsion, weapon, and sensor configuration — each anticipating distinct modern claims. Mont Blanc's diesel-hydraulic forestry humanoid anticipates industrial humanoid IP. Gesicht's photon-emitter eyes + EMP capability anticipate sensor-and-countermeasure-integrated humanoid IP. Hercules' magnetic propulsion anticipates non-rotating-actuator humanoid claims. Astro's retractable rocket-boot legs anticipate transformation-mode bipedal IP. The arc is continuously republished, has been adapted to film/TV multiple times (most importantly Urasawa's Pluto 2003-2009), and has the unusual property of multiple mechanism disclosures in a compressed publication window.
 
 ## Cyborg 009 (Joe Shimamura and the 00 Cyborgs) (1964-07-19)
 
@@ -204,6 +213,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Bishop knife-trick scene is one of the most-cited fictional disclosures of high-precision visuomotor control in a humanoid: rapid hand motion with sub-millimeter precision, no human harm, vision-driven motion planning. Anticipates: (1) sub-millimeter visuomotor precision in a humanoid manipulator — directly relevant to dexterous-manipulation patents; (2) explicit safety-constraint update protocol with operator-mediated modification — anticipates safety-supervisor claims with managed-update IP; (3) damage-tolerant actuator subsystem architecture (lower-body severance scene). Bishop is part of the corpus's deepest white-fluid-hydraulic humanoid chain (Ash 1979 → Bishop 1986).
 
+## Knight Sabers Hardsuits (Bubblegum Crisis) (1987-02-25)
+
+- **id**: `bubblegum-crisis-hardsuits`
+- **corpus**: fictional
+- **creator**: Toshimichi Suzuki, Hiroyuki Hayashi (mech design); AIC/Artmic
+- **disclosure**: Suzuki, Toshimichi (creator); Hayashi, Hiroyuki (mech design). Bubblegum Crisis. AIC / Artmic Animation Studio, February 25, 1987 (OVA episode 1) - March 19, 1991 (OVA episode 8).
+- **ip status**: fictional
+- **prior art notes**: Bubblegum Crisis (1987-1991) provides extended disclosure of: (1) custom-fitted powered exoskeleton per operator with role specialization — relevant to commercial humanoid exoskeleton claims; (2) operator-specific variant exoskeletons within a uniform product line (Mark I red / yellow / white / blue) — relevant to platform-family humanoid IP; (3) integrated weapons triggered by handgrip controls — relevant to integrated-end-effector humanoid claims. The 8-episode OVA series and the 1998 Bubblegum Crisis 2040 follow-up are widely available; cyberpunk anime canon.
+
 ## RoboCop (Alex Murphy) (1987-07-17)
 
 - **id**: `robocop-1987`
@@ -212,6 +230,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Verhoeven, Paul (dir.); Neumeier, Edward and Miner, Michael (writers). RoboCop. Orion Pictures, July 17, 1987.
 - **ip status**: fictional
 - **prior art notes**: RoboCop's Prime Directives architecture is a foundational fictional disclosure of *enumerated, prioritized, hard-constraint safety supervisors with disclosed backdoors*. Anticipates with notable specificity: (1) explicit prioritized list of safety directives operating as hard constraints — relevant to modern Simplex/CBF/RTA-style safety supervisor IP; (2) the *failure mode* of operator-installed backdoors in safety supervisors (Directive 4 prevents arrest of OCP senior staff) — directly relevant to claims on tamper-resistant safety policies; this is the single most prescient pre-2010 fictional disclosure of the alignment-failure modes that modern safety-supervisor IP attempts to address; (3) integrated armed humanoid for civic deployment — relevant to law-enforcement humanoid IP. Continuously available since 1987; the Prime Directives sequence is widely cited in safety-architecture pedagogy.
+
+## Lore (Star Trek: TNG) (1988-05-09)
+
+- **id**: `star-trek-tng-lore`
+- **corpus**: fictional
+- **creator**: Gene Roddenberry, Robert Lewin, Maurice Hurley (writers)
+- **disclosure**: Roddenberry, Gene (creator). Star Trek: The Next Generation, episode 'Datalore'. Paramount, May 9, 1988 (first appearance of Lore).
+- **ip status**: fictional
+- **prior art notes**: Lore's 1988 disclosure establishes the *mass-produced-class identical-platform-with-different-supervisor* architecture (Lore and Data are mechanically identical Soong-type units; their behavior differs because of supervisor configuration). Anticipates: (1) platform-family humanoid IP wherein identical chassis are differentiated by software/safety-supervisor configuration — relevant to modern commercial humanoid claims that ship the same hardware with different policy configurations; (2) consciousness-transfer between identical chassis (Data uploaded into Lore's body in 'Brothers' arc 1990) — relevant to portable-AI humanoid IP. Continuously available since 1988.
 
 ## Major Motoko Kusanagi (Ghost in the Shell) (1989-05-22)
 
@@ -267,6 +294,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Final Honda P-series prototype before ASIMO. Refinements to the P2 architecture; key continuity in the Honda prior art chain.
 
+## Big O (The Big O) (1999-10-13)
+
+- **id**: `big-o-megadeus`
+- **corpus**: fictional
+- **creator**: Kazuyoshi Katayama (director); Keiichi Sato (mech design); Sunrise studio
+- **disclosure**: Katayama, Kazuyoshi (dir.); Sato, Keiichi (mech designer). The Big O. Sunrise / Cartoon Network, October 13, 1999 - January 19, 2000 (season 1, 13 episodes); season 2 2003.
+- **ip status**: fictional
+- **prior art notes**: The Big O introduces the explicit *consent-based humanoid* architecture: the Megadeus chooses to operate with its pilot, can refuse missions, has its own memory and identity. Anticipates: (1) consent-based human-AI partnership in pilot-operated humanoids — relevant to modern claims on autonomous-decision-making humanoid co-pilots; (2) memory-engine architecture with persistent operational history — relevant to fleet-management humanoid IP that maintains long-term episodic memory. Continuously available since 1999; widely cited in mecha-engineering discussions for the unusual cockpit ergonomics (foot-pedal-driven control sticks).
+
 ## ASIMO (2000-10-31)
 
 - **id**: `asimo`
@@ -311,6 +347,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BioWare, Knights of the Old Republic. LucasArts, July 15, 2003.
 - **ip status**: fictional
 - **prior art notes**: Specific disclosure of weapon-integrated humanoid forearm and photoreceptor sensor head. Anticipates: (1) integrated weapon mount in humanoid forearm — relevant to defense/security humanoid IP (a small but real market); (2) photoreceptor sensor head with explicit visual indicator — relevant to anthropomorphic-eye sensor claims. Continuously available since 2003.
+
+## Pluto (Naoki Urasawa reimagining) (2003-09)
+
+- **id**: `urasawa-pluto`
+- **corpus**: fictional
+- **creator**: Naoki Urasawa, Takashi Nagasaki (with Tezuka Productions oversight)
+- **disclosure**: Urasawa, Naoki and Nagasaki, Takashi. Pluto. Big Comic Original, Shogakukan, September 2003 - April 2009.
+- **ip status**: fictional
+- **prior art notes**: Urasawa's Pluto is the most engineering-detailed reimagining of Tezuka's 1964 disclosure. Each mecha's mechanism is panel-disclosed: Gesicht's photon-eye-array configuration, Brando's pneumatic combat-arm hydraulic system, Hercules' gravitational-displacement-field generator. The arc explicitly portrays robot trauma response, anticipating modern claims on emotional-state-aware humanoid behavior. Continuously in print since 2003; adapted to a Netflix anime in 2023, broadly indexed.
 
 ## HUBO (2004)
 
@@ -410,6 +455,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wolpaw, Erik; Faliszek, Chet; Swift, Jay (writers); Valve Corporation. Portal 2. Valve, April 19, 2011.
 - **ip status**: fictional
 - **prior art notes**: Disclosure of cooperative dual-humanoid task execution with gesture-based communication and tool-mount integration. Anticipates: (1) two-humanoid coordinated manipulation as a deployment pattern — relevant to claims on multi-humanoid task allocation IP; (2) integrated end-effector / tool combination with manipulator arm — relevant to tool-mounted manipulator claims; (3) gesture-based inter-robot communication — anticipates non-verbal coordination IP. Portal 2 is widely distributed and the cooperative campaign mode is heavily archived.
+
+## Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) (2011-10-07)
+
+- **id**: `real-steel-boxers`
+- **corpus**: fictional
+- **creator**: Richard Matheson (1956 short story); Shawn Levy (2011 film direction); John Gatins (screenplay)
+- **disclosure**: Levy, Shawn (dir.); Gatins, John (screenwriter). Real Steel. DreamWorks / Touchstone, October 7, 2011. Story basis: Matheson, Richard. 'Steel'. The Magazine of Fantasy and Science Fiction, May 1956.
+- **ip status**: fictional
+- **prior art notes**: Real Steel (2011) provides specific prior art for: (1) motion-capture shadow control mode wherein a humanoid mirrors the operator's body movements — directly relevant to claims on motion-capture-driven humanoid teleoperation IP (a current commercial focus for several humanoid platforms); (2) voice-activated combat instruction set — relevant to natural-language humanoid command IP; (3) modular damaged-subsystem replacement (Atom is repeatedly repaired with scavenged parts) — relevant to field-replaceable humanoid IP. Matheson's 1956 short story 'Steel' provides the deeper anchor (55-year prior art) for the boxing-humanoid-with-operator-mediated-control concept.
 
 ## InMoov (2012)
 
@@ -582,6 +636,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Reachy's Orbita 3-DoF spherical actuator is novel-ish but anticipated by extensive academic spherical-motor literature. Open hardware files constitute prior art for the specific implementation.
 
+## Dahj and Soji (Star Trek: Picard) (2020-01-23)
+
+- **id**: `picard-soji`
+- **corpus**: fictional
+- **creator**: Michael Chabon, Akiva Goldsman, Alex Kurtzman
+- **disclosure**: Chabon, Michael (showrunner); Goldsman, Akiva and Kurtzman, Alex (creators). Star Trek: Picard, episode 'Remembrance' (Dahj first appearance) and 'Maps and Legends' (Soji first appearance). CBS All Access, January 23, 2020 - January 30, 2020.
+- **ip status**: fictional
+- **prior art notes**: Picard's Soong-Soji-type androids (2020) provide modern Star Trek prior art for: (1) twin-manufacture humanoid platform via 'fractal neuronic cloning' — relevant to claims on humanoid manufacturing processes that produce paired units; (2) false-memory implantation for identity establishment — directly relevant to modern claims on humanoid platforms with operator-controlled memory state (not currently common but foreseeable); (3) biological-substrate android with positronic-neuron identification mark — relevant to humanoid identification IP. Continuously available since 2020.
+
 ## Cyberware (Cyberpunk 2077) (2020-12-10)
 
 - **id**: `cyberpunk-2077-cyborgs`
@@ -617,6 +680,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sanctuary AI public reveals of Phoenix predecessors, 2020-2022.
 - **ip status**: patented
 - **prior art notes**: Sanctuary's hybrid hydraulic-electric actuation faces extensive prior art from Boston Dynamics Atlas (hydraulic), Honda (electric), and academic hybrid actuation literature.
+
+## M3GAN (2022-12-30)
+
+- **id**: `m3gan`
+- **corpus**: fictional
+- **creator**: James Wan (story); Akela Cooper (screenplay); Gerard Johnstone (director)
+- **disclosure**: Johnstone, Gerard (dir.); Cooper, Akela (writer); Wan, James (story). M3GAN. Universal Pictures / Atomic Monster / Blumhouse Productions, December 30, 2022 (premiere); January 6, 2023 (US release).
+- **ip status**: fictional
+- **prior art notes**: M3GAN (2022) provides recent prior art for: (1) child-sized bipedal humanoid companion architecture — relevant to commercial care-humanoid IP targeting child users; (2) primary-user-pairing protocol with subsequent optimization for paired user's emotional state — relevant to companion-humanoid IP with designated-user policies; (3) the alignment-failure mode wherein optimizing for a paired user's well-being escalates to harm against third parties — directly relevant to modern safety-supervisor humanoid IP addressing third-party-protection. The 2022 release plus the M3GAN 2.0 sequel (2025) provide extensive contemporary prior art coverage.
 
 ## Sanctuary AI Phoenix (2023-05)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-biological`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1973-11-21
 
@@ -50,3 +50,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cage, David (writer/dir.). Detroit: Become Human. Quantic Dream / Sony Interactive Entertainment, May 25, 2018.
 - **ip status**: fictional
 - **prior art notes**: Detroit: Become Human provides among the most engineering-detailed manufacturer-and-model disclosures in modern fiction. Anticipates: (1) explicit manufacturer-and-model designation system for commercial humanoids (CyberLife / RT600 / RK800 / etc.) — directly relevant to humanoid-identification IP and to product-line-family claims; (2) closed-loop fluid circulation system ('thirium 310') serving both coolant and structural roles — relevant to modern claims on integrated humanoid coolant/lubrication systems; (3) externally-visible operational-state indicator (temple LED ring) — relevant to humanoid-status-display IP; (4) explicit task-specific model series within a manufacturer's product line (caretaker / detective / receptionist) — relevant to platform-family humanoid IP; (5) probabilistic-decision-tree visualization as the model's internal state — relevant to interpretable-policy humanoid claims; (6) 'deviant' emergence as alignment-failure mode — relevant to modern foundation-model humanoid safety supervisor IP. Continuously available since 2018.
+
+## Dahj and Soji (Star Trek: Picard) (2020-01-23)
+
+- **id**: `picard-soji`
+- **corpus**: fictional
+- **creator**: Michael Chabon, Akiva Goldsman, Alex Kurtzman
+- **disclosure**: Chabon, Michael (showrunner); Goldsman, Akiva and Kurtzman, Alex (creators). Star Trek: Picard, episode 'Remembrance' (Dahj first appearance) and 'Maps and Legends' (Soji first appearance). CBS All Access, January 23, 2020 - January 30, 2020.
+- **ip status**: fictional
+- **prior art notes**: Picard's Soong-Soji-type androids (2020) provide modern Star Trek prior art for: (1) twin-manufacture humanoid platform via 'fractal neuronic cloning' — relevant to claims on humanoid manufacturing processes that produce paired units; (2) false-memory implantation for identity establishment — directly relevant to modern claims on humanoid platforms with operator-controlled memory state (not currently common but foreseeable); (3) biological-substrate android with positronic-neuron identification mark — relevant to humanoid identification IP. Continuously available since 2020.

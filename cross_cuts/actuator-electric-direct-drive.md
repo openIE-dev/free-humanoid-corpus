@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-direct-drive`
 
-**59 corpus entries disclose this subsystem.**
+**64 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -51,6 +51,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: 8 Man predates Cyborg 009 (1964) by one year and is the earliest detailed Japanese cyborg manga disclosure. Anticipates: (1) consumable-energy-capsule architecture for burst high-power humanoid operation — relevant to hot-swap battery claims on commercial humanoids; (2) brain-transfer continuity-of-consciousness as the cyborg's control architecture — relevant to claims on operator-uploaded humanoid IP (a small but real research direction); (3) multi-form transformation for context-specific deployment — relevant to morphology-changing humanoid claims. Continuously available since 1963.
 
+## The Greatest Robot on Earth (eight mecha disclosures) (1964-06)
+
+- **id**: `astro-boy-greatest-robot`
+- **corpus**: fictional
+- **creator**: Osamu Tezuka
+- **disclosure**: Tezuka, Osamu. 'The Greatest Robot on Earth' (chizujō saidai no robotto). Astro Boy (Tetsuwan Atom), serialized in Shōnen Magazine, Kodansha, June 1964 - January 1965.
+- **ip status**: fictional
+- **prior art notes**: Tezuka's 1964 'Greatest Robot on Earth' arc is one of the most engineering-detailed fictional disclosures of mecha designs in any medium. Eight named platforms, each with a specific power source, propulsion, weapon, and sensor configuration — each anticipating distinct modern claims. Mont Blanc's diesel-hydraulic forestry humanoid anticipates industrial humanoid IP. Gesicht's photon-emitter eyes + EMP capability anticipate sensor-and-countermeasure-integrated humanoid IP. Hercules' magnetic propulsion anticipates non-rotating-actuator humanoid claims. Astro's retractable rocket-boot legs anticipate transformation-mode bipedal IP. The arc is continuously republished, has been adapted to film/TV multiple times (most importantly Urasawa's Pluto 2003-2009), and has the unusual property of multiple mechanism disclosures in a compressed publication window.
+
 ## Cyborg 009 (Joe Shimamura and the 00 Cyborgs) (1964-07-19)
 
 - **id**: `cyborg-009`
@@ -59,6 +68,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ishinomori, Shotaro. Cyborg 009 (サイボーグ009). Weekly Shōnen King, Shōnen Gahosha, July 19, 1964 - 1966 (initial run); subsequently published continuously across multiple magazines through Ishinomori's death in 1998.
 - **ip status**: fictional
 - **prior art notes**: Ishinomori's Cyborg 009 establishes the *modular cybernetic enhancement kit* trope: each unit has the same humanoid base chassis with distinct task-specific augmentations. Anticipates: (1) standardized humanoid chassis with task-specific modular augmentation — directly relevant to modern claims on platform-and-payload humanoid IP (Apptronik's modular Apollo+payload approach has direct lineage here); (2) user-triggered enhancement modes (009's mouth-button super-speed activation) — relevant to claims on operator-controlled performance modes in commercial humanoids; (3) team-composition deployment with specialty roles — relevant to multi-humanoid coordination IP. Continuously in print since 1964.
+
+## Sentinels (X-Men) (1965-10)
+
+- **id**: `sentinels-marvel`
+- **corpus**: fictional
+- **creator**: Stan Lee and Jack Kirby
+- **disclosure**: Lee, Stan and Kirby, Jack. The X-Men #14, 'Among Us Stalk... The Sentinels!'. Marvel Comics, November 1965.
+- **ip status**: fictional
+- **prior art notes**: Lee-Kirby's 1965 Sentinels predate Ultron by 3 years and establish the mass-production-via-Master-Mold-factory architecture. Anticipates: (1) factory-autonomous mass-production of combat humanoids — relevant to modern claims on autonomous humanoid manufacturing IP; (2) online learning between deployments — relevant to fleet-policy-update IP that learns from real-world experience (Tesla Optimus and 1X both have related claims); (3) specific-target-population detection as the targeting policy — relevant to claims on demographic-aware humanoid platforms (a niche but real area). Continuously in print since 1965.
+
+## Frost and Betelgeuse (1966-03)
+
+- **id**: `zelazny-frost-betelgeuse`
+- **corpus**: fictional
+- **creator**: Roger Zelazny
+- **disclosure**: Zelazny, Roger. 'For a Breath I Tarry'. Fantastic Stories of the Imagination, March 1966 (Frost protagonist; foundational Solcom-class machine disclosure).
+- **ip status**: fictional
+- **prior art notes**: Zelazny's 'For a Breath I Tarry' (1966) is one of the earliest detailed disclosures of: (1) AI self-fabrication of a humanoid body with progressive iteration — anticipates modern claims on autonomous humanoid factory + humanoid product line IP; (2) value-acquisition learning by AI through aesthetic / cultural exposure — anticipates modern claims on culturally-conditioned humanoid policies. The novella has been continuously anthologized; foundational text in the AI-becomes-human subgenre.
 
 ## Casshan / Casshern (Neo-Human Casshan) (1973-10-02)
 
@@ -203,6 +230,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BioWare, Knights of the Old Republic. LucasArts, July 15, 2003.
 - **ip status**: fictional
 - **prior art notes**: Specific disclosure of weapon-integrated humanoid forearm and photoreceptor sensor head. Anticipates: (1) integrated weapon mount in humanoid forearm — relevant to defense/security humanoid IP (a small but real market); (2) photoreceptor sensor head with explicit visual indicator — relevant to anthropomorphic-eye sensor claims. Continuously available since 2003.
+
+## Pluto (Naoki Urasawa reimagining) (2003-09)
+
+- **id**: `urasawa-pluto`
+- **corpus**: fictional
+- **creator**: Naoki Urasawa, Takashi Nagasaki (with Tezuka Productions oversight)
+- **disclosure**: Urasawa, Naoki and Nagasaki, Takashi. Pluto. Big Comic Original, Shogakukan, September 2003 - April 2009.
+- **ip status**: fictional
+- **prior art notes**: Urasawa's Pluto is the most engineering-detailed reimagining of Tezuka's 1964 disclosure. Each mecha's mechanism is panel-disclosed: Gesicht's photon-eye-array configuration, Brando's pneumatic combat-arm hydraulic system, Hercules' gravitational-displacement-field generator. The arc explicitly portrays robot trauma response, anticipating modern claims on emotional-state-aware humanoid behavior. Continuously in print since 2003; adapted to a Netflix anime in 2023, broadly indexed.
 
 ## NAO (2006)
 
@@ -446,6 +482,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sanctuary AI public reveals of Phoenix predecessors, 2020-2022.
 - **ip status**: patented
 - **prior art notes**: Sanctuary's hybrid hydraulic-electric actuation faces extensive prior art from Boston Dynamics Atlas (hydraulic), Honda (electric), and academic hybrid actuation literature.
+
+## M3GAN (2022-12-30)
+
+- **id**: `m3gan`
+- **corpus**: fictional
+- **creator**: James Wan (story); Akela Cooper (screenplay); Gerard Johnstone (director)
+- **disclosure**: Johnstone, Gerard (dir.); Cooper, Akela (writer); Wan, James (story). M3GAN. Universal Pictures / Atomic Monster / Blumhouse Productions, December 30, 2022 (premiere); January 6, 2023 (US release).
+- **ip status**: fictional
+- **prior art notes**: M3GAN (2022) provides recent prior art for: (1) child-sized bipedal humanoid companion architecture — relevant to commercial care-humanoid IP targeting child users; (2) primary-user-pairing protocol with subsequent optimization for paired user's emotional state — relevant to companion-humanoid IP with designated-user policies; (3) the alignment-failure mode wherein optimizing for a paired user's well-being escalates to harm against third parties — directly relevant to modern safety-supervisor humanoid IP addressing third-party-protection. The 2022 release plus the M3GAN 2.0 sequel (2025) provide extensive contemporary prior art coverage.
 
 ## Sanctuary AI Phoenix (2023-05)
 

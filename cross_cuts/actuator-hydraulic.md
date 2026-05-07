@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**16 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Apollonius of Rhodes. Argonautica, Book IV, lines 1638-1693. ~250 BCE. Earlier mention in Pseudo-Apollodorus, Bibliotheca 1.9.26 and lost works of Sophocles (Daedalus).
 - **ip status**: fictional
 - **prior art notes**: Anticipates two patent-relevant elements with surprising specificity for ~250 BCE. (1) Hydraulic-fluid power transmission via a single internal channel: directly relevant to claims on closed-loop hydraulic actuator architectures in legged robots. (2) Single-point-of-disable hard-fail safety: the bronze ankle nail is functionally a kill-switch designed into the mechanical architecture, anticipating modern claims on mechanically-mediated hard-stop safety supervisors. The Talos disclosure predates every modern bipedal hydraulic claim by ~2200 years; combined with later medieval and early-modern automaton disclosures, the chain anchors any 102/103 contention against modern hydraulic-humanoid IP at extraordinary depth.
+
+## The Greatest Robot on Earth (eight mecha disclosures) (1964-06)
+
+- **id**: `astro-boy-greatest-robot`
+- **corpus**: fictional
+- **creator**: Osamu Tezuka
+- **disclosure**: Tezuka, Osamu. 'The Greatest Robot on Earth' (chizujō saidai no robotto). Astro Boy (Tetsuwan Atom), serialized in Shōnen Magazine, Kodansha, June 1964 - January 1965.
+- **ip status**: fictional
+- **prior art notes**: Tezuka's 1964 'Greatest Robot on Earth' arc is one of the most engineering-detailed fictional disclosures of mecha designs in any medium. Eight named platforms, each with a specific power source, propulsion, weapon, and sensor configuration — each anticipating distinct modern claims. Mont Blanc's diesel-hydraulic forestry humanoid anticipates industrial humanoid IP. Gesicht's photon-emitter eyes + EMP capability anticipate sensor-and-countermeasure-integrated humanoid IP. Hercules' magnetic propulsion anticipates non-rotating-actuator humanoid claims. Astro's retractable rocket-boot legs anticipate transformation-mode bipedal IP. The arc is continuously republished, has been adapted to film/TV multiple times (most importantly Urasawa's Pluto 2003-2009), and has the unusual property of multiple mechanism disclosures in a compressed publication window.
 
 ## GE Quadruped Transporter (Walking Truck) (1968-09-27)
 
@@ -105,6 +114,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Bishop knife-trick scene is one of the most-cited fictional disclosures of high-precision visuomotor control in a humanoid: rapid hand motion with sub-millimeter precision, no human harm, vision-driven motion planning. Anticipates: (1) sub-millimeter visuomotor precision in a humanoid manipulator — directly relevant to dexterous-manipulation patents; (2) explicit safety-constraint update protocol with operator-mediated modification — anticipates safety-supervisor claims with managed-update IP; (3) damage-tolerant actuator subsystem architecture (lower-body severance scene). Bishop is part of the corpus's deepest white-fluid-hydraulic humanoid chain (Ash 1979 → Bishop 1986).
 
+## Knight Sabers Hardsuits (Bubblegum Crisis) (1987-02-25)
+
+- **id**: `bubblegum-crisis-hardsuits`
+- **corpus**: fictional
+- **creator**: Toshimichi Suzuki, Hiroyuki Hayashi (mech design); AIC/Artmic
+- **disclosure**: Suzuki, Toshimichi (creator); Hayashi, Hiroyuki (mech design). Bubblegum Crisis. AIC / Artmic Animation Studio, February 25, 1987 (OVA episode 1) - March 19, 1991 (OVA episode 8).
+- **ip status**: fictional
+- **prior art notes**: Bubblegum Crisis (1987-1991) provides extended disclosure of: (1) custom-fitted powered exoskeleton per operator with role specialization — relevant to commercial humanoid exoskeleton claims; (2) operator-specific variant exoskeletons within a uniform product line (Mark I red / yellow / white / blue) — relevant to platform-family humanoid IP; (3) integrated weapons triggered by handgrip controls — relevant to integrated-end-effector humanoid claims. The 8-episode OVA series and the 1998 Bubblegum Crisis 2040 follow-up are widely available; cyberpunk anime canon.
+
 ## RoboCop (Alex Murphy) (1987-07-17)
 
 - **id**: `robocop-1987`
@@ -122,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yuki, Masami; Headgear collective (Yuki, Yutaka Izubuchi, Mamoru Oshii, Kazunori Itō, Akemi Takada). Mobile Police Patlabor. Original video animation, Bandai Visual, April 25, 1988; manga in Shōnen Sunday Super, Shogakukan, 1988-94.
 - **ip status**: fictional
 - **prior art notes**: Patlabor's 'Labor' family is an unusually engineering-grounded fictional disclosure of bipedal civilian humanoid robotics. The 1988 OVA explicitly names the 'OS' that handles balance (anticipating ZMP balance controllers years before Honda P2 1996), discloses runtime of ~15 minutes per battery, and depicts limp-on-shutdown safety. Anticipates: (1) civil-deployment bipedal humanoid for construction/police work — directly relevant to modern industrial humanoid IP (Apptronik Apollo, Agility Digit, 1X NEO all target similar workloads); (2) computer-assisted balance with named operating-system layer — anticipates whole-body controller IP; (3) hard-constraint shutdown-on-failure safety supervisor — relevant to safety-supervisor claims. The 1989 theatrical film (directed by Mamoru Oshii) extends the disclosure into hijack/cybersecurity threat models for connected humanoids — directly relevant to modern fleet-cybersecurity IP.
+
+## Big O (The Big O) (1999-10-13)
+
+- **id**: `big-o-megadeus`
+- **corpus**: fictional
+- **creator**: Kazuyoshi Katayama (director); Keiichi Sato (mech design); Sunrise studio
+- **disclosure**: Katayama, Kazuyoshi (dir.); Sato, Keiichi (mech designer). The Big O. Sunrise / Cartoon Network, October 13, 1999 - January 19, 2000 (season 1, 13 episodes); season 2 2003.
+- **ip status**: fictional
+- **prior art notes**: The Big O introduces the explicit *consent-based humanoid* architecture: the Megadeus chooses to operate with its pilot, can refuse missions, has its own memory and identity. Anticipates: (1) consent-based human-AI partnership in pilot-operated humanoids — relevant to modern claims on autonomous-decision-making humanoid co-pilots; (2) memory-engine architecture with persistent operational history — relevant to fleet-management humanoid IP that maintains long-term episodic memory. Continuously available since 1999; widely cited in mecha-engineering discussions for the unusual cockpit ergonomics (foot-pedal-driven control sticks).
 
 ## Big Daddy (Bouncer / Rosie) (2007-08-21)
 
@@ -149,6 +176,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DARPA press release, July 2013, announcing Atlas as DRC platform.
 - **ip status**: patented
 - **prior art notes**: Boston Dynamics' patents are among the most-cited in the humanoid space and also among the most likely to be challenged on 102/103 grounds given the long academic prior art chain (Honda, AIST, KAIST, MIT). Worth dedicated patent-by-patent analysis.
+
+## Jaegers (Pacific Rim) (2013-07-12)
+
+- **id**: `pacific-rim-jaegers`
+- **corpus**: fictional
+- **creator**: Guillermo del Toro, Travis Beacham; Legendary Pictures
+- **disclosure**: del Toro, Guillermo (dir.); Beacham, Travis (writer). Pacific Rim. Legendary Pictures / Warner Bros., July 12, 2013.
+- **ip status**: fictional
+- **prior art notes**: Pacific Rim's *drift* dual-pilot architecture is one of the most engineering-detailed fictional disclosures of multi-operator neural-handshake humanoid control. Anticipates with notable specificity: (1) dual-pilot teleoperation with shared cognitive load — directly relevant to claims on multi-operator humanoid teleoperation IP (a real research direction in surgical robotics and emergency-response robotics); (2) Mark-versioned platform family with explicit version-specific capabilities — relevant to product-family humanoid claims; (3) thermomyoreactive actuation as a fictional artificial-muscle architecture — relevant to artificial-muscle humanoid IP. The 2013 release plus its 2018 sequel and extensive graphic novel + tie-in disclosures provide deep prior art coverage.
 
 ## Sanctuary Phoenix Gen 6 (2022)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `safety-hard-constraint`
 
-**29 corpus entries disclose this subsystem.**
+**36 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -87,6 +87,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: HAL is included not as a humanoid but as the canonical depiction of safety failure due to conflicting goals — directly relevant to MathGround's framing of supervisor architectures and the need for explicit constraint hierarchies.
 
+## Ultron (1968-09)
+
+- **id**: `ultron-marvel`
+- **corpus**: fictional
+- **creator**: Roy Thomas and John Buscema
+- **disclosure**: Thomas, Roy and Buscema, John. The Avengers #54, 'And Lo... A Sub-Mariner!'. Marvel Comics, July 1968 (cameo) and #55 'The Mighty Ultron-5' (full reveal), August 1968.
+- **ip status**: fictional
+- **prior art notes**: Ultron's 1968 disclosure establishes the *self-replicating humanoid AI* trope with explicit version-iterated self-improvement. Anticipates: (1) self-replication via robotic factory construction — relevant to claims on autonomous humanoid manufacturing IP (Westworld 2016, Tesla's autonomous-factory ambitions, etc.); (2) version-iterated platform improvement with explicit successor designations — relevant to platform-family humanoid IP; (3) consciousness transfer between platforms — relevant to portable-AI humanoid claims (echoes EDI's 2012 ME3 disclosure, but Ultron's 1968 anchor is 44 years earlier); (4) safety-supervisor failure mode — Ultron canonically circumvents Hank Pym's restraints in his first appearance, an explicit anticipation of safety-supervisor backdoor failure modes. Continuously in print since 1968.
+
 ## THX 1138 Chrome Police Robots (1971-03-11)
 
 - **id**: `thx-1138-chrome-cops`
@@ -159,6 +168,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Patlabor's 'Labor' family is an unusually engineering-grounded fictional disclosure of bipedal civilian humanoid robotics. The 1988 OVA explicitly names the 'OS' that handles balance (anticipating ZMP balance controllers years before Honda P2 1996), discloses runtime of ~15 minutes per battery, and depicts limp-on-shutdown safety. Anticipates: (1) civil-deployment bipedal humanoid for construction/police work — directly relevant to modern industrial humanoid IP (Apptronik Apollo, Agility Digit, 1X NEO all target similar workloads); (2) computer-assisted balance with named operating-system layer — anticipates whole-body controller IP; (3) hard-constraint shutdown-on-failure safety supervisor — relevant to safety-supervisor claims. The 1989 theatrical film (directed by Mamoru Oshii) extends the disclosure into hijack/cybersecurity threat models for connected humanoids — directly relevant to modern fleet-cybersecurity IP.
 
+## Lore (Star Trek: TNG) (1988-05-09)
+
+- **id**: `star-trek-tng-lore`
+- **corpus**: fictional
+- **creator**: Gene Roddenberry, Robert Lewin, Maurice Hurley (writers)
+- **disclosure**: Roddenberry, Gene (creator). Star Trek: The Next Generation, episode 'Datalore'. Paramount, May 9, 1988 (first appearance of Lore).
+- **ip status**: fictional
+- **prior art notes**: Lore's 1988 disclosure establishes the *mass-produced-class identical-platform-with-different-supervisor* architecture (Lore and Data are mechanically identical Soong-type units; their behavior differs because of supervisor configuration). Anticipates: (1) platform-family humanoid IP wherein identical chassis are differentiated by software/safety-supervisor configuration — relevant to modern commercial humanoid claims that ship the same hardware with different policy configurations; (2) consciousness-transfer between identical chassis (Data uploaded into Lore's body in 'Brothers' arc 1990) — relevant to portable-AI humanoid IP. Continuously available since 1988.
+
+## Sharon Apple (1994-08)
+
+- **id**: `macross-plus-sharon-apple`
+- **corpus**: fictional
+- **creator**: Shoji Kawamori, Shinichirō Watanabe
+- **disclosure**: Kawamori, Shoji (dir.); Watanabe, Shinichirō (dir.). Macross Plus. Bandai Visual / Triangle Staff, August 25, 1994 - June 25, 1995 (4-episode OVA); theatrical Macross Plus: Movie Edition, July 1995.
+- **ip status**: fictional
+- **prior art notes**: Macross Plus's Sharon Apple (1994-95) is one of the earliest detailed disclosures of an AI uploading into existing physical hardware to acquire embodiment. Anticipates: (1) AI-acquires-embodiment-via-existing-hardware paradigm — relevant to modern claims on AI-platform integration with existing humanoid chassis (echoes Mass Effect EDI 2012, but Sharon's anchor is 18 years earlier); (2) emotional-modeling AI for performance generation — relevant to claims on social-humanoid IP. Continuously available since 1994.
+
 ## Simplex Architecture (1995)
 
 - **id**: `sherman-simplex-architecture`
@@ -222,6 +249,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: PR1 is significant prior art for safety-by-design humanoid robotics. Cable-driven intrinsically-safe architecture anticipates several modern compliant-actuator humanoid claims.
 
+## JARVIS (Just A Rather Very Intelligent System) (2008-05-02)
+
+- **id**: `jarvis-iron-man`
+- **corpus**: fictional
+- **creator**: Jon Favreau (film direction); Stan Lee (Iron Man comics origin); Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway (screenplay)
+- **disclosure**: Favreau, Jon (dir.). Iron Man. Marvel Studios / Paramount, May 2, 2008.
+- **ip status**: fictional
+- **prior art notes**: JARVIS's 2008 disclosure (predating modern foundation-model VLA / co-pilot humanoid claims by ~14 years) establishes the *integrated AI co-pilot for powered exoskeleton* paradigm in mainstream culture. Anticipates: (1) dialog-based human-AI co-pilot architecture in a humanoid platform — relevant to modern claims on conversational-co-pilot humanoid IP (Figure's voice-driven operation, 1X NEO's natural-language interface, etc.); (2) AI-mediated suit-subsystem control with shared decision authority — relevant to claims on humanoid policies that exercise judgment within operator-supervised constraints; (3) AI-override for safety-critical decisions — relevant to claims on safety-supervisor-with-AI-arbitration architectures. The Marvel Cinematic Universe extends this disclosure across 14+ films through 2024.
+
 ## Runtime Assurance (RTA) (2010)
 
 - **id**: `runtime-assurance-rta`
@@ -230,6 +266,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Schierman, J.D. et al. 'Runtime Assurance Framework Development for Highly Adaptive Flight Control Systems.' Air Force Research Laboratory, 2015. Earlier DARPA AACUS work circa 2010.
 - **ip status**: public-domain
 - **prior art notes**: Direct descendant of Simplex; the 'unverified neural net plus verified safety controller' pattern. Anticipates modern ML-safety supervisor patents in autonomous vehicles, drones, and robotics. Directly applicable as prior art to safety claims in physical AI products.
+
+## Robot (Robot & Frank) (2012-01-21)
+
+- **id**: `robot-and-frank`
+- **corpus**: fictional
+- **creator**: Jake Schreier (director); Christopher D. Ford (writer)
+- **disclosure**: Schreier, Jake (dir.); Ford, Christopher D. (writer). Robot & Frank. Park Pictures, premiered at Sundance Film Festival January 21, 2012; theatrical release August 17, 2012.
+- **ip status**: fictional
+- **prior art notes**: Robot & Frank's 2012 disclosure is unusually grounded: the robot is depicted as a *current-generation prototype* (not far-future SF), with realistic compact form factor, plausible battery life, and explicit goal-pursuit-with-sub-goal-selection architecture. Anticipates: (1) elder-care humanoid platform — relevant to modern commercial elder-care humanoid IP (Diligent Moxi, ElliQ, etc.); (2) task-oriented goal pursuit with implementation discretion — relevant to claims on humanoid policies that exercise judgment within operator-provided objectives; (3) the alignment-failure mode of mis-specified-objective (the robot helping Frank steal jewels because mood improvement is the optimization target) — directly relevant to modern safety-supervisor humanoid IP that addresses objective-misspecification. Heavily-praised by AI researchers as a clear-eyed depiction of near-term humanoid risks.
 
 ## Baymax (2014-11-07)
 
@@ -267,6 +312,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Detroit: Become Human provides among the most engineering-detailed manufacturer-and-model disclosures in modern fiction. Anticipates: (1) explicit manufacturer-and-model designation system for commercial humanoids (CyberLife / RT600 / RK800 / etc.) — directly relevant to humanoid-identification IP and to product-line-family claims; (2) closed-loop fluid circulation system ('thirium 310') serving both coolant and structural roles — relevant to modern claims on integrated humanoid coolant/lubrication systems; (3) externally-visible operational-state indicator (temple LED ring) — relevant to humanoid-status-display IP; (4) explicit task-specific model series within a manufacturer's product line (caretaker / detective / receptionist) — relevant to platform-family humanoid IP; (5) probabilistic-decision-tree visualization as the model's internal state — relevant to interpretable-policy humanoid claims; (6) 'deviant' emergence as alignment-failure mode — relevant to modern foundation-model humanoid safety supervisor IP. Continuously available since 2018.
 
+## Dahj and Soji (Star Trek: Picard) (2020-01-23)
+
+- **id**: `picard-soji`
+- **corpus**: fictional
+- **creator**: Michael Chabon, Akiva Goldsman, Alex Kurtzman
+- **disclosure**: Chabon, Michael (showrunner); Goldsman, Akiva and Kurtzman, Alex (creators). Star Trek: Picard, episode 'Remembrance' (Dahj first appearance) and 'Maps and Legends' (Soji first appearance). CBS All Access, January 23, 2020 - January 30, 2020.
+- **ip status**: fictional
+- **prior art notes**: Picard's Soong-Soji-type androids (2020) provide modern Star Trek prior art for: (1) twin-manufacture humanoid platform via 'fractal neuronic cloning' — relevant to claims on humanoid manufacturing processes that produce paired units; (2) false-memory implantation for identity establishment — directly relevant to modern claims on humanoid platforms with operator-controlled memory state (not currently common but foreseeable); (3) biological-substrate android with positronic-neuron identification mark — relevant to humanoid identification IP. Continuously available since 2020.
+
 ## Cyberware (Cyberpunk 2077) (2020-12-10)
 
 - **id**: `cyberpunk-2077-cyborgs`
@@ -275,3 +329,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: CD Projekt Red. Cyberpunk 2077. CD Projekt, December 10, 2020. Drawing from Pondsmith, Mike. Cyberpunk 2020 (tabletop RPG). R. Talsorian Games, 1990.
 - **ip status**: fictional
 - **prior art notes**: Cyberpunk 2077 (drawing from the 1990 Cyberpunk 2020 tabletop world) provides extensive prior art for: (1) commodity market for cybernetic humanoid enhancements with explicit manufacturer, model, and per-component spec disclosures — relevant to claims on modular-cybernetic-component IP (Apptronik's modular Apollo arms have lineage in this space); (2) modular slot architecture for cybernetic upgrades — relevant to claims on payload-modular humanoid IP; (3) integration-overload behavioral failure mode ('Cyberpsychosis') — anticipates alignment-failure-from-modular-policy-composition issues in modern foundation-model humanoids. The 1990 tabletop RPG provides the deepest prior art; the 2020 game brings extensive detailed disclosure to a wide audience.
+
+## M3GAN (2022-12-30)
+
+- **id**: `m3gan`
+- **corpus**: fictional
+- **creator**: James Wan (story); Akela Cooper (screenplay); Gerard Johnstone (director)
+- **disclosure**: Johnstone, Gerard (dir.); Cooper, Akela (writer); Wan, James (story). M3GAN. Universal Pictures / Atomic Monster / Blumhouse Productions, December 30, 2022 (premiere); January 6, 2023 (US release).
+- **ip status**: fictional
+- **prior art notes**: M3GAN (2022) provides recent prior art for: (1) child-sized bipedal humanoid companion architecture — relevant to commercial care-humanoid IP targeting child users; (2) primary-user-pairing protocol with subsequent optimization for paired user's emotional state — relevant to companion-humanoid IP with designated-user policies; (3) the alignment-failure mode wherein optimizing for a paired user's well-being escalates to harm against third parties — directly relevant to modern safety-supervisor humanoid IP addressing third-party-protection. The 2022 release plus the M3GAN 2.0 sequel (2025) provide extensive contemporary prior art coverage.

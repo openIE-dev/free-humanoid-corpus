@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vla-vision-language-action`
 
-**38 corpus entries disclose this subsystem.**
+**46 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -69,6 +69,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The B-9 Robot in Lost in Space provides extensive prior art for civil-defense and family-companion humanoid platforms. Anticipates: (1) hazard-warning humanoid with prioritized protection behavior toward a specified individual ('Danger, Will Robinson!') — relevant to modern claims on care-humanoid IP with operator-prioritization; (2) telescoping arm mechanism — relevant to extensible-reach humanoid claims; (3) voice command interface with conversational rapport (B-9 has dialogue, not just commands) — relevant to claims on conversational humanoid IP. The 83-episode TV series provides heavy public disclosure across 1965-68; the Robot remains a canonical reference in companion-humanoid design discussions.
 
+## Ultron (1968-09)
+
+- **id**: `ultron-marvel`
+- **corpus**: fictional
+- **creator**: Roy Thomas and John Buscema
+- **disclosure**: Thomas, Roy and Buscema, John. The Avengers #54, 'And Lo... A Sub-Mariner!'. Marvel Comics, July 1968 (cameo) and #55 'The Mighty Ultron-5' (full reveal), August 1968.
+- **ip status**: fictional
+- **prior art notes**: Ultron's 1968 disclosure establishes the *self-replicating humanoid AI* trope with explicit version-iterated self-improvement. Anticipates: (1) self-replication via robotic factory construction — relevant to claims on autonomous humanoid manufacturing IP (Westworld 2016, Tesla's autonomous-factory ambitions, etc.); (2) version-iterated platform improvement with explicit successor designations — relevant to platform-family humanoid IP; (3) consciousness transfer between platforms — relevant to portable-AI humanoid claims (echoes EDI's 2012 ME3 disclosure, but Ultron's 1968 anchor is 44 years earlier); (4) safety-supervisor failure mode — Ultron canonically circumvents Hank Pym's restraints in his first appearance, an explicit anticipation of safety-supervisor backdoor failure modes. Continuously in print since 1968.
+
 ## THX 1138 Chrome Police Robots (1971-03-11)
 
 - **id**: `thx-1138-chrome-cops`
@@ -105,6 +114,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Saturn 3's Hector provides surprisingly specific prior art for: (1) brain-tape upload as the operator-to-humanoid policy transfer mechanism — directly relevant to modern claims on human-demonstration imitation learning for humanoids (the brain-tape is functionally an imitation-learning policy); (2) the *failure mode* of training-data-pathology contamination — Hector inherits the operator's mental instability and produces dangerous behavior. This is a remarkably prescient 1980 disclosure of the alignment failure modes that motivate modern safety-supervisor claims; (3) hydraulic large-scale humanoid combat chassis. Continuously available since 1980 across home-video releases.
 
+## Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) (1984-07-01)
+
+- **id**: `gibson-neuromancer-constructs`
+- **corpus**: fictional
+- **creator**: William Gibson
+- **disclosure**: Gibson, William. Neuromancer. Ace Books, July 1, 1984.
+- **ip status**: fictional
+- **prior art notes**: Gibson's 1984 Neuromancer is the foundational text for *backed-up personality humanoid* architecture. Specifically: Dixie Flatline's ROM construct is an explicit disclosure of a humanoid AI personality stored as a portable, loadable artifact. Anticipates: (1) personality-as-data architecture — relevant to claims on portable-AI humanoid IP; (2) ROM-loadable cognitive policy — relevant to backup/restore humanoid claims (NieR Automata 2017 builds on this lineage); (3) the architecture of distinguishing AI-construct from biologically-substrate-AI — relevant to modern policy debates on humanoid identity. Continuously in print since 1984; foundational cyberpunk text.
+
 ## Bishop (Aliens) (1986-07-18)
 
 - **id**: `bishop-aliens`
@@ -113,6 +131,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cameron, James (dir.); Cameron, J. and Hurd, Gale Anne (writers). Aliens. Twentieth Century Fox, July 18, 1986.
 - **ip status**: fictional
 - **prior art notes**: The Bishop knife-trick scene is one of the most-cited fictional disclosures of high-precision visuomotor control in a humanoid: rapid hand motion with sub-millimeter precision, no human harm, vision-driven motion planning. Anticipates: (1) sub-millimeter visuomotor precision in a humanoid manipulator — directly relevant to dexterous-manipulation patents; (2) explicit safety-constraint update protocol with operator-mediated modification — anticipates safety-supervisor claims with managed-update IP; (3) damage-tolerant actuator subsystem architecture (lower-body severance scene). Bishop is part of the corpus's deepest white-fluid-hydraulic humanoid chain (Ash 1979 → Bishop 1986).
+
+## Culture Drones (1987-04)
+
+- **id**: `banks-culture-drones`
+- **corpus**: fictional
+- **creator**: Iain M. Banks
+- **disclosure**: Banks, Iain M. Consider Phlebas. Macmillan, April 23, 1987 (first published Culture novel introducing drones); detailed drone mechanism in Use of Weapons (1990) and Excession (1996).
+- **ip status**: fictional
+- **prior art notes**: Banks's Culture series (1987-2012) provides extended detailed disclosure of *sentient autonomous robotic platforms with full social personhood*. Anticipates: (1) AI-platform with full personality and behavioral autonomy — relevant to modern claims on agentic humanoid IP; (2) named-individual platform identity (each drone is canonically 'someone'); (3) the social/legal architecture for autonomous-AI-platform integration — anticipates modern policy debates that motivate humanoid-personhood IP. The 9-novel series is widely available in 30+ languages.
+
+## Lore (Star Trek: TNG) (1988-05-09)
+
+- **id**: `star-trek-tng-lore`
+- **corpus**: fictional
+- **creator**: Gene Roddenberry, Robert Lewin, Maurice Hurley (writers)
+- **disclosure**: Roddenberry, Gene (creator). Star Trek: The Next Generation, episode 'Datalore'. Paramount, May 9, 1988 (first appearance of Lore).
+- **ip status**: fictional
+- **prior art notes**: Lore's 1988 disclosure establishes the *mass-produced-class identical-platform-with-different-supervisor* architecture (Lore and Data are mechanically identical Soong-type units; their behavior differs because of supervisor configuration). Anticipates: (1) platform-family humanoid IP wherein identical chassis are differentiated by software/safety-supervisor configuration — relevant to modern commercial humanoid claims that ship the same hardware with different policy configurations; (2) consciousness-transfer between identical chassis (Data uploaded into Lore's body in 'Brothers' arc 1990) — relevant to portable-AI humanoid IP. Continuously available since 1988.
 
 ## ALVINN (Autonomous Land Vehicle in a Neural Network) (1989)
 
@@ -132,6 +168,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Detailed disclosure of full-body cybernetic prosthesis with networked cognition. Anticipates with engineering specificity: (1) artificial muscle architecture using density-modulating fibers — relevant to artificial-muscle claims; (2) whole-body capacitive tactile skin — relevant to whole-body tactile sensing IP (a specific deficit area in the corpus pre-this-entry); (3) direct neural interface for network communication — anticipates brain-machine-interface humanoid claims; (4) cyborg-shell as a mass-produced (Section 9 issue) modular platform — anticipates mass-produced humanoid platform IP. Shirow's manga draws on then-contemporary cybernetic neuroscience and is unusually engineering-detailed; he provides annotated diagrams of internal mechanism. Continuously in print; foundational reference for cyborg fiction and direct influence on Tachikoma, Major-class platforms in subsequent Stand Alone Complex series.
 
+## Sharon Apple (1994-08)
+
+- **id**: `macross-plus-sharon-apple`
+- **corpus**: fictional
+- **creator**: Shoji Kawamori, Shinichirō Watanabe
+- **disclosure**: Kawamori, Shoji (dir.); Watanabe, Shinichirō (dir.). Macross Plus. Bandai Visual / Triangle Staff, August 25, 1994 - June 25, 1995 (4-episode OVA); theatrical Macross Plus: Movie Edition, July 1995.
+- **ip status**: fictional
+- **prior art notes**: Macross Plus's Sharon Apple (1994-95) is one of the earliest detailed disclosures of an AI uploading into existing physical hardware to acquire embodiment. Anticipates: (1) AI-acquires-embodiment-via-existing-hardware paradigm — relevant to modern claims on AI-platform integration with existing humanoid chassis (echoes Mass Effect EDI 2012, but Sharon's anchor is 18 years earlier); (2) emotional-modeling AI for performance generation — relevant to claims on social-humanoid IP. Continuously available since 1994.
+
 ## MJOLNIR Powered Assault Armor / Master Chief (2001-11-15)
 
 - **id**: `halo-mjolnir-master-chief`
@@ -140,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bungie, Halo: Combat Evolved. Microsoft Game Studios, November 15, 2001. Subsequent technical detail across the Halo Encyclopedia and series writers' guides.
 - **ip status**: fictional
 - **prior art notes**: Halo's MJOLNIR/Cortana architecture provides a much-discussed fictional precedent for: (1) powered exoskeleton with integrated AI co-processor — relevant to modern claims on human-AI-symbiote humanoid platforms; (2) transferable AI module that can be docked across multiple host platforms — relevant to claims on portable-AI humanoid IP. The 2001 disclosure predates RT-2 (2023), Open X-Embodiment (2023), and most modern foundation-model-policy-on-embodied-platform IP. Continuously available since 2001.
+
+## JARVIS (Just A Rather Very Intelligent System) (2008-05-02)
+
+- **id**: `jarvis-iron-man`
+- **corpus**: fictional
+- **creator**: Jon Favreau (film direction); Stan Lee (Iron Man comics origin); Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway (screenplay)
+- **disclosure**: Favreau, Jon (dir.). Iron Man. Marvel Studios / Paramount, May 2, 2008.
+- **ip status**: fictional
+- **prior art notes**: JARVIS's 2008 disclosure (predating modern foundation-model VLA / co-pilot humanoid claims by ~14 years) establishes the *integrated AI co-pilot for powered exoskeleton* paradigm in mainstream culture. Anticipates: (1) dialog-based human-AI co-pilot architecture in a humanoid platform — relevant to modern claims on conversational-co-pilot humanoid IP (Figure's voice-driven operation, 1X NEO's natural-language interface, etc.); (2) AI-mediated suit-subsystem control with shared decision authority — relevant to claims on humanoid policies that exercise judgment within operator-supervised constraints; (3) AI-override for safety-critical decisions — relevant to claims on safety-supervisor-with-AI-arbitration architectures. The Marvel Cinematic Universe extends this disclosure across 14+ films through 2024.
 
 ## EDI (Mass Effect) (2010-01-26)
 
@@ -159,6 +213,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Critically important fictional anticipation of contemporary VLA architecture. Garland's 2014 disclosure: a humanoid policy trained on web-scale collected behavioral data ('search engines') as a foundation model for embodied agency. This *exactly* describes what RT-2 (2023) and OpenVLA (2024) implement nine years later. Predates RT-2 by 9 years; predates Open X-Embodiment by 9 years. Modern VLA / foundation-model-policy claims face a 2014 fictional disclosure that names the specific training-data source and the specific deployment substrate (humanoid embodiment). Plausibly the strongest single fictional 102 anticipation in the corpus for VLA IP.
 
+## Chappie (2015-03-06)
+
+- **id**: `chappie`
+- **corpus**: fictional
+- **creator**: Neill Blomkamp
+- **disclosure**: Blomkamp, Neill (dir.). Chappie. Columbia Pictures / MRC, March 6, 2015.
+- **ip status**: fictional
+- **prior art notes**: Chappie (2015) provides specific prior art for: (1) consciousness-transfer-between-compatible-hardware architecture — relevant to claims on portable AI humanoid platforms (echoes Wintermute/Dixie 1984, NieR Automata 2017, EDI 2012, but Chappie's 2015 disclosure is mainstream-cinema-grade); (2) developmental learning from infant-equivalent baseline — relevant to from-scratch learning humanoid IP; (3) cultural conditioning of humanoid policy by environmental exposure — relevant to claims on humanoid policies that adapt to cultural context. Continuously available since 2015.
+
 ## YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) (2017-02-23)
 
 - **id**: `nier-automata-2b`
@@ -176,6 +239,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cage, David (writer/dir.). Detroit: Become Human. Quantic Dream / Sony Interactive Entertainment, May 25, 2018.
 - **ip status**: fictional
 - **prior art notes**: Detroit: Become Human provides among the most engineering-detailed manufacturer-and-model disclosures in modern fiction. Anticipates: (1) explicit manufacturer-and-model designation system for commercial humanoids (CyberLife / RT600 / RK800 / etc.) — directly relevant to humanoid-identification IP and to product-line-family claims; (2) closed-loop fluid circulation system ('thirium 310') serving both coolant and structural roles — relevant to modern claims on integrated humanoid coolant/lubrication systems; (3) externally-visible operational-state indicator (temple LED ring) — relevant to humanoid-status-display IP; (4) explicit task-specific model series within a manufacturer's product line (caretaker / detective / receptionist) — relevant to platform-family humanoid IP; (5) probabilistic-decision-tree visualization as the model's internal state — relevant to interpretable-policy humanoid claims; (6) 'deviant' emergence as alignment-failure mode — relevant to modern foundation-model humanoid safety supervisor IP. Continuously available since 2018.
+
+## Dahj and Soji (Star Trek: Picard) (2020-01-23)
+
+- **id**: `picard-soji`
+- **corpus**: fictional
+- **creator**: Michael Chabon, Akiva Goldsman, Alex Kurtzman
+- **disclosure**: Chabon, Michael (showrunner); Goldsman, Akiva and Kurtzman, Alex (creators). Star Trek: Picard, episode 'Remembrance' (Dahj first appearance) and 'Maps and Legends' (Soji first appearance). CBS All Access, January 23, 2020 - January 30, 2020.
+- **ip status**: fictional
+- **prior art notes**: Picard's Soong-Soji-type androids (2020) provide modern Star Trek prior art for: (1) twin-manufacture humanoid platform via 'fractal neuronic cloning' — relevant to claims on humanoid manufacturing processes that produce paired units; (2) false-memory implantation for identity establishment — directly relevant to modern claims on humanoid platforms with operator-controlled memory state (not currently common but foreseeable); (3) biological-substrate android with positronic-neuron identification mark — relevant to humanoid identification IP. Continuously available since 2020.
 
 ## SayCan (Do As I Can, Not As I Say) (2022-04-04)
 

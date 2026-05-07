@@ -1,6 +1,6 @@
 # Corpus Index
 
-211 entries total. Generated from corpus.jsonl.
+230 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -29,21 +29,25 @@
 | Baymax | `baymax-big-hero-6` | 2014 | fictional | fictional |  |
 | Berkeley Humanoid | `berkeley-humanoid` | 2024 | academic | open-permissive |  |
 | Big Daddy (Bouncer / Rosie) | `bioshock-big-daddy` | 2007 | fictional | fictional |  |
+| Big O (The Big O) | `big-o-megadeus` | 1999 | fictional | fictional |  |
 | BioTac | `biotac-syntouch` | 2008 | academic | patented |  |
 | Bishop (Aliens) | `bishop-aliens` | 1986 | fictional | fictional |  |
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
 | Boston Dynamics Spot (fuel-cell variant) | `spot-fuel-cell` | 2020 | private | patented | ✓ |
 | Casshan / Casshern (Neo-Human Casshan) | `casshan-tatsunoko` | 1973 | fictional | fictional | ✓ |
 | Cassie | `cassie-osu` | 2017 | academic | patented |  |
+| Chappie | `chappie` | 2015 | fictional | fictional |  |
 | Cheetah-cub | `cheetah-cub-epfl` | 2013 | academic | open-permissive |  |
 | Control Barrier Functions | `control-barrier-functions` | 2007 | academic | public-domain |  |
 | Cornell Universal Jamming Gripper | `cornell-jamming-gripper` | 2010 | academic | open-permissive |  |
 | Covariant RFM-1 | `covariant-rfm` | 2024 | private | trade-secret | ✓ |
 | Crazyflie | `crazyflie` | 2013 | open | open-permissive |  |
+| Culture Drones | `banks-culture-drones` | 1987 | fictional | fictional |  |
 | Cybermen | `cybermen` | 1966 | fictional | fictional |  |
 | Cyberware (Cyberpunk 2077) | `cyberpunk-2077-cyborgs` | 2020 | fictional | fictional |  |
 | Cyborg 009 (Joe Shimamura and the 00 Cyborgs) | `cyborg-009` | 1964 | fictional | fictional |  |
 | Cylon Centurion (1978) | `cylon-centurion-1978` | 1978 | fictional | fictional |  |
+| Dahj and Soji (Star Trek: Picard) | `picard-soji` | 2020 | fictional | fictional |  |
 | Daleks | `daleks-doctor-who` | 1963 | fictional | fictional |  |
 | DARwIn-OP | `darwin-op` | 2010 | open | open-permissive |  |
 | Data | `data-tng` | 1987 | fictional | fictional |  |
@@ -67,6 +71,7 @@
 | Figure 02 | `figure-02` | 2024 | private | patented | ✓ |
 | Fourier GR-1 | `fourier-gr1` | 2023 | private | patented | ✓ |
 | Frankenstein's Creature | `frankenstein` | 1818 | fictional | fictional |  |
+| Frost and Betelgeuse | `zelazny-frost-betelgeuse` | 1966 | fictional | fictional |  |
 | Gato (DeepMind generalist agent) | `gato-deepmind` | 2022 | academic | open-permissive |  |
 | GE Quadruped Transporter (Walking Truck) | `ge-walking-truck` | 1968 | academic | public-domain |  |
 | GelSight | `gelsight` | 2009 | academic | open-permissive |  |
@@ -105,14 +110,19 @@
 | InMoov | `inmoov` | 2012 | open | open-permissive |  |
 | Iron Man Mark I (Tony Stark exoskeleton) | `iron-man-mark-i` | 1963 | fictional | fictional |  |
 | ISO 10218 Collaborative Robot Safety | `iso-10218-collaborative-robots` | 2006 | academic | public-domain |  |
+| Jaegers (Pacific Rim) | `pacific-rim-jaegers` | 2013 | fictional | fictional |  |
 | Jaquet-Droz The Writer | `jaquet-droz-writer` | 1772 | fictional | public-domain |  |
+| JARVIS (Just A Rather Very Intelligent System) | `jarvis-iron-man` | 2008 | fictional | fictional |  |
 | K-Scale Labs Open Source Humanoid | `k-scale-os` | 2024 | open | open-permissive | ✓ |
 | Kajita Linear Inverted Pendulum Model | `kajita-lipm` | 2001 | academic | public-domain |  |
 | Kawasaki Kaleido | `kawasaki-kaleido` | 2017 | private | patented |  |
 | Kepler K2 | `kepler-k2` | 2024 | private | patented | ✓ |
 | Khatib Operational Space Formulation | `khatib-operational-space` | 1987 | academic | public-domain |  |
+| Knight Sabers Hardsuits (Bubblegum Crisis) | `bubblegum-crisis-hardsuits` | 1987 | fictional | fictional |  |
 | Leonardo's Mechanical Knight | `da-vinci-knight` | 1495 | fictional | public-domain |  |
 | LimX Dynamics CL-1 | `limx-cl1` | 2023 | private | patented | ✓ |
+| Lore (Star Trek: TNG) | `star-trek-tng-lore` | 1988 | fictional | fictional |  |
+| M3GAN | `m3gan` | 2022 | fictional | fictional |  |
 | Machine Man (X-51, Aaron Stack) | `machine-man-marvel` | 1977 | fictional | fictional | ✓ |
 | Magnus, Robot Fighter (4000 A.D.) | `magnus-robot-fighter` | 1963 | fictional | fictional | ✓ |
 | Major Motoko Kusanagi (Ghost in the Shell) | `ghost-in-the-shell-major` | 1989 | fictional | fictional |  |
@@ -130,6 +140,7 @@
 | NAO | `nao` | 2006 | private | patented |  |
 | NASA Valkyrie | `nasa-valkyrie` | 2013 | academic | open-permissive |  |
 | Neura 4NE-1 | `neura-4ne1` | 2024 | private | patented | ✓ |
+| Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) | `gibson-neuromancer-constructs` | 1984 | fictional | fictional |  |
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
 | Octo (Open-Source Generalist Robot Policy) | `octo-policy` | 2024 | academic | open-permissive |  |
 | ODrive | `odrive` | 2017 | open | open-permissive |  |
@@ -144,6 +155,7 @@
 | PETMAN | `petman` | 2009 | private | trade-secret | ✓ |
 | Physical Intelligence π0 | `physical-intelligence-pi-zero` | 2024 | private | trade-secret |  |
 | Pisa-IIT SoftHand | `pisa-iit-softhand` | 2014 | academic | open-permissive |  |
+| Pluto (Naoki Urasawa reimagining) | `urasawa-pluto` | 2003 | fictional | fictional |  |
 | Poppy Humanoid | `poppy-humanoid` | 2014 | open | open-permissive |  |
 | PR2 | `pr2` | 2010 | open | open-permissive |  |
 | Pratt Virtual Model Control | `pratt-virtual-model-control` | 2001 | academic | public-domain |  |
@@ -152,6 +164,7 @@
 | Raibert One-Legged Hopper | `raibert-hopping-1leg` | 1983 | academic | public-domain |  |
 | Rainbow Robotics RB-Y1 | `rainbow-robotics-rb-y1` | 2024 | private | patented |  |
 | Reachy | `reachy` | 2020 | open | open-permissive |  |
+| Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) | `real-steel-boxers` | 2011 | fictional | fictional |  |
 | REEM-C | `reem-c` | 2013 | private | patented |  |
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
 | Robby the Robot (Forbidden Planet) | `forbidden-planet-robby` | 1956 | fictional | fictional |  |
@@ -159,6 +172,7 @@
 | RoboCop (Alex Murphy) | `robocop-1987` | 1987 | fictional | fictional |  |
 | Robonaut 1 | `robonaut-1` | 1996 | academic | public-domain |  |
 | Robonaut 2 | `robonaut-2` | 2010 | academic | patented |  |
+| Robot (Robot & Frank) | `robot-and-frank` | 2012 | fictional | fictional |  |
 | Robot Era STAR1 | `robot-era-star1` | 2024 | private | patented | ✓ |
 | Roetenberg Inertial Motion Capture (Xsens MVN) | `roetenberg-xsens-imu` | 2009 | academic | open-permissive |  |
 | Rossum's Universal Robots | `rur-rossums-robots` | 1920 | fictional | public-domain |  |
@@ -172,9 +186,11 @@
 | Sanctuary Phoenix Gen 6 | `sanctuary-phoenix-gen6` | 2022 | private | patented | ✓ |
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
+| Sentinels (X-Men) | `sentinels-marvel` | 1965 | fictional | fictional |  |
 | Sentis-Khatib Whole-Body Prioritized Task Control | `sentis-khatib-whole-body` | 2005 | academic | public-domain |  |
 | Shadow Dexterous Hand | `shadow-hand` | 2003 | private | patented |  |
 | Shadow Dexterous Hand | `shadow-dexterous-hand` | 2002 | academic | open-permissive |  |
+| Sharon Apple | `macross-plus-sharon-apple` | 1994 | fictional | fictional |  |
 | Shielding for Safe Reinforcement Learning | `shielding-rl` | 2018 | academic | public-domain |  |
 | SimpleFOC | `simplefoc` | 2020 | open | open-permissive |  |
 | Simplex Architecture | `sherman-simplex-architecture` | 1995 | academic | public-domain |  |
@@ -190,14 +206,17 @@
 | Tan et al. Quadruped Sim-to-Real | `tan-quadruped-sim2real` | 2018 | academic | open-permissive |  |
 | Tesla Optimus | `tesla-optimus` | 2021 | private | patented | ✓ |
 | Tetsujin 28 | `tetsujin-28` | 1956 | fictional | fictional |  |
+| The Greatest Robot on Earth (eight mecha disclosures) | `astro-boy-greatest-robot` | 1964 | fictional | fictional |  |
 | The Iron Giant | `iron-giant` | 1968 | fictional | fictional |  |
 | The Vision | `vision-marvel` | 1968 | fictional | fictional | ✓ |
 | THX 1138 Chrome Police Robots | `thx-1138-chrome-cops` | 1971 | fictional | fictional |  |
 | Toyota HSR | `toyota-hsr` | 2012 | private | patented |  |
 | Toyota Partner Robot (Violin) | `toyota-partner-robot-violin` | 2007 | private | patented |  |
 | Toyota T-HR3 | `toyota-thr3` | 2017 | private | patented |  |
+| Trurl and Klapaucius (The Cyberiad) | `lem-cyberiad` | 1965 | fictional | fictional |  |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |
+| Ultron | `ultron-marvel` | 1968 | fictional | fictional |  |
 | Unitree G1 | `unitree-g1` | 2024 | private | patented | ✓ |
 | Unitree Go1 | `unitree-go1` | 2021 | private | patented |  |
 | Unitree H1 | `unitree-h1` | 2023 | private | patented | ✓ |
