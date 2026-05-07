@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-electric-cycloidal`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-electric-cycloidal`  
 **Entries:** 4 (1 commons-grade, 3 draft)  
 **Earliest disclosure:** 1937  
@@ -152,4 +152,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

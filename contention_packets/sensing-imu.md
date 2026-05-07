@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `sensing-imu`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `sensing-imu`  
 **Entries:** 72 (53 commons-grade, 19 draft)  
 **Earliest disclosure:** 1989  
@@ -1498,4 +1498,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

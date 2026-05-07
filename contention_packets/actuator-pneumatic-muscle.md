@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-pneumatic-muscle`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-pneumatic-muscle`  
 **Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 1983  
@@ -193,4 +193,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

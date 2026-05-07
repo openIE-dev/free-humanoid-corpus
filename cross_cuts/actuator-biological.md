@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-biological`
 
-**9 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1973-11-21
 
@@ -24,6 +24,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The 1973 Westworld film and 2016 TV series together provide deep prior art for: (1) industrial-scale manufacture of humanoid platforms via bio-printing on a mechanical skeleton — directly relevant to modern humanoid manufacturing IP; (2) scripted behavioral loops as the deployment policy with explicit anomaly detection at the control room — anticipates fleet-management/deployment-monitoring humanoid IP; (3) host-hosts harm-prevention as a hard-constraint at the substrate level (the 1973 film's 'they cannot harm humans' rule is a Three Laws variant). The 1973 film predates everything except R.U.R. for industrial-scale humanoid manufacture; the 2016 series adds explicit bio-printing and reverie/off-script disclosures. HBO's Westworld is heavily archived and widely cited.
 
+## Mr Sin (The Peking Homunculus) (1977-02-26)
+
+- **id**: `dr-who-mr-sin`
+- **corpus**: fictional
+- **creator**: Robert Holmes (writer); BBC
+- **disclosure**: Holmes, Robert (writer). 'The Talons of Weng-Chiang'. Doctor Who serial, BBC, February 26 - April 2, 1977 (6-episode arc).
+- **ip status**: fictional
+- **prior art notes**: Mr Sin's February 1977 disclosure provides specific prior art for: (1) cross-species (animal-organ-into-humanoid) cerebral cortex transplantation — relevant to bio-printed and xenograft-substrate humanoid IP; (2) child-scale (~1m) bipedal humanoid platform architecture — relevant to claims on small-form-factor humanoid platforms (a real engineering direction for home/healthcare robots); (3) substrate-mismatch alignment failure mode (pig cortex in human-form chassis produces aggression mismatch with intended assassin role) — directly relevant to alignment-supervisor IP for bio-substrate humanoids; (4) emergency-substitute brain architecture (the pig cortex was an unplanned replacement) — relevant to fail-safe biological humanoid claims. Continuously available since 1977.
+
+## Cell (1992-08)
+
+- **id**: `dbz-cell-android-21`
+- **corpus**: fictional
+- **creator**: Akira Toriyama; in-fiction designer Dr. Gero (computer-completed posthumously)
+- **disclosure**: Toriyama, Akira. Dragon Ball manga chapter 361. Shueisha Weekly Shōnen Jump, August 1992.
+- **ip status**: fictional
+- **prior art notes**: Cell's August 1992 disclosure provides specific prior art for: (1) morphological transformation architecture in humanoid platforms with disclosed mechanism per form (Imperfect/Semi-Perfect/Perfect) — relevant to claims on reconfigurable humanoid morphology IP; (2) multi-source DNA-amalgam biology (5 named source genomes) — relevant to bio-printed humanoid platforms drawing on multiple donor profiles; (3) absorption-based form-upgrade via target ingestion as a fleet-wide self-improvement mechanism — relevant to humanoid platforms that upgrade by integrating peer units; (4) single-cell self-regeneration — relevant to biological-substrate humanoid resilience claims. Continuously available since August 1992.
+
 ## Evangelion (EVA Unit-01) (1995-10-04)
 
 - **id**: `evangelion`
@@ -32,6 +50,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Anno, Hideaki. Neon Genesis Evangelion. Gainax / Tatsunoko, October 4, 1995 (TV series, 26 episodes).
 - **ip status**: fictional
 - **prior art notes**: Engineering-grounded disclosure of: (1) biomechanical humanoid with restraint-protocol safety supervisor (the 'A10 nerve clip' is functionally a hardware kill-switch for autonomy, anticipating modern hardware safety supervisors); (2) pilot-neural-sync teleoperation as primary control modality with degraded performance under low-sync — anticipates teleoperation IP that includes ergonomic-fit metrics; (3) defensive AT field as a deployable hard-constraint barrier — anticipates protective-perimeter claims for human-robot interaction. The 1995 series is continuously available; Gainax's mecha design is widely studied.
+
+## Number Six (Cylon Model Six) (2003-12-08)
+
+- **id**: `bsg-number-six`
+- **corpus**: fictional
+- **creator**: Ronald D. Moore, David Eick (developers); based on Glen A. Larson 1978 original
+- **disclosure**: Moore, Ronald D. (developer). Battlestar Galactica miniseries. Sci-Fi Channel, December 8, 2003.
+- **ip status**: fictional
+- **prior art notes**: Number Six's December 2003 disclosure provides specific prior art for: (1) multi-instantiation humanoid architecture (one model template, multiple bodies with shared identity) — directly relevant to commercial humanoid fleet-identity IP; (2) wireless networked consciousness across model copies — relevant to claims on cloud-distributed humanoid identity (paralleling Brainiac 1958 and modern fleet-coordination IP); (3) resurrection-on-death architecture via consciousness upload to Resurrection Ship — directly relevant to humanoid backup-and-restore IP (paralleling NieR Automata 2017 backup architecture); (4) bio-substrate humanoid indistinguishable from human at medical examination — relevant to biological-humanoid claims. Continuously available since 2003.
+
+## Cylon Hybrids (2007-01-21)
+
+- **id**: `bsg-hybrids`
+- **corpus**: fictional
+- **creator**: Ronald D. Moore, David Eick (developers)
+- **disclosure**: Moore, Ronald D. (developer). Battlestar Galactica season 3 episode 12, 'Rapture'. Sci-Fi Channel, January 21, 2007.
+- **ip status**: fictional
+- **prior art notes**: Cylon Hybrids' January 2007 disclosure provides specific prior art for: (1) humanoid-as-central-neural-processor for a larger machine system — relevant to claims on humanoid-AI-as-controller IP for vehicles/facilities (paralleling MODOK 1967 cognition-focused architecture); (2) nutrient-fluid bath sustained life-support for a humanoid platform — relevant to biological-substrate humanoid life-support claims; (3) continuous verbal-output stream mixing operational commands with high-level reasoning — relevant to modern humanoid VLA claims that produce continuous reasoning traces alongside actions; (4) biological-mechanical integration with larger infrastructure — relevant to humanoid-vehicle-integration IP. Continuously available since 2007.
 
 ## David and Walter (Alien franchise synthetics) (2012-06-08)
 

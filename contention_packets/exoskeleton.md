@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `exoskeleton`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `exoskeleton`  
-**Entries:** 16 (15 commons-grade, 1 draft)  
-**Earliest disclosure:** 1963-03  
+**Entries:** 25 (24 commons-grade, 1 draft)  
+**Earliest disclosure:** 1942-04  
 **Most recent disclosure:** 2024-05-24
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1942-04 — Robotman (Robert Crane)
+
+- **id:** `dc-robotman-1942`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Jerry Berg, Leonard Sansone (writers); E.E. Hibbard (artist)
+- **disclosure citation:** Berg, Jerry (writer); Hibbard, E.E. (artist). Star Spangled Comics #7. DC Comics, April 1942.
+- **disclosed subsystems:** `exoskeleton`, `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-hand`
+
+**Prior art notes:**
+
+> Robotman's April 1942 disclosure is one of the earliest comic-book brain-transplant humanoid disclosures and provides specific prior art for: (1) biological-brain-in-mechanical-body humanoid architecture — predates Marvel's similar architectures by decades and underlies all subsequent cybernetic-character lineage (Cyborg 1980, Cyborg Superman 1992, etc.); (2) explicit dual-substrate cognition (organic mind + mechanical body) — relevant to modern claims on hybrid biological-cybernetic humanoid IP; (3) colleague-as-creator narrative (Dr. Grayson designs the chassis to save Crane's mind) — relevant to medical-prosthetic humanoid IP with creator-as-physician framing. Continuously in print since 1942 across multiple revivals.
+
+**Sources:**
+
+1. Berg, J. and Hibbard, E.E. Star Spangled Comics #7. DC Comics, 1942-04.
+2. DC Comics Robotman continuity (1942-present).
+
+---
 
 ### 1963-03 — Iron Man Mark I (Tony Stark exoskeleton)
 
@@ -97,6 +117,27 @@ cite, copy, or redistribute these contentions.
 
 1. Yoshida, T. (Tatsunoko). Neo-Human Casshan. Fuji TV, 1973-1974.
 2. Tatsunoko Production archive.
+
+---
+
+### 1979-01 — War Machine (James Rhodes)
+
+- **id:** `marvel-war-machine`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** David Michelinie, Bob Layton (Rhodes); Len Kaminski, Kevin Hopgood (War Machine chassis)
+- **disclosure citation:** Michelinie, David (writer); Layton, Bob (artist). Iron Man #118. Marvel Comics, January 1979 (Rhodes pilots Iron Man armor). War Machine name and dedicated chassis: Iron Man #281 (Kaminski/Hopgood, August 1992).
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `mechanism-bipedal-locomotion`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> War Machine's 1979/1992 disclosures provide specific prior art for: (1) heavy-weapons-focused exoskeleton variant within a shared-platform humanoid product family (Iron Man chassis with War Machine variant) — directly relevant to claims on chassis-variant humanoid IP for differentiated mission profiles; (2) shoulder-mounted weapon-platform integration on a powered exoskeleton — relevant to claims on integrated heavy-weapon mounts in humanoid platforms; (3) explicit pilot-changeover narrative (Rhodes pilots Iron Man armor before getting his own variant) — relevant to multi-pilot humanoid IP. Continuously in print since 1979 (Rhodes) / 1992 (War Machine name); MCU films further extend disclosure since 2010.
+
+**Sources:**
+
+1. Michelinie, D. and Layton, B. Iron Man #118. Marvel Comics, 1979-01.
+2. Kaminski, L. and Hopgood, K. Iron Man #281. Marvel Comics, 1992-08.
+3. Marvel Cinematic Universe War Machine continuity (2010-present).
 
 ---
 
@@ -224,6 +265,66 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1992-03-17 — Android 17 (Lapis)
+
+- **id:** `dbz-android-17`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Akira Toriyama; in-fiction designer Dr. Gero
+- **disclosure citation:** Toriyama, Akira. Dragon Ball manga chapter 349. Shueisha Weekly Shōnen Jump, March 17, 1992.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `exoskeleton`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Android 17's March 1992 disclosure provides foundational prior art for: (1) bio-mechanical humanoid combat platform with internal infinite-energy reactor architecture — relevant to claims on long-duration humanoid power-source IP (a real engineering ambition); (2) explicit numbered-series production designation (No. 17 within a numbered run) — directly relevant to commercial humanoid product-family lineage IP; (3) rebellion-against-creator alignment failure as a known-public-disclosure hazard mode — predates many modern alignment-failure architectural disclosures; (4) human-converted-to-cyborg biological-substrate android, paralleling 1980 Cyborg/Vic Stone DC architecture. Continuously available since March 1992.
+
+**Sources:**
+
+1. Toriyama, A. Dragon Ball ch. 349. Shueisha Weekly Shōnen Jump, 1992-03-17.
+2. Dragon Ball Z anime adaptation (Toei Animation, 1992-1993).
+
+---
+
+### 1992-03-17 — Android 18 (Lazuli)
+
+- **id:** `dbz-android-18`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Akira Toriyama; in-fiction designer Dr. Gero
+- **disclosure citation:** Toriyama, Akira. Dragon Ball manga chapter 349. Shueisha Weekly Shōnen Jump, March 17, 1992.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `exoskeleton`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Android 18's March 1992 disclosure (concurrent with No. 17) provides specific prior art for: (1) female-chassis variant within a numbered humanoid production run — directly relevant to commercial humanoid product-family chassis-variant IP; (2) paired-deployment architecture (units 17 and 18 explicitly designed for coordinated operation) — relevant to multi-unit humanoid coordination claims; (3) the same infinite-energy reactor and biological-mechanical hybrid substrate as No. 17, demonstrating fleet-wide architectural commonality; (4) post-deployment alignment shift (No. 18's policy evolves from combat to family-protector) — relevant to long-duration humanoid policy-update IP. Continuously available since March 1992.
+
+**Sources:**
+
+1. Toriyama, A. Dragon Ball ch. 349. Shueisha Weekly Shōnen Jump, 1992-03-17.
+2. Dragon Ball Z anime adaptation (Toei Animation, 1992-1993).
+
+---
+
+### 1992-08 — Cell
+
+- **id:** `dbz-cell-android-21`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Akira Toriyama; in-fiction designer Dr. Gero (computer-completed posthumously)
+- **disclosure citation:** Toriyama, Akira. Dragon Ball manga chapter 361. Shueisha Weekly Shōnen Jump, August 1992.
+- **disclosed subsystems:** `actuator-biological`, `exoskeleton`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Cell's August 1992 disclosure provides specific prior art for: (1) morphological transformation architecture in humanoid platforms with disclosed mechanism per form (Imperfect/Semi-Perfect/Perfect) — relevant to claims on reconfigurable humanoid morphology IP; (2) multi-source DNA-amalgam biology (5 named source genomes) — relevant to bio-printed humanoid platforms drawing on multiple donor profiles; (3) absorption-based form-upgrade via target ingestion as a fleet-wide self-improvement mechanism — relevant to humanoid platforms that upgrade by integrating peer units; (4) single-cell self-regeneration — relevant to biological-substrate humanoid resilience claims. Continuously available since August 1992.
+
+**Sources:**
+
+1. Toriyama, A. Dragon Ball ch. 361. Shueisha Weekly Shōnen Jump, 1992-08.
+2. Dragon Ball Z anime Cell Saga (Toei Animation, 1992-1993).
+
+---
+
 ### 1998-04 — Cowboy Bebop (Pierrot Le Fou cyborg, MPU and AI antagonists)
 
 - **id:** `cowboy-bebop-pierrot-1998`
@@ -242,6 +343,27 @@ cite, copy, or redistribute these contentions.
 1. Cowboy Bebop, dir. S. Watanabe, Sunrise / Bandai Visual, 1998-1999.
 2. Cowboy Bebop: Knockin' on Heaven's Door, Sony Pictures, 2001.
 3. Watanabe, S. interviews on Pierrot's design (Animage, 1999).
+
+---
+
+### 1999-08-06 — The Iron Giant (1999 film)
+
+- **id:** `iron-giant-1999-film`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Brad Bird, Tim McCanlies; based on Ted Hughes 'The Iron Man' (1968 novel)
+- **disclosure citation:** Bird, Brad (dir.); McCanlies, Tim (screenplay); based on Hughes, Ted (1968 novel). The Iron Giant. Warner Bros., August 6, 1999.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `exoskeleton`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> The 1999 Brad Bird Iron Giant film (distinct from the 1968 Ted Hughes novel) provides specific prior art for: (1) modular self-assembly architecture from severed components — directly relevant to claims on field-self-repair humanoid IP (paralleling WALL-E 2008 scavenge-repair); (2) explicit safety-supervisor self-modification (the giant overrides his own autonomous-weapon firing policy) — directly relevant to alignment-supervisor humanoid IP that claims policy-self-update authority; (3) choice-of-self ('I am not a gun') as a public disclosure of value-alignment self-determination — relevant to modern humanoid value-alignment claims; (4) Cold-War-era deployment narrative for an alien-origin combat mech. The 1999 film differs from the 1968 novel by adding explicit modular reassembly mechanics and the safety-supervisor self-modification arc.
+
+**Sources:**
+
+1. Bird, B. The Iron Giant. Warner Bros., 1999-08-06.
+2. McCanlies, T. The Iron Giant screenplay (1999).
+3. Hughes, T. The Iron Man (1968 novel) — source material, distinct entry.
 
 ---
 
@@ -304,6 +426,46 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2008-10-28 — Liberty Prime
+
+- **id:** `fallout-liberty-prime`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Bethesda Game Studios; in-fiction created by US government pre-war Project Liberty Prime
+- **disclosure citation:** Bethesda Game Studios. Fallout 3. Bethesda Softworks, October 28, 2008.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-hydraulic`, `exoskeleton`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Liberty Prime's October 2008 disclosure provides specific prior art for: (1) 12-meter bipedal humanoid combat mech form factor — relevant to claims on large-scale humanoid mech platforms (paralleling Atlas 2024's 3m mech and broader giant-mech lineage); (2) autonomous tactical-nuclear weapon deployment without human-in-loop authorization — directly relevant to safety-supervisor humanoid IP that claims human-in-loop for lethal force (Liberty Prime is an explicit anti-pattern public disclosure); (3) voice-synthesis propaganda output as an integrated humanoid behavior — relevant to social-engineering humanoid claims; (4) eye-mounted directed-energy weapon on a humanoid head chassis — relevant to integrated head-mounted weapon claims. Continuously available since 2008 across Fallout series.
+
+**Sources:**
+
+1. Bethesda Game Studios. Fallout 3. Bethesda Softworks, 2008-10-28.
+2. Fallout 4 (Bethesda, 2015) Liberty Prime continuity.
+
+---
+
+### 2009 — Genos (One Punch Man)
+
+- **id:** `opm-genos`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** ONE (writer); Yusuke Murata (artist for the redraw)
+- **disclosure citation:** ONE (writer). One Punch Man webcomic chapter 7. Self-published online, 2009. Murata, Yusuke (artist) redrawing in Tonari no Young Jump (Shueisha), 2012.
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-hand`
+
+**Prior art notes:**
+
+> Genos's 2009 webcomic disclosure (extended in Murata's 2012 redraw) provides specific prior art for: (1) full-body cybernetic replacement following biological trauma — relevant to medical-prosthetic humanoid IP (paralleling DC's Cyborg 1980 lineage with arm-integrated weapons added); (2) integrated palm-mounted incinerator/plasma weapons in humanoid arm chassis — directly relevant to claims on integrated end-effector weapon platforms (paralleling IG-88 1980); (3) explicit upgrade-progression chassis architecture with named successive versions — relevant to commercial humanoid product-versioning IP; (4) creator-as-physician (Dr. Kuseno) and continuous upgrade pathway across canon — relevant to maintenance-pathway humanoid IP. Continuously available since 2009.
+
+**Sources:**
+
+1. ONE. One Punch Man webcomic ch. 7. Self-published, 2009.
+2. Murata, Y. One Punch Man. Tonari no Young Jump, Shueisha, 2012-present.
+
+---
+
 ### 2009-04 — Knights of Sidonia (Garde mecha)
 
 - **id:** `knights-of-sidonia-2013`
@@ -322,6 +484,26 @@ cite, copy, or redistribute these contentions.
 1. Nihei, T. Sidonia no Kishi. Kodansha Afternoon, 2009-2015 (15 volumes).
 2. Knights of Sidonia anime, Polygon Pictures, 2014-2015 (24 episodes).
 3. Knights of Sidonia: Love Woven in the Stars, Polygon Pictures, 2021.
+
+---
+
+### 2015-05-01 — Iron Legion
+
+- **id:** `marvel-iron-legion`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Joss Whedon; based on Marvel Comics characters
+- **disclosure citation:** Whedon, Joss (writer/dir.). Avengers: Age of Ultron. Marvel Studios / Walt Disney Studios, May 1, 2015.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `exoskeleton`, `control-rl-policy`, `control-vla-vision-language-action`
+
+**Prior art notes:**
+
+> The Iron Legion's May 2015 disclosure provides specific prior art for: (1) mass-produced unmanned humanoid fleet under centralized AI command — directly relevant to claims on commercial humanoid fleet-coordination IP (the JARVIS-over-Legion architecture is a clear public anticipation); (2) explicit humanitarian-deployment policy for an armed humanoid fleet — relevant to humanoid IP that distinguishes combat from crowd-management policies; (3) shared chassis between piloted (Iron Man) and unpiloted (Legion) variants — relevant to claims on common-platform piloted/autonomous humanoid product families. Continuously available since 2015 across MCU films.
+
+**Sources:**
+
+1. Whedon, J. Avengers: Age of Ultron. Marvel Studios, 2015.
+2. Marvel Cinematic Universe Iron Legion continuity (2015-present).
 
 ---
 
@@ -395,4 +577,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-sim-to-real`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `control-sim-to-real`  
 **Entries:** 17 (13 commons-grade, 4 draft)  
 **Earliest disclosure:** 2014-12-11  
@@ -410,4 +410,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

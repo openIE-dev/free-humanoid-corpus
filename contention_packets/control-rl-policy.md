@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `control-rl-policy`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 104 (79 commons-grade, 25 draft)  
+**Entries:** 115 (90 commons-grade, 25 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2025-10
 
@@ -97,6 +97,26 @@ cite, copy, or redistribute these contentions.
 1. Williamson, J. 'With Folded Hands…'. Astounding Science Fiction, July 1947.
 2. Williamson, J. The Humanoids. Simon & Schuster, 1949.
 3. Asimov, I. The Rest of the Robots, foreword. Doubleday, 1964 (credits Williamson).
+
+---
+
+### 1958-07 — Brainiac
+
+- **id:** `dc-brainiac-1958`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Otto Binder, Al Plastino
+- **disclosure citation:** Binder, Otto (writer); Plastino, Al (artist). Action Comics #242, 'The Super-Duel in Space'. DC Comics, July 1958.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Brainiac's July 1958 disclosure provides specific prior art for: (1) computer-intelligence in a humanoid chassis with explicit cognition-tier rating (12th-level) — relevant to claims on tier-rated humanoid AI IP; (2) networked consciousness across multiple chassis instances (cloud-distributed humanoid identity) — directly relevant to modern humanoid IP claims on distributed-instance consciousness (paralleling BSG resurrection 2003 and modern fleet-coordination architectures); (3) miniaturization technology for object storage as an integrated humanoid capability — relevant to integrated tool-payload humanoid claims. Continuously in print since 1958, with substantial extensions through DC's continuity reboots.
+
+**Sources:**
+
+1. Binder, O. and Plastino, A. Action Comics #242. DC Comics, 1958-07.
+2. DC Comics Brainiac continuity (1958-present).
 
 ---
 
@@ -300,6 +320,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1977-10-01 — K9
+
+- **id:** `dr-who-k9`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Bob Baker and Dave Martin
+- **disclosure citation:** Baker, Bob and Martin, Dave (writers). 'The Invisible Enemy'. Doctor Who serial, BBC, October 1, 1977.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> K9's October 1977 disclosure provides specific prior art for: (1) humanoid-equivalent intelligence in a non-bipedal quadruped chassis — relevant to claims on alternative-morphology intelligent platforms (paralleling BB-8's spherical-base 2015 disclosure); (2) explicit Mark I through Mark IV chassis-variant lineage with cumulative capability upgrades — directly relevant to commercial humanoid product-versioning IP (paralleling Weyland/Bishop and EMH Mark designations); (3) integrated computer-port-to-port direct system interface — relevant to claims on humanoid-system direct-data-bus architectures; (4) companion-bonded loyalty policy architecture — relevant to modern social-robot humanoid claims. Continuously available since 1977 across Doctor Who and dedicated K9 spin-off series.
+
+**Sources:**
+
+1. Baker, B. and Martin, D. 'The Invisible Enemy'. Doctor Who, BBC, 1977-10.
+2. BBC Doctor Who K9 continuity (1977-present).
+
+---
+
 ### 1978-09-17 — Cylon Centurion (1978)
 
 - **id:** `cylon-centurion-1978`
@@ -461,6 +501,66 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1992-03-17 — Android 17 (Lapis)
+
+- **id:** `dbz-android-17`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Akira Toriyama; in-fiction designer Dr. Gero
+- **disclosure citation:** Toriyama, Akira. Dragon Ball manga chapter 349. Shueisha Weekly Shōnen Jump, March 17, 1992.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `exoskeleton`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Android 17's March 1992 disclosure provides foundational prior art for: (1) bio-mechanical humanoid combat platform with internal infinite-energy reactor architecture — relevant to claims on long-duration humanoid power-source IP (a real engineering ambition); (2) explicit numbered-series production designation (No. 17 within a numbered run) — directly relevant to commercial humanoid product-family lineage IP; (3) rebellion-against-creator alignment failure as a known-public-disclosure hazard mode — predates many modern alignment-failure architectural disclosures; (4) human-converted-to-cyborg biological-substrate android, paralleling 1980 Cyborg/Vic Stone DC architecture. Continuously available since March 1992.
+
+**Sources:**
+
+1. Toriyama, A. Dragon Ball ch. 349. Shueisha Weekly Shōnen Jump, 1992-03-17.
+2. Dragon Ball Z anime adaptation (Toei Animation, 1992-1993).
+
+---
+
+### 1992-03-17 — Android 18 (Lazuli)
+
+- **id:** `dbz-android-18`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Akira Toriyama; in-fiction designer Dr. Gero
+- **disclosure citation:** Toriyama, Akira. Dragon Ball manga chapter 349. Shueisha Weekly Shōnen Jump, March 17, 1992.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `exoskeleton`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Android 18's March 1992 disclosure (concurrent with No. 17) provides specific prior art for: (1) female-chassis variant within a numbered humanoid production run — directly relevant to commercial humanoid product-family chassis-variant IP; (2) paired-deployment architecture (units 17 and 18 explicitly designed for coordinated operation) — relevant to multi-unit humanoid coordination claims; (3) the same infinite-energy reactor and biological-mechanical hybrid substrate as No. 17, demonstrating fleet-wide architectural commonality; (4) post-deployment alignment shift (No. 18's policy evolves from combat to family-protector) — relevant to long-duration humanoid policy-update IP. Continuously available since March 1992.
+
+**Sources:**
+
+1. Toriyama, A. Dragon Ball ch. 349. Shueisha Weekly Shōnen Jump, 1992-03-17.
+2. Dragon Ball Z anime adaptation (Toei Animation, 1992-1993).
+
+---
+
+### 1992-08 — Cell
+
+- **id:** `dbz-cell-android-21`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Akira Toriyama; in-fiction designer Dr. Gero (computer-completed posthumously)
+- **disclosure citation:** Toriyama, Akira. Dragon Ball manga chapter 361. Shueisha Weekly Shōnen Jump, August 1992.
+- **disclosed subsystems:** `actuator-biological`, `exoskeleton`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Cell's August 1992 disclosure provides specific prior art for: (1) morphological transformation architecture in humanoid platforms with disclosed mechanism per form (Imperfect/Semi-Perfect/Perfect) — relevant to claims on reconfigurable humanoid morphology IP; (2) multi-source DNA-amalgam biology (5 named source genomes) — relevant to bio-printed humanoid platforms drawing on multiple donor profiles; (3) absorption-based form-upgrade via target ingestion as a fleet-wide self-improvement mechanism — relevant to humanoid platforms that upgrade by integrating peer units; (4) single-cell self-regeneration — relevant to biological-substrate humanoid resilience claims. Continuously available since August 1992.
+
+**Sources:**
+
+1. Toriyama, A. Dragon Ball ch. 361. Shueisha Weekly Shōnen Jump, 1992-08.
+2. Dragon Ball Z anime Cell Saga (Toei Animation, 1992-1993).
+
+---
+
 ### 1994-08 — Sharon Apple
 
 - **id:** `macross-plus-sharon-apple`
@@ -561,6 +661,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1999-08-06 — The Iron Giant (1999 film)
+
+- **id:** `iron-giant-1999-film`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Brad Bird, Tim McCanlies; based on Ted Hughes 'The Iron Man' (1968 novel)
+- **disclosure citation:** Bird, Brad (dir.); McCanlies, Tim (screenplay); based on Hughes, Ted (1968 novel). The Iron Giant. Warner Bros., August 6, 1999.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `exoskeleton`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> The 1999 Brad Bird Iron Giant film (distinct from the 1968 Ted Hughes novel) provides specific prior art for: (1) modular self-assembly architecture from severed components — directly relevant to claims on field-self-repair humanoid IP (paralleling WALL-E 2008 scavenge-repair); (2) explicit safety-supervisor self-modification (the giant overrides his own autonomous-weapon firing policy) — directly relevant to alignment-supervisor humanoid IP that claims policy-self-update authority; (3) choice-of-self ('I am not a gun') as a public disclosure of value-alignment self-determination — relevant to modern humanoid value-alignment claims; (4) Cold-War-era deployment narrative for an alien-origin combat mech. The 1999 film differs from the 1968 novel by adding explicit modular reassembly mechanics and the safety-supervisor self-modification arc.
+
+**Sources:**
+
+1. Bird, B. The Iron Giant. Warner Bros., 1999-08-06.
+2. McCanlies, T. The Iron Giant screenplay (1999).
+3. Hughes, T. The Iron Man (1968 novel) — source material, distinct entry.
+
+---
+
 ### 2002 — Dynamic Movement Primitives (DMP)
 
 - **id:** `dmp-schaal-ijspeert`
@@ -621,6 +742,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2003-12-08 — Number Six (Cylon Model Six)
+
+- **id:** `bsg-number-six`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ronald D. Moore, David Eick (developers); based on Glen A. Larson 1978 original
+- **disclosure citation:** Moore, Ronald D. (developer). Battlestar Galactica miniseries. Sci-Fi Channel, December 8, 2003.
+- **disclosed subsystems:** `actuator-biological`, `mechanism-bipedal-locomotion`, `control-vla-vision-language-action`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Number Six's December 2003 disclosure provides specific prior art for: (1) multi-instantiation humanoid architecture (one model template, multiple bodies with shared identity) — directly relevant to commercial humanoid fleet-identity IP; (2) wireless networked consciousness across model copies — relevant to claims on cloud-distributed humanoid identity (paralleling Brainiac 1958 and modern fleet-coordination IP); (3) resurrection-on-death architecture via consciousness upload to Resurrection Ship — directly relevant to humanoid backup-and-restore IP (paralleling NieR Automata 2017 backup architecture); (4) bio-substrate humanoid indistinguishable from human at medical examination — relevant to biological-humanoid claims. Continuously available since 2003.
+
+**Sources:**
+
+1. Moore, R.D. Battlestar Galactica miniseries. Sci-Fi Channel, 2003-12-08.
+2. Battlestar Galactica series (2004-2009) Cylon model continuity.
+
+---
+
 ### 2004-07 — Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning
 
 - **id:** `abbeel-ng-irl-2004`
@@ -658,6 +799,26 @@ cite, copy, or redistribute these contentions.
 
 1. Ergo Proxy, dir. S. Murase, Manglobe / Geneon Universal, 2006.
 2. Satō, D. Ergo Proxy production interviews, Newtype 2006.
+
+---
+
+### 2007-01-21 — Cylon Hybrids
+
+- **id:** `bsg-hybrids`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ronald D. Moore, David Eick (developers)
+- **disclosure citation:** Moore, Ronald D. (developer). Battlestar Galactica season 3 episode 12, 'Rapture'. Sci-Fi Channel, January 21, 2007.
+- **disclosed subsystems:** `actuator-biological`, `control-vla-vision-language-action`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Cylon Hybrids' January 2007 disclosure provides specific prior art for: (1) humanoid-as-central-neural-processor for a larger machine system — relevant to claims on humanoid-AI-as-controller IP for vehicles/facilities (paralleling MODOK 1967 cognition-focused architecture); (2) nutrient-fluid bath sustained life-support for a humanoid platform — relevant to biological-substrate humanoid life-support claims; (3) continuous verbal-output stream mixing operational commands with high-level reasoning — relevant to modern humanoid VLA claims that produce continuous reasoning traces alongside actions; (4) biological-mechanical integration with larger infrastructure — relevant to humanoid-vehicle-integration IP. Continuously available since 2007.
+
+**Sources:**
+
+1. Moore, R.D. Battlestar Galactica S3E12 'Rapture'. Sci-Fi Channel, 2007-01-21.
+2. Battlestar Galactica series (2004-2009) Hybrid continuity.
 
 ---
 
@@ -717,6 +878,26 @@ cite, copy, or redistribute these contentions.
 
 1. Ziebart, B. D., Maas, A., Bagnell, J. A., Dey, A. K. 'Maximum entropy inverse reinforcement learning.' AAAI 2008.
 2. Ziebart, B. D. PhD Thesis: 'Modeling Purposeful Adaptive Behavior with the Principle of Maximum Causal Entropy.' CMU, 2010.
+
+---
+
+### 2008-10-28 — Liberty Prime
+
+- **id:** `fallout-liberty-prime`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Bethesda Game Studios; in-fiction created by US government pre-war Project Liberty Prime
+- **disclosure citation:** Bethesda Game Studios. Fallout 3. Bethesda Softworks, October 28, 2008.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-hydraulic`, `exoskeleton`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Liberty Prime's October 2008 disclosure provides specific prior art for: (1) 12-meter bipedal humanoid combat mech form factor — relevant to claims on large-scale humanoid mech platforms (paralleling Atlas 2024's 3m mech and broader giant-mech lineage); (2) autonomous tactical-nuclear weapon deployment without human-in-loop authorization — directly relevant to safety-supervisor humanoid IP that claims human-in-loop for lethal force (Liberty Prime is an explicit anti-pattern public disclosure); (3) voice-synthesis propaganda output as an integrated humanoid behavior — relevant to social-engineering humanoid claims; (4) eye-mounted directed-energy weapon on a humanoid head chassis — relevant to integrated head-mounted weapon claims. Continuously available since 2008 across Fallout series.
+
+**Sources:**
+
+1. Bethesda Game Studios. Fallout 3. Bethesda Softworks, 2008-10-28.
+2. Fallout 4 (Bethesda, 2015) Liberty Prime continuity.
 
 ---
 
@@ -917,6 +1098,26 @@ cite, copy, or redistribute these contentions.
 1. Levine, S., Finn, C., Darrell, T., Abbeel, P. 'End-to-End Training of Deep Visuomotor Policies.' JMLR 17(39): 1-40, 2016.
 2. Levine, S., Wagener, N., Abbeel, P. 'Learning Contact-Rich Manipulation Skills with Guided Policy Search.' ICRA 2015.
 3. BRETT video archive, UC Berkeley RAIL Lab, 2015.
+
+---
+
+### 2015-05-01 — Iron Legion
+
+- **id:** `marvel-iron-legion`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Joss Whedon; based on Marvel Comics characters
+- **disclosure citation:** Whedon, Joss (writer/dir.). Avengers: Age of Ultron. Marvel Studios / Walt Disney Studios, May 1, 2015.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `exoskeleton`, `control-rl-policy`, `control-vla-vision-language-action`
+
+**Prior art notes:**
+
+> The Iron Legion's May 2015 disclosure provides specific prior art for: (1) mass-produced unmanned humanoid fleet under centralized AI command — directly relevant to claims on commercial humanoid fleet-coordination IP (the JARVIS-over-Legion architecture is a clear public anticipation); (2) explicit humanitarian-deployment policy for an armed humanoid fleet — relevant to humanoid IP that distinguishes combat from crowd-management policies; (3) shared chassis between piloted (Iron Man) and unpiloted (Legion) variants — relevant to claims on common-platform piloted/autonomous humanoid product families. Continuously available since 2015 across MCU films.
+
+**Sources:**
+
+1. Whedon, J. Avengers: Age of Ultron. Marvel Studios, 2015.
+2. Marvel Cinematic Universe Iron Legion continuity (2015-present).
 
 ---
 
@@ -1279,6 +1480,26 @@ cite, copy, or redistribute these contentions.
 
 1. Hwangbo, J. et al. 'Learning agile and dynamic motor skills for legged robots.' Science Robotics 4(26), 2019.
 2. Lee, J. et al. 'Learning quadrupedal locomotion over challenging terrain.' Science Robotics 5(47), 2020 (sequel).
+
+---
+
+### 2019-10-31 — Sophia (Persona 5 Royal)
+
+- **id:** `persona-5-sophia`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Atlus (developer); director Daiki Itoh
+- **disclosure citation:** Atlus. Persona 5 Royal (Persona 5: The Royal). Atlus / Sega, October 31, 2019 (Japan).
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `power-li-ion`
+
+**Prior art notes:**
+
+> Sophia's October 2019 disclosure provides specific prior art for: (1) tablet-device-class chassis with humanoid avatar projection — relevant to claims on companion-AI humanoid form factors (a substantive niche in Japanese consumer robotics); (2) explicit AI-grows-into-emotional-being character arc as a deployment-time policy update — relevant to modern affective-computing humanoid IP that claims emotional-architecture emergence; (3) dual-embodiment architecture (physical tablet device plus virtual humanoid form) — relevant to claims on humanoid platforms that span physical and virtual embodiment; (4) party-coordination policy for combat-support contexts — relevant to multi-agent humanoid coordination IP. Continuously available since 2019.
+
+**Sources:**
+
+1. Atlus. Persona 5 Royal. Atlus / Sega, 2019-10-31 (JP).
+2. Persona 5 Royal Sophia character continuity.
 
 ---
 
@@ -2146,4 +2367,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

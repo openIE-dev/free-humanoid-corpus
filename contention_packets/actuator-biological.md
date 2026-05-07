@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-biological`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-biological`  
-**Entries:** 9 (8 commons-grade, 1 draft)  
+**Entries:** 13 (12 commons-grade, 1 draft)  
 **Earliest disclosure:** 1973-11-21  
 **Most recent disclosure:** 2020-01-23
 
@@ -61,6 +61,46 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1977-02-26 — Mr Sin (The Peking Homunculus)
+
+- **id:** `dr-who-mr-sin`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Robert Holmes (writer); BBC
+- **disclosure citation:** Holmes, Robert (writer). 'The Talons of Weng-Chiang'. Doctor Who serial, BBC, February 26 - April 2, 1977 (6-episode arc).
+- **disclosed subsystems:** `actuator-biological`, `mechanism-bipedal-locomotion`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Mr Sin's February 1977 disclosure provides specific prior art for: (1) cross-species (animal-organ-into-humanoid) cerebral cortex transplantation — relevant to bio-printed and xenograft-substrate humanoid IP; (2) child-scale (~1m) bipedal humanoid platform architecture — relevant to claims on small-form-factor humanoid platforms (a real engineering direction for home/healthcare robots); (3) substrate-mismatch alignment failure mode (pig cortex in human-form chassis produces aggression mismatch with intended assassin role) — directly relevant to alignment-supervisor IP for bio-substrate humanoids; (4) emergency-substitute brain architecture (the pig cortex was an unplanned replacement) — relevant to fail-safe biological humanoid claims. Continuously available since 1977.
+
+**Sources:**
+
+1. Holmes, R. 'The Talons of Weng-Chiang'. Doctor Who, BBC, 1977-02 to 1977-04.
+2. BBC Doctor Who Programme Guide (Hayward, A. 1981).
+
+---
+
+### 1992-08 — Cell
+
+- **id:** `dbz-cell-android-21`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Akira Toriyama; in-fiction designer Dr. Gero (computer-completed posthumously)
+- **disclosure citation:** Toriyama, Akira. Dragon Ball manga chapter 361. Shueisha Weekly Shōnen Jump, August 1992.
+- **disclosed subsystems:** `actuator-biological`, `exoskeleton`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Cell's August 1992 disclosure provides specific prior art for: (1) morphological transformation architecture in humanoid platforms with disclosed mechanism per form (Imperfect/Semi-Perfect/Perfect) — relevant to claims on reconfigurable humanoid morphology IP; (2) multi-source DNA-amalgam biology (5 named source genomes) — relevant to bio-printed humanoid platforms drawing on multiple donor profiles; (3) absorption-based form-upgrade via target ingestion as a fleet-wide self-improvement mechanism — relevant to humanoid platforms that upgrade by integrating peer units; (4) single-cell self-regeneration — relevant to biological-substrate humanoid resilience claims. Continuously available since August 1992.
+
+**Sources:**
+
+1. Toriyama, A. Dragon Ball ch. 361. Shueisha Weekly Shōnen Jump, 1992-08.
+2. Dragon Ball Z anime Cell Saga (Toei Animation, 1992-1993).
+
+---
+
 ### 1995-10-04 — Evangelion (EVA Unit-01) *(draft)*
 
 - **id:** `evangelion`
@@ -78,6 +118,46 @@ cite, copy, or redistribute these contentions.
 
 1. Anno, H. Neon Genesis Evangelion. Gainax / Tatsunoko, 1995-1996.
 2. Sadamoto, Y. and Anno, H. Neon Genesis Evangelion (manga). Kadokawa Shoten, 1995-2013.
+
+---
+
+### 2003-12-08 — Number Six (Cylon Model Six)
+
+- **id:** `bsg-number-six`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ronald D. Moore, David Eick (developers); based on Glen A. Larson 1978 original
+- **disclosure citation:** Moore, Ronald D. (developer). Battlestar Galactica miniseries. Sci-Fi Channel, December 8, 2003.
+- **disclosed subsystems:** `actuator-biological`, `mechanism-bipedal-locomotion`, `control-vla-vision-language-action`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Number Six's December 2003 disclosure provides specific prior art for: (1) multi-instantiation humanoid architecture (one model template, multiple bodies with shared identity) — directly relevant to commercial humanoid fleet-identity IP; (2) wireless networked consciousness across model copies — relevant to claims on cloud-distributed humanoid identity (paralleling Brainiac 1958 and modern fleet-coordination IP); (3) resurrection-on-death architecture via consciousness upload to Resurrection Ship — directly relevant to humanoid backup-and-restore IP (paralleling NieR Automata 2017 backup architecture); (4) bio-substrate humanoid indistinguishable from human at medical examination — relevant to biological-humanoid claims. Continuously available since 2003.
+
+**Sources:**
+
+1. Moore, R.D. Battlestar Galactica miniseries. Sci-Fi Channel, 2003-12-08.
+2. Battlestar Galactica series (2004-2009) Cylon model continuity.
+
+---
+
+### 2007-01-21 — Cylon Hybrids
+
+- **id:** `bsg-hybrids`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ronald D. Moore, David Eick (developers)
+- **disclosure citation:** Moore, Ronald D. (developer). Battlestar Galactica season 3 episode 12, 'Rapture'. Sci-Fi Channel, January 21, 2007.
+- **disclosed subsystems:** `actuator-biological`, `control-vla-vision-language-action`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Cylon Hybrids' January 2007 disclosure provides specific prior art for: (1) humanoid-as-central-neural-processor for a larger machine system — relevant to claims on humanoid-AI-as-controller IP for vehicles/facilities (paralleling MODOK 1967 cognition-focused architecture); (2) nutrient-fluid bath sustained life-support for a humanoid platform — relevant to biological-substrate humanoid life-support claims; (3) continuous verbal-output stream mixing operational commands with high-level reasoning — relevant to modern humanoid VLA claims that produce continuous reasoning traces alongside actions; (4) biological-mechanical integration with larger infrastructure — relevant to humanoid-vehicle-integration IP. Continuously available since 2007.
+
+**Sources:**
+
+1. Moore, R.D. Battlestar Galactica S3E12 'Rapture'. Sci-Fi Channel, 2007-01-21.
+2. Battlestar Galactica series (2004-2009) Hybrid continuity.
 
 ---
 
@@ -250,4 +330,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

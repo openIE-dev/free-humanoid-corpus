@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-hydraulic`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-hydraulic`  
-**Entries:** 24 (18 commons-grade, 6 draft)  
+**Entries:** 27 (21 commons-grade, 6 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2024-05-24
 
@@ -179,6 +179,27 @@ cite, copy, or redistribute these contentions.
 
 1. Kato, I. et al. 1973 CISM-IFToMM Symposium proceedings.
 2. Waseda University Humanoid Robotics Institute archives.
+
+---
+
+### 1979-01 — War Machine (James Rhodes)
+
+- **id:** `marvel-war-machine`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** David Michelinie, Bob Layton (Rhodes); Len Kaminski, Kevin Hopgood (War Machine chassis)
+- **disclosure citation:** Michelinie, David (writer); Layton, Bob (artist). Iron Man #118. Marvel Comics, January 1979 (Rhodes pilots Iron Man armor). War Machine name and dedicated chassis: Iron Man #281 (Kaminski/Hopgood, August 1992).
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `mechanism-bipedal-locomotion`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> War Machine's 1979/1992 disclosures provide specific prior art for: (1) heavy-weapons-focused exoskeleton variant within a shared-platform humanoid product family (Iron Man chassis with War Machine variant) — directly relevant to claims on chassis-variant humanoid IP for differentiated mission profiles; (2) shoulder-mounted weapon-platform integration on a powered exoskeleton — relevant to claims on integrated heavy-weapon mounts in humanoid platforms; (3) explicit pilot-changeover narrative (Rhodes pilots Iron Man armor before getting his own variant) — relevant to multi-pilot humanoid IP. Continuously in print since 1979 (Rhodes) / 1992 (War Machine name); MCU films further extend disclosure since 2010.
+
+**Sources:**
+
+1. Michelinie, D. and Layton, B. Iron Man #118. Marvel Comics, 1979-01.
+2. Kaminski, L. and Hopgood, K. Iron Man #281. Marvel Comics, 1992-08.
+3. Marvel Cinematic Universe War Machine continuity (2010-present).
 
 ---
 
@@ -401,6 +422,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2008-10-28 — Liberty Prime
+
+- **id:** `fallout-liberty-prime`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Bethesda Game Studios; in-fiction created by US government pre-war Project Liberty Prime
+- **disclosure citation:** Bethesda Game Studios. Fallout 3. Bethesda Softworks, October 28, 2008.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-hydraulic`, `exoskeleton`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Liberty Prime's October 2008 disclosure provides specific prior art for: (1) 12-meter bipedal humanoid combat mech form factor — relevant to claims on large-scale humanoid mech platforms (paralleling Atlas 2024's 3m mech and broader giant-mech lineage); (2) autonomous tactical-nuclear weapon deployment without human-in-loop authorization — directly relevant to safety-supervisor humanoid IP that claims human-in-loop for lethal force (Liberty Prime is an explicit anti-pattern public disclosure); (3) voice-synthesis propaganda output as an integrated humanoid behavior — relevant to social-engineering humanoid claims; (4) eye-mounted directed-energy weapon on a humanoid head chassis — relevant to integrated head-mounted weapon claims. Continuously available since 2008 across Fallout series.
+
+**Sources:**
+
+1. Bethesda Game Studios. Fallout 3. Bethesda Softworks, 2008-10-28.
+2. Fallout 4 (Bethesda, 2015) Liberty Prime continuity.
+
+---
+
 ### 2009 — PETMAN *(draft)*
 
 - **id:** `petman`
@@ -417,6 +458,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Boston Dynamics public videos, 2009–2011.
+
+---
+
+### 2009 — Genos (One Punch Man)
+
+- **id:** `opm-genos`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** ONE (writer); Yusuke Murata (artist for the redraw)
+- **disclosure citation:** ONE (writer). One Punch Man webcomic chapter 7. Self-published online, 2009. Murata, Yusuke (artist) redrawing in Tonari no Young Jump (Shueisha), 2012.
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-hand`
+
+**Prior art notes:**
+
+> Genos's 2009 webcomic disclosure (extended in Murata's 2012 redraw) provides specific prior art for: (1) full-body cybernetic replacement following biological trauma — relevant to medical-prosthetic humanoid IP (paralleling DC's Cyborg 1980 lineage with arm-integrated weapons added); (2) integrated palm-mounted incinerator/plasma weapons in humanoid arm chassis — directly relevant to claims on integrated end-effector weapon platforms (paralleling IG-88 1980); (3) explicit upgrade-progression chassis architecture with named successive versions — relevant to commercial humanoid product-versioning IP; (4) creator-as-physician (Dr. Kuseno) and continuous upgrade pathway across canon — relevant to maintenance-pathway humanoid IP. Continuously available since 2009.
+
+**Sources:**
+
+1. ONE. One Punch Man webcomic ch. 7. Self-published, 2009.
+2. Murata, Y. One Punch Man. Tonari no Young Jump, Shueisha, 2012-present.
 
 ---
 
@@ -549,4 +610,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

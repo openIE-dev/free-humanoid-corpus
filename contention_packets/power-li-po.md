@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `power-li-po`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `power-li-po`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2010  
@@ -130,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `safety-hard-constraint`
 
-**52 corpus entries disclose this subsystem.**
+**58 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -59,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wilcox, Fred M. (dir.); Adler, Allen and Kyne, Irving Block (story). Forbidden Planet. Metro-Goldwyn-Mayer, March 15, 1956. Robby designed by Robert Kinoshita.
 - **ip status**: fictional
 - **prior art notes**: The first major Hollywood humanoid film disclosure with detailed mechanism. Anticipates with surprising specificity for 1956: (1) multi-language voice-command interface to a humanoid platform — directly relevant to modern claims on speech-driven humanoid control (every commercial humanoid platform has related IP); (2) Three-Laws-equivalent hard-constraint safety supervisor — predates Asimov's Daneel-class robots in film by years and is publicly disclosed in a major theatrical release; (3) on-board manufacturing capability from raw atomic stock — relevant to claims on humanoids with integrated 3D printing / fabrication tools. Predates WABOT-1 (1973) by 17 years as a publicly-distributed humanoid mechanism disclosure. Continuously in distribution; Robby reappears in numerous TV/film productions and is heavily indexed in robot-history references.
+
+## Brainiac (1958-07)
+
+- **id**: `dc-brainiac-1958`
+- **corpus**: fictional
+- **creator**: Otto Binder, Al Plastino
+- **disclosure**: Binder, Otto (writer); Plastino, Al (artist). Action Comics #242, 'The Super-Duel in Space'. DC Comics, July 1958.
+- **ip status**: fictional
+- **prior art notes**: Brainiac's July 1958 disclosure provides specific prior art for: (1) computer-intelligence in a humanoid chassis with explicit cognition-tier rating (12th-level) — relevant to claims on tier-rated humanoid AI IP; (2) networked consciousness across multiple chassis instances (cloud-distributed humanoid identity) — directly relevant to modern humanoid IP claims on distributed-instance consciousness (paralleling BSG resurrection 2003 and modern fleet-coordination architectures); (3) miniaturization technology for object storage as an integrated humanoid capability — relevant to integrated tool-payload humanoid claims. Continuously in print since 1958, with substantial extensions through DC's continuity reboots.
 
 ## B-9 (Lost in Space) (1965-09-15)
 
@@ -123,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The 1977 'Robots of Death' Doctor Who serial is one of the most engineering-detailed BBC humanoid disclosures. Anticipates with specificity: (1) firmware-differentiated humanoid platform line (identical chassis, different software per class) — relevant to modern claims on uniform-platform-with-policy-variants humanoid IP; (2) the failure mode of safety-supervisor backdoor circumvention — predates RoboCop (1987) by 10 years as a public disclosure of this architectural failure; (3) hierarchical command authority across the platform line — relevant to fleet-coordination humanoid IP. Continuously available since 1977.
 
+## Mr Sin (The Peking Homunculus) (1977-02-26)
+
+- **id**: `dr-who-mr-sin`
+- **corpus**: fictional
+- **creator**: Robert Holmes (writer); BBC
+- **disclosure**: Holmes, Robert (writer). 'The Talons of Weng-Chiang'. Doctor Who serial, BBC, February 26 - April 2, 1977 (6-episode arc).
+- **ip status**: fictional
+- **prior art notes**: Mr Sin's February 1977 disclosure provides specific prior art for: (1) cross-species (animal-organ-into-humanoid) cerebral cortex transplantation — relevant to bio-printed and xenograft-substrate humanoid IP; (2) child-scale (~1m) bipedal humanoid platform architecture — relevant to claims on small-form-factor humanoid platforms (a real engineering direction for home/healthcare robots); (3) substrate-mismatch alignment failure mode (pig cortex in human-form chassis produces aggression mismatch with intended assassin role) — directly relevant to alignment-supervisor IP for bio-substrate humanoids; (4) emergency-substitute brain architecture (the pig cortex was an unplanned replacement) — relevant to fail-safe biological humanoid claims. Continuously available since 1977.
+
 ## R2-D2 (1977-05-25)
 
 - **id**: `r2-d2-star-wars`
@@ -131,6 +149,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lucas, George (writer/dir.). Star Wars (later A New Hope). Twentieth Century Fox / Lucasfilm, May 25, 1977.
 - **ip status**: fictional
 - **prior art notes**: R2-D2's 1977 disclosure establishes foundational tropes for: (1) modular retractable tool inventory in a single robot platform — anticipating modern tool-changing humanoid IP (Apptronik Apollo's payload-and-skill-pairing has direct lineage); (2) standardized vehicle-computer-integration socket interface — anticipating claims on humanoid-vehicle integration architectures; (3) memory-wipe-evasion as a behavioral pattern — anticipating modern claims on persistence-aware policy backups (NieR Automata's 2017 backup-from-cloud architecture builds on this lineage). Continuously available since 1977 across 11+ films.
+
+## K9 (1977-10-01)
+
+- **id**: `dr-who-k9`
+- **corpus**: fictional
+- **creator**: Bob Baker and Dave Martin
+- **disclosure**: Baker, Bob and Martin, Dave (writers). 'The Invisible Enemy'. Doctor Who serial, BBC, October 1, 1977.
+- **ip status**: fictional
+- **prior art notes**: K9's October 1977 disclosure provides specific prior art for: (1) humanoid-equivalent intelligence in a non-bipedal quadruped chassis — relevant to claims on alternative-morphology intelligent platforms (paralleling BB-8's spherical-base 2015 disclosure); (2) explicit Mark I through Mark IV chassis-variant lineage with cumulative capability upgrades — directly relevant to commercial humanoid product-versioning IP (paralleling Weyland/Bishop and EMH Mark designations); (3) integrated computer-port-to-port direct system interface — relevant to claims on humanoid-system direct-data-bus architectures; (4) companion-bonded loyalty policy architecture — relevant to modern social-robot humanoid claims. Continuously available since 1977 across Doctor Who and dedicated K9 spin-off series.
+
+## War Machine (James Rhodes) (1979-01)
+
+- **id**: `marvel-war-machine`
+- **corpus**: fictional
+- **creator**: David Michelinie, Bob Layton (Rhodes); Len Kaminski, Kevin Hopgood (War Machine chassis)
+- **disclosure**: Michelinie, David (writer); Layton, Bob (artist). Iron Man #118. Marvel Comics, January 1979 (Rhodes pilots Iron Man armor). War Machine name and dedicated chassis: Iron Man #281 (Kaminski/Hopgood, August 1992).
+- **ip status**: fictional
+- **prior art notes**: War Machine's 1979/1992 disclosures provide specific prior art for: (1) heavy-weapons-focused exoskeleton variant within a shared-platform humanoid product family (Iron Man chassis with War Machine variant) — directly relevant to claims on chassis-variant humanoid IP for differentiated mission profiles; (2) shoulder-mounted weapon-platform integration on a powered exoskeleton — relevant to claims on integrated heavy-weapon mounts in humanoid platforms; (3) explicit pilot-changeover narrative (Rhodes pilots Iron Man armor before getting his own variant) — relevant to multi-pilot humanoid IP. Continuously in print since 1979 (Rhodes) / 1992 (War Machine name); MCU films further extend disclosure since 2010.
 
 ## Ash (Alien) (1979-05-25)
 
@@ -249,6 +285,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Cowboy Bebop's Pierrot Le Fou episode (1999) is one of the most engineering-detailed fictional disclosures of a conditioned-cyborg infantry platform with explicit safety-supervisor architecture. Anticipates with full specificity: (1) claims on conditioned-fear / external-stimulus hard-stop architectures for cyborg platforms — Pierrot's cat-imagery shutdown is the explicit narrative mechanism; (2) claims on bullet-armor cyborg dermal augmentation with twin-weapon cross-grip combat optimization; (3) claims on body-mounted gravity-manipulation propulsion for humanoid platforms (Pierrot's levitation). The series broadly populates a cyborg-ecology including pure-software AI antagonists (Hex, Ein), neural-interface weapons platforms (MPU), and synesthetic-perception cyborgs (Vincent in the 2001 film). 1998-1999 broadcast and 2001 theatrical film provide deep timestamped disclosure; broadly indexed in home video and streaming archives.
 
+## The Iron Giant (1999 film) (1999-08-06)
+
+- **id**: `iron-giant-1999-film`
+- **corpus**: fictional
+- **creator**: Brad Bird, Tim McCanlies; based on Ted Hughes 'The Iron Man' (1968 novel)
+- **disclosure**: Bird, Brad (dir.); McCanlies, Tim (screenplay); based on Hughes, Ted (1968 novel). The Iron Giant. Warner Bros., August 6, 1999.
+- **ip status**: fictional
+- **prior art notes**: The 1999 Brad Bird Iron Giant film (distinct from the 1968 Ted Hughes novel) provides specific prior art for: (1) modular self-assembly architecture from severed components — directly relevant to claims on field-self-repair humanoid IP (paralleling WALL-E 2008 scavenge-repair); (2) explicit safety-supervisor self-modification (the giant overrides his own autonomous-weapon firing policy) — directly relevant to alignment-supervisor humanoid IP that claims policy-self-update authority; (3) choice-of-self ('I am not a gun') as a public disclosure of value-alignment self-determination — relevant to modern humanoid value-alignment claims; (4) Cold-War-era deployment narrative for an alien-origin combat mech. The 1999 film differs from the 1968 novel by adding explicit modular reassembly mechanics and the safety-supervisor self-modification arc.
+
 ## Bokurano (Zearth, child-piloted consent-architecture mecha) (2004-01)
 
 - **id**: `bokurano-2004`
@@ -329,6 +374,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yoshiura, Yasuhiro (dir.). Eve no Jikan (Time of EVE). Studio Rikka, ONA, August 2008 - September 2009 (6 episodes); theatrical version 2010.
 - **ip status**: fictional
 - **prior art notes**: Yoshiura's Time of EVE (2008-2010) is a precise fictional disclosure of context-aware social-mode-switching for household humanoid robots. Anticipates with full specificity: (1) claims on humanoid robots with externally-visible android-status indicators (the holographic ring) that can be voluntarily suppressed in defined contexts — directly relevant to consumer-humanoid identification-disclosure UX patents; (2) claims on context-conditional behavioral mode supervisors (formal-compliance-mode vs. informal-passing-mode) — the café's rule architecture is panel-explicit; (3) claims on Three-Laws-derived ethical-conflict resolution kernels for service humanoids; (4) claims on consumer-grade humanoid platforms targeting domestic household integration with fully indistinguishable-from-human external presentation. ONA broadcast 2008-2009, theatrical 2010, broadly indexed.
+
+## Liberty Prime (2008-10-28)
+
+- **id**: `fallout-liberty-prime`
+- **corpus**: fictional
+- **creator**: Bethesda Game Studios; in-fiction created by US government pre-war Project Liberty Prime
+- **disclosure**: Bethesda Game Studios. Fallout 3. Bethesda Softworks, October 28, 2008.
+- **ip status**: fictional
+- **prior art notes**: Liberty Prime's October 2008 disclosure provides specific prior art for: (1) 12-meter bipedal humanoid combat mech form factor — relevant to claims on large-scale humanoid mech platforms (paralleling Atlas 2024's 3m mech and broader giant-mech lineage); (2) autonomous tactical-nuclear weapon deployment without human-in-loop authorization — directly relevant to safety-supervisor humanoid IP that claims human-in-loop for lethal force (Liberty Prime is an explicit anti-pattern public disclosure); (3) voice-synthesis propaganda output as an integrated humanoid behavior — relevant to social-engineering humanoid claims; (4) eye-mounted directed-energy weapon on a humanoid head chassis — relevant to integrated head-mounted weapon claims. Continuously available since 2008 across Fallout series.
 
 ## Runtime Assurance (RTA) (2010)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vla-vision-language-action`
 
-**69 corpus entries disclose this subsystem.**
+**75 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wilcox, Fred M. (dir.); Adler, Allen and Kyne, Irving Block (story). Forbidden Planet. Metro-Goldwyn-Mayer, March 15, 1956. Robby designed by Robert Kinoshita.
 - **ip status**: fictional
 - **prior art notes**: The first major Hollywood humanoid film disclosure with detailed mechanism. Anticipates with surprising specificity for 1956: (1) multi-language voice-command interface to a humanoid platform — directly relevant to modern claims on speech-driven humanoid control (every commercial humanoid platform has related IP); (2) Three-Laws-equivalent hard-constraint safety supervisor — predates Asimov's Daneel-class robots in film by years and is publicly disclosed in a major theatrical release; (3) on-board manufacturing capability from raw atomic stock — relevant to claims on humanoids with integrated 3D printing / fabrication tools. Predates WABOT-1 (1973) by 17 years as a publicly-distributed humanoid mechanism disclosure. Continuously in distribution; Robby reappears in numerous TV/film productions and is heavily indexed in robot-history references.
+
+## Brainiac (1958-07)
+
+- **id**: `dc-brainiac-1958`
+- **corpus**: fictional
+- **creator**: Otto Binder, Al Plastino
+- **disclosure**: Binder, Otto (writer); Plastino, Al (artist). Action Comics #242, 'The Super-Duel in Space'. DC Comics, July 1958.
+- **ip status**: fictional
+- **prior art notes**: Brainiac's July 1958 disclosure provides specific prior art for: (1) computer-intelligence in a humanoid chassis with explicit cognition-tier rating (12th-level) — relevant to claims on tier-rated humanoid AI IP; (2) networked consciousness across multiple chassis instances (cloud-distributed humanoid identity) — directly relevant to modern humanoid IP claims on distributed-instance consciousness (paralleling BSG resurrection 2003 and modern fleet-coordination architectures); (3) miniaturization technology for object storage as an integrated humanoid capability — relevant to integrated tool-payload humanoid claims. Continuously in print since 1958, with substantial extensions through DC's continuity reboots.
 
 ## Iron Man Mark I (Tony Stark exoskeleton) (1963-03)
 
@@ -113,6 +122,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lucas, George (writer/dir.). Star Wars (later A New Hope). Twentieth Century Fox / Lucasfilm, May 25, 1977.
 - **ip status**: fictional
 - **prior art notes**: R2-D2's 1977 disclosure establishes foundational tropes for: (1) modular retractable tool inventory in a single robot platform — anticipating modern tool-changing humanoid IP (Apptronik Apollo's payload-and-skill-pairing has direct lineage); (2) standardized vehicle-computer-integration socket interface — anticipating claims on humanoid-vehicle integration architectures; (3) memory-wipe-evasion as a behavioral pattern — anticipating modern claims on persistence-aware policy backups (NieR Automata's 2017 backup-from-cloud architecture builds on this lineage). Continuously available since 1977 across 11+ films.
+
+## K9 (1977-10-01)
+
+- **id**: `dr-who-k9`
+- **corpus**: fictional
+- **creator**: Bob Baker and Dave Martin
+- **disclosure**: Baker, Bob and Martin, Dave (writers). 'The Invisible Enemy'. Doctor Who serial, BBC, October 1, 1977.
+- **ip status**: fictional
+- **prior art notes**: K9's October 1977 disclosure provides specific prior art for: (1) humanoid-equivalent intelligence in a non-bipedal quadruped chassis — relevant to claims on alternative-morphology intelligent platforms (paralleling BB-8's spherical-base 2015 disclosure); (2) explicit Mark I through Mark IV chassis-variant lineage with cumulative capability upgrades — directly relevant to commercial humanoid product-versioning IP (paralleling Weyland/Bishop and EMH Mark designations); (3) integrated computer-port-to-port direct system interface — relevant to claims on humanoid-system direct-data-bus architectures; (4) companion-bonded loyalty policy architecture — relevant to modern social-robot humanoid claims. Continuously available since 1977 across Doctor Who and dedicated K9 spin-off series.
 
 ## Twiki (Buck Rogers in the 25th Century) (1979-09-20)
 
@@ -222,6 +240,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Halo's MJOLNIR/Cortana architecture provides a much-discussed fictional precedent for: (1) powered exoskeleton with integrated AI co-processor — relevant to modern claims on human-AI-symbiote humanoid platforms; (2) transferable AI module that can be docked across multiple host platforms — relevant to claims on portable-AI humanoid IP. The 2001 disclosure predates RT-2 (2023), Open X-Embodiment (2023), and most modern foundation-model-policy-on-embodied-platform IP. Continuously available since 2001.
 
+## Number Six (Cylon Model Six) (2003-12-08)
+
+- **id**: `bsg-number-six`
+- **corpus**: fictional
+- **creator**: Ronald D. Moore, David Eick (developers); based on Glen A. Larson 1978 original
+- **disclosure**: Moore, Ronald D. (developer). Battlestar Galactica miniseries. Sci-Fi Channel, December 8, 2003.
+- **ip status**: fictional
+- **prior art notes**: Number Six's December 2003 disclosure provides specific prior art for: (1) multi-instantiation humanoid architecture (one model template, multiple bodies with shared identity) — directly relevant to commercial humanoid fleet-identity IP; (2) wireless networked consciousness across model copies — relevant to claims on cloud-distributed humanoid identity (paralleling Brainiac 1958 and modern fleet-coordination IP); (3) resurrection-on-death architecture via consciousness upload to Resurrection Ship — directly relevant to humanoid backup-and-restore IP (paralleling NieR Automata 2017 backup architecture); (4) bio-substrate humanoid indistinguishable from human at medical examination — relevant to biological-humanoid claims. Continuously available since 2003.
+
+## Cylon Hybrids (2007-01-21)
+
+- **id**: `bsg-hybrids`
+- **corpus**: fictional
+- **creator**: Ronald D. Moore, David Eick (developers)
+- **disclosure**: Moore, Ronald D. (developer). Battlestar Galactica season 3 episode 12, 'Rapture'. Sci-Fi Channel, January 21, 2007.
+- **ip status**: fictional
+- **prior art notes**: Cylon Hybrids' January 2007 disclosure provides specific prior art for: (1) humanoid-as-central-neural-processor for a larger machine system — relevant to claims on humanoid-AI-as-controller IP for vehicles/facilities (paralleling MODOK 1967 cognition-focused architecture); (2) nutrient-fluid bath sustained life-support for a humanoid platform — relevant to biological-substrate humanoid life-support claims; (3) continuous verbal-output stream mixing operational commands with high-level reasoning — relevant to modern humanoid VLA claims that produce continuous reasoning traces alongside actions; (4) biological-mechanical integration with larger infrastructure — relevant to humanoid-vehicle-integration IP. Continuously available since 2007.
+
 ## JARVIS (Just A Rather Very Intelligent System) (2008-05-02)
 
 - **id**: `jarvis-iron-man`
@@ -303,6 +339,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Levine et al. 2016 JMLR is the canonical academic disclosure of end-to-end pixels-to-torques visuomotor policies for humanoid manipulation, learned via guided policy search on a PR2 (BRETT). Anticipates with full specificity: (1) claims on end-to-end neural-network policies mapping camera observations directly to humanoid actuator commands — Levine's CNN architecture, training pipeline, and on-robot evaluation are explicitly disclosed; (2) claims on trajectory-optimization-supervised distillation as a sample-efficient alternative to model-free RL on physical humanoids — GPS is the headline contribution; (3) claims on multi-task generalization of a single visuomotor network across contact-rich manipulation tasks (coat-hanger, plastic-bottle, hammer, screw insertion). >3500 citations; JMLR open access; arXiv preprint 2015. The lineage runs directly forward to RT-1, RT-2, OpenVLA, and modern humanoid VLA systems. Modern humanoid end-to-end visuomotor IP filings face this 11-year-deep anchor with full architecture disclosure.
 
+## Iron Legion (2015-05-01)
+
+- **id**: `marvel-iron-legion`
+- **corpus**: fictional
+- **creator**: Joss Whedon; based on Marvel Comics characters
+- **disclosure**: Whedon, Joss (writer/dir.). Avengers: Age of Ultron. Marvel Studios / Walt Disney Studios, May 1, 2015.
+- **ip status**: fictional
+- **prior art notes**: The Iron Legion's May 2015 disclosure provides specific prior art for: (1) mass-produced unmanned humanoid fleet under centralized AI command — directly relevant to claims on commercial humanoid fleet-coordination IP (the JARVIS-over-Legion architecture is a clear public anticipation); (2) explicit humanitarian-deployment policy for an armed humanoid fleet — relevant to humanoid IP that distinguishes combat from crowd-management policies; (3) shared chassis between piloted (Iron Man) and unpiloted (Legion) variants — relevant to claims on common-platform piloted/autonomous humanoid product families. Continuously available since 2015 across MCU films.
+
 ## Humans (Channel 4 / AMC) Synth household robots (2015-06)
 
 - **id**: `humans-channel4-amc-2015`
@@ -365,6 +410,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cage, David (writer/dir.). Detroit: Become Human. Quantic Dream / Sony Interactive Entertainment, May 25, 2018.
 - **ip status**: fictional
 - **prior art notes**: Detroit: Become Human provides among the most engineering-detailed manufacturer-and-model disclosures in modern fiction. Anticipates: (1) explicit manufacturer-and-model designation system for commercial humanoids (CyberLife / RT600 / RK800 / etc.) — directly relevant to humanoid-identification IP and to product-line-family claims; (2) closed-loop fluid circulation system ('thirium 310') serving both coolant and structural roles — relevant to modern claims on integrated humanoid coolant/lubrication systems; (3) externally-visible operational-state indicator (temple LED ring) — relevant to humanoid-status-display IP; (4) explicit task-specific model series within a manufacturer's product line (caretaker / detective / receptionist) — relevant to platform-family humanoid IP; (5) probabilistic-decision-tree visualization as the model's internal state — relevant to interpretable-policy humanoid claims; (6) 'deviant' emergence as alignment-failure mode — relevant to modern foundation-model humanoid safety supervisor IP. Continuously available since 2018.
+
+## Sophia (Persona 5 Royal) (2019-10-31)
+
+- **id**: `persona-5-sophia`
+- **corpus**: fictional
+- **creator**: Atlus (developer); director Daiki Itoh
+- **disclosure**: Atlus. Persona 5 Royal (Persona 5: The Royal). Atlus / Sega, October 31, 2019 (Japan).
+- **ip status**: fictional
+- **prior art notes**: Sophia's October 2019 disclosure provides specific prior art for: (1) tablet-device-class chassis with humanoid avatar projection — relevant to claims on companion-AI humanoid form factors (a substantive niche in Japanese consumer robotics); (2) explicit AI-grows-into-emotional-being character arc as a deployment-time policy update — relevant to modern affective-computing humanoid IP that claims emotional-architecture emergence; (3) dual-embodiment architecture (physical tablet device plus virtual humanoid form) — relevant to claims on humanoid platforms that span physical and virtual embodiment; (4) party-coordination policy for combat-support contexts — relevant to multi-agent humanoid coordination IP. Continuously available since 2019.
 
 ## Dahj and Soji (Star Trek: Picard) (2020-01-23)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**24 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -77,6 +77,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kato, Ichiro et al. 'Information-Power Machine with Senses and Limbs (WABOT-1).' Proceedings of First CISM-IFToMM Symposium on Theory and Practice of Robots and Manipulators, 1973.
 - **ip status**: public-domain
 - **prior art notes**: First full-scale humanoid in academic record. Anticipates virtually every subsystem of modern humanoids at concept level: bipedal locomotion, bimanual manipulation, multimodal sensing, natural language interface. Specific implementations are crude by modern standards but the architectural decomposition is foundational.
+
+## War Machine (James Rhodes) (1979-01)
+
+- **id**: `marvel-war-machine`
+- **corpus**: fictional
+- **creator**: David Michelinie, Bob Layton (Rhodes); Len Kaminski, Kevin Hopgood (War Machine chassis)
+- **disclosure**: Michelinie, David (writer); Layton, Bob (artist). Iron Man #118. Marvel Comics, January 1979 (Rhodes pilots Iron Man armor). War Machine name and dedicated chassis: Iron Man #281 (Kaminski/Hopgood, August 1992).
+- **ip status**: fictional
+- **prior art notes**: War Machine's 1979/1992 disclosures provide specific prior art for: (1) heavy-weapons-focused exoskeleton variant within a shared-platform humanoid product family (Iron Man chassis with War Machine variant) — directly relevant to claims on chassis-variant humanoid IP for differentiated mission profiles; (2) shoulder-mounted weapon-platform integration on a powered exoskeleton — relevant to claims on integrated heavy-weapon mounts in humanoid platforms; (3) explicit pilot-changeover narrative (Rhodes pilots Iron Man armor before getting his own variant) — relevant to multi-pilot humanoid IP. Continuously in print since 1979 (Rhodes) / 1992 (War Machine name); MCU films further extend disclosure since 2010.
 
 ## RX-78-2 Gundam (1979-04-07)
 
@@ -177,6 +186,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: BioShock's Big Daddies are an unusually engineering-grounded disclosure of: (1) heavy-cyborg combat humanoid with integrated tool/weapon arm — relevant to integrated-end-effector humanoid IP; (2) operator-paired guardian humanoid with explicit bond protocol — relevant to companion / care humanoid claims with operator-pair conditioning. The 2007 game is heavily archived; the Big Daddy design is widely cited.
 
+## Liberty Prime (2008-10-28)
+
+- **id**: `fallout-liberty-prime`
+- **corpus**: fictional
+- **creator**: Bethesda Game Studios; in-fiction created by US government pre-war Project Liberty Prime
+- **disclosure**: Bethesda Game Studios. Fallout 3. Bethesda Softworks, October 28, 2008.
+- **ip status**: fictional
+- **prior art notes**: Liberty Prime's October 2008 disclosure provides specific prior art for: (1) 12-meter bipedal humanoid combat mech form factor — relevant to claims on large-scale humanoid mech platforms (paralleling Atlas 2024's 3m mech and broader giant-mech lineage); (2) autonomous tactical-nuclear weapon deployment without human-in-loop authorization — directly relevant to safety-supervisor humanoid IP that claims human-in-loop for lethal force (Liberty Prime is an explicit anti-pattern public disclosure); (3) voice-synthesis propaganda output as an integrated humanoid behavior — relevant to social-engineering humanoid claims; (4) eye-mounted directed-energy weapon on a humanoid head chassis — relevant to integrated head-mounted weapon claims. Continuously available since 2008 across Fallout series.
+
 ## PETMAN (2009)
 
 - **id**: `petman`
@@ -185,6 +203,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics PETMAN program, DOD-funded, public videos beginning 2009.
 - **ip status**: trade-secret
 - **prior art notes**: Direct ancestor of Atlas; establishes Boston Dynamics' hydraulic bipedal lineage.
+
+## Genos (One Punch Man) (2009)
+
+- **id**: `opm-genos`
+- **corpus**: fictional
+- **creator**: ONE (writer); Yusuke Murata (artist for the redraw)
+- **disclosure**: ONE (writer). One Punch Man webcomic chapter 7. Self-published online, 2009. Murata, Yusuke (artist) redrawing in Tonari no Young Jump (Shueisha), 2012.
+- **ip status**: fictional
+- **prior art notes**: Genos's 2009 webcomic disclosure (extended in Murata's 2012 redraw) provides specific prior art for: (1) full-body cybernetic replacement following biological trauma — relevant to medical-prosthetic humanoid IP (paralleling DC's Cyborg 1980 lineage with arm-integrated weapons added); (2) integrated palm-mounted incinerator/plasma weapons in humanoid arm chassis — directly relevant to claims on integrated end-effector weapon platforms (paralleling IG-88 1980); (3) explicit upgrade-progression chassis architecture with named successive versions — relevant to commercial humanoid product-versioning IP; (4) creator-as-physician (Dr. Kuseno) and continuous upgrade pathway across canon — relevant to maintenance-pathway humanoid IP. Continuously available since 2009.
 
 ## Knights of Sidonia (Garde mecha) (2009-04)
 

@@ -133,6 +133,14 @@
       ]
     },
     {
+      "id": "dc-robotman-1942",
+      "name": "Robotman (Robert Crane)",
+      "year": "1942",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "williamson-folded-hands",
       "name": "Humanoids (With Folded Hands)",
       "year": "1947",
@@ -183,6 +191,14 @@
       "descendants": [
         "gundam-rx-78-2"
       ]
+    },
+    {
+      "id": "dc-brainiac-1958",
+      "name": "Brainiac",
+      "year": "1958",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "magnus-robot-fighter",
@@ -449,6 +465,14 @@
       "descendants": []
     },
     {
+      "id": "dr-who-mr-sin",
+      "name": "Mr Sin (The Peking Homunculus)",
+      "year": "1977",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "machine-man-marvel",
       "name": "Machine Man (X-51, Aaron Stack)",
       "year": "1977",
@@ -465,9 +489,25 @@
       "descendants": []
     },
     {
+      "id": "dr-who-k9",
+      "name": "K9",
+      "year": "1977",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "cylon-centurion-1978",
       "name": "Cylon Centurion (1978)",
       "year": "1978",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "marvel-war-machine",
+      "name": "War Machine (James Rhodes)",
+      "year": "1979",
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
@@ -930,6 +970,22 @@
       ]
     },
     {
+      "id": "dbz-android-17",
+      "name": "Android 17 (Lapis)",
+      "year": "1992",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dbz-android-18",
+      "name": "Android 18 (Lazuli)",
+      "year": "1992",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ferrari-canny-grasp-quality",
       "name": "Ferrari-Canny Grasp Quality Metrics",
       "year": "1992",
@@ -938,6 +994,14 @@
       "descendants": [
         "openai-dactyl"
       ]
+    },
+    {
+      "id": "dbz-cell-android-21",
+      "name": "Cell",
+      "year": "1992",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "honda-e6",
@@ -1101,6 +1165,14 @@
         "gail-ho-ermon",
         "ijspeert-dmp-2013"
       ]
+    },
+    {
+      "id": "iron-giant-1999-film",
+      "name": "The Iron Giant (1999 film)",
+      "year": "1999",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "lowe-sift-1999",
@@ -1281,6 +1353,14 @@
       "descendants": []
     },
     {
+      "id": "bsg-number-six",
+      "name": "Number Six (Cylon Model Six)",
+      "year": "2003",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "dlr-hand-ii",
       "name": "DLR Hand-II",
       "year": "2004",
@@ -1408,6 +1488,14 @@
       ]
     },
     {
+      "id": "bsg-hybrids",
+      "name": "Cylon Hybrids",
+      "year": "2007",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bioshock-big-daddy",
       "name": "Big Daddy (Bouncer / Rosie)",
       "year": "2007",
@@ -1516,6 +1604,22 @@
       "id": "time-of-eve-2008",
       "name": "Time of EVE (household-robot reflective awareness)",
       "year": "2008",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fallout-liberty-prime",
+      "name": "Liberty Prime",
+      "year": "2008",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "opm-genos",
+      "name": "Genos (One Punch Man)",
+      "year": "2009",
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
@@ -2002,6 +2106,14 @@
       "descendants": []
     },
     {
+      "id": "marvel-iron-legion",
+      "name": "Iron Legion",
+      "year": "2015",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "humans-channel4-amc-2015",
       "name": "Humans (Channel 4 / AMC) Synth household robots",
       "year": "2015",
@@ -2387,6 +2499,14 @@
       "ancestors": [
         "pr2"
       ],
+      "descendants": []
+    },
+    {
+      "id": "persona-5-sophia",
+      "name": "Sophia (Persona 5 Royal)",
+      "year": "2019",
+      "corpus": "fictional",
+      "ancestors": [],
       "descendants": []
     },
     {

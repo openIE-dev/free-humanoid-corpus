@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `power-li-ion`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `power-li-ion`  
-**Entries:** 60 (40 commons-grade, 20 draft)  
+**Entries:** 61 (41 commons-grade, 20 draft)  
 **Earliest disclosure:** 1886  
 **Most recent disclosure:** 2025-10
 
@@ -790,6 +790,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-10-31 — Sophia (Persona 5 Royal)
+
+- **id:** `persona-5-sophia`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Atlus (developer); director Daiki Itoh
+- **disclosure citation:** Atlus. Persona 5 Royal (Persona 5: The Royal). Atlus / Sega, October 31, 2019 (Japan).
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `power-li-ion`
+
+**Prior art notes:**
+
+> Sophia's October 2019 disclosure provides specific prior art for: (1) tablet-device-class chassis with humanoid avatar projection — relevant to claims on companion-AI humanoid form factors (a substantive niche in Japanese consumer robotics); (2) explicit AI-grows-into-emotional-being character arc as a deployment-time policy update — relevant to modern affective-computing humanoid IP that claims emotional-architecture emergence; (3) dual-embodiment architecture (physical tablet device plus virtual humanoid form) — relevant to claims on humanoid platforms that span physical and virtual embodiment; (4) party-coordination policy for combat-support contexts — relevant to multi-agent humanoid coordination IP. Continuously available since 2019.
+
+**Sources:**
+
+1. Atlus. Persona 5 Royal. Atlus / Sega, 2019-10-31 (JP).
+2. Persona 5 Royal Sophia character continuity.
+
+---
+
 ### 2021-06 — Unitree Go1
 
 - **id:** `unitree-go1`
@@ -1254,4 +1274,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

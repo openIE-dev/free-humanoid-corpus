@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `sensing-stereo-camera`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `sensing-stereo-camera`  
 **Entries:** 79 (59 commons-grade, 20 draft)  
 **Earliest disclosure:** 1973  
@@ -1652,4 +1652,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

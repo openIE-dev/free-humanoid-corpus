@@ -1,6 +1,6 @@
 # Corpus Index
 
-291 entries total. Generated from corpus.jsonl.
+306 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -15,6 +15,8 @@
 | ALVINN (Autonomous Land Vehicle in a Neural Network) | `pomerleau-alvinn` | 1989 | academic | public-domain |  |
 | Ameca | `ameca` | 2021 | private | patented | ✓ |
 | Andrew (The Bicentennial Man) | `asimov-bicentennial-man` | 1976 | fictional | fictional | ✓ |
+| Android 17 (Lapis) | `dbz-android-17` | 1992 | fictional | fictional |  |
+| Android 18 (Lazuli) | `dbz-android-18` | 1992 | fictional | fictional |  |
 | ANYmal | `anymal` | 2016 | private | patented |  |
 | ANYmal-D industrial quadruped (ETH RSL / ANYbotics) | `anymal-d-eth-rsl-2022` | 2022 | academic | public-domain |  |
 | Apptronik Apollo | `apptronik-apollo` | 2023 | private | patented | ✓ |
@@ -49,11 +51,13 @@
 | Borg Collective (Star Trek TNG) | `borg-tng-1989` | 1989 | fictional | fictional |  |
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
 | Boston Dynamics Spot (fuel-cell variant) | `spot-fuel-cell` | 2020 | private | patented | ✓ |
+| Brainiac | `dc-brainiac-1958` | 1958 | fictional | fictional |  |
 | BridgeData V2 multi-robot trajectory dataset | `bridgedata-v2-walke-2023` | 2023 | academic | public-domain |  |
 | Brockett's Necessary Condition for Stabilizability | `brockett-condition-1983` | 1983 | academic | public-domain |  |
 | Caltech CAST Hank bipedal platform | `caltech-hank-cast-2019` | 2019 | academic | public-domain |  |
 | Casshan / Casshern (Neo-Human Casshan) | `casshan-tatsunoko` | 1973 | fictional | fictional | ✓ |
 | Cassie | `cassie-osu` | 2017 | academic | patented |  |
+| Cell | `dbz-cell-android-21` | 1992 | fictional | fictional |  |
 | Chappie | `chappie` | 2015 | fictional | fictional |  |
 | Cheetah-cub | `cheetah-cub-epfl` | 2013 | academic | open-permissive |  |
 | CLIP (Contrastive Language-Image Pretraining) | `radford-clip-2021` | 2021 | academic | open-permissive |  |
@@ -70,6 +74,7 @@
 | Cyborg (Vic Stone) | `cyborg-vic-stone-dc` | 1980 | fictional | fictional |  |
 | Cyborg 009 (Joe Shimamura and the 00 Cyborgs) | `cyborg-009` | 1964 | fictional | fictional |  |
 | Cylon Centurion (1978) | `cylon-centurion-1978` | 1978 | fictional | fictional |  |
+| Cylon Hybrids | `bsg-hybrids` | 2007 | fictional | fictional |  |
 | Dahj and Soji (Star Trek: Picard) | `picard-soji` | 2020 | fictional | fictional |  |
 | Daleks | `daleks-doctor-who` | 1963 | fictional | fictional |  |
 | DARwIn-OP | `darwin-op` | 2010 | open | open-permissive |  |
@@ -104,6 +109,7 @@
 | GelSight | `gelsight` | 2009 | academic | open-permissive |  |
 | Generation-3 Synths (Institute Synths) | `fallout-gen-3-synths` | 2015 | fictional | fictional |  |
 | Generative Adversarial Imitation Learning (GAIL) | `gail-ho-ermon` | 2016 | academic | open-permissive |  |
+| Genos (One Punch Man) | `opm-genos` | 2009 | fictional | fictional |  |
 | Geth | `geth-mass-effect` | 2007 | fictional | fictional |  |
 | Ghost Robotics Vision 60 | `ghost-robotics-vision-60` | 2018 | private | patented |  |
 | Goswami Foot Rotation Indicator | `goswami-fri` | 1999 | academic | public-domain |  |
@@ -139,6 +145,7 @@
 | IG-88 | `ig-88-star-wars` | 1980 | fictional | fictional |  |
 | Ijspeert-Schaal Dynamic Movement Primitives (formal extension) | `ijspeert-dmp-2013` | 2013 | academic | public-domain |  |
 | InMoov | `inmoov` | 2012 | open | open-permissive |  |
+| Iron Legion | `marvel-iron-legion` | 2015 | fictional | fictional |  |
 | Iron Man Mark I (Tony Stark exoskeleton) | `iron-man-mark-i` | 1963 | fictional | fictional |  |
 | ISO 10218 Collaborative Robot Safety | `iso-10218-collaborative-robots` | 2006 | academic | public-domain |  |
 | Jaegers (Pacific Rim) | `pacific-rim-jaegers` | 2013 | fictional | fictional |  |
@@ -146,6 +153,7 @@
 | Jaquet-Droz The Writer | `jaquet-droz-writer` | 1772 | fictional | public-domain |  |
 | JARVIS (Just A Rather Very Intelligent System) | `jarvis-iron-man` | 2008 | fictional | fictional |  |
 | K-Scale Labs Open Source Humanoid | `k-scale-os` | 2024 | open | open-permissive | ✓ |
+| K9 | `dr-who-k9` | 1977 | fictional | fictional |  |
 | Kajita Linear Inverted Pendulum Model | `kajita-lipm` | 2001 | academic | public-domain |  |
 | Kawasaki Kaleido | `kawasaki-kaleido` | 2017 | private | patented |  |
 | Kepler K2 | `kepler-k2` | 2024 | private | patented | ✓ |
@@ -156,6 +164,7 @@
 | KX-series Imperial Security Droids (K-2SO) | `kx-series-k2so-2016` | 2016 | fictional | fictional |  |
 | Leonardo's Mechanical Knight | `da-vinci-knight` | 1495 | fictional | public-domain |  |
 | Levine Guided Policy Search end-to-end manipulation on PR2/BRETT | `levine-gps-pr2-2016` | 2015 | academic | public-domain |  |
+| Liberty Prime | `fallout-liberty-prime` | 2008 | fictional | fictional |  |
 | LimX Dynamics CL-1 | `limx-cl1` | 2023 | private | patented | ✓ |
 | Lore (Star Trek: TNG) | `star-trek-tng-lore` | 1988 | fictional | fictional |  |
 | Lucas-Kanade Optical Flow | `lucas-kanade-1981` | 1981 | academic | public-domain |  |
@@ -175,12 +184,14 @@
 | MJOLNIR Powered Assault Armor / Master Chief | `halo-mjolnir-master-chief` | 2001 | fictional | fictional |  |
 | Mobile ALOHA | `mobile-aloha` | 2024 | academic | open-permissive |  |
 | MODOK | `modok-marvel` | 1967 | fictional | fictional | ✓ |
+| Mr Sin (The Peking Homunculus) | `dr-who-mr-sin` | 1977 | fictional | fictional |  |
 | Murderbot Diaries — SecUnit with hacked governor module | `murderbot-diaries-wells-2017` | 2017 | fictional | public-domain |  |
 | NAO | `nao` | 2006 | private | patented |  |
 | NASA Valkyrie | `nasa-valkyrie` | 2013 | academic | open-permissive |  |
 | Neura 4NE-1 | `neura-4ne1` | 2024 | private | patented | ✓ |
 | Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) | `gibson-neuromancer-constructs` | 1984 | fictional | fictional |  |
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
+| Number Six (Cylon Model Six) | `bsg-number-six` | 2003 | fictional | fictional |  |
 | NVIDIA GR00T (Generalist Robot 00 Technology) | `nvidia-groot-2024` | 2024 | academic | open-permissive |  |
 | Octo (Open-Source Generalist Robot Policy) | `octo-policy` | 2024 | academic | open-permissive |  |
 | ODrive | `odrive` | 2017 | open | open-permissive |  |
@@ -223,6 +234,7 @@
 | Robonaut 2 | `robonaut-2` | 2010 | academic | patented |  |
 | Robot (Robot & Frank) | `robot-and-frank` | 2012 | fictional | fictional |  |
 | Robot Era STAR1 | `robot-era-star1` | 2024 | private | patented | ✓ |
+| Robotman (Robert Crane) | `dc-robotman-1942` | 1942 | fictional | fictional |  |
 | Roetenberg Inertial Motion Capture (Xsens MVN) | `roetenberg-xsens-imu` | 2009 | academic | open-permissive |  |
 | Rossum's Universal Robots | `rur-rossums-robots` | 1920 | fictional | public-domain |  |
 | RT-1 (Robotics Transformer 1) | `rt-1` | 2022 | academic | open-permissive |  |
@@ -249,6 +261,7 @@
 | Sony AIBO | `sony-aibo` | 1999 | private | patented |  |
 | Sony QRIO | `sony-qrio` | 2003 | private | patented |  |
 | Sophia | `hanson-sophia` | 2016 | private | patented |  |
+| Sophia (Persona 5 Royal) | `persona-5-sophia` | 2019 | fictional | fictional |  |
 | Stanford JackRabbot 2 (JR-2) wheeled-arm research robot | `stanford-jr2-2018` | 2018 | academic | public-domain |  |
 | Steins;Gate 0 Amadeus AI consciousness backup | `steins-gate-amadeus-2015` | 2015 | fictional | public-domain |  |
 | Sumitomo CYCLO Speed Reducer | `sumitomo-cyclo` | 1937 | academic | public-domain |  |
@@ -263,6 +276,7 @@
 | The Doctor (Emergency Medical Hologram Mark I) | `emh-mark-i-voyager` | 1995 | fictional | fictional |  |
 | The Greatest Robot on Earth (eight mecha disclosures) | `astro-boy-greatest-robot` | 1964 | fictional | fictional |  |
 | The Iron Giant | `iron-giant` | 1968 | fictional | fictional |  |
+| The Iron Giant (1999 film) | `iron-giant-1999-film` | 1999 | fictional | fictional |  |
 | The Vision | `vision-marvel` | 1968 | fictional | fictional | ✓ |
 | The Wild Robot — ROZZUM unit 7134 | `wild-robot-rozzum-7134-brown-2016` | 2016 | fictional | public-domain |  |
 | THX 1138 Chrome Police Robots | `thx-1138-chrome-cops` | 1971 | fictional | fictional |  |
@@ -289,6 +303,7 @@
 | WABIAN-2 | `wabian-2` | 2006 | academic | open-permissive |  |
 | WABOT-1 | `wabot-1` | 1973 | academic | public-domain |  |
 | WALL-E and EVE (Pixar 2008) | `wall-e-eve-pixar` | 2008 | fictional | fictional |  |
+| War Machine (James Rhodes) | `marvel-war-machine` | 1979 | fictional | fictional |  |
 | Westworld Hosts (1973 / 2016) | `westworld-hosts` | 1973 | fictional | fictional |  |
 | Willow Garage PR1 | `willow-pr1` | 2008 | academic | open-permissive |  |
 | XPeng Iron | `xpeng-iron` | 2024 | private | patented | ✓ |

@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `sensing-tactile-whole-body`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `sensing-tactile-whole-body`  
 **Entries:** 7 (7 commons-grade, 0 draft)  
 **Earliest disclosure:** 1989-05  
@@ -216,4 +216,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

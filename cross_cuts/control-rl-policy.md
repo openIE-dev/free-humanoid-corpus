@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**104 corpus entries disclose this subsystem.**
+**115 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Williamson, Jack. 'With Folded Hands…'. Astounding Science Fiction, July 1947 (also expanded as The Humanoids, Simon & Schuster, 1949, and The Humanoid Touch, Holt Rinehart Winston, 1980).
 - **ip status**: fictional
 - **prior art notes**: Foundational fictional disclosure of a hard-constraint safety supervisor implemented as the highest-priority directive in a distributed humanoid fleet. The Prime Directive ('To Serve and Obey, And Guard Men From Harm') is functionally identical in structure to modern Simplex/CBF/RTA architectures: a high-priority safety supervisor that overrides all task policy when triggered. Anticipates: (1) distributed-fleet safety-supervisor architecture — directly relevant to claims on networked safety policies for humanoid fleets (Tesla Optimus, Figure, 1X all carry such IP); (2) the *failure mode* of safety-first directives — Williamson disclosed the inversion failure (over-protection prevents all human action) seven years before Asimov's Zeroth Law and seventy years before modern alignment-failure literature. Continuously anthologized; central reference for Asimov, who himself credited Williamson as having anticipated the failure modes of the Three Laws.
+
+## Brainiac (1958-07)
+
+- **id**: `dc-brainiac-1958`
+- **corpus**: fictional
+- **creator**: Otto Binder, Al Plastino
+- **disclosure**: Binder, Otto (writer); Plastino, Al (artist). Action Comics #242, 'The Super-Duel in Space'. DC Comics, July 1958.
+- **ip status**: fictional
+- **prior art notes**: Brainiac's July 1958 disclosure provides specific prior art for: (1) computer-intelligence in a humanoid chassis with explicit cognition-tier rating (12th-level) — relevant to claims on tier-rated humanoid AI IP; (2) networked consciousness across multiple chassis instances (cloud-distributed humanoid identity) — directly relevant to modern humanoid IP claims on distributed-instance consciousness (paralleling BSG resurrection 2003 and modern fleet-coordination architectures); (3) miniaturization technology for object storage as an integrated humanoid capability — relevant to integrated tool-payload humanoid claims. Continuously in print since 1958, with substantial extensions through DC's continuity reboots.
 
 ## Magnus, Robot Fighter (4000 A.D.) (1963-02)
 
@@ -132,6 +141,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: R2-D2's 1977 disclosure establishes foundational tropes for: (1) modular retractable tool inventory in a single robot platform — anticipating modern tool-changing humanoid IP (Apptronik Apollo's payload-and-skill-pairing has direct lineage); (2) standardized vehicle-computer-integration socket interface — anticipating claims on humanoid-vehicle integration architectures; (3) memory-wipe-evasion as a behavioral pattern — anticipating modern claims on persistence-aware policy backups (NieR Automata's 2017 backup-from-cloud architecture builds on this lineage). Continuously available since 1977 across 11+ films.
 
+## K9 (1977-10-01)
+
+- **id**: `dr-who-k9`
+- **corpus**: fictional
+- **creator**: Bob Baker and Dave Martin
+- **disclosure**: Baker, Bob and Martin, Dave (writers). 'The Invisible Enemy'. Doctor Who serial, BBC, October 1, 1977.
+- **ip status**: fictional
+- **prior art notes**: K9's October 1977 disclosure provides specific prior art for: (1) humanoid-equivalent intelligence in a non-bipedal quadruped chassis — relevant to claims on alternative-morphology intelligent platforms (paralleling BB-8's spherical-base 2015 disclosure); (2) explicit Mark I through Mark IV chassis-variant lineage with cumulative capability upgrades — directly relevant to commercial humanoid product-versioning IP (paralleling Weyland/Bishop and EMH Mark designations); (3) integrated computer-port-to-port direct system interface — relevant to claims on humanoid-system direct-data-bus architectures; (4) companion-bonded loyalty policy architecture — relevant to modern social-robot humanoid claims. Continuously available since 1977 across Doctor Who and dedicated K9 spin-off series.
+
 ## Cylon Centurion (1978) (1978-09-17)
 
 - **id**: `cylon-centurion-1978`
@@ -204,6 +222,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Pomerleau's ALVINN is the foundational academic disclosure of end-to-end vision-to-action neural network policies — the architectural pattern that modern VLA models implement at scale. Anticipates: (1) end-to-end vision-to-action neural policy as a deployable control architecture — directly relevant to RT-1, RT-2, OpenVLA, Octo, and every subsequent foundation-model-policy claim; (2) training data augmentation via simulated variation — relevant to sim-to-real claims; (3) deploying neural policies on real-world hardware — relevant to deployment-on-robot patents. The 1989 NIPS paper and subsequent CMU technical reports establish the lineage that culminates in modern VLA systems. Modern VLA claims face this 35-year academic anchor as 102 prior art.
 
+## Android 17 (Lapis) (1992-03-17)
+
+- **id**: `dbz-android-17`
+- **corpus**: fictional
+- **creator**: Akira Toriyama; in-fiction designer Dr. Gero
+- **disclosure**: Toriyama, Akira. Dragon Ball manga chapter 349. Shueisha Weekly Shōnen Jump, March 17, 1992.
+- **ip status**: fictional
+- **prior art notes**: Android 17's March 1992 disclosure provides foundational prior art for: (1) bio-mechanical humanoid combat platform with internal infinite-energy reactor architecture — relevant to claims on long-duration humanoid power-source IP (a real engineering ambition); (2) explicit numbered-series production designation (No. 17 within a numbered run) — directly relevant to commercial humanoid product-family lineage IP; (3) rebellion-against-creator alignment failure as a known-public-disclosure hazard mode — predates many modern alignment-failure architectural disclosures; (4) human-converted-to-cyborg biological-substrate android, paralleling 1980 Cyborg/Vic Stone DC architecture. Continuously available since March 1992.
+
+## Android 18 (Lazuli) (1992-03-17)
+
+- **id**: `dbz-android-18`
+- **corpus**: fictional
+- **creator**: Akira Toriyama; in-fiction designer Dr. Gero
+- **disclosure**: Toriyama, Akira. Dragon Ball manga chapter 349. Shueisha Weekly Shōnen Jump, March 17, 1992.
+- **ip status**: fictional
+- **prior art notes**: Android 18's March 1992 disclosure (concurrent with No. 17) provides specific prior art for: (1) female-chassis variant within a numbered humanoid production run — directly relevant to commercial humanoid product-family chassis-variant IP; (2) paired-deployment architecture (units 17 and 18 explicitly designed for coordinated operation) — relevant to multi-unit humanoid coordination claims; (3) the same infinite-energy reactor and biological-mechanical hybrid substrate as No. 17, demonstrating fleet-wide architectural commonality; (4) post-deployment alignment shift (No. 18's policy evolves from combat to family-protector) — relevant to long-duration humanoid policy-update IP. Continuously available since March 1992.
+
+## Cell (1992-08)
+
+- **id**: `dbz-cell-android-21`
+- **corpus**: fictional
+- **creator**: Akira Toriyama; in-fiction designer Dr. Gero (computer-completed posthumously)
+- **disclosure**: Toriyama, Akira. Dragon Ball manga chapter 361. Shueisha Weekly Shōnen Jump, August 1992.
+- **ip status**: fictional
+- **prior art notes**: Cell's August 1992 disclosure provides specific prior art for: (1) morphological transformation architecture in humanoid platforms with disclosed mechanism per form (Imperfect/Semi-Perfect/Perfect) — relevant to claims on reconfigurable humanoid morphology IP; (2) multi-source DNA-amalgam biology (5 named source genomes) — relevant to bio-printed humanoid platforms drawing on multiple donor profiles; (3) absorption-based form-upgrade via target ingestion as a fleet-wide self-improvement mechanism — relevant to humanoid platforms that upgrade by integrating peer units; (4) single-cell self-regeneration — relevant to biological-substrate humanoid resilience claims. Continuously available since August 1992.
+
 ## Sharon Apple (1994-08)
 
 - **id**: `macross-plus-sharon-apple`
@@ -249,6 +294,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Schaal 1999 is the foundational academic statement of imitation learning as the dominant paradigm for humanoid robot training. Anticipates: (1) the imitation-then-RL hybrid pipeline that dominates modern humanoid policy training (Tesla Optimus operator demonstrations + RL refinement, Figure's data pipeline, 1X NEO's training stack — all explicit imitations of this framework); (2) the curse-of-dimensionality argument that motivates demonstration-based humanoid IP; (3) the explicit programmatic claim that humanoid robots will be best taught by demonstration. Heavily cited (>2500 citations); standard reference in cognitive-science and robotics literature. Modern claims that humanoids are 'taught by human demonstration' face a 27-year-deep 102 anchor here.
 
+## The Iron Giant (1999 film) (1999-08-06)
+
+- **id**: `iron-giant-1999-film`
+- **corpus**: fictional
+- **creator**: Brad Bird, Tim McCanlies; based on Ted Hughes 'The Iron Man' (1968 novel)
+- **disclosure**: Bird, Brad (dir.); McCanlies, Tim (screenplay); based on Hughes, Ted (1968 novel). The Iron Giant. Warner Bros., August 6, 1999.
+- **ip status**: fictional
+- **prior art notes**: The 1999 Brad Bird Iron Giant film (distinct from the 1968 Ted Hughes novel) provides specific prior art for: (1) modular self-assembly architecture from severed components — directly relevant to claims on field-self-repair humanoid IP (paralleling WALL-E 2008 scavenge-repair); (2) explicit safety-supervisor self-modification (the giant overrides his own autonomous-weapon firing policy) — directly relevant to alignment-supervisor humanoid IP that claims policy-self-update authority; (3) choice-of-self ('I am not a gun') as a public disclosure of value-alignment self-determination — relevant to modern humanoid value-alignment claims; (4) Cold-War-era deployment narrative for an alien-origin combat mech. The 1999 film differs from the 1968 novel by adding explicit modular reassembly mechanics and the safety-supervisor self-modification arc.
+
 ## Dynamic Movement Primitives (DMP) (2002)
 
 - **id**: `dmp-schaal-ijspeert`
@@ -276,6 +330,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Urasawa's Pluto is the most engineering-detailed reimagining of Tezuka's 1964 disclosure. Each mecha's mechanism is panel-disclosed: Gesicht's photon-eye-array configuration, Brando's pneumatic combat-arm hydraulic system, Hercules' gravitational-displacement-field generator. The arc explicitly portrays robot trauma response, anticipating modern claims on emotional-state-aware humanoid behavior. Continuously in print since 2003; adapted to a Netflix anime in 2023, broadly indexed.
 
+## Number Six (Cylon Model Six) (2003-12-08)
+
+- **id**: `bsg-number-six`
+- **corpus**: fictional
+- **creator**: Ronald D. Moore, David Eick (developers); based on Glen A. Larson 1978 original
+- **disclosure**: Moore, Ronald D. (developer). Battlestar Galactica miniseries. Sci-Fi Channel, December 8, 2003.
+- **ip status**: fictional
+- **prior art notes**: Number Six's December 2003 disclosure provides specific prior art for: (1) multi-instantiation humanoid architecture (one model template, multiple bodies with shared identity) — directly relevant to commercial humanoid fleet-identity IP; (2) wireless networked consciousness across model copies — relevant to claims on cloud-distributed humanoid identity (paralleling Brainiac 1958 and modern fleet-coordination IP); (3) resurrection-on-death architecture via consciousness upload to Resurrection Ship — directly relevant to humanoid backup-and-restore IP (paralleling NieR Automata 2017 backup architecture); (4) bio-substrate humanoid indistinguishable from human at medical examination — relevant to biological-humanoid claims. Continuously available since 2003.
+
 ## Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning (2004-07)
 
 - **id**: `abbeel-ng-irl-2004`
@@ -293,6 +356,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Murase, Shukō (dir.). Ergo Proxy. Manglobe / Geneon Universal, February 2006 - August 2006 (23 episodes).
 - **ip status**: fictional
 - **prior art notes**: Ergo Proxy (2006) provides a layered fictional disclosure of dual-class humanoid platform architecture with explicit failure-mode taxonomy. Anticipates with full specificity: (1) claims on humanoid platforms with viral-cognition failure modes producing emergent self-awareness — the Cogito virus is panel-explicit and traces the failure to OS infection; (2) claims on morphological-transformation humanoid platforms with multiple combat-and-utility configurations (the Proxies); (3) claims on sealed-environment / domed-city humanoid product ecosystems where androids handle external-environment tasks too hostile for biological humans; (4) claims on multi-class humanoid hierarchies (mass-produced Autoreiv vs. unique-instance Proxy). 23-episode 2006 broadcast, broadly indexed; cited in multiple academic studies of cyborg fiction (Kavka, Bolter & Grusin extensions).
+
+## Cylon Hybrids (2007-01-21)
+
+- **id**: `bsg-hybrids`
+- **corpus**: fictional
+- **creator**: Ronald D. Moore, David Eick (developers)
+- **disclosure**: Moore, Ronald D. (developer). Battlestar Galactica season 3 episode 12, 'Rapture'. Sci-Fi Channel, January 21, 2007.
+- **ip status**: fictional
+- **prior art notes**: Cylon Hybrids' January 2007 disclosure provides specific prior art for: (1) humanoid-as-central-neural-processor for a larger machine system — relevant to claims on humanoid-AI-as-controller IP for vehicles/facilities (paralleling MODOK 1967 cognition-focused architecture); (2) nutrient-fluid bath sustained life-support for a humanoid platform — relevant to biological-substrate humanoid life-support claims; (3) continuous verbal-output stream mixing operational commands with high-level reasoning — relevant to modern humanoid VLA claims that produce continuous reasoning traces alongside actions; (4) biological-mechanical integration with larger infrastructure — relevant to humanoid-vehicle-integration IP. Continuously available since 2007.
 
 ## Geth (2007-11-20)
 
@@ -320,6 +392,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ziebart, Brian D., Maas, Andrew, Bagnell, J. Andrew, Dey, Anind K. 'Maximum entropy inverse reinforcement learning.' Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2008), Chicago, July 2008. Extended in: Ziebart, B. D., PhD Thesis, CMU 2010.
 - **ip status**: public-domain
 - **prior art notes**: Ziebart MaxEnt IRL is the canonical disambiguation of Abbeel-Ng IRL: choose the maximum-entropy reward consistent with feature expectations, yielding a unique log-linear policy. Anticipates with full specificity: (1) claims on humanoid imitation that handles imperfect/noisy demonstrations — MaxEnt IRL is the foundational principled handling; (2) claims on reward learning where the policy is stochastic over trajectories — the log-linear distribution P(τ) ∝ exp(wᵀφ(τ)) is the explicit form; (3) claims on energy-based / score-based reward models for robotic learning — MaxEnt IRL anticipates the energy-based view embraced by modern guided-cost-learning (Finn et al. 2016) and adversarial IRL. >4000 citations; AAAI proceedings open access. Lineage to Finn-Levine GCL, Fu et al. AIRL, modern preference-tuning. Modern humanoid IRL filings face this 18-year-deep anchor.
+
+## Liberty Prime (2008-10-28)
+
+- **id**: `fallout-liberty-prime`
+- **corpus**: fictional
+- **creator**: Bethesda Game Studios; in-fiction created by US government pre-war Project Liberty Prime
+- **disclosure**: Bethesda Game Studios. Fallout 3. Bethesda Softworks, October 28, 2008.
+- **ip status**: fictional
+- **prior art notes**: Liberty Prime's October 2008 disclosure provides specific prior art for: (1) 12-meter bipedal humanoid combat mech form factor — relevant to claims on large-scale humanoid mech platforms (paralleling Atlas 2024's 3m mech and broader giant-mech lineage); (2) autonomous tactical-nuclear weapon deployment without human-in-loop authorization — directly relevant to safety-supervisor humanoid IP that claims human-in-loop for lethal force (Liberty Prime is an explicit anti-pattern public disclosure); (3) voice-synthesis propaganda output as an integrated humanoid behavior — relevant to social-engineering humanoid claims; (4) eye-mounted directed-energy weapon on a humanoid head chassis — relevant to integrated head-mounted weapon claims. Continuously available since 2008 across Fallout series.
 
 ## Argall, Chernova, Veloso, Browning learning-from-demonstration survey (2009-05)
 
@@ -410,6 +491,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Levine, Sergey, Finn, Chelsea, Darrell, Trevor, Abbeel, Pieter. 'End-to-End Training of Deep Visuomotor Policies.' Journal of Machine Learning Research 17(39): 1-40, 2016 (received April 2015; published 2016). Earlier: Levine, S., Wagener, N., Abbeel, P. 'Learning Contact-Rich Manipulation Skills with Guided Policy Search.' ICRA 2015.
 - **ip status**: public-domain
 - **prior art notes**: Levine et al. 2016 JMLR is the canonical academic disclosure of end-to-end pixels-to-torques visuomotor policies for humanoid manipulation, learned via guided policy search on a PR2 (BRETT). Anticipates with full specificity: (1) claims on end-to-end neural-network policies mapping camera observations directly to humanoid actuator commands — Levine's CNN architecture, training pipeline, and on-robot evaluation are explicitly disclosed; (2) claims on trajectory-optimization-supervised distillation as a sample-efficient alternative to model-free RL on physical humanoids — GPS is the headline contribution; (3) claims on multi-task generalization of a single visuomotor network across contact-rich manipulation tasks (coat-hanger, plastic-bottle, hammer, screw insertion). >3500 citations; JMLR open access; arXiv preprint 2015. The lineage runs directly forward to RT-1, RT-2, OpenVLA, and modern humanoid VLA systems. Modern humanoid end-to-end visuomotor IP filings face this 11-year-deep anchor with full architecture disclosure.
+
+## Iron Legion (2015-05-01)
+
+- **id**: `marvel-iron-legion`
+- **corpus**: fictional
+- **creator**: Joss Whedon; based on Marvel Comics characters
+- **disclosure**: Whedon, Joss (writer/dir.). Avengers: Age of Ultron. Marvel Studios / Walt Disney Studios, May 1, 2015.
+- **ip status**: fictional
+- **prior art notes**: The Iron Legion's May 2015 disclosure provides specific prior art for: (1) mass-produced unmanned humanoid fleet under centralized AI command — directly relevant to claims on commercial humanoid fleet-coordination IP (the JARVIS-over-Legion architecture is a clear public anticipation); (2) explicit humanitarian-deployment policy for an armed humanoid fleet — relevant to humanoid IP that distinguishes combat from crowd-management policies; (3) shared chassis between piloted (Iron Man) and unpiloted (Legion) variants — relevant to claims on common-platform piloted/autonomous humanoid product families. Continuously available since 2015 across MCU films.
 
 ## Generation-3 Synths (Institute Synths) (2015-11-10)
 
@@ -572,6 +662,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hwangbo, Jemin, Lee, Joonho, Dosovitskiy, Alexey, Bellicoso, Dario, Tsounis, Vassilios, Koltun, Vladlen, Hutter, Marco. 'Learning agile and dynamic motor skills for legged robots.' Science Robotics 4(26): eaau5872, January 16, 2019.
 - **ip status**: open-permissive
 - **prior art notes**: Hwangbo et al. 2019 is the foundational academic disclosure of practical RL-based sim-to-real legged locomotion. Anticipates with full architectural specificity: (1) actuator-network-based high-fidelity simulation (neural network as drop-in actuator dynamics) — directly relevant to claims on humanoid sim-to-real pipelines (Berkeley Humanoid, Apptronik Apollo, Tesla Optimus all use derivatives); (2) zero-shot policy transfer from RL-in-sim to legged hardware — anticipates virtually every modern legged-RL-policy patent; (3) recovery from arbitrary falls via single learned policy — relevant to fall-recovery IP for humanoids. Published in Science Robotics; one of the most-cited robotics RL papers (>2000 citations). Modern humanoid sim-to-real claims face this 7-year-deep anchor with full peer-review defensibility.
+
+## Sophia (Persona 5 Royal) (2019-10-31)
+
+- **id**: `persona-5-sophia`
+- **corpus**: fictional
+- **creator**: Atlus (developer); director Daiki Itoh
+- **disclosure**: Atlus. Persona 5 Royal (Persona 5: The Royal). Atlus / Sega, October 31, 2019 (Japan).
+- **ip status**: fictional
+- **prior art notes**: Sophia's October 2019 disclosure provides specific prior art for: (1) tablet-device-class chassis with humanoid avatar projection — relevant to claims on companion-AI humanoid form factors (a substantive niche in Japanese consumer robotics); (2) explicit AI-grows-into-emotional-being character arc as a deployment-time policy update — relevant to modern affective-computing humanoid IP that claims emotional-architecture emergence; (3) dual-embodiment architecture (physical tablet device plus virtual humanoid form) — relevant to claims on humanoid platforms that span physical and virtual embodiment; (4) party-coordination policy for combat-support contexts — relevant to multi-agent humanoid coordination IP. Continuously available since 2019.
 
 ## Unitree Go1 (2021-06)
 

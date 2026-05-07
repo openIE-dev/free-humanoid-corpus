@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-zmp-balancing`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `control-zmp-balancing`  
 **Entries:** 20 (20 commons-grade, 0 draft)  
 **Earliest disclosure:** 1969  
@@ -471,4 +471,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

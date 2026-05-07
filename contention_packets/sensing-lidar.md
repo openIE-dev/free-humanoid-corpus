@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `sensing-lidar`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `sensing-lidar`  
 **Entries:** 15 (13 commons-grade, 2 draft)  
 **Earliest disclosure:** 2004  
@@ -369,4 +369,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

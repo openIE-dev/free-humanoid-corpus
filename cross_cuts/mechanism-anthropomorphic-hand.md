@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**107 corpus entries disclose this subsystem.**
+**109 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Villiers de l'Isle-Adam, Auguste. L'Ève future. Brunhoff, Paris, 1886.
 - **ip status**: fictional
 - **prior art notes**: The first detailed engineering disclosure of a female-form electromechanical humanoid in Western literature. Anticipates with specific mechanism: (1) electromotor-per-joint articulation — directly relevant to modern direct-drive humanoid claims, predating Honda E0 (1986) by exactly 100 years; (2) battery-powered humanoid speech synthesis using phonograph audio playback driven by speech recognition keywords — anticipates speech-triggered behavior selection in conversational humanoids, an arguable precursor to multimodal vision-language-action policy by 137 years; (3) compliant skin with sensor capillaries — anticipates whole-body tactile sensing claims; (4) seven-hour battery runtime — claims modern operational duration as a known design target in 1886. The novel was favorably reviewed and continuously in print since 1886; English translation (Forge of Tomorrow, also Tomorrow's Eve) widely studied in academic SF/cyborg theory courses. Strong specificity supports 102 anticipation arguments.
+
+## Robotman (Robert Crane) (1942-04)
+
+- **id**: `dc-robotman-1942`
+- **corpus**: fictional
+- **creator**: Jerry Berg, Leonard Sansone (writers); E.E. Hibbard (artist)
+- **disclosure**: Berg, Jerry (writer); Hibbard, E.E. (artist). Star Spangled Comics #7. DC Comics, April 1942.
+- **ip status**: fictional
+- **prior art notes**: Robotman's April 1942 disclosure is one of the earliest comic-book brain-transplant humanoid disclosures and provides specific prior art for: (1) biological-brain-in-mechanical-body humanoid architecture — predates Marvel's similar architectures by decades and underlies all subsequent cybernetic-character lineage (Cyborg 1980, Cyborg Superman 1992, etc.); (2) explicit dual-substrate cognition (organic mind + mechanical body) — relevant to modern claims on hybrid biological-cybernetic humanoid IP; (3) colleague-as-creator narrative (Dr. Grayson designs the chassis to save Crane's mind) — relevant to medical-prosthetic humanoid IP with creator-as-physician framing. Continuously in print since 1942 across multiple revivals.
 
 ## R. Daneel Olivaw (1953-10)
 
@@ -482,6 +491,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yoshiura, Yasuhiro (dir.). Eve no Jikan (Time of EVE). Studio Rikka, ONA, August 2008 - September 2009 (6 episodes); theatrical version 2010.
 - **ip status**: fictional
 - **prior art notes**: Yoshiura's Time of EVE (2008-2010) is a precise fictional disclosure of context-aware social-mode-switching for household humanoid robots. Anticipates with full specificity: (1) claims on humanoid robots with externally-visible android-status indicators (the holographic ring) that can be voluntarily suppressed in defined contexts — directly relevant to consumer-humanoid identification-disclosure UX patents; (2) claims on context-conditional behavioral mode supervisors (formal-compliance-mode vs. informal-passing-mode) — the café's rule architecture is panel-explicit; (3) claims on Three-Laws-derived ethical-conflict resolution kernels for service humanoids; (4) claims on consumer-grade humanoid platforms targeting domestic household integration with fully indistinguishable-from-human external presentation. ONA broadcast 2008-2009, theatrical 2010, broadly indexed.
+
+## Genos (One Punch Man) (2009)
+
+- **id**: `opm-genos`
+- **corpus**: fictional
+- **creator**: ONE (writer); Yusuke Murata (artist for the redraw)
+- **disclosure**: ONE (writer). One Punch Man webcomic chapter 7. Self-published online, 2009. Murata, Yusuke (artist) redrawing in Tonari no Young Jump (Shueisha), 2012.
+- **ip status**: fictional
+- **prior art notes**: Genos's 2009 webcomic disclosure (extended in Murata's 2012 redraw) provides specific prior art for: (1) full-body cybernetic replacement following biological trauma — relevant to medical-prosthetic humanoid IP (paralleling DC's Cyborg 1980 lineage with arm-integrated weapons added); (2) integrated palm-mounted incinerator/plasma weapons in humanoid arm chassis — directly relevant to claims on integrated end-effector weapon platforms (paralleling IG-88 1980); (3) explicit upgrade-progression chassis architecture with named successive versions — relevant to commercial humanoid product-versioning IP; (4) creator-as-physician (Dr. Kuseno) and continuous upgrade pathway across canon — relevant to maintenance-pathway humanoid IP. Continuously available since 2009.
 
 ## DLR Justin (Rollin' Justin) (2009-05)
 

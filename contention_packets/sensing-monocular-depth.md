@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `sensing-monocular-depth`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `sensing-monocular-depth`  
 **Entries:** 11 (8 commons-grade, 3 draft)  
 **Earliest disclosure:** 1981-08  
@@ -293,4 +293,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

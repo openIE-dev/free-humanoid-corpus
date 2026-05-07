@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `mechanism-anthropomorphic-hand`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 107 (86 commons-grade, 21 draft)  
+**Entries:** 109 (88 commons-grade, 21 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2025-10
 
@@ -99,6 +99,26 @@ cite, copy, or redistribute these contentions.
 1. Villiers de l'Isle-Adam, A. L'Ève future. 1886.
 2. Tomorrow's Eve. Translated by Robert Martin Adams. University of Illinois Press, 2001.
 3. Lathers, Marie. The Aesthetics of Artifice: Villiers's L'Ève future. North Carolina Studies in Romance Languages and Literatures, 1996.
+
+---
+
+### 1942-04 — Robotman (Robert Crane)
+
+- **id:** `dc-robotman-1942`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Jerry Berg, Leonard Sansone (writers); E.E. Hibbard (artist)
+- **disclosure citation:** Berg, Jerry (writer); Hibbard, E.E. (artist). Star Spangled Comics #7. DC Comics, April 1942.
+- **disclosed subsystems:** `exoskeleton`, `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-hand`
+
+**Prior art notes:**
+
+> Robotman's April 1942 disclosure is one of the earliest comic-book brain-transplant humanoid disclosures and provides specific prior art for: (1) biological-brain-in-mechanical-body humanoid architecture — predates Marvel's similar architectures by decades and underlies all subsequent cybernetic-character lineage (Cyborg 1980, Cyborg Superman 1992, etc.); (2) explicit dual-substrate cognition (organic mind + mechanical body) — relevant to modern claims on hybrid biological-cybernetic humanoid IP; (3) colleague-as-creator narrative (Dr. Grayson designs the chassis to save Crane's mind) — relevant to medical-prosthetic humanoid IP with creator-as-physician framing. Continuously in print since 1942 across multiple revivals.
+
+**Sources:**
+
+1. Berg, J. and Hibbard, E.E. Star Spangled Comics #7. DC Comics, 1942-04.
+2. DC Comics Robotman continuity (1942-present).
 
 ---
 
@@ -1083,6 +1103,26 @@ cite, copy, or redistribute these contentions.
 
 1. Eve no Jikan, dir. Y. Yoshiura, Studio Rikka, 2008-2009 (6-episode ONA).
 2. Eve no Jikan: The Movie, Studio Rikka, 2010.
+
+---
+
+### 2009 — Genos (One Punch Man)
+
+- **id:** `opm-genos`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** ONE (writer); Yusuke Murata (artist for the redraw)
+- **disclosure citation:** ONE (writer). One Punch Man webcomic chapter 7. Self-published online, 2009. Murata, Yusuke (artist) redrawing in Tonari no Young Jump (Shueisha), 2012.
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-hand`
+
+**Prior art notes:**
+
+> Genos's 2009 webcomic disclosure (extended in Murata's 2012 redraw) provides specific prior art for: (1) full-body cybernetic replacement following biological trauma — relevant to medical-prosthetic humanoid IP (paralleling DC's Cyborg 1980 lineage with arm-integrated weapons added); (2) integrated palm-mounted incinerator/plasma weapons in humanoid arm chassis — directly relevant to claims on integrated end-effector weapon platforms (paralleling IG-88 1980); (3) explicit upgrade-progression chassis architecture with named successive versions — relevant to commercial humanoid product-versioning IP; (4) creator-as-physician (Dr. Kuseno) and continuous upgrade pathway across canon — relevant to maintenance-pathway humanoid IP. Continuously available since 2009.
+
+**Sources:**
+
+1. ONE. One Punch Man webcomic ch. 7. Self-published, 2009.
+2. Murata, Y. One Punch Man. Tonari no Young Jump, Shueisha, 2012-present.
 
 ---
 
@@ -2215,4 +2255,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

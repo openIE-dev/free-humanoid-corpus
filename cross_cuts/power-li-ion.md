@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `power-li-ion`
 
-**60 corpus entries disclose this subsystem.**
+**61 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -356,6 +356,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Diligent Robotics public reveal of Moxi, September 2019.
 - **ip status**: patented
 - **prior art notes**: Diligent's claims around mobile manipulation in healthcare environments face extensive prior art from PR2, HSR, and academic mobile manipulation literature.
+
+## Sophia (Persona 5 Royal) (2019-10-31)
+
+- **id**: `persona-5-sophia`
+- **corpus**: fictional
+- **creator**: Atlus (developer); director Daiki Itoh
+- **disclosure**: Atlus. Persona 5 Royal (Persona 5: The Royal). Atlus / Sega, October 31, 2019 (Japan).
+- **ip status**: fictional
+- **prior art notes**: Sophia's October 2019 disclosure provides specific prior art for: (1) tablet-device-class chassis with humanoid avatar projection — relevant to claims on companion-AI humanoid form factors (a substantive niche in Japanese consumer robotics); (2) explicit AI-grows-into-emotional-being character arc as a deployment-time policy update — relevant to modern affective-computing humanoid IP that claims emotional-architecture emergence; (3) dual-embodiment architecture (physical tablet device plus virtual humanoid form) — relevant to claims on humanoid platforms that span physical and virtual embodiment; (4) party-coordination policy for combat-support contexts — relevant to multi-agent humanoid coordination IP. Continuously available since 2019.
 
 ## Unitree Go1 (2021-06)
 

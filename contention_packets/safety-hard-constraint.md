@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `safety-hard-constraint`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `safety-hard-constraint`  
-**Entries:** 52 (51 commons-grade, 1 draft)  
+**Entries:** 58 (57 commons-grade, 1 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2024-05-24
 
@@ -142,6 +142,26 @@ cite, copy, or redistribute these contentions.
 1. Wilcox, F. Forbidden Planet. MGM, 1956.
 2. Kinoshita, R. Production design notes (preserved at MGM archive).
 3. Telotte, J.P. Robot Ecology and the Science Fiction Film. Routledge, 2016.
+
+---
+
+### 1958-07 — Brainiac
+
+- **id:** `dc-brainiac-1958`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Otto Binder, Al Plastino
+- **disclosure citation:** Binder, Otto (writer); Plastino, Al (artist). Action Comics #242, 'The Super-Duel in Space'. DC Comics, July 1958.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Brainiac's July 1958 disclosure provides specific prior art for: (1) computer-intelligence in a humanoid chassis with explicit cognition-tier rating (12th-level) — relevant to claims on tier-rated humanoid AI IP; (2) networked consciousness across multiple chassis instances (cloud-distributed humanoid identity) — directly relevant to modern humanoid IP claims on distributed-instance consciousness (paralleling BSG resurrection 2003 and modern fleet-coordination architectures); (3) miniaturization technology for object storage as an integrated humanoid capability — relevant to integrated tool-payload humanoid claims. Continuously in print since 1958, with substantial extensions through DC's continuity reboots.
+
+**Sources:**
+
+1. Binder, O. and Plastino, A. Action Comics #242. DC Comics, 1958-07.
+2. DC Comics Brainiac continuity (1958-present).
 
 ---
 
@@ -285,6 +305,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1977-02-26 — Mr Sin (The Peking Homunculus)
+
+- **id:** `dr-who-mr-sin`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Robert Holmes (writer); BBC
+- **disclosure citation:** Holmes, Robert (writer). 'The Talons of Weng-Chiang'. Doctor Who serial, BBC, February 26 - April 2, 1977 (6-episode arc).
+- **disclosed subsystems:** `actuator-biological`, `mechanism-bipedal-locomotion`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Mr Sin's February 1977 disclosure provides specific prior art for: (1) cross-species (animal-organ-into-humanoid) cerebral cortex transplantation — relevant to bio-printed and xenograft-substrate humanoid IP; (2) child-scale (~1m) bipedal humanoid platform architecture — relevant to claims on small-form-factor humanoid platforms (a real engineering direction for home/healthcare robots); (3) substrate-mismatch alignment failure mode (pig cortex in human-form chassis produces aggression mismatch with intended assassin role) — directly relevant to alignment-supervisor IP for bio-substrate humanoids; (4) emergency-substitute brain architecture (the pig cortex was an unplanned replacement) — relevant to fail-safe biological humanoid claims. Continuously available since 1977.
+
+**Sources:**
+
+1. Holmes, R. 'The Talons of Weng-Chiang'. Doctor Who, BBC, 1977-02 to 1977-04.
+2. BBC Doctor Who Programme Guide (Hayward, A. 1981).
+
+---
+
 ### 1977-05-25 — R2-D2
 
 - **id:** `r2-d2-star-wars`
@@ -302,6 +342,47 @@ cite, copy, or redistribute these contentions.
 
 1. Lucas, G. Star Wars (A New Hope). Lucasfilm/Fox, 1977.
 2. Star Wars Encyclopedia (multiple Lucasfilm publications, 1977-2024).
+
+---
+
+### 1977-10-01 — K9
+
+- **id:** `dr-who-k9`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Bob Baker and Dave Martin
+- **disclosure citation:** Baker, Bob and Martin, Dave (writers). 'The Invisible Enemy'. Doctor Who serial, BBC, October 1, 1977.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> K9's October 1977 disclosure provides specific prior art for: (1) humanoid-equivalent intelligence in a non-bipedal quadruped chassis — relevant to claims on alternative-morphology intelligent platforms (paralleling BB-8's spherical-base 2015 disclosure); (2) explicit Mark I through Mark IV chassis-variant lineage with cumulative capability upgrades — directly relevant to commercial humanoid product-versioning IP (paralleling Weyland/Bishop and EMH Mark designations); (3) integrated computer-port-to-port direct system interface — relevant to claims on humanoid-system direct-data-bus architectures; (4) companion-bonded loyalty policy architecture — relevant to modern social-robot humanoid claims. Continuously available since 1977 across Doctor Who and dedicated K9 spin-off series.
+
+**Sources:**
+
+1. Baker, B. and Martin, D. 'The Invisible Enemy'. Doctor Who, BBC, 1977-10.
+2. BBC Doctor Who K9 continuity (1977-present).
+
+---
+
+### 1979-01 — War Machine (James Rhodes)
+
+- **id:** `marvel-war-machine`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** David Michelinie, Bob Layton (Rhodes); Len Kaminski, Kevin Hopgood (War Machine chassis)
+- **disclosure citation:** Michelinie, David (writer); Layton, Bob (artist). Iron Man #118. Marvel Comics, January 1979 (Rhodes pilots Iron Man armor). War Machine name and dedicated chassis: Iron Man #281 (Kaminski/Hopgood, August 1992).
+- **disclosed subsystems:** `exoskeleton`, `actuator-hydraulic`, `mechanism-bipedal-locomotion`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> War Machine's 1979/1992 disclosures provide specific prior art for: (1) heavy-weapons-focused exoskeleton variant within a shared-platform humanoid product family (Iron Man chassis with War Machine variant) — directly relevant to claims on chassis-variant humanoid IP for differentiated mission profiles; (2) shoulder-mounted weapon-platform integration on a powered exoskeleton — relevant to claims on integrated heavy-weapon mounts in humanoid platforms; (3) explicit pilot-changeover narrative (Rhodes pilots Iron Man armor before getting his own variant) — relevant to multi-pilot humanoid IP. Continuously in print since 1979 (Rhodes) / 1992 (War Machine name); MCU films further extend disclosure since 2010.
+
+**Sources:**
+
+1. Michelinie, D. and Layton, B. Iron Man #118. Marvel Comics, 1979-01.
+2. Kaminski, L. and Hopgood, K. Iron Man #281. Marvel Comics, 1992-08.
+3. Marvel Cinematic Universe War Machine continuity (2010-present).
 
 ---
 
@@ -568,6 +649,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1999-08-06 — The Iron Giant (1999 film)
+
+- **id:** `iron-giant-1999-film`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Brad Bird, Tim McCanlies; based on Ted Hughes 'The Iron Man' (1968 novel)
+- **disclosure citation:** Bird, Brad (dir.); McCanlies, Tim (screenplay); based on Hughes, Ted (1968 novel). The Iron Giant. Warner Bros., August 6, 1999.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `exoskeleton`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> The 1999 Brad Bird Iron Giant film (distinct from the 1968 Ted Hughes novel) provides specific prior art for: (1) modular self-assembly architecture from severed components — directly relevant to claims on field-self-repair humanoid IP (paralleling WALL-E 2008 scavenge-repair); (2) explicit safety-supervisor self-modification (the giant overrides his own autonomous-weapon firing policy) — directly relevant to alignment-supervisor humanoid IP that claims policy-self-update authority; (3) choice-of-self ('I am not a gun') as a public disclosure of value-alignment self-determination — relevant to modern humanoid value-alignment claims; (4) Cold-War-era deployment narrative for an alien-origin combat mech. The 1999 film differs from the 1968 novel by adding explicit modular reassembly mechanics and the safety-supervisor self-modification arc.
+
+**Sources:**
+
+1. Bird, B. The Iron Giant. Warner Bros., 1999-08-06.
+2. McCanlies, T. The Iron Giant screenplay (1999).
+3. Hughes, T. The Iron Man (1968 novel) — source material, distinct entry.
+
+---
+
 ### 2004-01 — Bokurano (Zearth, child-piloted consent-architecture mecha)
 
 - **id:** `bokurano-2004`
@@ -746,6 +848,26 @@ cite, copy, or redistribute these contentions.
 
 1. Eve no Jikan, dir. Y. Yoshiura, Studio Rikka, 2008-2009 (6-episode ONA).
 2. Eve no Jikan: The Movie, Studio Rikka, 2010.
+
+---
+
+### 2008-10-28 — Liberty Prime
+
+- **id:** `fallout-liberty-prime`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Bethesda Game Studios; in-fiction created by US government pre-war Project Liberty Prime
+- **disclosure citation:** Bethesda Game Studios. Fallout 3. Bethesda Softworks, October 28, 2008.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-hydraulic`, `exoskeleton`, `control-rl-policy`, `safety-hard-constraint`
+
+**Prior art notes:**
+
+> Liberty Prime's October 2008 disclosure provides specific prior art for: (1) 12-meter bipedal humanoid combat mech form factor — relevant to claims on large-scale humanoid mech platforms (paralleling Atlas 2024's 3m mech and broader giant-mech lineage); (2) autonomous tactical-nuclear weapon deployment without human-in-loop authorization — directly relevant to safety-supervisor humanoid IP that claims human-in-loop for lethal force (Liberty Prime is an explicit anti-pattern public disclosure); (3) voice-synthesis propaganda output as an integrated humanoid behavior — relevant to social-engineering humanoid claims; (4) eye-mounted directed-energy weapon on a humanoid head chassis — relevant to integrated head-mounted weapon claims. Continuously available since 2008 across Fallout series.
+
+**Sources:**
+
+1. Bethesda Game Studios. Fallout 3. Bethesda Softworks, 2008-10-28.
+2. Fallout 4 (Bethesda, 2015) Liberty Prime continuity.
 
 ---
 
@@ -1120,4 +1242,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

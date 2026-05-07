@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**107 corpus entries disclose this subsystem.**
+**117 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Leonardo da Vinci, Codex Atlanticus folios depicting cable-and-pulley humanoid automaton, c. 1495 (Milan, court of Ludovico Sforza). Reconstructed and analyzed in Rosheim, Mark E. Leonardo's Lost Robots. Springer, 2006.
 - **ip status**: public-domain
 - **prior art notes**: Documented disclosure of cable-driven anthropomorphic humanoid mechanism with articulated hand, dating to c.1495 — 478 years before WABOT-1 (1973), 522 years before contemporary tendon-driven humanoid hand patents. Leonardo's drawings show explicit cable routing through joints, separation of upper-body and lower-body actuator banks, programmable behavior via cam-sequencing — all elements that recur in modern humanoid actuator IP. Modern claims on cable-driven anthropomorphic hands or tendon-routed humanoid actuators face an extraordinarily deep 102 anchor here. The Codex Atlanticus is publicly held (Biblioteca Ambrosiana, Milan) and has been continuously cited since the 19th century.
+
+## Robotman (Robert Crane) (1942-04)
+
+- **id**: `dc-robotman-1942`
+- **corpus**: fictional
+- **creator**: Jerry Berg, Leonard Sansone (writers); E.E. Hibbard (artist)
+- **disclosure**: Berg, Jerry (writer); Hibbard, E.E. (artist). Star Spangled Comics #7. DC Comics, April 1942.
+- **ip status**: fictional
+- **prior art notes**: Robotman's April 1942 disclosure is one of the earliest comic-book brain-transplant humanoid disclosures and provides specific prior art for: (1) biological-brain-in-mechanical-body humanoid architecture — predates Marvel's similar architectures by decades and underlies all subsequent cybernetic-character lineage (Cyborg 1980, Cyborg Superman 1992, etc.); (2) explicit dual-substrate cognition (organic mind + mechanical body) — relevant to modern claims on hybrid biological-cybernetic humanoid IP; (3) colleague-as-creator narrative (Dr. Grayson designs the chassis to save Crane's mind) — relevant to medical-prosthetic humanoid IP with creator-as-physician framing. Continuously in print since 1942 across multiple revivals.
 
 ## Robby the Robot (Forbidden Planet) (1956-03-15)
 
@@ -159,6 +168,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The 1977 'Robots of Death' Doctor Who serial is one of the most engineering-detailed BBC humanoid disclosures. Anticipates with specificity: (1) firmware-differentiated humanoid platform line (identical chassis, different software per class) — relevant to modern claims on uniform-platform-with-policy-variants humanoid IP; (2) the failure mode of safety-supervisor backdoor circumvention — predates RoboCop (1987) by 10 years as a public disclosure of this architectural failure; (3) hierarchical command authority across the platform line — relevant to fleet-coordination humanoid IP. Continuously available since 1977.
 
+## Mr Sin (The Peking Homunculus) (1977-02-26)
+
+- **id**: `dr-who-mr-sin`
+- **corpus**: fictional
+- **creator**: Robert Holmes (writer); BBC
+- **disclosure**: Holmes, Robert (writer). 'The Talons of Weng-Chiang'. Doctor Who serial, BBC, February 26 - April 2, 1977 (6-episode arc).
+- **ip status**: fictional
+- **prior art notes**: Mr Sin's February 1977 disclosure provides specific prior art for: (1) cross-species (animal-organ-into-humanoid) cerebral cortex transplantation — relevant to bio-printed and xenograft-substrate humanoid IP; (2) child-scale (~1m) bipedal humanoid platform architecture — relevant to claims on small-form-factor humanoid platforms (a real engineering direction for home/healthcare robots); (3) substrate-mismatch alignment failure mode (pig cortex in human-form chassis produces aggression mismatch with intended assassin role) — directly relevant to alignment-supervisor IP for bio-substrate humanoids; (4) emergency-substitute brain architecture (the pig cortex was an unplanned replacement) — relevant to fail-safe biological humanoid claims. Continuously available since 1977.
+
 ## Cylon Centurion (1978) (1978-09-17)
 
 - **id**: `cylon-centurion-1978`
@@ -167,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Larson, Glen A. (creator). Battlestar Galactica (1978-1979). ABC, September 17, 1978 - April 29, 1979 (24 episodes). Reboot: Moore, Ronald D. and Eick, David. Battlestar Galactica. Sci-Fi Channel, December 8, 2003 - March 20, 2009.
 - **ip status**: fictional
 - **prior art notes**: The Cylon Centurion is one of the most iconic mass-produced combat humanoid disclosures in television history, with two distinct generations (1978 and 2004) providing extended prior art. Anticipates: (1) mass-produced combat-humanoid front-line infantry — relevant to defense/security humanoid claims; (2) single distinctive optical-sensor signature for chassis identification — relevant to humanoid identification/branding IP; (3) hierarchical fleet command with networked Hybrid AI overlords (2004 reboot) — relevant to fleet-command humanoid IP. Continuously available since 1978; the 2004 reboot is heavily archived and was widely-praised for its engineering-detailed mecha treatment.
+
+## War Machine (James Rhodes) (1979-01)
+
+- **id**: `marvel-war-machine`
+- **corpus**: fictional
+- **creator**: David Michelinie, Bob Layton (Rhodes); Len Kaminski, Kevin Hopgood (War Machine chassis)
+- **disclosure**: Michelinie, David (writer); Layton, Bob (artist). Iron Man #118. Marvel Comics, January 1979 (Rhodes pilots Iron Man armor). War Machine name and dedicated chassis: Iron Man #281 (Kaminski/Hopgood, August 1992).
+- **ip status**: fictional
+- **prior art notes**: War Machine's 1979/1992 disclosures provide specific prior art for: (1) heavy-weapons-focused exoskeleton variant within a shared-platform humanoid product family (Iron Man chassis with War Machine variant) — directly relevant to claims on chassis-variant humanoid IP for differentiated mission profiles; (2) shoulder-mounted weapon-platform integration on a powered exoskeleton — relevant to claims on integrated heavy-weapon mounts in humanoid platforms; (3) explicit pilot-changeover narrative (Rhodes pilots Iron Man armor before getting his own variant) — relevant to multi-pilot humanoid IP. Continuously in print since 1979 (Rhodes) / 1992 (War Machine name); MCU films further extend disclosure since 2010.
 
 ## RX-78-2 Gundam (1979-04-07)
 
@@ -330,6 +357,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: E5 transitioned the Honda program from tethered to self-contained operation. Relevant to battery-powered bipedal walking claims.
 
+## Android 17 (Lapis) (1992-03-17)
+
+- **id**: `dbz-android-17`
+- **corpus**: fictional
+- **creator**: Akira Toriyama; in-fiction designer Dr. Gero
+- **disclosure**: Toriyama, Akira. Dragon Ball manga chapter 349. Shueisha Weekly Shōnen Jump, March 17, 1992.
+- **ip status**: fictional
+- **prior art notes**: Android 17's March 1992 disclosure provides foundational prior art for: (1) bio-mechanical humanoid combat platform with internal infinite-energy reactor architecture — relevant to claims on long-duration humanoid power-source IP (a real engineering ambition); (2) explicit numbered-series production designation (No. 17 within a numbered run) — directly relevant to commercial humanoid product-family lineage IP; (3) rebellion-against-creator alignment failure as a known-public-disclosure hazard mode — predates many modern alignment-failure architectural disclosures; (4) human-converted-to-cyborg biological-substrate android, paralleling 1980 Cyborg/Vic Stone DC architecture. Continuously available since March 1992.
+
+## Android 18 (Lazuli) (1992-03-17)
+
+- **id**: `dbz-android-18`
+- **corpus**: fictional
+- **creator**: Akira Toriyama; in-fiction designer Dr. Gero
+- **disclosure**: Toriyama, Akira. Dragon Ball manga chapter 349. Shueisha Weekly Shōnen Jump, March 17, 1992.
+- **ip status**: fictional
+- **prior art notes**: Android 18's March 1992 disclosure (concurrent with No. 17) provides specific prior art for: (1) female-chassis variant within a numbered humanoid production run — directly relevant to commercial humanoid product-family chassis-variant IP; (2) paired-deployment architecture (units 17 and 18 explicitly designed for coordinated operation) — relevant to multi-unit humanoid coordination claims; (3) the same infinite-energy reactor and biological-mechanical hybrid substrate as No. 17, demonstrating fleet-wide architectural commonality; (4) post-deployment alignment shift (No. 18's policy evolves from combat to family-protector) — relevant to long-duration humanoid policy-update IP. Continuously available since March 1992.
+
 ## Honda E6 (1993)
 
 - **id**: `honda-e6`
@@ -383,6 +428,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lucas, George (writer/dir.). Star Wars: Episode I — The Phantom Menace. Twentieth Century Fox / Lucasfilm, May 19, 1999.
 - **ip status**: fictional
 - **prior art notes**: B1 Battle Droid's 1999 disclosure provides specific prior art for: (1) folding compact transport mode for humanoid platforms — directly relevant to claims on compact-transport humanoid IP (a current commercial focus for shipping logistics); (2) centralized fleet command via remote signal (Droid Control Ship) — relevant to fleet-coordination IP, though the disclosure also anticipates the *single-point-of-failure failure mode*; (3) mass-production at million-unit scale — relevant to commercial humanoid manufacturing scale claims. Continuously available since 1999.
+
+## The Iron Giant (1999 film) (1999-08-06)
+
+- **id**: `iron-giant-1999-film`
+- **corpus**: fictional
+- **creator**: Brad Bird, Tim McCanlies; based on Ted Hughes 'The Iron Man' (1968 novel)
+- **disclosure**: Bird, Brad (dir.); McCanlies, Tim (screenplay); based on Hughes, Ted (1968 novel). The Iron Giant. Warner Bros., August 6, 1999.
+- **ip status**: fictional
+- **prior art notes**: The 1999 Brad Bird Iron Giant film (distinct from the 1968 Ted Hughes novel) provides specific prior art for: (1) modular self-assembly architecture from severed components — directly relevant to claims on field-self-repair humanoid IP (paralleling WALL-E 2008 scavenge-repair); (2) explicit safety-supervisor self-modification (the giant overrides his own autonomous-weapon firing policy) — directly relevant to alignment-supervisor humanoid IP that claims policy-self-update authority; (3) choice-of-self ('I am not a gun') as a public disclosure of value-alignment self-determination — relevant to modern humanoid value-alignment claims; (4) Cold-War-era deployment narrative for an alien-origin combat mech. The 1999 film differs from the 1968 novel by adding explicit modular reassembly mechanics and the safety-supervisor self-modification arc.
 
 ## Big O (The Big O) (1999-10-13)
 
@@ -455,6 +509,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Urasawa, Naoki and Nagasaki, Takashi. Pluto. Big Comic Original, Shogakukan, September 2003 - April 2009.
 - **ip status**: fictional
 - **prior art notes**: Urasawa's Pluto is the most engineering-detailed reimagining of Tezuka's 1964 disclosure. Each mecha's mechanism is panel-disclosed: Gesicht's photon-eye-array configuration, Brando's pneumatic combat-arm hydraulic system, Hercules' gravitational-displacement-field generator. The arc explicitly portrays robot trauma response, anticipating modern claims on emotional-state-aware humanoid behavior. Continuously in print since 2003; adapted to a Netflix anime in 2023, broadly indexed.
+
+## Number Six (Cylon Model Six) (2003-12-08)
+
+- **id**: `bsg-number-six`
+- **corpus**: fictional
+- **creator**: Ronald D. Moore, David Eick (developers); based on Glen A. Larson 1978 original
+- **disclosure**: Moore, Ronald D. (developer). Battlestar Galactica miniseries. Sci-Fi Channel, December 8, 2003.
+- **ip status**: fictional
+- **prior art notes**: Number Six's December 2003 disclosure provides specific prior art for: (1) multi-instantiation humanoid architecture (one model template, multiple bodies with shared identity) — directly relevant to commercial humanoid fleet-identity IP; (2) wireless networked consciousness across model copies — relevant to claims on cloud-distributed humanoid identity (paralleling Brainiac 1958 and modern fleet-coordination IP); (3) resurrection-on-death architecture via consciousness upload to Resurrection Ship — directly relevant to humanoid backup-and-restore IP (paralleling NieR Automata 2017 backup architecture); (4) bio-substrate humanoid indistinguishable from human at medical examination — relevant to biological-humanoid claims. Continuously available since 2003.
 
 ## HUBO (2004)
 
@@ -537,6 +600,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: HRP-3's environmental sealing disclosures anticipate subsequent IP-rated humanoid claims. The HRP series is a deep commons asset because of consistent open academic disclosure across generations.
 
+## Liberty Prime (2008-10-28)
+
+- **id**: `fallout-liberty-prime`
+- **corpus**: fictional
+- **creator**: Bethesda Game Studios; in-fiction created by US government pre-war Project Liberty Prime
+- **disclosure**: Bethesda Game Studios. Fallout 3. Bethesda Softworks, October 28, 2008.
+- **ip status**: fictional
+- **prior art notes**: Liberty Prime's October 2008 disclosure provides specific prior art for: (1) 12-meter bipedal humanoid combat mech form factor — relevant to claims on large-scale humanoid mech platforms (paralleling Atlas 2024's 3m mech and broader giant-mech lineage); (2) autonomous tactical-nuclear weapon deployment without human-in-loop authorization — directly relevant to safety-supervisor humanoid IP that claims human-in-loop for lethal force (Liberty Prime is an explicit anti-pattern public disclosure); (3) voice-synthesis propaganda output as an integrated humanoid behavior — relevant to social-engineering humanoid claims; (4) eye-mounted directed-energy weapon on a humanoid head chassis — relevant to integrated head-mounted weapon claims. Continuously available since 2008 across Fallout series.
+
 ## PETMAN (2009)
 
 - **id**: `petman`
@@ -545,6 +617,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics PETMAN program, DOD-funded, public videos beginning 2009.
 - **ip status**: trade-secret
 - **prior art notes**: Direct ancestor of Atlas; establishes Boston Dynamics' hydraulic bipedal lineage.
+
+## Genos (One Punch Man) (2009)
+
+- **id**: `opm-genos`
+- **corpus**: fictional
+- **creator**: ONE (writer); Yusuke Murata (artist for the redraw)
+- **disclosure**: ONE (writer). One Punch Man webcomic chapter 7. Self-published online, 2009. Murata, Yusuke (artist) redrawing in Tonari no Young Jump (Shueisha), 2012.
+- **ip status**: fictional
+- **prior art notes**: Genos's 2009 webcomic disclosure (extended in Murata's 2012 redraw) provides specific prior art for: (1) full-body cybernetic replacement following biological trauma — relevant to medical-prosthetic humanoid IP (paralleling DC's Cyborg 1980 lineage with arm-integrated weapons added); (2) integrated palm-mounted incinerator/plasma weapons in humanoid arm chassis — directly relevant to claims on integrated end-effector weapon platforms (paralleling IG-88 1980); (3) explicit upgrade-progression chassis architecture with named successive versions — relevant to commercial humanoid product-versioning IP; (4) creator-as-physician (Dr. Kuseno) and continuous upgrade pathway across canon — relevant to maintenance-pathway humanoid IP. Continuously available since 2009.
 
 ## Knights of Sidonia (Garde mecha) (2009-04)
 
@@ -689,6 +770,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Blomkamp, Neill (dir.). Chappie. Columbia Pictures / MRC, March 6, 2015.
 - **ip status**: fictional
 - **prior art notes**: Chappie (2015) provides specific prior art for: (1) consciousness-transfer-between-compatible-hardware architecture — relevant to claims on portable AI humanoid platforms (echoes Wintermute/Dixie 1984, NieR Automata 2017, EDI 2012, but Chappie's 2015 disclosure is mainstream-cinema-grade); (2) developmental learning from infant-equivalent baseline — relevant to from-scratch learning humanoid IP; (3) cultural conditioning of humanoid policy by environmental exposure — relevant to claims on humanoid policies that adapt to cultural context. Continuously available since 2015.
+
+## Iron Legion (2015-05-01)
+
+- **id**: `marvel-iron-legion`
+- **corpus**: fictional
+- **creator**: Joss Whedon; based on Marvel Comics characters
+- **disclosure**: Whedon, Joss (writer/dir.). Avengers: Age of Ultron. Marvel Studios / Walt Disney Studios, May 1, 2015.
+- **ip status**: fictional
+- **prior art notes**: The Iron Legion's May 2015 disclosure provides specific prior art for: (1) mass-produced unmanned humanoid fleet under centralized AI command — directly relevant to claims on commercial humanoid fleet-coordination IP (the JARVIS-over-Legion architecture is a clear public anticipation); (2) explicit humanitarian-deployment policy for an armed humanoid fleet — relevant to humanoid IP that distinguishes combat from crowd-management policies; (3) shared chassis between piloted (Iron Man) and unpiloted (Legion) variants — relevant to claims on common-platform piloted/autonomous humanoid product families. Continuously available since 2015 across MCU films.
 
 ## Humans (Channel 4 / AMC) Synth household robots (2015-06)
 

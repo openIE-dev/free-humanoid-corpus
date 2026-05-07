@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `mechanism-quadrupedal-locomotion`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-quadrupedal-locomotion`  
 **Entries:** 16 (15 commons-grade, 1 draft)  
 **Earliest disclosure:** 1968-09-27  
@@ -391,4 +391,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*

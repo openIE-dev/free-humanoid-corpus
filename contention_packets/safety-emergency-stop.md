@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `safety-emergency-stop`
 
-**Generated:** 2026-05-06  
+**Generated:** 2026-05-07  
 **Cross-cut tag:** `safety-emergency-stop`  
 **Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 1982-12  
@@ -173,4 +173,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `488e151`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `32bba80`.*
