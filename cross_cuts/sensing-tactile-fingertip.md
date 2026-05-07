@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `sensing-tactile-fingertip`
 
-**12 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1973
 
@@ -104,6 +104,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Diftler, M.A. et al. 'Robonaut 2 — The First Humanoid Robot in Space.' ICRA 2011.
 - **ip status**: patented
 - **prior art notes**: Robonaut 2's hand design, with 12 DoF per hand and tendon routing through the forearm, is foundational prior art for high-DoF tendon-driven humanoid hands. The NASA-GM patent portfolio has been extensively cited.
+
+## DLR Hand-Arm System (2011-05)
+
+- **id**: `dlr-hand-arm-system-2011`
+- **corpus**: academic
+- **creator**: Markus Grebenstein, Alin Albu-Schäffer, Antonio Bicchi (collaboration), Gerd Hirzinger; DLR Institute of Robotics and Mechatronics, Oberpfaffenhofen
+- **disclosure**: Grebenstein, Markus; Albu-Schäffer, Alin; Bahls, Thomas; Chalon, Maxime; Eiberger, Oliver; Friedl, Werner; Gruber, Robin; Haddadin, Sami; Hagn, Ulrich; Haslinger, Robert; Höppner, Hannes; Jörg, Stefan; Nickl, Mathias; Nothhelfer, Alexander; Petit, Florian; Reill, Josef; Seitz, Norbert; Wimböck, Thomas; Wolf, Sebastian; Wüsthoff, Tilo; Hirzinger, Gerd. 'The DLR Hand Arm System.' IEEE International Conference on Robotics and Automation (ICRA), Shanghai, May 2011, pp. 3175-3182. DOI: 10.1109/ICRA.2011.5980371. Companion thesis: Grebenstein, M. 'Approaching Human Performance: The Functionality-Driven Awiwi Robot Hand.' PhD thesis, ETH Zurich, 2012; published Springer Tracts in Advanced Robotics 98, 2014. ISBN 978-3-319-03592-9.
+- **ip status**: public-domain
+- **prior art notes**: The DLR Hand-Arm System (Grebenstein et al. ICRA 2011, Grebenstein PhD/STAR 2014) is the canonical academic disclosure of variable-impedance antagonistically-tendon-driven anthropomorphic hand-arm hardware. Anticipates with element-by-element mechanism-level specificity: (1) mechanically programmable variable joint stiffness via antagonistic tendons with nonlinear elastic elements — directly relevant to commercial claims on variable-stiffness humanoid hand IP; (2) the 19-DoF, 38-tendon, 38-motor architecture with motors in the forearm — relevant to claims on tendon-driven hand-with-forearm-actuation humanoid IP (Tesla Optimus Gen-3, Figure-02, Apptronik Apollo, Sanctuary Phoenix all show variations of this topology); (3) impact-survival via mechanical compliance absorption — anticipates claims on collision-tolerant humanoid hand IP; (4) the biomimetic muscle-tendon co-contraction analogue — relevant to claims on biomimetic humanoid manipulation. Grebenstein's PhD thesis (200+ pages) provides the deepest single-source mechanism disclosure in dexterous robotic hand history. Modern variable-impedance anthropomorphic hand IP filings face this 15-year-deep academic anchor with mechanical-drawing-level specificity.
+
+## Yale OpenHand / ReFlex Hand (2014-05)
+
+- **id**: `yale-reflex-openhand-2014`
+- **corpus**: academic
+- **creator**: Lael Odhner, Aaron Dollar, Robert Howe; Yale GRAB Lab and Harvard BioRobotics; with RightHand Robotics, Inc. as the commercial spinout (ReFlex SF/TakkTile)
+- **disclosure**: Odhner, Lael U.; Jentoft, Leif P.; Claffee, Mark R.; Corson, Nicholas; Tenzer, Yaroslav; Ma, Raymond R.; Buehler, Martin; Kohout, Robert; Howe, Robert D.; Dollar, Aaron M. 'A compliant, underactuated hand for robust manipulation.' International Journal of Robotics Research, Volume 33, Issue 5, April 2014, pp. 736-752. DOI: 10.1177/0278364913514466. Yale OpenHand Project release: Ma, R. R. and Dollar, A. M. 'Yale OpenHand Project: Optimizing Open-Source Hand Designs for Ease of Fabrication and Adoption.' IEEE Robotics & Automation Magazine, Volume 24, Issue 1, March 2017, pp. 32-40. DOI: 10.1109/MRA.2016.2639034. Open-hardware repository at https://www.eng.yale.edu/grablab/openhand/.
+- **ip status**: open-permissive
+- **prior art notes**: Yale OpenHand / ReFlex SF (Odhner-Dollar et al. IJRR 2014; Yale OpenHand Project IEEE RAM 2017) is the canonical open-hardware academic disclosure of underactuated tendon-driven robust grasping hands. Anticipates with full open-hardware specificity: (1) the three-finger underactuated tendon-driven gripper with passive compliance — directly relevant to claims on simple-grasp humanoid end-effectors; (2) the open-hardware design release pattern (CAD files, BOMs, fabrication instructions) for robotic hands — relevant to claims on 3D-printable robotic hand IP (predates and anticipates many late-2010s and 2020s open-hardware hand patents); (3) the compliant-grasp-without-perception paradigm as an alternative to dexterous-perception-driven manipulation — relevant to claims on perception-light humanoid grasping; (4) integration of barometric tactile sensors (TakkTile) into a robot hand — relevant to claims on humanoid tactile fingertip IP. Yale GRAB Lab has continuous publication record on underactuated hands since the early 2000s; the 2014 IJRR consolidates the design canon. Modern open-hardware humanoid hand IP filings face this 12-year-deep open-source academic anchor.
 
 ## DIGIT (2020-12)
 

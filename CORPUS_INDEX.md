@@ -1,6 +1,6 @@
 # Corpus Index
 
-308 entries total. Generated from corpus.jsonl.
+322 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | Asimov's Zeroth Law | `asimovs-zeroth-law` | 1985 | fictional | fictional |  |
 | Astro Boy | `astro-boy` | 1952 | fictional | fictional | ✓ |
 | Atlas | `atlas-boston-dynamics` | 2013 | private | patented | ✓ |
+| Atlas academic publications (Kuindersma et al., DRC era) | `atlas-academic-disclosures` | 2014 | academic | public-domain |  |
 | Atlas and P-Body (Portal 2) | `atlas-p-body-portal-2` | 2011 | fictional | fictional |  |
 | ATRIAS | `atrias` | 2013 | academic | open-permissive |  |
 | AV-98 Ingram | `patlabor-av-98` | 1988 | fictional | fictional |  |
@@ -55,6 +56,7 @@
 | BridgeData V2 multi-robot trajectory dataset | `bridgedata-v2-walke-2023` | 2023 | academic | public-domain |  |
 | Brockett's Necessary Condition for Stabilizability | `brockett-condition-1983` | 1983 | academic | public-domain |  |
 | Caltech CAST Hank bipedal platform | `caltech-hank-cast-2019` | 2019 | academic | public-domain |  |
+| Caltech LEONARDO | `caltech-leonardo-2021` | 2021 | academic | public-domain |  |
 | Casshan / Casshern (Neo-Human Casshan) | `casshan-tatsunoko` | 1973 | fictional | fictional | ✓ |
 | Cassie | `cassie-osu` | 2017 | academic | patented |  |
 | Cell | `dbz-cell-android-21` | 1992 | fictional | fictional |  |
@@ -63,11 +65,13 @@
 | CLIP (Contrastive Language-Image Pretraining) | `radford-clip-2021` | 2021 | academic | open-permissive |  |
 | CMU HERB (Home Exploring Robotic Butler) | `cmu-herb-srinivasa-2012` | 2012 | academic | public-domain |  |
 | CMU Personal Robotics Lab Andy / HERB-2 follow-on platform | `cmu-andy-herb2-srinivasa-2014` | 2014 | academic | public-domain |  |
+| Contact-Invariant Optimization (Mordatch CIO) | `mordatch-cio-2012` | 2012 | academic | public-domain |  |
 | Control Barrier Functions | `control-barrier-functions` | 2007 | academic | public-domain |  |
 | Cornell Universal Jamming Gripper | `cornell-jamming-gripper` | 2010 | academic | open-permissive |  |
 | Covariant RFM-1 | `covariant-rfm` | 2024 | private | trade-secret | ✓ |
 | Cowboy Bebop (Pierrot Le Fou cyborg, MPU and AI antagonists) | `cowboy-bebop-pierrot-1998` | 1998 | fictional | fictional |  |
 | Crazyflie | `crazyflie` | 2013 | open | open-permissive |  |
+| Crocoddyl | `mastalli-crocoddyl-2020` | 2020 | academic | open-permissive |  |
 | Culture Drones | `banks-culture-drones` | 1987 | fictional | fictional |  |
 | Cybermen | `cybermen` | 1966 | fictional | fictional |  |
 | Cyberware (Cyberpunk 2077) | `cyberpunk-2077-cyborgs` | 2020 | fictional | fictional |  |
@@ -85,6 +89,7 @@
 | Digit | `agility-digit` | 2019 | private | patented |  |
 | DIGIT | `digit-meta` | 2020 | academic | open-permissive |  |
 | Diligent Moxi | `diligent-moxi` | 2019 | private | patented |  |
+| DLR Hand-Arm System | `dlr-hand-arm-system-2011` | 2011 | academic | public-domain |  |
 | DLR Hand-II | `dlr-hand-ii` | 2004 | academic | open-permissive |  |
 | DLR Justin (Rollin' Justin) | `dlr-justin` | 2009 | academic | open-permissive |  |
 | DLR TORO | `dlr-toro` | 2014 | academic | open-permissive |  |
@@ -115,6 +120,7 @@
 | Geth | `geth-mass-effect` | 2007 | fictional | fictional |  |
 | Ghost Robotics Vision 60 | `ghost-robotics-vision-60` | 2018 | private | patented |  |
 | Goswami Foot Rotation Indicator | `goswami-fri` | 1999 | academic | public-domain |  |
+| Habitat-Sim (Facebook AI Research) | `fair-habitat-sim-2019` | 2019 | academic | open-permissive |  |
 | Hadaly (L'Ève future) | `l-eve-future` | 1886 | fictional | fictional |  |
 | HAL 9000 | `hal-9000` | 1968 | fictional | fictional |  |
 | Hamilton-Jacobi Reachability for Safe Control | `reachability-analysis-safe-control` | 2005 | academic | public-domain |  |
@@ -165,6 +171,7 @@
 | Knights of Sidonia (Garde mecha) | `knights-of-sidonia-2013` | 2009 | fictional | fictional |  |
 | KX-series Imperial Security Droids (K-2SO) | `kx-series-k2so-2016` | 2016 | fictional | fictional |  |
 | Leonardo's Mechanical Knight | `da-vinci-knight` | 1495 | fictional | public-domain |  |
+| LeRobot (HuggingFace) | `huggingface-lerobot-2024` | 2024 | academic | open-permissive |  |
 | Levine Guided Policy Search end-to-end manipulation on PR2/BRETT | `levine-gps-pr2-2016` | 2015 | academic | public-domain |  |
 | Liberty Prime | `fallout-liberty-prime` | 2008 | fictional | fictional |  |
 | LimX Dynamics CL-1 | `limx-cl1` | 2023 | private | patented | ✓ |
@@ -181,12 +188,14 @@
 | MIT Cheetah | `mit-cheetah` | 2013 | academic | open-permissive |  |
 | MIT Cheetah 2 | `mit-cheetah-2` | 2014 | academic | open-permissive |  |
 | MIT Cheetah 3 | `mit-cheetah-3` | 2018 | academic | open-permissive |  |
+| MIT Humanoid | `mit-humanoid-2021` | 2021 | academic | public-domain |  |
 | MIT Mini Cheetah | `mini-cheetah` | 2019 | academic | open-permissive |  |
 | mjbots Moteus | `mjbots-moteus` | 2019 | open | open-permissive |  |
 | MJOLNIR Powered Assault Armor / Master Chief | `halo-mjolnir-master-chief` | 2001 | fictional | fictional |  |
 | Mobile ALOHA | `mobile-aloha` | 2024 | academic | open-permissive |  |
 | MODOK | `modok-marvel` | 1967 | fictional | fictional | ✓ |
 | Mr Sin (The Peking Homunculus) | `dr-who-mr-sin` | 1977 | fictional | fictional |  |
+| MuJoCo MJX | `deepmind-mujoco-mjx-2023` | 2023 | academic | open-permissive |  |
 | Murderbot Diaries — SecUnit with hacked governor module | `murderbot-diaries-wells-2017` | 2017 | fictional | public-domain |  |
 | NAO | `nao` | 2006 | private | patented |  |
 | NASA Valkyrie | `nasa-valkyrie` | 2013 | academic | open-permissive |  |
@@ -195,8 +204,10 @@
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
 | Number Six (Cylon Model Six) | `bsg-number-six` | 2003 | fictional | fictional |  |
 | NVIDIA GR00T (Generalist Robot 00 Technology) | `nvidia-groot-2024` | 2024 | academic | open-permissive |  |
+| NVIDIA Isaac Lab | `nvidia-isaac-lab-2024` | 2023 | academic | open-permissive |  |
 | Octo (Open-Source Generalist Robot Policy) | `octo-policy` | 2024 | academic | open-permissive |  |
 | ODrive | `odrive` | 2017 | open | open-permissive |  |
+| OmniGibson / iGibson (Stanford SVL) | `stanford-omnigibson-2023` | 2018 | academic | open-permissive |  |
 | Open X-Embodiment | `open-x-embodiment` | 2023 | academic | open-permissive |  |
 | OpenAI Dactyl | `openai-dactyl` | 2018 | academic | open-permissive |  |
 | OpenVLA (Open-Source Vision-Language-Action Model) | `openvla` | 2024 | academic | open-permissive |  |
@@ -210,6 +221,7 @@
 | PETMAN | `petman` | 2009 | private | trade-secret | ✓ |
 | Physical Intelligence π0 | `physical-intelligence-pi-zero` | 2024 | private | trade-secret |  |
 | Pisa-IIT SoftHand | `pisa-iit-softhand` | 2014 | academic | open-permissive |  |
+| Pisa-IIT SoftHand 2 | `pisa-iit-softhand-2` | 2018 | academic | open-permissive |  |
 | Plastic Memories (Giftia humanoids with explicit lifecycle) | `plastic-memories-2015` | 2015 | fictional | fictional |  |
 | Pluto (Naoki Urasawa reimagining) | `urasawa-pluto` | 2003 | fictional | fictional |  |
 | Poppy Humanoid | `poppy-humanoid` | 2014 | open | open-permissive |  |
@@ -273,6 +285,7 @@
 | Talos of Crete | `talos-bronze-giant` | -025 | fictional | fictional |  |
 | Talos Principle Robots | `talos-principle-robots` | 2014 | fictional | fictional |  |
 | Tan et al. Quadruped Sim-to-Real | `tan-quadruped-sim2real` | 2018 | academic | open-permissive |  |
+| Tassa iLQG / Synthesis and Stabilization of Complex Behaviors | `tassa-ilqg-2012` | 2012 | academic | public-domain |  |
 | Tesla Optimus | `tesla-optimus` | 2021 | private | patented | ✓ |
 | Tetsujin 28 | `tetsujin-28` | 1956 | fictional | fictional |  |
 | The Doctor (Emergency Medical Hologram Mark I) | `emh-mark-i-voyager` | 1995 | fictional | fictional |  |
@@ -309,6 +322,7 @@
 | Westworld Hosts (1973 / 2016) | `westworld-hosts` | 1973 | fictional | fictional |  |
 | Willow Garage PR1 | `willow-pr1` | 2008 | academic | open-permissive |  |
 | XPeng Iron | `xpeng-iron` | 2024 | private | patented | ✓ |
+| Yale OpenHand / ReFlex Hand | `yale-reflex-openhand-2014` | 2014 | academic | open-permissive |  |
 | YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) | `nier-automata-2b` | 2017 | fictional | fictional |  |
 | Yoshikawa Manipulability Ellipsoid | `yoshikawa-manipulability` | 1985 | academic | public-domain |  |
 | Ziebart Maximum Entropy Inverse Reinforcement Learning | `ziebart-maxent-irl-2008` | 2008 | academic | public-domain |  |

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 117 (91 commons-grade, 26 draft)  
+**Entries:** 122 (96 commons-grade, 26 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2026-04
 
@@ -1342,6 +1342,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-04 — OmniGibson / iGibson (Stanford SVL)
+
+- **id:** `stanford-omnigibson-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford Vision and Learning Lab (Silvio Savarese, Fei-Fei Li); lead authors include Fei Xia, Chengshu Li, Roberto Martín-Martín, Sanjana Srivastava, Cem Gokmen
+- **disclosure citation:** Xia, Fei; Zamir, Amir R.; He, Zhiyang; Sax, Alexander; Malik, Jitendra; Savarese, Silvio. 'Gibson Env: Real-World Perception for Embodied Agents.' IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, June 2018, pp. 9068-9079. DOI: 10.1109/CVPR.2018.00945. iGibson 2.0: Li, Chengshu et al. 'iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks.' Conference on Robot Learning (CoRL) 2021. OmniGibson: Li, Chengshu et al. 'BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation.' CoRL 2022. Source: https://github.com/StanfordVL/OmniGibson, MIT license.
+- **disclosed subsystems:** `control-rl-policy`, `control-sim-to-real`, `control-vla-vision-language-action`, `sensing-stereo-camera`, `sensing-monocular-depth`
+
+**Prior art notes:**
+
+> Stanford OmniGibson / iGibson / Gibson (Xia et al. CVPR 2018; Li et al. CoRL 2021; BEHAVIOR-1K CoRL 2022) is the canonical academic disclosure of large-scale photorealistic household-task embodied-AI simulation, published MIT-licensed by Stanford SVL. Anticipates with full source-level specificity: (1) 1,000-task ADL benchmark for household humanoid IP — directly relevant to commercial claims on home-task humanoid VLA training (Tesla Optimus household demo set, Figure 02 home tasks, 1X NEO domestic operation, Genesis AI cooking demos); (2) the articulated-object household scene corpus with 50K+ objects — relevant to claims on simulated-household-data humanoid training; (3) predicate-based goal specification ('apple is on table', 'cabinet is open') — relevant to claims on language-and-state-grounded humanoid task specification; (4) the photorealistic-rendering-for-RL pipeline established by Gibson 2018 — anticipates claims on photorealistic-sim-to-real humanoid pipelines. Modern household-humanoid VLA training pipeline IP filings face this 8-year-deep open-source academic anchor (or shorter for OmniGibson/BEHAVIOR-1K specifically).
+
+**Sources:**
+
+1. Xia, F. et al. 'Gibson Env: Real-World Perception for Embodied Agents.' CVPR 2018: 9068-9079.
+2. Li, C. et al. 'iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks.' CoRL 2021.
+3. Li, C. et al. 'BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation.' CoRL 2022.
+4. OmniGibson source code: https://github.com/StanfordVL/OmniGibson, MIT License.
+
+---
+
 ### 2018-04-28 — Tan et al. Quadruped Sim-to-Real
 
 - **id:** `tan-quadruped-sim2real`
@@ -1480,6 +1502,28 @@ cite, copy, or redistribute these contentions.
 
 1. Hwangbo, J. et al. 'Learning agile and dynamic motor skills for legged robots.' Science Robotics 4(26), 2019.
 2. Lee, J. et al. 'Learning quadrupedal locomotion over challenging terrain.' Science Robotics 5(47), 2020 (sequel).
+
+---
+
+### 2019-04 — Habitat-Sim (Facebook AI Research)
+
+- **id:** `fair-habitat-sim-2019`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Facebook AI Research (FAIR) and Georgia Tech (Dhruv Batra), Simon Fraser University (Manolis Savva); collaborative team including Jitendra Malik (Berkeley), Vladlen Koltun (Intel)
+- **disclosure citation:** Savva, Manolis; Kadian, Abhishek; Maksymets, Oleksandr; Zhao, Yili; Wijmans, Erik; Jain, Bhavana; Straub, Julian; Liu, Jia; Koltun, Vladlen; Malik, Jitendra; Parikh, Devi; Batra, Dhruv. 'Habitat: A Platform for Embodied AI Research.' IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, October-November 2019, pp. 9339-9347. DOI: 10.1109/ICCV.2019.00943. arXiv:1904.01201, April 2019. Source code at https://github.com/facebookresearch/habitat-sim. MIT license.
+- **disclosed subsystems:** `control-rl-policy`, `control-sim-to-real`, `control-vla-vision-language-action`, `sensing-stereo-camera`, `sensing-monocular-depth`
+
+**Prior art notes:**
+
+> Habitat-Sim (Savva et al. ICCV 2019; Habitat 2.0 NeurIPS 2021; Habitat 3.0 ICLR 2024) is the canonical academic disclosure of large-scale GPU-accelerated 3D-scanned indoor embodied-AI simulation, published MIT-licensed by FAIR. Anticipates with element-by-element specificity: (1) >10,000 fps rendering of photorealistic indoor scenes for RL training — directly relevant to commercial claims on simulation-at-scale humanoid embodied-AI pipelines; (2) the navigation-benchmark task suite (PointGoal, ObjectGoal, ImageGoal) that is now standard in embodied-AI literature — relevant to claims on humanoid navigation policy IP; (3) Habitat 3.0's humanoid-avatar simulation for social robot interaction — relevant to claims on human-aware humanoid IP and home-deployment humanoid VLA pipelines; (4) integration of large-scale 3D-scan corpora (Matterport, HM3D) with MIT-licensed renderers — relevant to claims on commercial-grade photorealistic simulation. Habitat is the most-cited embodied-AI simulator (>2000 citations on the 2019 paper alone). Modern household-deployment humanoid VLA pipeline IP filings face this 7-year-deep open-source academic anchor.
+
+**Sources:**
+
+1. Savva, M. et al. 'Habitat: A Platform for Embodied AI Research.' ICCV 2019: 9339-9347. arXiv:1904.01201.
+2. Szot, A. et al. 'Habitat 2.0: Training Home Assistants to Rearrange their Habitat.' NeurIPS 2021.
+3. Puig, X. et al. 'Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots.' ICLR 2024.
+4. Habitat-Sim source code: https://github.com/facebookresearch/habitat-sim, MIT License.
 
 ---
 
@@ -1884,6 +1928,49 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-08 — NVIDIA Isaac Lab
+
+- **id:** `nvidia-isaac-lab-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Mittal et al.; NVIDIA Corporation, ETH Zürich Robotic Systems Lab (Hutter), and University of Toronto Vector Institute (Garg)
+- **disclosure citation:** Mittal, Mayank; Yu, Calvin; Yu, Qinxi; Liu, Jingzhou; Rudin, Nikita; Hoeller, David; Yuan, Jia Lin; Tehrani, Pooria S.; Singh, Ritvik; Guo, Yunrong; Mazhar, Hammad; Mandlekar, Ajay; Babich, Buck; State, Gavriel; Hutter, Marco; Garg, Animesh. 'ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments.' IEEE Robotics and Automation Letters (RA-L), August 2023; later released and rebranded as Isaac Lab in 2024. Repository at https://github.com/isaac-sim/IsaacLab.
+- **disclosed subsystems:** `control-sim-to-real`, `control-rl-policy`, `control-mpc`, `sensing-stereo-camera`, `sensing-imu`
+
+**Prior art notes:**
+
+> Isaac Lab (formerly ORBIT, 2023) is the canonical academic-published GPU-parallelized simulation framework for robot learning, published BSD-3-Clause by NVIDIA + ETH Zürich + University of Toronto. Anticipates with full architectural specificity: (1) thousands-of-parallel-environments humanoid RL training on a single GPU — directly relevant to commercial claims on simulation-at-scale humanoid training pipelines (NVIDIA GR00T, Tesla Optimus, Figure 02 all use this paradigm); (2) URDF/USD-asset interoperability surface enabling cross-platform humanoid descriptors — relevant to claims on cross-platform humanoid descriptor IP; (3) the standardized RL task interface (gym-like API with vectorized environments) — relevant to claims on humanoid-task-curriculum IP; (4) integrated sensor simulation with domain randomization — relevant to claims on sim-to-real-via-randomization humanoid pipelines (anticipated already by OpenAI Dactyl 2018 but Isaac Lab provides the GPU-scale implementation). Mittal et al. RA-L 2023 paper has been cited >300 times by 2026 and underpins essentially every recent humanoid-RL publication. Modern sim-to-real-at-scale humanoid IP filings face this 3-year-deep open-source academic anchor.
+
+**Sources:**
+
+1. Mittal, M. et al. 'ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments.' IEEE RA-L, 2023; arXiv:2301.04195.
+2. Isaac Lab GitHub repository (https://github.com/isaac-sim/IsaacLab), 2024 rebrand from ORBIT.
+3. Makoviychuk, V. et al. 'Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning.' arXiv:2108.10470, NeurIPS 2021 datasets track (predecessor system).
+
+---
+
+### 2023-08 — MuJoCo MJX
+
+- **id:** `deepmind-mujoco-mjx-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** DeepMind / Google Research MuJoCo team (lead: Yuval Tassa, Tom Erez, with engineering contributions from Taylor Howell, Kevin Zakka, Erik Frey and the broader DeepMind robotics group; original MuJoCo by Emo Todorov)
+- **disclosure citation:** DeepMind / Google Research MuJoCo team. 'MuJoCo MJX: A JAX implementation of the MuJoCo physics engine.' MuJoCo 3.0.0 release, August 2023; documented in MuJoCo 3.x documentation (https://mujoco.readthedocs.io/en/stable/mjx.html). Source code at https://github.com/google-deepmind/mujoco/tree/main/mjx. Originally MuJoCo: Todorov, Erez, and Tassa, 'MuJoCo: A physics engine for model-based control,' IEEE/RSJ IROS 2012, 5026-5033. Apache-2.0 license.
+- **disclosed subsystems:** `control-sim-to-real`, `control-rl-policy`, `control-mpc`, `control-reduced-order-model`
+
+**Prior art notes:**
+
+> MuJoCo MJX (August 2023) is the canonical academic disclosure of GPU/TPU-parallelized differentiable physics simulation for robotics, published Apache-2.0 by DeepMind. Anticipates with full specificity: (1) gradient-based humanoid policy optimization through the simulator end-to-end — directly relevant to claims on differentiable-physics humanoid IP (NVIDIA GR00T, Genesis simulator, and several Tesla / Figure / 1X commercial pipelines use the same paradigm); (2) JAX vmap/pmap vectorized rollouts at >10,000 envs scale — relevant to claims on massively-parallel humanoid simulation pipelines; (3) soft-contact regularization for differentiability through contact — anticipates claims on smoothed-contact humanoid trajectory optimization; (4) MJCF as a vendor-neutral robot description format — anticipates claims on cross-vendor humanoid descriptors. The original MuJoCo (Todorov-Erez-Tassa IROS 2012) provides 14-year-deep prior art on the underlying physics; MJX adds 3-year-deep prior art on the GPU-differentiable port. Modern claims on differentiable simulation for humanoid training face this academic anchor.
+
+**Sources:**
+
+1. Todorov, E., Erez, T., Tassa, Y. 'MuJoCo: A physics engine for model-based control.' IROS 2012: 5026-5033.
+2. MuJoCo MJX documentation: https://mujoco.readthedocs.io/en/stable/mjx.html (MuJoCo 3.0.0 release, August 2023).
+3. MJX source code: https://github.com/google-deepmind/mujoco/tree/main/mjx
+4. Howell, T. et al. 'Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo.' arXiv:2212.00541, 2022 (MJX-driven MPC at DeepMind).
+
+---
+
 ### 2023-10 — Figure 01 *(draft)*
 
 - **id:** `figure-01`
@@ -2077,6 +2164,27 @@ cite, copy, or redistribute these contentions.
 
 1. Covariant company materials.
 2. Covariant technical blog posts.
+
+---
+
+### 2024-03 — LeRobot (HuggingFace)
+
+- **id:** `huggingface-lerobot-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Remi Cadene and contributors; HuggingFace, Inc. (with extensive academic contributions from Stanford, CMU, NYU, MIT, IIIT-Hyderabad, ETH Zurich research groups via upstream policies)
+- **disclosure citation:** Cadene, Remi et al. 'LeRobot: State-of-the-art AI for real-world robotics in PyTorch.' HuggingFace blog announcement and GitHub repository launch, March 13, 2024 (https://github.com/huggingface/lerobot). Cadene was previously a research engineer at Tesla AI / formerly at FAIR Paris before joining HuggingFace; the LeRobot framework consolidates open-source implementations of policies (ACT, Diffusion Policy, TDMPC, VQ-BeT, Pi0, SmolVLA) and datasets in a unified Apache-2.0 PyTorch substrate.
+- **disclosed subsystems:** `control-rl-policy`, `control-sim-to-real`, `control-vla-vision-language-action`, `control-teleoperation`
+
+**Prior art notes:**
+
+> LeRobot (March 2024) is the canonical open-source unified framework for training and deploying imitation-learning and reinforcement-learning robot policies, published Apache-2.0 by HuggingFace. Anticipates with full architectural specificity: (1) multi-policy training and evaluation framework with a common interface — directly relevant to commercial claims on policy-architecture-agnostic VLA training pipelines (1X, Figure, Tesla Optimus, Genesis AI all build training pipelines that resemble this structure); (2) standardized dataset format for teleoperated demonstrations across heterogeneous embodiments (LeRobotDataset) — relevant to claims on cross-embodiment data unification, anticipating Open X-Embodiment-style aggregation patents; (3) the model-zoo pattern (pre-trained policy checkpoints downloadable via the HuggingFace Hub) — relevant to claims on commercial-grade pre-trained robot policy distribution; (4) real-robot inference on commodity hardware via PyTorch — relevant to claims on edge-deployable VLA systems. The Apache-2.0 license combined with extensive third-party contributions (Stanford Aloha team, Princeton Diffusion Policy, NYU/Cycle's TDMPC2, Physical Intelligence Pi0) makes this entry the consolidated prior art anchor for the entire 2024-2026 VLA-training-stack patent space. Modern VLA pipeline IP filings face this 2-year-deep anchor with full source disclosure.
+
+**Sources:**
+
+1. Cadene, R. et al. LeRobot GitHub repository (https://github.com/huggingface/lerobot), launched March 2024.
+2. HuggingFace blog post: 'Announcing LeRobot: State-of-the-art AI for real-world robotics' (https://huggingface.co/blog/lerobot), March 2024.
+3. Cadene, R. et al. 'LeRobot: A unified library for learning real-world robotics in PyTorch.' arXiv preprint (multiple companion papers from 2024-2025 covering ACT, Pi0, SmolVLA integrations).
 
 ---
 
@@ -2408,4 +2516,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `559a8b5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f6d8987`.*

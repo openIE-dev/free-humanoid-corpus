@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**27 corpus entries disclose this subsystem.**
+**28 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -239,6 +239,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: del Toro, Guillermo (dir.); Beacham, Travis (writer). Pacific Rim. Legendary Pictures / Warner Bros., July 12, 2013.
 - **ip status**: fictional
 - **prior art notes**: Pacific Rim's *drift* dual-pilot architecture is one of the most engineering-detailed fictional disclosures of multi-operator neural-handshake humanoid control. Anticipates with notable specificity: (1) dual-pilot teleoperation with shared cognitive load — directly relevant to claims on multi-operator humanoid teleoperation IP (a real research direction in surgical robotics and emergency-response robotics); (2) Mark-versioned platform family with explicit version-specific capabilities — relevant to product-family humanoid claims; (3) thermomyoreactive actuation as a fictional artificial-muscle architecture — relevant to artificial-muscle humanoid IP. The 2013 release plus its 2018 sequel and extensive graphic novel + tie-in disclosures provide deep prior art coverage.
+
+## Atlas academic publications (Kuindersma et al., DRC era) (2014-06)
+
+- **id**: `atlas-academic-disclosures`
+- **corpus**: academic
+- **creator**: Scott Kuindersma, Russ Tedrake, Robin Deits, Maurice Fallon, Andrés Valenzuela, Hongkai Dai, Frank Permenter, Twan Koolen, Pat Marion; MIT CSAIL Robot Locomotion Group (DRC Atlas team)
+- **disclosure**: Kuindersma, Scott; Permenter, Frank; Tedrake, Russ. 'An efficiently solvable quadratic program for stabilizing dynamic locomotion.' IEEE International Conference on Robotics and Automation (ICRA), Hong Kong, June 2014, pp. 2589-2594. DOI: 10.1109/ICRA.2014.6907230. Consolidated Atlas-on-DRC paper: Kuindersma, S.; Deits, R.; Fallon, M.; Valenzuela, A.; Dai, H.; Permenter, F.; Koolen, T.; Marion, P.; Tedrake, R. 'Optimization-based locomotion planning, estimation, and control design for the Atlas humanoid robot.' Autonomous Robots 40(3): 429-455, March 2016. DOI: 10.1007/s10514-015-9479-3.
+- **ip status**: public-domain
+- **prior art notes**: The MIT DRC Atlas academic publication trail (Kuindersma-Tedrake et al. 2014-2016) is distinct from the Boston Dynamics Atlas product entry (atlas-boston-dynamics) and from the Sentis-Khatib WBOSC entry: it is the canonical academic disclosure of the actually-deployed Atlas controller stack as fielded at the DARPA Robotics Challenge Finals (June 2015). Anticipates with element-by-element specificity: (1) whole-body QP-based inverse-dynamics control on a hydraulically-actuated humanoid platform — directly relevant to commercial claims on QP-based humanoid IP (every modern humanoid runs a derivative); (2) the IRIS-regions mixed-integer convex footstep planner — relevant to claims on footstep-planning humanoid IP; (3) iterative SQP trajectory optimization with contact schedule — anticipates claims overlapping Crocoddyl (mastalli-crocoddyl-2020) and DDP approaches; (4) the consolidated end-to-end stack documentation in AURO 2016 — the most complete public disclosure of a working DRC-class humanoid control architecture. Drake source code accompanies the publications under BSD license. Modern QP-IDC-based humanoid IP filings face this 12-year-deep academic anchor with full implementation disclosure.
 
 ## Sanctuary Phoenix Gen 6 (2022)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-mpc`
 
-**29 corpus entries disclose this subsystem.**
+**37 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1980-11
 
@@ -105,6 +105,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: CMU HERB is one of the most extensively-published academic mobile-manipulator humanoid platforms (>50 papers across 2008-2018). Anticipates with full specificity: (1) claims on home-environment dual-arm humanoid manipulation — HERB's headline contribution including kitchen/office task suite, fridge/microwave/dishwasher manipulation; (2) claims on legible/predictable HRI motion synthesis — Dragan-Srinivasa 2013 'Legibility and Predictability of Robot Motion' is part of the HERB program and anticipates current humanoid social-motion IP; (3) claims on cable-driven backdrivable arms with underactuated 3-finger hands for home manipulation — Barrett WAM + BH-280 are the explicit instantiation; (4) claims on manipulation-among-movable-obstacles planning. Proceedings of IEEE article and Autonomous Robots paper provide deeply-cited timestamped disclosure. Modern home-humanoid IP filings (1X NEO Gamma, Figure 02 home demos) face this 14-year-deep academic anchor.
 
+## Contact-Invariant Optimization (Mordatch CIO) (2012-08)
+
+- **id**: `mordatch-cio-2012`
+- **corpus**: academic
+- **creator**: Igor Mordatch (University of Washington, then OpenAI/DeepMind), Emanuel Todorov (University of Washington), Zoran Popović (University of Washington)
+- **disclosure**: Mordatch, Igor; Todorov, Emanuel; Popović, Zoran. 'Discovery of Complex Behaviors through Contact-Invariant Optimization.' ACM Transactions on Graphics (SIGGRAPH 2012), Volume 31, Issue 4, Article 43, July 2012. DOI: 10.1145/2185520.2185539. Companion follow-up: Mordatch, Wang, Todorov, Popović. 'Animating Human Lower Limbs Using Contact-Invariant Optimization.' ACM TOG (SIGGRAPH Asia 2013).
+- **ip status**: public-domain
+- **prior art notes**: Mordatch-Todorov-Popović 2012 SIGGRAPH is the canonical academic disclosure of contact-invariant optimization for humanoid motion synthesis. Anticipates with full specificity: (1) treating contact existence and contact forces as continuous optimization variables rather than combinatorial mode switches — directly relevant to modern claims on contact-implicit humanoid trajectory optimization (Posa-Tedrake 2014, Manchester 2017, Mastalli 2020 Crocoddyl all build on this); (2) automatic contact-sequence discovery in humanoid locomotion and manipulation — anticipates patents on adaptive footstep planning and automatic grasp placement for humanoid IP; (3) the unified trajectory-optimization formulation that synthesizes diverse behaviors (walking, climbing, getup, manipulation) in a single framework — relevant to claims on multi-task humanoid motion synthesis. SIGGRAPH 2012 paper has >1000 citations and is foundational in both robotics and computer animation. Modern contact-implicit humanoid trajectory optimization IP faces this 14-year-deep academic anchor.
+
+## Tassa iLQG / Synthesis and Stabilization of Complex Behaviors (2012-10)
+
+- **id**: `tassa-ilqg-2012`
+- **corpus**: academic
+- **creator**: Yuval Tassa, Tom Erez, Emanuel Todorov; Department of Computer Science and Engineering, University of Washington (Todorov lab)
+- **disclosure**: Tassa, Yuval; Erez, Tom; Todorov, Emanuel. 'Synthesis and Stabilization of Complex Behaviors through Online Trajectory Optimization.' IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vilamoura, Portugal, October 2012, pp. 4906-4913. DOI: 10.1109/IROS.2012.6386025. Earlier: Tassa, Y.; Erez, T.; Smart, W.D. 'Receding Horizon Differential Dynamic Programming.' NeurIPS 2007. Foundational underlying method: Li, W. and Todorov, E. 'Iterative linear quadratic regulator design for nonlinear biological movement systems.' ICINCO 2004.
+- **ip status**: public-domain
+- **prior art notes**: Tassa-Erez-Todorov 2012 IROS is the canonical academic disclosure of online iLQG-based model-predictive control for high-DoF humanoid systems. Anticipates with full mathematical specificity: (1) online receding-horizon trajectory optimization for 28-DoF humanoid models at real-time rates — directly relevant to claims on humanoid MPC IP (Boston Dynamics, Apptronik, Figure, Tesla all employ trajectory-optimization-class controllers); (2) the regularization-and-line-search scheme that enabled iLQG to run online with stable convergence — anticipates implementation-detail patents on regularized DDP/iLQG humanoid controllers; (3) jointly synthesizing feedforward trajectories AND time-varying feedback gains — relevant to claims on closed-loop humanoid trajectory IP. Open-source MuJoCo code release accompanies the paper (the foundational MuJoCo iLQG demo). Modern humanoid trajectory-optimization MPC IP faces this 14-year-deep academic anchor with full implementation disclosure. Foundational lineage: Li-Todorov ICINCO 2004 (iLQR primitive); Jacobson-Mayne 1970 (DDP); Bellman 1957 (dynamic programming). Direct downstream: every major modern humanoid MPC stack.
+
 ## NASA Valkyrie (2013)
 
 - **id**: `nasa-valkyrie`
@@ -140,6 +158,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Park, H.-W. et al. 'High-speed bounding with the MIT Cheetah 2: Control design and experiments.' International Journal of Robotics Research 36(2), 2017. Earlier ICRA disclosure 2014.
 - **ip status**: open-permissive
 - **prior art notes**: MIT Cheetah 2 establishes the QDD actuator topology in a working high-speed legged robot. The Wensing 2017 T-RO paper 'Proprioceptive actuator design in the MIT Cheetah' is the foundational actuator design disclosure.
+
+## Atlas academic publications (Kuindersma et al., DRC era) (2014-06)
+
+- **id**: `atlas-academic-disclosures`
+- **corpus**: academic
+- **creator**: Scott Kuindersma, Russ Tedrake, Robin Deits, Maurice Fallon, Andrés Valenzuela, Hongkai Dai, Frank Permenter, Twan Koolen, Pat Marion; MIT CSAIL Robot Locomotion Group (DRC Atlas team)
+- **disclosure**: Kuindersma, Scott; Permenter, Frank; Tedrake, Russ. 'An efficiently solvable quadratic program for stabilizing dynamic locomotion.' IEEE International Conference on Robotics and Automation (ICRA), Hong Kong, June 2014, pp. 2589-2594. DOI: 10.1109/ICRA.2014.6907230. Consolidated Atlas-on-DRC paper: Kuindersma, S.; Deits, R.; Fallon, M.; Valenzuela, A.; Dai, H.; Permenter, F.; Koolen, T.; Marion, P.; Tedrake, R. 'Optimization-based locomotion planning, estimation, and control design for the Atlas humanoid robot.' Autonomous Robots 40(3): 429-455, March 2016. DOI: 10.1007/s10514-015-9479-3.
+- **ip status**: public-domain
+- **prior art notes**: The MIT DRC Atlas academic publication trail (Kuindersma-Tedrake et al. 2014-2016) is distinct from the Boston Dynamics Atlas product entry (atlas-boston-dynamics) and from the Sentis-Khatib WBOSC entry: it is the canonical academic disclosure of the actually-deployed Atlas controller stack as fielded at the DARPA Robotics Challenge Finals (June 2015). Anticipates with element-by-element specificity: (1) whole-body QP-based inverse-dynamics control on a hydraulically-actuated humanoid platform — directly relevant to commercial claims on QP-based humanoid IP (every modern humanoid runs a derivative); (2) the IRIS-regions mixed-integer convex footstep planner — relevant to claims on footstep-planning humanoid IP; (3) iterative SQP trajectory optimization with contact schedule — anticipates claims overlapping Crocoddyl (mastalli-crocoddyl-2020) and DDP approaches; (4) the consolidated end-to-end stack documentation in AURO 2016 — the most complete public disclosure of a working DRC-class humanoid control architecture. Drake source code accompanies the publications under BSD license. Modern QP-IDC-based humanoid IP filings face this 12-year-deep academic anchor with full implementation disclosure.
 
 ## Boston Dynamics Spot (2015-02)
 
@@ -222,6 +249,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Demonstrates fuel-cell-powered legged robotics at commercial scale. Anticipates fuel-cell power claims in field robotics applications.
 
+## Crocoddyl (2020-05)
+
+- **id**: `mastalli-crocoddyl-2020`
+- **corpus**: academic
+- **creator**: Carlos Mastalli, Justin Carpentier, Nicolas Mansard, Sethu Vijayakumar et al.; LAAS-CNRS Toulouse, INRIA Paris (Willow team), University of Edinburgh
+- **disclosure**: Mastalli, Carlos; Budhiraja, Rohan; Merkt, Wolfgang; Saurel, Guilhem; Hammoud, Bilal; Naveau, Maximilien; Carpentier, Justin; Vijayakumar, Sethu; Mansard, Nicolas. 'Crocoddyl: An Efficient and Versatile Framework for Multi-Contact Optimal Control.' IEEE International Conference on Robotics and Automation (ICRA), Paris, May 2020, pp. 2536-2542. DOI: 10.1109/ICRA40945.2020.9196673. Source code at https://github.com/loco-3d/crocoddyl. BSD-3-Clause license.
+- **ip status**: open-permissive
+- **prior art notes**: Crocoddyl (Mastalli et al. ICRA 2020) is the canonical academic open-source framework for multi-contact differential-dynamic-programming-based optimal control of humanoid and legged systems. Anticipates with full source-level disclosure: (1) real-time MPC on full-body humanoid models with multiple contacts — directly relevant to commercial claims on whole-body humanoid MPC (Apptronik, Figure 02, Boston Dynamics electric Atlas all employ DDP/iLQR-class controllers downstream of this paradigm); (2) analytical rigid-body dynamics derivatives integrated with trajectory optimization (via Pinocchio, Carpentier 2019) — relevant to claims on differentiable-dynamics humanoid IP; (3) the multi-phase contact-schedule framework that handles humanoid double-support / single-support / manipulation transitions — relevant to claims on phase-aware humanoid MPC; (4) the FDDP feasibility-driven extension that handles infeasible warm-starts — anticipates claims on robust-warm-start humanoid trajectory optimization. BSD-3-Clause source release plus the ICRA 2020 paper (>500 citations by 2026) make this entry a deep prior art anchor for the humanoid MPC patent space.
+
 ## Unitree Go1 (2021-06)
 
 - **id**: `unitree-go1`
@@ -230,6 +266,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unitree Robotics Go1 reveal, June 2021.
 - **ip status**: patented
 - **prior art notes**: Unitree Go1 actuator design is heavily anticipated by MIT Cheetah QDD prior art (Wensing 2017, Katz 2019). Pricing-driven commodification rather than novel IP.
+
+## Caltech LEONARDO (2021-10)
+
+- **id**: `caltech-leonardo-2021`
+- **corpus**: academic
+- **creator**: Kyunam Kim, Patrick Spieler, Alireza Ramezani, Soon-Jo Chung; Caltech Aerospace Robotics and Control Lab (Chung group), CAST (Center for Autonomous Systems and Technologies)
+- **disclosure**: Kim, Kyunam; Spieler, Patrick; Lupu, Elena-Sorina; Ramezani, Alireza; Chung, Soon-Jo. 'A bipedal walking robot that can fly, slackline, and skateboard.' Science Robotics, Volume 6, Issue 59, October 6, 2021, eabf8136. DOI: 10.1126/scirobotics.abf8136. Caltech CAST press release October 6, 2021.
+- **ip status**: public-domain
+- **prior art notes**: Caltech LEONARDO (Kim-Chung et al. Science Robotics 2021) is the canonical academic disclosure of bipedal-aerial hybrid morphology with simultaneous walking-and-thrust-balance-assist control. Anticipates with element-by-element specificity: (1) the hybrid-morphology bipedal-aerial platform with propellers integrated into the leg structure — directly relevant to claims on hybrid-locomotion humanoid IP, anticipating any future commercial humanoid that augments walking with thrust assistance; (2) simultaneous use of propeller thrust and leg actuation for balance during walking — relevant to claims on multi-modal balance authority for humanoid platforms (separate from ZMP-only or angular-momentum-only approaches); (3) the demonstration on extreme tasks (slackline traversal, skateboarding) that exceed the capability set of pure bipedal robots — relevant to claims on extreme-environment humanoid mobility IP. Science Robotics paper provides full design and control disclosure. Modern hybrid-locomotion humanoid IP faces this 5-year-deep academic anchor.
+
+## MIT Humanoid (2021-11)
+
+- **id**: `mit-humanoid-2021`
+- **corpus**: academic
+- **creator**: Matthew Chignoli, Donghyun Kim, Elijah Stanger-Jones, Sangbae Kim; MIT Biomimetic Robotics Lab
+- **disclosure**: Chignoli, Matthew; Kim, Donghyun; Stanger-Jones, Elijah; Kim, Sangbae. 'The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors.' IEEE-RAS International Conference on Humanoid Robots (Humanoids 2020, virtual; presented November 2021), pp. 1-8. arXiv:2104.09025, April 2021.
+- **ip status**: public-domain
+- **prior art notes**: The MIT Humanoid (Chignoli-Kim et al. Humanoids 2020/arXiv 2021) is the canonical academic disclosure of dynamic whole-body humanoid locomotion using a quasi-direct-drive actuator topology with explicit actuator-dynamics-aware MPC, from the Sangbae Kim group (MIT Biomimetic Robotics Lab) that previously produced Mini Cheetah and Cheetah 3. Anticipates with element-by-element specificity: (1) QDD actuator topology extended from quadruped (Mini Cheetah, 2019) to humanoid biped — directly relevant to commercial claims on QDD humanoid IP (Berkeley Humanoid, Unitree H1/G1, Booster T1, much of the 2024-2026 humanoid wave employs QDD); (2) explicit actuator-dynamics-model integration into humanoid MPC (motor inertia, torque limits, current limits enter the OCP directly) — anticipates commercial claims on actuator-aware humanoid control; (3) acrobatic-capable lightweight (~24 kg) electric humanoid as a research platform — anticipates the lightweight-humanoid commercial form factor. The Sangbae Kim lineage (Cheetah 1/2/3 → Mini Cheetah → MIT Humanoid) is one of the deepest legged-robot academic chains and the MIT Humanoid arXiv preprint provides full design documentation. Modern QDD-humanoid IP filings face this 5-year-deep academic anchor.
 
 ## Upkie (2022)
 
@@ -257,6 +311,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Apptronik public reveal of Apollo, August 2023.
 - **ip status**: patented
 - **prior art notes**: Apptronik's actuator IP has lineage from UT Austin Human-Centered Robotics Lab (Sentis) and from NASA Valkyrie work; both sources constitute substantial prior art that limits the patentable surface area of Apptronik's own claims.
+
+## NVIDIA Isaac Lab (2023-08)
+
+- **id**: `nvidia-isaac-lab-2024`
+- **corpus**: academic
+- **creator**: Mittal et al.; NVIDIA Corporation, ETH Zürich Robotic Systems Lab (Hutter), and University of Toronto Vector Institute (Garg)
+- **disclosure**: Mittal, Mayank; Yu, Calvin; Yu, Qinxi; Liu, Jingzhou; Rudin, Nikita; Hoeller, David; Yuan, Jia Lin; Tehrani, Pooria S.; Singh, Ritvik; Guo, Yunrong; Mazhar, Hammad; Mandlekar, Ajay; Babich, Buck; State, Gavriel; Hutter, Marco; Garg, Animesh. 'ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments.' IEEE Robotics and Automation Letters (RA-L), August 2023; later released and rebranded as Isaac Lab in 2024. Repository at https://github.com/isaac-sim/IsaacLab.
+- **ip status**: open-permissive
+- **prior art notes**: Isaac Lab (formerly ORBIT, 2023) is the canonical academic-published GPU-parallelized simulation framework for robot learning, published BSD-3-Clause by NVIDIA + ETH Zürich + University of Toronto. Anticipates with full architectural specificity: (1) thousands-of-parallel-environments humanoid RL training on a single GPU — directly relevant to commercial claims on simulation-at-scale humanoid training pipelines (NVIDIA GR00T, Tesla Optimus, Figure 02 all use this paradigm); (2) URDF/USD-asset interoperability surface enabling cross-platform humanoid descriptors — relevant to claims on cross-platform humanoid descriptor IP; (3) the standardized RL task interface (gym-like API with vectorized environments) — relevant to claims on humanoid-task-curriculum IP; (4) integrated sensor simulation with domain randomization — relevant to claims on sim-to-real-via-randomization humanoid pipelines (anticipated already by OpenAI Dactyl 2018 but Isaac Lab provides the GPU-scale implementation). Mittal et al. RA-L 2023 paper has been cited >300 times by 2026 and underpins essentially every recent humanoid-RL publication. Modern sim-to-real-at-scale humanoid IP filings face this 3-year-deep open-source academic anchor.
+
+## MuJoCo MJX (2023-08)
+
+- **id**: `deepmind-mujoco-mjx-2023`
+- **corpus**: academic
+- **creator**: DeepMind / Google Research MuJoCo team (lead: Yuval Tassa, Tom Erez, with engineering contributions from Taylor Howell, Kevin Zakka, Erik Frey and the broader DeepMind robotics group; original MuJoCo by Emo Todorov)
+- **disclosure**: DeepMind / Google Research MuJoCo team. 'MuJoCo MJX: A JAX implementation of the MuJoCo physics engine.' MuJoCo 3.0.0 release, August 2023; documented in MuJoCo 3.x documentation (https://mujoco.readthedocs.io/en/stable/mjx.html). Source code at https://github.com/google-deepmind/mujoco/tree/main/mjx. Originally MuJoCo: Todorov, Erez, and Tassa, 'MuJoCo: A physics engine for model-based control,' IEEE/RSJ IROS 2012, 5026-5033. Apache-2.0 license.
+- **ip status**: open-permissive
+- **prior art notes**: MuJoCo MJX (August 2023) is the canonical academic disclosure of GPU/TPU-parallelized differentiable physics simulation for robotics, published Apache-2.0 by DeepMind. Anticipates with full specificity: (1) gradient-based humanoid policy optimization through the simulator end-to-end — directly relevant to claims on differentiable-physics humanoid IP (NVIDIA GR00T, Genesis simulator, and several Tesla / Figure / 1X commercial pipelines use the same paradigm); (2) JAX vmap/pmap vectorized rollouts at >10,000 envs scale — relevant to claims on massively-parallel humanoid simulation pipelines; (3) soft-contact regularization for differentiability through contact — anticipates claims on smoothed-contact humanoid trajectory optimization; (4) MJCF as a vendor-neutral robot description format — anticipates claims on cross-vendor humanoid descriptors. The original MuJoCo (Todorov-Erez-Tassa IROS 2012) provides 14-year-deep prior art on the underlying physics; MJX adds 3-year-deep prior art on the GPU-differentiable port. Modern claims on differentiable simulation for humanoid training face this academic anchor.
 
 ## Rainbow Robotics RB-Y1 (2024-03)
 

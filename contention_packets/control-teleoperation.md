@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-teleoperation`  
-**Entries:** 29 (24 commons-grade, 5 draft)  
+**Entries:** 30 (25 commons-grade, 5 draft)  
 **Earliest disclosure:** 1956-07  
 **Most recent disclosure:** 2024-05-24
 
@@ -587,6 +587,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-03 — LeRobot (HuggingFace)
+
+- **id:** `huggingface-lerobot-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Remi Cadene and contributors; HuggingFace, Inc. (with extensive academic contributions from Stanford, CMU, NYU, MIT, IIIT-Hyderabad, ETH Zurich research groups via upstream policies)
+- **disclosure citation:** Cadene, Remi et al. 'LeRobot: State-of-the-art AI for real-world robotics in PyTorch.' HuggingFace blog announcement and GitHub repository launch, March 13, 2024 (https://github.com/huggingface/lerobot). Cadene was previously a research engineer at Tesla AI / formerly at FAIR Paris before joining HuggingFace; the LeRobot framework consolidates open-source implementations of policies (ACT, Diffusion Policy, TDMPC, VQ-BeT, Pi0, SmolVLA) and datasets in a unified Apache-2.0 PyTorch substrate.
+- **disclosed subsystems:** `control-rl-policy`, `control-sim-to-real`, `control-vla-vision-language-action`, `control-teleoperation`
+
+**Prior art notes:**
+
+> LeRobot (March 2024) is the canonical open-source unified framework for training and deploying imitation-learning and reinforcement-learning robot policies, published Apache-2.0 by HuggingFace. Anticipates with full architectural specificity: (1) multi-policy training and evaluation framework with a common interface — directly relevant to commercial claims on policy-architecture-agnostic VLA training pipelines (1X, Figure, Tesla Optimus, Genesis AI all build training pipelines that resemble this structure); (2) standardized dataset format for teleoperated demonstrations across heterogeneous embodiments (LeRobotDataset) — relevant to claims on cross-embodiment data unification, anticipating Open X-Embodiment-style aggregation patents; (3) the model-zoo pattern (pre-trained policy checkpoints downloadable via the HuggingFace Hub) — relevant to claims on commercial-grade pre-trained robot policy distribution; (4) real-robot inference on commodity hardware via PyTorch — relevant to claims on edge-deployable VLA systems. The Apache-2.0 license combined with extensive third-party contributions (Stanford Aloha team, Princeton Diffusion Policy, NYU/Cycle's TDMPC2, Physical Intelligence Pi0) makes this entry the consolidated prior art anchor for the entire 2024-2026 VLA-training-stack patent space. Modern VLA pipeline IP filings face this 2-year-deep anchor with full source disclosure.
+
+**Sources:**
+
+1. Cadene, R. et al. LeRobot GitHub repository (https://github.com/huggingface/lerobot), launched March 2024.
+2. HuggingFace blog post: 'Announcing LeRobot: State-of-the-art AI for real-world robotics' (https://huggingface.co/blog/lerobot), March 2024.
+3. Cadene, R. et al. 'LeRobot: A unified library for learning real-world robotics in PyTorch.' arXiv preprint (multiple companion papers from 2024-2025 covering ACT, Pi0, SmolVLA integrations).
+
+---
+
 ### 2024-03-19 — DROID Dataset
 
 - **id:** `droid-dataset`
@@ -656,4 +677,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `559a8b5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f6d8987`.*

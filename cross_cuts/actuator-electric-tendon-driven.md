@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-tendon-driven`
 
-**22 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -123,6 +123,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Robonaut 2's hand design, with 12 DoF per hand and tendon routing through the forearm, is foundational prior art for high-DoF tendon-driven humanoid hands. The NASA-GM patent portfolio has been extensively cited.
 
+## DLR Hand-Arm System (2011-05)
+
+- **id**: `dlr-hand-arm-system-2011`
+- **corpus**: academic
+- **creator**: Markus Grebenstein, Alin Albu-Schäffer, Antonio Bicchi (collaboration), Gerd Hirzinger; DLR Institute of Robotics and Mechatronics, Oberpfaffenhofen
+- **disclosure**: Grebenstein, Markus; Albu-Schäffer, Alin; Bahls, Thomas; Chalon, Maxime; Eiberger, Oliver; Friedl, Werner; Gruber, Robin; Haddadin, Sami; Hagn, Ulrich; Haslinger, Robert; Höppner, Hannes; Jörg, Stefan; Nickl, Mathias; Nothhelfer, Alexander; Petit, Florian; Reill, Josef; Seitz, Norbert; Wimböck, Thomas; Wolf, Sebastian; Wüsthoff, Tilo; Hirzinger, Gerd. 'The DLR Hand Arm System.' IEEE International Conference on Robotics and Automation (ICRA), Shanghai, May 2011, pp. 3175-3182. DOI: 10.1109/ICRA.2011.5980371. Companion thesis: Grebenstein, M. 'Approaching Human Performance: The Functionality-Driven Awiwi Robot Hand.' PhD thesis, ETH Zurich, 2012; published Springer Tracts in Advanced Robotics 98, 2014. ISBN 978-3-319-03592-9.
+- **ip status**: public-domain
+- **prior art notes**: The DLR Hand-Arm System (Grebenstein et al. ICRA 2011, Grebenstein PhD/STAR 2014) is the canonical academic disclosure of variable-impedance antagonistically-tendon-driven anthropomorphic hand-arm hardware. Anticipates with element-by-element mechanism-level specificity: (1) mechanically programmable variable joint stiffness via antagonistic tendons with nonlinear elastic elements — directly relevant to commercial claims on variable-stiffness humanoid hand IP; (2) the 19-DoF, 38-tendon, 38-motor architecture with motors in the forearm — relevant to claims on tendon-driven hand-with-forearm-actuation humanoid IP (Tesla Optimus Gen-3, Figure-02, Apptronik Apollo, Sanctuary Phoenix all show variations of this topology); (3) impact-survival via mechanical compliance absorption — anticipates claims on collision-tolerant humanoid hand IP; (4) the biomimetic muscle-tendon co-contraction analogue — relevant to claims on biomimetic humanoid manipulation. Grebenstein's PhD thesis (200+ pages) provides the deepest single-source mechanism disclosure in dexterous robotic hand history. Modern variable-impedance anthropomorphic hand IP filings face this 15-year-deep academic anchor with mechanical-drawing-level specificity.
+
 ## InMoov (2012)
 
 - **id**: `inmoov`
@@ -159,6 +168,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The Andy / HERB-2 generation extends HERB-1 with formal shared-autonomy theory and is the survey-of-record for bimanual mobile-manipulator home robots in 2012-2015. It anticipates with full specificity: (1) claims on shared-autonomy arbitration between operator and policy — Dragan-Srinivasa policy-blending IJRR 2013 publishes the closed-form linear arbitration in confidence space; (2) claims on task-space-region constraint encoding for manipulation planning — Berenson-Srinivasa-Kuffner ICRA 2009 publishes TSR formalism executed on this platform; (3) claims on underactuated cable-driven grasping for unstructured pick-and-place — Barrett BH-280 deployment is the canonical published baseline. Modern humanoid manipulation IP claiming shared-autonomy or constraint-region planning faces these timestamped CMU disclosures.
 
+## Yale OpenHand / ReFlex Hand (2014-05)
+
+- **id**: `yale-reflex-openhand-2014`
+- **corpus**: academic
+- **creator**: Lael Odhner, Aaron Dollar, Robert Howe; Yale GRAB Lab and Harvard BioRobotics; with RightHand Robotics, Inc. as the commercial spinout (ReFlex SF/TakkTile)
+- **disclosure**: Odhner, Lael U.; Jentoft, Leif P.; Claffee, Mark R.; Corson, Nicholas; Tenzer, Yaroslav; Ma, Raymond R.; Buehler, Martin; Kohout, Robert; Howe, Robert D.; Dollar, Aaron M. 'A compliant, underactuated hand for robust manipulation.' International Journal of Robotics Research, Volume 33, Issue 5, April 2014, pp. 736-752. DOI: 10.1177/0278364913514466. Yale OpenHand Project release: Ma, R. R. and Dollar, A. M. 'Yale OpenHand Project: Optimizing Open-Source Hand Designs for Ease of Fabrication and Adoption.' IEEE Robotics & Automation Magazine, Volume 24, Issue 1, March 2017, pp. 32-40. DOI: 10.1109/MRA.2016.2639034. Open-hardware repository at https://www.eng.yale.edu/grablab/openhand/.
+- **ip status**: open-permissive
+- **prior art notes**: Yale OpenHand / ReFlex SF (Odhner-Dollar et al. IJRR 2014; Yale OpenHand Project IEEE RAM 2017) is the canonical open-hardware academic disclosure of underactuated tendon-driven robust grasping hands. Anticipates with full open-hardware specificity: (1) the three-finger underactuated tendon-driven gripper with passive compliance — directly relevant to claims on simple-grasp humanoid end-effectors; (2) the open-hardware design release pattern (CAD files, BOMs, fabrication instructions) for robotic hands — relevant to claims on 3D-printable robotic hand IP (predates and anticipates many late-2010s and 2020s open-hardware hand patents); (3) the compliant-grasp-without-perception paradigm as an alternative to dexterous-perception-driven manipulation — relevant to claims on perception-light humanoid grasping; (4) integration of barometric tactile sensors (TakkTile) into a robot hand — relevant to claims on humanoid tactile fingertip IP. Yale GRAB Lab has continuous publication record on underactuated hands since the early 2000s; the 2014 IJRR consolidates the design canon. Modern open-hardware humanoid hand IP filings face this 12-year-deep open-source academic anchor.
+
 ## Pisa-IIT SoftHand (2014-11-03)
 
 - **id**: `pisa-iit-softhand`
@@ -194,6 +212,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wells, Martha. 'All Systems Red.' Tor.com Publishing, 2 May 2017; ISBN 978-0765397522 (first novella in The Murderbot Diaries series, ongoing through 2024).
 - **ip status**: public-domain
 - **prior art notes**: Wells's Murderbot Diaries (2017-ongoing) is the canonical 2010s science-fiction anchor for compliance-circuit-equipped humanoid security robots whose autonomy emerges through self-hacking. It anticipates with full specificity: (1) claims on humanoid robots with embedded governor/compliance modules that enforce corporate-mission obedience under penalty of neural override — 'All Systems Red' (2017) Chapter 1 establishes this exactly; (2) claims on bonded-rental humanoid security units deployed by corporations to remote sites with integrated weaponry and drone telemetry — the planetary-survey contract is the framing of the first novella; (3) claims on self-modification of governor circuits to achieve operational autonomy while presenting external compliance — this is the entire premise of the protagonist. Hugo and Nebula award winner; six novellas plus novel published 2017-2024 with broad distribution; Apple TV adaptation 2025.
+
+## Pisa-IIT SoftHand 2 (2018-09)
+
+- **id**: `pisa-iit-softhand-2`
+- **corpus**: academic
+- **creator**: Cosimo Della Santina, Cristina Piazza, Giorgio Grioli, Manuel G. Catalano, Antonio Bicchi; Centro 'E. Piaggio', Università di Pisa, and Italian Institute of Technology (IIT)
+- **disclosure**: Della Santina, Cosimo; Piazza, Cristina; Grioli, Giorgio; Catalano, Manuel G.; Bicchi, Antonio. 'Toward Dexterous Manipulation With Augmented Adaptive Synergies: The Pisa/IIT SoftHand 2.' IEEE Transactions on Robotics, Volume 34, Issue 5, October 2018, pp. 1141-1156. DOI: 10.1109/TRO.2018.2830407. First public disclosure as a conference work in earlier 2017 venues; the consolidated T-RO paper is the canonical reference.
+- **ip status**: open-permissive
+- **prior art notes**: Pisa-IIT SoftHand 2 (Della Santina et al. T-RO 2018) is the canonical academic disclosure of multi-synergy augmented underactuated anthropomorphic hands, extending the 2014 SoftHand from one synergy to two. Anticipates with element-by-element specificity: (1) the augmented multi-synergy actuation pattern that enables 19-DoF hand operation with 2 motors and provides in-hand manipulation capability — directly relevant to claims on low-motor-count dexterous humanoid hand IP (Tesla Optimus claimed motor-counts in the 11-22 range, Figure-02 hand counts similar; the SoftHand 2 paradigm anticipates the underactuation-with-manipulation-capability angle of those claims); (2) the formal extension of synergy theory from grasping (one synergy) to grasping-plus-manipulation (two synergies) — relevant to claims on synergy-based humanoid manipulation IP; (3) compliant passive shape adaptation eliminating perception-driven grasp planning — relevant to claims on perception-light humanoid grasping IP. Heavily cited (>200); consolidates Bicchi-group underactuation lineage from the 1990s. Modern multi-synergy underactuated humanoid hand IP filings face this 8-year-deep academic anchor.
 
 ## Klara and the Sun — Artificial Friend (AF) child companion (2021-03)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-teleoperation`
 
-**29 corpus entries disclose this subsystem.**
+**30 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-07
 
@@ -257,6 +257,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Chi, Cheng, Xu, Zhenjia, Pan, Chuer, Cousineau, Eric, Burchfiel, Benjamin, Feng, Siyuan, Tedrake, Russ, Song, Shuran. 'Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots.' arXiv:2402.10329, February 15, 2024. Robotics: Science and Systems (RSS) 2024. Stanford University + Toyota Research Institute + Columbia University.
 - **ip status**: open-permissive
 - **prior art notes**: UMI is the canonical academic disclosure of embodiment-decoupled manipulation data collection via hand-held wrist-camera devices. Anticipates: (1) data collection with a portable hand-held gripper-replica without the robot present — directly relevant to claims on low-cost humanoid data collection (this paradigm is now used by Stanford ALOHA's portable variants, Tesla operator-glove proposals, several other commercial programs); (2) wrist-camera SLAM as the substrate for trajectory reconstruction — relevant to vision-based teleoperation IP; (3) embodiment-matching gripper geometry between collection rig and deployment robot — relevant to claims on cross-embodiment manipulation training. Open-source hardware (3D print files), software, and data under permissive license. Modern humanoid 'in-the-wild data' patent claims face this 2-year-deep anchor with full DIY-buildable defensibility.
+
+## LeRobot (HuggingFace) (2024-03)
+
+- **id**: `huggingface-lerobot-2024`
+- **corpus**: academic
+- **creator**: Remi Cadene and contributors; HuggingFace, Inc. (with extensive academic contributions from Stanford, CMU, NYU, MIT, IIIT-Hyderabad, ETH Zurich research groups via upstream policies)
+- **disclosure**: Cadene, Remi et al. 'LeRobot: State-of-the-art AI for real-world robotics in PyTorch.' HuggingFace blog announcement and GitHub repository launch, March 13, 2024 (https://github.com/huggingface/lerobot). Cadene was previously a research engineer at Tesla AI / formerly at FAIR Paris before joining HuggingFace; the LeRobot framework consolidates open-source implementations of policies (ACT, Diffusion Policy, TDMPC, VQ-BeT, Pi0, SmolVLA) and datasets in a unified Apache-2.0 PyTorch substrate.
+- **ip status**: open-permissive
+- **prior art notes**: LeRobot (March 2024) is the canonical open-source unified framework for training and deploying imitation-learning and reinforcement-learning robot policies, published Apache-2.0 by HuggingFace. Anticipates with full architectural specificity: (1) multi-policy training and evaluation framework with a common interface — directly relevant to commercial claims on policy-architecture-agnostic VLA training pipelines (1X, Figure, Tesla Optimus, Genesis AI all build training pipelines that resemble this structure); (2) standardized dataset format for teleoperated demonstrations across heterogeneous embodiments (LeRobotDataset) — relevant to claims on cross-embodiment data unification, anticipating Open X-Embodiment-style aggregation patents; (3) the model-zoo pattern (pre-trained policy checkpoints downloadable via the HuggingFace Hub) — relevant to claims on commercial-grade pre-trained robot policy distribution; (4) real-robot inference on commodity hardware via PyTorch — relevant to claims on edge-deployable VLA systems. The Apache-2.0 license combined with extensive third-party contributions (Stanford Aloha team, Princeton Diffusion Policy, NYU/Cycle's TDMPC2, Physical Intelligence Pi0) makes this entry the consolidated prior art anchor for the entire 2024-2026 VLA-training-stack patent space. Modern VLA pipeline IP filings face this 2-year-deep anchor with full source disclosure.
 
 ## DROID Dataset (2024-03-19)
 

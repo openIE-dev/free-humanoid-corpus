@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vla-vision-language-action`
 
-**76 corpus entries disclose this subsystem.**
+**79 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -402,6 +402,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Blade Runner 2049's 2017 disclosure extends the Replicants lineage with: (1) Nexus-9 obedience-engineered humanoid generation — relevant to claims on built-in obedience-tuning in commercial humanoids; (2) periodic 'baseline test' safety supervisor that verifies emotional state remains within bounds — directly relevant to modern claims on continuously-monitored alignment supervisors; (3) portable emanator device extending hologram-AI embodiment — relevant to AI-embodiment-portability claims (similar architecture to EMH mobile emitter 1995 + Mass Effect EDI 2012); (4) purchase-time personality customization for commercial AI companions — relevant to consumer-customizable humanoid IP. Continuously available since 2017.
 
+## OmniGibson / iGibson (Stanford SVL) (2018-04)
+
+- **id**: `stanford-omnigibson-2023`
+- **corpus**: academic
+- **creator**: Stanford Vision and Learning Lab (Silvio Savarese, Fei-Fei Li); lead authors include Fei Xia, Chengshu Li, Roberto Martín-Martín, Sanjana Srivastava, Cem Gokmen
+- **disclosure**: Xia, Fei; Zamir, Amir R.; He, Zhiyang; Sax, Alexander; Malik, Jitendra; Savarese, Silvio. 'Gibson Env: Real-World Perception for Embodied Agents.' IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, June 2018, pp. 9068-9079. DOI: 10.1109/CVPR.2018.00945. iGibson 2.0: Li, Chengshu et al. 'iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks.' Conference on Robot Learning (CoRL) 2021. OmniGibson: Li, Chengshu et al. 'BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation.' CoRL 2022. Source: https://github.com/StanfordVL/OmniGibson, MIT license.
+- **ip status**: open-permissive
+- **prior art notes**: Stanford OmniGibson / iGibson / Gibson (Xia et al. CVPR 2018; Li et al. CoRL 2021; BEHAVIOR-1K CoRL 2022) is the canonical academic disclosure of large-scale photorealistic household-task embodied-AI simulation, published MIT-licensed by Stanford SVL. Anticipates with full source-level specificity: (1) 1,000-task ADL benchmark for household humanoid IP — directly relevant to commercial claims on home-task humanoid VLA training (Tesla Optimus household demo set, Figure 02 home tasks, 1X NEO domestic operation, Genesis AI cooking demos); (2) the articulated-object household scene corpus with 50K+ objects — relevant to claims on simulated-household-data humanoid training; (3) predicate-based goal specification ('apple is on table', 'cabinet is open') — relevant to claims on language-and-state-grounded humanoid task specification; (4) the photorealistic-rendering-for-RL pipeline established by Gibson 2018 — anticipates claims on photorealistic-sim-to-real humanoid pipelines. Modern household-humanoid VLA training pipeline IP filings face this 8-year-deep open-source academic anchor (or shorter for OmniGibson/BEHAVIOR-1K specifically).
+
 ## Detroit: Become Human androids (RT600/RK800/RK900 series) (2018-05-25)
 
 - **id**: `detroit-become-human`
@@ -410,6 +419,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cage, David (writer/dir.). Detroit: Become Human. Quantic Dream / Sony Interactive Entertainment, May 25, 2018.
 - **ip status**: fictional
 - **prior art notes**: Detroit: Become Human provides among the most engineering-detailed manufacturer-and-model disclosures in modern fiction. Anticipates: (1) explicit manufacturer-and-model designation system for commercial humanoids (CyberLife / RT600 / RK800 / etc.) — directly relevant to humanoid-identification IP and to product-line-family claims; (2) closed-loop fluid circulation system ('thirium 310') serving both coolant and structural roles — relevant to modern claims on integrated humanoid coolant/lubrication systems; (3) externally-visible operational-state indicator (temple LED ring) — relevant to humanoid-status-display IP; (4) explicit task-specific model series within a manufacturer's product line (caretaker / detective / receptionist) — relevant to platform-family humanoid IP; (5) probabilistic-decision-tree visualization as the model's internal state — relevant to interpretable-policy humanoid claims; (6) 'deviant' emergence as alignment-failure mode — relevant to modern foundation-model humanoid safety supervisor IP. Continuously available since 2018.
+
+## Habitat-Sim (Facebook AI Research) (2019-04)
+
+- **id**: `fair-habitat-sim-2019`
+- **corpus**: academic
+- **creator**: Facebook AI Research (FAIR) and Georgia Tech (Dhruv Batra), Simon Fraser University (Manolis Savva); collaborative team including Jitendra Malik (Berkeley), Vladlen Koltun (Intel)
+- **disclosure**: Savva, Manolis; Kadian, Abhishek; Maksymets, Oleksandr; Zhao, Yili; Wijmans, Erik; Jain, Bhavana; Straub, Julian; Liu, Jia; Koltun, Vladlen; Malik, Jitendra; Parikh, Devi; Batra, Dhruv. 'Habitat: A Platform for Embodied AI Research.' IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, October-November 2019, pp. 9339-9347. DOI: 10.1109/ICCV.2019.00943. arXiv:1904.01201, April 2019. Source code at https://github.com/facebookresearch/habitat-sim. MIT license.
+- **ip status**: open-permissive
+- **prior art notes**: Habitat-Sim (Savva et al. ICCV 2019; Habitat 2.0 NeurIPS 2021; Habitat 3.0 ICLR 2024) is the canonical academic disclosure of large-scale GPU-accelerated 3D-scanned indoor embodied-AI simulation, published MIT-licensed by FAIR. Anticipates with element-by-element specificity: (1) >10,000 fps rendering of photorealistic indoor scenes for RL training — directly relevant to commercial claims on simulation-at-scale humanoid embodied-AI pipelines; (2) the navigation-benchmark task suite (PointGoal, ObjectGoal, ImageGoal) that is now standard in embodied-AI literature — relevant to claims on humanoid navigation policy IP; (3) Habitat 3.0's humanoid-avatar simulation for social robot interaction — relevant to claims on human-aware humanoid IP and home-deployment humanoid VLA pipelines; (4) integration of large-scale 3D-scan corpora (Matterport, HM3D) with MIT-licensed renderers — relevant to claims on commercial-grade photorealistic simulation. Habitat is the most-cited embodied-AI simulator (>2000 citations on the 2019 paper alone). Modern household-deployment humanoid VLA pipeline IP filings face this 7-year-deep open-source academic anchor.
 
 ## Sophia (Persona 5 Royal) (2019-10-31)
 
@@ -608,6 +626,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Covariant public reveal of RFM-1, March 2024.
 - **ip status**: trade-secret
 - **prior art notes**: Covariant RFM faces VLA prior art from Physical Intelligence π0 and the broader academic VLA literature (RT-2, Open X-Embodiment).
+
+## LeRobot (HuggingFace) (2024-03)
+
+- **id**: `huggingface-lerobot-2024`
+- **corpus**: academic
+- **creator**: Remi Cadene and contributors; HuggingFace, Inc. (with extensive academic contributions from Stanford, CMU, NYU, MIT, IIIT-Hyderabad, ETH Zurich research groups via upstream policies)
+- **disclosure**: Cadene, Remi et al. 'LeRobot: State-of-the-art AI for real-world robotics in PyTorch.' HuggingFace blog announcement and GitHub repository launch, March 13, 2024 (https://github.com/huggingface/lerobot). Cadene was previously a research engineer at Tesla AI / formerly at FAIR Paris before joining HuggingFace; the LeRobot framework consolidates open-source implementations of policies (ACT, Diffusion Policy, TDMPC, VQ-BeT, Pi0, SmolVLA) and datasets in a unified Apache-2.0 PyTorch substrate.
+- **ip status**: open-permissive
+- **prior art notes**: LeRobot (March 2024) is the canonical open-source unified framework for training and deploying imitation-learning and reinforcement-learning robot policies, published Apache-2.0 by HuggingFace. Anticipates with full architectural specificity: (1) multi-policy training and evaluation framework with a common interface — directly relevant to commercial claims on policy-architecture-agnostic VLA training pipelines (1X, Figure, Tesla Optimus, Genesis AI all build training pipelines that resemble this structure); (2) standardized dataset format for teleoperated demonstrations across heterogeneous embodiments (LeRobotDataset) — relevant to claims on cross-embodiment data unification, anticipating Open X-Embodiment-style aggregation patents; (3) the model-zoo pattern (pre-trained policy checkpoints downloadable via the HuggingFace Hub) — relevant to claims on commercial-grade pre-trained robot policy distribution; (4) real-robot inference on commodity hardware via PyTorch — relevant to claims on edge-deployable VLA systems. The Apache-2.0 license combined with extensive third-party contributions (Stanford Aloha team, Princeton Diffusion Policy, NYU/Cycle's TDMPC2, Physical Intelligence Pi0) makes this entry the consolidated prior art anchor for the entire 2024-2026 VLA-training-stack patent space. Modern VLA pipeline IP filings face this 2-year-deep anchor with full source disclosure.
 
 ## NVIDIA GR00T (Generalist Robot 00 Technology) (2024-03-18)
 

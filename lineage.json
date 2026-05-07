@@ -788,6 +788,7 @@
         "yoshikawa-manipulability"
       ],
       "descendants": [
+        "atlas-academic-disclosures",
         "dlr-toro",
         "featherstone-rdf",
         "ott-impedance-control",
@@ -1370,6 +1371,7 @@
         "shadow-dexterous-hand"
       ],
       "descendants": [
+        "dlr-hand-arm-system-2011",
         "dlr-justin",
         "icub",
         "robonaut-2"
@@ -1425,6 +1427,7 @@
         "khatib-operational-space"
       ],
       "descendants": [
+        "atlas-academic-disclosures",
         "atlas-boston-dynamics",
         "dlr-toro",
         "nasa-valkyrie"
@@ -1778,6 +1781,16 @@
       "descendants": []
     },
     {
+      "id": "dlr-hand-arm-system-2011",
+      "name": "DLR Hand-Arm System",
+      "year": "2011",
+      "corpus": "academic",
+      "ancestors": [
+        "dlr-hand-ii"
+      ],
+      "descendants": []
+    },
+    {
       "id": "real-steel-boxers",
       "name": "Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy)",
       "year": "2011",
@@ -1840,6 +1853,24 @@
         "bishop-aliens"
       ],
       "descendants": []
+    },
+    {
+      "id": "mordatch-cio-2012",
+      "name": "Contact-Invariant Optimization (Mordatch CIO)",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tassa-ilqg-2012",
+      "name": "Tassa iLQG / Synthesis and Stabilization of Complex Behaviors",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "mastalli-crocoddyl-2020"
+      ]
     },
     {
       "id": "atrias",
@@ -1990,6 +2021,25 @@
       "descendants": []
     },
     {
+      "id": "yale-reflex-openhand-2014",
+      "name": "Yale OpenHand / ReFlex Hand",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "atlas-academic-disclosures",
+      "name": "Atlas academic publications (Kuindersma et al., DRC era)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [
+        "khatib-operational-space",
+        "sentis-khatib-whole-body"
+      ],
+      "descendants": []
+    },
+    {
       "id": "pepper-softbank",
       "name": "Pepper",
       "year": "2014",
@@ -2030,7 +2080,9 @@
       "year": "2014",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "pisa-iit-softhand-2"
+      ]
     },
     {
       "id": "baymax-big-hero-6",
@@ -2337,7 +2389,8 @@
         "mit-cheetah-2"
       ],
       "descendants": [
-        "mini-cheetah"
+        "mini-cheetah",
+        "mit-humanoid-2021"
       ]
     },
     {
@@ -2355,6 +2408,14 @@
       "name": "UBTech Walker",
       "year": "2018",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "stanford-omnigibson-2023",
+      "name": "OmniGibson / iGibson (Stanford SVL)",
+      "year": "2018",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -2402,6 +2463,16 @@
       "descendants": []
     },
     {
+      "id": "pisa-iit-softhand-2",
+      "name": "Pisa-IIT SoftHand 2",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "pisa-iit-softhand"
+      ],
+      "descendants": []
+    },
+    {
       "id": "stanford-jr2-2018",
       "name": "Stanford JackRabbot 2 (JR-2) wheeled-arm research robot",
       "year": "2018",
@@ -2443,6 +2514,7 @@
         "berkeley-humanoid",
         "engineai-pm01",
         "limx-cl1",
+        "mit-humanoid-2021",
         "unitree-g1",
         "unitree-go1",
         "unitree-h1"
@@ -2482,6 +2554,14 @@
         "berkeley-humanoid",
         "mit-cheetah-3"
       ]
+    },
+    {
+      "id": "fair-habitat-sim-2019",
+      "name": "Habitat-Sim (Facebook AI Research)",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "caltech-hank-cast-2019",
@@ -2550,6 +2630,16 @@
       "descendants": []
     },
     {
+      "id": "mastalli-crocoddyl-2020",
+      "name": "Crocoddyl",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [
+        "tassa-ilqg-2012"
+      ],
+      "descendants": []
+    },
+    {
       "id": "digit-meta",
       "name": "DIGIT",
       "year": "2020",
@@ -2612,6 +2702,27 @@
       ],
       "descendants": [
         "xpeng-iron"
+      ]
+    },
+    {
+      "id": "caltech-leonardo-2021",
+      "name": "Caltech LEONARDO",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mit-humanoid-2021",
+      "name": "MIT Humanoid",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [
+        "mini-cheetah",
+        "mit-cheetah-3"
+      ],
+      "descendants": [
+        "berkeley-humanoid"
       ]
     },
     {
@@ -2900,6 +3011,22 @@
       ]
     },
     {
+      "id": "deepmind-mujoco-mjx-2023",
+      "name": "MuJoCo MJX",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nvidia-isaac-lab-2024",
+      "name": "NVIDIA Isaac Lab",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "unitree-h1",
       "name": "Unitree H1",
       "year": "2023",
@@ -2996,6 +3123,7 @@
         "hwangbo-anymal-sim2real",
         "mcgeer-passive-walker",
         "mini-cheetah",
+        "mit-humanoid-2021",
         "tan-quadruped-sim2real"
       ],
       "descendants": []
@@ -3061,6 +3189,14 @@
       "name": "Covariant RFM-1",
       "year": "2024",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "huggingface-lerobot-2024",
+      "name": "LeRobot (HuggingFace)",
+      "year": "2024",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
