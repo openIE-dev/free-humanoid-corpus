@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-physics-simulation`
 
-**10 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003-01
 
@@ -50,6 +50,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Coumans, E., Bai, Y. 'PyBullet: A Python module for physics simulation for games, robotics and machine learning'. 2016-2025. pybullet.org. Bullet physics engine antecedent (Coumans 2003+). Open-source ZLIB license.
 - **ip status**: open-permissive
 - **prior art notes**: PyBullet (Coumans Google 2017+) is the foundational open-source physics engine for academic robotics + RL. 9-year-deep open-permissive prior art. The dominant academic simulator before MuJoCo open-sourcing 2021. Direct shielding for any commercial humanoid claim using physics-simulation training infrastructure.
+
+## Rajagopal full-body OpenSim musculoskeletal model (2016-08)
+
+- **id**: `rajagopal-opensim-full-body-2016`
+- **corpus**: academic
+- **creator**: Stanford University NMBL; Apoorva Rajagopal, Christopher Dembia, Matthew DeMers, Daniel Delp, Jennifer Hicks, Scott Delp
+- **disclosure**: Rajagopal, A., Dembia, C. L., DeMers, M. S., Delp, D. D., Hicks, J. L., Delp, S. L. 'Full-Body Musculoskeletal Model for Muscle-Driven Simulation of Human Gait'. IEEE Transactions on Bio-medical Engineering 63(10) 2016. Stanford University Neuromuscular Biomechanics Laboratory.
+- **ip status**: open-permissive
+- **prior art notes**: Rajagopal full-body OpenSim model (Stanford NMBL IEEE T-BME 2016) is the canonical full-body musculoskeletal model in OpenSim. 9-year-deep open-permissive prior art. The specific paper-level anchor of the round-33 OpenSim aggregator entry for full-body humanoid kinematic-spec derivation. Direct shielding for any commercial humanoid claim deriving kinematic specifications from human anatomical models.
 
 ## DeepMind Control Suite (2018-01)
 

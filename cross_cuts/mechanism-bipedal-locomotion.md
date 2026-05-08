@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**152 corpus entries disclose this subsystem.**
+**153 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -599,6 +599,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cyberdyne Inc. (Tsukuba, Japan; founded 2004 as University of Tsukuba spinout from Yoshiyuki Sankai's lab). HAL-3 reveal 2004; HAL-5 commercial production from 2008. Sankai, Y. 'HAL: Hybrid Assistive Limb based on cybernics' Robotics Research: 13th Int. Symposium 2007 (Springer Tracts in Advanced Robotics). FDA clearance 2017 for Hybrid Assistive Limb-Medical.
 - **ip status**: trade-secret
 - **prior art notes**: Cyberdyne HAL (Sankai/Cyberdyne 2004+) is the canonical bioelectric-controlled medical exoskeleton. 21-year-deep public-disclosure prior art for: surface-EMG-driven exoskeleton control, FDA-cleared rehabilitation exoskeleton, bioelectric-amplification control law. Distinct architectural branch from Berkeley BLEEX (force-sensing-driven, military/industrial focus). Direct shielding for any commercial humanoid claim on EMG-controlled exoskeleton operation or bioelectric-driven prosthetic control. Together with the BrainGate cortical-BCI lineage (round-18), establishes the bioelectric-control prior-art chain for human-augmenting devices.
+
+## Wisse passive-dynamic walker thesis (2004-12)
+
+- **id**: `wisse-tu-delft-passive-walker-2004`
+- **corpus**: academic
+- **creator**: TU Delft Biomechanical Engineering; Martijn Wisse + Frans van der Helm
+- **disclosure**: Wisse, M. 'Essentials of Dynamic Walking: Analysis and Design of Two-Legged Robots'. PhD thesis, Delft University of Technology, December 2004. Adviser: Frans van der Helm. Subsequent: 'Denise' planar walker (2005); 'Mike' McGeer-class walker. Foundational TU Delft passive-dynamic walking research that directly contributed to Collins-Ruina-Tedrake-Wisse Science 2005 (corpus entry round-19).
+- **ip status**: public-domain
+- **prior art notes**: Wisse's TU Delft passive-dynamic-walking research (PhD 2004 + Denise/Mike walkers) is the Dutch contribution to the Collins-Ruina-Tedrake-Wisse Science 2005 paper (corpus round-19). 21-year-deep public-domain prior art. Anchors the round-25 TU Delft aggregator entry with a specific paper-level disclosure. Together with McGeer 1990 + Collins 2005, establishes the passive-dynamic walking academic chain that shields any commercial humanoid efficiency claim.
 
 ## Sentis-Khatib Whole-Body Prioritized Task Control (2005)
 

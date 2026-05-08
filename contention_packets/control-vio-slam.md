@@ -1,7 +1,7 @@
 ---
 title: "control-vio-slam"
 parent: "Invalidity Contentions"
-nav_order: 103
+nav_order: 106
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-vio-slam`  
-**Entries:** 13 (7 commons-grade, 6 draft)  
+**Entries:** 14 (8 commons-grade, 6 draft)  
 **Earliest disclosure:** 2010-07  
 **Most recent disclosure:** 2026-04
 
@@ -100,6 +100,27 @@ cite, copy, or redistribute these contentions.
 1. Campos et al. IEEE T-RO 37(6) 2021.
 2. ORB-SLAM3 GitHub (github.com/UZ-SLAMLab/ORB_SLAM3) GPLv3.
 3. ORB-SLAM lineage: Mur-Artal/Tardós ORB-SLAM (2015), ORB-SLAM2 (2017).
+
+---
+
+### 2021-09 — CSIRO Wildcat (DARPA Subterranean Challenge)
+
+- **id:** `csiro-hudson-wildcat-darpa-subt-2021`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** CSIRO Data61 + Emesent + Georgia Tech; Hudson, Talbot, et al.
+- **disclosure citation:** Hudson, N., Talbot, F., Cox, M., Williams, J., Hines, T., Pitt, A., Wood, B., Frousheger, D., Lo Surdo, K., Molnar, T., Steindl, R., et al. 'Heterogeneous Ground and Air Platforms, Homogeneous Sensing: Team CSIRO Data61's Approach to the DARPA Subterranean Challenge'. Field Robotics 2 2022 / Journal of Field Robotics. CSIRO Data61 + Emesent + Georgia Tech. **2nd place DARPA Subterranean Challenge Finals 2021**.
+- **disclosed subsystems:** `control-vio-slam`, `control-multi-robot-coordination`, `control-rough-terrain-locomotion`, `control-subterranean-autonomy`
+
+**Prior art notes:**
+
+> CSIRO Data61 Wildcat (Hudson et al. Field Robotics 2022) is the specific paper-level anchor for the round-23 CSIRO Data61 aggregator. **DARPA SubT Finals 2nd place** establishes Australian academic robotics at internationally-recognizable level. Direct shielding for any commercial humanoid claim on LIDAR-only SLAM, subterranean autonomy, or multi-robot heterogeneous-platform coordination.
+
+**Sources:**
+
+1. Hudson et al. Field Robotics 2 2022.
+2. DARPA Subterranean Challenge Finals 2021 results.
+3. CSIRO Data61 publications (data61.csiro.au).
 
 ---
 
@@ -337,4 +358,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*

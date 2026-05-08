@@ -1,7 +1,7 @@
 ---
 title: "control-grasp-planning"
 parent: "Invalidity Contentions"
-nav_order: 45
+nav_order: 46
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-grasp-planning`  
-**Entries:** 2 (1 commons-grade, 1 draft)  
+**Entries:** 3 (2 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-06  
-**Most recent disclosure:** 2000-01
+**Most recent disclosure:** 2002-04
 
 ---
 
@@ -80,6 +80,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2002-04 — Kragic-Christensen visual servoing for grasping
+
+- **id:** `kragic-christensen-visual-servoing-2002`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** KTH Royal Institute of Technology Computational Vision and Active Perception Laboratory; Danica Kragic, Henrik I. Christensen
+- **disclosure citation:** Kragic, D., Christensen, H. I. 'Survey on Visual Servoing for Manipulation'. Computational Vision and Active Perception Laboratory technical report, KTH Royal Institute of Technology, April 2002. Subsequent: Kragic, D. 'Visual servoing for object manipulation: A survey'. Royal Institute of Technology, Computational Vision and Active Perception Laboratory.
+- **disclosed subsystems:** `control-visual-servoing`, `control-grasp-planning`, `control-manipulation`
+
+**Prior art notes:**
+
+> Kragic-Christensen visual servoing (KTH 2002+) is the foundational Swedish academic visual-servoing-for-grasping framework. 23-year-deep public-domain prior art. The specific paper-level anchor for round-25 KTH Sweden aggregator. Direct shielding for any commercial humanoid claim using vision-conditioned grasp control.
+
+**Sources:**
+
+1. Kragic, D., Christensen, H. I. KTH technical report April 2002.
+2. KTH RPL division (kth.se/rpl).
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -110,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*

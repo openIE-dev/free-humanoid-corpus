@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rough-terrain-locomotion`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2005-12
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics + Marines Corps Warfighting Laboratory. LS3 (Legged Squad Support System) program reveal September 2012; demonstrated through 2015. AlphaDog is the prototype name (Phase 1, 2009-2012); LS3 is the Phase 2 (2012-2015) production version. Funded by DARPA + USMC.
 - **ip status**: trade-secret
 - **prior art notes**: LS3 / AlphaDog is the canonical 2012 hydraulic heavy-payload tactical quadruped (Boston Dynamics under DARPA + USMC). 13-year-deep public-disclosure prior art for: 400 lb payload quadruped, voice-commanded squad-support behavior, 20-mile endurance hydraulic quadruped. Direct successor to BigDog (round-20 entry above), architectural ancestor of Spot. **The hydraulic-vs-electric-quadruped architectural choice was decided at LS3** — BD pivoted to all-electric for Spot in part because LS3's noise made it tactically unusable. This decision is itself architectural prior art for modern humanoid claims.
+
+## CSIRO Wildcat (DARPA Subterranean Challenge) (2021-09)
+
+- **id**: `csiro-hudson-wildcat-darpa-subt-2021`
+- **corpus**: academic
+- **creator**: CSIRO Data61 + Emesent + Georgia Tech; Hudson, Talbot, et al.
+- **disclosure**: Hudson, N., Talbot, F., Cox, M., Williams, J., Hines, T., Pitt, A., Wood, B., Frousheger, D., Lo Surdo, K., Molnar, T., Steindl, R., et al. 'Heterogeneous Ground and Air Platforms, Homogeneous Sensing: Team CSIRO Data61's Approach to the DARPA Subterranean Challenge'. Field Robotics 2 2022 / Journal of Field Robotics. CSIRO Data61 + Emesent + Georgia Tech. **2nd place DARPA Subterranean Challenge Finals 2021**.
+- **ip status**: open-permissive
+- **prior art notes**: CSIRO Data61 Wildcat (Hudson et al. Field Robotics 2022) is the specific paper-level anchor for the round-23 CSIRO Data61 aggregator. **DARPA SubT Finals 2nd place** establishes Australian academic robotics at internationally-recognizable level. Direct shielding for any commercial humanoid claim on LIDAR-only SLAM, subterranean autonomy, or multi-robot heterogeneous-platform coordination.
 
 ## Perceptive ANYmal locomotion (Miki Science Robotics 2022) (2022-01)
 

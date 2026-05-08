@@ -1100,7 +1100,8 @@
         "atrias",
         "berkeley-humanoid",
         "cassie-osu",
-        "collins-ruina-tedrake-wisse-passive-walker-2005"
+        "collins-ruina-tedrake-wisse-passive-walker-2005",
+        "wisse-tu-delft-passive-walker-2004"
       ]
     },
     {
@@ -1550,7 +1551,9 @@
       "year": "2000",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "saska-cvut-multi-mav-2017"
+      ]
     },
     {
       "id": "hcmut-vietnam-ho-chi-minh-robotics",
@@ -1622,7 +1625,9 @@
       "year": "2000",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "kragic-christensen-visual-servoing-2002"
+      ]
     },
     {
       "id": "metu-ankara-turkey-robotics",
@@ -1842,6 +1847,16 @@
       "descendants": []
     },
     {
+      "id": "kragic-christensen-visual-servoing-2002",
+      "name": "Kragic-Christensen visual servoing for grasping",
+      "year": "2002",
+      "corpus": "academic",
+      "ancestors": [
+        "kth-sweden-stockholm-robotics"
+      ],
+      "descendants": []
+    },
+    {
       "id": "saab-seaeye-falcon-rov",
       "name": "Saab Seaeye Falcon",
       "year": "2002",
@@ -2032,6 +2047,18 @@
       ]
     },
     {
+      "id": "wisse-tu-delft-passive-walker-2004",
+      "name": "Wisse passive-dynamic walker thesis",
+      "year": "2004",
+      "corpus": "academic",
+      "ancestors": [
+        "mcgeer-passive-walker"
+      ],
+      "descendants": [
+        "collins-ruina-tedrake-wisse-passive-walker-2005"
+      ]
+    },
+    {
       "id": "reachability-analysis-safe-control",
       "name": "Hamilton-Jacobi Reachability for Safe Control",
       "year": "2005",
@@ -2070,7 +2097,8 @@
       "corpus": "academic",
       "ancestors": [
         "mcgeer-passive-walker",
-        "tu-delft-netherlands-robotics"
+        "tu-delft-netherlands-robotics",
+        "wisse-tu-delft-passive-walker-2004"
       ],
       "descendants": [
         "mit-humanoid-2021"
@@ -2215,7 +2243,9 @@
       "year": "2007",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "rajagopal-opensim-full-body-2016"
+      ]
     },
     {
       "id": "geth-mass-effect",
@@ -2598,7 +2628,9 @@
       "year": "2010",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "csiro-hudson-wildcat-darpa-subt-2021"
+      ]
     },
     {
       "id": "cornell-jamming-gripper",
@@ -3473,6 +3505,16 @@
       "descendants": []
     },
     {
+      "id": "rajagopal-opensim-full-body-2016",
+      "name": "Rajagopal full-body OpenSim musculoskeletal model",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [
+        "opensim-delp-stanford-2007"
+      ],
+      "descendants": []
+    },
+    {
       "id": "kx-series-k2so-2016",
       "name": "KX-series Imperial Security Droids (K-2SO)",
       "year": "2016",
@@ -3701,6 +3743,16 @@
         "reachy",
         "reachy-2-pollen-2023"
       ]
+    },
+    {
+      "id": "saska-cvut-multi-mav-2017",
+      "name": "Saska multi-MAV systems (CTU Prague MRS group)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [
+        "cvut-prague-czech-robotics"
+      ],
+      "descendants": []
     },
     {
       "id": "blade-runner-2049",
@@ -4449,6 +4501,16 @@
       "descendants": [
         "xpeng-iron"
       ]
+    },
+    {
+      "id": "csiro-hudson-wildcat-darpa-subt-2021",
+      "name": "CSIRO Wildcat (DARPA Subterranean Challenge)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [
+        "csiro-data61-australia-robotics"
+      ],
+      "descendants": []
     },
     {
       "id": "caltech-leonardo-2021",

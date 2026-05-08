@@ -1,7 +1,7 @@
 ---
 title: "control-musculoskeletal-modeling"
 parent: "Invalidity Contentions"
-nav_order: 68
+nav_order: 71
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-musculoskeletal-modeling`  
-**Entries:** 2 (1 commons-grade, 1 draft)  
+**Entries:** 3 (2 commons-grade, 1 draft)  
 **Earliest disclosure:** 2003-01  
-**Most recent disclosure:** 2007-11
+**Most recent disclosure:** 2016-08
 
 ---
 
@@ -80,6 +80,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-08 — Rajagopal full-body OpenSim musculoskeletal model
+
+- **id:** `rajagopal-opensim-full-body-2016`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford University NMBL; Apoorva Rajagopal, Christopher Dembia, Matthew DeMers, Daniel Delp, Jennifer Hicks, Scott Delp
+- **disclosure citation:** Rajagopal, A., Dembia, C. L., DeMers, M. S., Delp, D. D., Hicks, J. L., Delp, S. L. 'Full-Body Musculoskeletal Model for Muscle-Driven Simulation of Human Gait'. IEEE Transactions on Bio-medical Engineering 63(10) 2016. Stanford University Neuromuscular Biomechanics Laboratory.
+- **disclosed subsystems:** `control-physics-simulation`, `control-musculoskeletal-modeling`
+
+**Prior art notes:**
+
+> Rajagopal full-body OpenSim model (Stanford NMBL IEEE T-BME 2016) is the canonical full-body musculoskeletal model in OpenSim. 9-year-deep open-permissive prior art. The specific paper-level anchor of the round-33 OpenSim aggregator entry for full-body humanoid kinematic-spec derivation. Direct shielding for any commercial humanoid claim deriving kinematic specifications from human anatomical models.
+
+**Sources:**
+
+1. Rajagopal et al. IEEE T-BME 63(10) 2016.
+2. OpenSim model database (opensim.stanford.edu).
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -110,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vio-slam`
 
-**13 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2010-07
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Campos, C., Elvira, R., Rodríguez, J. J. G., Montiel, J. M. M., Tardós, J. D. 'ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial, and Multimap SLAM'. IEEE Transactions on Robotics 37(6) December 2021, pp. 1874-1890. arXiv:2007.11898. GPLv3 source: github.com/UZ-SLAMLab/ORB_SLAM3. University of Zaragoza.
 - **ip status**: open-copyleft
 - **prior art notes**: ORB-SLAM3 is the canonical academic visual-inertial SLAM library and 5-year-deep open-source baseline. Heavily-cited (>3000 citations). Anticipates: (1) monocular/stereo/RGB-D + IMU fusion in a unified factor-graph framework, (2) multi-map operation across sessions for long-term autonomy, (3) bag-of-words place recognition for loop closure. Establishes the geometric-only SLAM baseline that semantic/open-vocab SLAM systems (including RADIO-ViPE, round-10 entry) extend. Any humanoid platform claim on visual-inertial SLAM faces this lineage.
+
+## CSIRO Wildcat (DARPA Subterranean Challenge) (2021-09)
+
+- **id**: `csiro-hudson-wildcat-darpa-subt-2021`
+- **corpus**: academic
+- **creator**: CSIRO Data61 + Emesent + Georgia Tech; Hudson, Talbot, et al.
+- **disclosure**: Hudson, N., Talbot, F., Cox, M., Williams, J., Hines, T., Pitt, A., Wood, B., Frousheger, D., Lo Surdo, K., Molnar, T., Steindl, R., et al. 'Heterogeneous Ground and Air Platforms, Homogeneous Sensing: Team CSIRO Data61's Approach to the DARPA Subterranean Challenge'. Field Robotics 2 2022 / Journal of Field Robotics. CSIRO Data61 + Emesent + Georgia Tech. **2nd place DARPA Subterranean Challenge Finals 2021**.
+- **ip status**: open-permissive
+- **prior art notes**: CSIRO Data61 Wildcat (Hudson et al. Field Robotics 2022) is the specific paper-level anchor for the round-23 CSIRO Data61 aggregator. **DARPA SubT Finals 2nd place** establishes Australian academic robotics at internationally-recognizable level. Direct shielding for any commercial humanoid claim on LIDAR-only SLAM, subterranean autonomy, or multi-robot heterogeneous-platform coordination.
 
 ## DROID-SLAM (2021-12)
 

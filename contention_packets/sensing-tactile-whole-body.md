@@ -1,7 +1,7 @@
 ---
 title: "sensing-tactile-whole-body"
 parent: "Invalidity Contentions"
-nav_order: 169
+nav_order: 173
 layout: default
 ---
 
@@ -216,4 +216,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*

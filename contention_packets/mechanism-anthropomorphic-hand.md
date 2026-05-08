@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 114
+nav_order: 118
 layout: default
 ---
 
@@ -2736,4 +2736,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*

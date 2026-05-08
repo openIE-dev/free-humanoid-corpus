@@ -1,7 +1,7 @@
 ---
 title: "control-multi-robot-coordination"
 parent: "Invalidity Contentions"
-nav_order: 65
+nav_order: 68
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-multi-robot-coordination`  
-**Entries:** 2 (1 commons-grade, 1 draft)  
+**Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2025-02
 
@@ -58,6 +58,48 @@ cite, copy, or redistribute these contentions.
 1. CVUT Prague corporate site (cvut.cz).
 2. CTU Multi-Robot Systems group (mrs.felk.cvut.cz).
 3. DARPA SubT 2021 participation documentation.
+
+---
+
+### 2017-09 — Saska multi-MAV systems (CTU Prague MRS group)
+
+- **id:** `saska-cvut-multi-mav-2017`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Czech Technical University in Prague; Martin Saska + MRS group
+- **disclosure citation:** Saska, M., Bačha, V., Krajník, T., Hert, D., Spurný, V., Petrlík, M., Báča, T. 'System for deployment of groups of unmanned micro aerial vehicles in GPS-denied environments using onboard visual relative localization'. Autonomous Robots 41(4) 2017. Czech Technical University in Prague, Multi-Robot Systems group.
+- **disclosed subsystems:** `control-multi-robot-coordination`, `control-mav-flight`, `control-gps-denied-navigation`, `control-visual-relative-localization`
+
+**Prior art notes:**
+
+> Saska MRS (CTU Prague 2017+) is the canonical multi-MAV swarm-coordination academic work from Czech Republic. Anchors round-23 CVUT Prague aggregator with paper-level disclosure. 8-year-deep open-permissive prior art. Together with Saska's DARPA SubT 2021 results, establishes Czech academic multi-MAV robotics as recognizably world-class.
+
+**Sources:**
+
+1. Saska et al. Autonomous Robots 41(4) 2017.
+2. CTU MRS group (mrs.felk.cvut.cz).
+3. DARPA SubT 2021 results.
+
+---
+
+### 2021-09 — CSIRO Wildcat (DARPA Subterranean Challenge)
+
+- **id:** `csiro-hudson-wildcat-darpa-subt-2021`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** CSIRO Data61 + Emesent + Georgia Tech; Hudson, Talbot, et al.
+- **disclosure citation:** Hudson, N., Talbot, F., Cox, M., Williams, J., Hines, T., Pitt, A., Wood, B., Frousheger, D., Lo Surdo, K., Molnar, T., Steindl, R., et al. 'Heterogeneous Ground and Air Platforms, Homogeneous Sensing: Team CSIRO Data61's Approach to the DARPA Subterranean Challenge'. Field Robotics 2 2022 / Journal of Field Robotics. CSIRO Data61 + Emesent + Georgia Tech. **2nd place DARPA Subterranean Challenge Finals 2021**.
+- **disclosed subsystems:** `control-vio-slam`, `control-multi-robot-coordination`, `control-rough-terrain-locomotion`, `control-subterranean-autonomy`
+
+**Prior art notes:**
+
+> CSIRO Data61 Wildcat (Hudson et al. Field Robotics 2022) is the specific paper-level anchor for the round-23 CSIRO Data61 aggregator. **DARPA SubT Finals 2nd place** establishes Australian academic robotics at internationally-recognizable level. Direct shielding for any commercial humanoid claim on LIDAR-only SLAM, subterranean autonomy, or multi-robot heterogeneous-platform coordination.
+
+**Sources:**
+
+1. Hudson et al. Field Robotics 2 2022.
+2. DARPA Subterranean Challenge Finals 2021 results.
+3. CSIRO Data61 publications (data61.csiro.au).
 
 ---
 
@@ -113,4 +155,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*

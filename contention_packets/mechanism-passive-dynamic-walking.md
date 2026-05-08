@@ -1,7 +1,7 @@
 ---
 title: "mechanism-passive-dynamic-walking"
 parent: "Invalidity Contentions"
-nav_order: 125
+nav_order: 129
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-passive-dynamic-walking`  
-**Entries:** 5 (4 commons-grade, 1 draft)  
+**Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 1990  
 **Most recent disclosure:** 2017
 
@@ -78,6 +78,26 @@ cite, copy, or redistribute these contentions.
 1. TU Delft corporate site (tudelft.nl).
 2. TU Delft Cognitive Robotics (cor.tudelft.nl).
 3. TU Delft Robotics Institute (robotics.tudelft.nl).
+
+---
+
+### 2004-12 — Wisse passive-dynamic walker thesis
+
+- **id:** `wisse-tu-delft-passive-walker-2004`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** TU Delft Biomechanical Engineering; Martijn Wisse + Frans van der Helm
+- **disclosure citation:** Wisse, M. 'Essentials of Dynamic Walking: Analysis and Design of Two-Legged Robots'. PhD thesis, Delft University of Technology, December 2004. Adviser: Frans van der Helm. Subsequent: 'Denise' planar walker (2005); 'Mike' McGeer-class walker. Foundational TU Delft passive-dynamic walking research that directly contributed to Collins-Ruina-Tedrake-Wisse Science 2005 (corpus entry round-19).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-passive-dynamic-walking`, `control-minimal-actuation`
+
+**Prior art notes:**
+
+> Wisse's TU Delft passive-dynamic-walking research (PhD 2004 + Denise/Mike walkers) is the Dutch contribution to the Collins-Ruina-Tedrake-Wisse Science 2005 paper (corpus round-19). 21-year-deep public-domain prior art. Anchors the round-25 TU Delft aggregator entry with a specific paper-level disclosure. Together with McGeer 1990 + Collins 2005, establishes the passive-dynamic walking academic chain that shields any commercial humanoid efficiency claim.
+
+**Sources:**
+
+1. Wisse, M. PhD thesis, TU Delft, December 2004.
+2. Wisse, M. + van der Helm, F. various Delft Biomechanical Engineering publications 2003-2010.
 
 ---
 
@@ -171,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*

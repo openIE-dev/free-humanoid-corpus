@@ -1,7 +1,7 @@
 ---
 title: "control-rough-terrain-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 88
+nav_order: 91
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-rough-terrain-locomotion`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
+**Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 2005-12  
 **Most recent disclosure:** 2024-09
 
@@ -78,6 +78,27 @@ cite, copy, or redistribute these contentions.
 
 1. Boston Dynamics LS3 YouTube reveals 2012-2015.
 2. DARPA + USMC program documentation.
+
+---
+
+### 2021-09 — CSIRO Wildcat (DARPA Subterranean Challenge)
+
+- **id:** `csiro-hudson-wildcat-darpa-subt-2021`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** CSIRO Data61 + Emesent + Georgia Tech; Hudson, Talbot, et al.
+- **disclosure citation:** Hudson, N., Talbot, F., Cox, M., Williams, J., Hines, T., Pitt, A., Wood, B., Frousheger, D., Lo Surdo, K., Molnar, T., Steindl, R., et al. 'Heterogeneous Ground and Air Platforms, Homogeneous Sensing: Team CSIRO Data61's Approach to the DARPA Subterranean Challenge'. Field Robotics 2 2022 / Journal of Field Robotics. CSIRO Data61 + Emesent + Georgia Tech. **2nd place DARPA Subterranean Challenge Finals 2021**.
+- **disclosed subsystems:** `control-vio-slam`, `control-multi-robot-coordination`, `control-rough-terrain-locomotion`, `control-subterranean-autonomy`
+
+**Prior art notes:**
+
+> CSIRO Data61 Wildcat (Hudson et al. Field Robotics 2022) is the specific paper-level anchor for the round-23 CSIRO Data61 aggregator. **DARPA SubT Finals 2nd place** establishes Australian academic robotics at internationally-recognizable level. Direct shielding for any commercial humanoid claim on LIDAR-only SLAM, subterranean autonomy, or multi-robot heterogeneous-platform coordination.
+
+**Sources:**
+
+1. Hudson et al. Field Robotics 2 2022.
+2. DARPA Subterranean Challenge Finals 2021 results.
+3. CSIRO Data61 publications (data61.csiro.au).
 
 ---
 
@@ -172,4 +193,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*

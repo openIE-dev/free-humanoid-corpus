@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-minimal-actuation`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2005-02
+Earliest disclosure: 2004-12
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Wisse passive-dynamic walker thesis (2004-12)
+
+- **id**: `wisse-tu-delft-passive-walker-2004`
+- **corpus**: academic
+- **creator**: TU Delft Biomechanical Engineering; Martijn Wisse + Frans van der Helm
+- **disclosure**: Wisse, M. 'Essentials of Dynamic Walking: Analysis and Design of Two-Legged Robots'. PhD thesis, Delft University of Technology, December 2004. Adviser: Frans van der Helm. Subsequent: 'Denise' planar walker (2005); 'Mike' McGeer-class walker. Foundational TU Delft passive-dynamic walking research that directly contributed to Collins-Ruina-Tedrake-Wisse Science 2005 (corpus entry round-19).
+- **ip status**: public-domain
+- **prior art notes**: Wisse's TU Delft passive-dynamic-walking research (PhD 2004 + Denise/Mike walkers) is the Dutch contribution to the Collins-Ruina-Tedrake-Wisse Science 2005 paper (corpus round-19). 21-year-deep public-domain prior art. Anchors the round-25 TU Delft aggregator entry with a specific paper-level disclosure. Together with McGeer 1990 + Collins 2005, establishes the passive-dynamic walking academic chain that shields any commercial humanoid efficiency claim.
 
 ## Collins-Ruina-Tedrake-Wisse passive-dynamic walker (2005-02)
 

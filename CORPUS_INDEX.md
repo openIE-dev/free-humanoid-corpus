@@ -1,6 +1,6 @@
 # Corpus Index
 
-601 entries total. Generated from corpus.jsonl.
+606 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | Crazyflie | `crazyflie` | 2013 | open | open-permissive |  |
 | Crocoddyl | `mastalli-crocoddyl-2020` | 2020 | academic | open-permissive |  |
 | CSIRO Data61 Robotics and Autonomous Systems | `csiro-data61-australia-robotics` | 2010 | academic | public-domain | ✓ |
+| CSIRO Wildcat (DARPA Subterranean Challenge) | `csiro-hudson-wildcat-darpa-subt-2021` | 2021 | academic | open-permissive |  |
 | Culture Drones | `banks-culture-drones` | 1987 | fictional | fictional |  |
 | Cutkosky grasp taxonomy | `cutkosky-grasp-taxonomy-1989` | 1989 | academic | public-domain |  |
 | Cyberdyne HAL (Hybrid Assistive Limb) | `cyberdyne-hal-sankai-2004` | 2004 | private | trade-secret |  |
@@ -299,6 +300,7 @@
 | Klara and the Sun — Artificial Friend (AF) child companion | `ishiguro-klara-and-the-sun-2021` | 2021 | fictional | public-domain |  |
 | Knight Sabers Hardsuits (Bubblegum Crisis) | `bubblegum-crisis-hardsuits` | 1987 | fictional | fictional |  |
 | Knights of Sidonia (Garde mecha) | `knights-of-sidonia-2013` | 2009 | fictional | fictional |  |
+| Kragic-Christensen visual servoing for grasping | `kragic-christensen-visual-servoing-2002` | 2002 | academic | public-domain |  |
 | KTH Royal Institute of Technology robotics | `kth-sweden-stockholm-robotics` | 2000 | academic | open-permissive | ✓ |
 | KX-series Imperial Security Droids (K-2SO) | `kx-series-k2so-2016` | 2016 | fictional | fictional |  |
 | LAAS-CNRS Toulouse humanoid robotics | `laas-cnrs-toulouse-humanoid-2003` | 2003 | academic | public-domain |  |
@@ -421,6 +423,7 @@
 | Raibert MIT Leg Lab (foundational dynamic legged locomotion) | `raibert-mit-leg-lab-history-1980s` | 1981 | academic | public-domain | ✓ |
 | Raibert One-Legged Hopper | `raibert-hopping-1leg` | 1983 | academic | public-domain |  |
 | Rainbow Robotics RB-Y1 | `rainbow-robotics-rb-y1` | 2024 | private | patented |  |
+| Rajagopal full-body OpenSim musculoskeletal model | `rajagopal-opensim-full-body-2016` | 2016 | academic | open-permissive |  |
 | Random Forests | `random-forest-breiman-2001` | 2001 | academic | public-domain |  |
 | Rapidly-exploring Random Tree (RRT) | `rrt-lavalle-1998` | 1998 | academic | public-domain |  |
 | RDT-1B (Robotics Diffusion Transformer) | `rdt-1b-thu-2024` | 2024 | academic | open-permissive |  |
@@ -473,6 +476,7 @@
 | Sanctuary Phoenix Gen 6 | `sanctuary-phoenix-gen6` | 2022 | private | patented | ✓ |
 | SAPIEN simulator | `sapien-xiang-cvpr-2020` | 2020 | academic | open-permissive |  |
 | Sarcos Guardian XO | `sarcos-guardian-xo-2018` | 2018 | private | trade-secret |  |
+| Saska multi-MAV systems (CTU Prague MRS group) | `saska-cvut-multi-mav-2017` | 2017 | academic | open-permissive |  |
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
 | SCARA (Selective Compliance Articulated Robot Arm) | `scara-makino-1979` | 1979 | academic | public-domain |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
@@ -594,6 +598,7 @@
 | Westworld Hosts (1973 / 2016) | `westworld-hosts` | 1973 | fictional | fictional |  |
 | WildGS-SLAM | `wildgs-slam-2025` | 2025 | academic | open-permissive |  |
 | Willow Garage PR1 | `willow-pr1` | 2008 | academic | open-permissive |  |
+| Wisse passive-dynamic walker thesis | `wisse-tu-delft-passive-walker-2004` | 2004 | academic | public-domain |  |
 | Word2Vec | `word2vec-mikolov-2013` | 2013 | academic | public-domain |  |
 | XPeng Iron | `xpeng-iron` | 2024 | private | patented | ✓ |
 | Yale OpenHand / ReFlex Hand | `yale-reflex-openhand-2014` | 2014 | academic | open-permissive |  |

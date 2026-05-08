@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-passive-dynamic-walking`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Delft University of Technology (TU Delft), Netherlands. Cognitive Robotics + Robotics Institute. Notable: Wisse passive-dynamic walker (round-19 collins-ruina-tedrake-wisse-passive-walker-2005 entry includes Wisse), TU Delft Robotics Institute spinouts (SenseGlove round-19 entry). The dominant Dutch academic robotics cluster.
 - **ip status**: open-permissive
 - **prior art notes**: TU Delft is the Netherlands' flagship robotics academic anchor. Direct ancestor of SenseGlove (round-19) and contributor to Collins-Ruina-Tedrake-Wisse passive-dynamic walker (round-19). Brings Netherlands depth in the corpus from 3 to 4 entries.
+
+## Wisse passive-dynamic walker thesis (2004-12)
+
+- **id**: `wisse-tu-delft-passive-walker-2004`
+- **corpus**: academic
+- **creator**: TU Delft Biomechanical Engineering; Martijn Wisse + Frans van der Helm
+- **disclosure**: Wisse, M. 'Essentials of Dynamic Walking: Analysis and Design of Two-Legged Robots'. PhD thesis, Delft University of Technology, December 2004. Adviser: Frans van der Helm. Subsequent: 'Denise' planar walker (2005); 'Mike' McGeer-class walker. Foundational TU Delft passive-dynamic walking research that directly contributed to Collins-Ruina-Tedrake-Wisse Science 2005 (corpus entry round-19).
+- **ip status**: public-domain
+- **prior art notes**: Wisse's TU Delft passive-dynamic-walking research (PhD 2004 + Denise/Mike walkers) is the Dutch contribution to the Collins-Ruina-Tedrake-Wisse Science 2005 paper (corpus round-19). 21-year-deep public-domain prior art. Anchors the round-25 TU Delft aggregator entry with a specific paper-level disclosure. Together with McGeer 1990 + Collins 2005, establishes the passive-dynamic walking academic chain that shields any commercial humanoid efficiency claim.
 
 ## Collins-Ruina-Tedrake-Wisse passive-dynamic walker (2005-02)
 
