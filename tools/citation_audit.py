@@ -229,6 +229,39 @@ def build_corpus_index(entries: list[dict]) -> dict[str, str]:
     return idx
 
 
+# Companies whose products are entries but the company itself isn't.
+# Naming the company in prose isn't a fictional citation — products
+# stand in for the company.
+COMPANY_NAMES_NOT_PRODUCTS = {
+    "boston dynamics",
+    "physical intelligence",
+}
+
+
+def resolves_in_corpus(forms: list[str], idx: dict[str, str]) -> bool:
+    """Does any of the system's name forms map to a corpus entry?
+
+    First tries an exact normalized match. If that fails, also accepts a
+    substring match where the system name is a prefix of any indexed
+    name (e.g., 'Bluefin' resolving to 'bluefin-21-auv'). Substring
+    matching is permissive only for sufficiently distinctive prefixes
+    (≥6 chars) to avoid false-positive collisions."""
+    for f in forms:
+        n = normalize(f)
+        if not n:
+            continue
+        if n in idx:
+            return True
+        if n in COMPANY_NAMES_NOT_PRODUCTS:
+            return True  # the company stands in via its products
+        # Permissive prefix match for distinctive names (≥6 chars)
+        if len(n) >= 6:
+            for indexed_name in idx:
+                if indexed_name.startswith(n + " ") or indexed_name.startswith(n + "-"):
+                    return True
+    return False
+
+
 # Names that genuinely have a high false-positive rate (common English
 # words, ambiguous acronyms). For these, require a stricter context
 # match — the word must appear in a recognizably-citation-y context
@@ -289,8 +322,9 @@ def main(argv: list[str]) -> int:
     citers: dict[str, list[str]] = defaultdict(list)
     for canonical, aliases in KNOWN_SYSTEMS:
         all_forms = [canonical, *aliases]
-        # Resolution: does any form appear in the corpus name index?
-        resolves = any(normalize(f) in idx for f in all_forms)
+        # Resolution: does any form resolve via exact, company-alias,
+        # or distinctive-prefix match?
+        resolves = resolves_in_corpus(all_forms, idx)
 
         # Look for citations in entry text (regardless of resolution —
         # even-resolved citations are useful for connectivity stats).
