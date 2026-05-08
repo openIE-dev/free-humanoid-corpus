@@ -1,7 +1,7 @@
 ---
 title: "control-cross-embodiment"
 parent: "Invalidity Contentions"
-nav_order: 20
+nav_order: 22
 layout: default
 ---
 
@@ -137,4 +137,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model-policy"
 parent: "Invalidity Contentions"
-nav_order: 26
+nav_order: 28
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-foundation-model-policy`  
-**Entries:** 10 (9 commons-grade, 1 draft)  
-**Earliest disclosure:** 2024-05  
+**Entries:** 12 (11 commons-grade, 1 draft)  
+**Earliest disclosure:** 2021-08  
 **Most recent disclosure:** 2025-10
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2021-08 — robomimic
+
+- **id:** `robomimic-mandlekar-2021`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford + UT Austin; Ajay Mandlekar, Yuke Zhu, Roberto Martín-Martín, Fei-Fei Li, Silvio Savarese et al.
+- **disclosure citation:** Mandlekar, A., Xu, D., Wong, J., Nasiriany, S., Wang, C., Kulkarni, R., Fei-Fei, L., Savarese, S., Zhu, Y., Martín-Martín, R. 'What Matters in Learning from Offline Human Demonstrations for Robot Manipulation'. CoRL 2021; arXiv:2108.03298. Stanford + UT Austin. MIT-licensed framework.
+- **disclosed subsystems:** `control-imitation-learning`, `control-foundation-model-policy`, `control-benchmarking`
+
+**Prior art notes:**
+
+> robomimic is the canonical IL benchmark + framework (Mandlekar et al. CoRL 2021). 4-year-deep open-permissive prior art for: standardized imitation-learning datasets + reference algorithms for robotic manipulation. Direct shielding for any commercial humanoid claim on IL training infrastructure. Together with RoboCasa (round-16 entry), Octo (round-15), OpenVLA (round-12), establishes the open-academic IL substrate against which all commercial VLA performance must be measured.
+
+**Sources:**
+
+1. Mandlekar et al. CoRL 2021; arXiv:2108.03298.
+2. Project page (robomimic.github.io).
+3. GitHub: github.com/ARISE-Initiative/robomimic.
+
+---
 
 ### 2024-05 — Octo (Open-Source Generalist Robot Policy)
 
@@ -81,6 +102,28 @@ cite, copy, or redistribute these contentions.
 2. CoRL 2024 PMLR v270 Kim25c (proceedings.mlr.press/v270/kim25c.html).
 3. OpenVLA project page (openvla.github.io).
 4. GitHub: github.com/openvla/openvla.
+
+---
+
+### 2024-06 — RoboCasa
+
+- **id:** `robocasa-nasiriany-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UT Austin + NVIDIA; Soroush Nasiriany, Abhinav Maddukuri, Yuke Zhu et al.
+- **disclosure citation:** Nasiriany, S., Maddukuri, A., Zhang, L., Parikh, A., Lo, A., Joshi, A., Mandlekar, A., Zhu, Y. 'RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots'. arXiv:2406.02523, June 2024. RSS 2024. UT Austin + NVIDIA. RoboCasa365 follow-up (OpenReview tQJYKwc3n4) extends to 365 tasks across 2,500 kitchen environments.
+- **disclosed subsystems:** `control-physics-simulation`, `control-imitation-learning`, `control-foundation-model-policy`, `control-loco-manipulation`
+
+**Prior art notes:**
+
+> RoboCasa is the canonical generative-AI-augmented household-task simulation framework (UT Austin + NVIDIA, RSS 2024). ~1-year-deep open-permissive prior art for: generative-AI-authored simulation environments at scale, large-scale (>1k hours) demonstration datasets for VLA training, kitchen-scene household-task benchmark suite. Direct shielding for any commercial humanoid claim on 'training data at scale for household manipulation' — RoboCasa365's 1,600 synthetic + 600 human hours establishes the open-academic baseline.
+
+**Sources:**
+
+1. Nasiriany et al. arXiv:2406.02523 June 2024.
+2. Project page (robocasa.ai).
+3. GitHub: github.com/robocasa/robocasa.
+4. RSS 2024 proceedings (robocasa.ai/assets/robocasa_rss24.pdf).
 
 ---
 
@@ -291,4 +334,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

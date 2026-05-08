@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-arm"
 parent: "Invalidity Contentions"
-nav_order: 58
+nav_order: 62
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-anthropomorphic-arm`  
-**Entries:** 4 (3 commons-grade, 1 draft)  
+**Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 2016-04  
 **Most recent disclosure:** 2025-02
 
@@ -83,6 +83,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-03 — Memic Hominis
+
+- **id:** `memic-hominis-2020`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Memic Innovative Surgery / Momentis Surgical (Israel)
+- **disclosure citation:** Memic Innovative Surgery, Ltd. (Tel Aviv, Israel; now Momentis Surgical). FDA De Novo authorization March 1 2021 for transvaginal hysterectomy and salpingectomy/oophorectomy. memicmed.com / momentissurgical.com.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-anthropomorphic-arm`, `control-master-slave-teleoperation`
+
+**Prior art notes:**
+
+> Memic Hominis (FDA De Novo March 2021) is a canonical anthropomorphic-arm-kinematics surgical robotic system. 4-year-deep public-disclosure prior art for: humanoid-style (shoulder+elbow+wrist) surgical-arm kinematics, natural-orifice robotic surgery. Direct shielding for any commercial humanoid claim on anthropomorphic-arm-derivative surgical applications or natural-orifice manipulation. Together with da Vinci and Vicarious Surgical, establishes a 25-year commercial robotic-surgery prior-art chain that anticipates humanoid-form manipulator architectures from a different industrial vertical.
+
+**Sources:**
+
+1. Memic Innovative Surgery (memicmed.com / momentissurgical.com).
+2. FDA De Novo authorization (DEN200067) March 1 2021.
+
+---
+
 ### 2022-07 — OceanOneK
 
 - **id:** `ocean-onek-stanford-2022`
@@ -101,6 +121,27 @@ cite, copy, or redistribute these contentions.
 1. Khatib et al. Science Robotics 2022.
 2. Stanford Robotics Lab 'OceanOneK' project page (cs.stanford.edu/groups/manips/ocean-one-k/).
 3. BBC, Le Monde, IEEE Spectrum coverage of Mediterranean shipwreck operations 2022-2023.
+
+---
+
+### 2024-01 — Fourier GR1
+
+- **id:** `fourier-gr1-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Fourier Intelligence (Shanghai, China)
+- **disclosure citation:** Fourier Intelligence. GR1 humanoid product reveal January 2024 via fourierintelligence.com and CES 2024 demonstration. Subsequent deployments by academic teams (Open-TeleVision UCSD+MIT CoRL 2024 uses Fourier GR1 as one of its evaluation platforms).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `actuator-electric-quasi-direct-drive`
+
+**Prior art notes:**
+
+> Fourier GR1 is one of the canonical Chinese commercial humanoid platforms used by academic teams (alongside Unitree H1/G1, Booster K1). 1.5-year-deep public-disclosure prior art for: adult-class commercial humanoid sold to academic researchers as a hardware-only platform, interchangeable hand/gripper end-effectors. The Open-TeleVision academic publication (CoRL 2024) uses GR1 as one of two evaluation platforms, providing third-party documentation of the system's interfaces and capabilities. Direct shielding for any commercial humanoid claim on adult-class hardware-platform sales to academic researchers.
+
+**Sources:**
+
+1. Fourier Intelligence corporate site (fourierintelligence.com).
+2. Cheng et al. 'Open-TeleVision' arXiv:2407.01512 CoRL 2024 (uses GR1 as evaluation platform).
+3. CES 2024 coverage.
 
 ---
 
@@ -156,4 +197,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

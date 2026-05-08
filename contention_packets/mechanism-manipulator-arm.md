@@ -1,7 +1,7 @@
 ---
 title: "mechanism-manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 62
+nav_order: 66
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-manipulator-arm`  
-**Entries:** 9 (8 commons-grade, 1 draft)  
+**Entries:** 12 (11 commons-grade, 1 draft)  
 **Earliest disclosure:** 1964-06  
 **Most recent disclosure:** 2022-07
 
@@ -104,6 +104,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2000-07 — Intuitive Surgical da Vinci
+
+- **id:** `intuitive-surgical-da-vinci-2000`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Intuitive Surgical, Inc.; SRI International + Stanford JPL Salisbury lineage roots
+- **disclosure citation:** Intuitive Surgical, Inc. (Sunnyvale, CA). da Vinci Surgical System FDA approval July 11, 2000. SRI International / Stanford telesurgical lineage; Salisbury Stanford-JPL hand era roots. Subsequent product generations: da Vinci S (2006), Si (2009), Xi (2014), X (2017), SP single-port (2018), Ion bronchoscopy (2019), da Vinci 5 (2024).
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-tendon-driven`, `mechanism-wristed-instrument`, `control-master-slave-teleoperation`, `control-tremor-filtering`, `sensing-stereoscopic-camera`
+
+**Prior art notes:**
+
+> The Intuitive Surgical da Vinci system is the canonical commercial surgical-robot platform (FDA approval July 2000). 25-year-deep public-disclosure prior art for: master-slave teleoperated manipulator + console architecture, EndoWrist tendon-driven wristed-instrument design (architecturally descended from Salisbury's Stanford-JPL hand 1982 — corpus entry `salisbury-stanford-jpl-hand-1982`), tremor filtering + motion scaling for telerobotic precision. Direct shielding for any commercial humanoid claim on bimanual fine-manipulation with wristed end-effectors and tremor-filtered teleoperation. The 25-year commercial deployment + 7,500+ systems + 10M+ procedures establishes a deeply-anticipated prior-art cushion for any humanoid manipulation claim.
+
+**Sources:**
+
+1. Intuitive Surgical corporate site (intuitive.com).
+2. FDA premarket approval (PMA) database, da Vinci System (P000004).
+3. Wikipedia 'Da Vinci Surgical System'.
+
+---
+
 ### 2002-06 — Saab Seaeye Falcon
 
 - **id:** `saab-seaeye-falcon-rov`
@@ -165,6 +186,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-01 — Vicarious Surgical
+
+- **id:** `vicarious-surgical-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Vicarious Surgical, Inc.; Adam Sachs, Sammy Khalifa (MIT)
+- **disclosure citation:** Vicarious Surgical, Inc. Founded 2014 by Adam Sachs and Sammy Khalifa (MIT Robotics). Public via SPAC 2021 (NYSE: RBOT). vicarioussurgical.com. FDA breakthrough designation 2019; developmental clinical trials underway.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-single-port-deploying`, `control-vr-headset-teleoperation`
+
+**Prior art notes:**
+
+> Vicarious Surgical is a canonical 2014+ next-generation surgical robotic system. ~12-year-deep public-disclosure prior art for: single-port deploying-arm surgical morphology, 9-DoF arm kinematics, VR-headset surgeon interface (Apple Vision Pro / haptic-glove teleop antecedent). Direct shielding for any commercial humanoid claim on VR-headset bimanual teleoperation (notably: Open-TeleVision round-16 entry uses Apple Vision Pro for academic humanoid teleop; Vicarious Surgical pioneered the VR-teleop pattern in commercial surgical context ~10 years earlier).
+
+**Sources:**
+
+1. Vicarious Surgical corporate site (vicarioussurgical.com).
+2. SPAC merger announcement 2021 (NYSE: RBOT).
+3. FDA breakthrough designation announcement 2019.
+
+---
+
 ### 2016-04 — OceanOne
 
 - **id:** `oceanone-stanford-2016`
@@ -205,6 +247,26 @@ cite, copy, or redistribute these contentions.
 2. Houston Mechatronics April 2018 press release (archived).
 3. IEEE Spectrum, 'This Underwater Robot Transforms Into a Submarine That Can Stretch Out to Use Both Arms', April 2018.
 4. Nauticus Robotics corporate website (nauticusrobotics.com), Aquanaut product page.
+
+---
+
+### 2021-03 — Memic Hominis
+
+- **id:** `memic-hominis-2020`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Memic Innovative Surgery / Momentis Surgical (Israel)
+- **disclosure citation:** Memic Innovative Surgery, Ltd. (Tel Aviv, Israel; now Momentis Surgical). FDA De Novo authorization March 1 2021 for transvaginal hysterectomy and salpingectomy/oophorectomy. memicmed.com / momentissurgical.com.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-anthropomorphic-arm`, `control-master-slave-teleoperation`
+
+**Prior art notes:**
+
+> Memic Hominis (FDA De Novo March 2021) is a canonical anthropomorphic-arm-kinematics surgical robotic system. 4-year-deep public-disclosure prior art for: humanoid-style (shoulder+elbow+wrist) surgical-arm kinematics, natural-orifice robotic surgery. Direct shielding for any commercial humanoid claim on anthropomorphic-arm-derivative surgical applications or natural-orifice manipulation. Together with da Vinci and Vicarious Surgical, establishes a 25-year commercial robotic-surgery prior-art chain that anticipates humanoid-form manipulator architectures from a different industrial vertical.
+
+**Sources:**
+
+1. Memic Innovative Surgery (memicmed.com / momentissurgical.com).
+2. FDA De Novo authorization (DEN200067) March 1 2021.
 
 ---
 
@@ -259,4 +321,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

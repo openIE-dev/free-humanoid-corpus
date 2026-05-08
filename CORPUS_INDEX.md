@@ -1,6 +1,6 @@
 # Corpus Index
 
-386 entries total. Generated from corpus.jsonl.
+402 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | Blade Runner 2049 (Nexus-9 K, Joi) | `blade-runner-2049` | 2017 | fictional | fictional |  |
 | Bluefin-21 AUV | `bluefin-21-auv` | 2003 | private | trade-secret |  |
 | Bokurano (Zearth, child-piloted consent-architecture mecha) | `bokurano-2004` | 2004 | fictional | fictional |  |
+| Booster K1 | `booster-k1-2025` | 2025 | private | trade-secret |  |
 | Borg Collective (Star Trek TNG) | `borg-tng-1989` | 1989 | fictional | fictional |  |
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
 | Boston Dynamics Spot (fuel-cell variant) | `spot-fuel-cell` | 2020 | private | patented | ✓ |
@@ -97,6 +98,7 @@
 | Diffusion Policy | `diffusion-policy` | 2023 | academic | open-permissive |  |
 | Digit | `agility-digit` | 2019 | private | patented |  |
 | DIGIT | `digit-meta` | 2020 | academic | open-permissive |  |
+| DIGIT (Meta tactile sensor) | `meta-digit-tactile-2020` | 2020 | academic | open-permissive |  |
 | Diligent Moxi | `diligent-moxi` | 2019 | private | patented |  |
 | DINOv2 | `dinov2-oquab-2023` | 2023 | academic | open-permissive |  |
 | DLR Hand-Arm System | `dlr-hand-arm-system-2011` | 2011 | academic | public-domain |  |
@@ -120,11 +122,13 @@
 | FCSTAR (Flying-Climbing STAR) | `fcstar-zarrouk-2021` | 2021 | academic | open-permissive | ✓ |
 | Featherstone Robot Dynamics Algorithms | `featherstone-rdf` | 1987 | academic | public-domain |  |
 | Ferrari-Canny Grasp Quality Metrics | `ferrari-canny-grasp-quality` | 1992 | academic | public-domain |  |
+| Festo BionicSoftArm | `festo-bionic-soft-arm-2017` | 2017 | private | trade-secret |  |
 | Figure 01 | `figure-01` | 2023 | private | patented | ✓ |
 | Figure 02 | `figure-02` | 2024 | private | patented | ✓ |
 | Figure Helix | `figure-helix-2025` | 2025 | private | trade-secret |  |
 | FLORES wheel-legged robot | `flores-wheel-legged-2025` | 2025 | academic | open-permissive | ✓ |
 | Fourier GR-1 | `fourier-gr1` | 2023 | private | patented | ✓ |
+| Fourier GR1 | `fourier-gr1-2024` | 2024 | private | trade-secret |  |
 | Frankenstein's Creature | `frankenstein` | 1818 | fictional | fictional |  |
 | Frost and Betelgeuse | `zelazny-frost-betelgeuse` | 1966 | fictional | fictional |  |
 | FSTAR (Flying STAR) | `fstar-zarrouk-2019` | 2019 | academic | open-permissive | ✓ |
@@ -143,6 +147,7 @@
 | Hadaly (L'Ève future) | `l-eve-future` | 1886 | fictional | fictional |  |
 | HAL 9000 | `hal-9000` | 1968 | fictional | fictional |  |
 | Hamilton-Jacobi Reachability for Safe Control | `reachability-analysis-safe-control` | 2005 | academic | public-domain |  |
+| Harvard Soft Robotics Toolkit | `harvard-soft-robotics-toolkit-2017` | 2014 | academic | open-copyleft |  |
 | Hector (Saturn 3) | `saturn-3-hector` | 1980 | fictional | fictional |  |
 | Helen O'Loy | `helen-o-loy` | 1938 | fictional | fictional | ✓ |
 | Hindsight Experience Replay (HER) | `hindsight-experience-replay` | 2017 | academic | open-permissive |  |
@@ -172,6 +177,8 @@
 | IG-88 | `ig-88-star-wars` | 1980 | fictional | fictional |  |
 | Ijspeert-Schaal Dynamic Movement Primitives (formal extension) | `ijspeert-dmp-2013` | 2013 | academic | public-domain |  |
 | InMoov | `inmoov` | 2012 | open | open-permissive |  |
+| Intuitive Surgical da Vinci | `intuitive-surgical-da-vinci-2000` | 2000 | private | trade-secret |  |
+| IP.com Prior Art Database | `ip-com-prior-art-database` | 2000 | open | open-permissive |  |
 | Iron Legion | `marvel-iron-legion` | 2015 | fictional | fictional |  |
 | Iron Man Mark I (Tony Stark exoskeleton) | `iron-man-mark-i` | 1963 | fictional | fictional |  |
 | ISO 10218 Collaborative Robot Safety | `iso-10218-collaborative-robots` | 2006 | academic | public-domain |  |
@@ -212,7 +219,9 @@
 | Mason Mechanics of Manipulation | `mason-mechanics-manipulation` | 1986 | academic | public-domain |  |
 | Mazinger Z | `mazinger-z` | 1972 | fictional | fictional |  |
 | McGeer Passive Dynamic Walker | `mcgeer-passive-walker` | 1990 | academic | public-domain |  |
+| McKibben pneumatic artificial muscle | `mckibben-pneumatic-muscle-1957` | 1957 | academic | public-domain |  |
 | MegaSaM | `megasam-google-2024` | 2024 | academic | open-permissive | ✓ |
+| Memic Hominis | `memic-hominis-2020` | 2021 | private | trade-secret |  |
 | MIT Cheetah | `mit-cheetah` | 2013 | academic | open-permissive |  |
 | MIT Cheetah 2 | `mit-cheetah-2` | 2014 | academic | open-permissive |  |
 | MIT Cheetah 3 | `mit-cheetah-3` | 2018 | academic | open-permissive |  |
@@ -245,7 +254,9 @@
 | Octo (Open-Source Generalist Robot Policy) | `octo-rss-2024` | 2024 | academic | open-permissive |  |
 | ODrive | `odrive` | 2017 | open | open-permissive |  |
 | OmniGibson / iGibson (Stanford SVL) | `stanford-omnigibson-2023` | 2018 | academic | open-permissive |  |
+| Open Invention Network | `open-invention-network-2005` | 2005 | open | open-permissive |  |
 | Open X-Embodiment | `open-x-embodiment` | 2023 | academic | open-permissive |  |
+| Open-TeleVision | `opentelevision-cheng-corl-2024` | 2024 | academic | open-permissive |  |
 | OpenAI Dactyl | `openai-dactyl` | 2018 | academic | open-permissive |  |
 | OpenVLA | `openvla-stanford-2024` | 2024 | academic | open-permissive |  |
 | OpenVLA (Open-Source Vision-Language-Action Model) | `openvla` | 2024 | academic | open-permissive |  |
@@ -282,11 +293,14 @@
 | REEM-C | `reem-c` | 2013 | private | patented |  |
 | REMUS 100 AUV | `kongsberg-remus-100-auv` | 1995 | private | trade-secret |  |
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
+| ReSkin (magnetic tactile skin) | `cmu-reskin-tactile-2021` | 2021 | academic | open-permissive |  |
 | RH20T heterogeneous robot trajectory dataset | `rh20t-fang-2024` | 2023 | academic | public-domain |  |
 | RLHF (Deep Reinforcement Learning from Human Preferences) | `christiano-rlhf-2017` | 2017 | academic | open-permissive |  |
 | Robby the Robot (Forbidden Planet) | `forbidden-planet-robby` | 1956 | fictional | fictional |  |
+| RoboCasa | `robocasa-nasiriany-2024` | 2024 | academic | open-permissive |  |
 | RoboCat (Self-Improving Generalist Agent) | `robocat` | 2023 | academic | open-permissive |  |
 | RoboCop (Alex Murphy) | `robocop-1987` | 1987 | fictional | fictional |  |
+| robomimic | `robomimic-mandlekar-2021` | 2021 | academic | open-permissive |  |
 | Robonaut 1 | `robonaut-1` | 1996 | academic | public-domain |  |
 | Robonaut 2 | `robonaut-2` | 2010 | academic | patented |  |
 | Robot (Robot & Frank) | `robot-and-frank` | 2012 | fictional | fictional |  |
@@ -307,6 +321,7 @@
 | Salisbury Stanford/JPL Hand | `salisbury-stanford-jpl-hand` | 1982 | academic | public-domain |  |
 | Sanctuary AI Phoenix | `sanctuary-phoenix` | 2023 | private | patented | ✓ |
 | Sanctuary Phoenix Gen 6 | `sanctuary-phoenix-gen6` | 2022 | private | patented | ✓ |
+| SAPIEN simulator | `sapien-xiang-cvpr-2020` | 2020 | academic | open-permissive |  |
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
 | Seaglider AUV | `seaglider-auv-2001` | 2001 | academic | open-permissive |  |
@@ -372,6 +387,7 @@
 | V'Ger | `v-ger-star-trek` | 1979 | fictional | fictional |  |
 | V.I.N.CENT and Maximilian (The Black Hole) | `black-hole-vincent` | 1979 | fictional | fictional |  |
 | Val and Aqua (Heartbeeps) | `heartbeeps-val-aqua` | 1981 | fictional | fictional |  |
+| Vicarious Surgical | `vicarious-surgical-2014` | 2014 | private | trade-secret |  |
 | VIMA (General Robot Manipulation with Multimodal Prompts) | `vima` | 2022 | academic | open-permissive |  |
 | ViPE (Video Pose Engine) | `nvidia-vipe-2025` | 2025 | academic | open-permissive |  |
 | Voc Robots (Robots of Death) | `voc-robots-doctor-who` | 1977 | fictional | fictional |  |

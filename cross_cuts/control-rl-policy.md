@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**128 corpus entries disclose this subsystem.**
+**129 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -1139,6 +1139,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Shi, H., Wang, W., Song, S., Liu, C. K. 'ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation'. arXiv:2502.00893, February 2025. Conference on Robot Learning (CoRL) 2025 oral. Stanford Robotics Lab.
 - **ip status**: open-permissive
 - **prior art notes**: ToddlerBot is Stanford's canonical sub-$6k open-hardware ML-compatible humanoid (CoRL 2025 oral). Establishes 1-year-deep open-academic prior art for: integrated loco-manipulation policy training on an open humanoid platform, transferable motor system-ID for sim-to-real without hand-tuning, 30-DoF anthropomorphic full-body at sub-$6k. Direct shielding for any commercial claim on integrated full-body humanoid policy training, particularly any 'one policy controls the whole body' claim. Together with Berkeley Humanoid Lite, establishes the open-academic baseline for sub-$10k humanoid robotics.
+
+## Booster K1 (2025-03)
+
+- **id**: `booster-k1-2025`
+- **corpus**: private
+- **creator**: Booster Robotics (Beijing, China)
+- **disclosure**: Booster Robotics. K1 product page (booster.tech/booster-k1) and associated commercial brochures, public 2025+. RoboCup 2025 KidSize humanoid league winning platform (Boosted HTWK team, Salvador Brazil, July 20 2025).
+- **ip status**: trade-secret
+- **prior art notes**: Booster K1 is the canonical 2025 sub-$25k educational humanoid. 5-month-deep public-disclosure prior art for: KidSize-class (95cm) humanoid form factor, 22-DoF anthropomorphic kinematics, ROS 2 + Python developer-friendly stack at the educational price point. Public competition record (RoboCup 2025 KidSize win) demonstrates a working system. Direct shielding for any commercial humanoid claim on educational/sub-$25k pricing or RoboCup-competition-grade autonomous bipedal locomotion.
 
 ## Berkeley Humanoid Lite (2025-04)
 

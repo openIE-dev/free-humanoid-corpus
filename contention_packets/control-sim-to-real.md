@@ -1,7 +1,7 @@
 ---
 title: "control-sim-to-real"
 parent: "Invalidity Contentions"
-nav_order: 45
+nav_order: 48
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-sim-to-real`  
-**Entries:** 29 (24 commons-grade, 5 draft)  
+**Entries:** 30 (25 commons-grade, 5 draft)  
 **Earliest disclosure:** 2014-12-11  
 **Most recent disclosure:** 2026-04
 
@@ -223,6 +223,27 @@ cite, copy, or redistribute these contentions.
 2. Szot, A. et al. 'Habitat 2.0: Training Home Assistants to Rearrange their Habitat.' NeurIPS 2021.
 3. Puig, X. et al. 'Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots.' ICLR 2024.
 4. Habitat-Sim source code: https://github.com/facebookresearch/habitat-sim, MIT License.
+
+---
+
+### 2020-03 — SAPIEN simulator
+
+- **id:** `sapien-xiang-cvpr-2020`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC San Diego + Stanford; Hao Su, Leonidas Guibas, Angel Chang group
+- **disclosure citation:** Xiang, F., Qin, Y., Mo, K., Xia, Y., Zhu, H., Liu, F., Liu, M., Jiang, H., Yuan, Y., Wang, H., Yi, L., Chang, A. X., Guibas, L. J., Su, H. 'SAPIEN: A SimulAted Part-based Interactive ENvironment'. arXiv:2003.08515, March 2020. CVPR 2020. UC San Diego + Stanford. ManiSkill follow-up framework via haosulab/ManiSkill (Hillbot Inc.).
+- **disclosed subsystems:** `control-physics-simulation`, `control-articulated-object-manipulation`, `control-sim-to-real`
+
+**Prior art notes:**
+
+> SAPIEN is the canonical PartNet-Mobility-based articulated-object simulator (Xiang et al. CVPR 2020). 5-year-deep open-permissive prior art for: part-level mobility annotation in robotic simulation, depth-noise modeling for sim-to-real, ManiSkill manipulation benchmark suite. Distinct from MuJoCo (rigid-body baseline), Isaac Gym (GPU-parallelized), and Genesis (multi-physics) by emphasis on articulated-object interaction. Direct shielding for any commercial humanoid claim on articulated-object manipulation training simulation.
+
+**Sources:**
+
+1. Xiang et al. arXiv:2003.08515 March 2020; CVPR 2020.
+2. ManiSkill GitHub (github.com/haosulab/ManiSkill).
+3. PartNet-Mobility dataset (partnet.org/MobilityProject/).
 
 ---
 
@@ -665,4 +686,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

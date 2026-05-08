@@ -1,7 +1,7 @@
 ---
 title: "actuator-pneumatic-muscle"
 parent: "Invalidity Contentions"
-nav_order: 13
+nav_order: 14
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-pneumatic-muscle`  
-**Entries:** 6 (6 commons-grade, 0 draft)  
-**Earliest disclosure:** 1983  
+**Entries:** 7 (7 commons-grade, 0 draft)  
+**Earliest disclosure:** 1957-01  
 **Most recent disclosure:** 2018-07-30
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1957-01 — McKibben pneumatic artificial muscle
+
+- **id:** `mckibben-pneumatic-muscle-1957`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Joseph L. McKibben (NIH, Bethesda)
+- **disclosure citation:** McKibben, J. L. (1957). Pneumatic artificial muscle developed at the National Institutes of Health for an orthotic device for polio patients. The original technical reports describe the braided-shell pneumatic actuator that contracts when pressurized. Subsequently extensively studied — Daerden + Lefeber 'Pneumatic Artificial Muscles: actuators for robotics and automation' European Journal of Mechanical and Environmental Engineering 47(1) 2002 is a canonical academic survey.
+- **disclosed subsystems:** `actuator-pneumatic-muscle`, `actuator-compliant`
+
+**Prior art notes:**
+
+> The McKibben pneumatic artificial muscle is the canonical compliant-actuator foundation of soft robotics. 68-year-deep public-domain prior art (1957). The architectural parent of: Festo Fluidic Muscle (round-16 entry below), Shadow Robot Air Muscle, Pisa-IIT McKibben-actuated humanoid platforms (e.g., Walk-Man's compliant-joint design), Pneubotics. Direct shielding for any commercial humanoid claim on pneumatic-actuated compliant motion or biologically-mimetic actuator design. Particularly relevant if free-humanoid-platform pivots toward a soft-humanoid v0.2 variant — the pneumatic-actuator branch is well-anticipated.
+
+**Sources:**
+
+1. McKibben, J. L. NIH technical reports 1957.
+2. Daerden, F., Lefeber, D. 'Pneumatic Artificial Muscles' EJMEE 47(1) 2002 — canonical academic survey.
+3. Tondu, B. 'Modelling of the McKibben artificial muscle' J. Intelligent Material Systems 23(3) 2012.
+
+---
 
 ### 1983 — Raibert One-Legged Hopper
 
@@ -193,4 +214,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

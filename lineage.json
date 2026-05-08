@@ -193,6 +193,14 @@
       ]
     },
     {
+      "id": "mckibben-pneumatic-muscle-1957",
+      "name": "McKibben pneumatic artificial muscle",
+      "year": "1957",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "dc-brainiac-1958",
       "name": "Brainiac",
       "year": "1958",
@@ -1247,6 +1255,22 @@
       ]
     },
     {
+      "id": "ip-com-prior-art-database",
+      "name": "IP.com Prior Art Database",
+      "year": "2000",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "intuitive-surgical-da-vinci-2000",
+      "name": "Intuitive Surgical da Vinci",
+      "year": "2000",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "asimo",
       "name": "ASIMO",
       "year": "2000",
@@ -1504,6 +1528,14 @@
         "dlr-toro",
         "nasa-valkyrie"
       ]
+    },
+    {
+      "id": "open-invention-network-2005",
+      "name": "Open Invention Network",
+      "year": "2005",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "iso-10218-collaborative-robots",
@@ -2127,6 +2159,14 @@
       ]
     },
     {
+      "id": "vicarious-surgical-2014",
+      "name": "Vicarious Surgical",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "cmu-andy-herb2-srinivasa-2014",
       "name": "CMU Personal Robotics Lab Andy / HERB-2 follow-on platform",
       "year": "2014",
@@ -2178,6 +2218,14 @@
         "ott-impedance-control",
         "sentis-khatib-whole-body"
       ],
+      "descendants": []
+    },
+    {
+      "id": "harvard-soft-robotics-toolkit-2017",
+      "name": "Harvard Soft Robotics Toolkit",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2440,6 +2488,14 @@
       "name": "JANUS underwater acoustic communications standard",
       "year": "2017",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "festo-bionic-soft-arm-2017",
+      "name": "Festo BionicSoftArm",
+      "year": "2017",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -2861,6 +2917,14 @@
       "descendants": []
     },
     {
+      "id": "sapien-xiang-cvpr-2020",
+      "name": "SAPIEN simulator",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mastalli-crocoddyl-2020",
       "name": "Crocoddyl",
       "year": "2020",
@@ -2868,6 +2932,14 @@
       "ancestors": [
         "tassa-ilqg-2012"
       ],
+      "descendants": []
+    },
+    {
+      "id": "meta-digit-tactile-2020",
+      "name": "DIGIT (Meta tactile sensor)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2907,6 +2979,14 @@
       "name": "Klara and the Sun — Artificial Friend (AF) child companion",
       "year": "2021",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "memic-hominis-2020",
+      "name": "Memic Hominis",
+      "year": "2021",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -2955,6 +3035,14 @@
       ]
     },
     {
+      "id": "robomimic-mandlekar-2021",
+      "name": "robomimic",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "tesla-optimus",
       "name": "Tesla Optimus",
       "year": "2021",
@@ -2970,6 +3058,14 @@
     {
       "id": "caltech-leonardo-2021",
       "name": "Caltech LEONARDO",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cmu-reskin-tactile-2021",
+      "name": "ReSkin (magnetic tactile skin)",
       "year": "2021",
       "corpus": "academic",
       "ancestors": [],
@@ -3488,6 +3584,14 @@
       "descendants": []
     },
     {
+      "id": "fourier-gr1-2024",
+      "name": "Fourier GR1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mobile-aloha",
       "name": "Mobile ALOHA",
       "year": "2024",
@@ -3645,6 +3749,14 @@
       ]
     },
     {
+      "id": "robocasa-nasiriany-2024",
+      "name": "RoboCasa",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "tactile-softhand-a-2025",
       "name": "Tactile SoftHand-A",
       "year": "2024",
@@ -3692,6 +3804,14 @@
       "name": "Kepler K2",
       "year": "2024",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "opentelevision-cheng-corl-2024",
+      "name": "Open-TeleVision",
+      "year": "2024",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -3847,6 +3967,14 @@
       "name": "ToddlerBot",
       "year": "2025",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "booster-k1-2025",
+      "name": "Booster K1",
+      "year": "2025",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },

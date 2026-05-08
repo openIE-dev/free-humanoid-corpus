@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `actuator-pneumatic-muscle`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1983
+Earliest disclosure: 1957-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## McKibben pneumatic artificial muscle (1957-01)
+
+- **id**: `mckibben-pneumatic-muscle-1957`
+- **corpus**: academic
+- **creator**: Joseph L. McKibben (NIH, Bethesda)
+- **disclosure**: McKibben, J. L. (1957). Pneumatic artificial muscle developed at the National Institutes of Health for an orthotic device for polio patients. The original technical reports describe the braided-shell pneumatic actuator that contracts when pressurized. Subsequently extensively studied — Daerden + Lefeber 'Pneumatic Artificial Muscles: actuators for robotics and automation' European Journal of Mechanical and Environmental Engineering 47(1) 2002 is a canonical academic survey.
+- **ip status**: public-domain
+- **prior art notes**: The McKibben pneumatic artificial muscle is the canonical compliant-actuator foundation of soft robotics. 68-year-deep public-domain prior art (1957). The architectural parent of: Festo Fluidic Muscle (round-16 entry below), Shadow Robot Air Muscle, Pisa-IIT McKibben-actuated humanoid platforms (e.g., Walk-Man's compliant-joint design), Pneubotics. Direct shielding for any commercial humanoid claim on pneumatic-actuated compliant motion or biologically-mimetic actuator design. Particularly relevant if free-humanoid-platform pivots toward a soft-humanoid v0.2 variant — the pneumatic-actuator branch is well-anticipated.
 
 ## Raibert One-Legged Hopper (1983)
 

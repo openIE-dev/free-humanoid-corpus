@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-teleoperation`
 
-**32 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-07
 
@@ -302,3 +302,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wyatt, Brad Peyton (dir.); Stein, Aron Eli and Steakley, Leo (writers). Atlas. Netflix, May 24, 2024.
 - **ip status**: fictional
 - **prior art notes**: Atlas's 2024 disclosure is recent and provides notable prior art for: (1) pilot-AI neural-handshake co-pilot architecture in a humanoid platform — directly relevant to modern claims on operator-AI humanoid co-pilot IP (the 'drift' architecture from Pacific Rim 2013 is the deeper anchor; Atlas extends with the AI-as-explicit-co-pilot framing); (2) explicit trust-building progression as a policy-update protocol — relevant to humanoid policies that adjust autonomy-level over deployment time; (3) AI override authority for safety-critical decisions in operator-piloted humanoids — relevant to modern safety-supervisor humanoid IP. Continuously available since May 2024.
+
+## Open-TeleVision (2024-07)
+
+- **id**: `opentelevision-cheng-corl-2024`
+- **corpus**: academic
+- **creator**: UC San Diego + MIT; Xuxin Cheng, Jialong Li, Shiqi Yang, Ge Yang, Xiaolong Wang
+- **disclosure**: Cheng, X., Li, J., Yang, S., Yang, G., Wang, X. 'Open-TeleVision: Teleoperation with Immersive Active Visual Feedback'. arXiv:2407.01512, July 2024. CoRL 2024. UC San Diego + MIT.
+- **ip status**: open-permissive
+- **prior art notes**: Open-TeleVision is the canonical first open-source academic Apple-Vision-Pro humanoid teleoperation system (Cheng et al. CoRL 2024). 10-month-deep open-permissive prior art for: VR-headset humanoid teleop with first-person stereo POV, active head tracking for gaze-following, hand-pose mirroring across Vision Pro + humanoid arm. Direct shielding for any commercial humanoid claim on Apple-Vision-Pro-or-equivalent VR teleop. Architectural successor to Vicarious Surgical (round-16 entry) VR-teleop in surgical context — Open-TeleVision applies the same pattern to humanoid manipulation. The 500-hour Helix (round-15) teleop dataset was likely collected via similar VR-headset teleop infrastructure.

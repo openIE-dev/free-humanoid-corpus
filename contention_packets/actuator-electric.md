@@ -1,7 +1,7 @@
 ---
 title: "actuator-electric"
 parent: "Invalidity Contentions"
-nav_order: 3
+nav_order: 4
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 2 (1 commons-grade, 1 draft)  
+**Entries:** 3 (2 commons-grade, 1 draft)  
 **Earliest disclosure:** 2016-06  
 **Most recent disclosure:** 2025-10
 
@@ -58,6 +58,28 @@ cite, copy, or redistribute these contentions.
 1. Boston Dynamics YouTube reveal videos June 2016 and 2018.
 2. IEEE Spectrum 'Boston Dynamics' SpotMini Is All Electric, Agile, and Has a Capable Face-Arm', 2017.
 3. Vision Systems Design coverage 2018.
+
+---
+
+### 2025-03 — Booster K1
+
+- **id:** `booster-k1-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Booster Robotics (Beijing, China)
+- **disclosure citation:** Booster Robotics. K1 product page (booster.tech/booster-k1) and associated commercial brochures, public 2025+. RoboCup 2025 KidSize humanoid league winning platform (Boosted HTWK team, Salvador Brazil, July 20 2025).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Booster K1 is the canonical 2025 sub-$25k educational humanoid. 5-month-deep public-disclosure prior art for: KidSize-class (95cm) humanoid form factor, 22-DoF anthropomorphic kinematics, ROS 2 + Python developer-friendly stack at the educational price point. Public competition record (RoboCup 2025 KidSize win) demonstrates a working system. Direct shielding for any commercial humanoid claim on educational/sub-$25k pricing or RoboCup-competition-grade autonomous bipedal locomotion.
+
+**Sources:**
+
+1. Booster Robotics product page (booster.tech/booster-k1).
+2. Generation Robots product listing (generationrobots.com).
+3. Humanoid Guide product database entry (humanoid.guide/product/k1).
+4. RoboCup 2025 results (Salvador, Brazil, July 2025).
 
 ---
 
@@ -114,4 +136,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

@@ -1,7 +1,7 @@
 ---
 title: "control-loco-manipulation"
 parent: "Invalidity Contentions"
-nav_order: 29
+nav_order: 31
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-loco-manipulation`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2025-02  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 2024-06  
 **Most recent disclosure:** 2025-04
 
 ---
@@ -39,6 +39,28 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2024-06 — RoboCasa
+
+- **id:** `robocasa-nasiriany-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UT Austin + NVIDIA; Soroush Nasiriany, Abhinav Maddukuri, Yuke Zhu et al.
+- **disclosure citation:** Nasiriany, S., Maddukuri, A., Zhang, L., Parikh, A., Lo, A., Joshi, A., Mandlekar, A., Zhu, Y. 'RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots'. arXiv:2406.02523, June 2024. RSS 2024. UT Austin + NVIDIA. RoboCasa365 follow-up (OpenReview tQJYKwc3n4) extends to 365 tasks across 2,500 kitchen environments.
+- **disclosed subsystems:** `control-physics-simulation`, `control-imitation-learning`, `control-foundation-model-policy`, `control-loco-manipulation`
+
+**Prior art notes:**
+
+> RoboCasa is the canonical generative-AI-augmented household-task simulation framework (UT Austin + NVIDIA, RSS 2024). ~1-year-deep open-permissive prior art for: generative-AI-authored simulation environments at scale, large-scale (>1k hours) demonstration datasets for VLA training, kitchen-scene household-task benchmark suite. Direct shielding for any commercial humanoid claim on 'training data at scale for household manipulation' — RoboCasa365's 1,600 synthetic + 600 human hours establishes the open-academic baseline.
+
+**Sources:**
+
+1. Nasiriany et al. arXiv:2406.02523 June 2024.
+2. Project page (robocasa.ai).
+3. GitHub: github.com/robocasa/robocasa.
+4. RSS 2024 proceedings (robocasa.ai/assets/robocasa_rss24.pdf).
+
+---
 
 ### 2025-02 — ToddlerBot
 
@@ -114,4 +136,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

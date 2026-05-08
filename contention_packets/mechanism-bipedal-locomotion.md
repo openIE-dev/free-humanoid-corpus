@@ -1,7 +1,7 @@
 ---
 title: "mechanism-bipedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 60
+nav_order: 64
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 127 (99 commons-grade, 28 draft)  
+**Entries:** 129 (101 commons-grade, 28 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2026-04
 
@@ -2318,6 +2318,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-01 — Fourier GR1
+
+- **id:** `fourier-gr1-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Fourier Intelligence (Shanghai, China)
+- **disclosure citation:** Fourier Intelligence. GR1 humanoid product reveal January 2024 via fourierintelligence.com and CES 2024 demonstration. Subsequent deployments by academic teams (Open-TeleVision UCSD+MIT CoRL 2024 uses Fourier GR1 as one of its evaluation platforms).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `actuator-electric-quasi-direct-drive`
+
+**Prior art notes:**
+
+> Fourier GR1 is one of the canonical Chinese commercial humanoid platforms used by academic teams (alongside Unitree H1/G1, Booster K1). 1.5-year-deep public-disclosure prior art for: adult-class commercial humanoid sold to academic researchers as a hardware-only platform, interchangeable hand/gripper end-effectors. The Open-TeleVision academic publication (CoRL 2024) uses GR1 as one of two evaluation platforms, providing third-party documentation of the system's interfaces and capabilities. Direct shielding for any commercial humanoid claim on adult-class hardware-platform sales to academic researchers.
+
+**Sources:**
+
+1. Fourier Intelligence corporate site (fourierintelligence.com).
+2. Cheng et al. 'Open-TeleVision' arXiv:2407.01512 CoRL 2024 (uses GR1 as evaluation platform).
+3. CES 2024 coverage.
+
+---
+
 ### 2024-05 — Unitree G1 *(draft)*
 
 - **id:** `unitree-g1`
@@ -2500,6 +2521,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-03 — Booster K1
+
+- **id:** `booster-k1-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Booster Robotics (Beijing, China)
+- **disclosure citation:** Booster Robotics. K1 product page (booster.tech/booster-k1) and associated commercial brochures, public 2025+. RoboCup 2025 KidSize humanoid league winning platform (Boosted HTWK team, Salvador Brazil, July 20 2025).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Booster K1 is the canonical 2025 sub-$25k educational humanoid. 5-month-deep public-disclosure prior art for: KidSize-class (95cm) humanoid form factor, 22-DoF anthropomorphic kinematics, ROS 2 + Python developer-friendly stack at the educational price point. Public competition record (RoboCup 2025 KidSize win) demonstrates a working system. Direct shielding for any commercial humanoid claim on educational/sub-$25k pricing or RoboCup-competition-grade autonomous bipedal locomotion.
+
+**Sources:**
+
+1. Booster Robotics product page (booster.tech/booster-k1).
+2. Generation Robots product listing (generationrobots.com).
+3. Humanoid Guide product database entry (humanoid.guide/product/k1).
+4. RoboCup 2025 results (Salvador, Brazil, July 2025).
+
+---
+
 ### 2025-04 — Berkeley Humanoid Lite
 
 - **id:** `berkeley-humanoid-lite-2025`
@@ -2614,4 +2657,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

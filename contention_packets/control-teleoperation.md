@@ -1,7 +1,7 @@
 ---
 title: "control-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 47
+nav_order: 50
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-teleoperation`  
-**Entries:** 32 (27 commons-grade, 5 draft)  
+**Entries:** 33 (28 commons-grade, 5 draft)  
 **Earliest disclosure:** 1956-07  
-**Most recent disclosure:** 2024-05-24
+**Most recent disclosure:** 2024-07
 
 ---
 
@@ -690,6 +690,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-07 — Open-TeleVision
+
+- **id:** `opentelevision-cheng-corl-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC San Diego + MIT; Xuxin Cheng, Jialong Li, Shiqi Yang, Ge Yang, Xiaolong Wang
+- **disclosure citation:** Cheng, X., Li, J., Yang, S., Yang, G., Wang, X. 'Open-TeleVision: Teleoperation with Immersive Active Visual Feedback'. arXiv:2407.01512, July 2024. CoRL 2024. UC San Diego + MIT.
+- **disclosed subsystems:** `control-teleoperation`, `control-vr-headset-teleoperation`, `sensing-stereoscopic-camera`, `control-immersive-pov`
+
+**Prior art notes:**
+
+> Open-TeleVision is the canonical first open-source academic Apple-Vision-Pro humanoid teleoperation system (Cheng et al. CoRL 2024). 10-month-deep open-permissive prior art for: VR-headset humanoid teleop with first-person stereo POV, active head tracking for gaze-following, hand-pose mirroring across Vision Pro + humanoid arm. Direct shielding for any commercial humanoid claim on Apple-Vision-Pro-or-equivalent VR teleop. Architectural successor to Vicarious Surgical (round-16 entry) VR-teleop in surgical context — Open-TeleVision applies the same pattern to humanoid manipulation. The 500-hour Helix (round-15) teleop dataset was likely collected via similar VR-headset teleop infrastructure.
+
+**Sources:**
+
+1. Cheng et al. arXiv:2407.01512 July 2024.
+2. CoRL 2024 (proceedings.mlr.press lookup).
+3. Project page (robot-tv.github.io).
+4. GitHub: github.com/OpenTeleVision/TeleVision.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -720,4 +742,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*

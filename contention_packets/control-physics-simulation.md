@@ -1,7 +1,7 @@
 ---
 title: "control-physics-simulation"
 parent: "Invalidity Contentions"
-nav_order: 40
+nav_order: 43
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-physics-simulation`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012-10  
-**Most recent disclosure:** 2021-08
+**Most recent disclosure:** 2024-06
 
 ---
 
@@ -83,6 +83,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-03 — SAPIEN simulator
+
+- **id:** `sapien-xiang-cvpr-2020`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC San Diego + Stanford; Hao Su, Leonidas Guibas, Angel Chang group
+- **disclosure citation:** Xiang, F., Qin, Y., Mo, K., Xia, Y., Zhu, H., Liu, F., Liu, M., Jiang, H., Yuan, Y., Wang, H., Yi, L., Chang, A. X., Guibas, L. J., Su, H. 'SAPIEN: A SimulAted Part-based Interactive ENvironment'. arXiv:2003.08515, March 2020. CVPR 2020. UC San Diego + Stanford. ManiSkill follow-up framework via haosulab/ManiSkill (Hillbot Inc.).
+- **disclosed subsystems:** `control-physics-simulation`, `control-articulated-object-manipulation`, `control-sim-to-real`
+
+**Prior art notes:**
+
+> SAPIEN is the canonical PartNet-Mobility-based articulated-object simulator (Xiang et al. CVPR 2020). 5-year-deep open-permissive prior art for: part-level mobility annotation in robotic simulation, depth-noise modeling for sim-to-real, ManiSkill manipulation benchmark suite. Distinct from MuJoCo (rigid-body baseline), Isaac Gym (GPU-parallelized), and Genesis (multi-physics) by emphasis on articulated-object interaction. Direct shielding for any commercial humanoid claim on articulated-object manipulation training simulation.
+
+**Sources:**
+
+1. Xiang et al. arXiv:2003.08515 March 2020; CVPR 2020.
+2. ManiSkill GitHub (github.com/haosulab/ManiSkill).
+3. PartNet-Mobility dataset (partnet.org/MobilityProject/).
+
+---
+
 ### 2021-08 — NVIDIA Isaac Gym
 
 - **id:** `nvidia-isaac-gym-2021`
@@ -100,6 +121,28 @@ cite, copy, or redistribute these contentions.
 
 1. Makoviychuk et al. arXiv:2108.10470 NeurIPS 2021.
 2. GitHub: github.com/NVIDIA-Omniverse/IsaacGymEnvs (research preview, archived).
+
+---
+
+### 2024-06 — RoboCasa
+
+- **id:** `robocasa-nasiriany-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UT Austin + NVIDIA; Soroush Nasiriany, Abhinav Maddukuri, Yuke Zhu et al.
+- **disclosure citation:** Nasiriany, S., Maddukuri, A., Zhang, L., Parikh, A., Lo, A., Joshi, A., Mandlekar, A., Zhu, Y. 'RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots'. arXiv:2406.02523, June 2024. RSS 2024. UT Austin + NVIDIA. RoboCasa365 follow-up (OpenReview tQJYKwc3n4) extends to 365 tasks across 2,500 kitchen environments.
+- **disclosed subsystems:** `control-physics-simulation`, `control-imitation-learning`, `control-foundation-model-policy`, `control-loco-manipulation`
+
+**Prior art notes:**
+
+> RoboCasa is the canonical generative-AI-augmented household-task simulation framework (UT Austin + NVIDIA, RSS 2024). ~1-year-deep open-permissive prior art for: generative-AI-authored simulation environments at scale, large-scale (>1k hours) demonstration datasets for VLA training, kitchen-scene household-task benchmark suite. Direct shielding for any commercial humanoid claim on 'training data at scale for household manipulation' — RoboCasa365's 1,600 synthetic + 600 human hours establishes the open-academic baseline.
+
+**Sources:**
+
+1. Nasiriany et al. arXiv:2406.02523 June 2024.
+2. Project page (robocasa.ai).
+3. GitHub: github.com/robocasa/robocasa.
+4. RSS 2024 proceedings (robocasa.ai/assets/robocasa_rss24.pdf).
 
 ---
 
@@ -133,4 +176,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
