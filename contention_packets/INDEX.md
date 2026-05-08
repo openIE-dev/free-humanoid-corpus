@@ -10,7 +10,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Packets:** 180  
-**Corpus revision:** `1a8c3f7`
+**Corpus revision:** `a27a0cf`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -76,7 +76,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-grasp-planning`](control-grasp-planning.md) | 3 | 2 | 1 | 1989-06 | 2002-04 |
 | [`control-grasp-taxonomy`](control-grasp-taxonomy.md) | 4 | 4 | 0 | 1919-01 | 1989-06 |
 | [`control-haptic-rendering`](control-haptic-rendering.md) | 4 | 3 | 1 | 1994-09 | 2023-09 |
-| [`control-imitation-learning`](control-imitation-learning.md) | 23 | 22 | 1 | 2018-04 | 2025-02 |
+| [`control-imitation-learning`](control-imitation-learning.md) | 24 | 23 | 1 | 2018-04 | 2025-11 |
 | [`control-impedance-control`](control-impedance-control.md) | 2 | 2 | 0 | 1994-09 | 2008-12 |
 | [`control-implicit-scene-representation`](control-implicit-scene-representation.md) | 2 | 2 | 0 | 2020-03 | 2023-02 |
 | [`control-language-conditioned-policy`](control-language-conditioned-policy.md) | 2 | 2 | 0 | 2021-12 | 2021-12 |
@@ -201,7 +201,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`sensing-stereo-camera`](sensing-stereo-camera.md) | 83 | 63 | 20 | 1973 | 2024-11 |
 | [`sensing-stereoscopic-camera`](sensing-stereoscopic-camera.md) | 2 | 2 | 0 | 2000-07 | 2024-07 |
 | [`sensing-tactile`](sensing-tactile.md) | 2 | 2 | 0 | 2009-12 | 2014-09 |
-| [`sensing-tactile-fingertip`](sensing-tactile-fingertip.md) | 14 | 14 | 0 | 1973 | 2023-07 |
+| [`sensing-tactile-fingertip`](sensing-tactile-fingertip.md) | 15 | 15 | 0 | 1973 | 2025-11 |
 | [`sensing-tactile-vision-based`](sensing-tactile-vision-based.md) | 5 | 4 | 1 | 2017-04 | 2024-11 |
 | [`sensing-tactile-whole-body`](sensing-tactile-whole-body.md) | 7 | 7 | 0 | 1989-05 | 2015-04 |
 | [`software-mjbots-stack`](software-mjbots-stack.md) | 2 | 2 | 0 | 2019 | 2022 |

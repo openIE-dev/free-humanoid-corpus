@@ -2550,6 +2550,7 @@
       "descendants": [
         "digit-meta",
         "gelsight-mini-2022",
+        "leflexitac-columbia-2025",
         "meta-digit-360-2024"
       ]
     },
@@ -4996,6 +4997,7 @@
       ],
       "descendants": [
         "dp3-ze-rss-2024",
+        "leflexitac-columbia-2025",
         "octo-policy",
         "umi-stanford"
       ]
@@ -5019,6 +5021,7 @@
       ],
       "descendants": [
         "aloha-2-aldaco-2024",
+        "leflexitac-columbia-2025",
         "mobile-aloha",
         "umi-stanford"
       ]
@@ -5525,7 +5528,9 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "leflexitac-columbia-2025"
+      ]
     },
     {
       "id": "rainbow-robotics-rb-y1",
@@ -6120,6 +6125,7 @@
         "physical-intelligence-pi0-2024"
       ],
       "descendants": [
+        "leflexitac-columbia-2025",
         "physical-intelligence-pi05-ki-2025"
       ]
     },
@@ -6233,6 +6239,20 @@
       "corpus": "private",
       "ancestors": [
         "unitree-h1"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "leflexitac-columbia-2025",
+      "name": "LeFlexiTac (Columbia RoboPIL tactile-LeRobot)",
+      "year": "2025",
+      "corpus": "open",
+      "ancestors": [
+        "act-aloha",
+        "diffusion-policy",
+        "gelsight",
+        "huggingface-lerobot-2024",
+        "physical-intelligence-pi05-2025"
       ],
       "descendants": []
     },

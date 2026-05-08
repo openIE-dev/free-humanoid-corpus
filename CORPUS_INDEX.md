@@ -1,6 +1,6 @@
 # Corpus Index
 
-621 entries total. Generated from corpus.jsonl.
+622 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | KTH Royal Institute of Technology robotics | `kth-sweden-stockholm-robotics` | 2000 | academic | open-permissive | ✓ |
 | KX-series Imperial Security Droids (K-2SO) | `kx-series-k2so-2016` | 2016 | fictional | fictional |  |
 | LAAS-CNRS Toulouse humanoid robotics | `laas-cnrs-toulouse-humanoid-2003` | 2003 | academic | public-domain |  |
+| LeFlexiTac (Columbia RoboPIL tactile-LeRobot) | `leflexitac-columbia-2025` | 2025 | open | open-permissive |  |
 | LEG-SLAM | `leg-slam-2025` | 2025 | academic | open-permissive | ✓ |
 | LEGO-SLAM | `lego-slam-2025` | 2025 | academic | open-permissive | ✓ |
 | LEGS (Language-Embedded Gaussian Splats) | `legs-berkeley-2024` | 2024 | academic | open-permissive |  |

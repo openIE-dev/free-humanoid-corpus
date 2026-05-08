@@ -116,7 +116,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-human-robot-collaboration` | 1 | 2023-10 |
 | `control-humanoid-shadowing` | 1 | 2024-06 |
 | `control-image-segmentation` | 1 | 2015-05 |
-| `control-imitation-learning` | 23 | 2018-04 |
+| `control-imitation-learning` | 24 | 2018-04 |
 | `control-immersive-pov` | 1 | 2024-07 |
 | `control-impedance-control` | 2 | 1994-09 |
 | `control-implicit-scene-representation` | 2 | 2020-03 |
@@ -248,6 +248,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-visual-localization` | 1 | 2024-06 |
 | `control-visual-relative-localization` | 1 | 2017-09 |
 | `control-visual-servoing` | 2 | 2000-01 |
+| `control-vla-tactile-augmented` | 1 | 2025-11 |
 | `control-vla-vision-language-action` | 93 | 1886 |
 | `control-voice-command` | 1 | 2012-09 |
 | `control-vr-headset-teleoperation` | 3 | 2014-01 |
@@ -292,6 +293,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-implantable-medical-device` | 1 | 2017-04 |
 | `mechanism-manipulator-arm` | 25 | 1956-01 |
 | `mechanism-mobile-base` | 15 | 2000-01 |
+| `mechanism-parallel-jaw-gripper` | 1 | 2025-11 |
 | `mechanism-parallel-kinematic` | 1 | 1965-06 |
 | `mechanism-parallel-kinematic-haptic` | 2 | 1994-09 |
 | `mechanism-passive-dynamic-walking` | 6 | 1990 |
@@ -370,12 +372,13 @@ the working prior art search tool when assessing patent claims in the area.
 | `sensing-stereoscopic-camera` | 2 | 2000-07 |
 | `sensing-structured-light` | 1 | 2010-11 |
 | `sensing-tactile` | 2 | 2009-12 |
-| `sensing-tactile-fingertip` | 14 | 1973 |
+| `sensing-tactile-fingertip` | 15 | 1973 |
 | `sensing-tactile-magnetic` | 1 | 2021-11 |
 | `sensing-tactile-skin` | 1 | 2021-11 |
 | `sensing-tactile-vision-based` | 5 | 2017-04 |
 | `sensing-tactile-whole-body` | 7 | 1989-05 |
 | `sensing-time-of-flight` | 1 | 2010-11 |
+| `sensing-vision-tactile` | 1 | 2025-11 |
 | `software-mjbots-stack` | 2 | 2019 |
 | `software-openhrp` | 1 | 2002 |
 | `software-ros1` | 18 | 2002 |
