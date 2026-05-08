@@ -1,6 +1,6 @@
 # Corpus Index
 
-381 entries total. Generated from corpus.jsonl.
+386 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | Ferrari-Canny Grasp Quality Metrics | `ferrari-canny-grasp-quality` | 1992 | academic | public-domain |  |
 | Figure 01 | `figure-01` | 2023 | private | patented | ✓ |
 | Figure 02 | `figure-02` | 2024 | private | patented | ✓ |
+| Figure Helix | `figure-helix-2025` | 2025 | private | trade-secret |  |
 | FLORES wheel-legged robot | `flores-wheel-legged-2025` | 2025 | academic | open-permissive | ✓ |
 | Fourier GR-1 | `fourier-gr1` | 2023 | private | patented | ✓ |
 | Frankenstein's Creature | `frankenstein` | 1818 | fictional | fictional |  |
@@ -204,6 +205,7 @@
 | Lucas-Kanade Optical Flow | `lucas-kanade-1981` | 1981 | academic | public-domain |  |
 | M3GAN | `m3gan` | 2022 | fictional | fictional |  |
 | Machine Man (X-51, Aaron Stack) | `machine-man-marvel` | 1977 | fictional | fictional | ✓ |
+| Magma (Microsoft Multimodal Agent) | `microsoft-magma-cvpr-2025` | 2025 | academic | open-permissive |  |
 | Magnus, Robot Fighter (4000 A.D.) | `magnus-robot-fighter` | 1963 | fictional | fictional | ✓ |
 | Major Motoko Kusanagi (Ghost in the Shell) | `ghost-in-the-shell-major` | 1989 | fictional | fictional |  |
 | Maschinenmensch | `metropolis-maschinenmensch` | 1927 | fictional | public-domain |  |
@@ -233,12 +235,14 @@
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
 | Number Six (Cylon Model Six) | `bsg-number-six` | 2003 | fictional | fictional |  |
 | NVIDIA GR00T (Generalist Robot 00 Technology) | `nvidia-groot-2024` | 2024 | academic | open-permissive |  |
+| NVIDIA Isaac GR00T N1 | `nvidia-groot-n1-2025` | 2025 | academic | open-permissive |  |
 | NVIDIA Isaac Gym | `nvidia-isaac-gym-2021` | 2021 | academic | open-permissive |  |
 | NVIDIA Isaac Lab | `nvidia-isaac-lab-2024` | 2023 | academic | open-permissive |  |
 | Oceaneering Magnum / Magnum Plus work-class ROV | `oceaneering-magnum-rov` | 1995 | private | trade-secret |  |
 | OceanOne | `oceanone-stanford-2016` | 2016 | academic | open-permissive |  |
 | OceanOneK | `ocean-onek-stanford-2022` | 2022 | academic | open-permissive |  |
 | Octo (Open-Source Generalist Robot Policy) | `octo-policy` | 2024 | academic | open-permissive |  |
+| Octo (Open-Source Generalist Robot Policy) | `octo-rss-2024` | 2024 | academic | open-permissive |  |
 | ODrive | `odrive` | 2017 | open | open-permissive |  |
 | OmniGibson / iGibson (Stanford SVL) | `stanford-omnigibson-2023` | 2018 | academic | open-permissive |  |
 | Open X-Embodiment | `open-x-embodiment` | 2023 | academic | open-permissive |  |
@@ -338,6 +342,7 @@
 | Tan et al. Quadruped Sim-to-Real | `tan-quadruped-sim2real` | 2018 | academic | open-permissive |  |
 | Tassa iLQG / Synthesis and Stabilization of Complex Behaviors | `tassa-ilqg-2012` | 2012 | academic | public-domain |  |
 | Tesla Optimus | `tesla-optimus` | 2021 | private | patented | ✓ |
+| Tesla Optimus Gen 3 | `tesla-optimus-gen3-2025` | 2025 | private | trade-secret | ✓ |
 | Tetsujin 28 | `tetsujin-28` | 1956 | fictional | fictional |  |
 | The Doctor (Emergency Medical Hologram Mark I) | `emh-mark-i-voyager` | 1995 | fictional | fictional |  |
 | The Greatest Robot on Earth (eight mecha disclosures) | `astro-boy-greatest-robot` | 1964 | fictional | fictional |  |

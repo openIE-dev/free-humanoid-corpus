@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model-policy"
 parent: "Invalidity Contentions"
-nav_order: 21
+nav_order: 26
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-foundation-model-policy`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
-**Earliest disclosure:** 2024-06  
-**Most recent disclosure:** 2025-04
+**Entries:** 10 (9 commons-grade, 1 draft)  
+**Earliest disclosure:** 2024-05  
+**Most recent disclosure:** 2025-10
 
 ---
 
@@ -39,6 +39,28 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2024-05 — Octo (Open-Source Generalist Robot Policy)
+
+- **id:** `octo-rss-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Octo Model Team (UC Berkeley + Stanford + CMU + Google DeepMind); Levine + Finn + Sadigh group lineage
+- **disclosure citation:** Octo Model Team: Ghosh, D., Walke, H., Pertsch, K., Black, K., Mees, O., Dasari, S., Hejna, J., Kreiman, T., Xu, C., Luo, J., Tan, Y. L., Sanketi, P., Vuong, Q., Xiao, T., Sadigh, D., Finn, C., Levine, S. 'Octo: An Open-Source Generalist Robot Policy'. arXiv:2405.12213, May 2024. Robotics: Science and Systems (RSS) 2024. UC Berkeley + Stanford + Carnegie Mellon + Google DeepMind.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-diffusion-policy`, `control-cross-embodiment`, `control-imitation-learning`
+
+**Prior art notes:**
+
+> Octo is the canonical first open-source generalist robot policy. 1-year-deep open-permissive academic prior art predating OpenVLA by ~1 month (RSS May 2024 vs OpenVLA arXiv June 2024). Establishes the architectural pattern for: transformer + diffusion-policy action head, Open-X-Embodiment-trained cross-embodiment policy at 27M-93M parameter scale, language-OR-goal-image conditioning. Direct shielding for any commercial humanoid VLA claim on diffusion-policy action heads (RDT-1B, π₀ both build on this) and on Open-X-Embodiment-trained cross-embodiment foundation. Together with OpenVLA, π₀, π₀.₅, OpenVLA-OFT, and RDT-1B, establishes the open academic VLA baseline against which Figure Helix, NVIDIA GR00T N1, Microsoft Magma, and any closed commercial VLA must be evaluated.
+
+**Sources:**
+
+1. Octo Model Team. arXiv:2405.12213 May 2024.
+2. RSS 2024 proceedings (roboticsproceedings.org/rss20/p090.pdf).
+3. Project page (octo-models.github.io).
+4. GitHub: github.com/octo-models/octo.
+
+---
 
 ### 2024-06 — OpenVLA
 
@@ -126,6 +148,74 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-02 — Magma (Microsoft Multimodal Agent)
+
+- **id:** `microsoft-magma-cvpr-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Microsoft Research; Jianwei Yang et al.
+- **disclosure citation:** Yang, J., et al. 'Magma: A Foundation Model for Multimodal AI Agents'. arXiv:2502.13130, February 2025. CVPR 2025. Microsoft Research.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-multimodal-agent`, `control-set-of-mark-grounding`
+
+**Prior art notes:**
+
+> Magma is Microsoft's canonical multimodal agent foundation model (CVPR 2025). 3-month-deep prior art for: unified digital + physical task foundation policy, Set-of-Mark + Trace-of-Mark visual grounding annotations. Direct shielding for any commercial humanoid claim on 'one model controls both robot manipulation AND computer/phone interaction' (a notable claim cluster from 1X NEO marketing and Sanctuary Phoenix demos). Magma-8B's open weights make it a re-implementable baseline that any commercial claim must outperform on UI + robot benchmarks to differentiate.
+
+**Sources:**
+
+1. Yang et al. arXiv:2502.13130 February 2025.
+2. CVPR 2025 paper (openaccess.thecvf.com/content/CVPR2025/html/Yang_Magma_A_Foundation_Model_for_Multimodal_AI_Agents_CVPR_2025_paper.html).
+3. Microsoft Research blog (microsoft.com/en-us/research/blog/magma-a-foundation-model-for-multimodal-ai-agents-across-digital-and-physical-worlds/).
+4. GitHub: github.com/microsoft/Magma.
+5. HuggingFace: huggingface.co/microsoft/Magma-8B.
+
+---
+
+### 2025-02 — Figure Helix
+
+- **id:** `figure-helix-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Figure AI Inc.
+- **disclosure citation:** Figure AI Inc. 'Helix: A Vision-Language-Action Model for Generalist Humanoid Control'. Public reveal February 2025 via figure.ai/news/helix. Subsequent disclosures: 'Helix Accelerating Real-World Logistics' (figure.ai/news/helix-logistics) and Hacker News + Robot Report coverage. No academic publication; trade-secret commercial VLA.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-dual-system-architecture`, `control-high-rate-continuous-control`, `control-bimanual-manipulation`, `control-multi-robot-coordination`
+
+**Prior art notes:**
+
+> Helix is Figure AI's canonical 2025 commercial humanoid VLA. Public-disclosure surface (corporate blog + demo videos + Hacker News + Robot Report coverage) reveals architecture (S1/S2 dual-system, 35-DoF/200Hz, ~500hr teleop training) but withholds neural-network specifics, training-data composition, fine-tuning recipe, and policy-evaluation metrics. The capability set claimed is fully covered by deep open academic prior art chains: (1) S1/S2 dual-system architecture is shared with NVIDIA GR00T N1 (round-15 entry, released within weeks; the cognitive-science S1/S2 pattern dates to Kahneman 'Thinking Fast and Slow' 2011); (2) high-rate continuous VLA control was demonstrated by π₀ (round-12, October 2024) and π₀.₅ (round-12, April 2025) in diffusion/flow-matching form; (3) onboard low-power VLA inference is anticipated by OpenVLA-OFT (round-12, parallel decoding + 26× throughput); (4) multi-robot collaboration is anticipated by ROS 2 (round-13, real-time multi-vehicle middleware) and the Mobile ALOHA / ACT bimanual lineage. Direct shielding for any Helix or Helix-derivative commercial-IP claim.
+
+**Sources:**
+
+1. Figure AI 'Helix' announcement (figure.ai/news/helix), February 2025.
+2. Figure AI 'Helix Accelerating Real-World Logistics' (figure.ai/news/helix-logistics), 2025.
+3. Robot Report coverage (therobotreport.com/figure-humanoid-robots-demonstrate-helix-model-household-chores/).
+4. Hacker News discussion thread (news.ycombinator.com/item?id=43115079).
+
+---
+
+### 2025-03 — NVIDIA Isaac GR00T N1
+
+- **id:** `nvidia-groot-n1-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA; multi-author research team
+- **disclosure citation:** NVIDIA. 'GR00T N1: An Open Foundation Model for Generalist Humanoid Robots'. arXiv:2503.14734, March 2025. NVIDIA GTC 2025 announcement. Open commercial license; open weights via HuggingFace nvidia/GR00T-N1-2B. Successor versions N1.6 (full-body) and N1.7 (Cosmos-Reason2 + EgoScale 20K-hour egocentric pre-training) released subsequently.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-dual-system-architecture`, `control-egocentric-video-pretraining`, `control-cross-embodiment`
+
+**Prior art notes:**
+
+> NVIDIA GR00T N1 is the canonical first open commercial-licensed humanoid foundation model (GTC March 2025). 2-month-deep open prior art for: dual-system S1/S2 humanoid VLA, egocentric-human-video pre-training at scale, NVIDIA Isaac platform integration. Direct architectural sibling of Figure Helix (round-15 entry). Both adopt the dual-system pattern from cognitive science. The N1.7 EgoScale 20K-hour pre-training corpus is itself prior art for any commercial humanoid claim on egocentric-video-trained policy datasets. Direct shielding for any commercial humanoid VLA claim.
+
+**Sources:**
+
+1. arXiv:2503.14734 March 2025.
+2. NVIDIA Newsroom announcement (nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks).
+3. HuggingFace: huggingface.co/nvidia/GR00T-N1-2B.
+4. GitHub: github.com/NVIDIA/Isaac-GR00T (versions through N1.7).
+5. N1.7 model card (huggingface.co/blog/nvidia/gr00t-n1-7).
+
+---
+
 ### 2025-04 — π₀.₅ (Pi-0.5)
 
 - **id:** `physical-intelligence-pi05-2025`
@@ -145,6 +235,29 @@ cite, copy, or redistribute these contentions.
 2. CoRL 2025 PMLR v305 Black25a (proceedings.mlr.press/v305/black25a.html).
 3. Physical Intelligence pi0.5 paper (pi.website/download/pi05.pdf).
 4. Knowledge Insulating VLA follow-up (physicalintelligence.company/download/pi05_KI.pdf).
+
+---
+
+### 2025-10 — Tesla Optimus Gen 3 *(draft)*
+
+- **id:** `tesla-optimus-gen3-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Tesla, Inc.
+- **disclosure citation:** Tesla, Inc. Optimus Gen 3 product disclosures via Tesla AI Day-class demonstrations + product page (tesla.com/we-robot) + Optimus blog/social-media posts October 2025+. Trade-secret commercial humanoid platform.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-hand`, `mechanism-tendon-driven`, `actuator-electric`, `control-vision-only-perception`, `control-foundation-model-policy`, `sensing-fingertip-tactile`
+
+**Prior art notes:**
+
+> Tesla Optimus Gen 3 is the dominant commercial humanoid product claim surface. Public-disclosure surface (Tesla product page + demos + social-media + investor decks) discloses dimensional specs and high-level architecture; withholds actuator architecture, specific neural-network policies, training-data composition, and on-device inference details. **The 22-DoF hand × 50-actuator claim is the most specific architectural claim** and directly engages prior-art chains in the corpus: Shadow Hand (24-DoF), DLR Hand-II (15-DoF), Pisa-IIT SoftHand (synergy reduction), Tactile SoftHand-A (antagonistic tendons + tactile fingertips, round-11 entry — directly anticipates the tactile-fingertip delicate-manipulation claim), Educational SoftHand-A (round-12 entry — clutch-gear synergy mechanism). Modern claims on tactile-fingertip dexterous manipulation face 2-year-deep tactile-softhand-a prior art and the deeper SoftHand chain back to 2014. Vision-only sensing is shielded by Tesla's own FSD patents (which Tesla cannot use offensively against an own-lineage humanoid claim) but separately by Levine's GPS PR2/BRETT (2016) for vision-driven manipulation. The full Optimus Gen 3 claim surface is therefore element-by-element anticipated by deep open academic chains plus prior commercial humanoids in the corpus.
+
+**Sources:**
+
+1. Tesla Optimus product page (tesla.com/we-robot).
+2. Humanoid Press 'Optimus 3' database entry (humanoid.press/database/humanoid-press-database-tesla-optimus-3/).
+3. Basenor explainer 'Tesla Optimus Gen 3 Hands: 22-DoF, 50 Actuators Explained'.
+4. AI Robots Media coverage (airobots.media/technology/tesla-optimus-gen-3-everything-we-know-about-teslas-most-ambitious-product/).
+5. Wikipedia 'Optimus (robot)' (en.wikipedia.org/wiki/Optimus_(robot)).
 
 ---
 
@@ -178,4 +291,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7337017`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*

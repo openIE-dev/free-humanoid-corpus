@@ -1,7 +1,7 @@
 ---
 title: "control-imitation-learning"
 parent: "Invalidity Contentions"
-nav_order: 23
+nav_order: 28
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-imitation-learning`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
-**Earliest disclosure:** 2024-06  
+**Entries:** 6 (6 commons-grade, 0 draft)  
+**Earliest disclosure:** 2024-05  
 **Most recent disclosure:** 2025-02
 
 ---
@@ -39,6 +39,28 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2024-05 — Octo (Open-Source Generalist Robot Policy)
+
+- **id:** `octo-rss-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Octo Model Team (UC Berkeley + Stanford + CMU + Google DeepMind); Levine + Finn + Sadigh group lineage
+- **disclosure citation:** Octo Model Team: Ghosh, D., Walke, H., Pertsch, K., Black, K., Mees, O., Dasari, S., Hejna, J., Kreiman, T., Xu, C., Luo, J., Tan, Y. L., Sanketi, P., Vuong, Q., Xiao, T., Sadigh, D., Finn, C., Levine, S. 'Octo: An Open-Source Generalist Robot Policy'. arXiv:2405.12213, May 2024. Robotics: Science and Systems (RSS) 2024. UC Berkeley + Stanford + Carnegie Mellon + Google DeepMind.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-diffusion-policy`, `control-cross-embodiment`, `control-imitation-learning`
+
+**Prior art notes:**
+
+> Octo is the canonical first open-source generalist robot policy. 1-year-deep open-permissive academic prior art predating OpenVLA by ~1 month (RSS May 2024 vs OpenVLA arXiv June 2024). Establishes the architectural pattern for: transformer + diffusion-policy action head, Open-X-Embodiment-trained cross-embodiment policy at 27M-93M parameter scale, language-OR-goal-image conditioning. Direct shielding for any commercial humanoid VLA claim on diffusion-policy action heads (RDT-1B, π₀ both build on this) and on Open-X-Embodiment-trained cross-embodiment foundation. Together with OpenVLA, π₀, π₀.₅, OpenVLA-OFT, and RDT-1B, establishes the open academic VLA baseline against which Figure Helix, NVIDIA GR00T N1, Microsoft Magma, and any closed commercial VLA must be evaluated.
+
+**Sources:**
+
+1. Octo Model Team. arXiv:2405.12213 May 2024.
+2. RSS 2024 proceedings (roboticsproceedings.org/rss20/p090.pdf).
+3. Project page (octo-models.github.io).
+4. GitHub: github.com/octo-models/octo.
+
+---
 
 ### 2024-06 — OpenVLA
 
@@ -178,4 +200,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7337017`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*

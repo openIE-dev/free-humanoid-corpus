@@ -3592,6 +3592,14 @@
       "descendants": []
     },
     {
+      "id": "octo-rss-2024",
+      "name": "Octo (Open-Source Generalist Robot Policy)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "unitree-g1",
       "name": "Unitree G1",
       "year": "2024",
@@ -3809,6 +3817,22 @@
       ]
     },
     {
+      "id": "figure-helix-2025",
+      "name": "Figure Helix",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "microsoft-magma-cvpr-2025",
+      "name": "Magma (Microsoft Multimodal Agent)",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "openvla-oft-stanford-2025",
       "name": "OpenVLA-OFT",
       "year": "2025",
@@ -3834,6 +3858,14 @@
       "ancestors": [
         "tassa-ilqg-2012"
       ],
+      "descendants": []
+    },
+    {
+      "id": "nvidia-groot-n1-2025",
+      "name": "NVIDIA Isaac GR00T N1",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -3901,6 +3933,14 @@
       "ancestors": [
         "tactile-softhand-a-2025"
       ],
+      "descendants": []
+    },
+    {
+      "id": "tesla-optimus-gen3-2025",
+      "name": "Tesla Optimus Gen 3",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {

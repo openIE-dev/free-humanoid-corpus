@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**117 corpus entries disclose this subsystem.**
+**118 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -1058,6 +1058,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lepora, J., Li, H., Psomopoulou, E., Lepora, N. F. 'Educational SoftHand-A: Building an Anthropomorphic Hand with Soft Synergies using LEGO® MINDSTORMS®'. arXiv:2510.15638, October 2025. Bristol Robotics Laboratory + Bristol Grammar School.
 - **ip status**: open-permissive
 - **prior art notes**: Educational SoftHand-A is the LEGO MINDSTORMS instantiation of the Pisa-IIT SoftHand / Tactile SoftHand-A lineage (Oct 2025). 7-month-deep prior art for: differential clutch-gear synergy mechanism in LEGO bricks, agonist-antagonist tendon pair from a single dual-motor module, accessible educational reproduction of professional SoftHand-class designs. **Direct relevance for free-humanoid-platform hand v0.2** — the differential-synergy clutch-gear approach is documented open art that the v0.2 hand could adopt or explicitly diverge from. Together with pisa-iit-softhand, pisa-iit-softhand-2, and tactile-softhand-a-2025, the SoftHand synergy-mechanism lineage is now 11-year-deep continuous open academic publication (2014-2025) across four design generations.
+
+## Tesla Optimus Gen 3 (2025-10)
+
+- **id**: `tesla-optimus-gen3-2025`
+- **corpus**: private
+- **creator**: Tesla, Inc.
+- **disclosure**: Tesla, Inc. Optimus Gen 3 product disclosures via Tesla AI Day-class demonstrations + product page (tesla.com/we-robot) + Optimus blog/social-media posts October 2025+. Trade-secret commercial humanoid platform.
+- **ip status**: trade-secret
+- **prior art notes**: Tesla Optimus Gen 3 is the dominant commercial humanoid product claim surface. Public-disclosure surface (Tesla product page + demos + social-media + investor decks) discloses dimensional specs and high-level architecture; withholds actuator architecture, specific neural-network policies, training-data composition, and on-device inference details. **The 22-DoF hand × 50-actuator claim is the most specific architectural claim** and directly engages prior-art chains in the corpus: Shadow Hand (24-DoF), DLR Hand-II (15-DoF), Pisa-IIT SoftHand (synergy reduction), Tactile SoftHand-A (antagonistic tendons + tactile fingertips, round-11 entry — directly anticipates the tactile-fingertip delicate-manipulation claim), Educational SoftHand-A (round-12 entry — clutch-gear synergy mechanism). Modern claims on tactile-fingertip dexterous manipulation face 2-year-deep tactile-softhand-a prior art and the deeper SoftHand chain back to 2014. Vision-only sensing is shielded by Tesla's own FSD patents (which Tesla cannot use offensively against an own-lineage humanoid claim) but separately by Levine's GPS PR2/BRETT (2016) for vision-driven manipulation. The full Optimus Gen 3 claim surface is therefore element-by-element anticipated by deep open academic chains plus prior commercial humanoids in the corpus.
 
 ## Genesis AI GENE-26.5 (2026-04)
 

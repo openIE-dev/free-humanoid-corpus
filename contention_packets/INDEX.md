@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-07  
-**Packets:** 90  
-**Corpus revision:** `7337017`
+**Packets:** 96  
+**Corpus revision:** `171053a`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -29,6 +29,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 |---|---|---|---|---|---|
 | [`actuator-biological`](actuator-biological.md) | 13 | 12 | 1 | 1973-11-21 | 2020-01-23 |
 | [`actuator-bldc-controller`](actuator-bldc-controller.md) | 11 | 11 | 0 | 1929-07 | 2022 |
+| [`actuator-electric`](actuator-electric.md) | 2 | 1 | 1 | 2016-06 | 2025-10 |
 | [`actuator-electric-cycloidal`](actuator-electric-cycloidal.md) | 5 | 2 | 3 | 1937 | 2025-04 |
 | [`actuator-electric-direct-drive`](actuator-electric-direct-drive.md) | 68 | 50 | 18 | 1886 | 2024-11 |
 | [`actuator-electric-harmonic-drive`](actuator-electric-harmonic-drive.md) | 21 | 18 | 3 | 1986 | 2025-10 |
@@ -43,13 +44,17 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-acoustic-comms`](control-acoustic-comms.md) | 10 | 9 | 1 | 1989-01 | 2018-04 |
 | [`control-behavior-tree`](control-behavior-tree.md) | 12 | 12 | 0 | 1772 | 2022-04-04 |
 | [`control-bilateral-teleop-haptic`](control-bilateral-teleop-haptic.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
+| [`control-bimanual-manipulation`](control-bimanual-manipulation.md) | 2 | 2 | 0 | 2024-10 | 2025-02 |
 | [`control-bundle-adjustment`](control-bundle-adjustment.md) | 5 | 4 | 1 | 2021-04 | 2026-04 |
+| [`control-cross-embodiment`](control-cross-embodiment.md) | 3 | 3 | 0 | 2024-05 | 2025-03 |
+| [`control-diffusion-policy`](control-diffusion-policy.md) | 2 | 2 | 0 | 2024-05 | 2024-10 |
+| [`control-dual-system-architecture`](control-dual-system-architecture.md) | 2 | 2 | 0 | 2025-02 | 2025-03 |
 | [`control-dvl-positioning`](control-dvl-positioning.md) | 8 | 7 | 1 | 1989-04 | 2018-04 |
 | [`control-dynamic-scene-robust`](control-dynamic-scene-robust.md) | 6 | 4 | 2 | 2018-06 | 2026-04 |
 | [`control-foundation-model-perception`](control-foundation-model-perception.md) | 8 | 6 | 2 | 2023-03 | 2026-04 |
-| [`control-foundation-model-policy`](control-foundation-model-policy.md) | 5 | 5 | 0 | 2024-06 | 2025-04 |
+| [`control-foundation-model-policy`](control-foundation-model-policy.md) | 10 | 9 | 1 | 2024-05 | 2025-10 |
 | [`control-gaussian-splatting-slam`](control-gaussian-splatting-slam.md) | 6 | 2 | 4 | 2024-03 | 2025-11 |
-| [`control-imitation-learning`](control-imitation-learning.md) | 5 | 5 | 0 | 2024-06 | 2025-02 |
+| [`control-imitation-learning`](control-imitation-learning.md) | 6 | 6 | 0 | 2024-05 | 2025-02 |
 | [`control-loco-manipulation`](control-loco-manipulation.md) | 2 | 2 | 0 | 2025-02 | 2025-04 |
 | [`control-middleware`](control-middleware.md) | 2 | 2 | 0 | 2009-05 | 2017-12 |
 | [`control-mission-script`](control-mission-script.md) | 4 | 4 | 0 | 1989-01 | 2003-09 |
@@ -73,15 +78,15 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-trajectory-optimization`](control-trajectory-optimization.md) | 3 | 3 | 0 | 2012-10 | 2025-03 |
 | [`control-vio-slam`](control-vio-slam.md) | 12 | 7 | 5 | 2018-06 | 2026-04 |
 | [`control-vision-language`](control-vision-language.md) | 2 | 2 | 0 | 2023-03 | 2023-12 |
-| [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 84 | 75 | 9 | 1886 | 2026-04 |
+| [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 88 | 79 | 9 | 1886 | 2026-04 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 21 | 21 | 0 | 1969 | 2023-08 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |
 | [`mechanism-3d-printed-platform`](mechanism-3d-printed-platform.md) | 3 | 3 | 0 | 2025-02 | 2026-01 |
 | [`mechanism-aerial-thruster`](mechanism-aerial-thruster.md) | 2 | 0 | 2 | 2019-05 | 2021-07 |
 | [`mechanism-antagonistic-tendon`](mechanism-antagonistic-tendon.md) | 2 | 2 | 0 | 2024-06 | 2025-10 |
 | [`mechanism-anthropomorphic-arm`](mechanism-anthropomorphic-arm.md) | 4 | 3 | 1 | 2016-04 | 2025-02 |
-| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 117 | 95 | 22 | 1495 | 2026-04 |
-| [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 126 | 99 | 27 | -0250 | 2026-04 |
+| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 118 | 95 | 23 | 1495 | 2026-04 |
+| [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 127 | 99 | 28 | -0250 | 2026-04 |
 | [`mechanism-control-fin`](mechanism-control-fin.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
 | [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 9 | 8 | 1 | 1964-06 | 2022-07 |
 | [`mechanism-passive-dynamic-walking`](mechanism-passive-dynamic-walking.md) | 3 | 3 | 0 | 1990 | 2017 |
@@ -106,6 +111,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`safety-emergency-stop`](safety-emergency-stop.md) | 5 | 5 | 0 | 1982-12 | 2017-05 |
 | [`safety-hard-constraint`](safety-hard-constraint.md) | 58 | 57 | 1 | -0250 | 2024-05-24 |
 | [`safety-simplex-supervisor`](safety-simplex-supervisor.md) | 8 | 8 | 0 | 1940-09 | 2019-05 |
+| [`sensing-fingertip-tactile`](sensing-fingertip-tactile.md) | 2 | 1 | 1 | 2024-06 | 2025-10 |
 | [`sensing-force-torque`](sensing-force-torque.md) | 44 | 38 | 6 | 1969 | 2024-07 |
 | [`sensing-imu`](sensing-imu.md) | 76 | 57 | 19 | 1989 | 2025-10 |
 | [`sensing-lidar`](sensing-lidar.md) | 16 | 14 | 2 | 2004 | 2023-08 |

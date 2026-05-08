@@ -1,7 +1,7 @@
 ---
 title: "actuator-electric-cycloidal"
 parent: "Invalidity Contentions"
-nav_order: 3
+nav_order: 4
 layout: default
 ---
 
@@ -174,4 +174,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7337017`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*

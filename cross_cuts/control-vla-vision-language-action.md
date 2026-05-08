@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vla-vision-language-action`
 
-**84 corpus entries disclose this subsystem.**
+**88 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -654,6 +654,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Neura's cognitive-AI claims overlap with academic VLA literature.
 
+## Octo (Open-Source Generalist Robot Policy) (2024-05)
+
+- **id**: `octo-rss-2024`
+- **corpus**: academic
+- **creator**: Octo Model Team (UC Berkeley + Stanford + CMU + Google DeepMind); Levine + Finn + Sadigh group lineage
+- **disclosure**: Octo Model Team: Ghosh, D., Walke, H., Pertsch, K., Black, K., Mees, O., Dasari, S., Hejna, J., Kreiman, T., Xu, C., Luo, J., Tan, Y. L., Sanketi, P., Vuong, Q., Xiao, T., Sadigh, D., Finn, C., Levine, S. 'Octo: An Open-Source Generalist Robot Policy'. arXiv:2405.12213, May 2024. Robotics: Science and Systems (RSS) 2024. UC Berkeley + Stanford + Carnegie Mellon + Google DeepMind.
+- **ip status**: open-permissive
+- **prior art notes**: Octo is the canonical first open-source generalist robot policy. 1-year-deep open-permissive academic prior art predating OpenVLA by ~1 month (RSS May 2024 vs OpenVLA arXiv June 2024). Establishes the architectural pattern for: transformer + diffusion-policy action head, Open-X-Embodiment-trained cross-embodiment policy at 27M-93M parameter scale, language-OR-goal-image conditioning. Direct shielding for any commercial humanoid VLA claim on diffusion-policy action heads (RDT-1B, π₀ both build on this) and on Open-X-Embodiment-trained cross-embodiment foundation. Together with OpenVLA, π₀, π₀.₅, OpenVLA-OFT, and RDT-1B, establishes the open academic VLA baseline against which Figure Helix, NVIDIA GR00T N1, Microsoft Magma, and any closed commercial VLA must be evaluated.
+
 ## Octo (Open-Source Generalist Robot Policy) (2024-05-20)
 
 - **id**: `octo-policy`
@@ -752,6 +761,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kim, M. J., Finn, C., Liang, P. 'Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success'. arXiv:2502.19645, February 2025. Stanford.
 - **ip status**: open-permissive
 - **prior art notes**: OpenVLA-OFT is the canonical Optimized Fine-Tuning recipe for VLA models (Stanford, Feb 2025). 15-month-deep prior art on: parallel action decoding for VLA, action chunking + continuous action representation + L1 regression objective combination. Direct shielding for any commercial humanoid VLA fine-tuning claim, particularly any claim on 'fast inference at high success' for humanoid VLAs. Outperforms π₀ on bimanual ALOHA — the canonical academic benchmark for bimanual humanoid manipulation.
+
+## Magma (Microsoft Multimodal Agent) (2025-02)
+
+- **id**: `microsoft-magma-cvpr-2025`
+- **corpus**: academic
+- **creator**: Microsoft Research; Jianwei Yang et al.
+- **disclosure**: Yang, J., et al. 'Magma: A Foundation Model for Multimodal AI Agents'. arXiv:2502.13130, February 2025. CVPR 2025. Microsoft Research.
+- **ip status**: open-permissive
+- **prior art notes**: Magma is Microsoft's canonical multimodal agent foundation model (CVPR 2025). 3-month-deep prior art for: unified digital + physical task foundation policy, Set-of-Mark + Trace-of-Mark visual grounding annotations. Direct shielding for any commercial humanoid claim on 'one model controls both robot manipulation AND computer/phone interaction' (a notable claim cluster from 1X NEO marketing and Sanctuary Phoenix demos). Magma-8B's open weights make it a re-implementable baseline that any commercial claim must outperform on UI + robot benchmarks to differentiate.
+
+## Figure Helix (2025-02)
+
+- **id**: `figure-helix-2025`
+- **corpus**: private
+- **creator**: Figure AI Inc.
+- **disclosure**: Figure AI Inc. 'Helix: A Vision-Language-Action Model for Generalist Humanoid Control'. Public reveal February 2025 via figure.ai/news/helix. Subsequent disclosures: 'Helix Accelerating Real-World Logistics' (figure.ai/news/helix-logistics) and Hacker News + Robot Report coverage. No academic publication; trade-secret commercial VLA.
+- **ip status**: trade-secret
+- **prior art notes**: Helix is Figure AI's canonical 2025 commercial humanoid VLA. Public-disclosure surface (corporate blog + demo videos + Hacker News + Robot Report coverage) reveals architecture (S1/S2 dual-system, 35-DoF/200Hz, ~500hr teleop training) but withholds neural-network specifics, training-data composition, fine-tuning recipe, and policy-evaluation metrics. The capability set claimed is fully covered by deep open academic prior art chains: (1) S1/S2 dual-system architecture is shared with NVIDIA GR00T N1 (round-15 entry, released within weeks; the cognitive-science S1/S2 pattern dates to Kahneman 'Thinking Fast and Slow' 2011); (2) high-rate continuous VLA control was demonstrated by π₀ (round-12, October 2024) and π₀.₅ (round-12, April 2025) in diffusion/flow-matching form; (3) onboard low-power VLA inference is anticipated by OpenVLA-OFT (round-12, parallel decoding + 26× throughput); (4) multi-robot collaboration is anticipated by ROS 2 (round-13, real-time multi-vehicle middleware) and the Mobile ALOHA / ACT bimanual lineage. Direct shielding for any Helix or Helix-derivative commercial-IP claim.
+
+## NVIDIA Isaac GR00T N1 (2025-03)
+
+- **id**: `nvidia-groot-n1-2025`
+- **corpus**: academic
+- **creator**: NVIDIA; multi-author research team
+- **disclosure**: NVIDIA. 'GR00T N1: An Open Foundation Model for Generalist Humanoid Robots'. arXiv:2503.14734, March 2025. NVIDIA GTC 2025 announcement. Open commercial license; open weights via HuggingFace nvidia/GR00T-N1-2B. Successor versions N1.6 (full-body) and N1.7 (Cosmos-Reason2 + EgoScale 20K-hour egocentric pre-training) released subsequently.
+- **ip status**: open-permissive
+- **prior art notes**: NVIDIA GR00T N1 is the canonical first open commercial-licensed humanoid foundation model (GTC March 2025). 2-month-deep open prior art for: dual-system S1/S2 humanoid VLA, egocentric-human-video pre-training at scale, NVIDIA Isaac platform integration. Direct architectural sibling of Figure Helix (round-15 entry). Both adopt the dual-system pattern from cognitive science. The N1.7 EgoScale 20K-hour pre-training corpus is itself prior art for any commercial humanoid claim on egocentric-video-trained policy datasets. Direct shielding for any commercial humanoid VLA claim.
 
 ## π₀.₅ (Pi-0.5) (2025-04)
 

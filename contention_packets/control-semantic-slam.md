@@ -1,7 +1,7 @@
 ---
 title: "control-semantic-slam"
 parent: "Invalidity Contentions"
-nav_order: 39
+nav_order: 44
 layout: default
 ---
 
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7337017`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `171053a`.*
