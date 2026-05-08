@@ -1,6 +1,6 @@
 # Corpus Index
 
-613 entries total. Generated from corpus.jsonl.
+617 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | Adversarial Motion Priors (AMP) | `amp-peng-siggraph-2021` | 2021 | academic | open-permissive |  |
 | Adversarial Skill Embeddings (ASE) | `ase-peng-stanford-2022` | 2022 | academic | open-permissive |  |
 | AgiBot A1 | `agibot-a1` | 2023 | private | patented | ✓ |
+| AgiBot X1 | `agibot-x1-2024` | 2024 | private | trade-secret | ✓ |
 | Akira (Tetsuo cyborg-mutation, Akira containment) | `akira-tetsuo-1988` | 1982 | fictional | fictional |  |
 | AlexNet | `alexnet-krizhevsky-nips-2012` | 2012 | academic | public-domain |  |
 | Alita / Gally (Battle Angel Alita / Gunnm) | `battle-angel-alita` | 1990 | fictional | fictional |  |
@@ -518,6 +519,7 @@
 | Sophia | `hanson-sophia` | 2016 | private | patented |  |
 | Sophia (Persona 5 Royal) | `persona-5-sophia` | 2019 | fictional | fictional |  |
 | Stanford JackRabbot 2 (JR-2) wheeled-arm research robot | `stanford-jr2-2018` | 2018 | academic | public-domain |  |
+| Stanford Pupper / Doggo open-source quadruped | `stanford-pupper-doggo-2019` | 2019 | academic | open-permissive |  |
 | STAR (Sprawl-Tuned Autonomous Robot) | `star-fearing-2013` | 2013 | academic | open-permissive |  |
 | Steins;Gate 0 Amadeus AI consciousness backup | `steins-gate-amadeus-2015` | 2015 | fictional | public-domain |  |
 | Stewart platform / Gough-Stewart parallel mechanism | `stewart-platform-gough-1965` | 1965 | academic | public-domain |  |
@@ -564,6 +566,7 @@
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
 | U-Net | `u-net-ronneberger-miccai-2015` | 2015 | academic | public-domain |  |
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |
+| UBTech Walker X | `ubtech-walker-x-2021` | 2021 | private | trade-secret |  |
 | UCT South Africa robotics cluster | `uct-south-africa-robotics-cluster` | 2005 | academic | open-permissive | ✓ |
 | Ultron | `ultron-marvel` | 1968 | fictional | fictional |  |
 | UnetStack underwater networking framework | `unetstack-subnero-2014` | 2014 | open | open-permissive |  |
@@ -607,6 +610,7 @@
 | Willow Garage PR1 | `willow-pr1` | 2008 | academic | open-permissive |  |
 | Wisse passive-dynamic walker thesis | `wisse-tu-delft-passive-walker-2004` | 2004 | academic | public-domain |  |
 | Word2Vec | `word2vec-mikolov-2013` | 2013 | academic | public-domain |  |
+| Xiaomi CyberOne | `xiaomi-cyberone-2022` | 2022 | private | trade-secret |  |
 | XPeng Iron | `xpeng-iron` | 2024 | private | patented | ✓ |
 | Yale OpenHand / ReFlex Hand | `yale-reflex-openhand-2014` | 2014 | academic | open-permissive |  |
 | YOLO (You Only Look Once) | `yolo-redmon-cvpr-2016` | 2015 | academic | public-domain |  |

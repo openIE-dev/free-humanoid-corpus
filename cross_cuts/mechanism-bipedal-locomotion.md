@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**154 corpus entries disclose this subsystem.**
+**157 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -1059,6 +1059,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Crocoddyl (Mastalli et al. ICRA 2020) is the canonical academic open-source framework for multi-contact differential-dynamic-programming-based optimal control of humanoid and legged systems. Anticipates with full source-level disclosure: (1) real-time MPC on full-body humanoid models with multiple contacts — directly relevant to commercial claims on whole-body humanoid MPC (Apptronik, Figure 02, Boston Dynamics electric Atlas all employ DDP/iLQR-class controllers downstream of this paradigm); (2) analytical rigid-body dynamics derivatives integrated with trajectory optimization (via Pinocchio, Carpentier 2019) — relevant to claims on differentiable-dynamics humanoid IP; (3) the multi-phase contact-schedule framework that handles humanoid double-support / single-support / manipulation transitions — relevant to claims on phase-aware humanoid MPC; (4) the FDDP feasibility-driven extension that handles infeasible warm-starts — anticipates claims on robust-warm-start humanoid trajectory optimization. BSD-3-Clause source release plus the ICRA 2020 paper (>500 citations by 2026) make this entry a deep prior art anchor for the humanoid MPC patent space.
 
+## UBTech Walker X (2021-07)
+
+- **id**: `ubtech-walker-x-2021`
+- **corpus**: private
+- **creator**: UBTech Robotics (Shenzhen, China)
+- **disclosure**: UBTech Robotics (Shenzhen, China). Walker X humanoid reveal July 2021. Successor variant to original Walker (corpus entry ubtech-walker). ubtrobot.com. UBTech IPO Hong Kong 2023.
+- **ip status**: trade-secret
+- **prior art notes**: UBTech Walker X (UBTech Shenzhen 2021+) is UBTech's adult-class successor humanoid. 4-year-deep public-disclosure prior art. Brings UBTech entries to 2 (with original ubtech-walker) tracking the multi-generation Chinese commercial humanoid lineage.
+
 ## Tesla Optimus (2021-08-19)
 
 - **id**: `tesla-optimus`
@@ -1085,6 +1094,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Chignoli, Matthew; Kim, Donghyun; Stanger-Jones, Elijah; Kim, Sangbae. 'The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors.' IEEE-RAS International Conference on Humanoid Robots (Humanoids 2020, virtual; presented November 2021), pp. 1-8. arXiv:2104.09025, April 2021.
 - **ip status**: public-domain
 - **prior art notes**: The MIT Humanoid (Chignoli-Kim et al. Humanoids 2020/arXiv 2021) is the canonical academic disclosure of dynamic whole-body humanoid locomotion using a quasi-direct-drive actuator topology with explicit actuator-dynamics-aware MPC, from the Sangbae Kim group (MIT Biomimetic Robotics Lab) that previously produced Mini Cheetah and Cheetah 3. Anticipates with element-by-element specificity: (1) QDD actuator topology extended from quadruped (Mini Cheetah, 2019) to humanoid biped — directly relevant to commercial claims on QDD humanoid IP (Berkeley Humanoid, Unitree H1/G1, Booster T1, much of the 2024-2026 humanoid wave employs QDD); (2) explicit actuator-dynamics-model integration into humanoid MPC (motor inertia, torque limits, current limits enter the OCP directly) — anticipates commercial claims on actuator-aware humanoid control; (3) acrobatic-capable lightweight (~24 kg) electric humanoid as a research platform — anticipates the lightweight-humanoid commercial form factor. The Sangbae Kim lineage (Cheetah 1/2/3 → Mini Cheetah → MIT Humanoid) is one of the deepest legged-robot academic chains and the MIT Humanoid arXiv preprint provides full design documentation. Modern QDD-humanoid IP filings face this 5-year-deep academic anchor.
+
+## Xiaomi CyberOne (2022-08)
+
+- **id**: `xiaomi-cyberone-2022`
+- **corpus**: private
+- **creator**: Xiaomi Corporation (Beijing, China)
+- **disclosure**: Xiaomi Corporation. CyberOne humanoid reveal August 11 2022 at Xiaomi annual product launch event, Beijing. mi.com. The first major consumer-electronics-company humanoid commercial platform from China.
+- **ip status**: trade-secret
+- **prior art notes**: Xiaomi CyberOne (Xiaomi Beijing August 2022) is the first major Chinese consumer-electronics-company humanoid. 3-year-deep public-disclosure prior art. The architectural predecessor of the Chinese commercial humanoid wave 2023-2026. Brings Chinese commercial humanoid corpus entries to 14+ specific platforms.
 
 ## M3GAN (2022-12-30)
 
@@ -1292,6 +1310,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Figure AI public reveal of Figure 02, August 2024.
 - **ip status**: patented
 - **prior art notes**: Figure 02 actuator and hand claims are heavily anticipated by Honda P-series, Robonaut 2, Shadow Hand, and iCub work. The 16-DoF hand is in the same design space as Robonaut 2's 12-DoF and Sanctuary's 21-DoF.
+
+## AgiBot X1 (2024-08)
+
+- **id**: `agibot-x1-2024`
+- **corpus**: private
+- **creator**: AgiBot (Shanghai, China; Zhihui Jun co-founder)
+- **disclosure**: AgiBot (Shanghai-based; founded 2023 by Zhihui Jun + colleagues). X1 humanoid product reveal August 2024 via agibot.com. Successor variant beyond A1 + A2 (corpus entries) in the AgiBot product evolution.
+- **ip status**: trade-secret
+- **prior art notes**: AgiBot X1 (AgiBot Shanghai 2024+) is AgiBot's adult-class successor humanoid. ~1-year-deep public-disclosure prior art. Brings AgiBot corpus entries to 2 (with agibot-a1) tracking the multi-generation product evolution. Together with Xiaomi CyberOne (round-39) + UBTech Walker X (round-39) + Unitree H1/G1/R1 + Astribot S1 + Galbot + Galaxea G1 + Booster K1/T1 + EngineAI PM01/SE01 + Kepler K2 + LimX CL-1, brings Chinese commercial humanoid corpus representation to 17+ specific platform entries.
 
 ## Robot Era STAR1 (2024-10)
 

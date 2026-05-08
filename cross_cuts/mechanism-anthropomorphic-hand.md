@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**133 corpus entries disclose this subsystem.**
+**135 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -987,6 +987,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Ishiguro's 'Klara and the Sun' (2021) is the canonical literary-fiction anchor for solar-powered child-companion AFs by a Nobel-laureate author. It anticipates with full specificity: (1) claims on solar-powered humanoid child-companion robots with continually-learning observation policies — Klara's solar dependence and observational learning are core to the novel; (2) claims on model-generation lineage with successive sensorimotor refinement (B1/B2/B3) — explicit market-segmentation language used; (3) claims on companion humanoids designed as 'continuation' substitutes for ill or deceased humans — the Josie subplot dramatizes exactly this proposed substitution. Published with hardcover ISBN and timestamped 2 March 2021 release; international literary distribution; Nobel-laureate author elevates evidentiary weight.
 
+## UBTech Walker X (2021-07)
+
+- **id**: `ubtech-walker-x-2021`
+- **corpus**: private
+- **creator**: UBTech Robotics (Shenzhen, China)
+- **disclosure**: UBTech Robotics (Shenzhen, China). Walker X humanoid reveal July 2021. Successor variant to original Walker (corpus entry ubtech-walker). ubtrobot.com. UBTech IPO Hong Kong 2023.
+- **ip status**: trade-secret
+- **prior art notes**: UBTech Walker X (UBTech Shenzhen 2021+) is UBTech's adult-class successor humanoid. 4-year-deep public-disclosure prior art. Brings UBTech entries to 2 (with original ubtech-walker) tracking the multi-generation Chinese commercial humanoid lineage.
+
 ## DexMV (Dexterous Manipulation from Videos) (2021-08)
 
 - **id**: `dexmv-qin-cvpr-2022`
@@ -1031,6 +1040,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Khatib, O., Brantner, G., Yeh, X., Salisbury, S. et al. 'OceanOneK: A 1000-meter-depth, bimanual underwater humanoid for archeology and marine exploration'. Science Robotics 2022 (announced July 2022). Subsequent IEEE RA-L publications detail control and pressure-hull innovations.
 - **ip status**: open-permissive
 - **prior art notes**: OceanOneK extends the OceanOne lineage to 1000 m depth and adds pressure-tolerant oil-filled-actuator art. Directly shields any commercial humanoid AUV claim on: deep-depth (>500 m) bimanual humanoid manipulation, pressure-tolerant joint actuation (no rigid pressure hull on appendages), and integration of Khatib's 38-year operational-space framework with deep underwater manipulation. A 3-year-deep open-academic prior art chain with full element-by-element technical disclosure.
+
+## Xiaomi CyberOne (2022-08)
+
+- **id**: `xiaomi-cyberone-2022`
+- **corpus**: private
+- **creator**: Xiaomi Corporation (Beijing, China)
+- **disclosure**: Xiaomi Corporation. CyberOne humanoid reveal August 11 2022 at Xiaomi annual product launch event, Beijing. mi.com. The first major consumer-electronics-company humanoid commercial platform from China.
+- **ip status**: trade-secret
+- **prior art notes**: Xiaomi CyberOne (Xiaomi Beijing August 2022) is the first major Chinese consumer-electronics-company humanoid. 3-year-deep public-disclosure prior art. The architectural predecessor of the Chinese commercial humanoid wave 2023-2026. Brings Chinese commercial humanoid corpus entries to 14+ specific platforms.
 
 ## M3GAN (2022-12-30)
 

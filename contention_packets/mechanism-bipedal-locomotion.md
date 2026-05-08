@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 154 (120 commons-grade, 34 draft)  
+**Entries:** 157 (122 commons-grade, 35 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2026-04
 
@@ -2374,6 +2374,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-07 — UBTech Walker X
+
+- **id:** `ubtech-walker-x-2021`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** UBTech Robotics (Shenzhen, China)
+- **disclosure citation:** UBTech Robotics (Shenzhen, China). Walker X humanoid reveal July 2021. Successor variant to original Walker (corpus entry ubtech-walker). ubtrobot.com. UBTech IPO Hong Kong 2023.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> UBTech Walker X (UBTech Shenzhen 2021+) is UBTech's adult-class successor humanoid. 4-year-deep public-disclosure prior art. Brings UBTech entries to 2 (with original ubtech-walker) tracking the multi-generation Chinese commercial humanoid lineage.
+
+**Sources:**
+
+1. UBTech corporate site (ubtrobot.com).
+2. UBTech July 2021 Walker X announcement.
+
+---
+
 ### 2021-08-19 — Tesla Optimus *(draft)*
 
 - **id:** `tesla-optimus`
@@ -2432,6 +2452,26 @@ cite, copy, or redistribute these contentions.
 1. Chignoli, M.; Kim, D.; Stanger-Jones, E.; Kim, S. 'The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors.' IEEE-RAS Humanoids 2020 (presented Nov 2021); arXiv:2104.09025.
 2. Katz, B.; Di Carlo, J.; Kim, S. 'Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control.' IEEE ICRA 2019 (lineage: QDD actuator).
 3. Wensing, P. et al. 'Proprioceptive actuator design in the MIT Cheetah: Impact mitigation and high-bandwidth physical interaction for dynamic legged robots.' IEEE T-RO 33(3), 2017.
+
+---
+
+### 2022-08 — Xiaomi CyberOne
+
+- **id:** `xiaomi-cyberone-2022`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Xiaomi Corporation (Beijing, China)
+- **disclosure citation:** Xiaomi Corporation. CyberOne humanoid reveal August 11 2022 at Xiaomi annual product launch event, Beijing. mi.com. The first major consumer-electronics-company humanoid commercial platform from China.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> Xiaomi CyberOne (Xiaomi Beijing August 2022) is the first major Chinese consumer-electronics-company humanoid. 3-year-deep public-disclosure prior art. The architectural predecessor of the Chinese commercial humanoid wave 2023-2026. Brings Chinese commercial humanoid corpus entries to 14+ specific platforms.
+
+**Sources:**
+
+1. Xiaomi annual product launch announcement August 11 2022.
+2. Wikipedia 'Xiaomi CyberOne'.
 
 ---
 
@@ -2895,6 +2935,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-08 — AgiBot X1 *(draft)*
+
+- **id:** `agibot-x1-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** AgiBot (Shanghai, China; Zhihui Jun co-founder)
+- **disclosure citation:** AgiBot (Shanghai-based; founded 2023 by Zhihui Jun + colleagues). X1 humanoid product reveal August 2024 via agibot.com. Successor variant beyond A1 + A2 (corpus entries) in the AgiBot product evolution.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `actuator-electric`
+
+**Prior art notes:**
+
+> AgiBot X1 (AgiBot Shanghai 2024+) is AgiBot's adult-class successor humanoid. ~1-year-deep public-disclosure prior art. Brings AgiBot corpus entries to 2 (with agibot-a1) tracking the multi-generation product evolution. Together with Xiaomi CyberOne (round-39) + UBTech Walker X (round-39) + Unitree H1/G1/R1 + Astribot S1 + Galbot + Galaxea G1 + Booster K1/T1 + EngineAI PM01/SE01 + Kepler K2 + LimX CL-1, brings Chinese commercial humanoid corpus representation to 17+ specific platform entries.
+
+**Sources:**
+
+1. AgiBot corporate site (agibot.com).
+
+---
+
 ### 2024-10 — Robot Era STAR1 *(draft)*
 
 - **id:** `robot-era-star1`
@@ -3173,4 +3232,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4846ab1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf3c8f5`.*

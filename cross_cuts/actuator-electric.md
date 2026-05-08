@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**29 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -159,6 +159,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Sarcos Guardian XO is the canonical 2018+ all-electric full-body industrial exoskeleton. 7-year-deep public-disclosure prior art for: 24-DoF whole-body industrial exoskeleton, all-electric (vs. hydraulic) heavy-lift exoskeleton. Architecturally extends Berkeley BLEEX (round-19) from lower-extremity-only to whole-body. Direct shielding for any commercial humanoid claim on full-body load-handling robotics — particularly for industrial-deployment commercial humanoid claims (Apptronik Apollo, Figure, Optimus all market industrial heavy-lift) which face 7-year-deep Sarcos commercial prior art.
 
+## Stanford Pupper / Doggo open-source quadruped (2019-04)
+
+- **id**: `stanford-pupper-doggo-2019`
+- **corpus**: academic
+- **creator**: Stanford Student Robotics; Nathan Kau, Aaron Schultz et al.
+- **disclosure**: Stanford Student Robotics. Stanford Doggo open-source quadruped reveal April 2019. Subsequent: Stanford Pupper (smaller variant). stanfordstudentrobotics.org / hands-on-robotics.stanford.edu. Open-hardware design under MIT license.
+- **ip status**: open-permissive
+- **prior art notes**: Stanford Pupper / Doggo (Stanford Student Robotics 2019+) is the canonical Stanford educational open-source quadruped. 6-year-deep open-permissive prior art. The Stanford academic counterpart to Unitree Go1/Go2 (corpus) for educational quadruped robotics. Direct shielding for any commercial quadruped claim deriving from low-cost open-hardware educational platforms.
+
 ## FANUC CRX collaborative robot family (2019-09)
 
 - **id**: `fanuc-crx-collaborative-2019`
@@ -177,6 +186,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Hello Robot Stretch is the canonical sub-\$25k educational mobile manipulator (2020). 5-year-deep public-disclosure prior art with 100+ academic publications using Stretch as the deployment platform. Direct shielding for any commercial mobile-manipulator claim at the educational price point or with the telescoping-mast architectural pattern. Notably **the Berkeley LEGS round-15 entry deployed on Stretch** — the round-15 entry's prior_art_notes implicitly reference Stretch as the platform; round-17 now resolves that reference. Architecturally distinct from humanoid-form mobile manipulators (Apptronik, Figure, Optimus): Stretch is single-arm + mast + wheels, not bipedal + bimanual.
 
+## UBTech Walker X (2021-07)
+
+- **id**: `ubtech-walker-x-2021`
+- **corpus**: private
+- **creator**: UBTech Robotics (Shenzhen, China)
+- **disclosure**: UBTech Robotics (Shenzhen, China). Walker X humanoid reveal July 2021. Successor variant to original Walker (corpus entry ubtech-walker). ubtrobot.com. UBTech IPO Hong Kong 2023.
+- **ip status**: trade-secret
+- **prior art notes**: UBTech Walker X (UBTech Shenzhen 2021+) is UBTech's adult-class successor humanoid. 4-year-deep public-disclosure prior art. Brings UBTech entries to 2 (with original ubtech-walker) tracking the multi-generation Chinese commercial humanoid lineage.
+
 ## Boston Dynamics Stretch (warehouse robot) (2022-01)
 
 - **id**: `boston-dynamics-stretch-warehouse-2022`
@@ -185,6 +203,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics. Stretch warehouse robot commercial reveal January 2022 via boston-dynamics.com. Distinct from Hello Robot Stretch (corpus entry hello-robot-stretch-2020). DHL Supply Chain partnership announced 2022 for case-handling deployment.
 - **ip status**: trade-secret
 - **prior art notes**: Boston Dynamics Stretch (BD warehouse robot, 2022+) is a canonical industrial warehouse case-handling robot. 3-year-deep public-disclosure prior art. **Distinct from Hello Robot Stretch (round-17 entry hello-robot-stretch-2020)** — BD Stretch is industrial warehouse-deployment focused, Hello Robot Stretch is educational mobile-manipulator focused. Both use telescoping form factors. Direct shielding for any commercial humanoid claim on warehouse case-handling derivative applications.
+
+## Xiaomi CyberOne (2022-08)
+
+- **id**: `xiaomi-cyberone-2022`
+- **corpus**: private
+- **creator**: Xiaomi Corporation (Beijing, China)
+- **disclosure**: Xiaomi Corporation. CyberOne humanoid reveal August 11 2022 at Xiaomi annual product launch event, Beijing. mi.com. The first major consumer-electronics-company humanoid commercial platform from China.
+- **ip status**: trade-secret
+- **prior art notes**: Xiaomi CyberOne (Xiaomi Beijing August 2022) is the first major Chinese consumer-electronics-company humanoid. 3-year-deep public-disclosure prior art. The architectural predecessor of the Chinese commercial humanoid wave 2023-2026. Brings Chinese commercial humanoid corpus entries to 14+ specific platforms.
 
 ## Astribot S1 (2024-04)
 
@@ -212,6 +239,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sanctuary AI (Vancouver, Canada). Phoenix Generation 7 reveal April 2024 via sanctuary.ai. Successor to Phoenix Gen 6 (corpus entry sanctuary-phoenix-gen6) + original Phoenix (corpus entry sanctuary-phoenix). Carbon-fiber chassis variant.
 - **ip status**: trade-secret
 - **prior art notes**: Sanctuary AI Phoenix Carbon / Gen 7 is the latest in the Sanctuary humanoid lineage (Vancouver, 2024+). 1.5-year-deep public-disclosure prior art. Successor to Phoenix Gen 6 (corpus). Brings Sanctuary Phoenix family to 3 corpus entries spanning the lineage.
+
+## AgiBot X1 (2024-08)
+
+- **id**: `agibot-x1-2024`
+- **corpus**: private
+- **creator**: AgiBot (Shanghai, China; Zhihui Jun co-founder)
+- **disclosure**: AgiBot (Shanghai-based; founded 2023 by Zhihui Jun + colleagues). X1 humanoid product reveal August 2024 via agibot.com. Successor variant beyond A1 + A2 (corpus entries) in the AgiBot product evolution.
+- **ip status**: trade-secret
+- **prior art notes**: AgiBot X1 (AgiBot Shanghai 2024+) is AgiBot's adult-class successor humanoid. ~1-year-deep public-disclosure prior art. Brings AgiBot corpus entries to 2 (with agibot-a1) tracking the multi-generation product evolution. Together with Xiaomi CyberOne (round-39) + UBTech Walker X (round-39) + Unitree H1/G1/R1 + Astribot S1 + Galbot + Galaxea G1 + Booster K1/T1 + EngineAI PM01/SE01 + Kepler K2 + LimX CL-1, brings Chinese commercial humanoid corpus representation to 17+ specific platform entries.
 
 ## Galbot (2024-09)
 

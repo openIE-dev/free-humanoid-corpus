@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-quadrupedal-locomotion`  
-**Entries:** 24 (20 commons-grade, 4 draft)  
+**Entries:** 25 (21 commons-grade, 4 draft)  
 **Earliest disclosure:** 1968-09-27  
 **Most recent disclosure:** 2024-09
 
@@ -424,6 +424,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-04 — Stanford Pupper / Doggo open-source quadruped
+
+- **id:** `stanford-pupper-doggo-2019`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford Student Robotics; Nathan Kau, Aaron Schultz et al.
+- **disclosure citation:** Stanford Student Robotics. Stanford Doggo open-source quadruped reveal April 2019. Subsequent: Stanford Pupper (smaller variant). stanfordstudentrobotics.org / hands-on-robotics.stanford.edu. Open-hardware design under MIT license.
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `actuator-electric`, `mechanism-3d-printed-platform`
+
+**Prior art notes:**
+
+> Stanford Pupper / Doggo (Stanford Student Robotics 2019+) is the canonical Stanford educational open-source quadruped. 6-year-deep open-permissive prior art. The Stanford academic counterpart to Unitree Go1/Go2 (corpus) for educational quadruped robotics. Direct shielding for any commercial quadruped claim deriving from low-cost open-hardware educational platforms.
+
+**Sources:**
+
+1. Stanford Student Robotics (stanfordstudentrobotics.org).
+2. Hands-on-Robotics Stanford (hands-on-robotics.stanford.edu).
+3. GitHub: github.com/Nate711/StanfordDoggoProject.
+
+---
+
 ### 2020 — Boston Dynamics Spot (fuel-cell variant) *(draft)*
 
 - **id:** `spot-fuel-cell`
@@ -554,4 +575,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4846ab1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf3c8f5`.*

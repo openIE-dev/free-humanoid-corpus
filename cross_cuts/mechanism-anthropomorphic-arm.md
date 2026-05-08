@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-arm`
 
-**22 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1998-01
 
@@ -150,6 +150,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Memic Hominis (FDA De Novo March 2021) is a canonical anthropomorphic-arm-kinematics surgical robotic system. 4-year-deep public-disclosure prior art for: humanoid-style (shoulder+elbow+wrist) surgical-arm kinematics, natural-orifice robotic surgery. Direct shielding for any commercial humanoid claim on anthropomorphic-arm-derivative surgical applications or natural-orifice manipulation. Together with da Vinci and Vicarious Surgical, establishes a 25-year commercial robotic-surgery prior-art chain that anticipates humanoid-form manipulator architectures from a different industrial vertical.
 
+## UBTech Walker X (2021-07)
+
+- **id**: `ubtech-walker-x-2021`
+- **corpus**: private
+- **creator**: UBTech Robotics (Shenzhen, China)
+- **disclosure**: UBTech Robotics (Shenzhen, China). Walker X humanoid reveal July 2021. Successor variant to original Walker (corpus entry ubtech-walker). ubtrobot.com. UBTech IPO Hong Kong 2023.
+- **ip status**: trade-secret
+- **prior art notes**: UBTech Walker X (UBTech Shenzhen 2021+) is UBTech's adult-class successor humanoid. 4-year-deep public-disclosure prior art. Brings UBTech entries to 2 (with original ubtech-walker) tracking the multi-generation Chinese commercial humanoid lineage.
+
 ## OceanOneK (2022-07)
 
 - **id**: `ocean-onek-stanford-2022`
@@ -158,6 +167,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Khatib, O., Brantner, G., Yeh, X., Salisbury, S. et al. 'OceanOneK: A 1000-meter-depth, bimanual underwater humanoid for archeology and marine exploration'. Science Robotics 2022 (announced July 2022). Subsequent IEEE RA-L publications detail control and pressure-hull innovations.
 - **ip status**: open-permissive
 - **prior art notes**: OceanOneK extends the OceanOne lineage to 1000 m depth and adds pressure-tolerant oil-filled-actuator art. Directly shields any commercial humanoid AUV claim on: deep-depth (>500 m) bimanual humanoid manipulation, pressure-tolerant joint actuation (no rigid pressure hull on appendages), and integration of Khatib's 38-year operational-space framework with deep underwater manipulation. A 3-year-deep open-academic prior art chain with full element-by-element technical disclosure.
+
+## Xiaomi CyberOne (2022-08)
+
+- **id**: `xiaomi-cyberone-2022`
+- **corpus**: private
+- **creator**: Xiaomi Corporation (Beijing, China)
+- **disclosure**: Xiaomi Corporation. CyberOne humanoid reveal August 11 2022 at Xiaomi annual product launch event, Beijing. mi.com. The first major consumer-electronics-company humanoid commercial platform from China.
+- **ip status**: trade-secret
+- **prior art notes**: Xiaomi CyberOne (Xiaomi Beijing August 2022) is the first major Chinese consumer-electronics-company humanoid. 3-year-deep public-disclosure prior art. The architectural predecessor of the Chinese commercial humanoid wave 2023-2026. Brings Chinese commercial humanoid corpus entries to 14+ specific platforms.
 
 ## Fourier GR1 (2024-01)
 
@@ -185,6 +203,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sanctuary AI (Vancouver, Canada). Phoenix Generation 7 reveal April 2024 via sanctuary.ai. Successor to Phoenix Gen 6 (corpus entry sanctuary-phoenix-gen6) + original Phoenix (corpus entry sanctuary-phoenix). Carbon-fiber chassis variant.
 - **ip status**: trade-secret
 - **prior art notes**: Sanctuary AI Phoenix Carbon / Gen 7 is the latest in the Sanctuary humanoid lineage (Vancouver, 2024+). 1.5-year-deep public-disclosure prior art. Successor to Phoenix Gen 6 (corpus). Brings Sanctuary Phoenix family to 3 corpus entries spanning the lineage.
+
+## AgiBot X1 (2024-08)
+
+- **id**: `agibot-x1-2024`
+- **corpus**: private
+- **creator**: AgiBot (Shanghai, China; Zhihui Jun co-founder)
+- **disclosure**: AgiBot (Shanghai-based; founded 2023 by Zhihui Jun + colleagues). X1 humanoid product reveal August 2024 via agibot.com. Successor variant beyond A1 + A2 (corpus entries) in the AgiBot product evolution.
+- **ip status**: trade-secret
+- **prior art notes**: AgiBot X1 (AgiBot Shanghai 2024+) is AgiBot's adult-class successor humanoid. ~1-year-deep public-disclosure prior art. Brings AgiBot corpus entries to 2 (with agibot-a1) tracking the multi-generation product evolution. Together with Xiaomi CyberOne (round-39) + UBTech Walker X (round-39) + Unitree H1/G1/R1 + Astribot S1 + Galbot + Galaxea G1 + Booster K1/T1 + EngineAI PM01/SE01 + Kepler K2 + LimX CL-1, brings Chinese commercial humanoid corpus representation to 17+ specific platform entries.
 
 ## Galbot (2024-09)
 

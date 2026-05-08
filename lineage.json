@@ -3927,7 +3927,9 @@
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "ubtech-walker-x-2021"
+      ]
     },
     {
       "id": "skydio-r1-2018",
@@ -4192,6 +4194,14 @@
       "descendants": [
         "fair-habitat-3-puig-2024"
       ]
+    },
+    {
+      "id": "stanford-pupper-doggo-2019",
+      "name": "Stanford Pupper / Doggo open-source quadruped",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "caltech-hank-cast-2019",
@@ -4543,6 +4553,16 @@
       "descendants": []
     },
     {
+      "id": "ubtech-walker-x-2021",
+      "name": "UBTech Walker X",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "ubtech-walker"
+      ],
+      "descendants": []
+    },
+    {
       "id": "dexmv-qin-cvpr-2022",
       "name": "DexMV (Dexterous Manipulation from Videos)",
       "year": "2021",
@@ -4792,6 +4812,14 @@
       "name": "OceanOneK",
       "year": "2022",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "xiaomi-cyberone-2022",
+      "name": "Xiaomi CyberOne",
+      "year": "2022",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -5088,7 +5116,9 @@
         "asimo",
         "mini-cheetah"
       ],
-      "descendants": []
+      "descendants": [
+        "agibot-x1-2024"
+      ]
     },
     {
       "id": "apptronik-apollo",
@@ -5753,6 +5783,16 @@
       "year": "2024",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "agibot-x1-2024",
+      "name": "AgiBot X1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "agibot-a1"
+      ],
       "descendants": []
     },
     {

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 29 (23 commons-grade, 6 draft)  
+**Entries:** 33 (26 commons-grade, 7 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2025-10
 
@@ -372,6 +372,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-04 — Stanford Pupper / Doggo open-source quadruped
+
+- **id:** `stanford-pupper-doggo-2019`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford Student Robotics; Nathan Kau, Aaron Schultz et al.
+- **disclosure citation:** Stanford Student Robotics. Stanford Doggo open-source quadruped reveal April 2019. Subsequent: Stanford Pupper (smaller variant). stanfordstudentrobotics.org / hands-on-robotics.stanford.edu. Open-hardware design under MIT license.
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `actuator-electric`, `mechanism-3d-printed-platform`
+
+**Prior art notes:**
+
+> Stanford Pupper / Doggo (Stanford Student Robotics 2019+) is the canonical Stanford educational open-source quadruped. 6-year-deep open-permissive prior art. The Stanford academic counterpart to Unitree Go1/Go2 (corpus) for educational quadruped robotics. Direct shielding for any commercial quadruped claim deriving from low-cost open-hardware educational platforms.
+
+**Sources:**
+
+1. Stanford Student Robotics (stanfordstudentrobotics.org).
+2. Hands-on-Robotics Stanford (hands-on-robotics.stanford.edu).
+3. GitHub: github.com/Nate711/StanfordDoggoProject.
+
+---
+
 ### 2019-09 — FANUC CRX collaborative robot family
 
 - **id:** `fanuc-crx-collaborative-2019`
@@ -412,6 +433,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-07 — UBTech Walker X
+
+- **id:** `ubtech-walker-x-2021`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** UBTech Robotics (Shenzhen, China)
+- **disclosure citation:** UBTech Robotics (Shenzhen, China). Walker X humanoid reveal July 2021. Successor variant to original Walker (corpus entry ubtech-walker). ubtrobot.com. UBTech IPO Hong Kong 2023.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> UBTech Walker X (UBTech Shenzhen 2021+) is UBTech's adult-class successor humanoid. 4-year-deep public-disclosure prior art. Brings UBTech entries to 2 (with original ubtech-walker) tracking the multi-generation Chinese commercial humanoid lineage.
+
+**Sources:**
+
+1. UBTech corporate site (ubtrobot.com).
+2. UBTech July 2021 Walker X announcement.
+
+---
+
 ### 2022-01 — Boston Dynamics Stretch (warehouse robot)
 
 - **id:** `boston-dynamics-stretch-warehouse-2022`
@@ -429,6 +470,26 @@ cite, copy, or redistribute these contentions.
 
 1. Boston Dynamics Stretch product page (bostondynamics.com/products/stretch).
 2. DHL Supply Chain announcement 2022.
+
+---
+
+### 2022-08 — Xiaomi CyberOne
+
+- **id:** `xiaomi-cyberone-2022`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Xiaomi Corporation (Beijing, China)
+- **disclosure citation:** Xiaomi Corporation. CyberOne humanoid reveal August 11 2022 at Xiaomi annual product launch event, Beijing. mi.com. The first major consumer-electronics-company humanoid commercial platform from China.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> Xiaomi CyberOne (Xiaomi Beijing August 2022) is the first major Chinese consumer-electronics-company humanoid. 3-year-deep public-disclosure prior art. The architectural predecessor of the Chinese commercial humanoid wave 2023-2026. Brings Chinese commercial humanoid corpus entries to 14+ specific platforms.
+
+**Sources:**
+
+1. Xiaomi annual product launch announcement August 11 2022.
+2. Wikipedia 'Xiaomi CyberOne'.
 
 ---
 
@@ -491,6 +552,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Sanctuary AI corporate site (sanctuary.ai).
+
+---
+
+### 2024-08 — AgiBot X1 *(draft)*
+
+- **id:** `agibot-x1-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** AgiBot (Shanghai, China; Zhihui Jun co-founder)
+- **disclosure citation:** AgiBot (Shanghai-based; founded 2023 by Zhihui Jun + colleagues). X1 humanoid product reveal August 2024 via agibot.com. Successor variant beyond A1 + A2 (corpus entries) in the AgiBot product evolution.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `actuator-electric`
+
+**Prior art notes:**
+
+> AgiBot X1 (AgiBot Shanghai 2024+) is AgiBot's adult-class successor humanoid. ~1-year-deep public-disclosure prior art. Brings AgiBot corpus entries to 2 (with agibot-a1) tracking the multi-generation product evolution. Together with Xiaomi CyberOne (round-39) + UBTech Walker X (round-39) + Unitree H1/G1/R1 + Astribot S1 + Galbot + Galaxea G1 + Booster K1/T1 + EngineAI PM01/SE01 + Kepler K2 + LimX CL-1, brings Chinese commercial humanoid corpus representation to 17+ specific platform entries.
+
+**Sources:**
+
+1. AgiBot corporate site (agibot.com).
 
 ---
 
@@ -669,4 +749,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4846ab1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf3c8f5`.*

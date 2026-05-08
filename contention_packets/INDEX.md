@@ -10,7 +10,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Packets:** 180  
-**Corpus revision:** `4846ab1`
+**Corpus revision:** `bf3c8f5`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -30,7 +30,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-biological`](actuator-biological.md) | 13 | 12 | 1 | 1973-11-21 | 2020-01-23 |
 | [`actuator-bldc-controller`](actuator-bldc-controller.md) | 11 | 11 | 0 | 1929-07 | 2022 |
 | [`actuator-compliant`](actuator-compliant.md) | 3 | 3 | 0 | 1957-01 | 2017-04 |
-| [`actuator-electric`](actuator-electric.md) | 29 | 23 | 6 | 1956-01 | 2025-10 |
+| [`actuator-electric`](actuator-electric.md) | 33 | 26 | 7 | 1956-01 | 2025-10 |
 | [`actuator-electric-cycloidal`](actuator-electric-cycloidal.md) | 5 | 2 | 3 | 1937 | 2025-04 |
 | [`actuator-electric-direct-drive`](actuator-electric-direct-drive.md) | 69 | 51 | 18 | 1886 | 2024-11 |
 | [`actuator-electric-harmonic-drive`](actuator-electric-harmonic-drive.md) | 22 | 19 | 3 | 1986 | 2025-10 |
@@ -142,12 +142,12 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-whole-body-qp`](control-whole-body-qp.md) | 3 | 3 | 0 | 2003-09 | 2017-09 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 25 | 24 | 1 | 1969 | 2023-08 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |
-| [`mechanism-3d-printed-platform`](mechanism-3d-printed-platform.md) | 3 | 3 | 0 | 2025-02 | 2026-01 |
+| [`mechanism-3d-printed-platform`](mechanism-3d-printed-platform.md) | 4 | 4 | 0 | 2019-04 | 2026-01 |
 | [`mechanism-aerial-thruster`](mechanism-aerial-thruster.md) | 4 | 2 | 2 | 2010-01 | 2021-07 |
 | [`mechanism-antagonistic-tendon`](mechanism-antagonistic-tendon.md) | 2 | 2 | 0 | 2024-06 | 2025-10 |
-| [`mechanism-anthropomorphic-arm`](mechanism-anthropomorphic-arm.md) | 22 | 17 | 5 | 1998-01 | 2025-02 |
-| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 133 | 109 | 24 | 1495 | 2026-04 |
-| [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 154 | 120 | 34 | -0250 | 2026-04 |
+| [`mechanism-anthropomorphic-arm`](mechanism-anthropomorphic-arm.md) | 25 | 19 | 6 | 1998-01 | 2025-02 |
+| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 135 | 111 | 24 | 1495 | 2026-04 |
+| [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 157 | 122 | 35 | -0250 | 2026-04 |
 | [`mechanism-catheter-robot`](mechanism-catheter-robot.md) | 2 | 2 | 0 | 2007-08 | 2012-07 |
 | [`mechanism-collaborative-robot`](mechanism-collaborative-robot.md) | 5 | 4 | 1 | 1956-01 | 2019-09 |
 | [`mechanism-control-fin`](mechanism-control-fin.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
@@ -162,7 +162,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-pitch-roll-trim`](mechanism-pitch-roll-trim.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
 | [`mechanism-pressure-hull`](mechanism-pressure-hull.md) | 7 | 6 | 1 | 1964-06 | 2018-04 |
 | [`mechanism-quadcopter`](mechanism-quadcopter.md) | 3 | 3 | 0 | 2010-01 | 2018-02 |
-| [`mechanism-quadrupedal-locomotion`](mechanism-quadrupedal-locomotion.md) | 24 | 20 | 4 | 1968-09-27 | 2024-09 |
+| [`mechanism-quadrupedal-locomotion`](mechanism-quadrupedal-locomotion.md) | 25 | 21 | 4 | 1968-09-27 | 2024-09 |
 | [`mechanism-reconfigurable`](mechanism-reconfigurable.md) | 6 | 2 | 4 | 2018-05 | 2026-01 |
 | [`mechanism-soft-robotics`](mechanism-soft-robotics.md) | 3 | 1 | 2 | 2000-01 | 2014-09 |
 | [`mechanism-sprawl-tunable`](mechanism-sprawl-tunable.md) | 6 | 3 | 3 | 2013-05 | 2026-01 |

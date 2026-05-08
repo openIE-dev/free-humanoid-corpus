@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-quadrupedal-locomotion`
 
-**24 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1968-09-27
 
@@ -185,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hwangbo, Jemin, Lee, Joonho, Dosovitskiy, Alexey, Bellicoso, Dario, Tsounis, Vassilios, Koltun, Vladlen, Hutter, Marco. 'Learning agile and dynamic motor skills for legged robots.' Science Robotics 4(26): eaau5872, January 16, 2019.
 - **ip status**: open-permissive
 - **prior art notes**: Hwangbo et al. 2019 is the foundational academic disclosure of practical RL-based sim-to-real legged locomotion. Anticipates with full architectural specificity: (1) actuator-network-based high-fidelity simulation (neural network as drop-in actuator dynamics) — directly relevant to claims on humanoid sim-to-real pipelines (Berkeley Humanoid, Apptronik Apollo, Tesla Optimus all use derivatives); (2) zero-shot policy transfer from RL-in-sim to legged hardware — anticipates virtually every modern legged-RL-policy patent; (3) recovery from arbitrary falls via single learned policy — relevant to fall-recovery IP for humanoids. Published in Science Robotics; one of the most-cited robotics RL papers (>2000 citations). Modern humanoid sim-to-real claims face this 7-year-deep anchor with full peer-review defensibility.
+
+## Stanford Pupper / Doggo open-source quadruped (2019-04)
+
+- **id**: `stanford-pupper-doggo-2019`
+- **corpus**: academic
+- **creator**: Stanford Student Robotics; Nathan Kau, Aaron Schultz et al.
+- **disclosure**: Stanford Student Robotics. Stanford Doggo open-source quadruped reveal April 2019. Subsequent: Stanford Pupper (smaller variant). stanfordstudentrobotics.org / hands-on-robotics.stanford.edu. Open-hardware design under MIT license.
+- **ip status**: open-permissive
+- **prior art notes**: Stanford Pupper / Doggo (Stanford Student Robotics 2019+) is the canonical Stanford educational open-source quadruped. 6-year-deep open-permissive prior art. The Stanford academic counterpart to Unitree Go1/Go2 (corpus) for educational quadruped robotics. Direct shielding for any commercial quadruped claim deriving from low-cost open-hardware educational platforms.
 
 ## Boston Dynamics Spot (fuel-cell variant) (2020)
 

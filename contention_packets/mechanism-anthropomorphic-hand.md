@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 133 (109 commons-grade, 24 draft)  
+**Entries:** 135 (111 commons-grade, 24 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2026-04
 
@@ -2226,6 +2226,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-07 — UBTech Walker X
+
+- **id:** `ubtech-walker-x-2021`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** UBTech Robotics (Shenzhen, China)
+- **disclosure citation:** UBTech Robotics (Shenzhen, China). Walker X humanoid reveal July 2021. Successor variant to original Walker (corpus entry ubtech-walker). ubtrobot.com. UBTech IPO Hong Kong 2023.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> UBTech Walker X (UBTech Shenzhen 2021+) is UBTech's adult-class successor humanoid. 4-year-deep public-disclosure prior art. Brings UBTech entries to 2 (with original ubtech-walker) tracking the multi-generation Chinese commercial humanoid lineage.
+
+**Sources:**
+
+1. UBTech corporate site (ubtrobot.com).
+2. UBTech July 2021 Walker X announcement.
+
+---
+
 ### 2021-08 — DexMV (Dexterous Manipulation from Videos)
 
 - **id:** `dexmv-qin-cvpr-2022`
@@ -2322,6 +2342,26 @@ cite, copy, or redistribute these contentions.
 1. Khatib et al. Science Robotics 2022.
 2. Stanford Robotics Lab 'OceanOneK' project page (cs.stanford.edu/groups/manips/ocean-one-k/).
 3. BBC, Le Monde, IEEE Spectrum coverage of Mediterranean shipwreck operations 2022-2023.
+
+---
+
+### 2022-08 — Xiaomi CyberOne
+
+- **id:** `xiaomi-cyberone-2022`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Xiaomi Corporation (Beijing, China)
+- **disclosure citation:** Xiaomi Corporation. CyberOne humanoid reveal August 11 2022 at Xiaomi annual product launch event, Beijing. mi.com. The first major consumer-electronics-company humanoid commercial platform from China.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> Xiaomi CyberOne (Xiaomi Beijing August 2022) is the first major Chinese consumer-electronics-company humanoid. 3-year-deep public-disclosure prior art. The architectural predecessor of the Chinese commercial humanoid wave 2023-2026. Brings Chinese commercial humanoid corpus entries to 14+ specific platforms.
+
+**Sources:**
+
+1. Xiaomi annual product launch announcement August 11 2022.
+2. Wikipedia 'Xiaomi CyberOne'.
 
 ---
 
@@ -2757,4 +2797,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4846ab1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf3c8f5`.*

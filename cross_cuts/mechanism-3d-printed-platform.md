@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-3d-printed-platform`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2025-02
+Earliest disclosure: 2019-04
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Stanford Pupper / Doggo open-source quadruped (2019-04)
+
+- **id**: `stanford-pupper-doggo-2019`
+- **corpus**: academic
+- **creator**: Stanford Student Robotics; Nathan Kau, Aaron Schultz et al.
+- **disclosure**: Stanford Student Robotics. Stanford Doggo open-source quadruped reveal April 2019. Subsequent: Stanford Pupper (smaller variant). stanfordstudentrobotics.org / hands-on-robotics.stanford.edu. Open-hardware design under MIT license.
+- **ip status**: open-permissive
+- **prior art notes**: Stanford Pupper / Doggo (Stanford Student Robotics 2019+) is the canonical Stanford educational open-source quadruped. 6-year-deep open-permissive prior art. The Stanford academic counterpart to Unitree Go1/Go2 (corpus) for educational quadruped robotics. Direct shielding for any commercial quadruped claim deriving from low-cost open-hardware educational platforms.
 
 ## ToddlerBot (2025-02)
 
