@@ -1,6 +1,6 @@
 # Corpus Index
 
-426 entries total. Generated from corpus.jsonl.
+436 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | B1 Battle Droid | `b1-battle-droid` | 1999 | fictional | fictional |  |
 | Baymax | `baymax-big-hero-6` | 2014 | fictional | fictional |  |
 | BB-8 | `bb-8-star-wars` | 2015 | fictional | fictional |  |
+| Berkeley BLEEX (Lower Extremity Exoskeleton) | `berkeley-bleex-kazerooni-2004` | 2004 | academic | public-domain |  |
 | Berkeley Humanoid | `berkeley-humanoid` | 2024 | academic | open-permissive |  |
 | Berkeley Humanoid | `berkeley-humanoid-2024` | 2024 | academic | open-permissive |  |
 | Berkeley Humanoid Lite | `berkeley-humanoid-lite-2025` | 2025 | academic | open-permissive |  |
@@ -78,6 +79,7 @@
 | CLIP (Contrastive Language-Image Pretraining) | `radford-clip-2021` | 2021 | academic | open-permissive |  |
 | CMU HERB (Home Exploring Robotic Butler) | `cmu-herb-srinivasa-2012` | 2012 | academic | public-domain |  |
 | CMU Personal Robotics Lab Andy / HERB-2 follow-on platform | `cmu-andy-herb2-srinivasa-2014` | 2014 | academic | public-domain |  |
+| Collins-Ruina-Tedrake-Wisse passive-dynamic walker | `collins-ruina-tedrake-wisse-passive-walker-2005` | 2005 | academic | public-domain |  |
 | Contact-Invariant Optimization (Mordatch CIO) | `mordatch-cio-2012` | 2012 | academic | public-domain |  |
 | Control Barrier Functions | `control-barrier-functions` | 2007 | academic | public-domain |  |
 | Cornell Universal Jamming Gripper | `cornell-jamming-gripper` | 2010 | academic | open-permissive |  |
@@ -86,6 +88,7 @@
 | Crazyflie | `crazyflie` | 2013 | open | open-permissive |  |
 | Crocoddyl | `mastalli-crocoddyl-2020` | 2020 | academic | open-permissive |  |
 | Culture Drones | `banks-culture-drones` | 1987 | fictional | fictional |  |
+| Cyberdyne HAL (Hybrid Assistive Limb) | `cyberdyne-hal-sankai-2004` | 2004 | private | trade-secret |  |
 | Cybermen | `cybermen` | 1966 | fictional | fictional |  |
 | Cyberware (Cyberpunk 2077) | `cyberpunk-2077-cyborgs` | 2020 | fictional | fictional |  |
 | Cyborg (Vic Stone) | `cyborg-vic-stone-dc` | 1980 | fictional | fictional |  |
@@ -106,6 +109,7 @@
 | Digit | `agility-digit` | 2019 | private | patented |  |
 | DIGIT | `digit-meta` | 2020 | academic | open-permissive |  |
 | DIGIT (Meta tactile sensor) | `meta-digit-tactile-2020` | 2020 | academic | open-permissive |  |
+| DIGIT 360 (Meta) | `meta-digit-360-2024` | 2024 | academic | open-permissive | ✓ |
 | Diligent Moxi | `diligent-moxi` | 2019 | private | patented |  |
 | DINOv2 | `dinov2-oquab-2023` | 2023 | academic | open-permissive |  |
 | DLR Hand-Arm System | `dlr-hand-arm-system-2011` | 2011 | academic | public-domain |  |
@@ -124,6 +128,7 @@
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
 | Educational SoftHand-A | `educational-softhand-a-2025` | 2025 | academic | open-permissive |  |
 | EngineAI PM01 | `engineai-pm01` | 2024 | private | patented | ✓ |
+| EngineAI SE01 | `engineai-se01-2025` | 2025 | private | trade-secret | ✓ |
 | Ergo Proxy (Autoreivs and Proxies) | `ergo-proxy-2006` | 2006 | fictional | fictional |  |
 | Eureka LLM-driven reward design | `eureka-ma-2023` | 2023 | academic | public-domain |  |
 | Evangelion (EVA Unit-01) | `evangelion` | 1995 | fictional | fictional | ✓ |
@@ -145,6 +150,7 @@
 | Gato (DeepMind generalist agent) | `gato-deepmind` | 2022 | academic | open-permissive |  |
 | GE Quadruped Transporter (Walking Truck) | `ge-walking-truck` | 1968 | academic | public-domain |  |
 | GelSight | `gelsight` | 2009 | academic | open-permissive |  |
+| GelSight Mini | `gelsight-mini-2022` | 2022 | private | trade-secret |  |
 | Generation-3 Synths (Institute Synths) | `fallout-gen-3-synths` | 2015 | fictional | fictional |  |
 | Generative Adversarial Imitation Learning (GAIL) | `gail-ho-ermon` | 2016 | academic | open-permissive |  |
 | Genesis (open-source physics simulator) | `genesis-embodied-ai-simulator` | 2024 | open | open-permissive |  |
@@ -301,6 +307,7 @@
 | R. Daneel Olivaw | `asimov-caves-of-steel-daneel` | 1953 | fictional | fictional |  |
 | R2-D2 | `r2-d2-star-wars` | 1977 | fictional | fictional |  |
 | RADIO-ViPE | `radio-vipe-itmo-2026` | 2026 | academic | open-permissive |  |
+| Raibert MIT Leg Lab (foundational dynamic legged locomotion) | `raibert-mit-leg-lab-history-1980s` | 1981 | academic | public-domain | ✓ |
 | Raibert One-Legged Hopper | `raibert-hopping-1leg` | 1983 | academic | public-domain |  |
 | Rainbow Robotics RB-Y1 | `rainbow-robotics-rb-y1` | 2024 | private | patented |  |
 | RDT-1B (Robotics Diffusion Transformer) | `rdt-1b-thu-2024` | 2024 | academic | open-permissive |  |
@@ -313,6 +320,7 @@
 | REMUS 100 AUV | `kongsberg-remus-100-auv` | 1995 | private | trade-secret |  |
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
 | ReSkin (magnetic tactile skin) | `cmu-reskin-tactile-2021` | 2021 | academic | open-permissive |  |
+| ReWalk medical exoskeleton | `rewalk-goffer-2011` | 2011 | private | trade-secret |  |
 | RH20T heterogeneous robot trajectory dataset | `rh20t-fang-2024` | 2023 | academic | public-domain |  |
 | RLBench | `rlbench-james-2019` | 2019 | academic | open-permissive |  |
 | RLHF (Deep Reinforcement Learning from Human Preferences) | `christiano-rlhf-2017` | 2017 | academic | open-permissive |  |
@@ -342,6 +350,7 @@
 | Sanctuary AI Phoenix | `sanctuary-phoenix` | 2023 | private | patented | ✓ |
 | Sanctuary Phoenix Gen 6 | `sanctuary-phoenix-gen6` | 2022 | private | patented | ✓ |
 | SAPIEN simulator | `sapien-xiang-cvpr-2020` | 2020 | academic | open-permissive |  |
+| Sarcos Guardian XO | `sarcos-guardian-xo-2018` | 2018 | private | trade-secret |  |
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
 | Seaglider AUV | `seaglider-auv-2001` | 2001 | academic | open-permissive |  |
@@ -406,6 +415,7 @@
 | Unitree Go1 | `unitree-go1` | 2021 | private | patented |  |
 | Unitree H1 | `unitree-h1` | 2023 | private | patented | ✓ |
 | Unitree H2 | `unitree-h2` | 2025 | private | patented | ✓ |
+| Unitree R1 | `unitree-r1-2025` | 2025 | private | trade-secret |  |
 | Universal Manipulation Interface (UMI) | `umi-stanford` | 2024 | academic | open-permissive |  |
 | Upkie | `upkie` | 2022 | open | open-permissive |  |
 | V'Ger | `v-ger-star-trek` | 1979 | fictional | fictional |  |

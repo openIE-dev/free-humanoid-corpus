@@ -621,6 +621,14 @@
       ]
     },
     {
+      "id": "raibert-mit-leg-lab-history-1980s",
+      "name": "Raibert MIT Leg Lab (foundational dynamic legged locomotion)",
+      "year": "1981",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "lucas-kanade-1981",
       "name": "Lucas-Kanade Optical Flow",
       "year": "1981",
@@ -950,7 +958,8 @@
       "descendants": [
         "atrias",
         "berkeley-humanoid",
-        "cassie-osu"
+        "cassie-osu",
+        "collins-ruina-tedrake-wisse-passive-walker-2005"
       ]
     },
     {
@@ -1519,6 +1528,22 @@
       "descendants": []
     },
     {
+      "id": "berkeley-bleex-kazerooni-2004",
+      "name": "Berkeley BLEEX (Lower Extremity Exoskeleton)",
+      "year": "2004",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cyberdyne-hal-sankai-2004",
+      "name": "Cyberdyne HAL (Hybrid Assistive Limb)",
+      "year": "2004",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "abbeel-ng-irl-2004",
       "name": "Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning",
       "year": "2004",
@@ -1551,6 +1576,18 @@
         "atlas-boston-dynamics",
         "dlr-toro",
         "nasa-valkyrie"
+      ]
+    },
+    {
+      "id": "collins-ruina-tedrake-wisse-passive-walker-2005",
+      "name": "Collins-Ruina-Tedrake-Wisse passive-dynamic walker",
+      "year": "2005",
+      "corpus": "academic",
+      "ancestors": [
+        "mcgeer-passive-walker"
+      ],
+      "descendants": [
+        "mit-humanoid-2021"
       ]
     },
     {
@@ -1836,7 +1873,9 @@
         "howe-cutkosky-tactile-1989"
       ],
       "descendants": [
-        "digit-meta"
+        "digit-meta",
+        "gelsight-mini-2022",
+        "meta-digit-360-2024"
       ]
     },
     {
@@ -1923,6 +1962,14 @@
       "name": "Cornell Universal Jamming Gripper",
       "year": "2010",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "rewalk-goffer-2011",
+      "name": "ReWalk medical exoskeleton",
+      "year": "2011",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -2786,6 +2833,14 @@
       ]
     },
     {
+      "id": "sarcos-guardian-xo-2018",
+      "name": "Sarcos Guardian XO",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "stanford-jr2-2018",
       "name": "Stanford JackRabbot 2 (JR-2) wheeled-arm research robot",
       "year": "2018",
@@ -3024,7 +3079,9 @@
       "ancestors": [
         "bristol-tactip-2017"
       ],
-      "descendants": []
+      "descendants": [
+        "meta-digit-360-2024"
+      ]
     },
     {
       "id": "hello-robot-stretch-2020",
@@ -3179,6 +3236,7 @@
       "year": "2021",
       "corpus": "academic",
       "ancestors": [
+        "collins-ruina-tedrake-wisse-passive-walker-2005",
         "mini-cheetah",
         "mit-cheetah-3"
       ],
@@ -3241,6 +3299,16 @@
         "palm-e",
         "rt-1"
       ]
+    },
+    {
+      "id": "gelsight-mini-2022",
+      "name": "GelSight Mini",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [
+        "gelsight"
+      ],
+      "descendants": []
     },
     {
       "id": "janner-diffuser-2022",
@@ -4099,6 +4167,17 @@
       "descendants": []
     },
     {
+      "id": "meta-digit-360-2024",
+      "name": "DIGIT 360 (Meta)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "gelsight",
+        "meta-digit-tactile-2020"
+      ],
+      "descendants": []
+    },
+    {
       "id": "xpeng-iron",
       "name": "XPeng Iron",
       "year": "2024",
@@ -4253,6 +4332,14 @@
       "descendants": []
     },
     {
+      "id": "unitree-r1-2025",
+      "name": "Unitree R1",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "nvidia-vipe-2025",
       "name": "ViPE (Video Pose Engine)",
       "year": "2025",
@@ -4268,6 +4355,14 @@
     {
       "id": "booster-t1-2025",
       "name": "Booster T1",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "engineai-se01-2025",
+      "name": "EngineAI SE01",
       "year": "2025",
       "corpus": "private",
       "ancestors": [],

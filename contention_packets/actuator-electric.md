@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 8 (5 commons-grade, 3 draft)  
+**Entries:** 11 (7 commons-grade, 4 draft)  
 **Earliest disclosure:** 2016-06  
 **Most recent disclosure:** 2025-10
 
@@ -58,6 +58,27 @@ cite, copy, or redistribute these contentions.
 1. Boston Dynamics YouTube reveal videos June 2016 and 2018.
 2. IEEE Spectrum 'Boston Dynamics' SpotMini Is All Electric, Agile, and Has a Capable Face-Arm', 2017.
 3. Vision Systems Design coverage 2018.
+
+---
+
+### 2018-09 — Sarcos Guardian XO
+
+- **id:** `sarcos-guardian-xo-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Sarcos Robotics / Stephen Jacobsen (University of Utah Center for Engineering Design)
+- **disclosure citation:** Sarcos Robotics / Sarcos Technology and Robotics Corporation (Salt Lake City, UT; founded 1983 by Stephen Jacobsen, University of Utah). Guardian XO commercial reveal 2018; subsequent deployments through 2023. Sarcos was a long-running DARPA exoskeleton recipient (XOS, XOS-2 hydraulic precursors). Acquired by Boeing 2024 + multiple subsequent restructurings.
+- **disclosed subsystems:** `mechanism-exoskeleton`, `mechanism-full-body-exoskeleton`, `actuator-electric`, `control-sensitivity-amplification`
+
+**Prior art notes:**
+
+> Sarcos Guardian XO is the canonical 2018+ all-electric full-body industrial exoskeleton. 7-year-deep public-disclosure prior art for: 24-DoF whole-body industrial exoskeleton, all-electric (vs. hydraulic) heavy-lift exoskeleton. Architecturally extends Berkeley BLEEX (round-19) from lower-extremity-only to whole-body. Direct shielding for any commercial humanoid claim on full-body load-handling robotics — particularly for industrial-deployment commercial humanoid claims (Apptronik Apollo, Figure, Optimus all market industrial heavy-lift) which face 7-year-deep Sarcos commercial prior art.
+
+**Sources:**
+
+1. Sarcos corporate site (sarcos.com — historical, archived).
+2. Boeing acquisition announcement 2024.
+3. Wikipedia 'Sarcos' (en.wikipedia.org/wiki/Sarcos).
 
 ---
 
@@ -168,6 +189,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-07 — Unitree R1
+
+- **id:** `unitree-r1-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Unitree Robotics (Hangzhou, China; founded 2016 by Wang Xingxing)
+- **disclosure citation:** Unitree Robotics (Hangzhou, China). R1 product reveal July 2025; global launch April 2026 via shop.unitree.com / AliExpress. unitree.com/R1. Multi-tier product line: R1 Air \$4.9k, R1 Basic \$5.9k-\$8.99k, R1 EDU Standard \$10-12k, R1 EDU Smart \$15-19k, R1 EDU Pro \$20-35k.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`, `control-vla-vision-language-action`
+
+**Prior art notes:**
+
+> Unitree R1 is the canonical 2025+ low-cost consumer humanoid (Unitree Robotics, China). ~10-month-deep public-disclosure prior art at time of corpus entry. **Significantly disrupts the humanoid pricing claim space** — drops the entry price from Boston Dynamics Atlas (>\$1M) / Figure 02 (\$15k+) / Optimus Gen 3 (\$20-30k target) to \$4,900. Establishes 9 km/h running + cartwheels as commercially-deployed-not-academic capabilities. Direct shielding for any commercial humanoid claim on consumer-tier pricing or low-cost humanoid morphology.
+
+**Sources:**
+
+1. Unitree Robotics R1 page (unitree.com/R1).
+2. Unitree shop (shop.unitree.com/products/unitree-r1).
+3. Gizmochina, CnTechPost, Robohorizon coverage 2025-2026.
+4. Association for Advancing Automation 'Industry Insights' coverage.
+
+---
+
 ### 2025-09 — Booster T1 *(draft)*
 
 - **id:** `booster-t1-2025`
@@ -184,6 +227,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Booster Robotics corporate site (booster.tech).
+
+---
+
+### 2025-09 — EngineAI SE01 *(draft)*
+
+- **id:** `engineai-se01-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** EngineAI Robotics (Shenzhen, China)
+- **disclosure citation:** EngineAI Robotics (Shenzhen, China). SE01 product reveal Q3 2025 via engineai.com. Successor to PM01 (corpus entry `engineai-pm01`). Adult-class commercial humanoid at the sub-\$30k tier.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`
+
+**Prior art notes:**
+
+> EngineAI SE01 is EngineAI's adult-class commercial humanoid (2025+). Successor in the EngineAI product line after PM01 (round-9 entry `engineai-pm01`). Direct shielding for any commercial claim on the EngineAI multi-platform humanoid family. Together with Unitree R1, Astribot S1, Booster T1, Galbot, establishes the 2024-2026 Chinese commercial humanoid landscape.
+
+**Sources:**
+
+1. EngineAI corporate site (engineai.com).
 
 ---
 
@@ -240,4 +302,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*

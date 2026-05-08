@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**133 corpus entries disclose this subsystem.**
+**135 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -1185,6 +1185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Berkeley Humanoid Lite is the canonical sub-$5k open-hardware academic bipedal humanoid (RSS 2025). 1-year-deep prior art on: 3D-printed cycloidal reducer humanoid actuator (a specific architectural commitment), full open-source release of hardware + firmware + training, sub-$5k humanoid BOM, RL-controlled walking on a 3D-printed platform. **Direct shielding for free-humanoid-platform** — particularly the 3D-printed actuator path and any commercial claim on accessible humanoid hardware. Together with ToddlerBot and Berkeley Humanoid (full-size), establishes a deep open-academic substrate for any commercial humanoid platform claim.
 
+## Unitree R1 (2025-07)
+
+- **id**: `unitree-r1-2025`
+- **corpus**: private
+- **creator**: Unitree Robotics (Hangzhou, China; founded 2016 by Wang Xingxing)
+- **disclosure**: Unitree Robotics (Hangzhou, China). R1 product reveal July 2025; global launch April 2026 via shop.unitree.com / AliExpress. unitree.com/R1. Multi-tier product line: R1 Air \$4.9k, R1 Basic \$5.9k-\$8.99k, R1 EDU Standard \$10-12k, R1 EDU Smart \$15-19k, R1 EDU Pro \$20-35k.
+- **ip status**: trade-secret
+- **prior art notes**: Unitree R1 is the canonical 2025+ low-cost consumer humanoid (Unitree Robotics, China). ~10-month-deep public-disclosure prior art at time of corpus entry. **Significantly disrupts the humanoid pricing claim space** — drops the entry price from Boston Dynamics Atlas (>\$1M) / Figure 02 (\$15k+) / Optimus Gen 3 (\$20-30k target) to \$4,900. Establishes 9 km/h running + cartwheels as commercially-deployed-not-academic capabilities. Direct shielding for any commercial humanoid claim on consumer-tier pricing or low-cost humanoid morphology.
+
 ## Booster T1 (2025-09)
 
 - **id**: `booster-t1-2025`
@@ -1193,6 +1202,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Booster Robotics. T1 product reveal Q3 2025 via booster.tech. Successor to K1 (round-16 entry booster-k1-2025) with adult-class form factor.
 - **ip status**: trade-secret
 - **prior art notes**: Booster T1 is Booster Robotics' adult-class commercial humanoid (2025+). 8-month-deep public-disclosure prior art at the time of this corpus entry. Inherits from K1 (round-16) the ROS 2 + Python developer-friendly stack pattern. Direct shielding for Booster's commercial product line as a coherent multi-platform humanoid family (KidSize K1 + AdultSize T1).
+
+## EngineAI SE01 (2025-09)
+
+- **id**: `engineai-se01-2025`
+- **corpus**: private
+- **creator**: EngineAI Robotics (Shenzhen, China)
+- **disclosure**: EngineAI Robotics (Shenzhen, China). SE01 product reveal Q3 2025 via engineai.com. Successor to PM01 (corpus entry `engineai-pm01`). Adult-class commercial humanoid at the sub-\$30k tier.
+- **ip status**: trade-secret
+- **prior art notes**: EngineAI SE01 is EngineAI's adult-class commercial humanoid (2025+). Successor in the EngineAI product line after PM01 (round-9 entry `engineai-pm01`). Direct shielding for any commercial claim on the EngineAI multi-platform humanoid family. Together with Unitree R1, Astribot S1, Booster T1, Galbot, establishes the 2024-2026 Chinese commercial humanoid landscape.
 
 ## Unitree H2 (2025-10)
 

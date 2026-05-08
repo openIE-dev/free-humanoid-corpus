@@ -1,7 +1,7 @@
 ---
 title: "sensing-fingertip-tactile"
 parent: "Invalidity Contentions"
-nav_order: 101
+nav_order: 103
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `sensing-fingertip-tactile`  
-**Entries:** 5 (4 commons-grade, 1 draft)  
+**Entries:** 7 (5 commons-grade, 2 draft)  
 **Earliest disclosure:** 2009-12  
 **Most recent disclosure:** 2025-10
 
@@ -105,6 +105,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-05 — GelSight Mini
+
+- **id:** `gelsight-mini-2022`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** GelSight Inc. (MIT spinout from Adelson Perceptual Science Group)
+- **disclosure citation:** GelSight, Inc. (Waltham, MA; founded 2011 as MIT spinout from Edward Adelson's Perceptual Science Group). GelSight Mini commercial product reveal 2022. gelsight.com. The compact 30 mm × 30 mm × 25 mm version of the original GelSight (Johnson + Adelson 2009).
+- **disclosed subsystems:** `sensing-tactile-vision-based`, `sensing-fingertip-tactile`
+
+**Prior art notes:**
+
+> GelSight Mini is the canonical compact commercial vision-based tactile sensor (2022+). 3-year-deep public-disclosure prior art with descent from the foundational Johnson-Adelson 2009 academic GelSight paper (corpus entry `gelsight`). **Commercialization complement to the open-hardware DIGIT (round-16) and academic TacTip (round-18)** — three vision-based-tactile architectures from three different labs (MIT/Adelson, Meta/Calandra, Bristol/Lepora). Tesla Optimus Gen 3's 'tactile fingertip sensors' claim (round-15) faces all four (GelSight + DIGIT + TacTip + ReSkin) as modality-distinct prior-art chains.
+
+**Sources:**
+
+1. GelSight Inc. corporate site (gelsight.com).
+2. GelSight Mini product page (gelsight.com/gelsight-mini).
+
+---
+
 ### 2024-06 — Tactile SoftHand-A
 
 - **id:** `tactile-softhand-a-2025`
@@ -124,6 +144,27 @@ cite, copy, or redistribute these contentions.
 2. Li et al. International Journal of Robotics Research October 2025 (DOI: 10.1177/02783649251379516).
 3. GitHub: github.com/HaoranLi-Data/Tactile_SoftHand_A.
 4. Lepora group publications (lepora.com/papers/).
+
+---
+
+### 2024-11 — DIGIT 360 (Meta) *(draft)*
+
+- **id:** `meta-digit-360-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Meta AI Research / Reality Labs; Calandra group successor team
+- **disclosure citation:** Meta AI / Meta Reality Labs. DIGIT 360 reveal November 2024 via ai.meta.com / digit.ml. Successor to DIGIT (Lambeta + Calandra RA-L 2020, corpus entry `meta-digit-tactile-2020`). Adds omnidirectional 360° finger-shaped tactile sensing surface.
+- **disclosed subsystems:** `sensing-tactile-vision-based`, `sensing-fingertip-tactile`, `sensing-omnidirectional-tactile`
+
+**Prior art notes:**
+
+> DIGIT 360 (Meta, November 2024) is the canonical first omnidirectional vision-based tactile finger. ~6-month-deep open-permissive prior art for: 360° tactile sensing in anthropomorphic finger form factor, multi-camera (18-cam) internal imaging architecture. Direct successor to DIGIT (round-16) closing the flat-surface limitation. Direct shielding for any commercial humanoid claim on omnidirectional fingertip tactile sensing — particularly relevant for Tesla Optimus Gen 3 and Figure Helix tactile-claim shielding.
+
+**Sources:**
+
+1. Meta AI Research blog (ai.meta.com/blog/digit-360).
+2. Project page (digit.ml/digit360).
+3. GitHub: github.com/facebookresearch/digit360.
 
 ---
 
@@ -180,4 +221,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*

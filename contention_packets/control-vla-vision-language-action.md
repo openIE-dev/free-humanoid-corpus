@@ -1,7 +1,7 @@
 ---
 title: "control-vla-vision-language-action"
 parent: "Invalidity Contentions"
-nav_order: 62
+nav_order: 63
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-vla-vision-language-action`  
-**Entries:** 88 (79 commons-grade, 9 draft)  
+**Entries:** 89 (80 commons-grade, 9 draft)  
 **Earliest disclosure:** 1886  
 **Most recent disclosure:** 2026-04
 
@@ -1801,6 +1801,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-07 — Unitree R1
+
+- **id:** `unitree-r1-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Unitree Robotics (Hangzhou, China; founded 2016 by Wang Xingxing)
+- **disclosure citation:** Unitree Robotics (Hangzhou, China). R1 product reveal July 2025; global launch April 2026 via shop.unitree.com / AliExpress. unitree.com/R1. Multi-tier product line: R1 Air \$4.9k, R1 Basic \$5.9k-\$8.99k, R1 EDU Standard \$10-12k, R1 EDU Smart \$15-19k, R1 EDU Pro \$20-35k.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`, `control-vla-vision-language-action`
+
+**Prior art notes:**
+
+> Unitree R1 is the canonical 2025+ low-cost consumer humanoid (Unitree Robotics, China). ~10-month-deep public-disclosure prior art at time of corpus entry. **Significantly disrupts the humanoid pricing claim space** — drops the entry price from Boston Dynamics Atlas (>\$1M) / Figure 02 (\$15k+) / Optimus Gen 3 (\$20-30k target) to \$4,900. Establishes 9 km/h running + cartwheels as commercially-deployed-not-academic capabilities. Direct shielding for any commercial humanoid claim on consumer-tier pricing or low-cost humanoid morphology.
+
+**Sources:**
+
+1. Unitree Robotics R1 page (unitree.com/R1).
+2. Unitree shop (shop.unitree.com/products/unitree-r1).
+3. Gizmochina, CnTechPost, Robohorizon coverage 2025-2026.
+4. Association for Advancing Automation 'Industry Insights' coverage.
+
+---
+
 ### 2026-04 — Genesis AI GENE-26.5 *(draft)*
 
 - **id:** `genesis-ai-gene-26-5`
@@ -1851,4 +1873,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**8 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2016-06
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics. SpotMini public reveal June 2016 demo video; subsequent IEEE Spectrum coverage 2017-2018; capability demonstrations via Boston Dynamics YouTube. Discontinued in favor of Spot (the production quadruped) circa 2019.
 - **ip status**: trade-secret
 - **prior art notes**: SpotMini is the architectural predecessor to commercial Spot. ~9-year-deep public-disclosure prior art for: all-electric quadruped morphology (distinct from hydraulic BigDog/Spot ancestors), dorsal-mount manipulator on quadruped base, Velodyne+depth-camera quadruped sensor stack. Trade-secret control software, public capability surface. Direct shielding for any commercial humanoid-quadruped or quadruped-manipulator claim. Cited in cheetah-cub-epfl and black-mirror-metalhead-2017 prior_art_notes; round-14 backfill closes those citation chains.
+
+## Sarcos Guardian XO (2018-09)
+
+- **id**: `sarcos-guardian-xo-2018`
+- **corpus**: private
+- **creator**: Sarcos Robotics / Stephen Jacobsen (University of Utah Center for Engineering Design)
+- **disclosure**: Sarcos Robotics / Sarcos Technology and Robotics Corporation (Salt Lake City, UT; founded 1983 by Stephen Jacobsen, University of Utah). Guardian XO commercial reveal 2018; subsequent deployments through 2023. Sarcos was a long-running DARPA exoskeleton recipient (XOS, XOS-2 hydraulic precursors). Acquired by Boeing 2024 + multiple subsequent restructurings.
+- **ip status**: trade-secret
+- **prior art notes**: Sarcos Guardian XO is the canonical 2018+ all-electric full-body industrial exoskeleton. 7-year-deep public-disclosure prior art for: 24-DoF whole-body industrial exoskeleton, all-electric (vs. hydraulic) heavy-lift exoskeleton. Architecturally extends Berkeley BLEEX (round-19) from lower-extremity-only to whole-body. Direct shielding for any commercial humanoid claim on full-body load-handling robotics — particularly for industrial-deployment commercial humanoid claims (Apptronik Apollo, Figure, Optimus all market industrial heavy-lift) which face 7-year-deep Sarcos commercial prior art.
 
 ## Hello Robot Stretch (2020-07)
 
@@ -69,6 +78,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Booster K1 is the canonical 2025 sub-$25k educational humanoid. 5-month-deep public-disclosure prior art for: KidSize-class (95cm) humanoid form factor, 22-DoF anthropomorphic kinematics, ROS 2 + Python developer-friendly stack at the educational price point. Public competition record (RoboCup 2025 KidSize win) demonstrates a working system. Direct shielding for any commercial humanoid claim on educational/sub-$25k pricing or RoboCup-competition-grade autonomous bipedal locomotion.
 
+## Unitree R1 (2025-07)
+
+- **id**: `unitree-r1-2025`
+- **corpus**: private
+- **creator**: Unitree Robotics (Hangzhou, China; founded 2016 by Wang Xingxing)
+- **disclosure**: Unitree Robotics (Hangzhou, China). R1 product reveal July 2025; global launch April 2026 via shop.unitree.com / AliExpress. unitree.com/R1. Multi-tier product line: R1 Air \$4.9k, R1 Basic \$5.9k-\$8.99k, R1 EDU Standard \$10-12k, R1 EDU Smart \$15-19k, R1 EDU Pro \$20-35k.
+- **ip status**: trade-secret
+- **prior art notes**: Unitree R1 is the canonical 2025+ low-cost consumer humanoid (Unitree Robotics, China). ~10-month-deep public-disclosure prior art at time of corpus entry. **Significantly disrupts the humanoid pricing claim space** — drops the entry price from Boston Dynamics Atlas (>\$1M) / Figure 02 (\$15k+) / Optimus Gen 3 (\$20-30k target) to \$4,900. Establishes 9 km/h running + cartwheels as commercially-deployed-not-academic capabilities. Direct shielding for any commercial humanoid claim on consumer-tier pricing or low-cost humanoid morphology.
+
 ## Booster T1 (2025-09)
 
 - **id**: `booster-t1-2025`
@@ -77,6 +95,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Booster Robotics. T1 product reveal Q3 2025 via booster.tech. Successor to K1 (round-16 entry booster-k1-2025) with adult-class form factor.
 - **ip status**: trade-secret
 - **prior art notes**: Booster T1 is Booster Robotics' adult-class commercial humanoid (2025+). 8-month-deep public-disclosure prior art at the time of this corpus entry. Inherits from K1 (round-16) the ROS 2 + Python developer-friendly stack pattern. Direct shielding for Booster's commercial product line as a coherent multi-platform humanoid family (KidSize K1 + AdultSize T1).
+
+## EngineAI SE01 (2025-09)
+
+- **id**: `engineai-se01-2025`
+- **corpus**: private
+- **creator**: EngineAI Robotics (Shenzhen, China)
+- **disclosure**: EngineAI Robotics (Shenzhen, China). SE01 product reveal Q3 2025 via engineai.com. Successor to PM01 (corpus entry `engineai-pm01`). Adult-class commercial humanoid at the sub-\$30k tier.
+- **ip status**: trade-secret
+- **prior art notes**: EngineAI SE01 is EngineAI's adult-class commercial humanoid (2025+). Successor in the EngineAI product line after PM01 (round-9 entry `engineai-pm01`). Direct shielding for any commercial claim on the EngineAI multi-platform humanoid family. Together with Unitree R1, Astribot S1, Booster T1, Galbot, establishes the 2024-2026 Chinese commercial humanoid landscape.
 
 ## Tesla Optimus Gen 3 (2025-10)
 

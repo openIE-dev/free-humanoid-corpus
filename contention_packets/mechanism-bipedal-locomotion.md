@@ -1,7 +1,7 @@
 ---
 title: "mechanism-bipedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 71
+nav_order: 72
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 133 (104 commons-grade, 29 draft)  
+**Entries:** 140 (109 commons-grade, 31 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2026-04
 
@@ -536,6 +536,27 @@ cite, copy, or redistribute these contentions.
 
 1. Kershner, I. The Empire Strikes Back. Lucasfilm/Fox, 1980.
 2. Anderson, K.J. (ed.) Tales of the Bounty Hunters. Bantam, 1996.
+
+---
+
+### 1981-01 — Raibert MIT Leg Lab (foundational dynamic legged locomotion) *(draft)*
+
+- **id:** `raibert-mit-leg-lab-history-1980s`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** MIT Leg Laboratory; Marc Raibert (founder), then Jerry Pratt + Hugh Herr (post-Raibert era)
+- **disclosure citation:** Raibert, M. H. 'Legged Robots That Balance'. MIT Press 1986. MIT Leg Lab (founded by Raibert at CMU 1981, moved to MIT 1986). Series of foundational dynamic-legged-robot designs: 3D one-leg hopper (1983), 3D quadruped (1984), planar biped (1989), 3D biped (1989), 4-legged Spring Flamingo (1995), Spring Turkey, M2, etc. Foundational predecessors of Boston Dynamics (Raibert founded BD 1992, took the Leg Lab portfolio with him). The corpus already has `raibert-hopping-1leg` for the foundational 1-leg hopper; this entry covers the broader Leg Lab portfolio as a corpus anchor.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-quadrupedal-locomotion`, `mechanism-dynamic-legged-locomotion`, `control-slip-model`, `control-raibert-decomposition`
+
+**Prior art notes:**
+
+> Marc Raibert's MIT Leg Lab portfolio (1981-1995) is the canonical foundational dynamic-legged-robotics academic anchor. 44-year-deep public-domain prior art predating the entire commercial humanoid era. **Most modern Boston Dynamics IP descends architecturally from this era** — Raibert founded BD in 1992 with the Leg Lab portfolio. The Spring-Loaded Inverted Pendulum (SLIP) model and Raibert's 3-part control decomposition remain the foundational analytical tools for dynamic legged locomotion. Together with Vukobratović ZMP (1969), McGeer passive walker (1990), Collins-Ruina passive (2005), establishes the four-pillar academic chain underpinning all modern bipedal/quadrupedal robotics — anticipating commercial humanoid claims by 30-55 years. Direct shielding for any commercial dynamic-locomotion claim. Note: corpus already has `raibert-hopping-1leg` for the specific 1-leg hopper; this entry is the broader Leg Lab portfolio anchor.
+
+**Sources:**
+
+1. Raibert, M. H. 'Legged Robots That Balance'. MIT Press 1986.
+2. MIT Leg Lab archives (groups.csail.mit.edu/leglab/).
+3. Raibert biographical material (Boston Dynamics founder history).
 
 ---
 
@@ -1197,6 +1218,48 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2004-03 — Berkeley BLEEX (Lower Extremity Exoskeleton)
+
+- **id:** `berkeley-bleex-kazerooni-2004`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** UC Berkeley HERL; Homayoon Kazerooni group
+- **disclosure citation:** Kazerooni, H., Steger, R., Huang, L. 'Hybrid Control of the Berkeley Lower Extremity Exoskeleton (BLEEX)'. International Journal of Robotics Research 25(5-6) 2006. ICRA 2005 + IROS 2005 publications. UC Berkeley Human Engineering and Robotics Lab (HERL) under DARPA Exoskeletons for Human Performance Augmentation (EHPA) program.
+- **disclosed subsystems:** `mechanism-exoskeleton`, `mechanism-hydraulic-actuator`, `control-sensitivity-amplification`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> Berkeley BLEEX (Kazerooni et al. ICRA/IROS 2005, IJRR 2006) is the foundational academic load-carrying exoskeleton. 21-year-deep public-domain prior art for: energetically autonomous exoskeleton, hydraulic-actuated exoskeleton, sensitivity-amplification control. The architectural anchor of every subsequent commercial military/industrial exoskeleton: Sarcos Guardian XO (round-19 entry), Lockheed HULC (acquired Berkeley Bionics 2009), ReWalk (round-19 medical variant). Direct shielding for any commercial humanoid claim on exoskeleton load-carrying or hybrid human-robot locomotion.
+
+**Sources:**
+
+1. Kazerooni et al. IJRR 25(5-6) 2006.
+2. Project page (bleex.me.berkeley.edu).
+3. DARPA EHPA program documentation.
+
+---
+
+### 2004-06 — Cyberdyne HAL (Hybrid Assistive Limb)
+
+- **id:** `cyberdyne-hal-sankai-2004`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Cyberdyne Inc. / Yoshiyuki Sankai (University of Tsukuba)
+- **disclosure citation:** Cyberdyne Inc. (Tsukuba, Japan; founded 2004 as University of Tsukuba spinout from Yoshiyuki Sankai's lab). HAL-3 reveal 2004; HAL-5 commercial production from 2008. Sankai, Y. 'HAL: Hybrid Assistive Limb based on cybernics' Robotics Research: 13th Int. Symposium 2007 (Springer Tracts in Advanced Robotics). FDA clearance 2017 for Hybrid Assistive Limb-Medical.
+- **disclosed subsystems:** `mechanism-exoskeleton`, `control-bioelectric`, `sensing-emg`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> Cyberdyne HAL (Sankai/Cyberdyne 2004+) is the canonical bioelectric-controlled medical exoskeleton. 21-year-deep public-disclosure prior art for: surface-EMG-driven exoskeleton control, FDA-cleared rehabilitation exoskeleton, bioelectric-amplification control law. Distinct architectural branch from Berkeley BLEEX (force-sensing-driven, military/industrial focus). Direct shielding for any commercial humanoid claim on EMG-controlled exoskeleton operation or bioelectric-driven prosthetic control. Together with the BrainGate cortical-BCI lineage (round-18), establishes the bioelectric-control prior-art chain for human-augmenting devices.
+
+**Sources:**
+
+1. Sankai, Y. Robotics Research: 13th Int. Symposium 2007 (Springer).
+2. Cyberdyne corporate site (cyberdyne.jp).
+3. FDA HDE H160007 (HAL Medical Lower Limb Type) 2017.
+
+---
+
 ### 2005 — Sentis-Khatib Whole-Body Prioritized Task Control
 
 - **id:** `sentis-khatib-whole-body`
@@ -1215,6 +1278,26 @@ cite, copy, or redistribute these contentions.
 1. Sentis, L. and Khatib, O. 'Synthesis of whole-body behaviors.' Int. J. Humanoid Robotics 2(4): 505-518, 2005.
 2. Sentis, L. and Khatib, O. 'A whole-body control framework for humanoids.' IEEE ICRA 2006: 2641-2648.
 3. Sentis, L. PhD Thesis: 'Synthesis and control of whole-body behaviors in humanoid systems.' Stanford University, 2007.
+
+---
+
+### 2005-02 — Collins-Ruina-Tedrake-Wisse passive-dynamic walker
+
+- **id:** `collins-ruina-tedrake-wisse-passive-walker-2005`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Cornell + MIT + TU Delft; Steve Collins, Andy Ruina, Russ Tedrake, Martijn Wisse
+- **disclosure citation:** Collins, S., Ruina, A., Tedrake, R., Wisse, M. 'Efficient Bipedal Robots Based on Passive-Dynamic Walkers'. Science 307(5712) 18 February 2005. Cornell + MIT + TU Delft. Demonstrated three minimally-actuated bipedal walkers (Cornell Ranger, MIT Toddler, Delft) walking with energetic efficiency comparable to humans, extending McGeer's purely-passive 1990 walker.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-passive-dynamic-walking`, `control-minimal-actuation`
+
+**Prior art notes:**
+
+> Collins-Ruina-Tedrake-Wisse passive-dynamic walking (Science 2005) is the canonical extension of McGeer's 1990 passive walker to level-ground walking with minimal actuation. 20-year-deep public-domain prior art for: minimally-actuated energetically-efficient bipedal walking, COT-driven control optimization. The architectural ancestor of: Cassie / Digit (Agility Robotics 2017+), MIT Cheetah series (Sangbae Kim 2009+), MIT Humanoid (round-8 entry mit-humanoid-2021). Direct shielding for any commercial humanoid claim on energetically-efficient bipedal walking — the 20-year-old efficient-walking academic chain shields any commercial 'we walk like humans' efficiency claim.
+
+**Sources:**
+
+1. Collins et al. Science 307(5712) 18 February 2005.
+2. Ruina passive-dynamic walking page (ruina.tam.cornell.edu/research/topics/locomotion_and_robotics).
 
 ---
 
@@ -1452,6 +1535,27 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Kaneko, K. et al. IROS 2010.
+
+---
+
+### 2011-03 — ReWalk medical exoskeleton
+
+- **id:** `rewalk-goffer-2011`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** ReWalk Robotics / Lifeward; Amit Goffer (founder, paraplegic himself after 1997 ATV accident)
+- **disclosure citation:** ReWalk Robotics, Ltd. (Yokneam, Israel; founded 2001 as Argo Medical Technologies by Amit Goffer). ReWalk Personal reveal 2011; FDA clearance June 2014 for personal use (the first FDA-cleared exoskeleton for paraplegic personal use). rewalk.com / lifewardmedical.com (rebranded 2023 as Lifeward).
+- **disclosed subsystems:** `mechanism-exoskeleton`, `control-tilt-triggered-gait`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> ReWalk (Goffer / Argo Medical / Lifeward 2011+) is the canonical FDA-cleared paraplegic-ambulation medical exoskeleton. 14-year-deep public-disclosure prior art for: tilt-sensor-triggered exoskeleton gait initiation, FDA-cleared personal-use medical exoskeleton. Distinct architectural branch from Cyberdyne HAL (EMG-driven) and Berkeley BLEEX (force-sensing-amplification). Together with HAL and BLEEX, establishes the three canonical exoskeleton control-paradigm prior-art chains.
+
+**Sources:**
+
+1. ReWalk Robotics / Lifeward corporate site (rewalk.com / lifewardmedical.com).
+2. FDA 510(k) K131798 (ReWalk Personal) June 2014.
+3. Wikipedia 'ReWalk' (en.wikipedia.org/wiki/ReWalk).
 
 ---
 
@@ -2628,6 +2732,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-07 — Unitree R1
+
+- **id:** `unitree-r1-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Unitree Robotics (Hangzhou, China; founded 2016 by Wang Xingxing)
+- **disclosure citation:** Unitree Robotics (Hangzhou, China). R1 product reveal July 2025; global launch April 2026 via shop.unitree.com / AliExpress. unitree.com/R1. Multi-tier product line: R1 Air \$4.9k, R1 Basic \$5.9k-\$8.99k, R1 EDU Standard \$10-12k, R1 EDU Smart \$15-19k, R1 EDU Pro \$20-35k.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`, `control-vla-vision-language-action`
+
+**Prior art notes:**
+
+> Unitree R1 is the canonical 2025+ low-cost consumer humanoid (Unitree Robotics, China). ~10-month-deep public-disclosure prior art at time of corpus entry. **Significantly disrupts the humanoid pricing claim space** — drops the entry price from Boston Dynamics Atlas (>\$1M) / Figure 02 (\$15k+) / Optimus Gen 3 (\$20-30k target) to \$4,900. Establishes 9 km/h running + cartwheels as commercially-deployed-not-academic capabilities. Direct shielding for any commercial humanoid claim on consumer-tier pricing or low-cost humanoid morphology.
+
+**Sources:**
+
+1. Unitree Robotics R1 page (unitree.com/R1).
+2. Unitree shop (shop.unitree.com/products/unitree-r1).
+3. Gizmochina, CnTechPost, Robohorizon coverage 2025-2026.
+4. Association for Advancing Automation 'Industry Insights' coverage.
+
+---
+
 ### 2025-09 — Booster T1 *(draft)*
 
 - **id:** `booster-t1-2025`
@@ -2644,6 +2770,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Booster Robotics corporate site (booster.tech).
+
+---
+
+### 2025-09 — EngineAI SE01 *(draft)*
+
+- **id:** `engineai-se01-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** EngineAI Robotics (Shenzhen, China)
+- **disclosure citation:** EngineAI Robotics (Shenzhen, China). SE01 product reveal Q3 2025 via engineai.com. Successor to PM01 (corpus entry `engineai-pm01`). Adult-class commercial humanoid at the sub-\$30k tier.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`
+
+**Prior art notes:**
+
+> EngineAI SE01 is EngineAI's adult-class commercial humanoid (2025+). Successor in the EngineAI product line after PM01 (round-9 entry `engineai-pm01`). Direct shielding for any commercial claim on the EngineAI multi-platform humanoid family. Together with Unitree R1, Astribot S1, Booster T1, Galbot, establishes the 2024-2026 Chinese commercial humanoid landscape.
+
+**Sources:**
+
+1. EngineAI corporate site (engineai.com).
 
 ---
 
@@ -2739,4 +2884,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*

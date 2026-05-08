@@ -1,7 +1,7 @@
 ---
 title: "mechanism-passive-dynamic-walking"
 parent: "Invalidity Contentions"
-nav_order: 76
+nav_order: 78
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-passive-dynamic-walking`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 1990  
 **Most recent disclosure:** 2017
 
@@ -57,6 +57,26 @@ cite, copy, or redistribute these contentions.
 
 1. McGeer, T. 'Passive dynamic walking'. IJRR 9(2): 62-82, 1990.
 2. Collins, S.H., Wisse, M., Ruina, A. 'A three-dimensional passive-dynamic walking robot with two legs and knees'. IJRR 20(7): 607-615, 2001 (extends McGeer to 3D).
+
+---
+
+### 2005-02 — Collins-Ruina-Tedrake-Wisse passive-dynamic walker
+
+- **id:** `collins-ruina-tedrake-wisse-passive-walker-2005`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Cornell + MIT + TU Delft; Steve Collins, Andy Ruina, Russ Tedrake, Martijn Wisse
+- **disclosure citation:** Collins, S., Ruina, A., Tedrake, R., Wisse, M. 'Efficient Bipedal Robots Based on Passive-Dynamic Walkers'. Science 307(5712) 18 February 2005. Cornell + MIT + TU Delft. Demonstrated three minimally-actuated bipedal walkers (Cornell Ranger, MIT Toddler, Delft) walking with energetic efficiency comparable to humans, extending McGeer's purely-passive 1990 walker.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-passive-dynamic-walking`, `control-minimal-actuation`
+
+**Prior art notes:**
+
+> Collins-Ruina-Tedrake-Wisse passive-dynamic walking (Science 2005) is the canonical extension of McGeer's 1990 passive walker to level-ground walking with minimal actuation. 20-year-deep public-domain prior art for: minimally-actuated energetically-efficient bipedal walking, COT-driven control optimization. The architectural ancestor of: Cassie / Digit (Agility Robotics 2017+), MIT Cheetah series (Sangbae Kim 2009+), MIT Humanoid (round-8 entry mit-humanoid-2021). Direct shielding for any commercial humanoid claim on energetically-efficient bipedal walking — the 20-year-old efficient-walking academic chain shields any commercial 'we walk like humans' efficiency claim.
+
+**Sources:**
+
+1. Collins et al. Science 307(5712) 18 February 2005.
+2. Ruina passive-dynamic walking page (ruina.tam.cornell.edu/research/topics/locomotion_and_robotics).
 
 ---
 
@@ -130,4 +150,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*

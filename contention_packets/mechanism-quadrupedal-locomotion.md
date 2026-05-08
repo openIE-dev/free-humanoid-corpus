@@ -1,7 +1,7 @@
 ---
 title: "mechanism-quadrupedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 79
+nav_order: 81
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-quadrupedal-locomotion`  
-**Entries:** 17 (16 commons-grade, 1 draft)  
+**Entries:** 18 (16 commons-grade, 2 draft)  
 **Earliest disclosure:** 1968-09-27  
 **Most recent disclosure:** 2022-09
 
@@ -58,6 +58,27 @@ cite, copy, or redistribute these contentions.
 1. Mosher, R.S. 'Exploring the potential of a quadruped'. SAE Paper 690191, 1969.
 2. Mosher, R.S. 'Test and evaluation of a versatile walking truck'. GE Schenectady Research Lab Report, 1968.
 3. Liston, R. and Mosher, R. 'A versatile walking truck'. Mechanical Engineering 90(8): 12-19, 1968.
+
+---
+
+### 1981-01 — Raibert MIT Leg Lab (foundational dynamic legged locomotion) *(draft)*
+
+- **id:** `raibert-mit-leg-lab-history-1980s`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** MIT Leg Laboratory; Marc Raibert (founder), then Jerry Pratt + Hugh Herr (post-Raibert era)
+- **disclosure citation:** Raibert, M. H. 'Legged Robots That Balance'. MIT Press 1986. MIT Leg Lab (founded by Raibert at CMU 1981, moved to MIT 1986). Series of foundational dynamic-legged-robot designs: 3D one-leg hopper (1983), 3D quadruped (1984), planar biped (1989), 3D biped (1989), 4-legged Spring Flamingo (1995), Spring Turkey, M2, etc. Foundational predecessors of Boston Dynamics (Raibert founded BD 1992, took the Leg Lab portfolio with him). The corpus already has `raibert-hopping-1leg` for the foundational 1-leg hopper; this entry covers the broader Leg Lab portfolio as a corpus anchor.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-quadrupedal-locomotion`, `mechanism-dynamic-legged-locomotion`, `control-slip-model`, `control-raibert-decomposition`
+
+**Prior art notes:**
+
+> Marc Raibert's MIT Leg Lab portfolio (1981-1995) is the canonical foundational dynamic-legged-robotics academic anchor. 44-year-deep public-domain prior art predating the entire commercial humanoid era. **Most modern Boston Dynamics IP descends architecturally from this era** — Raibert founded BD in 1992 with the Leg Lab portfolio. The Spring-Loaded Inverted Pendulum (SLIP) model and Raibert's 3-part control decomposition remain the foundational analytical tools for dynamic legged locomotion. Together with Vukobratović ZMP (1969), McGeer passive walker (1990), Collins-Ruina passive (2005), establishes the four-pillar academic chain underpinning all modern bipedal/quadrupedal robotics — anticipating commercial humanoid claims by 30-55 years. Direct shielding for any commercial dynamic-locomotion claim. Note: corpus already has `raibert-hopping-1leg` for the specific 1-leg hopper; this entry is the broader Leg Lab portfolio anchor.
+
+**Sources:**
+
+1. Raibert, M. H. 'Legged Robots That Balance'. MIT Press 1986.
+2. MIT Leg Lab archives (groups.csail.mit.edu/leglab/).
+3. Raibert biographical material (Boston Dynamics founder history).
 
 ---
 
@@ -412,4 +433,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*

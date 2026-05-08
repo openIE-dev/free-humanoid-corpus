@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-quadrupedal-locomotion`
 
-**17 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1968-09-27
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mosher, Ralph S. 'Test and evaluation of a versatile walking truck.' General Electric Schenectady Research Lab Report, September 1968. Published abstract: Mosher, R.S. 'Exploring the potential of a quadruped'. Society of Automotive Engineers, January 1969 (Detroit Engineering Show, Paper 690191).
 - **ip status**: public-domain
 - **prior art notes**: The GE Walking Truck is the deepest hydraulic legged-locomotion academic disclosure in the corpus and substantially predates everything in the modern legged-robotics commercial portfolio. Mosher's 1968 SAE paper discloses with full specificity: (1) hydraulic actuation per leg with 3-DOF — anticipates hydraulic legged claims by Boston Dynamics (BigDog 2005) by 37 years; (2) master-slave kinesthetic teleoperation with force feedback — anticipates teleoperation claims for legged systems; (3) 1500 kg payload legged loadbearing — anticipates legged-loadbearing claims (Boston Dynamics LS3, Ghost Robotics Vision 60); (4) 90 hp combustion engine power source for legged locomotion. Modern claims on hydraulic / combustion-powered legged loadbearing all face this 1968 disclosure as 102 prior art at unusual depth. Publicly funded research, openly published.
+
+## Raibert MIT Leg Lab (foundational dynamic legged locomotion) (1981-01)
+
+- **id**: `raibert-mit-leg-lab-history-1980s`
+- **corpus**: academic
+- **creator**: MIT Leg Laboratory; Marc Raibert (founder), then Jerry Pratt + Hugh Herr (post-Raibert era)
+- **disclosure**: Raibert, M. H. 'Legged Robots That Balance'. MIT Press 1986. MIT Leg Lab (founded by Raibert at CMU 1981, moved to MIT 1986). Series of foundational dynamic-legged-robot designs: 3D one-leg hopper (1983), 3D quadruped (1984), planar biped (1989), 3D biped (1989), 4-legged Spring Flamingo (1995), Spring Turkey, M2, etc. Foundational predecessors of Boston Dynamics (Raibert founded BD 1992, took the Leg Lab portfolio with him). The corpus already has `raibert-hopping-1leg` for the foundational 1-leg hopper; this entry covers the broader Leg Lab portfolio as a corpus anchor.
+- **ip status**: public-domain
+- **prior art notes**: Marc Raibert's MIT Leg Lab portfolio (1981-1995) is the canonical foundational dynamic-legged-robotics academic anchor. 44-year-deep public-domain prior art predating the entire commercial humanoid era. **Most modern Boston Dynamics IP descends architecturally from this era** — Raibert founded BD in 1992 with the Leg Lab portfolio. The Spring-Loaded Inverted Pendulum (SLIP) model and Raibert's 3-part control decomposition remain the foundational analytical tools for dynamic legged locomotion. Together with Vukobratović ZMP (1969), McGeer passive walker (1990), Collins-Ruina passive (2005), establishes the four-pillar academic chain underpinning all modern bipedal/quadrupedal robotics — anticipating commercial humanoid claims by 30-55 years. Direct shielding for any commercial dynamic-locomotion claim. Note: corpus already has `raibert-hopping-1leg` for the specific 1-leg hopper; this entry is the broader Leg Lab portfolio anchor.
 
 ## Sony AIBO (1999-05-11)
 
