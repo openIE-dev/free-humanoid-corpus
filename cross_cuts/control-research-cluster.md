@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-research-cluster`
 
-**39 corpus entries disclose this subsystem.**
+**40 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -347,6 +347,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Zewail City of Science and Technology (6th of October City, Egypt). Founded November 2011 by Egyptian-American Nobel laureate Ahmed Zewail (1999 Chemistry); president of the Zewail Foundation. Center for Robotics + AI established within the city's research framework. zewailcity.edu.eg.
 - **ip status**: open-permissive
 - **prior art notes**: Zewail City is Egypt's flagship privately-founded research institution (founded 2011 by Nobel laureate Ahmed Zewail). **First entry in the corpus from Egypt** — closes a major MENA + African gap. Together with KAUST Saudi Arabia (round-23) and UCT South Africa (round-23), establishes the African + MENA robotics prior-art baseline. Aggregator-style.
+
+## Edan-Bechar agricultural robotics survey (2017-01)
+
+- **id**: `edan-bechar-agritech-survey-2017`
+- **corpus**: academic
+- **creator**: Volcani Center / Israeli Agricultural Research Organization; Avital Bechar + Yael Edan (Ben-Gurion University)
+- **disclosure**: Bechar, A., Vigneault, C. 'Agricultural robots for field operations: Concepts and components'. Biosystems Engineering 149 2016. Bechar, A., Vigneault, C. 'Agricultural robots for field operations. Part 2: Operations and systems'. Biosystems Engineering 153 2017. Volcani Center / Israeli Agricultural Research Organization + Yael Edan Ben-Gurion University. The canonical agricultural-robotics academic survey from the Israeli academic + agritech research community.
+- **ip status**: public-domain
+- **prior art notes**: Edan-Bechar agritech survey (Biosystems Engineering 2016/2017) is the canonical Israeli academic agricultural-robotics survey. 9-year-deep public-domain prior art. The Israeli agritech academic anchor — together with Embrapa Brazil agritech (round-23) + CSIRO Bobcat (round-23 + round-36) + USP Brazil (round-23), establishes the global agritech-robotics prior-art chain. Adds Israeli academic agritech specifically (corpus has Israeli humanoid robotics via Zarrouk Ben-Gurion STAR family but lacks specific agritech paper-level entry).
 
 ## Baidu Apollo (autonomous driving — distinct from Apptronik humanoid) (2017-04)
 

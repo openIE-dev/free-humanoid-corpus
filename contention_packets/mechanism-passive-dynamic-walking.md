@@ -1,7 +1,7 @@
 ---
 title: "mechanism-passive-dynamic-walking"
 parent: "Invalidity Contentions"
-nav_order: 129
+nav_order: 132
 layout: default
 ---
 
@@ -191,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*

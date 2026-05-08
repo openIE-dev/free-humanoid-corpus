@@ -1,7 +1,7 @@
 ---
 title: "control-rough-terrain-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 91
+nav_order: 93
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-rough-terrain-locomotion`  
-**Entries:** 6 (6 commons-grade, 0 draft)  
-**Earliest disclosure:** 2005-12  
+**Entries:** 7 (7 commons-grade, 0 draft)  
+**Earliest disclosure:** 2000-04  
 **Most recent disclosure:** 2024-09
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2000-04 — RHex hexapod (Saranli-Buehler-Koditschek)
+
+- **id:** `saranli-buehler-koditschek-rhex-ijrr-2001`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** McGill University + UMich + UPenn; Uluc Saranli, Martin Buehler, Daniel Koditschek
+- **disclosure citation:** Saranli, U., Buehler, M., Koditschek, D. E. 'RHex: A Simple and Highly Mobile Hexapod Robot'. International Journal of Robotics Research 20(7) 2001. ICRA 2000 first publication. McGill University + University of Michigan + University of Pennsylvania. Saranli later moved to METU Ankara and continued the SLIP-model research lineage that informs Turkish academic robotics.
+- **disclosed subsystems:** `mechanism-hexapod`, `mechanism-whegs`, `mechanism-passive-spring`, `control-tripod-gait`, `control-rough-terrain-locomotion`
+
+**Prior art notes:**
+
+> RHex (Saranli-Buehler-Koditschek IJRR 2001) is the foundational simple hexapod robot. 24-year-deep public-domain prior art. **The architectural ancestor of the STAR family** (corpus round-10 entries star-fearing-2013 + descendants → DSTAR 2026). Saranli later moved to METU Ankara, continuing the SLIP-model research lineage that informs the round-24 METU Turkey aggregator. Direct shielding for any commercial humanoid claim deriving from simple-leg or wheel-leg-hybrid morphologies.
+
+**Sources:**
+
+1. Saranli, U., Buehler, M., Koditschek, D. E. IJRR 20(7) 2001.
+2. Saranli, U., Buehler, M., Koditschek, D. E. ICRA 2000.
+3. Saranli post-RHex career at METU Ankara.
+
+---
 
 ### 2005-12 — Boston Dynamics BigDog
 
@@ -193,4 +214,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*

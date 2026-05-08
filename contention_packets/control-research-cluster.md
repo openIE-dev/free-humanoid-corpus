@@ -1,7 +1,7 @@
 ---
 title: "control-research-cluster"
 parent: "Invalidity Contentions"
-nav_order: 89
+nav_order: 91
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-research-cluster`  
-**Entries:** 39 (3 commons-grade, 36 draft)  
+**Entries:** 40 (4 commons-grade, 36 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2018-09
 
@@ -777,6 +777,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-01 — Edan-Bechar agricultural robotics survey
+
+- **id:** `edan-bechar-agritech-survey-2017`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Volcani Center / Israeli Agricultural Research Organization; Avital Bechar + Yael Edan (Ben-Gurion University)
+- **disclosure citation:** Bechar, A., Vigneault, C. 'Agricultural robots for field operations: Concepts and components'. Biosystems Engineering 149 2016. Bechar, A., Vigneault, C. 'Agricultural robots for field operations. Part 2: Operations and systems'. Biosystems Engineering 153 2017. Volcani Center / Israeli Agricultural Research Organization + Yael Edan Ben-Gurion University. The canonical agricultural-robotics academic survey from the Israeli academic + agritech research community.
+- **disclosed subsystems:** `control-agricultural-autonomy`, `control-research-cluster`
+
+**Prior art notes:**
+
+> Edan-Bechar agritech survey (Biosystems Engineering 2016/2017) is the canonical Israeli academic agricultural-robotics survey. 9-year-deep public-domain prior art. The Israeli agritech academic anchor — together with Embrapa Brazil agritech (round-23) + CSIRO Bobcat (round-23 + round-36) + USP Brazil (round-23), establishes the global agritech-robotics prior-art chain. Adds Israeli academic agritech specifically (corpus has Israeli humanoid robotics via Zarrouk Ben-Gurion STAR family but lacks specific agritech paper-level entry).
+
+**Sources:**
+
+1. Bechar, A., Vigneault, C. Biosystems Engineering 149 2016 (Part 1).
+2. Bechar, A., Vigneault, C. Biosystems Engineering 153 2017 (Part 2).
+3. Volcani Center / IARO + BGU Edan publications.
+
+---
+
 ### 2017-04 — Baidu Apollo (autonomous driving — distinct from Apptronik humanoid)
 
 - **id:** `baidu-apollo-self-driving-2017`
@@ -846,4 +867,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*

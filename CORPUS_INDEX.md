@@ -1,6 +1,6 @@
 # Corpus Index
 
-606 entries total. Generated from corpus.jsonl.
+610 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | Cylon Centurion (1978) | `cylon-centurion-1978` | 1978 | fictional | fictional |  |
 | Cylon Hybrids | `bsg-hybrids` | 2007 | fictional | fictional |  |
 | Czech Technical University Prague (CVUT/CTU) robotics | `cvut-prague-czech-robotics` | 2000 | academic | open-permissive | ✓ |
+| D* dynamic replanning algorithm (Stentz) | `stentz-cmu-d-star-1995` | 1995 | academic | public-domain |  |
 | Dahj and Soji (Star Trek: Picard) | `picard-soji` | 2020 | fictional | fictional |  |
 | Daleks | `daleks-doctor-who` | 1963 | fictional | fictional |  |
 | DARwIn-OP | `darwin-op` | 2010 | open | open-permissive |  |
@@ -174,6 +175,7 @@
 | Dynamic Movement Primitives (DMP) | `dmp-schaal-ijspeert` | 2002 | academic | public-domain |  |
 | Dynamic Vision Sensor (DVS) event camera | `lichtsteiner-dvs-event-camera-2008` | 2008 | academic | public-domain |  |
 | DynaSLAM | `dynaslam-bescos-2018` | 2018 | academic | open-copyleft |  |
+| Edan-Bechar agricultural robotics survey | `edan-bechar-agritech-survey-2017` | 2017 | academic | public-domain |  |
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
 | Educational SoftHand-A | `educational-softhand-a-2025` | 2025 | academic | open-permissive |  |
 | Embrapa Brazilian agritech robotics | `embrapa-brazil-agritech-robotics` | 2010 | academic | public-domain | ✓ |
@@ -440,6 +442,7 @@
 | Retentive Network (RetNet) | `retentive-network-microsoft-2023` | 2023 | academic | public-domain |  |
 | ReWalk medical exoskeleton | `rewalk-goffer-2011` | 2011 | private | trade-secret |  |
 | RH20T heterogeneous robot trajectory dataset | `rh20t-fang-2024` | 2023 | academic | public-domain |  |
+| RHex hexapod (Saranli-Buehler-Koditschek) | `saranli-buehler-koditschek-rhex-ijrr-2001` | 2000 | academic | public-domain |  |
 | RLBench | `rlbench-james-2019` | 2019 | academic | open-permissive |  |
 | RLHF (Deep Reinforcement Learning from Human Preferences) | `christiano-rlhf-2017` | 2017 | academic | open-permissive |  |
 | Robby the Robot (Forbidden Planet) | `forbidden-planet-robby` | 1956 | fictional | fictional |  |
@@ -525,6 +528,7 @@
 | Tachikoma | `ghost-in-the-shell-tachikoma` | 2002 | fictional | fictional |  |
 | Tactile SoftHand-A | `tactile-softhand-a-2025` | 2024 | academic | open-permissive |  |
 | TacTip (vision-based tactile sensor) | `bristol-tactip-2017` | 2017 | academic | open-permissive |  |
+| Talos humanoid whole-body control (Mansard-Stasse LAAS-CNRS) | `mansard-stasse-laas-talos-2017` | 2017 | academic | open-permissive |  |
 | Talos of Crete | `talos-bronze-giant` | -025 | fictional | fictional |  |
 | Talos Principle Robots | `talos-principle-robots` | 2014 | fictional | fictional |  |
 | Tan et al. Quadruped Sim-to-Real | `tan-quadruped-sim2real` | 2018 | academic | open-permissive |  |

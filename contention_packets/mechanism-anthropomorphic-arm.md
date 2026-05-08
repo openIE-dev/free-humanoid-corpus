@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-arm"
 parent: "Invalidity Contentions"
-nav_order: 117
+nav_order: 119
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-arm`  
-**Entries:** 20 (15 commons-grade, 5 draft)  
+**Entries:** 21 (16 commons-grade, 5 draft)  
 **Earliest disclosure:** 1998-01  
 **Most recent disclosure:** 2025-02
 
@@ -229,6 +229,26 @@ cite, copy, or redistribute these contentions.
 
 1. Asimov Robotics corporate site (asimov-robotics.com).
 2. Indian press coverage 2017+.
+
+---
+
+### 2017-09 — Talos humanoid whole-body control (Mansard-Stasse LAAS-CNRS)
+
+- **id:** `mansard-stasse-laas-talos-2017`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** LAAS-CNRS Toulouse + PAL Robotics; Olivier Stasse, Nicolas Mansard, Florent Lamiraux, Jean-Paul Laumond et al.
+- **disclosure citation:** Stasse, O., Flayols, T., Budhiraja, R., Giraud-Esclasse, K., Carpentier, J., Mirabel, J., Del Prete, A., Souères, P., Mansard, N., Lamiraux, F., Laumond, J.-P., Marchionni, L., Tomé, H., Ferro, F. 'TALOS: A new humanoid research platform targeted for industrial applications'. Humanoids 2017. LAAS-CNRS Toulouse + PAL Robotics.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `control-whole-body-qp`, `control-rigid-body-dynamics`
+
+**Prior art notes:**
+
+> Talos humanoid (PAL Robotics + LAAS-CNRS Humanoids 2017) is the specific paper-level anchor for the round-26 LAAS-CNRS aggregator. 8-year-deep open-permissive prior art. Together with Pinocchio (implicit in LAAS-CNRS round-26 entry) + Crocoddyl (corpus round-8), establishes the French academic-commercial humanoid platform chain.
+
+**Sources:**
+
+1. Stasse, O. et al. Humanoids 2017.
+2. PAL Robotics Talos product page (pal-robotics.com).
 
 ---
 
@@ -492,4 +512,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*

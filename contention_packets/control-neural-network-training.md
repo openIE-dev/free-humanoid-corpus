@@ -1,7 +1,7 @@
 ---
 title: "control-neural-network-training"
 parent: "Invalidity Contentions"
-nav_order: 74
+nav_order: 75
 layout: default
 ---
 
@@ -129,4 +129,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*

@@ -395,7 +395,9 @@
       "year": "1968",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "stentz-cmu-d-star-1995"
+      ]
     },
     {
       "id": "ultron-marvel",
@@ -1298,6 +1300,16 @@
       "descendants": []
     },
     {
+      "id": "stentz-cmu-d-star-1995",
+      "name": "D* dynamic replanning algorithm (Stentz)",
+      "year": "1995",
+      "corpus": "academic",
+      "ancestors": [
+        "a-star-hart-nilsson-raphael-1968"
+      ],
+      "descendants": []
+    },
+    {
       "id": "pratt-williamson-sea",
       "name": "Pratt-Williamson Series Elastic Actuator",
       "year": "1995",
@@ -1715,6 +1727,16 @@
       "descendants": []
     },
     {
+      "id": "saranli-buehler-koditschek-rhex-ijrr-2001",
+      "name": "RHex hexapod (Saranli-Buehler-Koditschek)",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "star-fearing-2013"
+      ]
+    },
+    {
       "id": "intuitive-surgical-da-vinci-2000",
       "name": "Intuitive Surgical da Vinci",
       "year": "2000",
@@ -1941,6 +1963,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "mansard-stasse-laas-talos-2017",
         "mastalli-crocoddyl-2020"
       ]
     },
@@ -2896,7 +2919,9 @@
       "year": "2013",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "mansard-stasse-laas-talos-2017"
+      ]
     },
     {
       "id": "dji-phantom-2013",
@@ -2951,7 +2976,9 @@
       "name": "STAR (Sprawl-Tuned Autonomous Robot)",
       "year": "2013",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "saranli-buehler-koditschek-rhex-ijrr-2001"
+      ],
       "descendants": [
         "amphistar-zarrouk-2023",
         "dstar-zarrouk-2026",
@@ -3571,6 +3598,14 @@
       "descendants": []
     },
     {
+      "id": "edan-bechar-agritech-survey-2017",
+      "name": "Edan-Bechar agricultural robotics survey",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "nier-automata-2b",
       "name": "YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata)",
       "year": "2017",
@@ -3729,6 +3764,17 @@
       "year": "2017",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mansard-stasse-laas-talos-2017",
+      "name": "Talos humanoid whole-body control (Mansard-Stasse LAAS-CNRS)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [
+        "laas-cnrs-toulouse-humanoid-2003",
+        "reem-c"
+      ],
       "descendants": []
     },
     {

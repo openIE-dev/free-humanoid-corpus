@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-agricultural-autonomy`  
-**Entries:** 2 (0 commons-grade, 2 draft)  
+**Entries:** 3 (1 commons-grade, 2 draft)  
 **Earliest disclosure:** 2010-01  
-**Most recent disclosure:** 2010-07
+**Most recent disclosure:** 2017-01
 
 ---
 
@@ -82,6 +82,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-01 — Edan-Bechar agricultural robotics survey
+
+- **id:** `edan-bechar-agritech-survey-2017`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Volcani Center / Israeli Agricultural Research Organization; Avital Bechar + Yael Edan (Ben-Gurion University)
+- **disclosure citation:** Bechar, A., Vigneault, C. 'Agricultural robots for field operations: Concepts and components'. Biosystems Engineering 149 2016. Bechar, A., Vigneault, C. 'Agricultural robots for field operations. Part 2: Operations and systems'. Biosystems Engineering 153 2017. Volcani Center / Israeli Agricultural Research Organization + Yael Edan Ben-Gurion University. The canonical agricultural-robotics academic survey from the Israeli academic + agritech research community.
+- **disclosed subsystems:** `control-agricultural-autonomy`, `control-research-cluster`
+
+**Prior art notes:**
+
+> Edan-Bechar agritech survey (Biosystems Engineering 2016/2017) is the canonical Israeli academic agricultural-robotics survey. 9-year-deep public-domain prior art. The Israeli agritech academic anchor — together with Embrapa Brazil agritech (round-23) + CSIRO Bobcat (round-23 + round-36) + USP Brazil (round-23), establishes the global agritech-robotics prior-art chain. Adds Israeli academic agritech specifically (corpus has Israeli humanoid robotics via Zarrouk Ben-Gurion STAR family but lacks specific agritech paper-level entry).
+
+**Sources:**
+
+1. Bechar, A., Vigneault, C. Biosystems Engineering 149 2016 (Part 1).
+2. Bechar, A., Vigneault, C. Biosystems Engineering 153 2017 (Part 2).
+3. Volcani Center / IARO + BGU Edan publications.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -112,4 +133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `55e963d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*

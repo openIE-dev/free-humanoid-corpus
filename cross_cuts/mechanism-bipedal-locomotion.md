@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**153 corpus entries disclose this subsystem.**
+**154 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -986,6 +986,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Robotis Co., Ltd. (Seoul, South Korea). OP3 educational humanoid kit reveal August 2017 via robotis.com. Successor to DARwIn-OP (corpus entry darwin-op, ~2010 Virginia Tech / Robotis collaboration). The platform deployed by DeepMind for the Haarnoja humanoid soccer paper (Science Robotics 2024, corpus entry deepmind-humanoid-soccer-haarnoja-2024).
 - **ip status**: trade-secret
 - **prior art notes**: Robotis OP3 is the canonical Korean educational/research humanoid platform (Robotis 2017+). 8-year-deep public-disclosure prior art. **The platform DeepMind humanoid soccer (round-18 entry) ran on** — round-26 closes that hardware-platform citation. Direct shielding for any commercial humanoid claim on small-form-factor (Kid-Size) educational humanoid. Brings Korean entries to 7.
+
+## Talos humanoid whole-body control (Mansard-Stasse LAAS-CNRS) (2017-09)
+
+- **id**: `mansard-stasse-laas-talos-2017`
+- **corpus**: academic
+- **creator**: LAAS-CNRS Toulouse + PAL Robotics; Olivier Stasse, Nicolas Mansard, Florent Lamiraux, Jean-Paul Laumond et al.
+- **disclosure**: Stasse, O., Flayols, T., Budhiraja, R., Giraud-Esclasse, K., Carpentier, J., Mirabel, J., Del Prete, A., Souères, P., Mansard, N., Lamiraux, F., Laumond, J.-P., Marchionni, L., Tomé, H., Ferro, F. 'TALOS: A new humanoid research platform targeted for industrial applications'. Humanoids 2017. LAAS-CNRS Toulouse + PAL Robotics.
+- **ip status**: open-permissive
+- **prior art notes**: Talos humanoid (PAL Robotics + LAAS-CNRS Humanoids 2017) is the specific paper-level anchor for the round-26 LAAS-CNRS aggregator. 8-year-deep open-permissive prior art. Together with Pinocchio (implicit in LAAS-CNRS round-26 entry) + Crocoddyl (corpus round-8), establishes the French academic-commercial humanoid platform chain.
 
 ## Kawasaki Kaleido (2017-11)
 
