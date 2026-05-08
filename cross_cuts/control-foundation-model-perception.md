@@ -6,14 +6,41 @@ layout: default
 
 # Cross-cut: `control-foundation-model-perception`
 
-**17 corpus entries disclose this subsystem.**
+**22 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2020-03
+Earliest disclosure: 2009-06
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## ImageNet (large-scale image database) (2009-06)
+
+- **id**: `imagenet-deng-cvpr-2009`
+- **corpus**: academic
+- **creator**: Princeton + Stanford + UC Berkeley; Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, Fei-Fei Li
+- **disclosure**: Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., Fei-Fei, L. 'ImageNet: A Large-Scale Hierarchical Image Database'. CVPR 2009. ImageNet Large Scale Visual Recognition Challenge (ILSVRC) 2010-2017.
+- **ip status**: public-domain
+- **prior art notes**: ImageNet (Deng et al. CVPR 2009) is the foundational dataset of modern computer vision. 16-year-deep public-domain prior art. >75,000 citations. The pretraining dataset of ResNet (round-30), ViT (round-30), every modern vision encoder. Direct shielding for any commercial humanoid claim using ImageNet-pretrained vision encoders.
+
+## AlexNet (2012-12)
+
+- **id**: `alexnet-krizhevsky-nips-2012`
+- **corpus**: academic
+- **creator**: University of Toronto; Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
+- **disclosure**: Krizhevsky, A., Sutskever, I., Hinton, G. E. 'ImageNet Classification with Deep Convolutional Neural Networks'. NeurIPS 2012. University of Toronto.
+- **ip status**: public-domain
+- **prior art notes**: AlexNet (Krizhevsky et al. NeurIPS 2012) is **the paper that started the deep-learning revolution in computer vision**. 13-year-deep public-domain prior art. >180,000 citations. The predecessor of ResNet (round-30), ViT (round-30), every modern vision encoder. Together with ImageNet (round-30), constitutes the foundational vision-DL substrate underlying every commercial humanoid vision system.
+
+## ResNet (Residual Networks) (2015-12)
+
+- **id**: `resnet-he-cvpr-2016`
+- **corpus**: academic
+- **creator**: Microsoft Research Asia; Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **disclosure**: He, K., Zhang, X., Ren, S., Sun, J. 'Deep Residual Learning for Image Recognition'. CVPR 2016 Best Paper. arXiv:1512.03385. Microsoft Research Asia.
+- **ip status**: public-domain
+- **prior art notes**: ResNet (He et al. CVPR 2016 Best Paper) is the foundational deep residual networks paper. 10-year-deep public-domain prior art. >250,000 citations — one of the most-cited ML papers of all time. The visual encoder underlying BC-Z (round-29), RT-1 (corpus), and most pre-Transformer robotic VLA. Direct shielding for any commercial humanoid claim using deep CNNs for vision encoding.
 
 ## NeRF (Neural Radiance Fields) (2020-03)
 
@@ -23,6 +50,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., Ng, R. 'NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis'. ECCV 2020 Best Paper Honorable Mention. arXiv:2003.08934. UC Berkeley + Google Research.
 - **ip status**: open-permissive
 - **prior art notes**: NeRF (Mildenhall et al. ECCV 2020) is the foundational neural-implicit-3D-representation paper. 5-year-deep open-permissive prior art. **The architectural ancestor of every subsequent neural-3D system** including LERF (round-13), 3D Gaussian Splatting (round-27), all 6 GS-SLAM systems in the corpus, RoDyn-SLAM (round-14, NeRF-based dynamic SLAM). Direct shielding for any commercial humanoid claim on neural-implicit scene representation. Closes a major foundational citation chain.
+
+## Vision Transformer (ViT) (2020-10)
+
+- **id**: `vit-dosovitskiy-iclr-2021`
+- **corpus**: academic
+- **creator**: Google Research; Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov et al.
+- **disclosure**: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., Houlsby, N. 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale'. ICLR 2021. arXiv:2010.11929. Google Research.
+- **ip status**: public-domain
+- **prior art notes**: ViT (Dosovitskiy et al. Google ICLR 2021) is the foundational Vision Transformer paper. 5-year-deep public-domain prior art. **The visual backbone of CLIP (corpus), DINOv2 (round-13), AM-RADIO (round-13), VC-1 (round-29), and every modern VLA's vision encoder** post-2021. Direct successor to ResNet (round-30) for vision. Direct shielding for any commercial humanoid claim using Transformer-based vision encoders.
+
+## Masked Autoencoders (MAE) (2021-11)
+
+- **id**: `mae-he-cvpr-2022`
+- **corpus**: academic
+- **creator**: Meta AI Research (FAIR); Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick
+- **disclosure**: He, K., Chen, X., Xie, S., Li, Y., Dollár, P., Girshick, R. 'Masked Autoencoders Are Scalable Vision Learners'. CVPR 2022. arXiv:2111.06377. Meta AI Research (FAIR).
+- **ip status**: public-domain
+- **prior art notes**: MAE (He et al. CVPR 2022) is the canonical self-supervised masked-patch-reconstruction vision pretraining method. 4-year-deep public-domain prior art. **The pretraining method of VC-1** (round-29 entry) and many embodied AI vision encoders. Together with DINOv2 (round-13), establishes the self-supervised vision-pretraining academic substrate.
 
 ## Nerfstudio + Nerfacto (2023-02)
 

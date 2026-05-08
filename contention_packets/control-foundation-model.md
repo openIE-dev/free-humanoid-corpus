@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model"
 parent: "Invalidity Contentions"
-nav_order: 34
+nav_order: 35
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
-**Earliest disclosure:** 2017-06  
+**Entries:** 4 (4 commons-grade, 0 draft)  
+**Earliest disclosure:** 1997-11  
 **Most recent disclosure:** 2023-07
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1997-11 — Long Short-Term Memory (LSTM)
+
+- **id:** `lstm-hochreiter-schmidhuber-1997`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** TU München + IDSIA Lugano; Sepp Hochreiter, Jürgen Schmidhuber
+- **disclosure citation:** Hochreiter, S., Schmidhuber, J. 'Long Short-Term Memory'. Neural Computation 9(8) 1997. Technische Universität München + IDSIA Lugano.
+- **disclosed subsystems:** `control-foundation-model`, `control-sequence-model`, `control-recurrent-network`
+
+**Prior art notes:**
+
+> LSTM (Hochreiter + Schmidhuber 1997) is the foundational recurrent neural network architecture. 28-year-deep public-domain prior art. >85,000 citations. The pre-Transformer-era sequence-modeling standard, still used in modern robotic policy architectures (RoboFlamingo round-29 uses LSTM action decoder). Direct shielding for any commercial humanoid claim using recurrent neural network architectures.
+
+**Sources:**
+
+1. Hochreiter, S., Schmidhuber, J. Neural Computation 9(8) 1997.
+
+---
 
 ### 2017-06 — Transformer (Attention Is All You Need)
 
@@ -129,4 +148,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*

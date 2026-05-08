@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**144 corpus entries disclose this subsystem.**
+**148 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -465,6 +465,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Cheetah-cub is one of the earliest open-source compliant compact quadruped academic disclosures. Anticipates: (1) compact open-source compliant quadruped — directly relevant to modern claims on small commercial quadrupeds (Unitree Go1, Boston Dynamics Spot Mini class); (2) parametric CPG-based gait control on a real platform — relevant to bio-inspired locomotion claims; (3) pantograph-leg mechanism as a compliant-footed quadruped architecture — relevant to compliant-leg quadruped IP. The 2013 IJRR paper and open-source EPFL releases provide deep prior art for modern commercial compact quadrupeds.
 
+## Deep Q-Network (DQN) (2013-12)
+
+- **id**: `dqn-mnih-deepmind-2013`
+- **corpus**: academic
+- **creator**: DeepMind; Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al.
+- **disclosure**: Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., Riedmiller, M. 'Playing Atari with Deep Reinforcement Learning'. NeurIPS 2013 workshop; arXiv:1312.5602. Subsequent: 'Human-level control through deep reinforcement learning' Nature 518 2015. DeepMind.
+- **ip status**: public-domain
+- **prior art notes**: DQN (Mnih et al. DeepMind Nature 2015) is the foundational deep reinforcement learning paper. 12-year-deep public-domain prior art. The architectural ancestor of every modern deep RL system including TRPO + PPO + SAC + every RL humanoid training. Direct shielding for any commercial humanoid claim that trains policies via deep RL.
+
 ## Talos Principle Robots (2014-12-11)
 
 - **id**: `talos-principle-robots`
@@ -473,6 +482,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Croteam. The Talos Principle. Devolver Digital, December 11, 2014. Story by Tom Jubert and Jonas Kyratzes.
 - **ip status**: fictional
 - **prior art notes**: The Talos Principle is one of the most engineering-philosophical fictional disclosures of *sim-to-real training as the explicit deployment paradigm* for humanoid policies. Anticipates: (1) deliberately-constructed simulation training environment as the policy-acquisition substrate — directly relevant to modern sim-to-real humanoid IP (every commercial humanoid uses some variant of this paradigm); (2) curriculum design for progressive task difficulty — relevant to curriculum-learning humanoid claims; (3) ethical/philosophical reasoning as part of the training curriculum — relevant to alignment-supervision humanoid IP. The 2014 release predates much of the academic literature on sim-to-real humanoid policies. Continuously available since 2014.
+
+## Trust Region Policy Optimization (TRPO) (2015-02)
+
+- **id**: `trpo-schulman-icml-2015`
+- **corpus**: academic
+- **creator**: UC Berkeley; John Schulman, Sergey Levine, Philipp Moritz, Michael Jordan, Pieter Abbeel
+- **disclosure**: Schulman, J., Levine, S., Moritz, P., Jordan, M. I., Abbeel, P. 'Trust Region Policy Optimization'. ICML 2015. arXiv:1502.05477. UC Berkeley.
+- **ip status**: public-domain
+- **prior art notes**: TRPO (Schulman et al. ICML 2015) is the direct predecessor of PPO. 10-year-deep public-domain prior art for: trust-region constrained policy gradient. Together with PPO (round-30), establishes the policy-gradient lineage that all modern RL humanoid/quadruped training builds on.
 
 ## Chappie (2015-03-06)
 
@@ -600,6 +618,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Christiano et al. 2017 RLHF is the foundational academic disclosure of preference-based reward learning at scale. Anticipates: (1) human-preference-based reward learning as a deployable policy-tuning architecture — directly relevant to modern claims on aligned-humanoid IP that use preference signals; (2) the architecture of separating reward-model learning from policy learning — relevant to modular alignment-and-policy humanoid claims; (3) binary trajectory preference signals as the supervisory mode — relevant to RLHF-on-humanoid claims (Anthropic's Constitutional AI, OpenAI's InstructGPT all build on this foundation, and the technique is being ported to humanoid policy alignment). The 2017 NeurIPS paper plus open-source code on GitHub provide extensive prior art coverage. Modern humanoid alignment IP all face this 9-year academic anchor.
 
+## Proximal Policy Optimization (PPO) (2017-07)
+
+- **id**: `ppo-schulman-openai-2017`
+- **corpus**: academic
+- **creator**: OpenAI; John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov
+- **disclosure**: Schulman, J., Wolski, F., Dhariwal, P., Radford, A., Klimov, O. 'Proximal Policy Optimization Algorithms'. arXiv:1707.06347, July 2017. OpenAI.
+- **ip status**: public-domain
+- **prior art notes**: PPO (Schulman et al. OpenAI 2017) is the dominant RL algorithm in robotics. 8-year-deep public-domain prior art. **Cited 55 times in this corpus alone — the most-cited missing-entry before round-30**. The actual training algorithm of: ANYmal sim-to-real (corpus entry hwangbo-anymal-sim2real), Berkeley Humanoid (round-11), ToddlerBot (round-11), DeepMind humanoid soccer (round-18), MIT Cheetah series (corpus), OpenAI Dactyl (corpus), Hwangbo ANYmal, Tan quadruped sim2real (corpus), every Isaac Gym RL paper. Direct shielding for any commercial humanoid claim on RL-trained policies — PPO is the algorithm the policies are actually trained with.
+
 ## Hindsight Experience Replay (HER) (2017-07-05)
 
 - **id**: `hindsight-experience-replay`
@@ -626,6 +653,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Black Mirror, Series 4, Episode 5, 'Metalhead.' Written by Charlie Brooker; directed by David Slade; released on Netflix 29 December 2017.
 - **ip status**: public-domain
 - **prior art notes**: 'Metalhead' is the canonical 2017 mass-media anchor for autonomous quadruped lethal-defense robots and was directly modeled on the Boston Dynamics SpotMini reveal. It anticipates with full specificity: (1) claims on quadruped robots equipped with weapon payloads operating in fully-autonomous lethal-engagement mode — the episode dramatizes exactly this throughout 41 minutes; (2) claims on shrapnel-tag persistent-tracker payloads that mark a target for prolonged pursuit — this is the headline mechanism of the second act; (3) claims on SpotMini-class compact electric quadruped morphology with integrated manipulator arm — the visual design and Brooker's published commentary explicitly cite Boston Dynamics inspiration. Released on Netflix with timestamped 29 December 2017 distribution to ~109 million subscribers.
+
+## Soft Actor-Critic (SAC) (2018-01)
+
+- **id**: `soft-actor-critic-haarnoja-2018`
+- **corpus**: academic
+- **creator**: UC Berkeley + Google Brain; Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine
+- **disclosure**: Haarnoja, T., Zhou, A., Abbeel, P., Levine, S. 'Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor'. ICML 2018. arXiv:1801.01290. UC Berkeley + Google Brain.
+- **ip status**: public-domain
+- **prior art notes**: SAC (Haarnoja et al. ICML 2018) is the canonical off-policy maximum-entropy RL algorithm. 7-year-deep public-domain prior art. Notable: same first author (Haarnoja) led DeepMind humanoid soccer (round-18). Together with PPO (round-30), TRPO (round-30), DQN (round-30), establishes the deep RL prior-art chain underlying every RL-trained humanoid + quadruped policy in the corpus.
 
 ## OmniGibson / iGibson (Stanford SVL) (2018-04)
 

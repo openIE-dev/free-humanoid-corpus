@@ -1,6 +1,6 @@
 # Corpus Index
 
-531 entries total. Generated from corpus.jsonl.
+544 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -11,10 +11,12 @@
 | A*STAR Institute for Infocomm Research (I2R) robotics | `a-star-singapore-i2r-robotics` | 2002 | academic | open-permissive | ✓ |
 | Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning | `abbeel-ng-irl-2004` | 2004 | academic | public-domain |  |
 | ACT (Action Chunking Transformer) / ALOHA | `act-aloha` | 2023 | academic | open-permissive |  |
+| Adam optimizer | `adam-kingma-iclr-2015` | 2014 | academic | public-domain |  |
 | Adversarial Motion Priors (AMP) | `amp-peng-siggraph-2021` | 2021 | academic | open-permissive |  |
 | Adversarial Skill Embeddings (ASE) | `ase-peng-stanford-2022` | 2022 | academic | open-permissive |  |
 | AgiBot A1 | `agibot-a1` | 2023 | private | patented | ✓ |
 | Akira (Tetsuo cyborg-mutation, Akira containment) | `akira-tetsuo-1988` | 1982 | fictional | fictional |  |
+| AlexNet | `alexnet-krizhevsky-nips-2012` | 2012 | academic | public-domain |  |
 | Alita / Gally (Battle Angel Alita / Gunnm) | `battle-angel-alita` | 1990 | fictional | fictional |  |
 | Allegro Hand (Wonik / SimLab) | `allegro-hand-wonik-simlab-2014` | 2014 | private | trade-secret |  |
 | ALOHA-2 enhanced bimanual teleoperation platform | `aloha-2-aldaco-2024` | 2024 | academic | public-domain |  |
@@ -123,6 +125,7 @@
 | David and Walter (Alien franchise synthetics) | `david-prometheus-walter-covenant` | 2012 | fictional | fictional |  |
 | Decision Transformer | `decision-transformer-chen-2021` | 2021 | academic | public-domain |  |
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
+| Deep Q-Network (DQN) | `dqn-mnih-deepmind-2013` | 2013 | academic | public-domain |  |
 | DeepMimic | `deepmimic-peng-siggraph-2018` | 2018 | academic | open-permissive |  |
 | DeepMind humanoid soccer (Haarnoja et al.) | `deepmind-humanoid-soccer-haarnoja-2024` | 2024 | academic | open-permissive |  |
 | Denoising Diffusion Probabilistic Models (DDPM) | `ddpm-ho-neurips-2020` | 2020 | academic | public-domain |  |
@@ -185,6 +188,7 @@
 | GelSight Mini | `gelsight-mini-2022` | 2022 | private | trade-secret |  |
 | Generation-3 Synths (Institute Synths) | `fallout-gen-3-synths` | 2015 | fictional | fictional |  |
 | Generative Adversarial Imitation Learning (GAIL) | `gail-ho-ermon` | 2016 | academic | open-permissive |  |
+| Generative Adversarial Networks (GAN) | `gan-goodfellow-nips-2014` | 2014 | academic | public-domain |  |
 | Genesis (open-source physics simulator) | `genesis-embodied-ai-simulator` | 2024 | open | open-permissive |  |
 | Genesis AI GENE-26.5 | `genesis-ai-gene-26-5` | 2026 | private | trade-secret | ✓ |
 | Genos (One Punch Man) | `opm-genos` | 2009 | fictional | fictional |  |
@@ -235,6 +239,7 @@
 | IIT India robotics research cluster | `iit-india-robotics-research-cluster` | 2010 | academic | open-permissive | ✓ |
 | IIT WALK-MAN + R1 personal humanoid (Italy) | `iit-walk-man-r1-italy-2015` | 2015 | academic | public-domain |  |
 | Ijspeert-Schaal Dynamic Movement Primitives (formal extension) | `ijspeert-dmp-2013` | 2013 | academic | public-domain |  |
+| ImageNet (large-scale image database) | `imagenet-deng-cvpr-2009` | 2009 | academic | public-domain |  |
 | InMoov | `inmoov` | 2012 | open | open-permissive |  |
 | INRIA France robotics aggregator | `inria-france-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Intuitive Surgical da Vinci | `intuitive-surgical-da-vinci-2000` | 2000 | private | trade-secret |  |
@@ -281,6 +286,7 @@
 | Liberty Prime | `fallout-liberty-prime` | 2008 | fictional | fictional |  |
 | LimX Dynamics CL-1 | `limx-cl1` | 2023 | private | patented | ✓ |
 | LLaMA 2 | `meta-llama-2-2023` | 2023 | academic | open-permissive |  |
+| Long Short-Term Memory (LSTM) | `lstm-hochreiter-schmidhuber-1997` | 1997 | academic | public-domain |  |
 | Lore (Star Trek: TNG) | `star-trek-tng-lore` | 1988 | fictional | fictional |  |
 | Lucas-Kanade Optical Flow | `lucas-kanade-1981` | 1981 | academic | public-domain |  |
 | M3GAN | `m3gan` | 2022 | fictional | fictional |  |
@@ -290,6 +296,7 @@
 | Major Motoko Kusanagi (Ghost in the Shell) | `ghost-in-the-shell-major` | 1989 | fictional | fictional |  |
 | Manus Quantum Metagloves | `manus-quantum-metagloves-2023` | 2023 | private | trade-secret | ✓ |
 | Maschinenmensch | `metropolis-maschinenmensch` | 1927 | fictional | public-domain |  |
+| Masked Autoencoders (MAE) | `mae-he-cvpr-2022` | 2021 | academic | public-domain |  |
 | MaskedMimic | `maskedmimic-tessler-stanford-2024` | 2024 | academic | open-permissive |  |
 | Mason Mechanics of Manipulation | `mason-mechanics-manipulation` | 1986 | academic | public-domain |  |
 | MASt3R (Matching And Stereo 3D Reconstruction) | `mast3r-naver-2024` | 2024 | academic | open-permissive |  |
@@ -369,6 +376,7 @@
 | Pratt-Williamson Series Elastic Actuator | `pratt-williamson-sea` | 1995 | academic | public-domain |  |
 | Promobot | `promobot-russia-2015` | 2015 | private | trade-secret |  |
 | Prophesee EVK4 event camera | `prophesee-evk4-event-camera-2020` | 2020 | private | trade-secret |  |
+| Proximal Policy Optimization (PPO) | `ppo-schulman-openai-2017` | 2017 | academic | public-domain |  |
 | R. Daneel Olivaw | `asimov-caves-of-steel-daneel` | 1953 | fictional | fictional |  |
 | R2-D2 | `r2-d2-star-wars` | 1977 | fictional | fictional |  |
 | RADIO-ViPE | `radio-vipe-itmo-2026` | 2026 | academic | open-permissive |  |
@@ -385,6 +393,7 @@
 | REMUS 100 AUV | `kongsberg-remus-100-auv` | 1995 | private | trade-secret |  |
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
 | ReSkin (magnetic tactile skin) | `cmu-reskin-tactile-2021` | 2021 | academic | open-permissive |  |
+| ResNet (Residual Networks) | `resnet-he-cvpr-2016` | 2015 | academic | public-domain |  |
 | ReWalk medical exoskeleton | `rewalk-goffer-2011` | 2011 | private | trade-secret |  |
 | RH20T heterogeneous robot trajectory dataset | `rh20t-fang-2024` | 2023 | academic | public-domain |  |
 | RLBench | `rlbench-james-2019` | 2019 | academic | open-permissive |  |
@@ -446,6 +455,7 @@
 | Skybot F-850 / FEDOR | `skybot-fedor-russia-2019` | 2014 | private | trade-secret |  |
 | Slocum Glider | `slocum-glider-auv` | 1989 | academic | open-permissive |  |
 | Smith (Atlas 2024) | `atlas-2024-film` | 2024 | fictional | fictional |  |
+| Soft Actor-Critic (SAC) | `soft-actor-critic-haarnoja-2018` | 2018 | academic | public-domain |  |
 | Sony AIBO | `sony-aibo` | 1999 | private | patented |  |
 | Sony QRIO | `sony-qrio` | 2003 | private | patented |  |
 | Sophia | `hanson-sophia` | 2016 | private | patented |  |
@@ -484,6 +494,7 @@
 | Transformer (Attention Is All You Need) | `transformer-vaswani-neurips-2017` | 2017 | academic | public-domain |  |
 | Triton XLX work-class ROV | `triton-xlx-rov` | 2003 | private | trade-secret |  |
 | Trurl and Klapaucius (The Cyberiad) | `lem-cyberiad` | 1965 | fictional | fictional |  |
+| Trust Region Policy Optimization (TRPO) | `trpo-schulman-icml-2015` | 2015 | academic | public-domain |  |
 | Tsinghua University China robotics | `tsinghua-china-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | TSTAR (Tail STAR) | `tstar-zarrouk-2018` | 2018 | academic | open-permissive | ✓ |
 | TU Delft Netherlands robotics | `tu-delft-netherlands-robotics` | 2000 | academic | open-permissive | ✓ |
@@ -510,10 +521,12 @@
 | V.I.N.CENT and Maximilian (The Black Hole) | `black-hole-vincent` | 1979 | fictional | fictional |  |
 | Val and Aqua (Heartbeeps) | `heartbeeps-val-aqua` | 1981 | fictional | fictional |  |
 | Variable Stiffness Actuator (Tonietti VSA) | `tonietti-vsa-pisa-iit-2005` | 2005 | academic | public-domain |  |
+| Variational Autoencoder (VAE) | `vae-kingma-iclr-2014` | 2013 | academic | public-domain |  |
 | Vicarious Surgical | `vicarious-surgical-2014` | 2014 | private | trade-secret |  |
 | Vicon optical motion capture | `vicon-mocap-1984` | 1984 | private | trade-secret |  |
 | VIMA (General Robot Manipulation with Multimodal Prompts) | `vima` | 2022 | academic | open-permissive |  |
 | ViPE (Video Pose Engine) | `nvidia-vipe-2025` | 2025 | academic | open-permissive |  |
+| Vision Transformer (ViT) | `vit-dosovitskiy-iclr-2021` | 2020 | academic | public-domain |  |
 | Visual Cortex 1 (VC-1) | `meta-vc-1-majumdar-2023` | 2023 | academic | open-permissive |  |
 | Voc Robots (Robots of Death) | `voc-robots-doctor-who` | 1977 | fictional | fictional |  |
 | VTT Technical Research Centre of Finland robotics | `vtt-finland-robotics-cluster` | 2000 | academic | open-permissive | ✓ |

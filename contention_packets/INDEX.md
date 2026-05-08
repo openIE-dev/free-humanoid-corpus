@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-08  
-**Packets:** 149  
-**Corpus revision:** `46e9af2`
+**Packets:** 153  
+**Corpus revision:** `4440aa4`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -55,15 +55,17 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-bimanual-manipulation`](control-bimanual-manipulation.md) | 2 | 2 | 0 | 2024-10 | 2025-02 |
 | [`control-bundle-adjustment`](control-bundle-adjustment.md) | 5 | 4 | 1 | 2021-04 | 2026-04 |
 | [`control-cross-embodiment`](control-cross-embodiment.md) | 6 | 5 | 1 | 2023-10 | 2025-03 |
+| [`control-deep-cnn`](control-deep-cnn.md) | 2 | 2 | 0 | 2012-12 | 2015-12 |
 | [`control-diffusion-policy`](control-diffusion-policy.md) | 4 | 4 | 0 | 2020-06 | 2024-10 |
 | [`control-dual-system-architecture`](control-dual-system-architecture.md) | 2 | 2 | 0 | 2025-02 | 2025-03 |
 | [`control-dvl-positioning`](control-dvl-positioning.md) | 8 | 7 | 1 | 1989-04 | 2018-04 |
 | [`control-dynamic-scene-robust`](control-dynamic-scene-robust.md) | 6 | 4 | 2 | 2018-06 | 2026-04 |
 | [`control-egocentric-video-pretraining`](control-egocentric-video-pretraining.md) | 3 | 3 | 0 | 2021-08 | 2025-03 |
-| [`control-foundation-model`](control-foundation-model.md) | 3 | 3 | 0 | 2017-06 | 2023-07 |
-| [`control-foundation-model-perception`](control-foundation-model-perception.md) | 17 | 15 | 2 | 2020-03 | 2026-04 |
+| [`control-foundation-model`](control-foundation-model.md) | 4 | 4 | 0 | 1997-11 | 2023-07 |
+| [`control-foundation-model-perception`](control-foundation-model-perception.md) | 22 | 20 | 2 | 2009-06 | 2026-04 |
 | [`control-foundation-model-policy`](control-foundation-model-policy.md) | 19 | 15 | 4 | 2021-06 | 2025-10 |
 | [`control-gaussian-splatting-slam`](control-gaussian-splatting-slam.md) | 6 | 2 | 4 | 2024-03 | 2025-11 |
+| [`control-generative-model`](control-generative-model.md) | 3 | 3 | 0 | 2013-12 | 2020-06 |
 | [`control-grasp-planning`](control-grasp-planning.md) | 2 | 1 | 1 | 1989-06 | 2000-01 |
 | [`control-grasp-taxonomy`](control-grasp-taxonomy.md) | 4 | 4 | 0 | 1919-01 | 1989-06 |
 | [`control-haptic-rendering`](control-haptic-rendering.md) | 4 | 3 | 1 | 1994-09 | 2023-09 |
@@ -90,16 +92,18 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-open-vocabulary`](control-open-vocabulary.md) | 4 | 3 | 1 | 2023-03 | 2026-04 |
 | [`control-operational-space`](control-operational-space.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
 | [`control-physics-simulation`](control-physics-simulation.md) | 6 | 6 | 0 | 2012-10 | 2024-06 |
+| [`control-policy-gradient`](control-policy-gradient.md) | 2 | 2 | 0 | 2015-02 | 2017-07 |
 | [`control-prosthetic-control`](control-prosthetic-control.md) | 2 | 2 | 0 | 2002-07 | 2009-12 |
 | [`control-publish-subscribe`](control-publish-subscribe.md) | 2 | 2 | 0 | 2009-05 | 2017-12 |
 | [`control-raibert-decomposition`](control-raibert-decomposition.md) | 2 | 1 | 1 | 1981-01 | 2005-12 |
 | [`control-reduced-order-model`](control-reduced-order-model.md) | 28 | 27 | 1 | 1979-04-07 | 2023-08 |
 | [`control-research-cluster`](control-research-cluster.md) | 36 | 1 | 35 | 2000-01 | 2011-11 |
-| [`control-rl-policy`](control-rl-policy.md) | 144 | 116 | 28 | 1818 | 2026-04 |
+| [`control-rl-policy`](control-rl-policy.md) | 148 | 120 | 28 | 1818 | 2026-04 |
 | [`control-rough-terrain-locomotion`](control-rough-terrain-locomotion.md) | 5 | 5 | 0 | 2005-12 | 2024-09 |
-| [`control-self-supervised-vision`](control-self-supervised-vision.md) | 2 | 2 | 0 | 2023-03 | 2023-04 |
+| [`control-self-supervised-vision`](control-self-supervised-vision.md) | 3 | 3 | 0 | 2021-11 | 2023-04 |
 | [`control-semantic-slam`](control-semantic-slam.md) | 4 | 1 | 3 | 2024-03 | 2026-04 |
 | [`control-sensitivity-amplification`](control-sensitivity-amplification.md) | 2 | 2 | 0 | 2004-03 | 2018-09 |
+| [`control-sequence-model`](control-sequence-model.md) | 2 | 2 | 0 | 1997-11 | 2017-06 |
 | [`control-sim-to-real`](control-sim-to-real.md) | 35 | 30 | 5 | 2014-12-11 | 2026-04 |
 | [`control-slip-model`](control-slip-model.md) | 2 | 0 | 2 | 1981-01 | 2000-01 |
 | [`control-station-keeping`](control-station-keeping.md) | 6 | 6 | 0 | 1964-06 | 2022-07 |

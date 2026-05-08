@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-self-supervised-vision`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2023-03
+Earliest disclosure: 2021-11
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Masked Autoencoders (MAE) (2021-11)
+
+- **id**: `mae-he-cvpr-2022`
+- **corpus**: academic
+- **creator**: Meta AI Research (FAIR); Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick
+- **disclosure**: He, K., Chen, X., Xie, S., Li, Y., Dollár, P., Girshick, R. 'Masked Autoencoders Are Scalable Vision Learners'. CVPR 2022. arXiv:2111.06377. Meta AI Research (FAIR).
+- **ip status**: public-domain
+- **prior art notes**: MAE (He et al. CVPR 2022) is the canonical self-supervised masked-patch-reconstruction vision pretraining method. 4-year-deep public-domain prior art. **The pretraining method of VC-1** (round-29 entry) and many embodied AI vision encoders. Together with DINOv2 (round-13), establishes the self-supervised vision-pretraining academic substrate.
 
 ## Visual Cortex 1 (VC-1) (2023-03)
 

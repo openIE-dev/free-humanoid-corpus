@@ -1,7 +1,7 @@
 ---
 title: "control-whole-body-qp"
 parent: "Invalidity Contentions"
-nav_order: 87
+nav_order: 91
 layout: default
 ---
 
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*

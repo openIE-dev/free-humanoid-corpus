@@ -1288,6 +1288,14 @@
       ]
     },
     {
+      "id": "lstm-hochreiter-schmidhuber-1997",
+      "name": "Long Short-Term Memory (LSTM)",
+      "year": "1997",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "kit-armar-humanoid-2000-2020",
       "name": "KIT ARMAR humanoid lineage",
       "year": "1998",
@@ -2298,6 +2306,14 @@
       ]
     },
     {
+      "id": "imagenet-deng-cvpr-2009",
+      "name": "ImageNet (large-scale image database)",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "gelsight",
       "name": "GelSight",
       "year": "2009",
@@ -2588,6 +2604,17 @@
       ]
     },
     {
+      "id": "alexnet-krizhevsky-nips-2012",
+      "name": "AlexNet",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "resnet-he-cvpr-2016",
+        "vit-dosovitskiy-iclr-2021"
+      ]
+    },
+    {
       "id": "atrias",
       "name": "ATRIAS",
       "year": "2013",
@@ -2725,6 +2752,28 @@
       "descendants": []
     },
     {
+      "id": "dqn-mnih-deepmind-2013",
+      "name": "Deep Q-Network (DQN)",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "ppo-schulman-openai-2017",
+        "soft-actor-critic-haarnoja-2018",
+        "trpo-schulman-icml-2015"
+      ]
+    },
+    {
+      "id": "vae-kingma-iclr-2014",
+      "name": "Variational Autoencoder (VAE)",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "ase-peng-stanford-2022"
+      ]
+    },
+    {
       "id": "mit-cheetah-2",
       "name": "MIT Cheetah 2",
       "year": "2014",
@@ -2806,6 +2855,17 @@
       "descendants": []
     },
     {
+      "id": "gan-goodfellow-nips-2014",
+      "name": "Generative Adversarial Networks (GAN)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "amp-peng-siggraph-2021",
+        "ase-peng-stanford-2022"
+      ]
+    },
+    {
       "id": "pepper-softbank",
       "name": "Pepper",
       "year": "2014",
@@ -2877,6 +2937,14 @@
       "descendants": []
     },
     {
+      "id": "adam-kingma-iclr-2015",
+      "name": "Adam optimizer",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "black-mirror-white-christmas-2014",
       "name": "Black Mirror 'White Christmas' cookies and consciousness copies",
       "year": "2014",
@@ -2903,6 +2971,18 @@
       ],
       "descendants": [
         "spot-fuel-cell"
+      ]
+    },
+    {
+      "id": "trpo-schulman-icml-2015",
+      "name": "Trust Region Policy Optimization (TRPO)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [
+        "dqn-mnih-deepmind-2013"
+      ],
+      "descendants": [
+        "ppo-schulman-openai-2017"
       ]
     },
     {
@@ -2999,6 +3079,16 @@
       "year": "2015",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "resnet-he-cvpr-2016",
+      "name": "ResNet (Residual Networks)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [
+        "alexnet-krizhevsky-nips-2012"
+      ],
       "descendants": []
     },
     {
@@ -3190,7 +3280,8 @@
       "descendants": [
         "decision-transformer-chen-2021",
         "meta-vc-1-majumdar-2023",
-        "roboflamingo-baai-tsinghua-2024"
+        "roboflamingo-baai-tsinghua-2024",
+        "vit-dosovitskiy-iclr-2021"
       ]
     },
     {
@@ -3199,6 +3290,17 @@
       "year": "2017",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ppo-schulman-openai-2017",
+      "name": "Proximal Policy Optimization (PPO)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [
+        "dqn-mnih-deepmind-2013",
+        "trpo-schulman-icml-2015"
+      ],
       "descendants": []
     },
     {
@@ -3328,6 +3430,16 @@
       "corpus": "academic",
       "ancestors": [
         "sherman-simplex-architecture"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "soft-actor-critic-haarnoja-2018",
+      "name": "Soft Actor-Critic (SAC)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "dqn-mnih-deepmind-2013"
       ],
       "descendants": []
     },
@@ -3765,6 +3877,19 @@
       "descendants": []
     },
     {
+      "id": "vit-dosovitskiy-iclr-2021",
+      "name": "Vision Transformer (ViT)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [
+        "alexnet-krizhevsky-nips-2012",
+        "transformer-vaswani-neurips-2017"
+      ],
+      "descendants": [
+        "mae-he-cvpr-2022"
+      ]
+    },
+    {
       "id": "digit-meta",
       "name": "DIGIT",
       "year": "2020",
@@ -3819,6 +3944,7 @@
       "corpus": "academic",
       "ancestors": [
         "deepmimic-peng-siggraph-2018",
+        "gan-goodfellow-nips-2014",
         "vicon-mocap-1984"
       ],
       "descendants": [
@@ -3931,6 +4057,18 @@
       "descendants": []
     },
     {
+      "id": "mae-he-cvpr-2022",
+      "name": "Masked Autoencoders (MAE)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [
+        "vit-dosovitskiy-iclr-2021"
+      ],
+      "descendants": [
+        "meta-vc-1-majumdar-2023"
+      ]
+    },
+    {
       "id": "mit-humanoid-2021",
       "name": "MIT Humanoid",
       "year": "2021",
@@ -4023,6 +4161,8 @@
       "corpus": "academic",
       "ancestors": [
         "amp-peng-siggraph-2021",
+        "gan-goodfellow-nips-2014",
+        "vae-kingma-iclr-2014",
         "vicon-mocap-1984"
       ],
       "descendants": [
@@ -4183,6 +4323,7 @@
       "year": "2023",
       "corpus": "academic",
       "ancestors": [
+        "mae-he-cvpr-2022",
         "transformer-vaswani-neurips-2017"
       ],
       "descendants": []

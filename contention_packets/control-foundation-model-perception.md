@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model-perception"
 parent: "Invalidity Contentions"
-nav_order: 35
+nav_order: 36
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model-perception`  
-**Entries:** 17 (15 commons-grade, 2 draft)  
-**Earliest disclosure:** 2020-03  
+**Entries:** 22 (20 commons-grade, 2 draft)  
+**Earliest disclosure:** 2009-06  
 **Most recent disclosure:** 2026-04
 
 ---
@@ -40,6 +40,64 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 2009-06 — ImageNet (large-scale image database)
+
+- **id:** `imagenet-deng-cvpr-2009`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Princeton + Stanford + UC Berkeley; Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, Fei-Fei Li
+- **disclosure citation:** Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., Fei-Fei, L. 'ImageNet: A Large-Scale Hierarchical Image Database'. CVPR 2009. ImageNet Large Scale Visual Recognition Challenge (ILSVRC) 2010-2017.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-pretraining-dataset`
+
+**Prior art notes:**
+
+> ImageNet (Deng et al. CVPR 2009) is the foundational dataset of modern computer vision. 16-year-deep public-domain prior art. >75,000 citations. The pretraining dataset of ResNet (round-30), ViT (round-30), every modern vision encoder. Direct shielding for any commercial humanoid claim using ImageNet-pretrained vision encoders.
+
+**Sources:**
+
+1. Deng et al. CVPR 2009.
+2. ImageNet site (image-net.org).
+
+---
+
+### 2012-12 — AlexNet
+
+- **id:** `alexnet-krizhevsky-nips-2012`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** University of Toronto; Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
+- **disclosure citation:** Krizhevsky, A., Sutskever, I., Hinton, G. E. 'ImageNet Classification with Deep Convolutional Neural Networks'. NeurIPS 2012. University of Toronto.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-deep-cnn`
+
+**Prior art notes:**
+
+> AlexNet (Krizhevsky et al. NeurIPS 2012) is **the paper that started the deep-learning revolution in computer vision**. 13-year-deep public-domain prior art. >180,000 citations. The predecessor of ResNet (round-30), ViT (round-30), every modern vision encoder. Together with ImageNet (round-30), constitutes the foundational vision-DL substrate underlying every commercial humanoid vision system.
+
+**Sources:**
+
+1. Krizhevsky et al. NeurIPS 2012.
+
+---
+
+### 2015-12 — ResNet (Residual Networks)
+
+- **id:** `resnet-he-cvpr-2016`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Microsoft Research Asia; Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **disclosure citation:** He, K., Zhang, X., Ren, S., Sun, J. 'Deep Residual Learning for Image Recognition'. CVPR 2016 Best Paper. arXiv:1512.03385. Microsoft Research Asia.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-deep-cnn`
+
+**Prior art notes:**
+
+> ResNet (He et al. CVPR 2016 Best Paper) is the foundational deep residual networks paper. 10-year-deep public-domain prior art. >250,000 citations — one of the most-cited ML papers of all time. The visual encoder underlying BC-Z (round-29), RT-1 (corpus), and most pre-Transformer robotic VLA. Direct shielding for any commercial humanoid claim using deep CNNs for vision encoding.
+
+**Sources:**
+
+1. He et al. arXiv:1512.03385 CVPR 2016 Best Paper.
+
+---
+
 ### 2020-03 — NeRF (Neural Radiance Fields)
 
 - **id:** `nerf-mildenhall-eccv-2020`
@@ -58,6 +116,44 @@ cite, copy, or redistribute these contentions.
 1. Mildenhall et al. arXiv:2003.08934 ECCV 2020.
 2. Project page (matthewtancik.com/nerf).
 3. GitHub: github.com/bmild/nerf.
+
+---
+
+### 2020-10 — Vision Transformer (ViT)
+
+- **id:** `vit-dosovitskiy-iclr-2021`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Google Research; Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov et al.
+- **disclosure citation:** Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., Houlsby, N. 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale'. ICLR 2021. arXiv:2010.11929. Google Research.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-vision-transformer`
+
+**Prior art notes:**
+
+> ViT (Dosovitskiy et al. Google ICLR 2021) is the foundational Vision Transformer paper. 5-year-deep public-domain prior art. **The visual backbone of CLIP (corpus), DINOv2 (round-13), AM-RADIO (round-13), VC-1 (round-29), and every modern VLA's vision encoder** post-2021. Direct successor to ResNet (round-30) for vision. Direct shielding for any commercial humanoid claim using Transformer-based vision encoders.
+
+**Sources:**
+
+1. Dosovitskiy et al. arXiv:2010.11929 ICLR 2021.
+
+---
+
+### 2021-11 — Masked Autoencoders (MAE)
+
+- **id:** `mae-he-cvpr-2022`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Meta AI Research (FAIR); Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick
+- **disclosure citation:** He, K., Chen, X., Xie, S., Li, Y., Dollár, P., Girshick, R. 'Masked Autoencoders Are Scalable Vision Learners'. CVPR 2022. arXiv:2111.06377. Meta AI Research (FAIR).
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-self-supervised-vision`
+
+**Prior art notes:**
+
+> MAE (He et al. CVPR 2022) is the canonical self-supervised masked-patch-reconstruction vision pretraining method. 4-year-deep public-domain prior art. **The pretraining method of VC-1** (round-29 entry) and many embodied AI vision encoders. Together with DINOv2 (round-13), establishes the self-supervised vision-pretraining academic substrate.
+
+**Sources:**
+
+1. He et al. arXiv:2111.06377 CVPR 2022.
 
 ---
 
@@ -424,4 +520,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*

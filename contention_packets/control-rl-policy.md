@@ -1,7 +1,7 @@
 ---
 title: "control-rl-policy"
 parent: "Invalidity Contentions"
-nav_order: 69
+nav_order: 72
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 144 (116 commons-grade, 28 draft)  
+**Entries:** 148 (120 commons-grade, 28 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2026-04
 
@@ -1041,6 +1041,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2013-12 — Deep Q-Network (DQN)
+
+- **id:** `dqn-mnih-deepmind-2013`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** DeepMind; Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al.
+- **disclosure citation:** Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., Riedmiller, M. 'Playing Atari with Deep Reinforcement Learning'. NeurIPS 2013 workshop; arXiv:1312.5602. Subsequent: 'Human-level control through deep reinforcement learning' Nature 518 2015. DeepMind.
+- **disclosed subsystems:** `control-rl-policy`, `control-q-learning`, `control-deep-rl`
+
+**Prior art notes:**
+
+> DQN (Mnih et al. DeepMind Nature 2015) is the foundational deep reinforcement learning paper. 12-year-deep public-domain prior art. The architectural ancestor of every modern deep RL system including TRPO + PPO + SAC + every RL humanoid training. Direct shielding for any commercial humanoid claim that trains policies via deep RL.
+
+**Sources:**
+
+1. Mnih et al. arXiv:1312.5602 NeurIPS 2013.
+2. Mnih et al. Nature 518 2015 ('Human-level control through deep reinforcement learning').
+
+---
+
 ### 2014-12-11 — Talos Principle Robots
 
 - **id:** `talos-principle-robots`
@@ -1058,6 +1078,25 @@ cite, copy, or redistribute these contentions.
 
 1. Croteam. The Talos Principle. Devolver Digital, 2014.
 2. Jubert, T. and Kyratzes, J. The Talos Principle (story documentation).
+
+---
+
+### 2015-02 — Trust Region Policy Optimization (TRPO)
+
+- **id:** `trpo-schulman-icml-2015`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** UC Berkeley; John Schulman, Sergey Levine, Philipp Moritz, Michael Jordan, Pieter Abbeel
+- **disclosure citation:** Schulman, J., Levine, S., Moritz, P., Jordan, M. I., Abbeel, P. 'Trust Region Policy Optimization'. ICML 2015. arXiv:1502.05477. UC Berkeley.
+- **disclosed subsystems:** `control-rl-policy`, `control-policy-gradient`
+
+**Prior art notes:**
+
+> TRPO (Schulman et al. ICML 2015) is the direct predecessor of PPO. 10-year-deep public-domain prior art for: trust-region constrained policy gradient. Together with PPO (round-30), establishes the policy-gradient lineage that all modern RL humanoid/quadruped training builds on.
+
+**Sources:**
+
+1. Schulman et al. arXiv:1502.05477 ICML 2015.
 
 ---
 
@@ -1342,6 +1381,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-07 — Proximal Policy Optimization (PPO)
+
+- **id:** `ppo-schulman-openai-2017`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** OpenAI; John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov
+- **disclosure citation:** Schulman, J., Wolski, F., Dhariwal, P., Radford, A., Klimov, O. 'Proximal Policy Optimization Algorithms'. arXiv:1707.06347, July 2017. OpenAI.
+- **disclosed subsystems:** `control-rl-policy`, `control-policy-gradient`
+
+**Prior art notes:**
+
+> PPO (Schulman et al. OpenAI 2017) is the dominant RL algorithm in robotics. 8-year-deep public-domain prior art. **Cited 55 times in this corpus alone — the most-cited missing-entry before round-30**. The actual training algorithm of: ANYmal sim-to-real (corpus entry hwangbo-anymal-sim2real), Berkeley Humanoid (round-11), ToddlerBot (round-11), DeepMind humanoid soccer (round-18), MIT Cheetah series (corpus), OpenAI Dactyl (corpus), Hwangbo ANYmal, Tan quadruped sim2real (corpus), every Isaac Gym RL paper. Direct shielding for any commercial humanoid claim on RL-trained policies — PPO is the algorithm the policies are actually trained with.
+
+**Sources:**
+
+1. Schulman et al. arXiv:1707.06347 July 2017.
+2. OpenAI Spinning Up implementation (spinningup.openai.com).
+
+---
+
 ### 2017-07-05 — Hindsight Experience Replay (HER)
 
 - **id:** `hindsight-experience-replay`
@@ -1399,6 +1458,25 @@ cite, copy, or redistribute these contentions.
 
 1. Black Mirror S4E5 'Metalhead', Netflix, 29 December 2017.
 2. Brooker, C. interview in 'Inside Black Mirror' (Crown Archetype, 2018) confirming SpotMini visual reference.
+
+---
+
+### 2018-01 — Soft Actor-Critic (SAC)
+
+- **id:** `soft-actor-critic-haarnoja-2018`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** UC Berkeley + Google Brain; Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine
+- **disclosure citation:** Haarnoja, T., Zhou, A., Abbeel, P., Levine, S. 'Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor'. ICML 2018. arXiv:1801.01290. UC Berkeley + Google Brain.
+- **disclosed subsystems:** `control-rl-policy`, `control-actor-critic`, `control-off-policy-rl`
+
+**Prior art notes:**
+
+> SAC (Haarnoja et al. ICML 2018) is the canonical off-policy maximum-entropy RL algorithm. 7-year-deep public-domain prior art. Notable: same first author (Haarnoja) led DeepMind humanoid soccer (round-18). Together with PPO (round-30), TRPO (round-30), DQN (round-30), establishes the deep RL prior-art chain underlying every RL-trained humanoid + quadruped policy in the corpus.
+
+**Sources:**
+
+1. Haarnoja et al. arXiv:1801.01290 ICML 2018.
 
 ---
 
@@ -2969,4 +3047,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*

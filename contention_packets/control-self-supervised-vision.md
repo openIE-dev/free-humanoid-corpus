@@ -1,7 +1,7 @@
 ---
 title: "control-self-supervised-vision"
 parent: "Invalidity Contentions"
-nav_order: 71
+nav_order: 74
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-self-supervised-vision`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2023-03  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 2021-11  
 **Most recent disclosure:** 2023-04
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2021-11 — Masked Autoencoders (MAE)
+
+- **id:** `mae-he-cvpr-2022`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Meta AI Research (FAIR); Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick
+- **disclosure citation:** He, K., Chen, X., Xie, S., Li, Y., Dollár, P., Girshick, R. 'Masked Autoencoders Are Scalable Vision Learners'. CVPR 2022. arXiv:2111.06377. Meta AI Research (FAIR).
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-self-supervised-vision`
+
+**Prior art notes:**
+
+> MAE (He et al. CVPR 2022) is the canonical self-supervised masked-patch-reconstruction vision pretraining method. 4-year-deep public-domain prior art. **The pretraining method of VC-1** (round-29 entry) and many embodied AI vision encoders. Together with DINOv2 (round-13), establishes the self-supervised vision-pretraining academic substrate.
+
+**Sources:**
+
+1. He et al. arXiv:2111.06377 CVPR 2022.
+
+---
 
 ### 2023-03 — Visual Cortex 1 (VC-1)
 
@@ -111,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
