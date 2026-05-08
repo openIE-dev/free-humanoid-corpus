@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-mobile-base`  
-**Entries:** 12 (7 commons-grade, 5 draft)  
+**Entries:** 15 (10 commons-grade, 5 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2024-09
 
@@ -141,6 +141,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-08 — Savioke Relay (hotel delivery)
+
+- **id:** `savioke-relay-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Savioke (San Jose, CA); Steve Cousins (former Willow Garage CEO)
+- **disclosure citation:** Savioke, Inc. (San Jose, CA). Relay hotel delivery robot reveal August 2014 at Aloft Cupertino hotel. Founded by Steve Cousins (former Willow Garage CEO). Acquired by Relay Robotics 2021 (rebranding); then Aethon 2023; ST Engineering 2024.
+- **disclosed subsystems:** `mechanism-mobile-base`, `control-hotel-service`, `control-elevator-integration`, `control-vio-slam`
+
+**Prior art notes:**
+
+> Savioke Relay (Savioke San Jose 2014+) is the canonical first hotel-delivery service robot. 11-year-deep public-disclosure prior art. **The architectural predecessor of subsequent hotel + hospital + restaurant service-robot category**. Direct shielding for any commercial humanoid claim deriving from hotel-service applications. Together with Diligent Moxi (round-40) + Bear Robotics Servi (round-40), establishes the service-robot prior-art chain (hotel + hospital + restaurant).
+
+**Sources:**
+
+1. Savioke corporate site (savioke.com — historical).
+2. Aethon / ST Engineering acquisition history.
+
+---
+
 ### 2014-12 — Fetch & Freight (Fetch Robotics)
 
 - **id:** `fetch-freight-fetchrobotics-2014`
@@ -199,6 +219,45 @@ cite, copy, or redistribute these contentions.
 
 1. Asimov Robotics corporate site (asimov-robotics.com).
 2. Indian press coverage 2017+.
+
+---
+
+### 2017-08 — Bear Robotics Servi (restaurant service)
+
+- **id:** `bear-robotics-servi-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Bear Robotics (Redwood City, CA); John Ha + colleagues
+- **disclosure citation:** Bear Robotics, Inc. (Redwood City, CA). Servi restaurant service robot reveal 2017. Founded 2017 by John Ha (former Intel + Google) + colleagues. bearrobotics.ai. SoftBank Robotics investment partnership 2021.
+- **disclosed subsystems:** `mechanism-mobile-base`, `control-restaurant-service`, `control-vio-slam`
+
+**Prior art notes:**
+
+> Bear Robotics Servi (Bear Robotics Redwood City 2017+) is the canonical restaurant food-delivery service robot. 8-year-deep public-disclosure prior art with 1000+ commercial deployments. Direct shielding for any commercial humanoid claim deriving from restaurant-service applications.
+
+**Sources:**
+
+1. Bear Robotics corporate site (bearrobotics.ai).
+2. SoftBank Robotics partnership announcement 2021.
+
+---
+
+### 2018-04 — Diligent Robotics Moxi (hospital service)
+
+- **id:** `diligent-robotics-moxi-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Diligent Robotics (Austin, TX); Andrea Thomaz + Vivian Chu
+- **disclosure citation:** Diligent Robotics, Inc. (Austin, TX). Moxi hospital service robot reveal April 2018. Founded 2017 by Andrea Thomaz (Georgia Tech / UT Austin) + Vivian Chu. diligentrobots.com.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-manipulator-arm`, `mechanism-telescoping-mast`, `control-hospital-service`
+
+**Prior art notes:**
+
+> Diligent Robotics Moxi (Diligent Austin TX 2018+) is the canonical hospital service mobile manipulator. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hospital-service applications.
+
+**Sources:**
+
+1. Diligent Robotics corporate site (diligentrobots.com).
 
 ---
 
@@ -313,4 +372,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf3c8f5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1a8c3f7`.*

@@ -1,6 +1,6 @@
 # Corpus Index
 
-617 entries total. Generated from corpus.jsonl.
+621 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | Baymax | `baymax-big-hero-6` | 2014 | fictional | fictional |  |
 | BB-8 | `bb-8-star-wars` | 2015 | fictional | fictional |  |
 | BC-Z | `bc-z-jang-2021` | 2021 | academic | public-domain |  |
+| Bear Robotics Servi (restaurant service) | `bear-robotics-servi-2017` | 2017 | private | trade-secret |  |
 | Berkeley BLEEX (Lower Extremity Exoskeleton) | `berkeley-bleex-kazerooni-2004` | 2004 | academic | public-domain |  |
 | Berkeley Humanoid | `berkeley-humanoid` | 2024 | academic | open-permissive |  |
 | Berkeley Humanoid | `berkeley-humanoid-2024` | 2024 | academic | open-permissive |  |
@@ -156,6 +157,7 @@
 | DIGIT (Meta tactile sensor) | `meta-digit-tactile-2020` | 2020 | academic | open-permissive |  |
 | DIGIT 360 (Meta) | `meta-digit-360-2024` | 2024 | academic | open-permissive | ✓ |
 | Diligent Moxi | `diligent-moxi` | 2019 | private | patented |  |
+| Diligent Robotics Moxi (hospital service) | `diligent-robotics-moxi-2018` | 2018 | private | trade-secret |  |
 | DINOv2 | `dinov2-oquab-2023` | 2023 | academic | open-permissive |  |
 | DJI Phantom + Mavic consumer drone lineage | `dji-phantom-2013` | 2013 | private | trade-secret |  |
 | DLR Hand-Arm System | `dlr-hand-arm-system-2011` | 2011 | academic | public-domain |  |
@@ -484,6 +486,7 @@
 | SAPIEN simulator | `sapien-xiang-cvpr-2020` | 2020 | academic | open-permissive |  |
 | Sarcos Guardian XO | `sarcos-guardian-xo-2018` | 2018 | private | trade-secret |  |
 | Saska multi-MAV systems (CTU Prague MRS group) | `saska-cvut-multi-mav-2017` | 2017 | academic | open-permissive |  |
+| Savioke Relay (hotel delivery) | `savioke-relay-2014` | 2014 | private | trade-secret |  |
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
 | SCARA (Selective Compliance Articulated Robot Arm) | `scara-makino-1979` | 1979 | academic | public-domain |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
@@ -589,6 +592,7 @@
 | Val and Aqua (Heartbeeps) | `heartbeeps-val-aqua` | 1981 | fictional | fictional |  |
 | Variable Stiffness Actuator (Tonietti VSA) | `tonietti-vsa-pisa-iit-2005` | 2005 | academic | public-domain |  |
 | Variational Autoencoder (VAE) | `vae-kingma-iclr-2014` | 2013 | academic | public-domain |  |
+| Velodyne HDL-64E LIDAR | `velodyne-hdl-64-lidar-2007` | 2007 | private | trade-secret |  |
 | VGGT (Visual Geometry Grounded Transformer) | `vggt-wang-cvpr-2025` | 2025 | academic | open-permissive |  |
 | Vicarious Surgical | `vicarious-surgical-2014` | 2014 | private | trade-secret |  |
 | Vicon optical motion capture | `vicon-mocap-1984` | 1984 | private | trade-secret |  |

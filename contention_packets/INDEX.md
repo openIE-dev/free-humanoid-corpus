@@ -10,7 +10,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Packets:** 180  
-**Corpus revision:** `bf3c8f5`
+**Corpus revision:** `1a8c3f7`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -134,7 +134,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-trajectory-optimization`](control-trajectory-optimization.md) | 4 | 4 | 0 | 2012-10 | 2025-03 |
 | [`control-uncalibrated-video-perception`](control-uncalibrated-video-perception.md) | 2 | 2 | 0 | 2023-12 | 2025-08 |
 | [`control-vibrotactile-feedback`](control-vibrotactile-feedback.md) | 2 | 0 | 2 | 2023-01 | 2023-09 |
-| [`control-vio-slam`](control-vio-slam.md) | 14 | 8 | 6 | 2010-07 | 2026-04 |
+| [`control-vio-slam`](control-vio-slam.md) | 16 | 10 | 6 | 2010-07 | 2026-04 |
 | [`control-vision-language`](control-vision-language.md) | 3 | 3 | 0 | 2022-04 | 2023-12 |
 | [`control-visual-servoing`](control-visual-servoing.md) | 2 | 1 | 1 | 2000-01 | 2002-04 |
 | [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 93 | 81 | 12 | 1886 | 2026-04 |
@@ -155,8 +155,8 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-exoskeleton`](mechanism-exoskeleton.md) | 6 | 4 | 2 | 2000-01 | 2018-09 |
 | [`mechanism-hexapod`](mechanism-hexapod.md) | 2 | 2 | 0 | 1965-06 | 2000-04 |
 | [`mechanism-hydraulic-actuator`](mechanism-hydraulic-actuator.md) | 3 | 3 | 0 | 2004-03 | 2012-09 |
-| [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 24 | 22 | 2 | 1956-01 | 2022-07 |
-| [`mechanism-mobile-base`](mechanism-mobile-base.md) | 12 | 7 | 5 | 2000-01 | 2024-09 |
+| [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 25 | 23 | 2 | 1956-01 | 2022-07 |
+| [`mechanism-mobile-base`](mechanism-mobile-base.md) | 15 | 10 | 5 | 2000-01 | 2024-09 |
 | [`mechanism-parallel-kinematic-haptic`](mechanism-parallel-kinematic-haptic.md) | 2 | 2 | 0 | 1994-09 | 2011-06 |
 | [`mechanism-passive-dynamic-walking`](mechanism-passive-dynamic-walking.md) | 6 | 5 | 1 | 1990 | 2017 |
 | [`mechanism-pitch-roll-trim`](mechanism-pitch-roll-trim.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
@@ -168,7 +168,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-sprawl-tunable`](mechanism-sprawl-tunable.md) | 6 | 3 | 3 | 2013-05 | 2026-01 |
 | [`mechanism-surgical-robot`](mechanism-surgical-robot.md) | 6 | 5 | 1 | 1989-01 | 2017-08 |
 | [`mechanism-syntactic-foam-ballast`](mechanism-syntactic-foam-ballast.md) | 2 | 2 | 0 | 1964-06 | 2008-05 |
-| [`mechanism-telescoping-mast`](mechanism-telescoping-mast.md) | 5 | 4 | 1 | 2014-05 | 2024-09 |
+| [`mechanism-telescoping-mast`](mechanism-telescoping-mast.md) | 6 | 5 | 1 | 2014-05 | 2024-09 |
 | [`mechanism-tendon-driven`](mechanism-tendon-driven.md) | 5 | 4 | 1 | 1988-01 | 2025-10 |
 | [`mechanism-tendon-routing`](mechanism-tendon-routing.md) | 15 | 12 | 3 | 1495 | 2024 |
 | [`mechanism-thruster-axial`](mechanism-thruster-axial.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
@@ -195,7 +195,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`sensing-hand-pose-tracking`](sensing-hand-pose-tracking.md) | 4 | 2 | 2 | 2019-06 | 2023-09 |
 | [`sensing-imu`](sensing-imu.md) | 77 | 58 | 19 | 1989 | 2025-10 |
 | [`sensing-joint-torque`](sensing-joint-torque.md) | 2 | 2 | 0 | 2017-09 | 2019-09 |
-| [`sensing-lidar`](sensing-lidar.md) | 16 | 14 | 2 | 2004 | 2023-08 |
+| [`sensing-lidar`](sensing-lidar.md) | 17 | 15 | 2 | 2004 | 2023-08 |
 | [`sensing-monocular-depth`](sensing-monocular-depth.md) | 13 | 10 | 3 | 1981-08 | 2025-10 |
 | [`sensing-proprioceptive-actuator`](sensing-proprioceptive-actuator.md) | 20 | 20 | 0 | 1980-11 | 2024-02 |
 | [`sensing-stereo-camera`](sensing-stereo-camera.md) | 83 | 63 | 20 | 1973 | 2024-11 |

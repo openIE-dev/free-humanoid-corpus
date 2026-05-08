@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-manipulator-arm`  
-**Entries:** 24 (22 commons-grade, 2 draft)  
+**Entries:** 25 (23 commons-grade, 2 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2022-07
 
@@ -435,6 +435,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-04 — Diligent Robotics Moxi (hospital service)
+
+- **id:** `diligent-robotics-moxi-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Diligent Robotics (Austin, TX); Andrea Thomaz + Vivian Chu
+- **disclosure citation:** Diligent Robotics, Inc. (Austin, TX). Moxi hospital service robot reveal April 2018. Founded 2017 by Andrea Thomaz (Georgia Tech / UT Austin) + Vivian Chu. diligentrobots.com.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-manipulator-arm`, `mechanism-telescoping-mast`, `control-hospital-service`
+
+**Prior art notes:**
+
+> Diligent Robotics Moxi (Diligent Austin TX 2018+) is the canonical hospital service mobile manipulator. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hospital-service applications.
+
+**Sources:**
+
+1. Diligent Robotics corporate site (diligentrobots.com).
+
+---
+
 ### 2019-09 — FANUC CRX collaborative robot family
 
 - **id:** `fanuc-crx-collaborative-2019`
@@ -566,4 +585,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf3c8f5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1a8c3f7`.*

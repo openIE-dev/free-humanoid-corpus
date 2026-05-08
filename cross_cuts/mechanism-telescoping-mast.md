@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-telescoping-mast`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014-05
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fetch Robotics, Inc. (San Jose, CA). Fetch (mobile manipulator) + Freight (mobile base) commercial reveal December 2014. Founded by Melonee Wise + ex-Willow Garage team. fetchrobotics.com. Acquired by Zebra Technologies June 2021 ($290M).
 - **ip status**: trade-secret
 - **prior art notes**: Fetch & Freight (Fetch Robotics 2014+ → Zebra 2021+) is the canonical commercial mobile-manipulator + warehouse-logistics platform from the post-Willow-Garage diaspora. 11-year-deep public-disclosure prior art. Architectural sibling to Hello Robot Stretch (round-17) — both telescoping-mast mobile manipulators with educational + commercial deployments. Direct shielding for any commercial humanoid claim on telescoping-mast mobile-manipulator derivative applications.
+
+## Diligent Robotics Moxi (hospital service) (2018-04)
+
+- **id**: `diligent-robotics-moxi-2018`
+- **corpus**: private
+- **creator**: Diligent Robotics (Austin, TX); Andrea Thomaz + Vivian Chu
+- **disclosure**: Diligent Robotics, Inc. (Austin, TX). Moxi hospital service robot reveal April 2018. Founded 2017 by Andrea Thomaz (Georgia Tech / UT Austin) + Vivian Chu. diligentrobots.com.
+- **ip status**: trade-secret
+- **prior art notes**: Diligent Robotics Moxi (Diligent Austin TX 2018+) is the canonical hospital service mobile manipulator. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hospital-service applications.
 
 ## Hello Robot Stretch (2020-07)
 

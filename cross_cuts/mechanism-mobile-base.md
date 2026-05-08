@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-mobile-base`
 
-**12 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -60,6 +60,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: PAL Robotics TIAGo (Barcelona Spain 2014+) is the canonical Spanish commercial mobile manipulator. 11-year-deep public-disclosure prior art. Sister product line to REEM-C (corpus). Together with REEM-C, brings Spanish commercial-robotics representation to 2 specific platform entries. Architectural sibling to Hello Robot Stretch (round-17), Fetch (round-35), BD Stretch warehouse (round-34). Direct shielding for any commercial humanoid claim deriving from telescoping-mast mobile-manipulator commercial deployments.
 
+## Savioke Relay (hotel delivery) (2014-08)
+
+- **id**: `savioke-relay-2014`
+- **corpus**: private
+- **creator**: Savioke (San Jose, CA); Steve Cousins (former Willow Garage CEO)
+- **disclosure**: Savioke, Inc. (San Jose, CA). Relay hotel delivery robot reveal August 2014 at Aloft Cupertino hotel. Founded by Steve Cousins (former Willow Garage CEO). Acquired by Relay Robotics 2021 (rebranding); then Aethon 2023; ST Engineering 2024.
+- **ip status**: trade-secret
+- **prior art notes**: Savioke Relay (Savioke San Jose 2014+) is the canonical first hotel-delivery service robot. 11-year-deep public-disclosure prior art. **The architectural predecessor of subsequent hotel + hospital + restaurant service-robot category**. Direct shielding for any commercial humanoid claim deriving from hotel-service applications. Together with Diligent Moxi (round-40) + Bear Robotics Servi (round-40), establishes the service-robot prior-art chain (hotel + hospital + restaurant).
+
 ## Fetch & Freight (Fetch Robotics) (2014-12)
 
 - **id**: `fetch-freight-fetchrobotics-2014`
@@ -86,6 +95,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Asimov Robotics Pvt. Ltd. (Kochi, Kerala, India; founded 2012 by Jayakrishnan T., IIT-Madras alumnus). Sayak humanoid reveal August 2017. asimov-robotics.com. Indian commercial humanoid for service applications.
 - **ip status**: trade-secret
 - **prior art notes**: Asimov Robotics Sayak (Kerala India, 2017+) is one of the earliest Indian commercial humanoid platforms. 8-year-deep public-disclosure prior art for: Indian-designed service humanoid morphology, multi-language Indian-language NLP-integrated humanoid. Closes a major regional gap — together with ISRO Vyommitra (round-22 entry) and the IIT-academic-cluster (round-22 entry below), establishes 8-year-deep Indian humanoid prior art.
+
+## Bear Robotics Servi (restaurant service) (2017-08)
+
+- **id**: `bear-robotics-servi-2017`
+- **corpus**: private
+- **creator**: Bear Robotics (Redwood City, CA); John Ha + colleagues
+- **disclosure**: Bear Robotics, Inc. (Redwood City, CA). Servi restaurant service robot reveal 2017. Founded 2017 by John Ha (former Intel + Google) + colleagues. bearrobotics.ai. SoftBank Robotics investment partnership 2021.
+- **ip status**: trade-secret
+- **prior art notes**: Bear Robotics Servi (Bear Robotics Redwood City 2017+) is the canonical restaurant food-delivery service robot. 8-year-deep public-disclosure prior art with 1000+ commercial deployments. Direct shielding for any commercial humanoid claim deriving from restaurant-service applications.
+
+## Diligent Robotics Moxi (hospital service) (2018-04)
+
+- **id**: `diligent-robotics-moxi-2018`
+- **corpus**: private
+- **creator**: Diligent Robotics (Austin, TX); Andrea Thomaz + Vivian Chu
+- **disclosure**: Diligent Robotics, Inc. (Austin, TX). Moxi hospital service robot reveal April 2018. Founded 2017 by Andrea Thomaz (Georgia Tech / UT Austin) + Vivian Chu. diligentrobots.com.
+- **ip status**: trade-secret
+- **prior art notes**: Diligent Robotics Moxi (Diligent Austin TX 2018+) is the canonical hospital service mobile manipulator. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hospital-service applications.
 
 ## Hello Robot Stretch (2020-07)
 

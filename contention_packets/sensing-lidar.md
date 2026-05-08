@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `sensing-lidar`  
-**Entries:** 16 (14 commons-grade, 2 draft)  
+**Entries:** 17 (15 commons-grade, 2 draft)  
 **Earliest disclosure:** 2004  
 **Most recent disclosure:** 2023-08
 
@@ -57,6 +57,26 @@ cite, copy, or redistribute these contentions.
 
 1. Park, I.-W. et al. IEEE-RAS Humanoids 2005.
 2. DARPA Robotics Challenge final report, 2015.
+
+---
+
+### 2007-01 — Velodyne HDL-64E LIDAR
+
+- **id:** `velodyne-hdl-64-lidar-2007`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Velodyne LIDAR (Morgan Hill, CA); David Hall founder
+- **disclosure citation:** Velodyne LIDAR, Inc. (Morgan Hill, CA; founded 1983 by David Hall as audio-equipment maker, transitioned to LIDAR 2005). HDL-64E commercial release January 2007. Used by every team in DARPA Urban Challenge November 2007 (Stanley + Boss + others). Subsequent: HDL-32E (2010), VLP-16 (2014), VLP-32C (2017).
+- **disclosed subsystems:** `sensing-lidar`, `sensing-rotating-lidar`, `sensing-3d-perception`
+
+**Prior art notes:**
+
+> Velodyne HDL-64E (Velodyne 2007+) is the foundational consumer-grade rotating LIDAR. 18-year-deep public-disclosure prior art. **Used by every team in DARPA Urban Challenge 2007** (Stanford Stanley + CMU Boss + others). The sensor that enabled the autonomous-vehicle revolution + every modern humanoid + quadruped LIDAR perception stack (CSIRO Wildcat, ANYmal-D, BD Spot, etc.). Direct shielding for any commercial humanoid claim using rotating-LIDAR perception.
+
+**Sources:**
+
+1. Velodyne LIDAR corporate site (velodynelidar.com).
+2. DARPA Urban Challenge 2007 results.
 
 ---
 
@@ -391,4 +411,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf3c8f5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `1a8c3f7`.*

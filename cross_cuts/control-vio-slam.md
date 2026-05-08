@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vio-slam`
 
-**14 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2010-07
 
@@ -23,6 +23,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: CSIRO Data61 (Commonwealth Scientific and Industrial Research Organisation; Brisbane + Sydney, Australia). Robotics and Autonomous Systems group originally part of CSIRO ICT Centre, merged into Data61 in 2014. Notable projects: **Wildcat** legged robot for DARPA Subterranean Challenge (won 2nd place 2021), **Bobcat** agricultural robot, **Tilt-rotor UAV** development. Continuous robotics research output 2010+.
 - **ip status**: public-domain
 - **prior art notes**: CSIRO Data61 is Australia's dominant robotics research institution. 15-year-deep public-domain academic prior art spanning legged robots (DARPA SubT 2021 2nd place), agricultural automation (SwagBot, Bobcat), aerial systems. **First entry in the corpus for Australia** — closes a major regional gap. Aggregator-style entry covering CSIRO RAS broadly; specific papers should be added in future rounds.
+
+## Savioke Relay (hotel delivery) (2014-08)
+
+- **id**: `savioke-relay-2014`
+- **corpus**: private
+- **creator**: Savioke (San Jose, CA); Steve Cousins (former Willow Garage CEO)
+- **disclosure**: Savioke, Inc. (San Jose, CA). Relay hotel delivery robot reveal August 2014 at Aloft Cupertino hotel. Founded by Steve Cousins (former Willow Garage CEO). Acquired by Relay Robotics 2021 (rebranding); then Aethon 2023; ST Engineering 2024.
+- **ip status**: trade-secret
+- **prior art notes**: Savioke Relay (Savioke San Jose 2014+) is the canonical first hotel-delivery service robot. 11-year-deep public-disclosure prior art. **The architectural predecessor of subsequent hotel + hospital + restaurant service-robot category**. Direct shielding for any commercial humanoid claim deriving from hotel-service applications. Together with Diligent Moxi (round-40) + Bear Robotics Servi (round-40), establishes the service-robot prior-art chain (hotel + hospital + restaurant).
+
+## Bear Robotics Servi (restaurant service) (2017-08)
+
+- **id**: `bear-robotics-servi-2017`
+- **corpus**: private
+- **creator**: Bear Robotics (Redwood City, CA); John Ha + colleagues
+- **disclosure**: Bear Robotics, Inc. (Redwood City, CA). Servi restaurant service robot reveal 2017. Founded 2017 by John Ha (former Intel + Google) + colleagues. bearrobotics.ai. SoftBank Robotics investment partnership 2021.
+- **ip status**: trade-secret
+- **prior art notes**: Bear Robotics Servi (Bear Robotics Redwood City 2017+) is the canonical restaurant food-delivery service robot. 8-year-deep public-disclosure prior art with 1000+ commercial deployments. Direct shielding for any commercial humanoid claim deriving from restaurant-service applications.
 
 ## DynaSLAM (2018-06)
 

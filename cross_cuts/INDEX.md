@@ -82,6 +82,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-dynamic-scene-robust` | 6 | 2018-06 |
 | `control-egocentric-video-pretraining` | 3 | 2021-08 |
 | `control-elder-care` | 1 | 2003-09 |
+| `control-elevator-integration` | 1 | 2014-08 |
 | `control-embodied-reasoning` | 1 | 2025-04 |
 | `control-encoder-decoder` | 2 | 2014-09 |
 | `control-ensemble-method` | 1 | 2001-10 |
@@ -110,6 +111,8 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-haptic-rendering` | 4 | 1994-09 |
 | `control-heuristic-search` | 1 | 1968-07 |
 | `control-high-rate-continuous-control` | 1 | 2025-02 |
+| `control-hospital-service` | 1 | 2018-04 |
+| `control-hotel-service` | 1 | 2014-08 |
 | `control-human-robot-collaboration` | 1 | 2023-10 |
 | `control-humanoid-shadowing` | 1 | 2024-06 |
 | `control-image-segmentation` | 1 | 2015-05 |
@@ -200,6 +203,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-regularization` | 1 | 2014-06 |
 | `control-rehabilitation` | 1 | 2000-01 |
 | `control-research-cluster` | 40 | 2000-01 |
+| `control-restaurant-service` | 1 | 2017-08 |
 | `control-rigid-body-dynamics` | 1 | 2017-09 |
 | `control-rl-policy` | 151 | 1818 |
 | `control-rough-terrain-locomotion` | 7 | 2000-04 |
@@ -236,7 +240,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-vibrotactile-feedback` | 2 | 2023-01 |
 | `control-video-generation` | 1 | 2025-01 |
 | `control-video-segmentation` | 1 | 2024-07 |
-| `control-vio-slam` | 14 | 2010-07 |
+| `control-vio-slam` | 16 | 2010-07 |
 | `control-virtual-finger` | 1 | 1986-01 |
 | `control-vision-language` | 3 | 2022-04 |
 | `control-vision-only-perception` | 1 | 2025-10 |
@@ -286,8 +290,8 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-hybrid-locomotion` | 1 | 2019-05 |
 | `mechanism-hydraulic-actuator` | 3 | 2004-03 |
 | `mechanism-implantable-medical-device` | 1 | 2017-04 |
-| `mechanism-manipulator-arm` | 24 | 1956-01 |
-| `mechanism-mobile-base` | 12 | 2000-01 |
+| `mechanism-manipulator-arm` | 25 | 1956-01 |
+| `mechanism-mobile-base` | 15 | 2000-01 |
 | `mechanism-parallel-kinematic` | 1 | 1965-06 |
 | `mechanism-parallel-kinematic-haptic` | 2 | 1994-09 |
 | `mechanism-passive-dynamic-walking` | 6 | 1990 |
@@ -310,7 +314,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-super-human-range-of-motion` | 1 | 2024-04 |
 | `mechanism-surgical-robot` | 6 | 1989-01 |
 | `mechanism-syntactic-foam-ballast` | 2 | 1964-06 |
-| `mechanism-telescoping-mast` | 5 | 2014-05 |
+| `mechanism-telescoping-mast` | 6 | 2014-05 |
 | `mechanism-tendon-driven` | 5 | 1988-01 |
 | `mechanism-tendon-routing` | 15 | 1495 |
 | `mechanism-thrust-reversal` | 1 | 2021-07 |
@@ -335,6 +339,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `safety-emergency-stop` | 5 | 1982-12 |
 | `safety-hard-constraint` | 58 | -0250 |
 | `safety-simplex-supervisor` | 8 | 1940-09 |
+| `sensing-3d-perception` | 1 | 2007-01 |
 | `sensing-accelerometer` | 1 | 1991-01 |
 | `sensing-active-stereo` | 1 | 2015-01 |
 | `sensing-asynchronous-vision` | 2 | 2008-02 |
@@ -351,7 +356,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `sensing-hand-pose-tracking` | 4 | 2019-06 |
 | `sensing-imu` | 77 | 1989 |
 | `sensing-joint-torque` | 2 | 2017-09 |
-| `sensing-lidar` | 16 | 2004 |
+| `sensing-lidar` | 17 | 2004 |
 | `sensing-mems` | 1 | 1991-01 |
 | `sensing-monocular-depth` | 13 | 1981-08 |
 | `sensing-motion-capture` | 1 | 1984-01 |
@@ -360,6 +365,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `sensing-passive-marker-tracking` | 1 | 1984-01 |
 | `sensing-proprioceptive-actuator` | 20 | 1980-11 |
 | `sensing-rgbd` | 1 | 2015-01 |
+| `sensing-rotating-lidar` | 1 | 2007-01 |
 | `sensing-stereo-camera` | 83 | 1973 |
 | `sensing-stereoscopic-camera` | 2 | 2000-07 |
 | `sensing-structured-light` | 1 | 2010-11 |

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-manipulator-arm`
 
-**24 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -185,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Robotis Co., Ltd. (Seoul, South Korea). OpenMANIPULATOR-X commercial reveal April 2018 via robotis.com. Open-hardware design; CAD files + control firmware open-source under MIT license.
 - **ip status**: open-permissive
 - **prior art notes**: Robotis OpenMANIPULATOR (Robotis 2018+) is the canonical Korean open-hardware educational manipulator. 7-year-deep open-permissive prior art. The educational-manipulator counterpart to TurtleBot (round-35) and DARwIn-OP (corpus round-19 robotis-op3-2017 entry). Together with TurtleBot, establishes the Korean open-educational-robotics ecosystem.
+
+## Diligent Robotics Moxi (hospital service) (2018-04)
+
+- **id**: `diligent-robotics-moxi-2018`
+- **corpus**: private
+- **creator**: Diligent Robotics (Austin, TX); Andrea Thomaz + Vivian Chu
+- **disclosure**: Diligent Robotics, Inc. (Austin, TX). Moxi hospital service robot reveal April 2018. Founded 2017 by Andrea Thomaz (Georgia Tech / UT Austin) + Vivian Chu. diligentrobots.com.
+- **ip status**: trade-secret
+- **prior art notes**: Diligent Robotics Moxi (Diligent Austin TX 2018+) is the canonical hospital service mobile manipulator. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hospital-service applications.
 
 ## FANUC CRX collaborative robot family (2019-09)
 

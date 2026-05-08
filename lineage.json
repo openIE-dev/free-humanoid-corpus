@@ -2239,6 +2239,14 @@
       "descendants": []
     },
     {
+      "id": "velodyne-hdl-64-lidar-2007",
+      "name": "Velodyne HDL-64E LIDAR",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bsg-hybrids",
       "name": "Cylon Hybrids",
       "year": "2007",
@@ -3201,6 +3209,14 @@
       "descendants": []
     },
     {
+      "id": "savioke-relay-2014",
+      "name": "Savioke Relay (hotel delivery)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "harvard-soft-robotics-toolkit-2017",
       "name": "Harvard Soft Robotics Toolkit",
       "year": "2014",
@@ -3761,6 +3777,14 @@
       "descendants": []
     },
     {
+      "id": "bear-robotics-servi-2017",
+      "name": "Bear Robotics Servi (restaurant service)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "globus-excelsius-gps-spine-2017",
       "name": "Globus Medical ExcelsiusGPS spine surgical robot",
       "year": "2017",
@@ -3958,6 +3982,14 @@
       "descendants": [
         "amp-peng-siggraph-2021"
       ]
+    },
+    {
+      "id": "diligent-robotics-moxi-2018",
+      "name": "Diligent Robotics Moxi (hospital service)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "naver-labs-ambidex-2018",
