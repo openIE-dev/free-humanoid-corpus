@@ -1,7 +1,7 @@
 ---
 title: "mechanism-bipedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 75
+nav_order: 77
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 140 (109 commons-grade, 31 draft)  
+**Entries:** 141 (110 commons-grade, 31 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2026-04
 
@@ -1338,6 +1338,27 @@ cite, copy, or redistribute these contentions.
 
 1. Ogura, Y. et al. ICRA 2006.
 2. Takanishi laboratory humanoid robot publications.
+
+---
+
+### 2006-12 — Capture Point (Pratt humanoid balance)
+
+- **id:** `pratt-capture-point-2007`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** IHMC + Honda Research Institute; Jerry Pratt + collaborators (Twan Koolen, Tomas de Boer, et al.)
+- **disclosure citation:** Pratt, J., Carff, J., Drakunov, S., Goswami, A. 'Capture Point: A Step Toward Humanoid Push Recovery'. Humanoids 2006. Pratt, J., Koolen, T., de Boer, T., Rebula, J., Cotton, S., Carff, J., Johnson, M., Neuhaus, P. 'Capturability-Based Analysis and Control of Legged Locomotion'. International Journal of Robotics Research 31(9) 2012. IHMC (Florida Institute for Human and Machine Cognition) + Honda Research Institute.
+- **disclosed subsystems:** `control-capture-point`, `control-divergent-component-of-motion`, `control-zmp-balancing`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> Capture Point (Pratt et al. Humanoids 2006, IJRR 2012) is the canonical academic humanoid balance / push-recovery framework. 19-year-deep public-domain prior art for: capture-point-based foot placement, dynamic-walking balance control beyond ZMP, push-recovery via reactive stepping. **Equivalent to Divergent Component of Motion (DCM)** which DLR + IHMC + Honda all use interchangeably in the academic literature. Together with Vukobratović ZMP (1969, in corpus), Raibert SLIP (1986, round-19), McGeer passive walker (1990, in corpus), Collins-Ruina passive (2005, round-19), establishes the **5-pillar foundational humanoid-locomotion-math chain spanning 1969-2007** (38 years of pure-academic development before any modern commercial humanoid). Direct shielding for any commercial humanoid claim on push-recovery, balance control, or capture-point-based gait planning.
+
+**Sources:**
+
+1. Pratt et al. Humanoids 2006.
+2. Pratt et al. IJRR 31(9) 2012.
+3. IHMC publications (ihmc.us).
 
 ---
 
@@ -2884,4 +2905,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*

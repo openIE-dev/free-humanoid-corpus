@@ -1,7 +1,7 @@
 ---
 title: "control-sim-to-real"
 parent: "Invalidity Contentions"
-nav_order: 58
+nav_order: 60
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-sim-to-real`  
-**Entries:** 34 (29 commons-grade, 5 draft)  
+**Entries:** 35 (30 commons-grade, 5 draft)  
 **Earliest disclosure:** 2014-12-11  
 **Most recent disclosure:** 2026-04
 
@@ -283,6 +283,26 @@ cite, copy, or redistribute these contentions.
 
 1. Makoviychuk et al. arXiv:2108.10470 NeurIPS 2021.
 2. GitHub: github.com/NVIDIA-Omniverse/IsaacGymEnvs (research preview, archived).
+
+---
+
+### 2022-01 — Perceptive ANYmal locomotion (Miki Science Robotics 2022)
+
+- **id:** `miki-perceptive-anymal-science-2022`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** ETH Zürich RSL + Intel Labs; Takahiro Miki, Joonho Lee, Jemin Hwangbo, Lorenz Wellhausen, Vladlen Koltun, Marco Hutter
+- **disclosure citation:** Miki, T., Lee, J., Hwangbo, J., Wellhausen, L., Koltun, V., Hutter, M. 'Learning Robust Perceptive Locomotion for Quadrupedal Robots in the Wild'. Science Robotics 7(62) 2022. ETH Zürich Robotic Systems Lab + Intel Labs.
+- **disclosed subsystems:** `control-rl-policy`, `control-sim-to-real`, `control-perceptive-locomotion`, `control-privileged-teacher`, `control-rough-terrain-locomotion`
+
+**Prior art notes:**
+
+> The Miki et al. Science Robotics 2022 perceptive-ANYmal paper is the canonical academic perceptive-quadruped-RL work. 3-year-deep open-permissive prior art for: privileged-teacher / proprioception+exteroception-student two-stage distillation, robust unstructured-terrain RL locomotion, depth-elevation-map perceptive locomotion. Direct successor to Hwangbo ANYmal sim-to-real (corpus entry, 2019). **The architectural ancestor of every modern quadruped + humanoid RL locomotion paper** including Berkeley Humanoid, ToddlerBot, Atlas Electric (round-18). Direct shielding for any commercial humanoid claim on perceptive-RL locomotion or unstructured-terrain RL training.
+
+**Sources:**
+
+1. Miki et al. Science Robotics 7(62) 2022.
+2. ETH RSL publications (rsl.ethz.ch).
 
 ---
 
@@ -768,4 +788,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rough-terrain-locomotion`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2005-12
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics + Marines Corps Warfighting Laboratory. LS3 (Legged Squad Support System) program reveal September 2012; demonstrated through 2015. AlphaDog is the prototype name (Phase 1, 2009-2012); LS3 is the Phase 2 (2012-2015) production version. Funded by DARPA + USMC.
 - **ip status**: trade-secret
 - **prior art notes**: LS3 / AlphaDog is the canonical 2012 hydraulic heavy-payload tactical quadruped (Boston Dynamics under DARPA + USMC). 13-year-deep public-disclosure prior art for: 400 lb payload quadruped, voice-commanded squad-support behavior, 20-mile endurance hydraulic quadruped. Direct successor to BigDog (round-20 entry above), architectural ancestor of Spot. **The hydraulic-vs-electric-quadruped architectural choice was decided at LS3** — BD pivoted to all-electric for Spot in part because LS3's noise made it tactically unusable. This decision is itself architectural prior art for modern humanoid claims.
+
+## Perceptive ANYmal locomotion (Miki Science Robotics 2022) (2022-01)
+
+- **id**: `miki-perceptive-anymal-science-2022`
+- **corpus**: academic
+- **creator**: ETH Zürich RSL + Intel Labs; Takahiro Miki, Joonho Lee, Jemin Hwangbo, Lorenz Wellhausen, Vladlen Koltun, Marco Hutter
+- **disclosure**: Miki, T., Lee, J., Hwangbo, J., Wellhausen, L., Koltun, V., Hutter, M. 'Learning Robust Perceptive Locomotion for Quadrupedal Robots in the Wild'. Science Robotics 7(62) 2022. ETH Zürich Robotic Systems Lab + Intel Labs.
+- **ip status**: open-permissive
+- **prior art notes**: The Miki et al. Science Robotics 2022 perceptive-ANYmal paper is the canonical academic perceptive-quadruped-RL work. 3-year-deep open-permissive prior art for: privileged-teacher / proprioception+exteroception-student two-stage distillation, robust unstructured-terrain RL locomotion, depth-elevation-map perceptive locomotion. Direct successor to Hwangbo ANYmal sim-to-real (corpus entry, 2019). **The architectural ancestor of every modern quadruped + humanoid RL locomotion paper** including Berkeley Humanoid, ToddlerBot, Atlas Electric (round-18). Direct shielding for any commercial humanoid claim on perceptive-RL locomotion or unstructured-terrain RL training.
 
 ## Berkeley Humanoid (2024-07)
 

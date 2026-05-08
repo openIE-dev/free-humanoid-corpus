@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-series-elastic`
 
-**14 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995-08
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pratt, Jerry, Chew, Chee-Meng, Torres, Ann, Dilworth, Peter, Pratt, Gill. 'Virtual model control: An intuitive approach for bipedal locomotion.' International Journal of Robotics Research 20(2): 129-143, February 2001. Earlier: Pratt, J.E. and Pratt, G.A. 'Intuitive control of a planar bipedal walking robot.' IEEE ICRA 1998: 2014-2021.
 - **ip status**: public-domain
 - **prior art notes**: Pratt's Virtual Model Control is a canonical alternative paradigm to ZMP for bipedal control, preserving compliance and intuitive task-space specification. Anticipates: (1) virtual-element-based humanoid torque control — directly relevant to claims on intuitive task-space bipedal controllers; (2) Jacobian-projected virtual force generation — relevant to whole-body humanoid IP that uses 'virtual' or 'imagined' references (every model-based controller for SEA-equipped humanoids descends from this); (3) integration with series-elastic compliance — relevant to compliant-humanoid claims. Pratt's 2000 PhD thesis ('Exploiting natural dynamics in the control of a planar bipedal walking robot,' MIT) extends the framework. Jerry Pratt later led IHMC's humanoid work (DRC Atlas, NASA Valkyrie controller). >1000 citations. 25-year-deep anchor against intuitive-bipedal-control patents.
+
+## Variable Stiffness Actuator (Tonietti VSA) (2005-04)
+
+- **id**: `tonietti-vsa-pisa-iit-2005`
+- **corpus**: academic
+- **creator**: Pisa University + IIT (Italian Institute of Technology); Giovanni Tonietti, Riccardo Schiavi, Antonio Bicchi
+- **disclosure**: Tonietti, G., Schiavi, R., Bicchi, A. 'Design and Control of a Variable Stiffness Actuator for Safe and Fast Physical Human/Robot Interaction'. ICRA 2005. Pisa-IIT (later: IIT-Pisa joint lab; antecedent of Pisa-IIT SoftHand corpus entry).
+- **ip status**: public-domain
+- **prior art notes**: The Pisa-IIT Tonietti VSA (ICRA 2005) is the canonical academic variable-stiffness actuator. 20-year-deep public-domain prior art for: mechanically-adjustable joint compliance, two-motor co-control of position + stiffness. Architectural cousin of Pratt-Williamson SEA (corpus entry, 1995, fixed compliance). Direct ancestor of: DLR Hand-Arm System variable-impedance joints (corpus entry dlr-hand-arm-system-2011); EPFL spring-driven exoskeletons; modern compliant-actuator commercial products. Direct shielding for any commercial humanoid claim on real-time-adjustable compliance or variable-stiffness joint control.
 
 ## PR2 (2010)
 

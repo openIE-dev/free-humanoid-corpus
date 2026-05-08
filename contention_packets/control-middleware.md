@@ -1,7 +1,7 @@
 ---
 title: "control-middleware"
 parent: "Invalidity Contentions"
-nav_order: 38
+nav_order: 39
 layout: default
 ---
 
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*

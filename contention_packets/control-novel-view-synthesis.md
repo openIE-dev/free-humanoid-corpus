@@ -1,7 +1,7 @@
 ---
 title: "control-novel-view-synthesis"
 parent: "Invalidity Contentions"
-nav_order: 45
+nav_order: 47
 layout: default
 ---
 
@@ -132,4 +132,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*

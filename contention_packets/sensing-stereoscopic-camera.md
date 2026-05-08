@@ -1,7 +1,7 @@
 ---
 title: "sensing-stereoscopic-camera"
 parent: "Invalidity Contentions"
-nav_order: 116
+nav_order: 118
 layout: default
 ---
 
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*

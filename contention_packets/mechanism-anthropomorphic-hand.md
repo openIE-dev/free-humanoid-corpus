@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 74
+nav_order: 76
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 120 (97 commons-grade, 23 draft)  
+**Entries:** 124 (101 commons-grade, 23 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2026-04
 
@@ -99,6 +99,26 @@ cite, copy, or redistribute these contentions.
 1. Villiers de l'Isle-Adam, A. L'Ève future. 1886.
 2. Tomorrow's Eve. Translated by Robert Martin Adams. University of Illinois Press, 2001.
 3. Lathers, Marie. The Aesthetics of Artifice: Villiers's L'Ève future. North Carolina Studies in Romance Languages and Literatures, 1996.
+
+---
+
+### 1919-01 — Schlesinger 6-grasp classification
+
+- **id:** `schlesinger-grasp-classification-1919`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Georg Schlesinger (TU Berlin)
+- **disclosure citation:** Schlesinger, G. 'Der Mechanische Aufbau der Künstlichen Glieder' [The Mechanical Construction of Artificial Limbs]. In Borchardt, M. et al. (eds.) 'Ersatzglieder und Arbeitshilfen für Kriegsbeschädigte und Unfallverletzte', Springer Berlin 1919. The foundational post-WWI prosthetic-hand mechanical-design treatise, written by Georg Schlesinger of TU Berlin.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `control-grasp-taxonomy`
+
+**Prior art notes:**
+
+> Schlesinger's 1919 6-grasp classification is the foundational post-WWI grasp-taxonomy public-domain prior art. **106-year-deep public-domain anchor** for any commercial humanoid claim on grasp categorization. Underlies Cutkosky 1989 (round-21 entry below), Iberall 1986 (round-21 entry below), and modern GRASP taxonomy (Feix 2014). Direct shielding for any commercial humanoid claim involving grasp-type recognition or grasp-class-specific control. Tesla Optimus Gen 3, Figure Helix, π₀.₅, and all modern manipulation policies that report grasp-type performance face this 106-year prior-art baseline.
+
+**Sources:**
+
+1. Schlesinger, G. 1919 (Springer Berlin; original German text widely available; English translations in survey articles).
+2. Cutkosky 1989 (corpus entry below) cites Schlesinger as the foundational classification.
 
 ---
 
@@ -506,6 +526,47 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1986-01 — Kapandji thumb-opposition classification
+
+- **id:** `kapandji-thumb-opposition-1986`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Adalbert I. Kapandji (French orthopedic surgeon)
+- **disclosure citation:** Kapandji, A. I. 'Cotation clinique de l'opposition et de la contre-opposition du pouce' [Clinical evaluation of thumb opposition and counter-opposition]. Annales de Chirurgie de la Main 5(1) 1986. Subsequent: Kapandji, A. I. 'The Physiology of the Joints, Volume 1: Upper Limb' (Churchill Livingstone, 6th ed. 2007 — the foundational hand-anatomy textbook in clinical use globally).
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `control-grasp-taxonomy`
+
+**Prior art notes:**
+
+> Kapandji's 1986 thumb-opposition classification is the canonical clinical thumb-kinematics framework. 39-year-deep public-domain prior art for: thumb-opposition kinematic specification, hand-kinematic clinical evaluation. The reference for **what constitutes a 'fully dexterous' thumb** in any modern dexterous-hand specification (Shadow Hand, DLR Hand-II, Pisa-IIT SoftHand, Tactile SoftHand-A, Tesla Optimus Gen 3 22-DoF). Direct shielding for any commercial humanoid claim on 'human-like thumb opposition' — the 11-point Kapandji scale defines the kinematic envelope, and any commercial hand reporting thumb-mobility metrics is implicitly comparing against this scale.
+
+**Sources:**
+
+1. Kapandji, A. I. Annales de Chirurgie de la Main 5(1) 1986.
+2. Kapandji, A. I. 'The Physiology of the Joints, Volume 1: Upper Limb' Churchill Livingstone 2007.
+
+---
+
+### 1986-01 — Iberall opposition-space hand-kinematics theory
+
+- **id:** `iberall-opposition-space-1986`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Thea Iberall (UCSD; later USC); Michael Arbib (USC) collaboration
+- **disclosure citation:** Iberall, T. 'Opposition Space as a Structuring Concept for the Analysis of Skilled Hand Movements'. In Heuer, H. + Fromm, C. (eds.) 'Generation and Modulation of Action Patterns', Springer 1986. Subsequent: Iberall, T., Bingham, G., Arbib, M. A. 'Opposition Space as a Structuring Concept for the Analysis of Skilled Hand Movements'. In Whiting, H.T.A. + Wing, A.M. (eds.) 'Themes in Motor Development', Springer 1986. UCSD + USC.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `control-grasp-taxonomy`, `control-virtual-finger`
+
+**Prior art notes:**
+
+> Iberall's 1986 opposition-space theory is the canonical academic framework for human grasp kinematics. 39-year-deep public-domain prior art for: 3-primitive opposition decomposition, virtual-finger modeling. **Directly underlies the Pisa-IIT SoftHand synergy reduction** (corpus entry pisa-iit-softhand): the SoftHand's single-DoF synergy maps onto Iberall's opposition primitives. Direct shielding for any commercial humanoid hand claim on synergy-reduction or virtual-finger mechanism. Together with Schlesinger 1919 + Cutkosky 1989 (round-21 entries), establishes the academic-+-clinical-+-engineering grasp-taxonomy trio underlying all modern dexterous hand IP.
+
+**Sources:**
+
+1. Iberall, T. in 'Generation and Modulation of Action Patterns' Springer 1986.
+2. Iberall, T., Bingham, G., Arbib, M. A. in 'Themes in Motor Development' Springer 1986.
+3. Arbib, M. A., Iberall, T., Lyons, D. 'Coordinated control programs for movements of the hand'. Hand Function and the Neocortex 1985.
+
+---
+
 ### 1986-05-09 — Number 5 / Johnny 5
 
 - **id:** `number-5-short-circuit`
@@ -648,6 +709,26 @@ cite, copy, or redistribute these contentions.
 1. Shirow, M. The Ghost in the Shell. Young Magazine, Kodansha, 1989-1990 (collected 1991).
 2. Oshii, M. Ghost in the Shell. Production I.G theatrical film, 1995.
 3. Kamiyama, K. Ghost in the Shell: Stand Alone Complex. Production I.G, 2002-2005.
+
+---
+
+### 1989-06 — Cutkosky grasp taxonomy
+
+- **id:** `cutkosky-grasp-taxonomy-1989`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Stanford BDML; Mark R. Cutkosky
+- **disclosure citation:** Cutkosky, M. R. 'On Grasp Choice, Grasp Models, and the Design of Hands for Manufacturing Tasks'. IEEE Transactions on Robotics and Automation 5(3) 1989. Stanford BDML (Biomimetic Dexterous Manipulation Lab; founded by Cutkosky).
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `control-grasp-taxonomy`, `control-grasp-planning`
+
+**Prior art notes:**
+
+> The Cutkosky 16-grasp taxonomy is the canonical academic engineering grasp-classification reference (Cutkosky IEEE T-RA 1989). 36-year-deep public-domain prior art for: hierarchical grasp categorization, manufacturing-task-grasp engineering framework. **The dominant CS reference cited by every robotic manipulation paper 1989-2025**. Together with Schlesinger 1919 (clinical) and Iberall 1986 (theoretical), establishes the three-pillar grasp-taxonomy academic substrate. Direct shielding for any commercial humanoid claim on grasp-type recognition + grasp-class-specific manipulation policy.
+
+**Sources:**
+
+1. Cutkosky, M. R. IEEE T-RA 5(3) 1989.
+2. Stanford BDML publications (bdml.stanford.edu).
 
 ---
 
@@ -2488,4 +2569,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*

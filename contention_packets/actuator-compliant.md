@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-compliant`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1957-01  
 **Most recent disclosure:** 2017-04
 
@@ -58,6 +58,26 @@ cite, copy, or redistribute these contentions.
 1. McKibben, J. L. NIH technical reports 1957.
 2. Daerden, F., Lefeber, D. 'Pneumatic Artificial Muscles' EJMEE 47(1) 2002 — canonical academic survey.
 3. Tondu, B. 'Modelling of the McKibben artificial muscle' J. Intelligent Material Systems 23(3) 2012.
+
+---
+
+### 2005-04 — Variable Stiffness Actuator (Tonietti VSA)
+
+- **id:** `tonietti-vsa-pisa-iit-2005`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Pisa University + IIT (Italian Institute of Technology); Giovanni Tonietti, Riccardo Schiavi, Antonio Bicchi
+- **disclosure citation:** Tonietti, G., Schiavi, R., Bicchi, A. 'Design and Control of a Variable Stiffness Actuator for Safe and Fast Physical Human/Robot Interaction'. ICRA 2005. Pisa-IIT (later: IIT-Pisa joint lab; antecedent of Pisa-IIT SoftHand corpus entry).
+- **disclosed subsystems:** `actuator-variable-stiffness`, `actuator-compliant`, `actuator-electric-series-elastic`
+
+**Prior art notes:**
+
+> The Pisa-IIT Tonietti VSA (ICRA 2005) is the canonical academic variable-stiffness actuator. 20-year-deep public-domain prior art for: mechanically-adjustable joint compliance, two-motor co-control of position + stiffness. Architectural cousin of Pratt-Williamson SEA (corpus entry, 1995, fixed compliance). Direct ancestor of: DLR Hand-Arm System variable-impedance joints (corpus entry dlr-hand-arm-system-2011); EPFL spring-driven exoskeletons; modern compliant-actuator commercial products. Direct shielding for any commercial humanoid claim on real-time-adjustable compliance or variable-stiffness joint control.
+
+**Sources:**
+
+1. Tonietti et al. ICRA 2005 IEEE.
+2. Bicchi group publications (Pisa-IIT centroaesp.unipi.it).
 
 ---
 
@@ -112,4 +132,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*

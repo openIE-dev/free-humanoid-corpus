@@ -58,6 +58,16 @@
       ]
     },
     {
+      "id": "schlesinger-grasp-classification-1919",
+      "name": "Schlesinger 6-grasp classification",
+      "year": "1919",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "cutkosky-grasp-taxonomy-1989"
+      ]
+    },
+    {
       "id": "rur-rossums-robots",
       "name": "Rossum's Universal Robots",
       "year": "1920",
@@ -388,6 +398,7 @@
         "goswami-fri",
         "hrp-2",
         "kajita-lipm",
+        "pratt-capture-point-2007",
         "wabian-2",
         "wabot-1"
       ]
@@ -760,6 +771,22 @@
       ]
     },
     {
+      "id": "iberall-opposition-space-1986",
+      "name": "Iberall opposition-space hand-kinematics theory",
+      "year": "1986",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kapandji-thumb-opposition-1986",
+      "name": "Kapandji thumb-opposition classification",
+      "year": "1986",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "number-5-short-circuit",
       "name": "Number 5 / Johnny 5",
       "year": "1986",
@@ -960,6 +987,16 @@
       ]
     },
     {
+      "id": "cutkosky-grasp-taxonomy-1989",
+      "name": "Cutkosky grasp taxonomy",
+      "year": "1989",
+      "corpus": "academic",
+      "ancestors": [
+        "schlesinger-grasp-classification-1919"
+      ],
+      "descendants": []
+    },
+    {
       "id": "mcgeer-passive-walker",
       "name": "McGeer Passive Dynamic Walker",
       "year": "1990",
@@ -1155,7 +1192,8 @@
         "digit-meta",
         "hwangbo-anymal-sim2real",
         "nasa-valkyrie",
-        "pratt-virtual-model-control"
+        "pratt-virtual-model-control",
+        "tonietti-vsa-pisa-iit-2005"
       ]
     },
     {
@@ -1609,6 +1647,18 @@
       ]
     },
     {
+      "id": "tonietti-vsa-pisa-iit-2005",
+      "name": "Variable Stiffness Actuator (Tonietti VSA)",
+      "year": "2005",
+      "corpus": "academic",
+      "ancestors": [
+        "pratt-williamson-sea"
+      ],
+      "descendants": [
+        "dlr-hand-arm-system-2011"
+      ]
+    },
+    {
       "id": "open-invention-network-2005",
       "name": "Open Invention Network",
       "year": "2005",
@@ -1664,6 +1714,16 @@
       "year": "2006",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pratt-capture-point-2007",
+      "name": "Capture Point (Pratt humanoid balance)",
+      "year": "2006",
+      "corpus": "academic",
+      "ancestors": [
+        "vukobratovic-zmp"
+      ],
       "descendants": []
     },
     {
@@ -2018,7 +2078,8 @@
       "year": "2011",
       "corpus": "academic",
       "ancestors": [
-        "dlr-hand-ii"
+        "dlr-hand-ii",
+        "tonietti-vsa-pisa-iit-2005"
       ],
       "descendants": []
     },
@@ -2795,6 +2856,16 @@
       "descendants": []
     },
     {
+      "id": "deepmimic-peng-siggraph-2018",
+      "name": "DeepMimic",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "amp-peng-siggraph-2021"
+      ]
+    },
+    {
       "id": "stanford-omnigibson-2023",
       "name": "OmniGibson / iGibson (Stanford SVL)",
       "year": "2018",
@@ -2982,6 +3053,7 @@
       ],
       "descendants": [
         "berkeley-humanoid",
+        "miki-perceptive-anymal-science-2022",
         "mit-cheetah-3"
       ]
     },
@@ -3186,6 +3258,16 @@
       "descendants": []
     },
     {
+      "id": "amp-peng-siggraph-2021",
+      "name": "Adversarial Motion Priors (AMP)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [
+        "deepmimic-peng-siggraph-2018"
+      ],
+      "descendants": []
+    },
+    {
       "id": "orb-slam3-2021",
       "name": "ORB-SLAM3",
       "year": "2021",
@@ -3340,6 +3422,16 @@
       "corpus": "open",
       "ancestors": [
         "ascento"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "miki-perceptive-anymal-science-2022",
+      "name": "Perceptive ANYmal locomotion (Miki Science Robotics 2022)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [
+        "hwangbo-anymal-sim2real"
       ],
       "descendants": []
     },

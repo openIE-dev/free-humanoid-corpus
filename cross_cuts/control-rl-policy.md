@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**135 corpus entries disclose this subsystem.**
+**138 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -627,6 +627,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Stanford OmniGibson / iGibson / Gibson (Xia et al. CVPR 2018; Li et al. CoRL 2021; BEHAVIOR-1K CoRL 2022) is the canonical academic disclosure of large-scale photorealistic household-task embodied-AI simulation, published MIT-licensed by Stanford SVL. Anticipates with full source-level specificity: (1) 1,000-task ADL benchmark for household humanoid IP — directly relevant to commercial claims on home-task humanoid VLA training (Tesla Optimus household demo set, Figure 02 home tasks, 1X NEO domestic operation, Genesis AI cooking demos); (2) the articulated-object household scene corpus with 50K+ objects — relevant to claims on simulated-household-data humanoid training; (3) predicate-based goal specification ('apple is on table', 'cabinet is open') — relevant to claims on language-and-state-grounded humanoid task specification; (4) the photorealistic-rendering-for-RL pipeline established by Gibson 2018 — anticipates claims on photorealistic-sim-to-real humanoid pipelines. Modern household-humanoid VLA training pipeline IP filings face this 8-year-deep open-source academic anchor (or shorter for OmniGibson/BEHAVIOR-1K specifically).
 
+## DeepMimic (2018-04)
+
+- **id**: `deepmimic-peng-siggraph-2018`
+- **corpus**: academic
+- **creator**: UC Berkeley + UBC; Xue Bin (Jason) Peng, Pieter Abbeel, Sergey Levine, Michiel van de Panne
+- **disclosure**: Peng, X. B., Abbeel, P., Levine, S., van de Panne, M. 'DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills'. ACM Transactions on Graphics 37(4) 2018 (SIGGRAPH 2018). arXiv:1804.02717. UC Berkeley + UBC.
+- **ip status**: open-permissive
+- **prior art notes**: DeepMimic (Peng et al. SIGGRAPH 2018) is the canonical foundational motion-capture-imitation deep-RL framework. 7-year-deep open-permissive prior art for: deep-RL imitation of motion-capture references, physics-based character animation via RL, complex acrobatic skill (backflip, spin) RL training. **The architectural ancestor of**: Adversarial Motion Priors (round-21 entry below), ASE (Peng et al. 2022), the entire humanoid-from-mocap-data line. Direct shielding for any commercial humanoid claim on motion-capture-trained policies (Tesla Optimus, Figure Helix demos all use mocap-style imitation; this is 7-year-deep prior art).
+
 ## Tan et al. Quadruped Sim-to-Real (2018-04-28)
 
 - **id**: `tan-quadruped-sim2real`
@@ -726,6 +735,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Sophia's October 2019 disclosure provides specific prior art for: (1) tablet-device-class chassis with humanoid avatar projection — relevant to claims on companion-AI humanoid form factors (a substantive niche in Japanese consumer robotics); (2) explicit AI-grows-into-emotional-being character arc as a deployment-time policy update — relevant to modern affective-computing humanoid IP that claims emotional-architecture emergence; (3) dual-embodiment architecture (physical tablet device plus virtual humanoid form) — relevant to claims on humanoid platforms that span physical and virtual embodiment; (4) party-coordination policy for combat-support contexts — relevant to multi-agent humanoid coordination IP. Continuously available since 2019.
 
+## Adversarial Motion Priors (AMP) (2021-04)
+
+- **id**: `amp-peng-siggraph-2021`
+- **corpus**: academic
+- **creator**: UC Berkeley; Xue Bin (Jason) Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa
+- **disclosure**: Peng, X. B., Ma, Z., Abbeel, P., Levine, S., Kanazawa, A. 'AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control'. ACM Transactions on Graphics 40(4) 2021 (SIGGRAPH 2021). arXiv:2104.02180. UC Berkeley.
+- **ip status**: open-permissive
+- **prior art notes**: Adversarial Motion Priors (Peng et al. SIGGRAPH 2021) is the canonical extension of DeepMimic to GAN-style latent-space motion imitation. 4-year-deep open-permissive prior art for: GAN-distilled motion priors, latent-space mocap style imitation, task-conditioned style-aware humanoid RL. **The architectural ancestor of contemporary humanoid-from-mocap RL** including ASE (Peng et al. 2022), HumanPlus (Stanford 2024), ExBody (Stanford 2024), H1 / G1 humanoid policies (Unitree). Direct shielding for any commercial humanoid claim on 'humanoid moves like a human' style-aware locomotion.
+
 ## Unitree Go1 (2021-06)
 
 - **id**: `unitree-go1`
@@ -752,6 +770,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tesla AI Day 1, August 19, 2021, Palo Alto.
 - **ip status**: patented
 - **prior art notes**: Tesla's claims around vision-only humanoid perception are heavily anticipated by academic vision-based humanoid work. Actuator IP claims should be examined against Honda harmonic drive prior art.
+
+## Perceptive ANYmal locomotion (Miki Science Robotics 2022) (2022-01)
+
+- **id**: `miki-perceptive-anymal-science-2022`
+- **corpus**: academic
+- **creator**: ETH Zürich RSL + Intel Labs; Takahiro Miki, Joonho Lee, Jemin Hwangbo, Lorenz Wellhausen, Vladlen Koltun, Marco Hutter
+- **disclosure**: Miki, T., Lee, J., Hwangbo, J., Wellhausen, L., Koltun, V., Hutter, M. 'Learning Robust Perceptive Locomotion for Quadrupedal Robots in the Wild'. Science Robotics 7(62) 2022. ETH Zürich Robotic Systems Lab + Intel Labs.
+- **ip status**: open-permissive
+- **prior art notes**: The Miki et al. Science Robotics 2022 perceptive-ANYmal paper is the canonical academic perceptive-quadruped-RL work. 3-year-deep open-permissive prior art for: privileged-teacher / proprioception+exteroception-student two-stage distillation, robust unstructured-terrain RL locomotion, depth-elevation-map perceptive locomotion. Direct successor to Hwangbo ANYmal sim-to-real (corpus entry, 2019). **The architectural ancestor of every modern quadruped + humanoid RL locomotion paper** including Berkeley Humanoid, ToddlerBot, Atlas Electric (round-18). Direct shielding for any commercial humanoid claim on perceptive-RL locomotion or unstructured-terrain RL training.
 
 ## SayCan (Do As I Can, Not As I Say) (2022-04-04)
 

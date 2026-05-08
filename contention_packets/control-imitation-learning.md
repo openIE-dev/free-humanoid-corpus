@@ -1,7 +1,7 @@
 ---
 title: "control-imitation-learning"
 parent: "Invalidity Contentions"
-nav_order: 34
+nav_order: 35
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-imitation-learning`  
-**Entries:** 16 (16 commons-grade, 0 draft)  
-**Earliest disclosure:** 2019-09  
+**Entries:** 18 (18 commons-grade, 0 draft)  
+**Earliest disclosure:** 2018-04  
 **Most recent disclosure:** 2025-02
 
 ---
@@ -40,6 +40,27 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 2018-04 — DeepMimic
+
+- **id:** `deepmimic-peng-siggraph-2018`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley + UBC; Xue Bin (Jason) Peng, Pieter Abbeel, Sergey Levine, Michiel van de Panne
+- **disclosure citation:** Peng, X. B., Abbeel, P., Levine, S., van de Panne, M. 'DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills'. ACM Transactions on Graphics 37(4) 2018 (SIGGRAPH 2018). arXiv:1804.02717. UC Berkeley + UBC.
+- **disclosed subsystems:** `control-rl-policy`, `control-imitation-learning`, `control-motion-capture-imitation`, `control-physics-based-animation`
+
+**Prior art notes:**
+
+> DeepMimic (Peng et al. SIGGRAPH 2018) is the canonical foundational motion-capture-imitation deep-RL framework. 7-year-deep open-permissive prior art for: deep-RL imitation of motion-capture references, physics-based character animation via RL, complex acrobatic skill (backflip, spin) RL training. **The architectural ancestor of**: Adversarial Motion Priors (round-21 entry below), ASE (Peng et al. 2022), the entire humanoid-from-mocap-data line. Direct shielding for any commercial humanoid claim on motion-capture-trained policies (Tesla Optimus, Figure Helix demos all use mocap-style imitation; this is 7-year-deep prior art).
+
+**Sources:**
+
+1. Peng, X. B. et al. ACM TOG 37(4) 2018; arXiv:1804.02717.
+2. Project page (xbpeng.github.io/projects/DeepMimic).
+3. BAIR open-source release (github.com/xbpeng/DeepMimic).
+
+---
+
 ### 2019-09 — RLBench
 
 - **id:** `rlbench-james-2019`
@@ -58,6 +79,27 @@ cite, copy, or redistribute these contentions.
 1. James et al. arXiv:1909.12271 IEEE RA-L 2020.
 2. Project page (sites.google.com/view/rlbench).
 3. GitHub: github.com/stepjam/RLBench.
+
+---
+
+### 2021-04 — Adversarial Motion Priors (AMP)
+
+- **id:** `amp-peng-siggraph-2021`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley; Xue Bin (Jason) Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa
+- **disclosure citation:** Peng, X. B., Ma, Z., Abbeel, P., Levine, S., Kanazawa, A. 'AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control'. ACM Transactions on Graphics 40(4) 2021 (SIGGRAPH 2021). arXiv:2104.02180. UC Berkeley.
+- **disclosed subsystems:** `control-rl-policy`, `control-imitation-learning`, `control-motion-capture-imitation`, `control-adversarial-style-distillation`
+
+**Prior art notes:**
+
+> Adversarial Motion Priors (Peng et al. SIGGRAPH 2021) is the canonical extension of DeepMimic to GAN-style latent-space motion imitation. 4-year-deep open-permissive prior art for: GAN-distilled motion priors, latent-space mocap style imitation, task-conditioned style-aware humanoid RL. **The architectural ancestor of contemporary humanoid-from-mocap RL** including ASE (Peng et al. 2022), HumanPlus (Stanford 2024), ExBody (Stanford 2024), H1 / G1 humanoid policies (Unitree). Direct shielding for any commercial humanoid claim on 'humanoid moves like a human' style-aware locomotion.
+
+**Sources:**
+
+1. Peng, X. B. et al. ACM TOG 40(4) 2021; arXiv:2104.02180.
+2. Project page (xbpeng.github.io/projects/AMP).
+3. GitHub: github.com/xbpeng/DeepMimic (AMP integrated).
 
 ---
 
@@ -411,4 +453,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*

@@ -1,6 +1,6 @@
 # Corpus Index
 
-445 entries total. Generated from corpus.jsonl.
+454 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -9,6 +9,7 @@
 | 8 Man (Hachiman) | `8-man-hachiman` | 1963 | fictional | fictional |  |
 | Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning | `abbeel-ng-irl-2004` | 2004 | academic | public-domain |  |
 | ACT (Action Chunking Transformer) / ALOHA | `act-aloha` | 2023 | academic | open-permissive |  |
+| Adversarial Motion Priors (AMP) | `amp-peng-siggraph-2021` | 2021 | academic | open-permissive |  |
 | AgiBot A1 | `agibot-a1` | 2023 | private | patented | ✓ |
 | Akira (Tetsuo cyborg-mutation, Akira containment) | `akira-tetsuo-1988` | 1982 | fictional | fictional |  |
 | Alita / Gally (Battle Angel Alita / Gunnm) | `battle-angel-alita` | 1990 | fictional | fictional |  |
@@ -74,6 +75,7 @@
 | Caltech CAST Hank bipedal platform | `caltech-hank-cast-2019` | 2019 | academic | public-domain |  |
 | Caltech LEONARDO | `caltech-leonardo-2021` | 2021 | academic | public-domain |  |
 | CALVIN | `calvin-mees-2022` | 2021 | academic | open-permissive |  |
+| Capture Point (Pratt humanoid balance) | `pratt-capture-point-2007` | 2006 | academic | public-domain |  |
 | Casshan / Casshern (Neo-Human Casshan) | `casshan-tatsunoko` | 1973 | fictional | fictional | ✓ |
 | Cassie | `cassie-osu` | 2017 | academic | patented |  |
 | Cell | `dbz-cell-android-21` | 1992 | fictional | fictional |  |
@@ -91,6 +93,7 @@
 | Crazyflie | `crazyflie` | 2013 | open | open-permissive |  |
 | Crocoddyl | `mastalli-crocoddyl-2020` | 2020 | academic | open-permissive |  |
 | Culture Drones | `banks-culture-drones` | 1987 | fictional | fictional |  |
+| Cutkosky grasp taxonomy | `cutkosky-grasp-taxonomy-1989` | 1989 | academic | public-domain |  |
 | Cyberdyne HAL (Hybrid Assistive Limb) | `cyberdyne-hal-sankai-2004` | 2004 | private | trade-secret |  |
 | Cybermen | `cybermen` | 1966 | fictional | fictional |  |
 | Cyberware (Cyberpunk 2077) | `cyberpunk-2077-cyborgs` | 2020 | fictional | fictional |  |
@@ -104,6 +107,7 @@
 | Data | `data-tng` | 1987 | fictional | fictional |  |
 | David and Walter (Alien franchise synthetics) | `david-prometheus-walter-covenant` | 2012 | fictional | fictional |  |
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
+| DeepMimic | `deepmimic-peng-siggraph-2018` | 2018 | academic | open-permissive |  |
 | DeepMind humanoid soccer (Haarnoja et al.) | `deepmind-humanoid-soccer-haarnoja-2024` | 2024 | academic | open-permissive |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
 | DexMV (Dexterous Manipulation from Videos) | `dexmv-qin-cvpr-2022` | 2021 | academic | open-permissive |  |
@@ -197,6 +201,7 @@
 | Humanoids (With Folded Hands) | `williamson-folded-hands` | 1947 | fictional | fictional |  |
 | Humans (Channel 4 / AMC) Synth household robots | `humans-channel4-amc-2015` | 2015 | fictional | public-domain |  |
 | Hwangbo ANYmal Sim-to-Real Locomotion | `hwangbo-anymal-sim2real` | 2019 | academic | open-permissive |  |
+| Iberall opposition-space hand-kinematics theory | `iberall-opposition-space-1986` | 1986 | academic | public-domain |  |
 | iCub | `icub` | 2008 | academic | open-permissive |  |
 | IG-88 | `ig-88-star-wars` | 1980 | fictional | fictional |  |
 | Ijspeert-Schaal Dynamic Movement Primitives (formal extension) | `ijspeert-dmp-2013` | 2013 | academic | public-domain |  |
@@ -215,6 +220,7 @@
 | K-Scale Labs Open Source Humanoid | `k-scale-os` | 2024 | open | open-permissive | ✓ |
 | K9 | `dr-who-k9` | 1977 | fictional | fictional |  |
 | Kajita Linear Inverted Pendulum Model | `kajita-lipm` | 2001 | academic | public-domain |  |
+| Kapandji thumb-opposition classification | `kapandji-thumb-opposition-1986` | 1986 | academic | public-domain |  |
 | Kawasaki Kaleido | `kawasaki-kaleido` | 2017 | private | patented |  |
 | Kepler K2 | `kepler-k2` | 2024 | private | patented | ✓ |
 | Khatib Operational Space Formulation | `khatib-operational-space` | 1987 | academic | public-domain |  |
@@ -298,6 +304,7 @@
 | PaLM-E (Embodied Multimodal Language Model) | `palm-e` | 2023 | academic | open-permissive |  |
 | Park's Transformation (dq0 transformation) | `park-transformation-1929` | 1929 | academic | public-domain |  |
 | Pepper | `pepper-softbank` | 2014 | private | patented |  |
+| Perceptive ANYmal locomotion (Miki Science Robotics 2022) | `miki-perceptive-anymal-science-2022` | 2022 | academic | open-permissive |  |
 | Persona AI Mentee | `persona-ai-mentee` | 2024 | private | trade-secret | ✓ |
 | PETMAN | `petman` | 2009 | private | trade-secret | ✓ |
 | Physical Intelligence π0 | `physical-intelligence-pi-zero` | 2024 | private | trade-secret |  |
@@ -359,6 +366,7 @@
 | Sarcos Guardian XO | `sarcos-guardian-xo-2018` | 2018 | private | trade-secret |  |
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
+| Schlesinger 6-grasp classification | `schlesinger-grasp-classification-1919` | 1919 | academic | public-domain |  |
 | Seaglider AUV | `seaglider-auv-2001` | 2001 | academic | open-permissive |  |
 | SemGauss-SLAM | `semgauss-slam-2024` | 2024 | academic | open-permissive | ✓ |
 | SensAble Phantom haptic device | `sensable-phantom-1994` | 1994 | private | trade-secret |  |
@@ -430,6 +438,7 @@
 | V'Ger | `v-ger-star-trek` | 1979 | fictional | fictional |  |
 | V.I.N.CENT and Maximilian (The Black Hole) | `black-hole-vincent` | 1979 | fictional | fictional |  |
 | Val and Aqua (Heartbeeps) | `heartbeeps-val-aqua` | 1981 | fictional | fictional |  |
+| Variable Stiffness Actuator (Tonietti VSA) | `tonietti-vsa-pisa-iit-2005` | 2005 | academic | public-domain |  |
 | Vicarious Surgical | `vicarious-surgical-2014` | 2014 | private | trade-secret |  |
 | VIMA (General Robot Manipulation with Multimodal Prompts) | `vima` | 2022 | academic | open-permissive |  |
 | ViPE (Video Pose Engine) | `nvidia-vipe-2025` | 2025 | academic | open-permissive |  |
