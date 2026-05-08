@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**118 corpus entries disclose this subsystem.**
+**119 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -869,6 +869,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ishiguro, Kazuo. 'Klara and the Sun.' Faber & Faber (UK) / Alfred A. Knopf (US), 2 March 2021; ISBN 978-0593318171.
 - **ip status**: public-domain
 - **prior art notes**: Ishiguro's 'Klara and the Sun' (2021) is the canonical literary-fiction anchor for solar-powered child-companion AFs by a Nobel-laureate author. It anticipates with full specificity: (1) claims on solar-powered humanoid child-companion robots with continually-learning observation policies — Klara's solar dependence and observational learning are core to the novel; (2) claims on model-generation lineage with successive sensorimotor refinement (B1/B2/B3) — explicit market-segmentation language used; (3) claims on companion humanoids designed as 'continuation' substitutes for ill or deceased humans — the Josie subplot dramatizes exactly this proposed substitution. Published with hardcover ISBN and timestamped 2 March 2021 release; international literary distribution; Nobel-laureate author elevates evidentiary weight.
+
+## DexMV (Dexterous Manipulation from Videos) (2021-08)
+
+- **id**: `dexmv-qin-cvpr-2022`
+- **corpus**: academic
+- **creator**: UCSD; Yuzhe Qin, Hao Su, Xiaolong Wang
+- **disclosure**: Qin, Y., Su, H., Wang, X. 'DexMV: Imitation Learning for Dexterous Manipulation from Human Videos'. ECCV 2022 (also accepted at earlier 2021 venues). arXiv:2108.05877. UC San Diego.
+- **ip status**: open-permissive
+- **prior art notes**: DexMV is the canonical academic dexterous-manipulation-from-human-videos system (Qin et al. ECCV 2022). 3-year-deep open-permissive prior art for: training robot manipulation policies directly from in-the-wild human videos, hand-pose retargeting from human to robot. **Direct conceptual ancestor of NVIDIA GR00T N1's 20K-hour EgoScale egocentric-video pre-training** (round-15 entry). Direct shielding for any commercial humanoid claim on 'we trained on YouTube videos' or 'egocentric-video-based policy pretraining'.
 
 ## Tesla Optimus (2021-08-19)
 

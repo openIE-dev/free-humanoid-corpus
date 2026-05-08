@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-physics-simulation`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2012-10
 
@@ -50,6 +50,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Makoviychuk, V., Wawrzyniak, L., Guo, Y., Lu, M., Storey, K., Macklin, M., Hoeller, D., Rudin, N., Allshire, A., Handa, A., State, G. 'Isaac Gym: High-Performance GPU-Based Physics Simulation For Robot Learning'. NeurIPS 2021 Track on Datasets and Benchmarks. arXiv:2108.10470.
 - **ip status**: open-permissive
 - **prior art notes**: Isaac Gym is the canonical first-generation NVIDIA GPU-parallelized robotic RL simulator (NeurIPS 2021). 4-year-deep open-permissive prior art. Direct ancestor of Isaac Lab (round-8 entry nvidia-isaac-lab-2024) and the substrate for the canonical sim-to-real ANYmal perceptive-locomotion papers. Direct shielding for any commercial humanoid claim on GPU-parallelized RL training; particularly the thousands-of-parallel-envs scaling that commercial humanoid vendors cite as proprietary.
+
+## Habitat 3.0 (2023-10)
+
+- **id**: `fair-habitat-3-puig-2024`
+- **corpus**: academic
+- **creator**: FAIR + Georgia Tech + UIUC; Puig, Mottaghi, Batra, Malik et al.
+- **disclosure**: Puig, X., Undersander, E., Szot, A., Cote, M. D., Yang, T.-Y., Partsey, R., Desai, R., Clegg, A. W., Hlavac, M., Min, S. Y., Vondruš, T., Gervet, T., Berges, V.-P., Turner, J. M., Maksymets, O., Kira, Z., Kalakrishnan, M., Malik, J., Chaplot, D. S., Jain, U., Batra, D., Rai, A., Mottaghi, R. 'Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots'. ICLR 2024. arXiv:2310.13724. FAIR + Georgia Tech + UIUC.
+- **ip status**: open-permissive
+- **prior art notes**: Habitat 3.0 is the canonical academic multi-agent embodied simulator with humanoid avatars (Puig et al. ICLR 2024). 1.5-year-deep open-permissive prior art for: humanoid-and-robot co-simulation, social-navigation tasks where robots interact with human avatars, large-scale (211-house) furnished scene library for embodied AI. Direct shielding for any commercial humanoid claim on training-with-humans-in-simulation or social-navigation policies.
 
 ## RoboCasa (2024-06)
 

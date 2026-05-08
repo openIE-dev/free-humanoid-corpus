@@ -1,7 +1,7 @@
 ---
 title: "control-publish-subscribe"
 parent: "Invalidity Contentions"
-nav_order: 44
+nav_order: 46
 layout: default
 ---
 
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

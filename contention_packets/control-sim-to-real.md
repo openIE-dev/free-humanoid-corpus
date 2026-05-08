@@ -1,7 +1,7 @@
 ---
 title: "control-sim-to-real"
 parent: "Invalidity Contentions"
-nav_order: 48
+nav_order: 50
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-sim-to-real`  
-**Entries:** 30 (25 commons-grade, 5 draft)  
+**Entries:** 33 (28 commons-grade, 5 draft)  
 **Earliest disclosure:** 2014-12-11  
 **Most recent disclosure:** 2026-04
 
@@ -97,6 +97,25 @@ cite, copy, or redistribute these contentions.
 
 1. Hurst Lab publications.
 2. Agility Robotics technical materials.
+
+---
+
+### 2017-03 — Domain Randomization
+
+- **id:** `tobin-domain-randomization-2017`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** OpenAI + UC Berkeley; Tobin, Fong, Ray, Schneider, Zaremba, Abbeel
+- **disclosure citation:** Tobin, J., Fong, R., Ray, A., Schneider, J., Zaremba, W., Abbeel, P. 'Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World'. arXiv:1703.06907, March 2017. IROS 2017. OpenAI + UC Berkeley.
+- **disclosed subsystems:** `control-sim-to-real`, `control-domain-randomization`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Domain Randomization (Tobin et al. IROS 2017) is the foundational sim-to-real method. 8-year-deep public-domain academic prior art. **Cited by every subsequent sim-to-real paper** including OpenAI Dactyl (2018-2019, in corpus), Hwangbo ANYmal sim-to-real (2019), Berkeley Humanoid (round-11, 2024), Berkeley Humanoid Lite (round-11, 2025), ToddlerBot (round-11, 2025). Direct shielding for any commercial humanoid claim on sim-to-real training methodology. The technique is too general to patent — but having it as a corpus entry resolves ~50 prior_art_notes references that previously referred to it informally.
+
+**Sources:**
+
+1. Tobin et al. arXiv:1703.06907 March 2017; IROS 2017.
 
 ---
 
@@ -510,6 +529,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-05 — SimplerEnv
+
+- **id:** `simpler-env-li-corl-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UCSD + Stanford + UC Berkeley + Google DeepMind; Xuanlin Li, Kyle Hsu, Sergey Levine, Chelsea Finn, Hao Su et al.
+- **disclosure citation:** Li, X., Hsu, K., Gu, J., Pertsch, K., Mees, O., Walke, H. R., Fu, C., Lunawat, I., Sieh, I., Kirmani, S., Levine, S., Wu, J., Finn, C., Su, H., Vuong, Q., Xiao, T. 'Evaluating Real-World Robot Manipulation Policies in Simulation'. CoRL 2024. arXiv:2405.05941. UCSD + Stanford + UC Berkeley + Google DeepMind.
+- **disclosed subsystems:** `control-sim-to-real`, `control-benchmarking`, `control-policy-evaluation`
+
+**Prior art notes:**
+
+> SimplerEnv is the canonical sim-eval framework matched to real-world manipulation evaluations (Li et al. CoRL 2024). 1-year-deep open-permissive prior art for: simulation-based VLA policy evaluation that correlates with real-world performance, sim-real matched setup design (Google Robot, WidowX+Bridge). Direct shielding for any commercial humanoid claim on 'our sim eval predicts real performance' or on specific simulated benchmark infrastructure.
+
+**Sources:**
+
+1. Li et al. arXiv:2405.05941 May 2024; CoRL 2024.
+2. Project page (simpler-env.github.io).
+3. GitHub: github.com/simpler-env/SimplerEnv.
+
+---
+
 ### 2024-07 — Berkeley Humanoid
 
 - **id:** `berkeley-humanoid-2024`
@@ -589,6 +629,28 @@ cite, copy, or redistribute these contentions.
 1. Genesis-Embodied-AI/Genesis GitHub repository (https://github.com/Genesis-Embodied-AI/Genesis), December 2024.
 2. Genesis project website (https://genesis-embodied-ai.github.io/), December 2024.
 3. Genesis benchmark report (rigid-body 43M FPS on RTX 4090) included with the December 2024 release.
+
+---
+
+### 2025-01 — NVIDIA Cosmos
+
+- **id:** `nvidia-cosmos-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA; multi-author research team
+- **disclosure citation:** NVIDIA. 'Cosmos World Foundation Model Platform for Physical AI'. arXiv:2501.03575, January 2025. NVIDIA CES 2025 announcement. Open weights via HuggingFace nvidia/Cosmos-* family. Cosmos-Reason2-2B variant subsequently used as the System 2 backbone in GR00T N1.7.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-world-model`, `control-video-generation`, `control-sim-to-real`
+
+**Prior art notes:**
+
+> NVIDIA Cosmos is the canonical world-foundation-model platform for physical AI (NVIDIA CES January 2025). 4-month-deep open-permissive prior art for: video generation + understanding + sim-to-real-transfer foundation models, world-modeling for physical-AI policy training. **Cosmos-Reason2-2B is the System-2 backbone of GR00T N1.7** (round-15 entry); round-17 now resolves that lineage citation. Direct shielding for any commercial humanoid claim on world-model-based policy training or on video-generation-based simulation augmentation.
+
+**Sources:**
+
+1. NVIDIA arXiv:2501.03575 January 2025.
+2. NVIDIA CES 2025 announcement (nvidianews.nvidia.com).
+3. HuggingFace: huggingface.co/nvidia/Cosmos.
+4. GitHub: github.com/NVIDIA/Cosmos.
 
 ---
 
@@ -686,4 +748,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

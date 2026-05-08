@@ -1,7 +1,7 @@
 ---
 title: "control-physics-simulation"
 parent: "Invalidity Contentions"
-nav_order: 43
+nav_order: 45
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-physics-simulation`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
+**Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012-10  
 **Most recent disclosure:** 2024-06
 
@@ -124,6 +124,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-10 — Habitat 3.0
+
+- **id:** `fair-habitat-3-puig-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** FAIR + Georgia Tech + UIUC; Puig, Mottaghi, Batra, Malik et al.
+- **disclosure citation:** Puig, X., Undersander, E., Szot, A., Cote, M. D., Yang, T.-Y., Partsey, R., Desai, R., Clegg, A. W., Hlavac, M., Min, S. Y., Vondruš, T., Gervet, T., Berges, V.-P., Turner, J. M., Maksymets, O., Kira, Z., Kalakrishnan, M., Malik, J., Chaplot, D. S., Jain, U., Batra, D., Rai, A., Mottaghi, R. 'Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots'. ICLR 2024. arXiv:2310.13724. FAIR + Georgia Tech + UIUC.
+- **disclosed subsystems:** `control-physics-simulation`, `control-multi-agent-simulation`, `control-human-robot-collaboration`, `control-loco-manipulation`
+
+**Prior art notes:**
+
+> Habitat 3.0 is the canonical academic multi-agent embodied simulator with humanoid avatars (Puig et al. ICLR 2024). 1.5-year-deep open-permissive prior art for: humanoid-and-robot co-simulation, social-navigation tasks where robots interact with human avatars, large-scale (211-house) furnished scene library for embodied AI. Direct shielding for any commercial humanoid claim on training-with-humans-in-simulation or social-navigation policies.
+
+**Sources:**
+
+1. Puig et al. arXiv:2310.13724 ICLR 2024.
+2. Project page (aihabitat.org/habitat3).
+3. GitHub: github.com/facebookresearch/habitat-lab.
+
+---
+
 ### 2024-06 — RoboCasa
 
 - **id:** `robocasa-nasiriany-2024`
@@ -176,4 +197,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

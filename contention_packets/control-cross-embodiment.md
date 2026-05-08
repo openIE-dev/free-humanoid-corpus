@@ -1,7 +1,7 @@
 ---
 title: "control-cross-embodiment"
 parent: "Invalidity Contentions"
-nav_order: 22
+nav_order: 23
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-cross-embodiment`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
-**Earliest disclosure:** 2024-05  
+**Entries:** 4 (4 commons-grade, 0 draft)  
+**Earliest disclosure:** 2024-03  
 **Most recent disclosure:** 2025-03
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2024-03 — 3D Diffusion Policy (DP3)
+
+- **id:** `dp3-ze-rss-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford + Tsinghua + CMU; Yanjie Ze, Hao Xu, et al.
+- **disclosure citation:** Ze, Y., Zhang, G., Zhang, K., Hu, C., Wang, M., Xu, H. '3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations'. RSS 2024. arXiv:2403.03954. Stanford + Tsinghua + CMU.
+- **disclosed subsystems:** `control-imitation-learning`, `control-diffusion-policy`, `control-3d-perception`, `control-cross-embodiment`
+
+**Prior art notes:**
+
+> 3D Diffusion Policy (Ze et al. RSS 2024) is the canonical 3D extension of Chi/Song's Diffusion Policy (corpus entry). 1-year-deep open-permissive prior art for: 3D-input diffusion-policy for manipulation, point-cloud-conditioned action generation. Direct shielding for any commercial humanoid claim on 3D-perception-conditioned manipulation policies. Together with Diffusion Policy, RDT-1B (diffusion VLA), and Octo (transformer + diffusion-head), establishes the diffusion-policy family that shields commercial diffusion-VLA claims.
+
+**Sources:**
+
+1. Ze et al. arXiv:2403.03954 RSS 2024.
+2. Project page (3d-diffusion-policy.github.io).
+3. GitHub: github.com/YanjieZe/3D-Diffusion-Policy.
+
+---
 
 ### 2024-05 — Octo (Open-Source Generalist Robot Policy)
 
@@ -137,4 +158,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

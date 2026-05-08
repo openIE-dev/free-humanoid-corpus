@@ -1,7 +1,7 @@
 ---
 title: "control-dual-system-architecture"
 parent: "Invalidity Contentions"
-nav_order: 24
+nav_order: 25
 layout: default
 ---
 
@@ -115,4 +115,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

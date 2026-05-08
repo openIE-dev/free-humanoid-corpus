@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**129 corpus entries disclose this subsystem.**
+**131 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -573,6 +573,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: NieR: Automata is among the most engineering-detailed humanoid disclosures in modern games. Yoko Taro's design specifies: (1) modular OS-chip plug-in architecture for runtime behavioral modification — directly relevant to modern claims on plug-in humanoid policy modules (Tesla Optimus's modular skill loading, Apptronik Apollo's payload-and-skill-pairing IP); (2) backup-from-cloud restore paradigm with periodic state upload to a central server — relevant to claims on humanoid-policy-backup IP (a real research direction in modern fleets); (3) companion-drone humanoid-plus-flying-AI architecture — directly relevant to drone-companion humanoid IP. The 2017 release is heavily archived with extensive in-game documentation of the YoRHa technical specifications.
 
+## Domain Randomization (2017-03)
+
+- **id**: `tobin-domain-randomization-2017`
+- **corpus**: academic
+- **creator**: OpenAI + UC Berkeley; Tobin, Fong, Ray, Schneider, Zaremba, Abbeel
+- **disclosure**: Tobin, J., Fong, R., Ray, A., Schneider, J., Zaremba, W., Abbeel, P. 'Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World'. arXiv:1703.06907, March 2017. IROS 2017. OpenAI + UC Berkeley.
+- **ip status**: public-domain
+- **prior art notes**: Domain Randomization (Tobin et al. IROS 2017) is the foundational sim-to-real method. 8-year-deep public-domain academic prior art. **Cited by every subsequent sim-to-real paper** including OpenAI Dactyl (2018-2019, in corpus), Hwangbo ANYmal sim-to-real (2019), Berkeley Humanoid (round-11, 2024), Berkeley Humanoid Lite (round-11, 2025), ToddlerBot (round-11, 2025). Direct shielding for any commercial humanoid claim on sim-to-real training methodology. The technique is too general to patent — but having it as a corpus entry resolves ~50 prior_art_notes references that previously referred to it informally.
+
 ## Murderbot Diaries — SecUnit with hacked governor module (2017-05)
 
 - **id**: `murderbot-diaries-wells-2017`
@@ -698,6 +707,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Savva, Manolis; Kadian, Abhishek; Maksymets, Oleksandr; Zhao, Yili; Wijmans, Erik; Jain, Bhavana; Straub, Julian; Liu, Jia; Koltun, Vladlen; Malik, Jitendra; Parikh, Devi; Batra, Dhruv. 'Habitat: A Platform for Embodied AI Research.' IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, October-November 2019, pp. 9339-9347. DOI: 10.1109/ICCV.2019.00943. arXiv:1904.01201, April 2019. Source code at https://github.com/facebookresearch/habitat-sim. MIT license.
 - **ip status**: open-permissive
 - **prior art notes**: Habitat-Sim (Savva et al. ICCV 2019; Habitat 2.0 NeurIPS 2021; Habitat 3.0 ICLR 2024) is the canonical academic disclosure of large-scale GPU-accelerated 3D-scanned indoor embodied-AI simulation, published MIT-licensed by FAIR. Anticipates with element-by-element specificity: (1) >10,000 fps rendering of photorealistic indoor scenes for RL training — directly relevant to commercial claims on simulation-at-scale humanoid embodied-AI pipelines; (2) the navigation-benchmark task suite (PointGoal, ObjectGoal, ImageGoal) that is now standard in embodied-AI literature — relevant to claims on humanoid navigation policy IP; (3) Habitat 3.0's humanoid-avatar simulation for social robot interaction — relevant to claims on human-aware humanoid IP and home-deployment humanoid VLA pipelines; (4) integration of large-scale 3D-scan corpora (Matterport, HM3D) with MIT-licensed renderers — relevant to claims on commercial-grade photorealistic simulation. Habitat is the most-cited embodied-AI simulator (>2000 citations on the 2019 paper alone). Modern household-deployment humanoid VLA pipeline IP filings face this 7-year-deep open-source academic anchor.
+
+## RLBench (2019-09)
+
+- **id**: `rlbench-james-2019`
+- **corpus**: academic
+- **creator**: Imperial College London Dyson Robotics Lab; Stephen James, Andrew Davison
+- **disclosure**: James, S., Ma, Z., Arrojo, D. R., Davison, A. J. 'RLBench: The Robot Learning Benchmark & Learning Environment'. IEEE Robotics and Automation Letters 5(2) 2020. arXiv:1909.12271. Imperial College London Dyson Robotics Lab.
+- **ip status**: open-permissive
+- **prior art notes**: RLBench is the foundational academic robot manipulation benchmark (James et al. RA-L 2019). 6-year-deep open-permissive prior art. The conceptual ancestor of robomimic (round-16, 2021), Meta-World (2019), LIBERO (round-17, 2023), RoboCasa (round-16, 2024), SimplerEnv (round-17, 2024). Direct shielding for any commercial humanoid manipulation-benchmark claim. Particularly relevant because RLBench tasks have been re-implemented across multiple simulators (CoppeliaSim, MuJoCo, Isaac Gym) — establishing that the task-design itself, not the simulator, is the prior art.
 
 ## Sophia (Persona 5 Royal) (2019-10-31)
 

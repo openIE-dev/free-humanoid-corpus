@@ -2492,6 +2492,14 @@
       "descendants": []
     },
     {
+      "id": "tobin-domain-randomization-2017",
+      "name": "Domain Randomization",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "festo-bionic-soft-arm-2017",
       "name": "Festo BionicSoftArm",
       "year": "2017",
@@ -2822,7 +2830,9 @@
       "year": "2019",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "fair-habitat-3-puig-2024"
+      ]
     },
     {
       "id": "caltech-hank-cast-2019",
@@ -2867,6 +2877,18 @@
         "pr2"
       ],
       "descendants": []
+    },
+    {
+      "id": "rlbench-james-2019",
+      "name": "RLBench",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "libero-liu-neurips-2023",
+        "robocasa-nasiriany-2024",
+        "robomimic-mandlekar-2021"
+      ]
     },
     {
       "id": "persona-5-sophia",
@@ -2939,6 +2961,14 @@
       "name": "DIGIT (Meta tactile sensor)",
       "year": "2020",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hello-robot-stretch-2020",
+      "name": "Hello Robot Stretch",
+      "year": "2020",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -3025,6 +3055,14 @@
       "descendants": []
     },
     {
+      "id": "dexmv-qin-cvpr-2022",
+      "name": "DexMV (Dexterous Manipulation from Videos)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "nvidia-isaac-gym-2021",
       "name": "NVIDIA Isaac Gym",
       "year": "2021",
@@ -3039,7 +3077,9 @@
       "name": "robomimic",
       "year": "2021",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "rlbench-james-2019"
+      ],
       "descendants": []
     },
     {
@@ -3269,6 +3309,7 @@
         "schaal-imitation-1999"
       ],
       "descendants": [
+        "dp3-ze-rss-2024",
         "octo-policy",
         "umi-stanford"
       ]
@@ -3319,6 +3360,16 @@
         "sanctuary-phoenix-gen6",
         "shadow-hand",
         "sumitomo-cyclo"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "libero-liu-neurips-2023",
+      "name": "LIBERO (Lifelong Robot Learning Benchmark)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "rlbench-james-2019"
       ],
       "descendants": []
     },
@@ -3475,6 +3526,16 @@
       "year": "2023",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fair-habitat-3-puig-2024",
+      "name": "Habitat 3.0",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "fair-habitat-sim-2019"
+      ],
       "descendants": []
     },
     {
@@ -3638,6 +3699,16 @@
       "descendants": []
     },
     {
+      "id": "dp3-ze-rss-2024",
+      "name": "3D Diffusion Policy (DP3)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "diffusion-policy"
+      ],
+      "descendants": []
+    },
+    {
       "id": "huggingface-lerobot-2024",
       "name": "LeRobot (HuggingFace)",
       "year": "2024",
@@ -3704,6 +3775,14 @@
       "descendants": []
     },
     {
+      "id": "simpler-env-li-corl-2024",
+      "name": "SimplerEnv",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "unitree-g1",
       "name": "Unitree G1",
       "year": "2024",
@@ -3753,7 +3832,9 @@
       "name": "RoboCasa",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "rlbench-james-2019"
+      ],
       "descendants": []
     },
     {
@@ -3937,6 +4018,16 @@
       ]
     },
     {
+      "id": "nvidia-cosmos-2025",
+      "name": "NVIDIA Cosmos",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "nvidia-groot-n1-2025"
+      ]
+    },
+    {
       "id": "figure-helix-2025",
       "name": "Figure Helix",
       "year": "2025",
@@ -3993,7 +4084,9 @@
       "name": "NVIDIA Isaac GR00T N1",
       "year": "2025",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "nvidia-cosmos-2025"
+      ],
       "descendants": []
     },
     {

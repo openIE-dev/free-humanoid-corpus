@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model-perception"
 parent: "Invalidity Contentions"
-nav_order: 27
+nav_order: 29
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-foundation-model-perception`  
-**Entries:** 8 (6 commons-grade, 2 draft)  
+**Entries:** 9 (7 commons-grade, 2 draft)  
 **Earliest disclosure:** 2023-03  
 **Most recent disclosure:** 2026-04
 
@@ -144,6 +144,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-01 — NVIDIA Cosmos
+
+- **id:** `nvidia-cosmos-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA; multi-author research team
+- **disclosure citation:** NVIDIA. 'Cosmos World Foundation Model Platform for Physical AI'. arXiv:2501.03575, January 2025. NVIDIA CES 2025 announcement. Open weights via HuggingFace nvidia/Cosmos-* family. Cosmos-Reason2-2B variant subsequently used as the System 2 backbone in GR00T N1.7.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-world-model`, `control-video-generation`, `control-sim-to-real`
+
+**Prior art notes:**
+
+> NVIDIA Cosmos is the canonical world-foundation-model platform for physical AI (NVIDIA CES January 2025). 4-month-deep open-permissive prior art for: video generation + understanding + sim-to-real-transfer foundation models, world-modeling for physical-AI policy training. **Cosmos-Reason2-2B is the System-2 backbone of GR00T N1.7** (round-15 entry); round-17 now resolves that lineage citation. Direct shielding for any commercial humanoid claim on world-model-based policy training or on video-generation-based simulation augmentation.
+
+**Sources:**
+
+1. NVIDIA arXiv:2501.03575 January 2025.
+2. NVIDIA CES 2025 announcement (nvidianews.nvidia.com).
+3. HuggingFace: huggingface.co/nvidia/Cosmos.
+4. GitHub: github.com/NVIDIA/Cosmos.
+
+---
+
 ### 2025-06 — LEG-SLAM *(draft)*
 
 - **id:** `leg-slam-2025`
@@ -236,4 +258,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

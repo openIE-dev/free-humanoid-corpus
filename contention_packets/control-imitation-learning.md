@@ -1,7 +1,7 @@
 ---
 title: "control-imitation-learning"
 parent: "Invalidity Contentions"
-nav_order: 30
+nav_order: 32
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-imitation-learning`  
-**Entries:** 8 (8 commons-grade, 0 draft)  
-**Earliest disclosure:** 2021-08  
+**Entries:** 12 (12 commons-grade, 0 draft)  
+**Earliest disclosure:** 2019-09  
 **Most recent disclosure:** 2025-02
 
 ---
@@ -40,6 +40,27 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 2019-09 — RLBench
+
+- **id:** `rlbench-james-2019`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Imperial College London Dyson Robotics Lab; Stephen James, Andrew Davison
+- **disclosure citation:** James, S., Ma, Z., Arrojo, D. R., Davison, A. J. 'RLBench: The Robot Learning Benchmark & Learning Environment'. IEEE Robotics and Automation Letters 5(2) 2020. arXiv:1909.12271. Imperial College London Dyson Robotics Lab.
+- **disclosed subsystems:** `control-imitation-learning`, `control-rl-policy`, `control-benchmarking`
+
+**Prior art notes:**
+
+> RLBench is the foundational academic robot manipulation benchmark (James et al. RA-L 2019). 6-year-deep open-permissive prior art. The conceptual ancestor of robomimic (round-16, 2021), Meta-World (2019), LIBERO (round-17, 2023), RoboCasa (round-16, 2024), SimplerEnv (round-17, 2024). Direct shielding for any commercial humanoid manipulation-benchmark claim. Particularly relevant because RLBench tasks have been re-implemented across multiple simulators (CoppeliaSim, MuJoCo, Isaac Gym) — establishing that the task-design itself, not the simulator, is the prior art.
+
+**Sources:**
+
+1. James et al. arXiv:1909.12271 IEEE RA-L 2020.
+2. Project page (sites.google.com/view/rlbench).
+3. GitHub: github.com/stepjam/RLBench.
+
+---
+
 ### 2021-08 — robomimic
 
 - **id:** `robomimic-mandlekar-2021`
@@ -58,6 +79,68 @@ cite, copy, or redistribute these contentions.
 1. Mandlekar et al. CoRL 2021; arXiv:2108.03298.
 2. Project page (robomimic.github.io).
 3. GitHub: github.com/ARISE-Initiative/robomimic.
+
+---
+
+### 2021-08 — DexMV (Dexterous Manipulation from Videos)
+
+- **id:** `dexmv-qin-cvpr-2022`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UCSD; Yuzhe Qin, Hao Su, Xiaolong Wang
+- **disclosure citation:** Qin, Y., Su, H., Wang, X. 'DexMV: Imitation Learning for Dexterous Manipulation from Human Videos'. ECCV 2022 (also accepted at earlier 2021 venues). arXiv:2108.05877. UC San Diego.
+- **disclosed subsystems:** `control-imitation-learning`, `control-egocentric-video-pretraining`, `mechanism-anthropomorphic-hand`
+
+**Prior art notes:**
+
+> DexMV is the canonical academic dexterous-manipulation-from-human-videos system (Qin et al. ECCV 2022). 3-year-deep open-permissive prior art for: training robot manipulation policies directly from in-the-wild human videos, hand-pose retargeting from human to robot. **Direct conceptual ancestor of NVIDIA GR00T N1's 20K-hour EgoScale egocentric-video pre-training** (round-15 entry). Direct shielding for any commercial humanoid claim on 'we trained on YouTube videos' or 'egocentric-video-based policy pretraining'.
+
+**Sources:**
+
+1. Qin et al. arXiv:2108.05877 ECCV 2022.
+2. Project page (yzqin.github.io/dexmv).
+
+---
+
+### 2023-06 — LIBERO (Lifelong Robot Learning Benchmark)
+
+- **id:** `libero-liu-neurips-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UT Austin + Bytedance Research; Bo Liu, Yifeng Zhu, Yuke Zhu, Peter Stone et al.
+- **disclosure citation:** Liu, B., Zhu, Y., Gao, C., Feng, Y., Liu, Q., Zhu, Y., Stone, P. 'LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning'. NeurIPS 2023 Track on Datasets and Benchmarks. arXiv:2306.03310. UT Austin + Bytedance Research.
+- **disclosed subsystems:** `control-imitation-learning`, `control-benchmarking`, `control-lifelong-learning`
+
+**Prior art notes:**
+
+> LIBERO is the canonical lifelong-robot-learning benchmark (Liu et al. NeurIPS 2023). 2-year-deep prior art on the benchmark surface that **OpenVLA-OFT (round-12), π₀ (round-12), RDT-1B (round-13), and most contemporary VLA papers report results against**. Any commercial humanoid VLA claim of 'we outperform X% on LIBERO' implies the LIBERO benchmark itself is reproducible academic art — that benchmark's 130 tasks plus extendible generation pipeline are 100% open-permissive prior art. Together with robomimic (round-16) and SimplerEnv (round-17 entry), establishes the open-academic VLA evaluation substrate.
+
+**Sources:**
+
+1. Liu et al. arXiv:2306.03310 NeurIPS 2023.
+2. Project page (libero-project.github.io).
+3. GitHub: github.com/Lifelong-Robot-Learning/LIBERO.
+
+---
+
+### 2024-03 — 3D Diffusion Policy (DP3)
+
+- **id:** `dp3-ze-rss-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford + Tsinghua + CMU; Yanjie Ze, Hao Xu, et al.
+- **disclosure citation:** Ze, Y., Zhang, G., Zhang, K., Hu, C., Wang, M., Xu, H. '3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations'. RSS 2024. arXiv:2403.03954. Stanford + Tsinghua + CMU.
+- **disclosed subsystems:** `control-imitation-learning`, `control-diffusion-policy`, `control-3d-perception`, `control-cross-embodiment`
+
+**Prior art notes:**
+
+> 3D Diffusion Policy (Ze et al. RSS 2024) is the canonical 3D extension of Chi/Song's Diffusion Policy (corpus entry). 1-year-deep open-permissive prior art for: 3D-input diffusion-policy for manipulation, point-cloud-conditioned action generation. Direct shielding for any commercial humanoid claim on 3D-perception-conditioned manipulation policies. Together with Diffusion Policy, RDT-1B (diffusion VLA), and Octo (transformer + diffusion-head), establishes the diffusion-policy family that shields commercial diffusion-VLA claims.
+
+**Sources:**
+
+1. Ze et al. arXiv:2403.03954 RSS 2024.
+2. Project page (3d-diffusion-policy.github.io).
+3. GitHub: github.com/YanjieZe/3D-Diffusion-Policy.
 
 ---
 
@@ -243,4 +326,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

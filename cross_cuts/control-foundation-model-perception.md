@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-foundation-model-perception`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2023-03
 
@@ -59,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yu, J., et al. 'LEGS: Language-Embedded Gaussian Splats — Incrementally Building Room-Scale Representations with a Mobile Robot'. IROS 2024. arXiv:2409.18108. UC Berkeley AUTOLab.
 - **ip status**: open-permissive
 - **prior art notes**: LEGS is the canonical Berkeley AUTOLab open-vocabulary Gaussian-splatting representation (IROS 2024). 1.5-year-deep prior art for: CLIP-aligned per-primitive features in 3DGS, incremental room-scale construction by mobile robot, language-grounded mobile-manipulation scene representations. Predates and informs LEG-SLAM, LEGO-SLAM, and any commercial humanoid claim on language-queryable 3D scene maps built onboard.
+
+## NVIDIA Cosmos (2025-01)
+
+- **id**: `nvidia-cosmos-2025`
+- **corpus**: academic
+- **creator**: NVIDIA; multi-author research team
+- **disclosure**: NVIDIA. 'Cosmos World Foundation Model Platform for Physical AI'. arXiv:2501.03575, January 2025. NVIDIA CES 2025 announcement. Open weights via HuggingFace nvidia/Cosmos-* family. Cosmos-Reason2-2B variant subsequently used as the System 2 backbone in GR00T N1.7.
+- **ip status**: open-permissive
+- **prior art notes**: NVIDIA Cosmos is the canonical world-foundation-model platform for physical AI (NVIDIA CES January 2025). 4-month-deep open-permissive prior art for: video generation + understanding + sim-to-real-transfer foundation models, world-modeling for physical-AI policy training. **Cosmos-Reason2-2B is the System-2 backbone of GR00T N1.7** (round-15 entry); round-17 now resolves that lineage citation. Direct shielding for any commercial humanoid claim on world-model-based policy training or on video-generation-based simulation augmentation.
 
 ## LEG-SLAM (2025-06)
 

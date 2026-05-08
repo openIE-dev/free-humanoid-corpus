@@ -1,7 +1,7 @@
 ---
 title: "control-rl-policy"
 parent: "Invalidity Contentions"
-nav_order: 46
+nav_order: 48
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 129 (103 commons-grade, 26 draft)  
+**Entries:** 131 (105 commons-grade, 26 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2026-04
 
@@ -1283,6 +1283,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-03 — Domain Randomization
+
+- **id:** `tobin-domain-randomization-2017`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** OpenAI + UC Berkeley; Tobin, Fong, Ray, Schneider, Zaremba, Abbeel
+- **disclosure citation:** Tobin, J., Fong, R., Ray, A., Schneider, J., Zaremba, W., Abbeel, P. 'Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World'. arXiv:1703.06907, March 2017. IROS 2017. OpenAI + UC Berkeley.
+- **disclosed subsystems:** `control-sim-to-real`, `control-domain-randomization`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Domain Randomization (Tobin et al. IROS 2017) is the foundational sim-to-real method. 8-year-deep public-domain academic prior art. **Cited by every subsequent sim-to-real paper** including OpenAI Dactyl (2018-2019, in corpus), Hwangbo ANYmal sim-to-real (2019), Berkeley Humanoid (round-11, 2024), Berkeley Humanoid Lite (round-11, 2025), ToddlerBot (round-11, 2025). Direct shielding for any commercial humanoid claim on sim-to-real training methodology. The technique is too general to patent — but having it as a corpus entry resolves ~50 prior_art_notes references that previously referred to it informally.
+
+**Sources:**
+
+1. Tobin et al. arXiv:1703.06907 March 2017; IROS 2017.
+
+---
+
 ### 2017-05 — Murderbot Diaries — SecUnit with hacked governor module
 
 - **id:** `murderbot-diaries-wells-2017`
@@ -1566,6 +1585,27 @@ cite, copy, or redistribute these contentions.
 2. Szot, A. et al. 'Habitat 2.0: Training Home Assistants to Rearrange their Habitat.' NeurIPS 2021.
 3. Puig, X. et al. 'Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots.' ICLR 2024.
 4. Habitat-Sim source code: https://github.com/facebookresearch/habitat-sim, MIT License.
+
+---
+
+### 2019-09 — RLBench
+
+- **id:** `rlbench-james-2019`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Imperial College London Dyson Robotics Lab; Stephen James, Andrew Davison
+- **disclosure citation:** James, S., Ma, Z., Arrojo, D. R., Davison, A. J. 'RLBench: The Robot Learning Benchmark & Learning Environment'. IEEE Robotics and Automation Letters 5(2) 2020. arXiv:1909.12271. Imperial College London Dyson Robotics Lab.
+- **disclosed subsystems:** `control-imitation-learning`, `control-rl-policy`, `control-benchmarking`
+
+**Prior art notes:**
+
+> RLBench is the foundational academic robot manipulation benchmark (James et al. RA-L 2019). 6-year-deep open-permissive prior art. The conceptual ancestor of robomimic (round-16, 2021), Meta-World (2019), LIBERO (round-17, 2023), RoboCasa (round-16, 2024), SimplerEnv (round-17, 2024). Direct shielding for any commercial humanoid manipulation-benchmark claim. Particularly relevant because RLBench tasks have been re-implemented across multiple simulators (CoppeliaSim, MuJoCo, Isaac Gym) — establishing that the task-design itself, not the simulator, is the prior art.
+
+**Sources:**
+
+1. James et al. arXiv:1909.12271 IEEE RA-L 2020.
+2. Project page (sites.google.com/view/rlbench).
+3. GitHub: github.com/stepjam/RLBench.
 
 ---
 
@@ -2665,4 +2705,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

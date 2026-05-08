@@ -1,7 +1,7 @@
 ---
 title: "control-vr-headset-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 56
+nav_order: 58
 layout: default
 ---
 
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

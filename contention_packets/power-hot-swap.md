@@ -1,7 +1,7 @@
 ---
 title: "power-hot-swap"
 parent: "Invalidity Contentions"
-nav_order: 82
+nav_order: 84
 layout: default
 ---
 
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

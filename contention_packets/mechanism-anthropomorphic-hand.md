@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 63
+nav_order: 65
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 118 (95 commons-grade, 23 draft)  
+**Entries:** 119 (96 commons-grade, 23 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2026-04
 
@@ -1954,6 +1954,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-08 — DexMV (Dexterous Manipulation from Videos)
+
+- **id:** `dexmv-qin-cvpr-2022`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UCSD; Yuzhe Qin, Hao Su, Xiaolong Wang
+- **disclosure citation:** Qin, Y., Su, H., Wang, X. 'DexMV: Imitation Learning for Dexterous Manipulation from Human Videos'. ECCV 2022 (also accepted at earlier 2021 venues). arXiv:2108.05877. UC San Diego.
+- **disclosed subsystems:** `control-imitation-learning`, `control-egocentric-video-pretraining`, `mechanism-anthropomorphic-hand`
+
+**Prior art notes:**
+
+> DexMV is the canonical academic dexterous-manipulation-from-human-videos system (Qin et al. ECCV 2022). 3-year-deep open-permissive prior art for: training robot manipulation policies directly from in-the-wild human videos, hand-pose retargeting from human to robot. **Direct conceptual ancestor of NVIDIA GR00T N1's 20K-hour EgoScale egocentric-video pre-training** (round-15 entry). Direct shielding for any commercial humanoid claim on 'we trained on YouTube videos' or 'egocentric-video-based policy pretraining'.
+
+**Sources:**
+
+1. Qin et al. arXiv:2108.05877 ECCV 2022.
+2. Project page (yzqin.github.io/dexmv).
+
+---
+
 ### 2021-08-19 — Tesla Optimus *(draft)*
 
 - **id:** `tesla-optimus`
@@ -2446,4 +2466,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `e4bb790`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*

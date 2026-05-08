@@ -1,10 +1,11 @@
 # Corpus Index
 
-402 entries total. Generated from corpus.jsonl.
+411 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
 | 1X NEO | `1x-neo` | 2024 | private | patented | ✓ |
+| 3D Diffusion Policy (DP3) | `dp3-ze-rss-2024` | 2024 | academic | open-permissive |  |
 | 8 Man (Hachiman) | `8-man-hachiman` | 1963 | fictional | fictional |  |
 | Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning | `abbeel-ng-irl-2004` | 2004 | academic | public-domain |  |
 | ACT (Action Chunking Transformer) / ALOHA | `act-aloha` | 2023 | academic | open-permissive |  |
@@ -94,6 +95,7 @@
 | David and Walter (Alien franchise synthetics) | `david-prometheus-walter-covenant` | 2012 | fictional | fictional |  |
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
+| DexMV (Dexterous Manipulation from Videos) | `dexmv-qin-cvpr-2022` | 2021 | academic | open-permissive |  |
 | DGS-SLAM | `dgs-slam-kong-2024` | 2024 | academic | open-permissive | ✓ |
 | Diffusion Policy | `diffusion-policy` | 2023 | academic | open-permissive |  |
 | Digit | `agility-digit` | 2019 | private | patented |  |
@@ -105,6 +107,7 @@
 | DLR Hand-II | `dlr-hand-ii` | 2004 | academic | open-permissive |  |
 | DLR Justin (Rollin' Justin) | `dlr-justin` | 2009 | academic | open-permissive |  |
 | DLR TORO | `dlr-toro` | 2014 | academic | open-permissive |  |
+| Domain Randomization | `tobin-domain-randomization-2017` | 2017 | academic | public-domain |  |
 | Doraemon | `doraemon` | 1969 | fictional | fictional |  |
 | Drake | `drake-tedrake-2019` | 2019 | academic | open-permissive |  |
 | Dreamer V3 | `hafner-dreamer-v3-2023` | 2023 | academic | open-permissive |  |
@@ -143,6 +146,7 @@
 | Geth | `geth-mass-effect` | 2007 | fictional | fictional |  |
 | Ghost Robotics Vision 60 | `ghost-robotics-vision-60` | 2018 | private | patented |  |
 | Goswami Foot Rotation Indicator | `goswami-fri` | 1999 | academic | public-domain |  |
+| Habitat 3.0 | `fair-habitat-3-puig-2024` | 2023 | academic | open-permissive |  |
 | Habitat-Sim (Facebook AI Research) | `fair-habitat-sim-2019` | 2019 | academic | open-permissive |  |
 | Hadaly (L'Ève future) | `l-eve-future` | 1886 | fictional | fictional |  |
 | HAL 9000 | `hal-9000` | 1968 | fictional | fictional |  |
@@ -150,6 +154,7 @@
 | Harvard Soft Robotics Toolkit | `harvard-soft-robotics-toolkit-2017` | 2014 | academic | open-copyleft |  |
 | Hector (Saturn 3) | `saturn-3-hector` | 1980 | fictional | fictional |  |
 | Helen O'Loy | `helen-o-loy` | 1938 | fictional | fictional | ✓ |
+| Hello Robot Stretch | `hello-robot-stretch-2020` | 2020 | private | trade-secret |  |
 | Hindsight Experience Replay (HER) | `hindsight-experience-replay` | 2017 | academic | open-permissive |  |
 | HK-47 | `hk-47-kotor` | 2003 | fictional | fictional | ✓ |
 | Hollerbach Recursive Lagrangian Manipulator Dynamics | `hollerbach-manipulator-1980` | 1980 | academic | public-domain |  |
@@ -205,6 +210,7 @@
 | LERF (Language Embedded Radiance Fields) | `lerf-kerr-2023` | 2023 | academic | open-permissive |  |
 | LeRobot (HuggingFace) | `huggingface-lerobot-2024` | 2024 | academic | open-permissive |  |
 | Levine Guided Policy Search end-to-end manipulation on PR2/BRETT | `levine-gps-pr2-2016` | 2015 | academic | public-domain |  |
+| LIBERO (Lifelong Robot Learning Benchmark) | `libero-liu-neurips-2023` | 2023 | academic | open-permissive |  |
 | Liberty Prime | `fallout-liberty-prime` | 2008 | fictional | fictional |  |
 | LimX Dynamics CL-1 | `limx-cl1` | 2023 | private | patented | ✓ |
 | LLaMA 2 | `meta-llama-2-2023` | 2023 | academic | open-permissive |  |
@@ -243,6 +249,7 @@
 | Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) | `gibson-neuromancer-constructs` | 1984 | fictional | fictional |  |
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
 | Number Six (Cylon Model Six) | `bsg-number-six` | 2003 | fictional | fictional |  |
+| NVIDIA Cosmos | `nvidia-cosmos-2025` | 2025 | academic | open-permissive |  |
 | NVIDIA GR00T (Generalist Robot 00 Technology) | `nvidia-groot-2024` | 2024 | academic | open-permissive |  |
 | NVIDIA Isaac GR00T N1 | `nvidia-groot-n1-2025` | 2025 | academic | open-permissive |  |
 | NVIDIA Isaac Gym | `nvidia-isaac-gym-2021` | 2021 | academic | open-permissive |  |
@@ -295,6 +302,7 @@
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
 | ReSkin (magnetic tactile skin) | `cmu-reskin-tactile-2021` | 2021 | academic | open-permissive |  |
 | RH20T heterogeneous robot trajectory dataset | `rh20t-fang-2024` | 2023 | academic | public-domain |  |
+| RLBench | `rlbench-james-2019` | 2019 | academic | open-permissive |  |
 | RLHF (Deep Reinforcement Learning from Human Preferences) | `christiano-rlhf-2017` | 2017 | academic | open-permissive |  |
 | Robby the Robot (Forbidden Planet) | `forbidden-planet-robby` | 1956 | fictional | fictional |  |
 | RoboCasa | `robocasa-nasiriany-2024` | 2024 | academic | open-permissive |  |
@@ -335,6 +343,7 @@
 | SIFT (Scale-Invariant Feature Transform) | `lowe-sift-1999` | 1999 | academic | patented |  |
 | SigLIP | `siglip-zhai-2023` | 2023 | academic | open-permissive |  |
 | SimpleFOC | `simplefoc` | 2020 | open | open-permissive |  |
+| SimplerEnv | `simpler-env-li-corl-2024` | 2024 | academic | open-permissive |  |
 | Simplex Architecture | `sherman-simplex-architecture` | 1995 | academic | public-domain |  |
 | Skild AI foundation model | `skild-foundation-model` | 2024 | private | trade-secret | ✓ |
 | Slocum Glider | `slocum-glider-auv` | 1989 | academic | open-permissive |  |
