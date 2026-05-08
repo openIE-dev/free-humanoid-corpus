@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**27 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -87,6 +87,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Allegro Hand is the canonical academic-deployment reference 16-DoF 4-finger dexterous hand (Wonik / SimLab Korea, 2014+). 11-year-deep public-disclosure prior art. **Used in OpenAI Dactyl 2019 Rubik's-Cube manipulation (corpus entry openai-dactyl)** + 100+ academic publications. Direct architectural successor to BarrettHand (round-27 entry below). Direct shielding for any commercial humanoid claim on 16-DoF tendon-driven dexterous hand.
 
+## PAL Robotics TIAGo mobile manipulator (2014-05)
+
+- **id**: `pal-robotics-tiago-2014`
+- **corpus**: private
+- **creator**: PAL Robotics S.L. (Barcelona, Spain)
+- **disclosure**: PAL Robotics S.L. (Barcelona, Spain). TIAGo product reveal May 2014. Subsequent product variants: TIAGo Pro (dual-arm), TIAGo OMNI (omnidirectional drive), TIAGo++ (research kit). pal-robotics.com. Sister product to REEM-C humanoid (corpus entry reem-c).
+- **ip status**: trade-secret
+- **prior art notes**: PAL Robotics TIAGo (Barcelona Spain 2014+) is the canonical Spanish commercial mobile manipulator. 11-year-deep public-disclosure prior art. Sister product line to REEM-C (corpus). Together with REEM-C, brings Spanish commercial-robotics representation to 2 specific platform entries. Architectural sibling to Hello Robot Stretch (round-17), Fetch (round-35), BD Stretch warehouse (round-34). Direct shielding for any commercial humanoid claim deriving from telescoping-mast mobile-manipulator commercial deployments.
+
 ## DRC-HUBO+ (DARPA Robotics Challenge winner) (2015-06)
 
 - **id**: `kaist-drc-hubo-2015`
@@ -149,6 +158,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sarcos Robotics / Sarcos Technology and Robotics Corporation (Salt Lake City, UT; founded 1983 by Stephen Jacobsen, University of Utah). Guardian XO commercial reveal 2018; subsequent deployments through 2023. Sarcos was a long-running DARPA exoskeleton recipient (XOS, XOS-2 hydraulic precursors). Acquired by Boeing 2024 + multiple subsequent restructurings.
 - **ip status**: trade-secret
 - **prior art notes**: Sarcos Guardian XO is the canonical 2018+ all-electric full-body industrial exoskeleton. 7-year-deep public-disclosure prior art for: 24-DoF whole-body industrial exoskeleton, all-electric (vs. hydraulic) heavy-lift exoskeleton. Architecturally extends Berkeley BLEEX (round-19) from lower-extremity-only to whole-body. Direct shielding for any commercial humanoid claim on full-body load-handling robotics — particularly for industrial-deployment commercial humanoid claims (Apptronik Apollo, Figure, Optimus all market industrial heavy-lift) which face 7-year-deep Sarcos commercial prior art.
+
+## FANUC CRX collaborative robot family (2019-09)
+
+- **id**: `fanuc-crx-collaborative-2019`
+- **corpus**: private
+- **creator**: FANUC Corporation (Yamanashi, Japan)
+- **disclosure**: FANUC Corporation. CRX collaborative robot family commercial reveal September 2019. CRX-10iA (10 kg payload) initial product; subsequent CRX-25iA (25 kg payload) + CRX-5iA (5 kg payload). fanuc.com. The cobot variant of FANUC's industrial-arm family (corpus round-34 fanuc-industrial-robotics-1956).
+- **ip status**: trade-secret
+- **prior art notes**: FANUC CRX (FANUC Yamanashi 2019+) is FANUC's cobot variant of the industrial-arm family (round-34 fanuc-industrial-robotics-1956). 6-year-deep public-disclosure prior art. The Japanese cobot answer to Universal Robots (Denmark) + Doosan (Korea) + Franka Emika (Germany). Together, the global cobot prior-art chain spans 4 distinct national-origin commercial cobot product lines.
 
 ## Hello Robot Stretch (2020-07)
 

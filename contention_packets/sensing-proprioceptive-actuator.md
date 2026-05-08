@@ -1,7 +1,7 @@
 ---
 title: "sensing-proprioceptive-actuator"
 parent: "Invalidity Contentions"
-nav_order: 170
+nav_order: 171
 layout: default
 ---
 
@@ -477,4 +477,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4846ab1`.*

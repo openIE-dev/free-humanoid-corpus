@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-manipulator-arm`
 
-**22 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -132,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Vicarious Surgical is a canonical 2014+ next-generation surgical robotic system. ~12-year-deep public-disclosure prior art for: single-port deploying-arm surgical morphology, 9-DoF arm kinematics, VR-headset surgeon interface (Apple Vision Pro / haptic-glove teleop antecedent). Direct shielding for any commercial humanoid claim on VR-headset bimanual teleoperation (notably: Open-TeleVision round-16 entry uses Apple Vision Pro for academic humanoid teleop; Vicarious Surgical pioneered the VR-teleop pattern in commercial surgical context ~10 years earlier).
 
+## PAL Robotics TIAGo mobile manipulator (2014-05)
+
+- **id**: `pal-robotics-tiago-2014`
+- **corpus**: private
+- **creator**: PAL Robotics S.L. (Barcelona, Spain)
+- **disclosure**: PAL Robotics S.L. (Barcelona, Spain). TIAGo product reveal May 2014. Subsequent product variants: TIAGo Pro (dual-arm), TIAGo OMNI (omnidirectional drive), TIAGo++ (research kit). pal-robotics.com. Sister product to REEM-C humanoid (corpus entry reem-c).
+- **ip status**: trade-secret
+- **prior art notes**: PAL Robotics TIAGo (Barcelona Spain 2014+) is the canonical Spanish commercial mobile manipulator. 11-year-deep public-disclosure prior art. Sister product line to REEM-C (corpus). Together with REEM-C, brings Spanish commercial-robotics representation to 2 specific platform entries. Architectural sibling to Hello Robot Stretch (round-17), Fetch (round-35), BD Stretch warehouse (round-34). Direct shielding for any commercial humanoid claim deriving from telescoping-mast mobile-manipulator commercial deployments.
+
 ## Fetch & Freight (Fetch Robotics) (2014-12)
 
 - **id**: `fetch-freight-fetchrobotics-2014`
@@ -176,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Robotis Co., Ltd. (Seoul, South Korea). OpenMANIPULATOR-X commercial reveal April 2018 via robotis.com. Open-hardware design; CAD files + control firmware open-source under MIT license.
 - **ip status**: open-permissive
 - **prior art notes**: Robotis OpenMANIPULATOR (Robotis 2018+) is the canonical Korean open-hardware educational manipulator. 7-year-deep open-permissive prior art. The educational-manipulator counterpart to TurtleBot (round-35) and DARwIn-OP (corpus round-19 robotis-op3-2017 entry). Together with TurtleBot, establishes the Korean open-educational-robotics ecosystem.
+
+## FANUC CRX collaborative robot family (2019-09)
+
+- **id**: `fanuc-crx-collaborative-2019`
+- **corpus**: private
+- **creator**: FANUC Corporation (Yamanashi, Japan)
+- **disclosure**: FANUC Corporation. CRX collaborative robot family commercial reveal September 2019. CRX-10iA (10 kg payload) initial product; subsequent CRX-25iA (25 kg payload) + CRX-5iA (5 kg payload). fanuc.com. The cobot variant of FANUC's industrial-arm family (corpus round-34 fanuc-industrial-robotics-1956).
+- **ip status**: trade-secret
+- **prior art notes**: FANUC CRX (FANUC Yamanashi 2019+) is FANUC's cobot variant of the industrial-arm family (round-34 fanuc-industrial-robotics-1956). 6-year-deep public-disclosure prior art. The Japanese cobot answer to Universal Robots (Denmark) + Doosan (Korea) + Franka Emika (Germany). Together, the global cobot prior-art chain spans 4 distinct national-origin commercial cobot product lines.
 
 ## Hello Robot Stretch (2020-07)
 

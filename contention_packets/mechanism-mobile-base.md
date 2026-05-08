@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-mobile-base`  
-**Entries:** 11 (6 commons-grade, 5 draft)  
+**Entries:** 12 (7 commons-grade, 5 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2024-09
 
@@ -118,6 +118,26 @@ cite, copy, or redistribute these contentions.
 
 1. TurtleBot site (turtlebot.com).
 2. Willow Garage product history.
+
+---
+
+### 2014-05 — PAL Robotics TIAGo mobile manipulator
+
+- **id:** `pal-robotics-tiago-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** PAL Robotics S.L. (Barcelona, Spain)
+- **disclosure citation:** PAL Robotics S.L. (Barcelona, Spain). TIAGo product reveal May 2014. Subsequent product variants: TIAGo Pro (dual-arm), TIAGo OMNI (omnidirectional drive), TIAGo++ (research kit). pal-robotics.com. Sister product to REEM-C humanoid (corpus entry reem-c).
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-manipulator-arm`, `mechanism-telescoping-mast`, `actuator-electric`
+
+**Prior art notes:**
+
+> PAL Robotics TIAGo (Barcelona Spain 2014+) is the canonical Spanish commercial mobile manipulator. 11-year-deep public-disclosure prior art. Sister product line to REEM-C (corpus). Together with REEM-C, brings Spanish commercial-robotics representation to 2 specific platform entries. Architectural sibling to Hello Robot Stretch (round-17), Fetch (round-35), BD Stretch warehouse (round-34). Direct shielding for any commercial humanoid claim deriving from telescoping-mast mobile-manipulator commercial deployments.
+
+**Sources:**
+
+1. PAL Robotics TIAGo product page (pal-robotics.com).
+2. PAL Robotics corporate site.
 
 ---
 
@@ -293,4 +313,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4846ab1`.*

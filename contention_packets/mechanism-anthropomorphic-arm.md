@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-arm`  
-**Entries:** 21 (16 commons-grade, 5 draft)  
+**Entries:** 22 (17 commons-grade, 5 draft)  
 **Earliest disclosure:** 1998-01  
 **Most recent disclosure:** 2025-02
 
@@ -79,6 +79,27 @@ cite, copy, or redistribute these contentions.
 1. Mitsubishi Heavy Industries Wakamaru product documentation 2003-2014.
 2. Wikipedia 'Wakamaru' (en.wikipedia.org/wiki/Wakamaru).
 3. Japanese press coverage 2003-2014.
+
+---
+
+### 2007-07 — MIT Domo + Meka Robotics (Aaron Edsinger)
+
+- **id:** `edsinger-meka-mit-domo-2008`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** MIT CSAIL Brooks group + Meka Robotics; Aaron Edsinger + Jeff Weber
+- **disclosure citation:** Edsinger, A. PhD thesis 'Robot Manipulation in Human Environments' MIT 2007. Domo humanoid demonstrator in Brooks group MIT CSAIL. Meka Robotics commercial spinout founded 2006 by Edsinger + Jeff Weber. Acquired by Google December 2013 (one of 8 robotics startups acquired by Google that month). Lineage continues through Hello Robot (Edsinger co-founded with Charles Kemp 2017).
+- **disclosed subsystems:** `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric-series-elastic`, `control-behavior-based`
+
+**Prior art notes:**
+
+> Edsinger's MIT Domo + Meka Robotics (MIT 2007 + Meka 2006-2013) is the foundational compliant-humanoid academic + commercial lineage. 18-year-deep public-domain prior art. **Direct architectural ancestor of Hello Robot Stretch (round-17)** — Edsinger founded Hello Robot 2017 with Charles Kemp. Series-elastic actuator commercial deployment via Meka predates Pratt-Williamson commercial-deployment narrative. Direct shielding for any commercial humanoid claim deriving from compliant-actuator humanoids or Edsinger lineage.
+
+**Sources:**
+
+1. Edsinger, A. PhD thesis 'Robot Manipulation in Human Environments' MIT 2007.
+2. Meka Robotics history (now defunct corporate site; acquired by Google December 2013).
+3. Hello Robot history (Edsinger + Kemp co-founders 2017).
 
 ---
 
@@ -512,4 +533,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4846ab1`.*

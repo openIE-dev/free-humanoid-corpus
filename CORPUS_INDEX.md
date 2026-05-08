@@ -1,6 +1,6 @@
 # Corpus Index
 
-610 entries total. Generated from corpus.jsonl.
+613 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | Eureka LLM-driven reward design | `eureka-ma-2023` | 2023 | academic | public-domain |  |
 | Evangelion (EVA Unit-01) | `evangelion` | 1995 | fictional | fictional | ✓ |
 | ExBody whole-body humanoid policy | `exbody-stanford-2024` | 2024 | academic | open-permissive |  |
+| FANUC CRX collaborative robot family | `fanuc-crx-collaborative-2019` | 2019 | private | trade-secret |  |
 | FANUC industrial robotics | `fanuc-industrial-robotics-1956` | 1956 | private | trade-secret |  |
 | Faster R-CNN | `faster-rcnn-ren-nips-2015` | 2015 | academic | public-domain |  |
 | FCSTAR (Flying-Climbing STAR) | `fcstar-zarrouk-2021` | 2021 | academic | open-permissive | ✓ |
@@ -344,6 +345,7 @@
 | MIT Cheetah | `mit-cheetah` | 2013 | academic | open-permissive |  |
 | MIT Cheetah 2 | `mit-cheetah-2` | 2014 | academic | open-permissive |  |
 | MIT Cheetah 3 | `mit-cheetah-3` | 2018 | academic | open-permissive |  |
+| MIT Domo + Meka Robotics (Aaron Edsinger) | `edsinger-meka-mit-domo-2008` | 2007 | academic | public-domain |  |
 | MIT Humanoid | `mit-humanoid-2021` | 2021 | academic | public-domain |  |
 | MIT Kismet (sociable robot) | `mit-kismet-breazeal-1998` | 1998 | academic | public-domain |  |
 | MIT Mini Cheetah | `mini-cheetah` | 2019 | academic | open-permissive |  |
@@ -397,6 +399,7 @@
 | ORB-SLAM | `orb-slam-mur-artal-2015` | 2015 | academic | open-permissive |  |
 | ORB-SLAM3 | `orb-slam3-2021` | 2021 | academic | open-copyleft |  |
 | Ott Cartesian Impedance Control | `ott-impedance-control` | 2008 | academic | open-permissive |  |
+| PAL Robotics TIAGo mobile manipulator | `pal-robotics-tiago-2014` | 2014 | private | trade-secret |  |
 | PAL TALOS | `pal-talos` | 2017 | private | patented |  |
 | PaLM-E (Embodied Multimodal Language Model) | `palm-e` | 2023 | academic | open-permissive |  |
 | Park's Transformation (dq0 transformation) | `park-transformation-1929` | 1929 | academic | public-domain |  |

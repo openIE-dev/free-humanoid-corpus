@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-08  
-**Packets:** 179  
-**Corpus revision:** `664769a`
+**Packets:** 180  
+**Corpus revision:** `4846ab1`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -30,13 +30,13 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-biological`](actuator-biological.md) | 13 | 12 | 1 | 1973-11-21 | 2020-01-23 |
 | [`actuator-bldc-controller`](actuator-bldc-controller.md) | 11 | 11 | 0 | 1929-07 | 2022 |
 | [`actuator-compliant`](actuator-compliant.md) | 3 | 3 | 0 | 1957-01 | 2017-04 |
-| [`actuator-electric`](actuator-electric.md) | 27 | 21 | 6 | 1956-01 | 2025-10 |
+| [`actuator-electric`](actuator-electric.md) | 29 | 23 | 6 | 1956-01 | 2025-10 |
 | [`actuator-electric-cycloidal`](actuator-electric-cycloidal.md) | 5 | 2 | 3 | 1937 | 2025-04 |
 | [`actuator-electric-direct-drive`](actuator-electric-direct-drive.md) | 69 | 51 | 18 | 1886 | 2024-11 |
 | [`actuator-electric-harmonic-drive`](actuator-electric-harmonic-drive.md) | 22 | 19 | 3 | 1986 | 2025-10 |
 | [`actuator-electric-planetary`](actuator-electric-planetary.md) | 3 | 1 | 2 | 2023-08 | 2024-07 |
 | [`actuator-electric-quasi-direct-drive`](actuator-electric-quasi-direct-drive.md) | 21 | 15 | 6 | 2014 | 2025-10 |
-| [`actuator-electric-series-elastic`](actuator-electric-series-elastic.md) | 16 | 16 | 0 | 1995-08 | 2023-08 |
+| [`actuator-electric-series-elastic`](actuator-electric-series-elastic.md) | 17 | 17 | 0 | 1995-08 | 2023-08 |
 | [`actuator-electric-tendon-driven`](actuator-electric-tendon-driven.md) | 25 | 24 | 1 | 1495 | 2024 |
 | [`actuator-foc-controller`](actuator-foc-controller.md) | 6 | 6 | 0 | 1929-07 | 2025-03 |
 | [`actuator-hydraulic`](actuator-hydraulic.md) | 28 | 22 | 6 | -0250 | 2024-05-24 |
@@ -145,18 +145,18 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-3d-printed-platform`](mechanism-3d-printed-platform.md) | 3 | 3 | 0 | 2025-02 | 2026-01 |
 | [`mechanism-aerial-thruster`](mechanism-aerial-thruster.md) | 4 | 2 | 2 | 2010-01 | 2021-07 |
 | [`mechanism-antagonistic-tendon`](mechanism-antagonistic-tendon.md) | 2 | 2 | 0 | 2024-06 | 2025-10 |
-| [`mechanism-anthropomorphic-arm`](mechanism-anthropomorphic-arm.md) | 21 | 16 | 5 | 1998-01 | 2025-02 |
-| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 132 | 108 | 24 | 1495 | 2026-04 |
+| [`mechanism-anthropomorphic-arm`](mechanism-anthropomorphic-arm.md) | 22 | 17 | 5 | 1998-01 | 2025-02 |
+| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 133 | 109 | 24 | 1495 | 2026-04 |
 | [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 154 | 120 | 34 | -0250 | 2026-04 |
 | [`mechanism-catheter-robot`](mechanism-catheter-robot.md) | 2 | 2 | 0 | 2007-08 | 2012-07 |
-| [`mechanism-collaborative-robot`](mechanism-collaborative-robot.md) | 4 | 3 | 1 | 1956-01 | 2017-09 |
+| [`mechanism-collaborative-robot`](mechanism-collaborative-robot.md) | 5 | 4 | 1 | 1956-01 | 2019-09 |
 | [`mechanism-control-fin`](mechanism-control-fin.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
 | [`mechanism-dynamic-legged-locomotion`](mechanism-dynamic-legged-locomotion.md) | 2 | 1 | 1 | 1981-01 | 2005-12 |
 | [`mechanism-exoskeleton`](mechanism-exoskeleton.md) | 6 | 4 | 2 | 2000-01 | 2018-09 |
 | [`mechanism-hexapod`](mechanism-hexapod.md) | 2 | 2 | 0 | 1965-06 | 2000-04 |
 | [`mechanism-hydraulic-actuator`](mechanism-hydraulic-actuator.md) | 3 | 3 | 0 | 2004-03 | 2012-09 |
-| [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 22 | 20 | 2 | 1956-01 | 2022-07 |
-| [`mechanism-mobile-base`](mechanism-mobile-base.md) | 11 | 6 | 5 | 2000-01 | 2024-09 |
+| [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 24 | 22 | 2 | 1956-01 | 2022-07 |
+| [`mechanism-mobile-base`](mechanism-mobile-base.md) | 12 | 7 | 5 | 2000-01 | 2024-09 |
 | [`mechanism-parallel-kinematic-haptic`](mechanism-parallel-kinematic-haptic.md) | 2 | 2 | 0 | 1994-09 | 2011-06 |
 | [`mechanism-passive-dynamic-walking`](mechanism-passive-dynamic-walking.md) | 6 | 5 | 1 | 1990 | 2017 |
 | [`mechanism-pitch-roll-trim`](mechanism-pitch-roll-trim.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
@@ -168,7 +168,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-sprawl-tunable`](mechanism-sprawl-tunable.md) | 6 | 3 | 3 | 2013-05 | 2026-01 |
 | [`mechanism-surgical-robot`](mechanism-surgical-robot.md) | 6 | 5 | 1 | 1989-01 | 2017-08 |
 | [`mechanism-syntactic-foam-ballast`](mechanism-syntactic-foam-ballast.md) | 2 | 2 | 0 | 1964-06 | 2008-05 |
-| [`mechanism-telescoping-mast`](mechanism-telescoping-mast.md) | 4 | 3 | 1 | 2014-12 | 2024-09 |
+| [`mechanism-telescoping-mast`](mechanism-telescoping-mast.md) | 5 | 4 | 1 | 2014-05 | 2024-09 |
 | [`mechanism-tendon-driven`](mechanism-tendon-driven.md) | 5 | 4 | 1 | 1988-01 | 2025-10 |
 | [`mechanism-tendon-routing`](mechanism-tendon-routing.md) | 15 | 12 | 3 | 1495 | 2024 |
 | [`mechanism-thruster-axial`](mechanism-thruster-axial.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
@@ -194,6 +194,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`sensing-force-torque`](sensing-force-torque.md) | 44 | 38 | 6 | 1969 | 2024-07 |
 | [`sensing-hand-pose-tracking`](sensing-hand-pose-tracking.md) | 4 | 2 | 2 | 2019-06 | 2023-09 |
 | [`sensing-imu`](sensing-imu.md) | 77 | 58 | 19 | 1989 | 2025-10 |
+| [`sensing-joint-torque`](sensing-joint-torque.md) | 2 | 2 | 0 | 2017-09 | 2019-09 |
 | [`sensing-lidar`](sensing-lidar.md) | 16 | 14 | 2 | 2004 | 2023-08 |
 | [`sensing-monocular-depth`](sensing-monocular-depth.md) | 13 | 10 | 3 | 1981-08 | 2025-10 |
 | [`sensing-proprioceptive-actuator`](sensing-proprioceptive-actuator.md) | 20 | 20 | 0 | 1980-11 | 2024-02 |

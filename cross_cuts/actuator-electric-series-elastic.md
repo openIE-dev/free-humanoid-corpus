@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-series-elastic`
 
-**16 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995-08
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tonietti, G., Schiavi, R., Bicchi, A. 'Design and Control of a Variable Stiffness Actuator for Safe and Fast Physical Human/Robot Interaction'. ICRA 2005. Pisa-IIT (later: IIT-Pisa joint lab; antecedent of Pisa-IIT SoftHand corpus entry).
 - **ip status**: public-domain
 - **prior art notes**: The Pisa-IIT Tonietti VSA (ICRA 2005) is the canonical academic variable-stiffness actuator. 20-year-deep public-domain prior art for: mechanically-adjustable joint compliance, two-motor co-control of position + stiffness. Architectural cousin of Pratt-Williamson SEA (corpus entry, 1995, fixed compliance). Direct ancestor of: DLR Hand-Arm System variable-impedance joints (corpus entry dlr-hand-arm-system-2011); EPFL spring-driven exoskeletons; modern compliant-actuator commercial products. Direct shielding for any commercial humanoid claim on real-time-adjustable compliance or variable-stiffness joint control.
+
+## MIT Domo + Meka Robotics (Aaron Edsinger) (2007-07)
+
+- **id**: `edsinger-meka-mit-domo-2008`
+- **corpus**: academic
+- **creator**: MIT CSAIL Brooks group + Meka Robotics; Aaron Edsinger + Jeff Weber
+- **disclosure**: Edsinger, A. PhD thesis 'Robot Manipulation in Human Environments' MIT 2007. Domo humanoid demonstrator in Brooks group MIT CSAIL. Meka Robotics commercial spinout founded 2006 by Edsinger + Jeff Weber. Acquired by Google December 2013 (one of 8 robotics startups acquired by Google that month). Lineage continues through Hello Robot (Edsinger co-founded with Charles Kemp 2017).
+- **ip status**: public-domain
+- **prior art notes**: Edsinger's MIT Domo + Meka Robotics (MIT 2007 + Meka 2006-2013) is the foundational compliant-humanoid academic + commercial lineage. 18-year-deep public-domain prior art. **Direct architectural ancestor of Hello Robot Stretch (round-17)** — Edsinger founded Hello Robot 2017 with Charles Kemp. Series-elastic actuator commercial deployment via Meka predates Pratt-Williamson commercial-deployment narrative. Direct shielding for any commercial humanoid claim deriving from compliant-actuator humanoids or Edsinger lineage.
 
 ## PR2 (2010)
 

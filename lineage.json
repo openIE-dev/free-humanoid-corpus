@@ -198,7 +198,9 @@
       "year": "1956",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "fanuc-crx-collaborative-2019"
+      ]
     },
     {
       "id": "forbidden-planet-robby",
@@ -2245,6 +2247,16 @@
       "descendants": []
     },
     {
+      "id": "edsinger-meka-mit-domo-2008",
+      "name": "MIT Domo + Meka Robotics (Aaron Edsinger)",
+      "year": "2007",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "hello-robot-stretch-2020"
+      ]
+    },
+    {
       "id": "sensei-hansen-medical-2009",
       "name": "Hansen Medical Sensei catheter robotic system",
       "year": "2007",
@@ -2425,7 +2437,9 @@
       "year": "2008",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "fanuc-crx-collaborative-2019"
+      ]
     },
     {
       "id": "opm-genos",
@@ -3113,6 +3127,14 @@
       "ancestors": [
         "cmu-herb-srinivasa-2012"
       ],
+      "descendants": []
+    },
+    {
+      "id": "pal-robotics-tiago-2014",
+      "name": "PAL Robotics TIAGo mobile manipulator",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -4224,6 +4246,17 @@
       "descendants": []
     },
     {
+      "id": "fanuc-crx-collaborative-2019",
+      "name": "FANUC CRX collaborative robot family",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "fanuc-industrial-robotics-1956",
+        "universal-robots-denmark-2008"
+      ],
+      "descendants": []
+    },
+    {
       "id": "rlbench-james-2019",
       "name": "RLBench",
       "year": "2019",
@@ -4363,7 +4396,9 @@
       "name": "Hello Robot Stretch",
       "year": "2020",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "edsinger-meka-mit-domo-2008"
+      ],
       "descendants": []
     },
     {

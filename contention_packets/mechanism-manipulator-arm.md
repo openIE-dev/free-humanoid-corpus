@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-manipulator-arm`  
-**Entries:** 22 (20 commons-grade, 2 draft)  
+**Entries:** 24 (22 commons-grade, 2 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2022-07
 
@@ -312,6 +312,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-05 — PAL Robotics TIAGo mobile manipulator
+
+- **id:** `pal-robotics-tiago-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** PAL Robotics S.L. (Barcelona, Spain)
+- **disclosure citation:** PAL Robotics S.L. (Barcelona, Spain). TIAGo product reveal May 2014. Subsequent product variants: TIAGo Pro (dual-arm), TIAGo OMNI (omnidirectional drive), TIAGo++ (research kit). pal-robotics.com. Sister product to REEM-C humanoid (corpus entry reem-c).
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-manipulator-arm`, `mechanism-telescoping-mast`, `actuator-electric`
+
+**Prior art notes:**
+
+> PAL Robotics TIAGo (Barcelona Spain 2014+) is the canonical Spanish commercial mobile manipulator. 11-year-deep public-disclosure prior art. Sister product line to REEM-C (corpus). Together with REEM-C, brings Spanish commercial-robotics representation to 2 specific platform entries. Architectural sibling to Hello Robot Stretch (round-17), Fetch (round-35), BD Stretch warehouse (round-34). Direct shielding for any commercial humanoid claim deriving from telescoping-mast mobile-manipulator commercial deployments.
+
+**Sources:**
+
+1. PAL Robotics TIAGo product page (pal-robotics.com).
+2. PAL Robotics corporate site.
+
+---
+
 ### 2014-12 — Fetch & Freight (Fetch Robotics)
 
 - **id:** `fetch-freight-fetchrobotics-2014`
@@ -412,6 +432,25 @@ cite, copy, or redistribute these contentions.
 
 1. Robotis OpenMANIPULATOR product page (robotis.com).
 2. GitHub: github.com/ROBOTIS-GIT/open_manipulator.
+
+---
+
+### 2019-09 — FANUC CRX collaborative robot family
+
+- **id:** `fanuc-crx-collaborative-2019`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** FANUC Corporation (Yamanashi, Japan)
+- **disclosure citation:** FANUC Corporation. CRX collaborative robot family commercial reveal September 2019. CRX-10iA (10 kg payload) initial product; subsequent CRX-25iA (25 kg payload) + CRX-5iA (5 kg payload). fanuc.com. The cobot variant of FANUC's industrial-arm family (corpus round-34 fanuc-industrial-robotics-1956).
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-collaborative-robot`, `actuator-electric`, `sensing-joint-torque`
+
+**Prior art notes:**
+
+> FANUC CRX (FANUC Yamanashi 2019+) is FANUC's cobot variant of the industrial-arm family (round-34 fanuc-industrial-robotics-1956). 6-year-deep public-disclosure prior art. The Japanese cobot answer to Universal Robots (Denmark) + Doosan (Korea) + Franka Emika (Germany). Together, the global cobot prior-art chain spans 4 distinct national-origin commercial cobot product lines.
+
+**Sources:**
+
+1. FANUC CRX product page (fanuc.com).
 
 ---
 
@@ -527,4 +566,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `664769a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4846ab1`.*

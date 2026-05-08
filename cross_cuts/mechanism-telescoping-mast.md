@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-telescoping-mast`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2014-12
+Earliest disclosure: 2014-05
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## PAL Robotics TIAGo mobile manipulator (2014-05)
+
+- **id**: `pal-robotics-tiago-2014`
+- **corpus**: private
+- **creator**: PAL Robotics S.L. (Barcelona, Spain)
+- **disclosure**: PAL Robotics S.L. (Barcelona, Spain). TIAGo product reveal May 2014. Subsequent product variants: TIAGo Pro (dual-arm), TIAGo OMNI (omnidirectional drive), TIAGo++ (research kit). pal-robotics.com. Sister product to REEM-C humanoid (corpus entry reem-c).
+- **ip status**: trade-secret
+- **prior art notes**: PAL Robotics TIAGo (Barcelona Spain 2014+) is the canonical Spanish commercial mobile manipulator. 11-year-deep public-disclosure prior art. Sister product line to REEM-C (corpus). Together with REEM-C, brings Spanish commercial-robotics representation to 2 specific platform entries. Architectural sibling to Hello Robot Stretch (round-17), Fetch (round-35), BD Stretch warehouse (round-34). Direct shielding for any commercial humanoid claim deriving from telescoping-mast mobile-manipulator commercial deployments.
 
 ## Fetch & Freight (Fetch Robotics) (2014-12)
 

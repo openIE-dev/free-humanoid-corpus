@@ -1,16 +1,16 @@
 ---
-title: "mechanism-collaborative-robot"
+title: "sensing-joint-torque"
 parent: "Invalidity Contentions"
-nav_order: 123
+nav_order: 168
 layout: default
 ---
 
-# Invalidity Contention Packet — `mechanism-collaborative-robot`
+# Invalidity Contention Packet — `sensing-joint-torque`
 
 **Generated:** 2026-05-08  
-**Cross-cut tag:** `mechanism-collaborative-robot`  
-**Entries:** 5 (4 commons-grade, 1 draft)  
-**Earliest disclosure:** 1956-01  
+**Cross-cut tag:** `sensing-joint-torque`  
+**Entries:** 2 (2 commons-grade, 0 draft)  
+**Earliest disclosure:** 2017-09  
 **Most recent disclosure:** 2019-09
 
 ---
@@ -19,7 +19,7 @@ layout: default
 
 This document is an invalidity-contention packet — a chronologically-ordered
 list of every disclosed prior art reference in the Free Humanoid Corpus that
-bears on the subsystem `mechanism-collaborative-robot`.
+bears on the subsystem `sensing-joint-torque`.
 
 To use it:
 
@@ -39,68 +39,6 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
-
-### 1956-01 — FANUC industrial robotics
-
-- **id:** `fanuc-industrial-robotics-1956`
-- **corpus:** private
-- **ip status:** trade-secret
-- **creator:** FANUC Corporation (Yamanashi, Japan; Fujitsu spinout)
-- **disclosure citation:** FANUC Corporation (Oshino-mura, Yamanashi, Japan; founded 1956 as Fuji Communication Apparatus Co., spun out of Fujitsu 1972 as FANUC Ltd.). Industrial robot product line: M-series, R-series, LR Mate, CRX cobot series. **The largest industrial robot company in the world by deployed-unit count** (~750,000 units cumulative).
-- **disclosed subsystems:** `mechanism-manipulator-arm`, `actuator-electric`, `mechanism-collaborative-robot`
-
-**Prior art notes:**
-
-> FANUC (founded 1956 as Fujitsu spinout; FANUC Ltd 1972) is the world's largest industrial robot company by deployed units. 70-year-deep public-disclosure prior art across multi-product industrial-arm + cobot lineage. ~750,000 units cumulative. Direct shielding for any commercial humanoid claim that includes industrial-arm derivative applications. Together with SCARA (round-32), Universal Robots (round-24), Doosan (round-22), KUKA, ABB, Yaskawa, establishes the industrial-robot prior-art chain spanning 1956-2026.
-
-**Sources:**
-
-1. FANUC corporate site (fanuc.com).
-2. Wikipedia 'FANUC'.
-3. International Federation of Robotics annual industrial-robot deployment statistics.
-
----
-
-### 2002-01 — A*STAR Institute for Infocomm Research (I2R) robotics *(draft)*
-
-- **id:** `a-star-singapore-i2r-robotics`
-- **corpus:** academic
-- **ip status:** open-permissive
-- **creator:** Agency for Science, Technology and Research (A*STAR), Singapore
-- **disclosure citation:** Agency for Science, Technology and Research (A*STAR), Singapore. Institute for Infocomm Research (I2R) and Institute for High Performance Computing (IHPC) host Singapore's national robotics research. a-star.edu.sg. Notable: industrial-collaboration research (cobot integration with Singapore manufacturing), AI + vision research, autonomous-vehicle technology.
-- **disclosed subsystems:** `control-research-cluster`, `mechanism-collaborative-robot`
-
-**Prior art notes:**
-
-> A*STAR I2R is Singapore's national robotics research aggregator. Together with NUS UnetStack (round-9 entry, NUS robotics), NTU robotics (round-23 entry below), establishes the Singapore + ASEAN robotics prior-art baseline. Aggregator-style; specific A*STAR papers should be added in future rounds.
-
-**Sources:**
-
-1. A*STAR Institute for Infocomm Research (i2r.a-star.edu.sg).
-2. A*STAR corporate site (a-star.edu.sg).
-
----
-
-### 2008-12 — Universal Robots (Odense, Denmark)
-
-- **id:** `universal-robots-denmark-2008`
-- **corpus:** private
-- **ip status:** trade-secret
-- **creator:** Universal Robots A/S (Odense, Denmark; SDU spinout); Østergaard, Støy, Kassow founders
-- **disclosure citation:** Universal Robots A/S (Odense, Denmark; founded 2005 by Esben Østergaard, Kasper Støy, Kristian Kassow as a University of Southern Denmark spinout). UR5 first commercial cobot reveal December 2008. Subsequently: UR3 (2015), UR10 (2012), UR16 (2019), e-Series (2018+), UR20/UR30 (2022+). Acquired by Teradyne 2015 for $285M. universal-robots.com.
-- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-collaborative-robot`, `actuator-electric`, `control-impedance-control`
-
-**Prior art notes:**
-
-> Universal Robots is the canonical 2008+ commercial cobot anchor (Odense Denmark, SDU spinout). 17-year-deep public-disclosure prior art for: 6-DoF anthropomorphic cobot at the educational/industrial price point, ISO 10218 + ISO/TS 15066 collaborative-safety compliance, PolyScope teach-pendant programming model. **The architectural anchor of every subsequent commercial cobot** — Doosan (round-22 entry), Franka Emika, Aubo, Elite, Jaka, Universal Robots' own e-Series. The Odense Denmark cobot cluster (Robocluster consortium) is the Nordic robotics anchor. Direct shielding for any commercial humanoid claim that includes cobot-class collaborative-arm derivative applications. Closes the Denmark / Nordic gap (corpus had no Danish entries prior).
-
-**Sources:**
-
-1. Universal Robots corporate site (universal-robots.com).
-2. Teradyne 10-K SEC filings (post-2015 acquisition).
-3. Wikipedia 'Universal Robots' (en.wikipedia.org/wiki/Universal_Robots).
-
----
 
 ### 2017-09 — Doosan Robotics M-series cobots
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-mobile-base`
 
-**11 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -50,6 +50,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Willow Garage. TurtleBot reveal December 2010 as a low-cost ROS-integrated educational mobile robot. Subsequent versions: TurtleBot 2 (2012), TurtleBot 3 (2017, Robotis-manufactured), TurtleBot 4 (2022, Clearpath Robotics-manufactured). turtlebot.com.
 - **ip status**: open-permissive
 - **prior art notes**: TurtleBot (Willow Garage 2010+) is the canonical foundational ROS educational mobile robot. 15-year-deep open-permissive prior art. The hardware platform underlying every ROS tutorial globally + 1000+ academic publications. Direct shielding for any commercial humanoid claim derived from low-cost mobile-robot educational platforms.
+
+## PAL Robotics TIAGo mobile manipulator (2014-05)
+
+- **id**: `pal-robotics-tiago-2014`
+- **corpus**: private
+- **creator**: PAL Robotics S.L. (Barcelona, Spain)
+- **disclosure**: PAL Robotics S.L. (Barcelona, Spain). TIAGo product reveal May 2014. Subsequent product variants: TIAGo Pro (dual-arm), TIAGo OMNI (omnidirectional drive), TIAGo++ (research kit). pal-robotics.com. Sister product to REEM-C humanoid (corpus entry reem-c).
+- **ip status**: trade-secret
+- **prior art notes**: PAL Robotics TIAGo (Barcelona Spain 2014+) is the canonical Spanish commercial mobile manipulator. 11-year-deep public-disclosure prior art. Sister product line to REEM-C (corpus). Together with REEM-C, brings Spanish commercial-robotics representation to 2 specific platform entries. Architectural sibling to Hello Robot Stretch (round-17), Fetch (round-35), BD Stretch warehouse (round-34). Direct shielding for any commercial humanoid claim deriving from telescoping-mast mobile-manipulator commercial deployments.
 
 ## Fetch & Freight (Fetch Robotics) (2014-12)
 
