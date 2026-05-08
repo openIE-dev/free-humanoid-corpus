@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-3d-reconstruction`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2023-12
 
@@ -32,3 +32,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Leroy, V., Cabon, Y., Revaud, J. 'Grounding Image Matching in 3D with MASt3R'. ECCV 2024. arXiv:2406.09756. NAVER LABS Europe.
 - **ip status**: open-permissive
 - **prior art notes**: MASt3R (Leroy et al. ECCV 2024) is DUSt3R's direct successor adding image-matching. 1-year-deep open-permissive prior art. Together with DUSt3R (round-28), MegaSaM (round-13), ViPE (round-11), RADIO-ViPE (round-10), establishes the calibration-free reconstruction chain that any commercial humanoid camera-perception claim must contend with.
+
+## VGGT (Visual Geometry Grounded Transformer) (2025-03)
+
+- **id**: `vggt-wang-cvpr-2025`
+- **corpus**: academic
+- **creator**: Visual Geometry Group, University of Oxford + Meta AI; Jianyuan Wang, Andrea Vedaldi et al.
+- **disclosure**: Wang, J., Chen, M., Karaev, N., Vedaldi, A., Rupprecht, C., Novotny, D. 'VGGT: Visual Geometry Grounded Transformer'. CVPR 2025 Best Paper. arXiv:2503.11651. Visual Geometry Group, University of Oxford + Meta AI.
+- **ip status**: open-permissive
+- **prior art notes**: VGGT (Wang et al. Oxford VGG + Meta CVPR 2025 Best Paper) is the canonical 2025 foundation transformer for 3D vision. 6-month-deep open-permissive prior art. **CVPR 2025 Best Paper**. Direct successor to DUSt3R (round-28) and the calibration-free reconstruction chain (DUSt3R → MASt3R → MegaSaM → ViPE → RADIO-ViPE → VGGT). Direct shielding for any commercial humanoid claim on foundation-model-based 3D vision.

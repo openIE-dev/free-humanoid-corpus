@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-feature-matching`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2024-06
+Earliest disclosure: 2024-05
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## RoMa (Robust Dense Feature Matching) (2024-05)
+
+- **id**: `roma-edstedt-cvpr-2024`
+- **corpus**: academic
+- **creator**: Linköping University; Johan Edstedt, Qiyu Sun, Georg Bökman, Mårten Wadenbäck, Michael Felsberg
+- **disclosure**: Edstedt, J., Sun, Q., Bökman, G., Wadenbäck, M., Felsberg, M. 'RoMa: Robust Dense Feature Matching'. CVPR 2024. arXiv:2305.15404. Linköping University.
+- **ip status**: open-permissive
+- **prior art notes**: RoMa (Edstedt et al. CVPR 2024) is the canonical state-of-the-art dense feature matching method. 1-year-deep open-permissive prior art. Used in 3D-vision pipelines including the MASt3R lineage.
 
 ## MASt3R (Matching And Stereo 3D Reconstruction) (2024-06)
 

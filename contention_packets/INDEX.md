@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-08  
-**Packets:** 153  
-**Corpus revision:** `4440aa4`
+**Packets:** 158  
+**Corpus revision:** `d02ae55`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -45,7 +45,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-spherical-multi-dof`](actuator-spherical-multi-dof.md) | 2 | 2 | 0 | 2020 | 2023-10 |
 | [`actuator-variable-stiffness`](actuator-variable-stiffness.md) | 2 | 2 | 0 | 2005-04 | 2015-06 |
 | [`control-3d-perception`](control-3d-perception.md) | 3 | 3 | 0 | 2020-03 | 2024-03 |
-| [`control-3d-reconstruction`](control-3d-reconstruction.md) | 2 | 2 | 0 | 2023-12 | 2024-06 |
+| [`control-3d-reconstruction`](control-3d-reconstruction.md) | 3 | 3 | 0 | 2023-12 | 2025-03 |
 | [`control-acoustic-comms`](control-acoustic-comms.md) | 10 | 9 | 1 | 1989-01 | 2018-04 |
 | [`control-agricultural-autonomy`](control-agricultural-autonomy.md) | 2 | 0 | 2 | 2010-01 | 2010-07 |
 | [`control-bci`](control-bci.md) | 3 | 3 | 0 | 2002-07 | 2017-04 |
@@ -61,9 +61,10 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-dvl-positioning`](control-dvl-positioning.md) | 8 | 7 | 1 | 1989-04 | 2018-04 |
 | [`control-dynamic-scene-robust`](control-dynamic-scene-robust.md) | 6 | 4 | 2 | 2018-06 | 2026-04 |
 | [`control-egocentric-video-pretraining`](control-egocentric-video-pretraining.md) | 3 | 3 | 0 | 2021-08 | 2025-03 |
-| [`control-foundation-model`](control-foundation-model.md) | 4 | 4 | 0 | 1997-11 | 2023-07 |
-| [`control-foundation-model-perception`](control-foundation-model-perception.md) | 22 | 20 | 2 | 2009-06 | 2026-04 |
-| [`control-foundation-model-policy`](control-foundation-model-policy.md) | 19 | 15 | 4 | 2021-06 | 2025-10 |
+| [`control-feature-matching`](control-feature-matching.md) | 2 | 2 | 0 | 2024-05 | 2024-06 |
+| [`control-foundation-model`](control-foundation-model.md) | 11 | 9 | 2 | 1997-11 | 2025-06 |
+| [`control-foundation-model-perception`](control-foundation-model-perception.md) | 26 | 23 | 3 | 2009-06 | 2026-04 |
+| [`control-foundation-model-policy`](control-foundation-model-policy.md) | 20 | 15 | 5 | 2021-06 | 2025-10 |
 | [`control-gaussian-splatting-slam`](control-gaussian-splatting-slam.md) | 6 | 2 | 4 | 2024-03 | 2025-11 |
 | [`control-generative-model`](control-generative-model.md) | 3 | 3 | 0 | 2013-12 | 2020-06 |
 | [`control-grasp-planning`](control-grasp-planning.md) | 2 | 1 | 1 | 1989-06 | 2000-01 |
@@ -73,6 +74,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-impedance-control`](control-impedance-control.md) | 2 | 2 | 0 | 1994-09 | 2008-12 |
 | [`control-implicit-scene-representation`](control-implicit-scene-representation.md) | 2 | 2 | 0 | 2020-03 | 2023-02 |
 | [`control-language-conditioned-policy`](control-language-conditioned-policy.md) | 2 | 2 | 0 | 2021-12 | 2021-12 |
+| [`control-language-model`](control-language-model.md) | 4 | 3 | 1 | 2018-10 | 2024-10 |
 | [`control-loco-manipulation`](control-loco-manipulation.md) | 4 | 4 | 0 | 2023-10 | 2025-04 |
 | [`control-long-horizon-manipulation`](control-long-horizon-manipulation.md) | 2 | 2 | 0 | 2021-12 | 2023-05 |
 | [`control-master-slave-teleoperation`](control-master-slave-teleoperation.md) | 4 | 3 | 1 | 1989-01 | 2021-03 |
@@ -87,19 +89,22 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-multilingual-speech`](control-multilingual-speech.md) | 3 | 2 | 1 | 2003-09 | 2017-08 |
 | [`control-network-protocol`](control-network-protocol.md) | 2 | 2 | 0 | 2014-09 | 2017-03 |
 | [`control-neural-decoding`](control-neural-decoding.md) | 2 | 2 | 0 | 2002-07 | 2017-04 |
+| [`control-neural-network-training`](control-neural-network-training.md) | 2 | 2 | 0 | 2014-06 | 2015-02 |
 | [`control-novel-view-synthesis`](control-novel-view-synthesis.md) | 6 | 5 | 1 | 2020-03 | 2025-04 |
 | [`control-open-loop-gait`](control-open-loop-gait.md) | 2 | 2 | 0 | 2013-05 | 2026-01 |
 | [`control-open-vocabulary`](control-open-vocabulary.md) | 4 | 3 | 1 | 2023-03 | 2026-04 |
 | [`control-operational-space`](control-operational-space.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
 | [`control-physics-simulation`](control-physics-simulation.md) | 6 | 6 | 0 | 2012-10 | 2024-06 |
 | [`control-policy-gradient`](control-policy-gradient.md) | 2 | 2 | 0 | 2015-02 | 2017-07 |
+| [`control-pose-free-reconstruction`](control-pose-free-reconstruction.md) | 2 | 2 | 0 | 2023-12 | 2025-03 |
 | [`control-prosthetic-control`](control-prosthetic-control.md) | 2 | 2 | 0 | 2002-07 | 2009-12 |
 | [`control-publish-subscribe`](control-publish-subscribe.md) | 2 | 2 | 0 | 2009-05 | 2017-12 |
 | [`control-raibert-decomposition`](control-raibert-decomposition.md) | 2 | 1 | 1 | 1981-01 | 2005-12 |
 | [`control-reduced-order-model`](control-reduced-order-model.md) | 28 | 27 | 1 | 1979-04-07 | 2023-08 |
 | [`control-research-cluster`](control-research-cluster.md) | 36 | 1 | 35 | 2000-01 | 2011-11 |
-| [`control-rl-policy`](control-rl-policy.md) | 148 | 120 | 28 | 1818 | 2026-04 |
+| [`control-rl-policy`](control-rl-policy.md) | 149 | 121 | 28 | 1818 | 2026-04 |
 | [`control-rough-terrain-locomotion`](control-rough-terrain-locomotion.md) | 5 | 5 | 0 | 2005-12 | 2024-09 |
+| [`control-self-play`](control-self-play.md) | 2 | 2 | 0 | 2016-01 | 2024-04 |
 | [`control-self-supervised-vision`](control-self-supervised-vision.md) | 3 | 3 | 0 | 2021-11 | 2023-04 |
 | [`control-semantic-slam`](control-semantic-slam.md) | 4 | 1 | 3 | 2024-03 | 2026-04 |
 | [`control-sensitivity-amplification`](control-sensitivity-amplification.md) | 2 | 2 | 0 | 2004-03 | 2018-09 |
@@ -114,9 +119,9 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-uncalibrated-video-perception`](control-uncalibrated-video-perception.md) | 2 | 2 | 0 | 2023-12 | 2025-08 |
 | [`control-vibrotactile-feedback`](control-vibrotactile-feedback.md) | 2 | 0 | 2 | 2023-01 | 2023-09 |
 | [`control-vio-slam`](control-vio-slam.md) | 13 | 7 | 6 | 2010-07 | 2026-04 |
-| [`control-vision-language`](control-vision-language.md) | 2 | 2 | 0 | 2023-03 | 2023-12 |
+| [`control-vision-language`](control-vision-language.md) | 3 | 3 | 0 | 2022-04 | 2023-12 |
 | [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 93 | 81 | 12 | 1886 | 2026-04 |
-| [`control-vr-headset-teleoperation`](control-vr-headset-teleoperation.md) | 2 | 2 | 0 | 2014-01 | 2024-07 |
+| [`control-vr-headset-teleoperation`](control-vr-headset-teleoperation.md) | 3 | 2 | 1 | 2014-01 | 2025-06 |
 | [`control-whole-body-qp`](control-whole-body-qp.md) | 2 | 2 | 0 | 2003-09 | 2015-06 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 25 | 24 | 1 | 1969 | 2023-08 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |

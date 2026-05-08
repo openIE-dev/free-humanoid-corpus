@@ -1,7 +1,7 @@
 ---
 title: "control-vision-language"
 parent: "Invalidity Contentions"
-nav_order: 88
+nav_order: 93
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-vision-language`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2023-03  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 2022-04  
 **Most recent disclosure:** 2023-12
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2022-04 — Flamingo (DeepMind multimodal VLM)
+
+- **id:** `flamingo-alayrac-deepmind-2022`
+- **corpus:** academic
+- **ip status:** trade-secret
+- **creator:** DeepMind; Jean-Baptiste Alayrac, Karen Simonyan et al.
+- **disclosure citation:** Alayrac, J.-B., Donahue, J., Luc, P., Miech, A., Barr, I., Hasson, Y., Lenc, K., Mensch, A., Millican, K., Reynolds, M., Ring, R., Rutherford, E., Cabi, S., Han, T., Gong, Z., Samangouei, S., Monteiro, M., Menick, J., Borgeaud, S., Brock, A., Nematzadeh, A., Sharifzadeh, S., Binkowski, M., Barreira, R., Vinyals, O., Zisserman, A., Simonyan, K. 'Flamingo: a Visual Language Model for Few-Shot Learning'. NeurIPS 2022. arXiv:2204.14198. DeepMind.
+- **disclosed subsystems:** `control-foundation-model`, `control-vision-language`
+
+**Prior art notes:**
+
+> Flamingo (Alayrac et al. DeepMind NeurIPS 2022) is the foundational multimodal VLM. 3-year-deep public-disclosure prior art. The architectural ancestor of OpenFlamingo + RoboFlamingo (round-29) and the multimodal-VLM lineage that underlies many modern VLAs.
+
+**Sources:**
+
+1. Alayrac et al. arXiv:2204.14198 NeurIPS 2022.
+
+---
 
 ### 2023-03 — SigLIP
 
@@ -112,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*

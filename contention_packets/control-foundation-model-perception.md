@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model-perception"
 parent: "Invalidity Contentions"
-nav_order: 36
+nav_order: 37
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model-perception`  
-**Entries:** 22 (20 commons-grade, 2 draft)  
+**Entries:** 26 (23 commons-grade, 3 draft)  
 **Earliest disclosure:** 2009-06  
 **Most recent disclosure:** 2026-04
 
@@ -324,6 +324,45 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-03 — FoundationPose (NVIDIA)
+
+- **id:** `foundationpose-nvidia-cvpr-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA Research; Bowen Wen, Wei Yang, Jan Kautz, Stan Birchfield
+- **disclosure citation:** Wen, B., Yang, W., Kautz, J., Birchfield, S. 'FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects'. CVPR 2024. arXiv:2312.08344. NVIDIA Research.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-6d-pose-estimation`
+
+**Prior art notes:**
+
+> FoundationPose (Wen et al. NVIDIA CVPR 2024) is the canonical foundation model for 6D object pose estimation. 1-year-deep open-permissive prior art. Direct shielding for any commercial humanoid claim on object-pose-conditioned manipulation.
+
+**Sources:**
+
+1. Wen et al. arXiv:2312.08344 CVPR 2024.
+2. GitHub: github.com/NVlabs/FoundationPose.
+
+---
+
+### 2024-05 — RoMa (Robust Dense Feature Matching)
+
+- **id:** `roma-edstedt-cvpr-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Linköping University; Johan Edstedt, Qiyu Sun, Georg Bökman, Mårten Wadenbäck, Michael Felsberg
+- **disclosure citation:** Edstedt, J., Sun, Q., Bökman, G., Wadenbäck, M., Felsberg, M. 'RoMa: Robust Dense Feature Matching'. CVPR 2024. arXiv:2305.15404. Linköping University.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-feature-matching`
+
+**Prior art notes:**
+
+> RoMa (Edstedt et al. CVPR 2024) is the canonical state-of-the-art dense feature matching method. 1-year-deep open-permissive prior art. Used in 3D-vision pipelines including the MASt3R lineage.
+
+**Sources:**
+
+1. Edstedt et al. arXiv:2305.15404 CVPR 2024.
+
+---
+
 ### 2024-06 — MASt3R (Matching And Stereo 3D Reconstruction)
 
 - **id:** `mast3r-naver-2024`
@@ -428,6 +467,46 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-03 — VGGT (Visual Geometry Grounded Transformer)
+
+- **id:** `vggt-wang-cvpr-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Visual Geometry Group, University of Oxford + Meta AI; Jianyuan Wang, Andrea Vedaldi et al.
+- **disclosure citation:** Wang, J., Chen, M., Karaev, N., Vedaldi, A., Rupprecht, C., Novotny, D. 'VGGT: Visual Geometry Grounded Transformer'. CVPR 2025 Best Paper. arXiv:2503.11651. Visual Geometry Group, University of Oxford + Meta AI.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-3d-reconstruction`, `control-pose-free-reconstruction`
+
+**Prior art notes:**
+
+> VGGT (Wang et al. Oxford VGG + Meta CVPR 2025 Best Paper) is the canonical 2025 foundation transformer for 3D vision. 6-month-deep open-permissive prior art. **CVPR 2025 Best Paper**. Direct successor to DUSt3R (round-28) and the calibration-free reconstruction chain (DUSt3R → MASt3R → MegaSaM → ViPE → RADIO-ViPE → VGGT). Direct shielding for any commercial humanoid claim on foundation-model-based 3D vision.
+
+**Sources:**
+
+1. Wang et al. arXiv:2503.11651 CVPR 2025 Best Paper.
+2. GitHub: github.com/facebookresearch/vggt.
+
+---
+
+### 2025-04 — NVIDIA Cosmos-Reason 2-2B *(draft)*
+
+- **id:** `cosmos-reason-2-nvidia-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA Research
+- **disclosure citation:** NVIDIA. 'Cosmos-Reason2: Reasoning About Physical AI'. arXiv preprint. April 2025. NVIDIA Research. Variant of the Cosmos World Foundation Model (round-17 entry nvidia-cosmos-2025). **The System-2 backbone of GR00T N1.7** (round-15 entry successor).
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-foundation-model-policy`, `control-embodied-reasoning`
+
+**Prior art notes:**
+
+> Cosmos-Reason2-2B (NVIDIA April 2025) is the System-2 backbone of GR00T N1.7. 7-month-deep open-permissive prior art. Direct extension of NVIDIA Cosmos (round-17) for embodied reasoning. Together with the GR00T N1 family, establishes NVIDIA's full S1+S2 dual-system humanoid VLA stack.
+
+**Sources:**
+
+1. NVIDIA Cosmos-Reason2 paper / model release April 2025.
+2. HuggingFace: huggingface.co/nvidia/Cosmos-Reason2-2B.
+
+---
+
 ### 2025-06 — LEG-SLAM *(draft)*
 
 - **id:** `leg-slam-2025`
@@ -520,4 +599,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*

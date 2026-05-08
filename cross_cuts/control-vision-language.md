@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-vision-language`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2023-03
+Earliest disclosure: 2022-04
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Flamingo (DeepMind multimodal VLM) (2022-04)
+
+- **id**: `flamingo-alayrac-deepmind-2022`
+- **corpus**: academic
+- **creator**: DeepMind; Jean-Baptiste Alayrac, Karen Simonyan et al.
+- **disclosure**: Alayrac, J.-B., Donahue, J., Luc, P., Miech, A., Barr, I., Hasson, Y., Lenc, K., Mensch, A., Millican, K., Reynolds, M., Ring, R., Rutherford, E., Cabi, S., Han, T., Gong, Z., Samangouei, S., Monteiro, M., Menick, J., Borgeaud, S., Brock, A., Nematzadeh, A., Sharifzadeh, S., Binkowski, M., Barreira, R., Vinyals, O., Zisserman, A., Simonyan, K. 'Flamingo: a Visual Language Model for Few-Shot Learning'. NeurIPS 2022. arXiv:2204.14198. DeepMind.
+- **ip status**: trade-secret
+- **prior art notes**: Flamingo (Alayrac et al. DeepMind NeurIPS 2022) is the foundational multimodal VLM. 3-year-deep public-disclosure prior art. The architectural ancestor of OpenFlamingo + RoboFlamingo (round-29) and the multimodal-VLM lineage that underlies many modern VLAs.
 
 ## SigLIP (2023-03)
 

@@ -1,7 +1,7 @@
 ---
 title: "control-rl-policy"
 parent: "Invalidity Contentions"
-nav_order: 72
+nav_order: 76
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 148 (120 commons-grade, 28 draft)  
+**Entries:** 149 (121 commons-grade, 28 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2026-04
 
@@ -1217,6 +1217,27 @@ cite, copy, or redistribute these contentions.
 
 1. Hutter, M. et al. IROS 2016.
 2. ANYbotics company materials.
+
+---
+
+### 2016-01 — AlphaGo / AlphaZero
+
+- **id:** `alphago-silver-deepmind-2016`
+- **corpus:** academic
+- **ip status:** trade-secret
+- **creator:** DeepMind; David Silver, Aja Huang, Demis Hassabis et al.
+- **disclosure citation:** Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., et al. 'Mastering the game of Go with deep neural networks and tree search'. Nature 529 2016. Subsequent: AlphaGo Zero Nature 550 2017; AlphaZero arXiv:1712.01815. DeepMind.
+- **disclosed subsystems:** `control-rl-policy`, `control-self-play`, `control-monte-carlo-tree-search`
+
+**Prior art notes:**
+
+> AlphaGo / AlphaZero (Silver et al. DeepMind 2016-2017) is the foundational deep RL milestone. 9-year-deep public-disclosure prior art. Direct architectural ancestor of: DeepMind humanoid soccer multi-agent RL (round-18), every modern self-play RL system. Direct shielding for any commercial humanoid claim using deep RL with self-play.
+
+**Sources:**
+
+1. Silver et al. Nature 529 2016 (AlphaGo).
+2. Silver et al. Nature 550 2017 (AlphaGo Zero).
+3. Silver et al. arXiv:1712.01815 (AlphaZero).
 
 ---
 
@@ -3047,4 +3068,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*

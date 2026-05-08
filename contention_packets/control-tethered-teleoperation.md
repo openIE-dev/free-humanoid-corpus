@@ -1,7 +1,7 @@
 ---
 title: "control-tethered-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 83
+nav_order: 88
 layout: default
 ---
 
@@ -173,4 +173,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*

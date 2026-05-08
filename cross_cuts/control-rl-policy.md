@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**148 corpus entries disclose this subsystem.**
+**149 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -545,6 +545,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hutter, M. et al. 'ANYmal — a highly mobile and dynamic quadrupedal robot.' IROS 2016.
 - **ip status**: patented
 - **prior art notes**: ANYbotics SEA design heavily anticipated by NASA Valkyrie and Robonaut SEA work. ETH RSL academic publications provide open prior art for many control claims.
+
+## AlphaGo / AlphaZero (2016-01)
+
+- **id**: `alphago-silver-deepmind-2016`
+- **corpus**: academic
+- **creator**: DeepMind; David Silver, Aja Huang, Demis Hassabis et al.
+- **disclosure**: Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., et al. 'Mastering the game of Go with deep neural networks and tree search'. Nature 529 2016. Subsequent: AlphaGo Zero Nature 550 2017; AlphaZero arXiv:1712.01815. DeepMind.
+- **ip status**: trade-secret
+- **prior art notes**: AlphaGo / AlphaZero (Silver et al. DeepMind 2016-2017) is the foundational deep RL milestone. 9-year-deep public-disclosure prior art. Direct architectural ancestor of: DeepMind humanoid soccer multi-agent RL (round-18), every modern self-play RL system. Direct shielding for any commercial humanoid claim using deep RL with self-play.
 
 ## Boston Dynamics SpotMini (2016-06)
 

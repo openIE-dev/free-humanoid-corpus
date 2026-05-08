@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vr-headset-teleoperation`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014-01
 
@@ -32,3 +32,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cheng, X., Li, J., Yang, S., Yang, G., Wang, X. 'Open-TeleVision: Teleoperation with Immersive Active Visual Feedback'. arXiv:2407.01512, July 2024. CoRL 2024. UC San Diego + MIT.
 - **ip status**: open-permissive
 - **prior art notes**: Open-TeleVision is the canonical first open-source academic Apple-Vision-Pro humanoid teleoperation system (Cheng et al. CoRL 2024). 10-month-deep open-permissive prior art for: VR-headset humanoid teleop with first-person stereo POV, active head tracking for gaze-following, hand-pose mirroring across Vision Pro + humanoid arm. Direct shielding for any commercial humanoid claim on Apple-Vision-Pro-or-equivalent VR teleop. Architectural successor to Vicarious Surgical (round-16 entry) VR-teleop in surgical context — Open-TeleVision applies the same pattern to humanoid manipulation. The 500-hour Helix (round-15) teleop dataset was likely collected via similar VR-headset teleop infrastructure.
+
+## Apple Intelligence + Apple Robotics research (2025) (2025-06)
+
+- **id**: `apple-vla-research-2025`
+- **corpus**: private
+- **creator**: Apple Inc.
+- **disclosure**: Apple Inc. Apple Intelligence stack (announced June 2024 WWDC); Apple Vision Pro hardware (released February 2024) increasingly deployed as teleop interface for academic humanoid robots (Open-TeleVision round-16); Apple Machine Learning Research publishing robotics-adjacent work 2024-2025.
+- **ip status**: trade-secret
+- **prior art notes**: Apple's emerging robotics research (2024-2025) is documented primarily through hardware deployment (Apple Vision Pro in Open-TeleVision round-16) and Apple Machine Learning Research publications. Specific internal Apple robotics products are not publicly disclosed. The existence of Apple-platform academic deployments establishes prior-art shielding against any commercial humanoid claim that integrates Apple Vision Pro / Apple Intelligence as a teleop or perception interface.

@@ -1,6 +1,6 @@
 # Corpus Index
 
-544 entries total. Generated from corpus.jsonl.
+558 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -20,6 +20,8 @@
 | Alita / Gally (Battle Angel Alita / Gunnm) | `battle-angel-alita` | 1990 | fictional | fictional |  |
 | Allegro Hand (Wonik / SimLab) | `allegro-hand-wonik-simlab-2014` | 2014 | private | trade-secret |  |
 | ALOHA-2 enhanced bimanual teleoperation platform | `aloha-2-aldaco-2024` | 2024 | academic | public-domain |  |
+| AlphaFold 2 | `alphafold2-jumper-deepmind-2021` | 2021 | academic | open-permissive |  |
+| AlphaGo / AlphaZero | `alphago-silver-deepmind-2016` | 2016 | academic | trade-secret |  |
 | ALVINN (Autonomous Land Vehicle in a Neural Network) | `pomerleau-alvinn` | 1989 | academic | public-domain |  |
 | AM-RADIO (NVIDIA) | `nvidia-am-radio-2024` | 2023 | academic | open-permissive |  |
 | Ameca | `ameca` | 2021 | private | patented | ✓ |
@@ -27,8 +29,10 @@
 | Andrew (The Bicentennial Man) | `asimov-bicentennial-man` | 1976 | fictional | fictional | ✓ |
 | Android 17 (Lapis) | `dbz-android-17` | 1992 | fictional | fictional |  |
 | Android 18 (Lazuli) | `dbz-android-18` | 1992 | fictional | fictional |  |
+| Anthropic Claude robotics applications | `anthropic-claude-robotics-2025` | 2024 | private | trade-secret | ✓ |
 | ANYmal | `anymal` | 2016 | private | patented |  |
 | ANYmal-D industrial quadruped (ETH RSL / ANYbotics) | `anymal-d-eth-rsl-2022` | 2022 | academic | public-domain |  |
+| Apple Intelligence + Apple Robotics research (2025) | `apple-vla-research-2025` | 2025 | private | trade-secret | ✓ |
 | Apptronik Apollo | `apptronik-apollo` | 2023 | private | patented | ✓ |
 | Apptronik Apollo academic and technical disclosures (2023-2024) | `apptronik-apollo-publications-2024` | 2023 | academic | public-domain |  |
 | Aquanaut hybrid AUV/ROV | `aquanaut-houston-2017` | 2018 | private | trade-secret | ✓ |
@@ -52,6 +56,7 @@
 | B-9 (Lost in Space) | `b-9-lost-in-space` | 1965 | fictional | fictional |  |
 | B1 Battle Droid | `b1-battle-droid` | 1999 | fictional | fictional |  |
 | BarrettHand BH8-280 / BH8-282 | `barrett-hand-1988` | 1988 | private | trade-secret |  |
+| Batch Normalization | `batchnorm-ioffe-szegedy-icml-2015` | 2015 | academic | public-domain |  |
 | Baymax | `baymax-big-hero-6` | 2014 | fictional | fictional |  |
 | BB-8 | `bb-8-star-wars` | 2015 | fictional | fictional |  |
 | BC-Z | `bc-z-jang-2021` | 2021 | academic | public-domain |  |
@@ -59,6 +64,7 @@
 | Berkeley Humanoid | `berkeley-humanoid` | 2024 | academic | open-permissive |  |
 | Berkeley Humanoid | `berkeley-humanoid-2024` | 2024 | academic | open-permissive |  |
 | Berkeley Humanoid Lite | `berkeley-humanoid-lite-2025` | 2025 | academic | open-permissive |  |
+| BERT (Bidirectional Encoder Representations from Transformers) | `bert-devlin-google-2018` | 2018 | academic | public-domain |  |
 | Big Daddy (Bouncer / Rosie) | `bioshock-big-daddy` | 2007 | fictional | fictional |  |
 | Big O (The Big O) | `big-o-megadeus` | 1999 | fictional | fictional |  |
 | BioTac | `biotac-syntouch` | 2008 | academic | patented |  |
@@ -152,6 +158,7 @@
 | Dreamer V3 | `hafner-dreamer-v3-2023` | 2023 | academic | open-permissive |  |
 | DROID Dataset | `droid-dataset` | 2024 | academic | open-permissive |  |
 | DROID-SLAM | `droid-slam-2021` | 2021 | academic | open-permissive |  |
+| Dropout regularization | `dropout-srivastava-jmlr-2014` | 2014 | academic | public-domain |  |
 | DSV Alvin | `alvin-hov-1964` | 1964 | academic | public-domain |  |
 | DUSt3R | `dust3r-naver-cvpr-2024` | 2023 | academic | open-permissive |  |
 | Dynamic Movement Primitives (DMP) | `dmp-schaal-ijspeert` | 2002 | academic | public-domain |  |
@@ -173,8 +180,10 @@
 | Figure 01 | `figure-01` | 2023 | private | patented | ✓ |
 | Figure 02 | `figure-02` | 2024 | private | patented | ✓ |
 | Figure Helix | `figure-helix-2025` | 2025 | private | trade-secret |  |
+| Flamingo (DeepMind multimodal VLM) | `flamingo-alayrac-deepmind-2022` | 2022 | academic | trade-secret |  |
 | FLORES wheel-legged robot | `flores-wheel-legged-2025` | 2025 | academic | open-permissive | ✓ |
 | Force Dimension Sigma.7 | `force-dimension-sigma7-2010s` | 2011 | private | trade-secret |  |
+| FoundationPose (NVIDIA) | `foundationpose-nvidia-cvpr-2024` | 2024 | academic | open-permissive |  |
 | Fourier GR-1 | `fourier-gr1` | 2023 | private | patented | ✓ |
 | Fourier GR1 | `fourier-gr1-2024` | 2024 | private | trade-secret |  |
 | Frankenstein's Creature | `frankenstein` | 1818 | fictional | fictional |  |
@@ -196,6 +205,7 @@
 | Ghost Robotics Vision 60 | `ghost-robotics-vision-60` | 2018 | private | patented |  |
 | Google DeepMind Gemini Robotics 1.5 | `google-gemini-robotics-1-5-2025` | 2025 | private | trade-secret | ✓ |
 | Goswami Foot Rotation Indicator | `goswami-fri` | 1999 | academic | public-domain |  |
+| GPT-3 (Brown et al. OpenAI 2020) | `gpt-3-brown-openai-neurips-2020` | 2020 | academic | trade-secret |  |
 | Habitat 3.0 | `fair-habitat-3-puig-2024` | 2023 | academic | open-permissive |  |
 | Habitat-Sim (Facebook AI Research) | `fair-habitat-sim-2019` | 2019 | academic | open-permissive |  |
 | Hadaly (L'Ève future) | `l-eve-future` | 1886 | fictional | fictional |  |
@@ -337,6 +347,7 @@
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
 | Number Six (Cylon Model Six) | `bsg-number-six` | 2003 | fictional | fictional |  |
 | NVIDIA Cosmos | `nvidia-cosmos-2025` | 2025 | academic | open-permissive |  |
+| NVIDIA Cosmos-Reason 2-2B | `cosmos-reason-2-nvidia-2025` | 2025 | academic | open-permissive | ✓ |
 | NVIDIA GR00T (Generalist Robot 00 Technology) | `nvidia-groot-2024` | 2024 | academic | open-permissive |  |
 | NVIDIA Isaac GR00T N1 | `nvidia-groot-n1-2025` | 2025 | academic | open-permissive |  |
 | NVIDIA Isaac Gym | `nvidia-isaac-gym-2021` | 2021 | academic | open-permissive |  |
@@ -413,6 +424,7 @@
 | Robotman (Robert Crane) | `dc-robotman-1942` | 1942 | fictional | fictional |  |
 | RoDyn-SLAM | `rodyn-slam-jiang-2024` | 2024 | academic | open-permissive |  |
 | Roetenberg Inertial Motion Capture (Xsens MVN) | `roetenberg-xsens-imu` | 2009 | academic | open-permissive |  |
+| RoMa (Robust Dense Feature Matching) | `roma-edstedt-cvpr-2024` | 2024 | academic | open-permissive |  |
 | ROS (Robot Operating System) | `ros-quigley-2009` | 2009 | academic | open-permissive |  |
 | ROS 2 | `ros-2-2017` | 2017 | academic | open-permissive |  |
 | Rossum's Universal Robots | `rur-rossums-robots` | 1920 | fictional | public-domain |  |
@@ -522,6 +534,7 @@
 | Val and Aqua (Heartbeeps) | `heartbeeps-val-aqua` | 1981 | fictional | fictional |  |
 | Variable Stiffness Actuator (Tonietti VSA) | `tonietti-vsa-pisa-iit-2005` | 2005 | academic | public-domain |  |
 | Variational Autoencoder (VAE) | `vae-kingma-iclr-2014` | 2013 | academic | public-domain |  |
+| VGGT (Visual Geometry Grounded Transformer) | `vggt-wang-cvpr-2025` | 2025 | academic | open-permissive |  |
 | Vicarious Surgical | `vicarious-surgical-2014` | 2014 | private | trade-secret |  |
 | Vicon optical motion capture | `vicon-mocap-1984` | 1984 | private | trade-secret |  |
 | VIMA (General Robot Manipulation with Multimodal Prompts) | `vima` | 2022 | academic | open-permissive |  |
@@ -539,6 +552,7 @@
 | Westworld Hosts (1973 / 2016) | `westworld-hosts` | 1973 | fictional | fictional |  |
 | WildGS-SLAM | `wildgs-slam-2025` | 2025 | academic | open-permissive |  |
 | Willow Garage PR1 | `willow-pr1` | 2008 | academic | open-permissive |  |
+| Word2Vec | `word2vec-mikolov-2013` | 2013 | academic | public-domain |  |
 | XPeng Iron | `xpeng-iron` | 2024 | private | patented | ✓ |
 | Yale OpenHand / ReFlex Hand | `yale-reflex-openhand-2014` | 2014 | academic | open-permissive |  |
 | YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) | `nier-automata-2b` | 2017 | fictional | fictional |  |

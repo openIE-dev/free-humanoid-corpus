@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model-policy"
 parent: "Invalidity Contentions"
-nav_order: 37
+nav_order: 38
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model-policy`  
-**Entries:** 19 (15 commons-grade, 4 draft)  
+**Entries:** 20 (15 commons-grade, 5 draft)  
 **Earliest disclosure:** 2021-06  
 **Most recent disclosure:** 2025-10
 
@@ -405,6 +405,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-04 — NVIDIA Cosmos-Reason 2-2B *(draft)*
+
+- **id:** `cosmos-reason-2-nvidia-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA Research
+- **disclosure citation:** NVIDIA. 'Cosmos-Reason2: Reasoning About Physical AI'. arXiv preprint. April 2025. NVIDIA Research. Variant of the Cosmos World Foundation Model (round-17 entry nvidia-cosmos-2025). **The System-2 backbone of GR00T N1.7** (round-15 entry successor).
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-foundation-model-policy`, `control-embodied-reasoning`
+
+**Prior art notes:**
+
+> Cosmos-Reason2-2B (NVIDIA April 2025) is the System-2 backbone of GR00T N1.7. 7-month-deep open-permissive prior art. Direct extension of NVIDIA Cosmos (round-17) for embodied reasoning. Together with the GR00T N1 family, establishes NVIDIA's full S1+S2 dual-system humanoid VLA stack.
+
+**Sources:**
+
+1. NVIDIA Cosmos-Reason2 paper / model release April 2025.
+2. HuggingFace: huggingface.co/nvidia/Cosmos-Reason2-2B.
+
+---
+
 ### 2025-09 — π₀.₅ Knowledge Insulating (Pi-0.5 KI) *(draft)*
 
 - **id:** `physical-intelligence-pi05-ki-2025`
@@ -477,4 +497,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*

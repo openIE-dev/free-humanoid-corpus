@@ -1,7 +1,7 @@
 ---
 title: "sensing-cortical-implant"
 parent: "Invalidity Contentions"
-nav_order: 135
+nav_order: 140
 layout: default
 ---
 
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*

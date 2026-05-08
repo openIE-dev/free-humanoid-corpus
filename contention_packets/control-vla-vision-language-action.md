@@ -1,7 +1,7 @@
 ---
 title: "control-vla-vision-language-action"
 parent: "Invalidity Contentions"
-nav_order: 89
+nav_order: 94
 layout: default
 ---
 
@@ -1954,4 +1954,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*

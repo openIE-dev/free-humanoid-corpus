@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-foundation-model-policy`
 
-**19 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2021-06
 
@@ -167,6 +167,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Black, K., et al. 'π₀.₅: a Vision-Language-Action Model with Open-World Generalization'. arXiv:2504.16054, April 2025. CoRL 2025 (PMLR vol. 305 pp. 17-40, Black25a). Physical Intelligence.
 - **ip status**: open-permissive
 - **prior art notes**: π₀.₅ is Physical Intelligence's open-world VLA (CoRL 2025 oral). 1-year-deep prior art on: open-world (new-home) zero-shot mobile manipulation, co-training across multi-robot + web + semantic subtask data, long-horizon (10+ minute) household task autonomy. **The most direct prior art for any commercial humanoid claim on 'works in any home out-of-the-box'** — Tesla Optimus, Figure, 1X NEO, Apptronik all market this generalization claim and now face 1-year-deep open-academic anticipation. Lineage: RT-1 → RT-2 → OpenVLA → π₀ → π₀.₅.
+
+## NVIDIA Cosmos-Reason 2-2B (2025-04)
+
+- **id**: `cosmos-reason-2-nvidia-2025`
+- **corpus**: academic
+- **creator**: NVIDIA Research
+- **disclosure**: NVIDIA. 'Cosmos-Reason2: Reasoning About Physical AI'. arXiv preprint. April 2025. NVIDIA Research. Variant of the Cosmos World Foundation Model (round-17 entry nvidia-cosmos-2025). **The System-2 backbone of GR00T N1.7** (round-15 entry successor).
+- **ip status**: open-permissive
+- **prior art notes**: Cosmos-Reason2-2B (NVIDIA April 2025) is the System-2 backbone of GR00T N1.7. 7-month-deep open-permissive prior art. Direct extension of NVIDIA Cosmos (round-17) for embodied reasoning. Together with the GR00T N1 family, establishes NVIDIA's full S1+S2 dual-system humanoid VLA stack.
 
 ## π₀.₅ Knowledge Insulating (Pi-0.5 KI) (2025-09)
 

@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-3d-reconstruction`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2023-12  
-**Most recent disclosure:** 2024-06
+**Most recent disclosure:** 2025-03
 
 ---
 
@@ -81,6 +81,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-03 — VGGT (Visual Geometry Grounded Transformer)
+
+- **id:** `vggt-wang-cvpr-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Visual Geometry Group, University of Oxford + Meta AI; Jianyuan Wang, Andrea Vedaldi et al.
+- **disclosure citation:** Wang, J., Chen, M., Karaev, N., Vedaldi, A., Rupprecht, C., Novotny, D. 'VGGT: Visual Geometry Grounded Transformer'. CVPR 2025 Best Paper. arXiv:2503.11651. Visual Geometry Group, University of Oxford + Meta AI.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-3d-reconstruction`, `control-pose-free-reconstruction`
+
+**Prior art notes:**
+
+> VGGT (Wang et al. Oxford VGG + Meta CVPR 2025 Best Paper) is the canonical 2025 foundation transformer for 3D vision. 6-month-deep open-permissive prior art. **CVPR 2025 Best Paper**. Direct successor to DUSt3R (round-28) and the calibration-free reconstruction chain (DUSt3R → MASt3R → MegaSaM → ViPE → RADIO-ViPE → VGGT). Direct shielding for any commercial humanoid claim on foundation-model-based 3D vision.
+
+**Sources:**
+
+1. Wang et al. arXiv:2503.11651 CVPR 2025 Best Paper.
+2. GitHub: github.com/facebookresearch/vggt.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -111,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*

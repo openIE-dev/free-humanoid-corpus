@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model"
 parent: "Invalidity Contentions"
-nav_order: 35
+nav_order: 36
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 11 (9 commons-grade, 2 draft)  
 **Earliest disclosure:** 1997-11  
-**Most recent disclosure:** 2023-07
+**Most recent disclosure:** 2025-06
 
 ---
 
@@ -59,6 +59,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2013-01 — Word2Vec
+
+- **id:** `word2vec-mikolov-2013`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Google Research; Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
+- **disclosure citation:** Mikolov, T., Chen, K., Corrado, G., Dean, J. 'Efficient Estimation of Word Representations in Vector Space'. ICLR 2013 Workshop. arXiv:1301.3781. Subsequent: Mikolov et al. 'Distributed Representations of Words and Phrases and their Compositionality' NeurIPS 2013. Google Research.
+- **disclosed subsystems:** `control-foundation-model`, `control-word-embedding`
+
+**Prior art notes:**
+
+> Word2Vec (Mikolov et al. Google 2013) is the foundational neural word-embedding paper. 12-year-deep public-domain prior art. The architectural ancestor of every modern language-model embedding underlying CLIP / SigLIP / language inputs to VLA. Direct shielding for any commercial humanoid claim using language-model embeddings.
+
+**Sources:**
+
+1. Mikolov et al. arXiv:1301.3781 ICLR 2013 Workshop.
+2. Mikolov et al. NeurIPS 2013.
+
+---
+
 ### 2017-06 — Transformer (Attention Is All You Need)
 
 - **id:** `transformer-vaswani-neurips-2017`
@@ -75,6 +95,44 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Vaswani et al. arXiv:1706.03762 NeurIPS 2017.
+
+---
+
+### 2018-10 — BERT (Bidirectional Encoder Representations from Transformers)
+
+- **id:** `bert-devlin-google-2018`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Google Research; Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
+- **disclosure citation:** Devlin, J., Chang, M.-W., Lee, K., Toutanova, K. 'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding'. NAACL 2019 Best Paper. arXiv:1810.04805. Google Research.
+- **disclosed subsystems:** `control-foundation-model`, `control-language-model`, `control-self-supervised-language`
+
+**Prior art notes:**
+
+> BERT (Devlin et al. Google NAACL 2019) is the foundational bidirectional language model. 7-year-deep public-domain prior art. >90,000 citations. The architectural ancestor of every encoder-style language model + the predecessor of the masked-modeling regime that MAE (round-30) extended to vision.
+
+**Sources:**
+
+1. Devlin et al. arXiv:1810.04805 NAACL 2019.
+
+---
+
+### 2020-05 — GPT-3 (Brown et al. OpenAI 2020)
+
+- **id:** `gpt-3-brown-openai-neurips-2020`
+- **corpus:** academic
+- **ip status:** trade-secret
+- **creator:** OpenAI; Tom Brown + 30+ co-authors
+- **disclosure citation:** Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., et al. 'Language Models are Few-Shot Learners'. NeurIPS 2020 Best Paper. arXiv:2005.14165. OpenAI.
+- **disclosed subsystems:** `control-foundation-model`, `control-language-model`, `control-in-context-learning`
+
+**Prior art notes:**
+
+> GPT-3 (Brown et al. OpenAI NeurIPS 2020) is the foundational large-scale language model. 5-year-deep public-disclosure prior art. The architectural ancestor of every commercial LLM and every VLA's language backbone. Direct shielding for any commercial humanoid claim using LLM-grounded instruction following.
+
+**Sources:**
+
+1. Brown et al. arXiv:2005.14165 NeurIPS 2020.
 
 ---
 
@@ -98,6 +156,45 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-07 — AlphaFold 2
+
+- **id:** `alphafold2-jumper-deepmind-2021`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** DeepMind; John Jumper, Demis Hassabis et al.
+- **disclosure citation:** Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., et al. 'Highly accurate protein structure prediction with AlphaFold'. Nature 596 2021. DeepMind. CASP14 winner. Nobel Prize in Chemistry 2024 (Hassabis + Jumper).
+- **disclosed subsystems:** `control-foundation-model`, `control-scientific-ml`
+
+**Prior art notes:**
+
+> AlphaFold 2 (Jumper + Hassabis et al. DeepMind Nature 2021) is the foundational scientific ML milestone. 4-year-deep open-permissive prior art. Nobel Prize in Chemistry 2024. Often cited in humanoid robotics as the proof point that deep learning can solve previously-intractable scientific problems — the AI lab aspiration for embodied physical-AI.
+
+**Sources:**
+
+1. Jumper et al. Nature 596 2021.
+2. AlphaFold DB (alphafold.ebi.ac.uk).
+
+---
+
+### 2022-04 — Flamingo (DeepMind multimodal VLM)
+
+- **id:** `flamingo-alayrac-deepmind-2022`
+- **corpus:** academic
+- **ip status:** trade-secret
+- **creator:** DeepMind; Jean-Baptiste Alayrac, Karen Simonyan et al.
+- **disclosure citation:** Alayrac, J.-B., Donahue, J., Luc, P., Miech, A., Barr, I., Hasson, Y., Lenc, K., Mensch, A., Millican, K., Reynolds, M., Ring, R., Rutherford, E., Cabi, S., Han, T., Gong, Z., Samangouei, S., Monteiro, M., Menick, J., Borgeaud, S., Brock, A., Nematzadeh, A., Sharifzadeh, S., Binkowski, M., Barreira, R., Vinyals, O., Zisserman, A., Simonyan, K. 'Flamingo: a Visual Language Model for Few-Shot Learning'. NeurIPS 2022. arXiv:2204.14198. DeepMind.
+- **disclosed subsystems:** `control-foundation-model`, `control-vision-language`
+
+**Prior art notes:**
+
+> Flamingo (Alayrac et al. DeepMind NeurIPS 2022) is the foundational multimodal VLM. 3-year-deep public-disclosure prior art. The architectural ancestor of OpenFlamingo + RoboFlamingo (round-29) and the multimodal-VLM lineage that underlies many modern VLAs.
+
+**Sources:**
+
+1. Alayrac et al. arXiv:2204.14198 NeurIPS 2022.
+
+---
+
 ### 2023-07 — LLaMA 2
 
 - **id:** `meta-llama-2-2023`
@@ -115,6 +212,47 @@ cite, copy, or redistribute these contentions.
 
 1. Touvron et al. arXiv:2307.09288 July 2023.
 2. Meta AI Llama project (llama.meta.com).
+
+---
+
+### 2024-10 — Anthropic Claude robotics applications *(draft)*
+
+- **id:** `anthropic-claude-robotics-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Anthropic
+- **disclosure citation:** Anthropic. Claude 3.5 Sonnet 'Computer Use' API October 2024 + Claude tool-use applied to robotic platforms via third-party demonstrations 2024-2025. anthropic.com. **Indirect VLA**: Claude is not a robot-specific VLA but is increasingly used as the language reasoning backbone for high-level planning that downstream policies execute (RoboCat-style hierarchical decomposition).
+- **disclosed subsystems:** `control-foundation-model`, `control-language-model`, `control-tool-use`
+
+**Prior art notes:**
+
+> Anthropic Claude robotics applications (Oct 2024+) — speculative prior art for tool-use language model + downstream robotic integration. Direct shielding is limited (this is not a robot-specific VLA), but the tool-use abstraction is referenced in modern hierarchical-VLA architectures (SayCan-style).
+
+**Sources:**
+
+1. Anthropic Claude 3.5 Sonnet 'Computer Use' announcement (anthropic.com/news/3-5-models-and-computer-use, October 2024).
+
+---
+
+### 2025-06 — Apple Intelligence + Apple Robotics research (2025) *(draft)*
+
+- **id:** `apple-vla-research-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Apple Inc.
+- **disclosure citation:** Apple Inc. Apple Intelligence stack (announced June 2024 WWDC); Apple Vision Pro hardware (released February 2024) increasingly deployed as teleop interface for academic humanoid robots (Open-TeleVision round-16); Apple Machine Learning Research publishing robotics-adjacent work 2024-2025.
+- **disclosed subsystems:** `control-foundation-model`, `control-vr-headset-teleoperation`
+
+**Prior art notes:**
+
+> Apple's emerging robotics research (2024-2025) is documented primarily through hardware deployment (Apple Vision Pro in Open-TeleVision round-16) and Apple Machine Learning Research publications. Specific internal Apple robotics products are not publicly disclosed. The existence of Apple-platform academic deployments establishes prior-art shielding against any commercial humanoid claim that integrates Apple Vision Pro / Apple Intelligence as a teleop or perception interface.
+
+**Sources:**
+
+1. Apple Vision Pro product launch documentation Feb 2024.
+2. Apple Intelligence WWDC 2024 announcement.
+3. Apple Machine Learning Research (machinelearning.apple.com).
+4. Open-TeleVision (round-16 corpus entry) deploys on Apple Vision Pro.
 
 ---
 
@@ -148,4 +286,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4440aa4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*

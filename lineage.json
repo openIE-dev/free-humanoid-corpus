@@ -2675,6 +2675,14 @@
       "descendants": []
     },
     {
+      "id": "word2vec-mikolov-2013",
+      "name": "Word2Vec",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "black-mirror-be-right-back-2013",
       "name": "Black Mirror 'Be Right Back' bio-printed companion humanoid",
       "year": "2013",
@@ -2855,6 +2863,14 @@
       "descendants": []
     },
     {
+      "id": "dropout-srivastava-jmlr-2014",
+      "name": "Dropout regularization",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "gan-goodfellow-nips-2014",
       "name": "Generative Adversarial Networks (GAN)",
       "year": "2014",
@@ -2957,6 +2973,14 @@
       "name": "Talos Principle Robots",
       "year": "2014",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "batchnorm-ioffe-szegedy-icml-2015",
+      "name": "Batch Normalization",
+      "year": "2015",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -3115,6 +3139,16 @@
       "ancestors": [],
       "descendants": [
         "anymal-d-eth-rsl-2022"
+      ]
+    },
+    {
+      "id": "alphago-silver-deepmind-2016",
+      "name": "AlphaGo / AlphaZero",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "deepmind-humanoid-soccer-haarnoja-2024"
       ]
     },
     {
@@ -3278,9 +3312,12 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "bert-devlin-google-2018",
         "decision-transformer-chen-2021",
+        "gpt-3-brown-openai-neurips-2020",
         "meta-vc-1-majumdar-2023",
         "roboflamingo-baai-tsinghua-2024",
+        "vggt-wang-cvpr-2025",
         "vit-dosovitskiy-iclr-2021"
       ]
     },
@@ -3572,6 +3609,16 @@
       "descendants": []
     },
     {
+      "id": "bert-devlin-google-2018",
+      "name": "BERT (Bidirectional Encoder Representations from Transformers)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "transformer-vaswani-neurips-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "stanford-jr2-2018",
       "name": "Stanford JackRabbot 2 (JR-2) wheeled-arm research robot",
       "year": "2018",
@@ -3823,6 +3870,16 @@
       "descendants": []
     },
     {
+      "id": "gpt-3-brown-openai-neurips-2020",
+      "name": "GPT-3 (Brown et al. OpenAI 2020)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [
+        "transformer-vaswani-neurips-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "mastalli-crocoddyl-2020",
       "name": "Crocoddyl",
       "year": "2020",
@@ -3986,6 +4043,14 @@
         "unitree-go2-2023",
         "unitree-h1"
       ]
+    },
+    {
+      "id": "alphafold2-jumper-deepmind-2021",
+      "name": "AlphaFold 2",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "fcstar-zarrouk-2021",
@@ -4169,6 +4234,16 @@
         "exbody-stanford-2024",
         "humanplus-stanford-2024",
         "maskedmimic-tessler-stanford-2024"
+      ]
+    },
+    {
+      "id": "flamingo-alayrac-deepmind-2022",
+      "name": "Flamingo (DeepMind multimodal VLM)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "roboflamingo-baai-tsinghua-2024"
       ]
     },
     {
@@ -4701,6 +4776,7 @@
       "year": "2023",
       "corpus": "academic",
       "ancestors": [
+        "flamingo-alayrac-deepmind-2022",
         "transformer-vaswani-neurips-2017"
       ],
       "descendants": []
@@ -4715,7 +4791,8 @@
         "mast3r-naver-2024",
         "megasam-google-2024",
         "nvidia-vipe-2025",
-        "radio-vipe-itmo-2026"
+        "radio-vipe-itmo-2026",
+        "vggt-wang-cvpr-2025"
       ]
     },
     {
@@ -4859,6 +4936,14 @@
       "descendants": []
     },
     {
+      "id": "foundationpose-nvidia-cvpr-2024",
+      "name": "FoundationPose (NVIDIA)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "huggingface-lerobot-2024",
       "name": "LeRobot (HuggingFace)",
       "year": "2024",
@@ -4933,6 +5018,7 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [
+        "alphago-silver-deepmind-2016",
         "robotis-op3-2017"
       ],
       "descendants": []
@@ -4953,6 +5039,14 @@
       "ancestors": [
         "rt-x-collaboration-2023"
       ],
+      "descendants": []
+    },
+    {
+      "id": "roma-edstedt-cvpr-2024",
+      "name": "RoMa (Robust Dense Feature Matching)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -5186,6 +5280,14 @@
       "descendants": []
     },
     {
+      "id": "anthropic-claude-robotics-2025",
+      "name": "Anthropic Claude robotics applications",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "physical-intelligence-pi-zero",
       "name": "Physical Intelligence π0",
       "year": "2024",
@@ -5297,6 +5399,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "cosmos-reason-2-nvidia-2025",
         "nvidia-groot-n1-2025"
       ]
     },
@@ -5366,7 +5469,19 @@
       "year": "2025",
       "corpus": "academic",
       "ancestors": [
+        "cosmos-reason-2-nvidia-2025",
         "nvidia-cosmos-2025"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "vggt-wang-cvpr-2025",
+      "name": "VGGT (Visual Geometry Grounded Transformer)",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [
+        "dust3r-naver-cvpr-2024",
+        "transformer-vaswani-neurips-2017"
       ],
       "descendants": []
     },
@@ -5379,6 +5494,18 @@
         "berkeley-humanoid-2024"
       ],
       "descendants": []
+    },
+    {
+      "id": "cosmos-reason-2-nvidia-2025",
+      "name": "NVIDIA Cosmos-Reason 2-2B",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [
+        "nvidia-cosmos-2025"
+      ],
+      "descendants": [
+        "nvidia-groot-n1-2025"
+      ]
     },
     {
       "id": "physical-intelligence-pi05-2025",
@@ -5400,6 +5527,14 @@
       "ancestors": [
         "kerbl-3d-gaussian-splatting-siggraph-2023"
       ],
+      "descendants": []
+    },
+    {
+      "id": "apple-vla-research-2025",
+      "name": "Apple Intelligence + Apple Robotics research (2025)",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
