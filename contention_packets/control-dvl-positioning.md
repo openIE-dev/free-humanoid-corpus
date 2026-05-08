@@ -1,7 +1,7 @@
 ---
 title: "control-dvl-positioning"
 parent: "Invalidity Contentions"
-nav_order: 34
+nav_order: 35
 layout: default
 ---
 
@@ -238,4 +238,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*

@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-telescoping-mast`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2020-07
+Earliest disclosure: 2014-12
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Fetch & Freight (Fetch Robotics) (2014-12)
+
+- **id**: `fetch-freight-fetchrobotics-2014`
+- **corpus**: private
+- **creator**: Fetch Robotics (San Jose, CA); founded by Melonee Wise + ex-Willow Garage
+- **disclosure**: Fetch Robotics, Inc. (San Jose, CA). Fetch (mobile manipulator) + Freight (mobile base) commercial reveal December 2014. Founded by Melonee Wise + ex-Willow Garage team. fetchrobotics.com. Acquired by Zebra Technologies June 2021 ($290M).
+- **ip status**: trade-secret
+- **prior art notes**: Fetch & Freight (Fetch Robotics 2014+ → Zebra 2021+) is the canonical commercial mobile-manipulator + warehouse-logistics platform from the post-Willow-Garage diaspora. 11-year-deep public-disclosure prior art. Architectural sibling to Hello Robot Stretch (round-17) — both telescoping-mast mobile manipulators with educational + commercial deployments. Direct shielding for any commercial humanoid claim on telescoping-mast mobile-manipulator derivative applications.
 
 ## Hello Robot Stretch (2020-07)
 

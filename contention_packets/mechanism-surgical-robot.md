@@ -1,7 +1,7 @@
 ---
 title: "mechanism-surgical-robot"
 parent: "Invalidity Contentions"
-nav_order: 130
+nav_order: 133
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-surgical-robot`  
-**Entries:** 4 (3 commons-grade, 1 draft)  
+**Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-01  
-**Most recent disclosure:** 2012-07
+**Most recent disclosure:** 2017-08
 
 ---
 
@@ -102,6 +102,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2008-08 — Stryker Mako RIO orthopedic surgical robot
+
+- **id:** `mako-rio-stryker-2016`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Mako Surgical Corp. (Florida); acquired by Stryker Corporation 2013
+- **disclosure citation:** Mako Surgical Corp. RIO (Robotic Arm Interactive Orthopedic) system FDA cleared 2008 for partial knee replacement; total knee replacement clearance 2015; total hip replacement clearance 2010. Acquired by Stryker Corporation 2013 (~$1.65B). Subsequent: Mako 4 (2024).
+- **disclosed subsystems:** `mechanism-surgical-robot`, `control-haptic-constraint`, `control-co-manipulation`, `control-bone-registration`
+
+**Prior art notes:**
+
+> Stryker Mako RIO (Mako Surgical 2008+ → Stryker 2013+) is the dominant orthopedic surgical robot. 17-year-deep public-disclosure prior art. Successor in the orthopedic surgical robot lineage to ROBODOC (round-28 entry; Integrated Surgical Systems 1992). Distinct architectural branch from da Vinci master-slave teleop by use of haptic-constraint co-manipulation. ~3M procedures performed.
+
+**Sources:**
+
+1. Mako Surgical / Stryker corporate history.
+2. FDA 510(k) Mako RIO clearances.
+3. Stryker 10-K SEC filings (Mako product line disclosures).
+
+---
+
 ### 2012-07 — CorPath GRX (Corindus / Siemens Healthineers)
 
 - **id:** `corpath-grx-corindus-2014`
@@ -119,6 +140,26 @@ cite, copy, or redistribute these contentions.
 
 1. Corindus / Siemens Healthineers corporate history.
 2. FDA 510(k) CorPath 200 clearance 2012; CorPath GRX 2016.
+
+---
+
+### 2017-08 — Globus Medical ExcelsiusGPS spine surgical robot
+
+- **id:** `globus-excelsius-gps-spine-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Globus Medical Inc. (Audubon, PA, USA)
+- **disclosure citation:** Globus Medical Inc. ExcelsiusGPS spine surgical robotic system FDA cleared August 2017. Globus Medical Audubon, PA. Subsequent: Excelsius3D (2021), ExcelsiusFlex hip-knee (2024).
+- **disclosed subsystems:** `mechanism-surgical-robot`, `control-tubular-guide-positioning`, `control-pre-op-planning`, `control-intraoperative-ct-navigation`
+
+**Prior art notes:**
+
+> Globus Medical ExcelsiusGPS (Globus Medical 2017+) is the canonical first FDA-cleared spine surgical robot with integrated navigation. 8-year-deep public-disclosure prior art. Distinct architectural branch from da Vinci (laparoscopic master-slave) and Mako (orthopedic haptic-constraint) — spine surgery → tubular-guide class. Together with da Vinci + Vicarious + Memic + Mako + ROBODOC, brings surgical-robot architectural classes to 5 distinct categories in the corpus.
+
+**Sources:**
+
+1. Globus Medical corporate site (globusmedical.com).
+2. FDA 510(k) ExcelsiusGPS K171307 August 2017.
 
 ---
 
@@ -152,4 +193,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*

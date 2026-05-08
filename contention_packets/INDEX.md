@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-08  
-**Packets:** 169  
-**Corpus revision:** `b2db4c5`
+**Packets:** 172  
+**Corpus revision:** `f228137`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -30,7 +30,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-biological`](actuator-biological.md) | 13 | 12 | 1 | 1973-11-21 | 2020-01-23 |
 | [`actuator-bldc-controller`](actuator-bldc-controller.md) | 11 | 11 | 0 | 1929-07 | 2022 |
 | [`actuator-compliant`](actuator-compliant.md) | 3 | 3 | 0 | 1957-01 | 2017-04 |
-| [`actuator-electric`](actuator-electric.md) | 26 | 20 | 6 | 1956-01 | 2025-10 |
+| [`actuator-electric`](actuator-electric.md) | 27 | 21 | 6 | 1956-01 | 2025-10 |
 | [`actuator-electric-cycloidal`](actuator-electric-cycloidal.md) | 5 | 2 | 3 | 1937 | 2025-04 |
 | [`actuator-electric-direct-drive`](actuator-electric-direct-drive.md) | 69 | 51 | 18 | 1886 | 2024-11 |
 | [`actuator-electric-harmonic-drive`](actuator-electric-harmonic-drive.md) | 22 | 19 | 3 | 1986 | 2025-10 |
@@ -54,6 +54,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-benchmarking`](control-benchmarking.md) | 7 | 7 | 0 | 2018-01 | 2024-05 |
 | [`control-bilateral-teleop-haptic`](control-bilateral-teleop-haptic.md) | 4 | 4 | 0 | 2011-06 | 2022-10 |
 | [`control-bimanual-manipulation`](control-bimanual-manipulation.md) | 2 | 2 | 0 | 2024-10 | 2025-02 |
+| [`control-bone-registration`](control-bone-registration.md) | 2 | 2 | 0 | 1992-01 | 2008-08 |
 | [`control-bundle-adjustment`](control-bundle-adjustment.md) | 5 | 4 | 1 | 2021-04 | 2026-04 |
 | [`control-classification`](control-classification.md) | 2 | 2 | 0 | 1995-09 | 2001-10 |
 | [`control-cross-embodiment`](control-cross-embodiment.md) | 6 | 5 | 1 | 2023-10 | 2025-03 |
@@ -82,7 +83,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-long-horizon-manipulation`](control-long-horizon-manipulation.md) | 2 | 2 | 0 | 2021-12 | 2023-05 |
 | [`control-machine-learning`](control-machine-learning.md) | 2 | 2 | 0 | 1995-09 | 2001-10 |
 | [`control-master-slave-teleoperation`](control-master-slave-teleoperation.md) | 6 | 5 | 1 | 1989-01 | 2021-03 |
-| [`control-middleware`](control-middleware.md) | 3 | 3 | 0 | 2009-05 | 2017-12 |
+| [`control-middleware`](control-middleware.md) | 4 | 4 | 0 | 2009-05 | 2017-12 |
 | [`control-mining-autonomy`](control-mining-autonomy.md) | 2 | 0 | 2 | 2000-01 | 2000-01 |
 | [`control-mission-script`](control-mission-script.md) | 4 | 4 | 0 | 1989-01 | 2003-09 |
 | [`control-mode-switching`](control-mode-switching.md) | 8 | 4 | 4 | 2008-05 | 2026-01 |
@@ -106,12 +107,13 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-physics-simulation`](control-physics-simulation.md) | 10 | 9 | 1 | 2003-01 | 2024-06 |
 | [`control-policy-gradient`](control-policy-gradient.md) | 2 | 2 | 0 | 2015-02 | 2017-07 |
 | [`control-pose-free-reconstruction`](control-pose-free-reconstruction.md) | 2 | 2 | 0 | 2023-12 | 2025-03 |
+| [`control-pre-op-planning`](control-pre-op-planning.md) | 2 | 2 | 0 | 1992-01 | 2017-08 |
 | [`control-prosthetic-control`](control-prosthetic-control.md) | 2 | 2 | 0 | 2002-07 | 2009-12 |
 | [`control-publish-subscribe`](control-publish-subscribe.md) | 2 | 2 | 0 | 2009-05 | 2017-12 |
 | [`control-raibert-decomposition`](control-raibert-decomposition.md) | 2 | 1 | 1 | 1981-01 | 2005-12 |
 | [`control-reduced-order-model`](control-reduced-order-model.md) | 28 | 27 | 1 | 1979-04-07 | 2023-08 |
 | [`control-research-cluster`](control-research-cluster.md) | 39 | 3 | 36 | 2000-01 | 2018-09 |
-| [`control-rl-policy`](control-rl-policy.md) | 150 | 122 | 28 | 1818 | 2026-04 |
+| [`control-rl-policy`](control-rl-policy.md) | 151 | 123 | 28 | 1818 | 2026-04 |
 | [`control-rough-terrain-locomotion`](control-rough-terrain-locomotion.md) | 5 | 5 | 0 | 2005-12 | 2024-09 |
 | [`control-self-play`](control-self-play.md) | 2 | 2 | 0 | 2016-01 | 2024-04 |
 | [`control-self-supervised-vision`](control-self-supervised-vision.md) | 3 | 3 | 0 | 2021-11 | 2023-04 |
@@ -135,7 +137,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 25 | 24 | 1 | 1969 | 2023-08 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |
 | [`mechanism-3d-printed-platform`](mechanism-3d-printed-platform.md) | 3 | 3 | 0 | 2025-02 | 2026-01 |
-| [`mechanism-aerial-thruster`](mechanism-aerial-thruster.md) | 2 | 0 | 2 | 2019-05 | 2021-07 |
+| [`mechanism-aerial-thruster`](mechanism-aerial-thruster.md) | 4 | 2 | 2 | 2010-01 | 2021-07 |
 | [`mechanism-antagonistic-tendon`](mechanism-antagonistic-tendon.md) | 2 | 2 | 0 | 2024-06 | 2025-10 |
 | [`mechanism-anthropomorphic-arm`](mechanism-anthropomorphic-arm.md) | 20 | 15 | 5 | 1998-01 | 2025-02 |
 | [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 132 | 108 | 24 | 1495 | 2026-04 |
@@ -146,19 +148,20 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-dynamic-legged-locomotion`](mechanism-dynamic-legged-locomotion.md) | 2 | 1 | 1 | 1981-01 | 2005-12 |
 | [`mechanism-exoskeleton`](mechanism-exoskeleton.md) | 6 | 4 | 2 | 2000-01 | 2018-09 |
 | [`mechanism-hydraulic-actuator`](mechanism-hydraulic-actuator.md) | 3 | 3 | 0 | 2004-03 | 2012-09 |
-| [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 20 | 18 | 2 | 1956-01 | 2022-07 |
-| [`mechanism-mobile-base`](mechanism-mobile-base.md) | 9 | 4 | 5 | 2000-01 | 2024-09 |
+| [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 22 | 20 | 2 | 1956-01 | 2022-07 |
+| [`mechanism-mobile-base`](mechanism-mobile-base.md) | 11 | 6 | 5 | 2000-01 | 2024-09 |
 | [`mechanism-parallel-kinematic-haptic`](mechanism-parallel-kinematic-haptic.md) | 2 | 2 | 0 | 1994-09 | 2011-06 |
 | [`mechanism-passive-dynamic-walking`](mechanism-passive-dynamic-walking.md) | 5 | 4 | 1 | 1990 | 2017 |
 | [`mechanism-pitch-roll-trim`](mechanism-pitch-roll-trim.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
 | [`mechanism-pressure-hull`](mechanism-pressure-hull.md) | 7 | 6 | 1 | 1964-06 | 2018-04 |
+| [`mechanism-quadcopter`](mechanism-quadcopter.md) | 3 | 3 | 0 | 2010-01 | 2018-02 |
 | [`mechanism-quadrupedal-locomotion`](mechanism-quadrupedal-locomotion.md) | 24 | 20 | 4 | 1968-09-27 | 2024-09 |
 | [`mechanism-reconfigurable`](mechanism-reconfigurable.md) | 6 | 2 | 4 | 2018-05 | 2026-01 |
 | [`mechanism-soft-robotics`](mechanism-soft-robotics.md) | 3 | 1 | 2 | 2000-01 | 2014-09 |
 | [`mechanism-sprawl-tunable`](mechanism-sprawl-tunable.md) | 6 | 3 | 3 | 2013-05 | 2026-01 |
-| [`mechanism-surgical-robot`](mechanism-surgical-robot.md) | 4 | 3 | 1 | 1989-01 | 2012-07 |
+| [`mechanism-surgical-robot`](mechanism-surgical-robot.md) | 6 | 5 | 1 | 1989-01 | 2017-08 |
 | [`mechanism-syntactic-foam-ballast`](mechanism-syntactic-foam-ballast.md) | 2 | 2 | 0 | 1964-06 | 2008-05 |
-| [`mechanism-telescoping-mast`](mechanism-telescoping-mast.md) | 3 | 2 | 1 | 2020-07 | 2024-09 |
+| [`mechanism-telescoping-mast`](mechanism-telescoping-mast.md) | 4 | 3 | 1 | 2014-12 | 2024-09 |
 | [`mechanism-tendon-driven`](mechanism-tendon-driven.md) | 5 | 4 | 1 | 1988-01 | 2025-10 |
 | [`mechanism-tendon-routing`](mechanism-tendon-routing.md) | 15 | 12 | 3 | 1495 | 2024 |
 | [`mechanism-thruster-axial`](mechanism-thruster-axial.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |

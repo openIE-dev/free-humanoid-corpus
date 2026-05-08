@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**26 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -131,6 +131,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: NAVER LABS Corp. (Seongnam, South Korea; AI research arm of Naver Corporation). AMBIDEX humanoid arm reveal April 2018 at ICRA 2018 demo + naverlabs.com. Subsequent academic publications: 'Cable-driven anthropomorphic robot arm' related papers from the Korea Institute of Science and Technology / KAIST collaborations.
 - **ip status**: trade-secret
 - **prior art notes**: NAVER LABS AMBIDEX is the canonical Korean academic-commercial cable-driven anthropomorphic arm (NAVER LABS, 2018+). 7-year-deep public-disclosure prior art for: dual-wire-driven 7-DoF manipulator with proximal motor concentration, low-distal-inertia commercial collaborative robot arm. Distinct architectural branch from harmonic-drive arms (Honda P-series, DLR Hand-Arm) and quasi-direct-drive arms (Berkeley Humanoid, ToddlerBot). Direct shielding for any commercial humanoid claim on cable-driven transmission for arms. Particularly relevant for free-humanoid-platform's wrist + hand subsystem (which is tendon-driven) — AMBIDEX establishes that whole-arm tendon transmission is well-anticipated commercial Korean practice.
+
+## Robotis OpenManipulator (2018-04)
+
+- **id**: `robotis-openmanipulator-2018`
+- **corpus**: private
+- **creator**: Robotis Co., Ltd. (Seoul, South Korea)
+- **disclosure**: Robotis Co., Ltd. (Seoul, South Korea). OpenMANIPULATOR-X commercial reveal April 2018 via robotis.com. Open-hardware design; CAD files + control firmware open-source under MIT license.
+- **ip status**: open-permissive
+- **prior art notes**: Robotis OpenMANIPULATOR (Robotis 2018+) is the canonical Korean open-hardware educational manipulator. 7-year-deep open-permissive prior art. The educational-manipulator counterpart to TurtleBot (round-35) and DARwIn-OP (corpus round-19 robotis-op3-2017 entry). Together with TurtleBot, establishes the Korean open-educational-robotics ecosystem.
 
 ## Sarcos Guardian XO (2018-09)
 

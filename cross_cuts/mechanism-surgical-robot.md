@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-surgical-robot`
 
-**4 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989-01
 
@@ -42,6 +42,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Hansen Medical Sensei (FDA cleared August 2007) is the canonical robotic catheter system for cardiac electrophysiology. 18-year-deep public-disclosure prior art. Distinct architectural branch from Intuitive da Vinci by application + kinematics. The Hansen→Auris→J&J lineage is the major intravascular robotic-surgery commercial platform.
 
+## Stryker Mako RIO orthopedic surgical robot (2008-08)
+
+- **id**: `mako-rio-stryker-2016`
+- **corpus**: private
+- **creator**: Mako Surgical Corp. (Florida); acquired by Stryker Corporation 2013
+- **disclosure**: Mako Surgical Corp. RIO (Robotic Arm Interactive Orthopedic) system FDA cleared 2008 for partial knee replacement; total knee replacement clearance 2015; total hip replacement clearance 2010. Acquired by Stryker Corporation 2013 (~$1.65B). Subsequent: Mako 4 (2024).
+- **ip status**: trade-secret
+- **prior art notes**: Stryker Mako RIO (Mako Surgical 2008+ → Stryker 2013+) is the dominant orthopedic surgical robot. 17-year-deep public-disclosure prior art. Successor in the orthopedic surgical robot lineage to ROBODOC (round-28 entry; Integrated Surgical Systems 1992). Distinct architectural branch from da Vinci master-slave teleop by use of haptic-constraint co-manipulation. ~3M procedures performed.
+
 ## CorPath GRX (Corindus / Siemens Healthineers) (2012-07)
 
 - **id**: `corpath-grx-corindus-2014`
@@ -50,3 +59,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Corindus Vascular Robotics, Inc. CorPath 200 FDA cleared July 2012; CorPath GRX FDA cleared October 2016. Acquired by Siemens Healthineers 2019.
 - **ip status**: trade-secret
 - **prior art notes**: Corindus CorPath GRX (FDA 2012/2016, Siemens Healthineers 2019) is the canonical robotic-PCI commercial platform. 13-year-deep public-disclosure prior art. Together with Hansen Medical Sensei (round-33 entry above), establishes the intravascular surgical-robot prior-art chain.
+
+## Globus Medical ExcelsiusGPS spine surgical robot (2017-08)
+
+- **id**: `globus-excelsius-gps-spine-2017`
+- **corpus**: private
+- **creator**: Globus Medical Inc. (Audubon, PA, USA)
+- **disclosure**: Globus Medical Inc. ExcelsiusGPS spine surgical robotic system FDA cleared August 2017. Globus Medical Audubon, PA. Subsequent: Excelsius3D (2021), ExcelsiusFlex hip-knee (2024).
+- **ip status**: trade-secret
+- **prior art notes**: Globus Medical ExcelsiusGPS (Globus Medical 2017+) is the canonical first FDA-cleared spine surgical robot with integrated navigation. 8-year-deep public-disclosure prior art. Distinct architectural branch from da Vinci (laparoscopic master-slave) and Mako (orthopedic haptic-constraint) — spine surgery → tubular-guide class. Together with da Vinci + Vicarious + Memic + Mako + ROBODOC, brings surgical-robot architectural classes to 5 distinct categories in the corpus.

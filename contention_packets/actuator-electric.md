@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 26 (20 commons-grade, 6 draft)  
+**Entries:** 27 (21 commons-grade, 6 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2025-10
 
@@ -308,6 +308,26 @@ cite, copy, or redistribute these contentions.
 1. NAVER LABS corporate site (naverlabs.com).
 2. ICRA 2018 demonstration coverage.
 3. AMBIDEX product page (Naver internal).
+
+---
+
+### 2018-04 — Robotis OpenManipulator
+
+- **id:** `robotis-openmanipulator-2018`
+- **corpus:** private
+- **ip status:** open-permissive
+- **creator:** Robotis Co., Ltd. (Seoul, South Korea)
+- **disclosure citation:** Robotis Co., Ltd. (Seoul, South Korea). OpenMANIPULATOR-X commercial reveal April 2018 via robotis.com. Open-hardware design; CAD files + control firmware open-source under MIT license.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `actuator-electric`
+
+**Prior art notes:**
+
+> Robotis OpenMANIPULATOR (Robotis 2018+) is the canonical Korean open-hardware educational manipulator. 7-year-deep open-permissive prior art. The educational-manipulator counterpart to TurtleBot (round-35) and DARwIn-OP (corpus round-19 robotis-op3-2017 entry). Together with TurtleBot, establishes the Korean open-educational-robotics ecosystem.
+
+**Sources:**
+
+1. Robotis OpenMANIPULATOR product page (robotis.com).
+2. GitHub: github.com/ROBOTIS-GIT/open_manipulator.
 
 ---
 
@@ -610,4 +630,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*

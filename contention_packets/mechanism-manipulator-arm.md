@@ -1,7 +1,7 @@
 ---
 title: "mechanism-manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 120
+nav_order: 122
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-manipulator-arm`  
-**Entries:** 20 (18 commons-grade, 2 draft)  
+**Entries:** 22 (20 commons-grade, 2 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2022-07
 
@@ -312,6 +312,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-12 — Fetch & Freight (Fetch Robotics)
+
+- **id:** `fetch-freight-fetchrobotics-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Fetch Robotics (San Jose, CA); founded by Melonee Wise + ex-Willow Garage
+- **disclosure citation:** Fetch Robotics, Inc. (San Jose, CA). Fetch (mobile manipulator) + Freight (mobile base) commercial reveal December 2014. Founded by Melonee Wise + ex-Willow Garage team. fetchrobotics.com. Acquired by Zebra Technologies June 2021 ($290M).
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-manipulator-arm`, `mechanism-telescoping-mast`
+
+**Prior art notes:**
+
+> Fetch & Freight (Fetch Robotics 2014+ → Zebra 2021+) is the canonical commercial mobile-manipulator + warehouse-logistics platform from the post-Willow-Garage diaspora. 11-year-deep public-disclosure prior art. Architectural sibling to Hello Robot Stretch (round-17) — both telescoping-mast mobile manipulators with educational + commercial deployments. Direct shielding for any commercial humanoid claim on telescoping-mast mobile-manipulator derivative applications.
+
+**Sources:**
+
+1. Fetch Robotics corporate site (fetchrobotics.com — historical).
+2. Zebra Technologies acquisition announcement June 2021.
+
+---
+
 ### 2016-04 — OceanOne
 
 - **id:** `oceanone-stanford-2016`
@@ -372,6 +392,26 @@ cite, copy, or redistribute these contentions.
 2. Houston Mechatronics April 2018 press release (archived).
 3. IEEE Spectrum, 'This Underwater Robot Transforms Into a Submarine That Can Stretch Out to Use Both Arms', April 2018.
 4. Nauticus Robotics corporate website (nauticusrobotics.com), Aquanaut product page.
+
+---
+
+### 2018-04 — Robotis OpenManipulator
+
+- **id:** `robotis-openmanipulator-2018`
+- **corpus:** private
+- **ip status:** open-permissive
+- **creator:** Robotis Co., Ltd. (Seoul, South Korea)
+- **disclosure citation:** Robotis Co., Ltd. (Seoul, South Korea). OpenMANIPULATOR-X commercial reveal April 2018 via robotis.com. Open-hardware design; CAD files + control firmware open-source under MIT license.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `actuator-electric`
+
+**Prior art notes:**
+
+> Robotis OpenMANIPULATOR (Robotis 2018+) is the canonical Korean open-hardware educational manipulator. 7-year-deep open-permissive prior art. The educational-manipulator counterpart to TurtleBot (round-35) and DARwIn-OP (corpus round-19 robotis-op3-2017 entry). Together with TurtleBot, establishes the Korean open-educational-robotics ecosystem.
+
+**Sources:**
+
+1. Robotis OpenMANIPULATOR product page (robotis.com).
+2. GitHub: github.com/ROBOTIS-GIT/open_manipulator.
 
 ---
 
@@ -487,4 +527,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*

@@ -1,7 +1,7 @@
 ---
 title: "control-self-supervised-vision"
 parent: "Invalidity Contentions"
-nav_order: 88
+nav_order: 90
 layout: default
 ---
 
@@ -130,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*

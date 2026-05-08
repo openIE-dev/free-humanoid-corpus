@@ -1,7 +1,7 @@
 ---
 title: "mechanism-aerial-thruster"
 parent: "Invalidity Contentions"
-nav_order: 109
+nav_order: 111
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-aerial-thruster`  
-**Entries:** 2 (0 commons-grade, 2 draft)  
-**Earliest disclosure:** 2019-05  
+**Entries:** 4 (2 commons-grade, 2 draft)  
+**Earliest disclosure:** 2010-01  
 **Most recent disclosure:** 2021-07
 
 ---
@@ -39,6 +39,46 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2010-01 — Parrot AR.Drone
+
+- **id:** `parrot-ar-drone-2010`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Parrot SA (Paris, France)
+- **disclosure citation:** Parrot SA (Paris, France). AR.Drone reveal CES 2010 + commercial release August 2010. AR.Drone 2.0 (2012); Bebop (2014). The first commercial WiFi-controllable consumer quadcopter with open developer SDK.
+- **disclosed subsystems:** `mechanism-quadcopter`, `mechanism-aerial-thruster`
+
+**Prior art notes:**
+
+> Parrot AR.Drone (Parrot Paris 2010+) is the foundational commercial WiFi-controllable consumer quadcopter. 15-year-deep public-disclosure prior art. **Predates DJI Phantom (2013, round-35 entry) by 3 years**. Open developer SDK drove early academic robotics research. Together with Crazyflie (corpus) + DJI Phantom (round-35) + Skydio R1 (round-35), establishes the consumer-drone prior-art chain.
+
+**Sources:**
+
+1. Parrot AR.Drone CES 2010 announcement.
+2. Wikipedia 'Parrot AR.Drone'.
+
+---
+
+### 2013-01 — DJI Phantom + Mavic consumer drone lineage
+
+- **id:** `dji-phantom-2013`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** DJI (Da-Jiang Innovations, Shenzhen, China)
+- **disclosure citation:** DJI (Da-Jiang Innovations Science and Technology Co., Shenzhen, China; founded 2006). Phantom 1 reveal January 2013. Subsequent Phantom 2/3/4, Mavic Pro/Air/Mini lineage. dji.com. **The dominant commercial consumer drone manufacturer worldwide** (~70%+ market share).
+- **disclosed subsystems:** `mechanism-aerial-thruster`, `mechanism-quadcopter`, `control-flight-controller`
+
+**Prior art notes:**
+
+> DJI Phantom + Mavic (DJI Shenzhen 2013+) is the canonical dominant consumer drone lineage. 12-year-deep public-disclosure prior art with ~70%+ market share. **Architecturally adjacent to humanoid robotics** via the LEONARDO (corpus caltech-leonardo-2021) bipedal-aerial hybrid + FSTAR/FCSTAR (corpus round-14) wheel-leg-aerial hybrid lineage — both inherit propeller + IMU + flight-controller stacks from the consumer-drone industry.
+
+**Sources:**
+
+1. DJI corporate site (dji.com).
+2. Wikipedia 'DJI'.
+
+---
 
 ### 2019-05 — FSTAR (Flying STAR) *(draft)*
 
@@ -111,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*

@@ -1,6 +1,6 @@
 # Corpus Index
 
-593 entries total. Generated from corpus.jsonl.
+601 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | DIGIT 360 (Meta) | `meta-digit-360-2024` | 2024 | academic | open-permissive | ✓ |
 | Diligent Moxi | `diligent-moxi` | 2019 | private | patented |  |
 | DINOv2 | `dinov2-oquab-2023` | 2023 | academic | open-permissive |  |
+| DJI Phantom + Mavic consumer drone lineage | `dji-phantom-2013` | 2013 | private | trade-secret |  |
 | DLR Hand-Arm System | `dlr-hand-arm-system-2011` | 2011 | academic | public-domain |  |
 | DLR Hand-II | `dlr-hand-ii` | 2004 | academic | open-permissive |  |
 | DLR Justin (Rollin' Justin) | `dlr-justin` | 2009 | academic | open-permissive |  |
@@ -187,6 +188,7 @@
 | Featherstone Robot Dynamics Algorithms | `featherstone-rdf` | 1987 | academic | public-domain |  |
 | Ferrari-Canny Grasp Quality Metrics | `ferrari-canny-grasp-quality` | 1992 | academic | public-domain |  |
 | Festo BionicSoftArm | `festo-bionic-soft-arm-2017` | 2017 | private | trade-secret |  |
+| Fetch & Freight (Fetch Robotics) | `fetch-freight-fetchrobotics-2014` | 2014 | private | trade-secret |  |
 | Figure 01 | `figure-01` | 2023 | private | patented | ✓ |
 | Figure 02 | `figure-02` | 2024 | private | patented | ✓ |
 | Figure Helix | `figure-helix-2025` | 2025 | private | trade-secret |  |
@@ -214,6 +216,7 @@
 | Genos (One Punch Man) | `opm-genos` | 2009 | fictional | fictional |  |
 | Geth | `geth-mass-effect` | 2007 | fictional | fictional |  |
 | Ghost Robotics Vision 60 | `ghost-robotics-vision-60` | 2018 | private | patented |  |
+| Globus Medical ExcelsiusGPS spine surgical robot | `globus-excelsius-gps-spine-2017` | 2017 | private | trade-secret |  |
 | Google DeepMind Gemini Robotics 1.5 | `google-gemini-robotics-1-5-2025` | 2025 | private | trade-secret | ✓ |
 | Goswami Foot Rotation Indicator | `goswami-fri` | 1999 | academic | public-domain |  |
 | GPT-3 (Brown et al. OpenAI 2020) | `gpt-3-brown-openai-neurips-2020` | 2020 | academic | trade-secret |  |
@@ -393,6 +396,7 @@
 | PAL TALOS | `pal-talos` | 2017 | private | patented |  |
 | PaLM-E (Embodied Multimodal Language Model) | `palm-e` | 2023 | academic | open-permissive |  |
 | Park's Transformation (dq0 transformation) | `park-transformation-1929` | 1929 | academic | public-domain |  |
+| Parrot AR.Drone | `parrot-ar-drone-2010` | 2010 | private | trade-secret |  |
 | Pepper | `pepper-softbank` | 2014 | private | patented |  |
 | Perceptive ANYmal locomotion (Miki Science Robotics 2022) | `miki-perceptive-anymal-science-2022` | 2022 | academic | open-permissive |  |
 | Persona AI Mentee | `persona-ai-mentee` | 2024 | private | trade-secret | ✓ |
@@ -447,6 +451,7 @@
 | Robot (Robot & Frank) | `robot-and-frank` | 2012 | fictional | fictional |  |
 | Robot Era STAR1 | `robot-era-star1` | 2024 | private | patented | ✓ |
 | Robotis OP3 | `robotis-op3-2017` | 2017 | private | trade-secret |  |
+| Robotis OpenManipulator | `robotis-openmanipulator-2018` | 2018 | private | open-permissive |  |
 | Robotman (Robert Crane) | `dc-robotman-1942` | 1942 | fictional | fictional |  |
 | RoDyn-SLAM | `rodyn-slam-jiang-2024` | 2024 | academic | open-permissive |  |
 | Roetenberg Inertial Motion Capture (Xsens MVN) | `roetenberg-xsens-imu` | 2009 | academic | open-permissive |  |
@@ -494,6 +499,7 @@
 | Skild AI foundation model | `skild-foundation-model` | 2024 | private | trade-secret | ✓ |
 | Skolkovo Institute of Science and Technology (Skoltech) robotics | `skoltech-russia-academic` | 2011 | academic | open-permissive | ✓ |
 | Skybot F-850 / FEDOR | `skybot-fedor-russia-2019` | 2014 | private | trade-secret |  |
+| Skydio R1 / Skydio 2 autonomous drone | `skydio-r1-2018` | 2018 | private | trade-secret |  |
 | Slocum Glider | `slocum-glider-auv` | 1989 | academic | open-permissive |  |
 | Smith (Atlas 2024) | `atlas-2024-film` | 2024 | fictional | fictional |  |
 | Soft Actor-Critic (SAC) | `soft-actor-critic-haarnoja-2018` | 2018 | academic | public-domain |  |
@@ -506,6 +512,7 @@
 | Steins;Gate 0 Amadeus AI consciousness backup | `steins-gate-amadeus-2015` | 2015 | fictional | public-domain |  |
 | Stewart platform / Gough-Stewart parallel mechanism | `stewart-platform-gough-1965` | 1965 | academic | public-domain |  |
 | Stonefish underwater robotics simulator | `stonefish-sim-2018` | 2018 | open | open-permissive |  |
+| Stryker Mako RIO orthopedic surgical robot | `mako-rio-stryker-2016` | 2008 | private | trade-secret |  |
 | Sumitomo CYCLO Speed Reducer | `sumitomo-cyclo` | 1937 | academic | public-domain |  |
 | Support Vector Machines (SVM) | `svm-cortes-vapnik-1995` | 1995 | academic | public-domain |  |
 | Surena humanoid (Tehran University) | `surena-tehran-university-2008` | 2008 | academic | public-domain |  |
@@ -542,6 +549,7 @@
 | Tsinghua University China robotics | `tsinghua-china-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | TSTAR (Tail STAR) | `tstar-zarrouk-2018` | 2018 | academic | open-permissive | ✓ |
 | TU Delft Netherlands robotics | `tu-delft-netherlands-robotics` | 2000 | academic | open-permissive | ✓ |
+| TurtleBot | `turtlebot-willow-garage-2010` | 2010 | academic | open-permissive |  |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
 | U-Net | `u-net-ronneberger-miccai-2015` | 2015 | academic | public-domain |  |
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |

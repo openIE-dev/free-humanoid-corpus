@@ -1,7 +1,7 @@
 ---
 title: "mechanism-telescoping-mast"
 parent: "Invalidity Contentions"
-nav_order: 132
+nav_order: 135
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-telescoping-mast`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
-**Earliest disclosure:** 2020-07  
+**Entries:** 4 (3 commons-grade, 1 draft)  
+**Earliest disclosure:** 2014-12  
 **Most recent disclosure:** 2024-09
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2014-12 — Fetch & Freight (Fetch Robotics)
+
+- **id:** `fetch-freight-fetchrobotics-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Fetch Robotics (San Jose, CA); founded by Melonee Wise + ex-Willow Garage
+- **disclosure citation:** Fetch Robotics, Inc. (San Jose, CA). Fetch (mobile manipulator) + Freight (mobile base) commercial reveal December 2014. Founded by Melonee Wise + ex-Willow Garage team. fetchrobotics.com. Acquired by Zebra Technologies June 2021 ($290M).
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-manipulator-arm`, `mechanism-telescoping-mast`
+
+**Prior art notes:**
+
+> Fetch & Freight (Fetch Robotics 2014+ → Zebra 2021+) is the canonical commercial mobile-manipulator + warehouse-logistics platform from the post-Willow-Garage diaspora. 11-year-deep public-disclosure prior art. Architectural sibling to Hello Robot Stretch (round-17) — both telescoping-mast mobile manipulators with educational + commercial deployments. Direct shielding for any commercial humanoid claim on telescoping-mast mobile-manipulator derivative applications.
+
+**Sources:**
+
+1. Fetch Robotics corporate site (fetchrobotics.com — historical).
+2. Zebra Technologies acquisition announcement June 2021.
+
+---
 
 ### 2020-07 — Hello Robot Stretch
 
@@ -132,4 +152,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*

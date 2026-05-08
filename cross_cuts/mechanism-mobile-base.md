@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-mobile-base`
 
-**9 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -41,6 +41,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Empresa Brasileira de Pesquisa Agropecuária (Embrapa, founded 1973). Brazilian Federal Government agricultural research corporation; the largest agricultural research organization in the southern hemisphere. embrapa.br. Robotics research concentrated at Embrapa Instrumentation (São Carlos): autonomous tractors, agricultural drones, soil + crop sensing platforms.
 - **ip status**: public-domain
 - **prior art notes**: Embrapa is the canonical Brazilian agritech robotics research institution. **First entry in the corpus from Brazil** — closes a major regional gap. Direct shielding for any commercial humanoid claim on agricultural-context deployment, particularly for the Latin American market. Aggregator-style entry; specific Embrapa papers should be added in future rounds.
+
+## TurtleBot (2010-12)
+
+- **id**: `turtlebot-willow-garage-2010`
+- **corpus**: academic
+- **creator**: Willow Garage (initial); subsequent Robotis (TB3) + Clearpath Robotics (TB4)
+- **disclosure**: Willow Garage. TurtleBot reveal December 2010 as a low-cost ROS-integrated educational mobile robot. Subsequent versions: TurtleBot 2 (2012), TurtleBot 3 (2017, Robotis-manufactured), TurtleBot 4 (2022, Clearpath Robotics-manufactured). turtlebot.com.
+- **ip status**: open-permissive
+- **prior art notes**: TurtleBot (Willow Garage 2010+) is the canonical foundational ROS educational mobile robot. 15-year-deep open-permissive prior art. The hardware platform underlying every ROS tutorial globally + 1000+ academic publications. Direct shielding for any commercial humanoid claim derived from low-cost mobile-robot educational platforms.
+
+## Fetch & Freight (Fetch Robotics) (2014-12)
+
+- **id**: `fetch-freight-fetchrobotics-2014`
+- **corpus**: private
+- **creator**: Fetch Robotics (San Jose, CA); founded by Melonee Wise + ex-Willow Garage
+- **disclosure**: Fetch Robotics, Inc. (San Jose, CA). Fetch (mobile manipulator) + Freight (mobile base) commercial reveal December 2014. Founded by Melonee Wise + ex-Willow Garage team. fetchrobotics.com. Acquired by Zebra Technologies June 2021 ($290M).
+- **ip status**: trade-secret
+- **prior art notes**: Fetch & Freight (Fetch Robotics 2014+ → Zebra 2021+) is the canonical commercial mobile-manipulator + warehouse-logistics platform from the post-Willow-Garage diaspora. 11-year-deep public-disclosure prior art. Architectural sibling to Hello Robot Stretch (round-17) — both telescoping-mast mobile manipulators with educational + commercial deployments. Direct shielding for any commercial humanoid claim on telescoping-mast mobile-manipulator derivative applications.
 
 ## Promobot (2015-03)
 

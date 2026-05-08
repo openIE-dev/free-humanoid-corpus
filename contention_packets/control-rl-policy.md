@@ -1,7 +1,7 @@
 ---
 title: "control-rl-policy"
 parent: "Invalidity Contentions"
-nav_order: 85
+nav_order: 87
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 150 (122 commons-grade, 28 draft)  
+**Entries:** 151 (123 commons-grade, 28 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2026-04
 
@@ -937,6 +937,26 @@ cite, copy, or redistribute these contentions.
 
 1. BioWare. Mass Effect 2. Electronic Arts, 2010.
 2. BioWare. Mass Effect 3. Electronic Arts, 2012.
+
+---
+
+### 2010-12 — TurtleBot
+
+- **id:** `turtlebot-willow-garage-2010`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Willow Garage (initial); subsequent Robotis (TB3) + Clearpath Robotics (TB4)
+- **disclosure citation:** Willow Garage. TurtleBot reveal December 2010 as a low-cost ROS-integrated educational mobile robot. Subsequent versions: TurtleBot 2 (2012), TurtleBot 3 (2017, Robotis-manufactured), TurtleBot 4 (2022, Clearpath Robotics-manufactured). turtlebot.com.
+- **disclosed subsystems:** `mechanism-mobile-base`, `control-rl-policy`, `control-middleware`
+
+**Prior art notes:**
+
+> TurtleBot (Willow Garage 2010+) is the canonical foundational ROS educational mobile robot. 15-year-deep open-permissive prior art. The hardware platform underlying every ROS tutorial globally + 1000+ academic publications. Direct shielding for any commercial humanoid claim derived from low-cost mobile-robot educational platforms.
+
+**Sources:**
+
+1. TurtleBot site (turtlebot.com).
+2. Willow Garage product history.
 
 ---
 
@@ -3088,4 +3108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*

@@ -1168,7 +1168,9 @@
       "ancestors": [
         "taylor-jhu-surgical-robotics-1990s"
       ],
-      "descendants": []
+      "descendants": [
+        "mako-rio-stryker-2016"
+      ]
     },
     {
       "id": "dbz-android-17",
@@ -2331,6 +2333,16 @@
       ]
     },
     {
+      "id": "mako-rio-stryker-2016",
+      "name": "Stryker Mako RIO orthopedic surgical robot",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [
+        "taylor-robodoc-orthopedic-1992"
+      ],
+      "descendants": []
+    },
+    {
       "id": "time-of-eve-2008",
       "name": "Time of EVE (household-robot reflective awareness)",
       "year": "2008",
@@ -2440,7 +2452,8 @@
       "ancestors": [],
       "descendants": [
         "moveit-sucan-icra-2014",
-        "ros-2-2017"
+        "ros-2-2017",
+        "turtlebot-willow-garage-2010"
       ]
     },
     {
@@ -2547,6 +2560,16 @@
       "descendants": []
     },
     {
+      "id": "parrot-ar-drone-2010",
+      "name": "Parrot AR.Drone",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "dji-phantom-2013"
+      ]
+    },
+    {
       "id": "mass-effect-edi",
       "name": "EDI (Mass Effect)",
       "year": "2010",
@@ -2594,6 +2617,16 @@
       "descendants": [
         "intel-realsense-2015"
       ]
+    },
+    {
+      "id": "turtlebot-willow-garage-2010",
+      "name": "TurtleBot",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [
+        "ros-quigley-2009"
+      ],
+      "descendants": []
     },
     {
       "id": "rewalk-goffer-2011",
@@ -2831,6 +2864,16 @@
       "year": "2013",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dji-phantom-2013",
+      "name": "DJI Phantom + Mavic consumer drone lineage",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [
+        "parrot-ar-drone-2010"
+      ],
       "descendants": []
     },
     {
@@ -3147,6 +3190,14 @@
       "name": "Black Mirror 'White Christmas' cookies and consciousness copies",
       "year": "2014",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fetch-freight-fetchrobotics-2014",
+      "name": "Fetch & Freight (Fetch Robotics)",
+      "year": "2014",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -3611,6 +3662,14 @@
       "descendants": []
     },
     {
+      "id": "globus-excelsius-gps-spine-2017",
+      "name": "Globus Medical ExcelsiusGPS spine surgical robot",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "robotis-op3-2017",
       "name": "Robotis OP3",
       "year": "2017",
@@ -3751,6 +3810,14 @@
       "descendants": []
     },
     {
+      "id": "skydio-r1-2018",
+      "name": "Skydio R1 / Skydio 2 autonomous drone",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "aquanaut-houston-2017",
       "name": "Aquanaut hybrid AUV/ROV",
       "year": "2018",
@@ -3773,6 +3840,14 @@
     {
       "id": "naver-labs-ambidex-2018",
       "name": "NAVER LABS AMBIDEX",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "robotis-openmanipulator-2018",
+      "name": "Robotis OpenManipulator",
       "year": "2018",
       "corpus": "private",
       "ancestors": [],

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-middleware`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2009-05
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Quigley, M., Conley, K., Gerkey, B., Faust, J., Foote, T., Leibs, J., Wheeler, R., Ng, A. Y. 'ROS: an open-source Robot Operating System'. ICRA 2009 Workshop on Open Source Software. Stanford / Willow Garage. First public release 2007. BSD-3-Clause / Apache-2.0. Stewardship transferred to Open Robotics.
 - **ip status**: open-permissive
 - **prior art notes**: ROS is the canonical open-source robotics middleware (2007 internal, 2009 ICRA workshop publication). 17-year-deep BSD-3 / Apache-2.0 open-permissive prior art. Effectively every academic robotic system of the 2010s and 2020s integrates via ROS or ROS 2 — including all of the open humanoid platforms (Berkeley Humanoid, ToddlerBot, Pollen Reachy) in the corpus. Direct shielding for any commercial humanoid claim on 'modular driver-publishing-subscribing robotics middleware', message-passing inter-process communication for robots, or the standard tool-stack patterns it established (rosbag, rviz, tf, MoveIt).
+
+## TurtleBot (2010-12)
+
+- **id**: `turtlebot-willow-garage-2010`
+- **corpus**: academic
+- **creator**: Willow Garage (initial); subsequent Robotis (TB3) + Clearpath Robotics (TB4)
+- **disclosure**: Willow Garage. TurtleBot reveal December 2010 as a low-cost ROS-integrated educational mobile robot. Subsequent versions: TurtleBot 2 (2012), TurtleBot 3 (2017, Robotis-manufactured), TurtleBot 4 (2022, Clearpath Robotics-manufactured). turtlebot.com.
+- **ip status**: open-permissive
+- **prior art notes**: TurtleBot (Willow Garage 2010+) is the canonical foundational ROS educational mobile robot. 15-year-deep open-permissive prior art. The hardware platform underlying every ROS tutorial globally + 1000+ academic publications. Direct shielding for any commercial humanoid claim derived from low-cost mobile-robot educational platforms.
 
 ## MoveIt! motion-planning framework (2013-01)
 

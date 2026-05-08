@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**150 corpus entries disclose this subsystem.**
+**151 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -419,6 +419,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: BioWare. Mass Effect 2 (initial EDI disclosure as ship AI). Electronic Arts, January 26, 2010. Body-acquisition disclosure: Mass Effect 3, March 6, 2012 (Dr. Eva chassis transfer).
 - **ip status**: fictional
 - **prior art notes**: EDI's 2012 disclosure of an AI uploading from a ship-network into a humanoid chassis provides prior art for: (1) AI-to-embodied-platform transfer architecture — relevant to claims on portable AI substrate IP that is increasingly common in modern humanoids; (2) network-cognition-in-humanoid-body architecture (EDI retains her original ship-class cognition) — relevant to networked-mind humanoid IP. Continuously available since 2012.
+
+## TurtleBot (2010-12)
+
+- **id**: `turtlebot-willow-garage-2010`
+- **corpus**: academic
+- **creator**: Willow Garage (initial); subsequent Robotis (TB3) + Clearpath Robotics (TB4)
+- **disclosure**: Willow Garage. TurtleBot reveal December 2010 as a low-cost ROS-integrated educational mobile robot. Subsequent versions: TurtleBot 2 (2012), TurtleBot 3 (2017, Robotis-manufactured), TurtleBot 4 (2022, Clearpath Robotics-manufactured). turtlebot.com.
+- **ip status**: open-permissive
+- **prior art notes**: TurtleBot (Willow Garage 2010+) is the canonical foundational ROS educational mobile robot. 15-year-deep open-permissive prior art. The hardware platform underlying every ROS tutorial globally + 1000+ academic publications. Direct shielding for any commercial humanoid claim derived from low-cost mobile-robot educational platforms.
 
 ## Atlas and P-Body (Portal 2) (2011-04-19)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-manipulator-arm`
 
-**20 corpus entries disclose this subsystem.**
+**22 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -132,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Vicarious Surgical is a canonical 2014+ next-generation surgical robotic system. ~12-year-deep public-disclosure prior art for: single-port deploying-arm surgical morphology, 9-DoF arm kinematics, VR-headset surgeon interface (Apple Vision Pro / haptic-glove teleop antecedent). Direct shielding for any commercial humanoid claim on VR-headset bimanual teleoperation (notably: Open-TeleVision round-16 entry uses Apple Vision Pro for academic humanoid teleop; Vicarious Surgical pioneered the VR-teleop pattern in commercial surgical context ~10 years earlier).
 
+## Fetch & Freight (Fetch Robotics) (2014-12)
+
+- **id**: `fetch-freight-fetchrobotics-2014`
+- **corpus**: private
+- **creator**: Fetch Robotics (San Jose, CA); founded by Melonee Wise + ex-Willow Garage
+- **disclosure**: Fetch Robotics, Inc. (San Jose, CA). Fetch (mobile manipulator) + Freight (mobile base) commercial reveal December 2014. Founded by Melonee Wise + ex-Willow Garage team. fetchrobotics.com. Acquired by Zebra Technologies June 2021 ($290M).
+- **ip status**: trade-secret
+- **prior art notes**: Fetch & Freight (Fetch Robotics 2014+ → Zebra 2021+) is the canonical commercial mobile-manipulator + warehouse-logistics platform from the post-Willow-Garage diaspora. 11-year-deep public-disclosure prior art. Architectural sibling to Hello Robot Stretch (round-17) — both telescoping-mast mobile manipulators with educational + commercial deployments. Direct shielding for any commercial humanoid claim on telescoping-mast mobile-manipulator derivative applications.
+
 ## OceanOne (2016-04)
 
 - **id**: `oceanone-stanford-2016`
@@ -158,6 +167,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Houston Mechatronics Inc. (founded 2014; rebranded Nauticus Robotics 2021; public via SPAC 2022 ticker KITT). Aquanaut public reveal April 2018 via company website + Houston Chronicle / IEEE Spectrum coverage. Subsequent Nauticus 8-K SEC disclosures, 10-K filings, demo videos.
 - **ip status**: trade-secret
 - **prior art notes**: Aquanaut is the **most direct existing prior art for free-humanoid-submersible**. Public-disclosure surface (corporate website, SEC filings, IEEE Spectrum coverage, demo videos) does not reveal specific actuator or control mechanism. The capability set claimed — hovering manipulation, anthropomorphic arms, hybrid AUV/ROV mode-switching, pressure-balanced subsea power, acoustic+RF-buoy supervised teleop — is fully covered by deep open academic prior art chains: Jason ROV (1989) for tethered manipulation; Nereus (2008) for AUV/ROV mode-switching; OceanOne (Stanford 2016) for bimanual humanoid AUV manipulation with full academic publication; Slocum/Seaglider (1989/2001) for variable-buoyancy as the documented alternative; DSV Alvin (1964) for pressure-hull design; Bluefin BPS (2008+) for pressure-balanced Li-ion. Any Aquanaut/Nauticus commercial claim on architectural elements faces deep open public-domain prior art chains. The submersible morphology in free-humanoid-submersible explicitly shields against Aquanaut's claim surface by anchoring every commitment in this open-academic lineage.
+
+## Robotis OpenManipulator (2018-04)
+
+- **id**: `robotis-openmanipulator-2018`
+- **corpus**: private
+- **creator**: Robotis Co., Ltd. (Seoul, South Korea)
+- **disclosure**: Robotis Co., Ltd. (Seoul, South Korea). OpenMANIPULATOR-X commercial reveal April 2018 via robotis.com. Open-hardware design; CAD files + control firmware open-source under MIT license.
+- **ip status**: open-permissive
+- **prior art notes**: Robotis OpenMANIPULATOR (Robotis 2018+) is the canonical Korean open-hardware educational manipulator. 7-year-deep open-permissive prior art. The educational-manipulator counterpart to TurtleBot (round-35) and DARwIn-OP (corpus round-19 robotis-op3-2017 entry). Together with TurtleBot, establishes the Korean open-educational-robotics ecosystem.
 
 ## Hello Robot Stretch (2020-07)
 

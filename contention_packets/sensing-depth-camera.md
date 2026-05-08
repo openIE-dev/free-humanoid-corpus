@@ -1,7 +1,7 @@
 ---
 title: "sensing-depth-camera"
 parent: "Invalidity Contentions"
-nav_order: 151
+nav_order: 154
 layout: default
 ---
 
@@ -110,4 +110,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f228137`.*
