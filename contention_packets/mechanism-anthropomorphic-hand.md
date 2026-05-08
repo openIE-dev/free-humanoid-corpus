@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 120
+nav_order: 123
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 135 (111 commons-grade, 24 draft)  
+**Entries:** 141 (117 commons-grade, 24 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2026-04
 
@@ -181,6 +181,27 @@ cite, copy, or redistribute these contentions.
 1. Wilcox, F. Forbidden Planet. MGM, 1956.
 2. Kinoshita, R. Production design notes (preserved at MGM archive).
 3. Telotte, J.P. Robot Ecology and the Science Fiction Film. Routledge, 2016.
+
+---
+
+### 1963-01 — Belgrade / Belgrade-USC Hand (Tomović + Bekey)
+
+- **id:** `belgrade-usc-tomovic-bekey-hand-1963`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Mihailo Pupin Institute (Belgrade, Yugoslavia); Rajko Tomović + Miodrag Rakić; later Belgrade-USC version with George Bekey at USC
+- **disclosure citation:** Tomović, R., Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962. Belgrade Hand developed at Mihailo Pupin Institute (Belgrade, Yugoslavia) 1961-1963. Subsequent Belgrade-USC Hand version with George Bekey at University of Southern California ~1988.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-underactuated-finger`, `control-myoelectric`, `actuator-electric`
+
+**Prior art notes:**
+
+> Belgrade / Belgrade-USC Hand (Tomović + Rakić 1963; Bekey USC 1988) is the foundational anthropomorphic prosthetic hand and the world's first externally-powered five-finger myoelectric prosthetic. 62-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from five-finger anthropomorphic hands, underactuated finger mechanisms, or myoelectric prosthetic control. Foundational to every modern anthropomorphic hand including Robotiq (round-42), Shadow Dexterous Hand (corpus), Salisbury Stanford-JPL Hand (corpus), Utah/MIT Hand (round-42), and the entire dexterous-hand research lineage.
+
+**Sources:**
+
+1. Tomović, R. + Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962.
+2. en.techfokus.rs/belgrade-hand-first-bionic-prosthetic-robotics/
+3. en.wikipedia.org/wiki/Rajko_Tomović
 
 ---
 
@@ -523,6 +544,26 @@ cite, copy, or redistribute these contentions.
 
 1. The Terminator (1984).
 2. Terminator 2: Judgment Day (1991).
+
+---
+
+### 1984-12 — Utah/MIT Dextrous Hand (Jacobsen)
+
+- **id:** `utah-mit-jacobsen-hand-1984`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** University of Utah Center for Engineering Design + MIT AI Lab; Stephen Jacobsen, John Wood, David Knutti, Klaus Biggers
+- **disclosure citation:** Jacobsen, S.C., Wood, J.E., Knutti, D.F., Biggers, K.B. 'The Utah/MIT Dextrous Hand: Work in Progress'. International Journal of Robotics Research 3(4), Winter 1984. Joint project Center for Engineering Design (University of Utah) + MIT Artificial Intelligence Laboratory.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-tendon-drive`, `actuator-pneumatic-piston`
+
+**Prior art notes:**
+
+> Utah/MIT Dextrous Hand (Jacobsen et al. IJRR 1984) is the foundational dexterous robotic hand. 41-year-deep public-domain prior art. Co-foundational with Salisbury Stanford-JPL Hand (corpus salisbury-stanford-jpl-hand) of the entire dexterous-hand research field. Direct shielding for any commercial humanoid claim deriving from multi-finger tendon-driven anthropomorphic hands. Stephen Jacobsen lineage continues through Sarcos (corpus sarcos-guardian-xo-2018).
+
+**Sources:**
+
+1. Jacobsen, S.C. et al. 'The Utah/MIT Dextrous Hand'. IJRR 3(4), 1984.
+2. people.csail.mit.edu/edsinger/raw/jacobsen_design_utah_hand.pdf
 
 ---
 
@@ -1151,6 +1192,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2007-07 — Modern multi-articulated prosthetic hands (i-LIMB / BeBionic / Michelangelo)
+
+- **id:** `modern-multiarticulated-prosthetic-hands-2007-2012`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Touch Bionics (Edinburgh) → Össur (Iceland); RSL Steeper (UK) → Otto Bock (Germany); Otto Bock HealthCare (Duderstadt, Germany)
+- **disclosure citation:** Touch Bionics Ltd. (Edinburgh, Scotland; founded 2003 by David Gow, NHS Lothian rehabilitation engineering spinout). i-LIMB myoelectric prosthetic hand product reveal July 2007. RSL Steeper Ltd. (UK) BeBionic hand 2010, acquired by Otto Bock HealthCare 2017. Otto Bock Michelangelo Hand reveal 2012. Touch Bionics acquired by Össur (Iceland) 2016; i-LIMB Quantum 2015.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-multi-articulated-finger`, `control-myoelectric`, `actuator-electric`
+
+**Prior art notes:**
+
+> Modern multi-articulated prosthetic hands (Touch Bionics i-LIMB 2007, RSL Steeper BeBionic 2010, Otto Bock Michelangelo 2012) are the defining commercial multi-articulated myoelectric prosthetic hand category. 13-19-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from individually-powered five-finger prosthetic hands or myoelectric multi-grip control. Lineage descends from Belgrade-USC Hand (round-42 belgrade-usc-tomovic-bekey-hand-1963) of foundational anthropomorphic prosthetics.
+
+**Sources:**
+
+1. ottobock.com/en-us/product/8E7----61161 (BeBionic).
+2. Touch Bionics i-LIMB historical product page (Össur).
+
+---
+
 ### 2007-08-21 — Big Daddy (Bouncer / Rosie)
 
 - **id:** `bioshock-big-daddy`
@@ -1167,6 +1228,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Levine, K. (Irrational Games). BioShock. 2K Games, 2007.
+
+---
+
+### 2007-11 — TWENDY-One Hand (Sugano Waseda)
+
+- **id:** `twendy-one-sugano-waseda-2007`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Waseda University Sugano Laboratory (Tokyo, Japan); Hiroyasu Iwata, Shigeki Sugano
+- **disclosure citation:** Iwata, H., Sugano, S. 'Design of human symbiotic robot TWENDY-ONE'. IEEE International Conference on Robotics and Automation (ICRA), 2009. Waseda University Sugano Laboratory (Tokyo, Japan). TWENDY-One platform reveal November 2007.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-passive-compliant-gripper`, `control-force-control`, `sensing-tactile-distributed`
+
+**Prior art notes:**
+
+> TWENDY-One Hand (Sugano Waseda Tokyo 2007+) is the defining Japanese soft-strong human-symbiotic hand. 18-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from passive-compliant force-controlled assistive-care hands. The Japanese counterpart to Pisa-IIT SoftHand (corpus pisa-iit-softhand) for the human-symbiotic philosophy of soft-strong dexterous manipulation.
+
+**Sources:**
+
+1. twendyone.com/index_e.html
+2. Iwata, H., Sugano, S. ICRA 2009.
 
 ---
 
@@ -1515,6 +1596,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2012-08 — Sandia Hand modular 12-DoF gripper
+
+- **id:** `sandia-hand-2012`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Sandia National Laboratories (Albuquerque, NM, USA); Curt Salisbury (PI); DARPA ARM-H program
+- **disclosure citation:** Quigley, M., Salisbury, C., Ng, A.Y., Salisbury, J.K. 'Mechatronic design of an integrated robotic hand'. International Journal of Robotics Research 33(5), 2014. Sandia National Laboratories (Albuquerque, NM, USA) DARPA Autonomous Robotic Manipulation (ARM-H) program. Reveal August 2012; ~$10K modular hand target.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-modular-finger`, `actuator-electric`
+
+**Prior art notes:**
+
+> Sandia Hand (Sandia National Laboratories 2012, IJRR 2014) is the canonical cost-reduced modular anthropomorphic hand. 13-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from modular-interchangeable-finger architectures or low-cost (\$10k-class) anthropomorphic hands. DARPA ARM-H program lineage.
+
+**Sources:**
+
+1. sandia.gov/research/sandia-hand/
+2. spectrum.ieee.org/sandia-labs-robotic-hand-
+3. Quigley, M. et al. IJRR 33(5), 2014.
+
+---
+
 ### 2013 — NASA Valkyrie
 
 - **id:** `nasa-valkyrie`
@@ -1697,6 +1799,27 @@ cite, copy, or redistribute these contentions.
 
 1. SoftBank Robotics technical materials.
 2. Pepper deployment case studies.
+
+---
+
+### 2014-07 — RBO Hand 2 (TU Berlin Brock)
+
+- **id:** `rbo-hand-2-brock-tu-berlin-2014`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** TU Berlin Robotics and Biology Laboratory (RBO); Raphael Deimel + Oliver Brock
+- **disclosure citation:** Deimel, R., Brock, O. 'A novel type of compliant, underactuated robotic hand for dexterous grasping'. Robotics: Science and Systems (RSS) 2014. Extended journal version: International Journal of Robotics Research 35(1-3), 2016. TU Berlin Robotics and Biology Laboratory (RBO) under Oliver Brock.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-soft-pneumatic-gripper`, `actuator-pneumatic`
+
+**Prior art notes:**
+
+> RBO Hand 2 (Deimel + Brock TU Berlin RSS 2014, IJRR 2016) is the canonical soft-pneumatic anthropomorphic hand. 11-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from soft-pneumatic anthropomorphic hands or fiber-reinforced silicone-rubber actuator hands. Lineage descends from McKibben pneumatic muscle (corpus mckibben-pneumatic-muscle-1957) and Pisa-IIT SoftHand (corpus pisa-iit-softhand).
+
+**Sources:**
+
+1. Deimel, R. + Brock, O. RSS 2014.
+2. Deimel, R. + Brock, O. IJRR 35(1-3), 2016.
+3. static.tu.berlin/fileadmin/www/10002220/Research/publications/Puhlmann__Harris__Brock_-_RBO_Hand_3_A_Platform_for_Soft_Dexterous_Manipulation.pdf (RBO Hand 3 follow-on)
 
 ---
 
@@ -2797,4 +2920,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `a27a0cf`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*

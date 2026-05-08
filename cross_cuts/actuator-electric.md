@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**33 corpus entries disclose this subsystem.**
+**38 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FANUC Corporation (Oshino-mura, Yamanashi, Japan; founded 1956 as Fuji Communication Apparatus Co., spun out of Fujitsu 1972 as FANUC Ltd.). Industrial robot product line: M-series, R-series, LR Mate, CRX cobot series. **The largest industrial robot company in the world by deployed-unit count** (~750,000 units cumulative).
 - **ip status**: trade-secret
 - **prior art notes**: FANUC (founded 1956 as Fujitsu spinout; FANUC Ltd 1972) is the world's largest industrial robot company by deployed units. 70-year-deep public-disclosure prior art across multi-product industrial-arm + cobot lineage. ~750,000 units cumulative. Direct shielding for any commercial humanoid claim that includes industrial-arm derivative applications. Together with SCARA (round-32), Universal Robots (round-24), Doosan (round-22), KUKA, ABB, Yaskawa, establishes the industrial-robot prior-art chain spanning 1956-2026.
+
+## Belgrade / Belgrade-USC Hand (Tomović + Bekey) (1963-01)
+
+- **id**: `belgrade-usc-tomovic-bekey-hand-1963`
+- **corpus**: academic
+- **creator**: Mihailo Pupin Institute (Belgrade, Yugoslavia); Rajko Tomović + Miodrag Rakić; later Belgrade-USC version with George Bekey at USC
+- **disclosure**: Tomović, R., Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962. Belgrade Hand developed at Mihailo Pupin Institute (Belgrade, Yugoslavia) 1961-1963. Subsequent Belgrade-USC Hand version with George Bekey at University of Southern California ~1988.
+- **ip status**: public-domain
+- **prior art notes**: Belgrade / Belgrade-USC Hand (Tomović + Rakić 1963; Bekey USC 1988) is the foundational anthropomorphic prosthetic hand and the world's first externally-powered five-finger myoelectric prosthetic. 62-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from five-finger anthropomorphic hands, underactuated finger mechanisms, or myoelectric prosthetic control. Foundational to every modern anthropomorphic hand including Robotiq (round-42), Shadow Dexterous Hand (corpus), Salisbury Stanford-JPL Hand (corpus), Utah/MIT Hand (round-42), and the entire dexterous-hand research lineage.
 
 ## SCARA (Selective Compliance Articulated Robot Arm) (1979-01)
 
@@ -60,6 +69,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The KAIST KHR series (1995-2004) is the foundational Korean academic humanoid lineage that produced HUBO. 22-year-deep public-domain prior art. Direct ancestor chain: KHR-1 → KHR-2 → KHR-3/HUBO → DRC-HUBO+. Together with HUBO (corpus entry) and DRC-HUBO+ (round-22), establishes the Korean humanoid academic lineage spanning 22+ years. Brings Korean entries to 8.
 
+## Modern multi-articulated prosthetic hands (i-LIMB / BeBionic / Michelangelo) (2007-07)
+
+- **id**: `modern-multiarticulated-prosthetic-hands-2007-2012`
+- **corpus**: private
+- **creator**: Touch Bionics (Edinburgh) → Össur (Iceland); RSL Steeper (UK) → Otto Bock (Germany); Otto Bock HealthCare (Duderstadt, Germany)
+- **disclosure**: Touch Bionics Ltd. (Edinburgh, Scotland; founded 2003 by David Gow, NHS Lothian rehabilitation engineering spinout). i-LIMB myoelectric prosthetic hand product reveal July 2007. RSL Steeper Ltd. (UK) BeBionic hand 2010, acquired by Otto Bock HealthCare 2017. Otto Bock Michelangelo Hand reveal 2012. Touch Bionics acquired by Össur (Iceland) 2016; i-LIMB Quantum 2015.
+- **ip status**: trade-secret
+- **prior art notes**: Modern multi-articulated prosthetic hands (Touch Bionics i-LIMB 2007, RSL Steeper BeBionic 2010, Otto Bock Michelangelo 2012) are the defining commercial multi-articulated myoelectric prosthetic hand category. 13-19-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from individually-powered five-finger prosthetic hands or myoelectric multi-grip control. Lineage descends from Belgrade-USC Hand (round-42 belgrade-usc-tomovic-bekey-hand-1963) of foundational anthropomorphic prosthetics.
+
+## Robotiq Adaptive Grippers (2F-85, 2F-140, Hand-E, 3-Finger) (2008-01)
+
+- **id**: `robotiq-adaptive-grippers-2008`
+- **corpus**: private
+- **creator**: Robotiq Inc. (Lévis QC, Canada); Bouchard, Jobin, Duchaine; underactuated finger lineage from Laval University MARS hand
+- **disclosure**: Robotiq Inc. (Lévis, Québec, Canada). Founded 2008 by Samuel Bouchard, Jean-Philippe Jobin, Vincent Duchaine. Adaptive Gripper product line 2008-2018: 2-Finger 85 (2F-85, 2014), 2-Finger 140 (2F-140, 2017), Hand-E (2018), 3-Finger Adaptive Gripper (2008). Underactuated finger mechanism descended from Laval University MARS hand (Laliberté, Birglen, Gosselin).
+- **ip status**: trade-secret
+- **prior art notes**: Robotiq Adaptive Grippers (Robotiq Lévis QC 2008+) are the canonical commercial cobot end-effector with 17+ years of deployment and 23,000+ units shipped. Direct shielding for any commercial humanoid claim deriving from underactuated parallel-jaw or three-finger adaptive grippers, or from cobot-tool plug-and-play architectures. Lineage descends from Laval University MARS hand (Laliberté / Birglen / Gosselin) underactuated mechanism.
+
 ## Surena humanoid (Tehran University) (2008-12)
 
 - **id**: `surena-tehran-university-2008`
@@ -78,6 +105,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Universal Robots is the canonical 2008+ commercial cobot anchor (Odense Denmark, SDU spinout). 17-year-deep public-disclosure prior art for: 6-DoF anthropomorphic cobot at the educational/industrial price point, ISO 10218 + ISO/TS 15066 collaborative-safety compliance, PolyScope teach-pendant programming model. **The architectural anchor of every subsequent commercial cobot** — Doosan (round-22 entry), Franka Emika, Aubo, Elite, Jaka, Universal Robots' own e-Series. The Odense Denmark cobot cluster (Robocluster consortium) is the Nordic robotics anchor. Direct shielding for any commercial humanoid claim that includes cobot-class collaborative-arm derivative applications. Closes the Denmark / Nordic gap (corpus had no Danish entries prior).
 
+## Sandia Hand modular 12-DoF gripper (2012-08)
+
+- **id**: `sandia-hand-2012`
+- **corpus**: academic
+- **creator**: Sandia National Laboratories (Albuquerque, NM, USA); Curt Salisbury (PI); DARPA ARM-H program
+- **disclosure**: Quigley, M., Salisbury, C., Ng, A.Y., Salisbury, J.K. 'Mechatronic design of an integrated robotic hand'. International Journal of Robotics Research 33(5), 2014. Sandia National Laboratories (Albuquerque, NM, USA) DARPA Autonomous Robotic Manipulation (ARM-H) program. Reveal August 2012; ~$10K modular hand target.
+- **ip status**: academic-publication
+- **prior art notes**: Sandia Hand (Sandia National Laboratories 2012, IJRR 2014) is the canonical cost-reduced modular anthropomorphic hand. 13-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from modular-interchangeable-finger architectures or low-cost (\$10k-class) anthropomorphic hands. DARPA ARM-H program lineage.
+
 ## Allegro Hand (Wonik / SimLab) (2014-04)
 
 - **id**: `allegro-hand-wonik-simlab-2014`
@@ -95,6 +131,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: PAL Robotics S.L. (Barcelona, Spain). TIAGo product reveal May 2014. Subsequent product variants: TIAGo Pro (dual-arm), TIAGo OMNI (omnidirectional drive), TIAGo++ (research kit). pal-robotics.com. Sister product to REEM-C humanoid (corpus entry reem-c).
 - **ip status**: trade-secret
 - **prior art notes**: PAL Robotics TIAGo (Barcelona Spain 2014+) is the canonical Spanish commercial mobile manipulator. 11-year-deep public-disclosure prior art. Sister product line to REEM-C (corpus). Together with REEM-C, brings Spanish commercial-robotics representation to 2 specific platform entries. Architectural sibling to Hello Robot Stretch (round-17), Fetch (round-35), BD Stretch warehouse (round-34). Direct shielding for any commercial humanoid claim deriving from telescoping-mast mobile-manipulator commercial deployments.
+
+## OnRobot RG2 / RG6 / VGC10 cobot grippers (2015-01)
+
+- **id**: `onrobot-rg-grippers-2015`
+- **corpus**: private
+- **creator**: On Robot A/S (Odense, Denmark); Christiansen + Fuglsang; absorbed Perception Robotics + OptoForce 2018
+- **disclosure**: On Robot A/S (Odense, Denmark). Founded 2015 by Bilge J. Christiansen + Ebbe O. Fuglsang. RG2 (2015) and RG6 (2016) electric parallel grippers; VG10 / VGC10 compressor-free electric vacuum grippers (2017-2019). Merged with Perception Robotics (NASA-JPL gecko-microhair-licensed) and OptoForce (Hungarian F/T sensor) 2018.
+- **ip status**: trade-secret
+- **prior art notes**: OnRobot RG-line and VGC-line grippers (Odense Denmark 2015+) are the canonical 'cable-free cobot tool' commercial category. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from plug-and-play electric parallel grippers, compressor-free electric vacuum grippers, or gecko-microhair dry-adhesion grippers. Together with Robotiq (round-42) and SCHUNK Co-act (round-42), establishes the global cobot-gripper prior-art chain across CA / DK / DE.
 
 ## DRC-HUBO+ (DARPA Robotics Challenge winner) (2015-06)
 

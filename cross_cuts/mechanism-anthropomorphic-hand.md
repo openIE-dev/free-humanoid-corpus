@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**135 corpus entries disclose this subsystem.**
+**141 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -77,6 +77,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wilcox, Fred M. (dir.); Adler, Allen and Kyne, Irving Block (story). Forbidden Planet. Metro-Goldwyn-Mayer, March 15, 1956. Robby designed by Robert Kinoshita.
 - **ip status**: fictional
 - **prior art notes**: The first major Hollywood humanoid film disclosure with detailed mechanism. Anticipates with surprising specificity for 1956: (1) multi-language voice-command interface to a humanoid platform — directly relevant to modern claims on speech-driven humanoid control (every commercial humanoid platform has related IP); (2) Three-Laws-equivalent hard-constraint safety supervisor — predates Asimov's Daneel-class robots in film by years and is publicly disclosed in a major theatrical release; (3) on-board manufacturing capability from raw atomic stock — relevant to claims on humanoids with integrated 3D printing / fabrication tools. Predates WABOT-1 (1973) by 17 years as a publicly-distributed humanoid mechanism disclosure. Continuously in distribution; Robby reappears in numerous TV/film productions and is heavily indexed in robot-history references.
+
+## Belgrade / Belgrade-USC Hand (Tomović + Bekey) (1963-01)
+
+- **id**: `belgrade-usc-tomovic-bekey-hand-1963`
+- **corpus**: academic
+- **creator**: Mihailo Pupin Institute (Belgrade, Yugoslavia); Rajko Tomović + Miodrag Rakić; later Belgrade-USC version with George Bekey at USC
+- **disclosure**: Tomović, R., Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962. Belgrade Hand developed at Mihailo Pupin Institute (Belgrade, Yugoslavia) 1961-1963. Subsequent Belgrade-USC Hand version with George Bekey at University of Southern California ~1988.
+- **ip status**: public-domain
+- **prior art notes**: Belgrade / Belgrade-USC Hand (Tomović + Rakić 1963; Bekey USC 1988) is the foundational anthropomorphic prosthetic hand and the world's first externally-powered five-finger myoelectric prosthetic. 62-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from five-finger anthropomorphic hands, underactuated finger mechanisms, or myoelectric prosthetic control. Foundational to every modern anthropomorphic hand including Robotiq (round-42), Shadow Dexterous Hand (corpus), Salisbury Stanford-JPL Hand (corpus), Utah/MIT Hand (round-42), and the entire dexterous-hand research lineage.
 
 ## Iron Man Mark I (Tony Stark exoskeleton) (1963-03)
 
@@ -230,6 +239,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cameron, James (dir.). The Terminator. Orion Pictures, released 1984-10-26.
 - **ip status**: fictional
 - **prior art notes**: The film's prop work and dialogue establish detailed mechanical anatomy specifications that have been cited in robotics literature as conceptual prior art for combat-rated humanoid chassis design.
+
+## Utah/MIT Dextrous Hand (Jacobsen) (1984-12)
+
+- **id**: `utah-mit-jacobsen-hand-1984`
+- **corpus**: academic
+- **creator**: University of Utah Center for Engineering Design + MIT AI Lab; Stephen Jacobsen, John Wood, David Knutti, Klaus Biggers
+- **disclosure**: Jacobsen, S.C., Wood, J.E., Knutti, D.F., Biggers, K.B. 'The Utah/MIT Dextrous Hand: Work in Progress'. International Journal of Robotics Research 3(4), Winter 1984. Joint project Center for Engineering Design (University of Utah) + MIT Artificial Intelligence Laboratory.
+- **ip status**: public-domain
+- **prior art notes**: Utah/MIT Dextrous Hand (Jacobsen et al. IJRR 1984) is the foundational dexterous robotic hand. 41-year-deep public-domain prior art. Co-foundational with Salisbury Stanford-JPL Hand (corpus salisbury-stanford-jpl-hand) of the entire dexterous-hand research field. Direct shielding for any commercial humanoid claim deriving from multi-finger tendon-driven anthropomorphic hands. Stephen Jacobsen lineage continues through Sarcos (corpus sarcos-guardian-xo-2018).
 
 ## Kapandji thumb-opposition classification (1986-01)
 
@@ -510,6 +528,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Edsinger's MIT Domo + Meka Robotics (MIT 2007 + Meka 2006-2013) is the foundational compliant-humanoid academic + commercial lineage. 18-year-deep public-domain prior art. **Direct architectural ancestor of Hello Robot Stretch (round-17)** — Edsinger founded Hello Robot 2017 with Charles Kemp. Series-elastic actuator commercial deployment via Meka predates Pratt-Williamson commercial-deployment narrative. Direct shielding for any commercial humanoid claim deriving from compliant-actuator humanoids or Edsinger lineage.
 
+## Modern multi-articulated prosthetic hands (i-LIMB / BeBionic / Michelangelo) (2007-07)
+
+- **id**: `modern-multiarticulated-prosthetic-hands-2007-2012`
+- **corpus**: private
+- **creator**: Touch Bionics (Edinburgh) → Össur (Iceland); RSL Steeper (UK) → Otto Bock (Germany); Otto Bock HealthCare (Duderstadt, Germany)
+- **disclosure**: Touch Bionics Ltd. (Edinburgh, Scotland; founded 2003 by David Gow, NHS Lothian rehabilitation engineering spinout). i-LIMB myoelectric prosthetic hand product reveal July 2007. RSL Steeper Ltd. (UK) BeBionic hand 2010, acquired by Otto Bock HealthCare 2017. Otto Bock Michelangelo Hand reveal 2012. Touch Bionics acquired by Össur (Iceland) 2016; i-LIMB Quantum 2015.
+- **ip status**: trade-secret
+- **prior art notes**: Modern multi-articulated prosthetic hands (Touch Bionics i-LIMB 2007, RSL Steeper BeBionic 2010, Otto Bock Michelangelo 2012) are the defining commercial multi-articulated myoelectric prosthetic hand category. 13-19-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from individually-powered five-finger prosthetic hands or myoelectric multi-grip control. Lineage descends from Belgrade-USC Hand (round-42 belgrade-usc-tomovic-bekey-hand-1963) of foundational anthropomorphic prosthetics.
+
 ## Big Daddy (Bouncer / Rosie) (2007-08-21)
 
 - **id**: `bioshock-big-daddy`
@@ -518,6 +545,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Levine, Ken (creative dir.); 2K Boston/2K Australia. BioShock. 2K Games, August 21, 2007.
 - **ip status**: fictional
 - **prior art notes**: BioShock's Big Daddies are an unusually engineering-grounded disclosure of: (1) heavy-cyborg combat humanoid with integrated tool/weapon arm — relevant to integrated-end-effector humanoid IP; (2) operator-paired guardian humanoid with explicit bond protocol — relevant to companion / care humanoid claims with operator-pair conditioning. The 2007 game is heavily archived; the Big Daddy design is widely cited.
+
+## TWENDY-One Hand (Sugano Waseda) (2007-11)
+
+- **id**: `twendy-one-sugano-waseda-2007`
+- **corpus**: academic
+- **creator**: Waseda University Sugano Laboratory (Tokyo, Japan); Hiroyasu Iwata, Shigeki Sugano
+- **disclosure**: Iwata, H., Sugano, S. 'Design of human symbiotic robot TWENDY-ONE'. IEEE International Conference on Robotics and Automation (ICRA), 2009. Waseda University Sugano Laboratory (Tokyo, Japan). TWENDY-One platform reveal November 2007.
+- **ip status**: academic-publication
+- **prior art notes**: TWENDY-One Hand (Sugano Waseda Tokyo 2007+) is the defining Japanese soft-strong human-symbiotic hand. 18-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from passive-compliant force-controlled assistive-care hands. The Japanese counterpart to Pisa-IIT SoftHand (corpus pisa-iit-softhand) for the human-symbiotic philosophy of soft-strong dexterous manipulation.
 
 ## iCub (2008)
 
@@ -672,6 +708,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: David and Walter's 2012-2017 disclosures extend the Alien franchise's white-fluid-synthetic lineage with explicit *manufacturer model versioning* (Weyland Industries product line) and *autonomy-vs-safety tradeoff disclosure* (David's creative autonomy is explicitly the cause of his alignment failure; Walter's emotion-suppression is explicitly the safety design response). Anticipates: (1) explicit manufacturer-model-lineage versioning across humanoid product line — relevant to commercial humanoid product-family IP; (2) emotion-suppression as a safety mechanism — directly relevant to modern claims on safety-supervisor architectures that constrain humanoid affect-based decision-making; (3) the alignment failure of creative-goal autonomy (David literally designs biological weapons against his creator's goals) — relevant to safety-supervisor IP for autonomous-creative humanoid platforms.
 
+## Sandia Hand modular 12-DoF gripper (2012-08)
+
+- **id**: `sandia-hand-2012`
+- **corpus**: academic
+- **creator**: Sandia National Laboratories (Albuquerque, NM, USA); Curt Salisbury (PI); DARPA ARM-H program
+- **disclosure**: Quigley, M., Salisbury, C., Ng, A.Y., Salisbury, J.K. 'Mechatronic design of an integrated robotic hand'. International Journal of Robotics Research 33(5), 2014. Sandia National Laboratories (Albuquerque, NM, USA) DARPA Autonomous Robotic Manipulation (ARM-H) program. Reveal August 2012; ~$10K modular hand target.
+- **ip status**: academic-publication
+- **prior art notes**: Sandia Hand (Sandia National Laboratories 2012, IJRR 2014) is the canonical cost-reduced modular anthropomorphic hand. 13-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from modular-interchangeable-finger architectures or low-cost (\$10k-class) anthropomorphic hands. DARPA ARM-H program lineage.
+
 ## NASA Valkyrie (2013)
 
 - **id**: `nasa-valkyrie`
@@ -752,6 +797,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: SoftBank Robotics public reveal of Pepper, June 2014.
 - **ip status**: patented
 - **prior art notes**: Pepper is foundational prior art for wheeled-base humanoid social robots. The omnidirectional wheeled base design has been widely cited.
+
+## RBO Hand 2 (TU Berlin Brock) (2014-07)
+
+- **id**: `rbo-hand-2-brock-tu-berlin-2014`
+- **corpus**: academic
+- **creator**: TU Berlin Robotics and Biology Laboratory (RBO); Raphael Deimel + Oliver Brock
+- **disclosure**: Deimel, R., Brock, O. 'A novel type of compliant, underactuated robotic hand for dexterous grasping'. Robotics: Science and Systems (RSS) 2014. Extended journal version: International Journal of Robotics Research 35(1-3), 2016. TU Berlin Robotics and Biology Laboratory (RBO) under Oliver Brock.
+- **ip status**: academic-publication
+- **prior art notes**: RBO Hand 2 (Deimel + Brock TU Berlin RSS 2014, IJRR 2016) is the canonical soft-pneumatic anthropomorphic hand. 11-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from soft-pneumatic anthropomorphic hands or fiber-reinforced silicone-rubber actuator hands. Lineage descends from McKibben pneumatic muscle (corpus mckibben-pneumatic-muscle-1957) and Pisa-IIT SoftHand (corpus pisa-iit-softhand).
 
 ## Ava (Ex Machina) (2014-09-04)
 

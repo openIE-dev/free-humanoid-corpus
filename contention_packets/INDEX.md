@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-08  
-**Packets:** 180  
-**Corpus revision:** `a27a0cf`
+**Packets:** 191  
+**Corpus revision:** `69278e1`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -30,7 +30,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-biological`](actuator-biological.md) | 13 | 12 | 1 | 1973-11-21 | 2020-01-23 |
 | [`actuator-bldc-controller`](actuator-bldc-controller.md) | 11 | 11 | 0 | 1929-07 | 2022 |
 | [`actuator-compliant`](actuator-compliant.md) | 3 | 3 | 0 | 1957-01 | 2017-04 |
-| [`actuator-electric`](actuator-electric.md) | 33 | 26 | 7 | 1956-01 | 2025-10 |
+| [`actuator-electric`](actuator-electric.md) | 38 | 31 | 7 | 1956-01 | 2025-10 |
 | [`actuator-electric-cycloidal`](actuator-electric-cycloidal.md) | 5 | 2 | 3 | 1937 | 2025-04 |
 | [`actuator-electric-direct-drive`](actuator-electric-direct-drive.md) | 69 | 51 | 18 | 1886 | 2024-11 |
 | [`actuator-electric-harmonic-drive`](actuator-electric-harmonic-drive.md) | 22 | 19 | 3 | 1986 | 2025-10 |
@@ -40,6 +40,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-electric-tendon-driven`](actuator-electric-tendon-driven.md) | 25 | 24 | 1 | 1495 | 2024 |
 | [`actuator-foc-controller`](actuator-foc-controller.md) | 6 | 6 | 0 | 1929-07 | 2025-03 |
 | [`actuator-hydraulic`](actuator-hydraulic.md) | 28 | 22 | 6 | -0250 | 2024-05-24 |
+| [`actuator-pneumatic`](actuator-pneumatic.md) | 5 | 5 | 0 | 2005-04 | 2017-04 |
 | [`actuator-pneumatic-muscle`](actuator-pneumatic-muscle.md) | 7 | 7 | 0 | 1957-01 | 2018-07-30 |
 | [`actuator-soft-elastomeric`](actuator-soft-elastomeric.md) | 3 | 3 | 0 | 2014-09 | 2021-11 |
 | [`actuator-spherical-multi-dof`](actuator-spherical-multi-dof.md) | 2 | 2 | 0 | 2020 | 2023-10 |
@@ -59,6 +60,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-classification`](control-classification.md) | 2 | 2 | 0 | 1995-09 | 2001-10 |
 | [`control-cross-embodiment`](control-cross-embodiment.md) | 6 | 5 | 1 | 2023-10 | 2025-03 |
 | [`control-deep-cnn`](control-deep-cnn.md) | 2 | 2 | 0 | 2012-12 | 2015-12 |
+| [`control-deep-learning-policy`](control-deep-learning-policy.md) | 3 | 3 | 0 | 2017-03 | 2023-01 |
 | [`control-diffusion-policy`](control-diffusion-policy.md) | 4 | 4 | 0 | 2020-06 | 2024-10 |
 | [`control-dual-system-architecture`](control-dual-system-architecture.md) | 2 | 2 | 0 | 2025-02 | 2025-03 |
 | [`control-dvl-positioning`](control-dvl-positioning.md) | 8 | 7 | 1 | 1989-04 | 2018-04 |
@@ -73,7 +75,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-generative-model`](control-generative-model.md) | 3 | 3 | 0 | 2013-12 | 2020-06 |
 | [`control-gps-denied-navigation`](control-gps-denied-navigation.md) | 2 | 1 | 1 | 2000-01 | 2017-09 |
 | [`control-graph-search`](control-graph-search.md) | 2 | 2 | 0 | 1968-07 | 1995-05 |
-| [`control-grasp-planning`](control-grasp-planning.md) | 3 | 2 | 1 | 1989-06 | 2002-04 |
+| [`control-grasp-planning`](control-grasp-planning.md) | 6 | 5 | 1 | 1989-06 | 2023-01 |
 | [`control-grasp-taxonomy`](control-grasp-taxonomy.md) | 4 | 4 | 0 | 1919-01 | 1989-06 |
 | [`control-haptic-rendering`](control-haptic-rendering.md) | 4 | 3 | 1 | 1994-09 | 2023-09 |
 | [`control-imitation-learning`](control-imitation-learning.md) | 24 | 23 | 1 | 2018-04 | 2025-11 |
@@ -99,6 +101,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-multilingual-speech`](control-multilingual-speech.md) | 3 | 2 | 1 | 2003-09 | 2017-08 |
 | [`control-multimodal-sensor-fusion`](control-multimodal-sensor-fusion.md) | 2 | 2 | 0 | 2009-01 | 2017-04 |
 | [`control-musculoskeletal-modeling`](control-musculoskeletal-modeling.md) | 3 | 2 | 1 | 2003-01 | 2016-08 |
+| [`control-myoelectric`](control-myoelectric.md) | 2 | 2 | 0 | 1963-01 | 2007-07 |
 | [`control-network-protocol`](control-network-protocol.md) | 2 | 2 | 0 | 2014-09 | 2017-03 |
 | [`control-neural-decoding`](control-neural-decoding.md) | 2 | 2 | 0 | 2002-07 | 2017-04 |
 | [`control-neural-network-training`](control-neural-network-training.md) | 3 | 3 | 0 | 1986-10 | 2015-02 |
@@ -146,33 +149,40 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-aerial-thruster`](mechanism-aerial-thruster.md) | 4 | 2 | 2 | 2010-01 | 2021-07 |
 | [`mechanism-antagonistic-tendon`](mechanism-antagonistic-tendon.md) | 2 | 2 | 0 | 2024-06 | 2025-10 |
 | [`mechanism-anthropomorphic-arm`](mechanism-anthropomorphic-arm.md) | 25 | 19 | 6 | 1998-01 | 2025-02 |
-| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 135 | 111 | 24 | 1495 | 2026-04 |
+| [`mechanism-anthropomorphic-hand`](mechanism-anthropomorphic-hand.md) | 141 | 117 | 24 | 1495 | 2026-04 |
 | [`mechanism-bipedal-locomotion`](mechanism-bipedal-locomotion.md) | 157 | 122 | 35 | -0250 | 2026-04 |
 | [`mechanism-catheter-robot`](mechanism-catheter-robot.md) | 2 | 2 | 0 | 2007-08 | 2012-07 |
 | [`mechanism-collaborative-robot`](mechanism-collaborative-robot.md) | 5 | 4 | 1 | 1956-01 | 2019-09 |
+| [`mechanism-continuum-manipulator`](mechanism-continuum-manipulator.md) | 3 | 3 | 0 | 2005-04 | 2017-04 |
 | [`mechanism-control-fin`](mechanism-control-fin.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
 | [`mechanism-dynamic-legged-locomotion`](mechanism-dynamic-legged-locomotion.md) | 2 | 1 | 1 | 1981-01 | 2005-12 |
 | [`mechanism-exoskeleton`](mechanism-exoskeleton.md) | 6 | 4 | 2 | 2000-01 | 2018-09 |
+| [`mechanism-gecko-microhair-adhesion`](mechanism-gecko-microhair-adhesion.md) | 2 | 2 | 0 | 2015-01 | 2015-05 |
 | [`mechanism-hexapod`](mechanism-hexapod.md) | 2 | 2 | 0 | 1965-06 | 2000-04 |
 | [`mechanism-hydraulic-actuator`](mechanism-hydraulic-actuator.md) | 3 | 3 | 0 | 2004-03 | 2012-09 |
 | [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 25 | 23 | 2 | 1956-01 | 2022-07 |
 | [`mechanism-mobile-base`](mechanism-mobile-base.md) | 15 | 10 | 5 | 2000-01 | 2024-09 |
+| [`mechanism-parallel-jaw-gripper`](mechanism-parallel-jaw-gripper.md) | 5 | 5 | 0 | 2008-01 | 2025-11 |
 | [`mechanism-parallel-kinematic-haptic`](mechanism-parallel-kinematic-haptic.md) | 2 | 2 | 0 | 1994-09 | 2011-06 |
+| [`mechanism-passive-compliant-gripper`](mechanism-passive-compliant-gripper.md) | 2 | 2 | 0 | 2007-11 | 2009-01 |
 | [`mechanism-passive-dynamic-walking`](mechanism-passive-dynamic-walking.md) | 6 | 5 | 1 | 1990 | 2017 |
 | [`mechanism-pitch-roll-trim`](mechanism-pitch-roll-trim.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
 | [`mechanism-pressure-hull`](mechanism-pressure-hull.md) | 7 | 6 | 1 | 1964-06 | 2018-04 |
 | [`mechanism-quadcopter`](mechanism-quadcopter.md) | 3 | 3 | 0 | 2010-01 | 2018-02 |
 | [`mechanism-quadrupedal-locomotion`](mechanism-quadrupedal-locomotion.md) | 25 | 21 | 4 | 1968-09-27 | 2024-09 |
 | [`mechanism-reconfigurable`](mechanism-reconfigurable.md) | 6 | 2 | 4 | 2018-05 | 2026-01 |
+| [`mechanism-soft-pneumatic-gripper`](mechanism-soft-pneumatic-gripper.md) | 3 | 3 | 0 | 2014-04 | 2017-04 |
 | [`mechanism-soft-robotics`](mechanism-soft-robotics.md) | 3 | 1 | 2 | 2000-01 | 2014-09 |
 | [`mechanism-sprawl-tunable`](mechanism-sprawl-tunable.md) | 6 | 3 | 3 | 2013-05 | 2026-01 |
 | [`mechanism-surgical-robot`](mechanism-surgical-robot.md) | 6 | 5 | 1 | 1989-01 | 2017-08 |
 | [`mechanism-syntactic-foam-ballast`](mechanism-syntactic-foam-ballast.md) | 2 | 2 | 0 | 1964-06 | 2008-05 |
 | [`mechanism-telescoping-mast`](mechanism-telescoping-mast.md) | 6 | 5 | 1 | 2014-05 | 2024-09 |
+| [`mechanism-tendon-drive`](mechanism-tendon-drive.md) | 2 | 2 | 0 | 1984-12 | 2015-05 |
 | [`mechanism-tendon-driven`](mechanism-tendon-driven.md) | 5 | 4 | 1 | 1988-01 | 2025-10 |
 | [`mechanism-tendon-routing`](mechanism-tendon-routing.md) | 15 | 12 | 3 | 1495 | 2024 |
 | [`mechanism-thruster-axial`](mechanism-thruster-axial.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |
 | [`mechanism-thruster-vectored`](mechanism-thruster-vectored.md) | 9 | 8 | 1 | 1964-06 | 2022-07 |
+| [`mechanism-underactuated-finger`](mechanism-underactuated-finger.md) | 2 | 2 | 0 | 1963-01 | 2008-01 |
 | [`mechanism-underactuated-grasping`](mechanism-underactuated-grasping.md) | 9 | 9 | 0 | 1986 | 2018-09 |
 | [`mechanism-variable-buoyancy-glider`](mechanism-variable-buoyancy-glider.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
 | [`mechanism-wheel-leg-hybrid`](mechanism-wheel-leg-hybrid.md) | 12 | 8 | 4 | 2002-10-01 | 2026-01 |
@@ -185,13 +195,14 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`safety-emergency-stop`](safety-emergency-stop.md) | 5 | 5 | 0 | 1982-12 | 2017-05 |
 | [`safety-hard-constraint`](safety-hard-constraint.md) | 58 | 57 | 1 | -0250 | 2024-05-24 |
 | [`safety-simplex-supervisor`](safety-simplex-supervisor.md) | 8 | 8 | 0 | 1940-09 | 2019-05 |
+| [`sensing-3d-perception`](sensing-3d-perception.md) | 4 | 4 | 0 | 2007-01 | 2023-01 |
 | [`sensing-asynchronous-vision`](sensing-asynchronous-vision.md) | 2 | 2 | 0 | 2008-02 | 2020-09 |
 | [`sensing-cortical-implant`](sensing-cortical-implant.md) | 2 | 2 | 0 | 2002-07 | 2017-04 |
 | [`sensing-depth-camera`](sensing-depth-camera.md) | 2 | 2 | 0 | 2010-11 | 2015-01 |
 | [`sensing-event-camera`](sensing-event-camera.md) | 2 | 2 | 0 | 2008-02 | 2020-09 |
 | [`sensing-face-tracking`](sensing-face-tracking.md) | 2 | 2 | 0 | 1998-09 | 2019-06 |
 | [`sensing-fingertip-tactile`](sensing-fingertip-tactile.md) | 7 | 5 | 2 | 2009-12 | 2025-10 |
-| [`sensing-force-torque`](sensing-force-torque.md) | 44 | 38 | 6 | 1969 | 2024-07 |
+| [`sensing-force-torque`](sensing-force-torque.md) | 45 | 39 | 6 | 1969 | 2024-07 |
 | [`sensing-hand-pose-tracking`](sensing-hand-pose-tracking.md) | 4 | 2 | 2 | 2019-06 | 2023-09 |
 | [`sensing-imu`](sensing-imu.md) | 77 | 58 | 19 | 1989 | 2025-10 |
 | [`sensing-joint-torque`](sensing-joint-torque.md) | 2 | 2 | 0 | 2017-09 | 2019-09 |
@@ -201,7 +212,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`sensing-stereo-camera`](sensing-stereo-camera.md) | 83 | 63 | 20 | 1973 | 2024-11 |
 | [`sensing-stereoscopic-camera`](sensing-stereoscopic-camera.md) | 2 | 2 | 0 | 2000-07 | 2024-07 |
 | [`sensing-tactile`](sensing-tactile.md) | 2 | 2 | 0 | 2009-12 | 2014-09 |
-| [`sensing-tactile-fingertip`](sensing-tactile-fingertip.md) | 15 | 15 | 0 | 1973 | 2025-11 |
+| [`sensing-tactile-fingertip`](sensing-tactile-fingertip.md) | 16 | 16 | 0 | 1973 | 2025-11 |
 | [`sensing-tactile-vision-based`](sensing-tactile-vision-based.md) | 5 | 4 | 1 | 2017-04 | 2024-11 |
 | [`sensing-tactile-whole-body`](sensing-tactile-whole-body.md) | 7 | 7 | 0 | 1989-05 | 2015-04 |
 | [`software-mjbots-stack`](software-mjbots-stack.md) | 2 | 2 | 0 | 2019 | 2022 |

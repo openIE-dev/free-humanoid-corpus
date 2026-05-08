@@ -226,7 +226,11 @@
       "year": "1957",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "octarm-walker-clemson-2005",
+        "rbo-hand-2-brock-tu-berlin-2014",
+        "soft-robotics-mgrip-2014"
+      ]
     },
     {
       "id": "dc-brainiac-1958",
@@ -243,6 +247,16 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "belgrade-usc-tomovic-bekey-hand-1963",
+      "name": "Belgrade / Belgrade-USC Hand (Tomović + Bekey)",
+      "year": "1963",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "modern-multiarticulated-prosthetic-hands-2007-2012"
+      ]
     },
     {
       "id": "magnus-robot-fighter",
@@ -785,6 +799,16 @@
       "descendants": []
     },
     {
+      "id": "utah-mit-jacobsen-hand-1984",
+      "name": "Utah/MIT Dextrous Hand (Jacobsen)",
+      "year": "1984",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "sarcos-guardian-xo-2018"
+      ]
+    },
+    {
       "id": "asimovs-zeroth-law",
       "name": "Asimov's Zeroth Law",
       "year": "1985",
@@ -1107,6 +1131,14 @@
         "collins-ruina-tedrake-wisse-passive-walker-2005",
         "wisse-tu-delft-passive-walker-2004"
       ]
+    },
+    {
+      "id": "ati-industrial-ft-sensors-1990s",
+      "name": "ATI Industrial Automation 6-axis F/T sensors (Mini40, Nano17, Gamma)",
+      "year": "1990",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "battle-angel-alita",
@@ -2130,6 +2162,19 @@
       ]
     },
     {
+      "id": "octarm-walker-clemson-2005",
+      "name": "OctArm continuum manipulator (Walker Clemson)",
+      "year": "2005",
+      "corpus": "academic",
+      "ancestors": [
+        "mckibben-pneumatic-muscle-1957"
+      ],
+      "descendants": [
+        "festo-bionic-soft-arm-2017",
+        "festo-octopus-gripper-2017"
+      ]
+    },
+    {
       "id": "tonietti-vsa-pisa-iit-2005",
       "name": "Variable Stiffness Actuator (Tonietti VSA)",
       "year": "2005",
@@ -2265,6 +2310,16 @@
       ]
     },
     {
+      "id": "modern-multiarticulated-prosthetic-hands-2007-2012",
+      "name": "Modern multi-articulated prosthetic hands (i-LIMB / BeBionic / Michelangelo)",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [
+        "belgrade-usc-tomovic-bekey-hand-1963"
+      ],
+      "descendants": []
+    },
+    {
       "id": "sensei-hansen-medical-2009",
       "name": "Hansen Medical Sensei catheter robotic system",
       "year": "2007",
@@ -2288,6 +2343,16 @@
       "ancestors": [],
       "descendants": [
         "rajagopal-opensim-full-body-2016"
+      ]
+    },
+    {
+      "id": "twendy-one-sugano-waseda-2007",
+      "name": "TWENDY-One Hand (Sugano Waseda)",
+      "year": "2007",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "xela-robotics-uskin-2017"
       ]
     },
     {
@@ -2358,6 +2423,16 @@
       "descendants": [
         "pr2"
       ]
+    },
+    {
+      "id": "robotiq-adaptive-grippers-2008",
+      "name": "Robotiq Adaptive Grippers (2F-85, 2F-140, Hand-E, 3-Finger)",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [
+        "universal-robots-denmark-2008"
+      ],
+      "descendants": []
     },
     {
       "id": "lichtsteiner-dvs-event-camera-2008",
@@ -2446,7 +2521,8 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": [
-        "fanuc-crx-collaborative-2019"
+        "fanuc-crx-collaborative-2019",
+        "robotiq-adaptive-grippers-2008"
       ]
     },
     {
@@ -2466,6 +2542,14 @@
       "descendants": [
         "atlas-boston-dynamics"
       ]
+    },
+    {
+      "id": "festo-finray-fingripper-2009",
+      "name": "Festo FinGripper / Adaptive Bionic Gripper (Fin Ray Effect)",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "waymo-google-self-driving-car-2009",
@@ -2684,7 +2768,9 @@
       "year": "2010",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "empire-robotics-versaball-2012"
+      ]
     },
     {
       "id": "kinect-microsoft-2010",
@@ -2794,6 +2880,16 @@
       ]
     },
     {
+      "id": "empire-robotics-versaball-2012",
+      "name": "Empire Robotics VERSABALL universal jamming gripper",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [
+        "cornell-jamming-gripper"
+      ],
+      "descendants": []
+    },
+    {
       "id": "robot-and-frank",
       "name": "Robot (Robot & Frank)",
       "year": "2012",
@@ -2834,6 +2930,14 @@
     {
       "id": "mordatch-cio-2012",
       "name": "Contact-Invariant Optimization (Mordatch CIO)",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sandia-hand-2012",
+      "name": "Sandia Hand modular 12-DoF gripper",
       "year": "2012",
       "corpus": "academic",
       "ancestors": [],
@@ -3044,7 +3148,9 @@
       "ancestors": [
         "barrett-hand-1988"
       ],
-      "descendants": []
+      "descendants": [
+        "schunk-coact-jl1-2016"
+      ]
     },
     {
       "id": "cheetah-cub-epfl",
@@ -3129,6 +3235,17 @@
       "descendants": []
     },
     {
+      "id": "soft-robotics-mgrip-2014",
+      "name": "Soft Robotics Inc mGrip food-handling gripper",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [
+        "harvard-soft-robotics-toolkit-2017",
+        "mckibben-pneumatic-muscle-1957"
+      ],
+      "descendants": []
+    },
+    {
       "id": "cmu-andy-herb2-srinivasa-2014",
       "name": "CMU Personal Robotics Lab Andy / HERB-2 follow-on platform",
       "year": "2014",
@@ -3210,6 +3327,17 @@
       "descendants": []
     },
     {
+      "id": "rbo-hand-2-brock-tu-berlin-2014",
+      "name": "RBO Hand 2 (TU Berlin Brock)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [
+        "mckibben-pneumatic-muscle-1957",
+        "pisa-iit-softhand"
+      ],
+      "descendants": []
+    },
+    {
       "id": "savioke-relay-2014",
       "name": "Savioke Relay (hotel delivery)",
       "year": "2014",
@@ -3223,7 +3351,9 @@
       "year": "2014",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "soft-robotics-mgrip-2014"
+      ]
     },
     {
       "id": "sutskever-seq2seq-nips-2014",
@@ -3264,7 +3394,8 @@
         "barrett-hand-1988"
       ],
       "descendants": [
-        "pisa-iit-softhand-2"
+        "pisa-iit-softhand-2",
+        "rbo-hand-2-brock-tu-berlin-2014"
       ]
     },
     {
@@ -3314,6 +3445,16 @@
       "corpus": "private",
       "ancestors": [
         "kinect-microsoft-2010"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "onrobot-rg-grippers-2015",
+      "name": "OnRobot RG2 / RG6 / VGC10 cobot grippers",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [
+        "stanford-gecko-cutkosky-2015"
       ],
       "descendants": []
     },
@@ -3396,6 +3537,16 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "stanford-gecko-cutkosky-2015",
+      "name": "Stanford gecko-adhesive gripper (Cutkosky BDML)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "onrobot-rg-grippers-2015"
+      ]
     },
     {
       "id": "u-net-ronneberger-miccai-2015",
@@ -3581,6 +3732,16 @@
       "descendants": []
     },
     {
+      "id": "schunk-coact-jl1-2016",
+      "name": "SCHUNK Co-act JL1 collaborative gripper",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [
+        "schunk-svh-german-2013"
+      ],
+      "descendants": []
+    },
+    {
       "id": "kx-series-k2so-2016",
       "name": "KX-series Imperial Security Droids (K-2SO)",
       "year": "2016",
@@ -3655,6 +3816,17 @@
       "descendants": []
     },
     {
+      "id": "dex-net-goldberg-berkeley-2017",
+      "name": "Dex-Net 2.0 (Mahler Goldberg Berkeley)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "anygrasp-fang-sjtu-2023",
+        "graspnet-1billion-fang-sjtu-2020"
+      ]
+    },
+    {
       "id": "janus-stanag-4748-2017",
       "name": "JANUS underwater acoustic communications standard",
       "year": "2017",
@@ -3695,7 +3867,22 @@
       "name": "Festo BionicSoftArm",
       "year": "2017",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "octarm-walker-clemson-2005"
+      ],
+      "descendants": [
+        "festo-octopus-gripper-2017"
+      ]
+    },
+    {
+      "id": "festo-octopus-gripper-2017",
+      "name": "Festo OctopusGripper continuum bionic gripper",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "festo-bionic-soft-arm-2017",
+        "octarm-walker-clemson-2005"
+      ],
       "descendants": []
     },
     {
@@ -3844,6 +4031,16 @@
       "corpus": "academic",
       "ancestors": [
         "cvut-prague-czech-robotics"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "xela-robotics-uskin-2017",
+      "name": "XELA Robotics uSkin 3-axis Hall-effect tactile sensor",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "twendy-one-sugano-waseda-2007"
       ],
       "descendants": []
     },
@@ -4097,7 +4294,9 @@
       "name": "Sarcos Guardian XO",
       "year": "2018",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "utah-mit-jacobsen-hand-1984"
+      ],
       "descendants": []
     },
     {
@@ -4366,6 +4565,18 @@
         "star-trek-tng-lore"
       ],
       "descendants": []
+    },
+    {
+      "id": "graspnet-1billion-fang-sjtu-2020",
+      "name": "GraspNet-1Billion (Fang Lu SJTU)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [
+        "dex-net-goldberg-berkeley-2017"
+      ],
+      "descendants": [
+        "anygrasp-fang-sjtu-2023"
+      ]
     },
     {
       "id": "nerf-mildenhall-eccv-2020",
@@ -4910,6 +5121,17 @@
       "year": "2022",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "anygrasp-fang-sjtu-2023",
+      "name": "AnyGrasp (Fang Lu SJTU 2023)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "dex-net-goldberg-berkeley-2017",
+        "graspnet-1billion-fang-sjtu-2020"
+      ],
       "descendants": []
     },
     {

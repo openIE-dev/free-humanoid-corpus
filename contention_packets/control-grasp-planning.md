@@ -1,7 +1,7 @@
 ---
 title: "control-grasp-planning"
 parent: "Invalidity Contentions"
-nav_order: 47
+nav_order: 49
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-grasp-planning`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
+**Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-06  
-**Most recent disclosure:** 2002-04
+**Most recent disclosure:** 2023-01
 
 ---
 
@@ -100,6 +100,64 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-03 — Dex-Net 2.0 (Mahler Goldberg Berkeley)
+
+- **id:** `dex-net-goldberg-berkeley-2017`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley Goldberg Lab AUTOLAB; Jeffrey Mahler, Ken Goldberg
+- **disclosure citation:** Mahler, J., Liang, J., Niyaz, S., Laskey, M., Doan, R., Liu, X., Aparicio, J., Goldberg, K. 'Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics'. Robotics: Science and Systems (RSS) 2017. arXiv:1703.09312. UC Berkeley Goldberg Lab AUTOLAB. Dex-Net 1.0 (2016 ICRA) preceded; subsequent Dex-Net 3.0 (suction grasps, 2018) + Dex-Net 4.0 (ambidextrous parallel-jaw + suction, *Science Robotics* 2019).
+- **disclosed subsystems:** `control-grasp-planning`, `sensing-3d-perception`, `control-deep-learning-policy`
+
+**Prior art notes:**
+
+> Dex-Net 2.0 (Mahler / Goldberg Berkeley AUTOLAB RSS 2017, arXiv 1703.09312) is the foundational deep grasp-quality network. 8-year-deep open-permissive prior art. Direct shielding for any commercial humanoid claim deriving from deep-learning grasp quality networks, synthetic-data + analytic-metric grasp training, or ambidextrous parallel-jaw + suction grasp policies. Anchors the grasp-learning chain leading to Contact-GraspNet (round-42) + GraspNet-1Billion (round-42) + AnyGrasp (round-42).
+
+**Sources:**
+
+1. arxiv.org/abs/1703.09312
+2. berkeleyautomation.github.io/dex-net/
+
+---
+
+### 2020-03 — GraspNet-1Billion (Fang Lu SJTU)
+
+- **id:** `graspnet-1billion-fang-sjtu-2020`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Shanghai Jiao Tong University Lu Cewu Lab; Hao-Shu Fang, Chenxi Wang, Minghao Gou, Cewu Lu
+- **disclosure citation:** Fang, H.-S., Wang, C., Gou, M., Lu, C. 'GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping'. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020. Shanghai Jiao Tong University Lu Cewu Lab.
+- **disclosed subsystems:** `control-grasp-planning`, `sensing-3d-perception`, `control-deep-learning-policy`
+
+**Prior art notes:**
+
+> GraspNet-1Billion (Fang / Lu SJTU CVPR 2020) is the dominant academic grasp benchmark. 5-year-deep open-permissive prior art. Direct shielding for any commercial humanoid claim deriving from large-scale grasp annotation datasets or benchmark-driven grasp policy evaluation. Together with Dex-Net (round-42), Contact-GraspNet (round-42), AnyGrasp (round-42), establishes the global grasp-learning benchmark prior-art chain.
+
+**Sources:**
+
+1. openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf
+
+---
+
+### 2023-01 — AnyGrasp (Fang Lu SJTU 2023)
+
+- **id:** `anygrasp-fang-sjtu-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Shanghai Jiao Tong University Lu Cewu Lab; Hao-Shu Fang et al.
+- **disclosure citation:** Fang, H.-S., Wang, C., Fang, H., Gou, M., Liu, J., Yan, H., Liu, W., Xie, Y., Lu, C. 'AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains'. IEEE Transactions on Robotics 39(5), 2023. arXiv:2212.08333. Shanghai Jiao Tong University Lu Cewu Lab.
+- **disclosed subsystems:** `control-grasp-planning`, `sensing-3d-perception`, `control-deep-learning-policy`
+
+**Prior art notes:**
+
+> AnyGrasp (Fang / Lu SJTU T-RO 2023, arXiv 2212.08333) is the state-of-the-art Chinese academic grasp-perception benchmark. 2-year-deep open-permissive prior art. Direct shielding for any commercial humanoid claim deriving from billion-scale self-supervised grasp perception or temporal-spatial 7-DoF grasp generation. Lineage descends from GraspNet-1Billion (round-42) and Dex-Net (round-42).
+
+**Sources:**
+
+1. arxiv.org/abs/2212.08333
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -130,4 +188,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `a27a0cf`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*

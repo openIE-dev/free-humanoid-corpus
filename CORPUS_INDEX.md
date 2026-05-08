@@ -1,6 +1,6 @@
 # Corpus Index
 
-622 entries total. Generated from corpus.jsonl.
+642 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | Android 18 (Lazuli) | `dbz-android-18` | 1992 | fictional | fictional |  |
 | Anthropic Claude robotics applications | `anthropic-claude-robotics-2025` | 2024 | private | trade-secret | ✓ |
 | AnyBody Modeling System | `anybody-rasmussen-2003` | 2003 | private | trade-secret | ✓ |
+| AnyGrasp (Fang Lu SJTU 2023) | `anygrasp-fang-sjtu-2023` | 2023 | academic | open-permissive |  |
 | ANYmal | `anymal` | 2016 | private | patented |  |
 | ANYmal-D industrial quadruped (ETH RSL / ANYbotics) | `anymal-d-eth-rsl-2022` | 2022 | academic | public-domain |  |
 | Apple Intelligence + Apple Robotics research (2025) | `apple-vla-research-2025` | 2025 | private | trade-secret | ✓ |
@@ -49,6 +50,7 @@
 | Asimov's Zeroth Law | `asimovs-zeroth-law` | 1985 | fictional | fictional |  |
 | Astribot S1 | `astribot-s1-stardust-2025` | 2024 | private | trade-secret |  |
 | Astro Boy | `astro-boy` | 1952 | fictional | fictional | ✓ |
+| ATI Industrial Automation 6-axis F/T sensors (Mini40, Nano17, Gamma) | `ati-industrial-ft-sensors-1990s` | 1990 | private | trade-secret |  |
 | Atlas | `atlas-boston-dynamics` | 2013 | private | patented | ✓ |
 | Atlas academic publications (Kuindersma et al., DRC era) | `atlas-academic-disclosures` | 2014 | academic | public-domain |  |
 | Atlas and P-Body (Portal 2) | `atlas-p-body-portal-2` | 2011 | fictional | fictional |  |
@@ -66,6 +68,7 @@
 | BB-8 | `bb-8-star-wars` | 2015 | fictional | fictional |  |
 | BC-Z | `bc-z-jang-2021` | 2021 | academic | public-domain |  |
 | Bear Robotics Servi (restaurant service) | `bear-robotics-servi-2017` | 2017 | private | trade-secret |  |
+| Belgrade / Belgrade-USC Hand (Tomović + Bekey) | `belgrade-usc-tomovic-bekey-hand-1963` | 1963 | academic | public-domain |  |
 | Berkeley BLEEX (Lower Extremity Exoskeleton) | `berkeley-bleex-kazerooni-2004` | 2004 | academic | public-domain |  |
 | Berkeley Humanoid | `berkeley-humanoid` | 2024 | academic | open-permissive |  |
 | Berkeley Humanoid | `berkeley-humanoid-2024` | 2024 | academic | open-permissive |  |
@@ -149,6 +152,7 @@
 | Denoising Diffusion Probabilistic Models (DDPM) | `ddpm-ho-neurips-2020` | 2020 | academic | public-domain |  |
 | Depth Anything V2 | `bytedance-depth-anything-v2-2024` | 2024 | academic | open-permissive |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
+| Dex-Net 2.0 (Mahler Goldberg Berkeley) | `dex-net-goldberg-berkeley-2017` | 2017 | academic | open-permissive |  |
 | DexMV (Dexterous Manipulation from Videos) | `dexmv-qin-cvpr-2022` | 2021 | academic | open-permissive |  |
 | DGS-SLAM | `dgs-slam-kong-2024` | 2024 | academic | open-permissive | ✓ |
 | Diffusion Policy | `diffusion-policy` | 2023 | academic | open-permissive |  |
@@ -182,6 +186,7 @@
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
 | Educational SoftHand-A | `educational-softhand-a-2025` | 2025 | academic | open-permissive |  |
 | Embrapa Brazilian agritech robotics | `embrapa-brazil-agritech-robotics` | 2010 | academic | public-domain | ✓ |
+| Empire Robotics VERSABALL universal jamming gripper | `empire-robotics-versaball-2012` | 2012 | private | trade-secret |  |
 | EngineAI PM01 | `engineai-pm01` | 2024 | private | patented | ✓ |
 | EngineAI SE01 | `engineai-se01-2025` | 2025 | private | trade-secret | ✓ |
 | Ergo Proxy (Autoreivs and Proxies) | `ergo-proxy-2006` | 2006 | fictional | fictional |  |
@@ -195,6 +200,8 @@
 | Featherstone Robot Dynamics Algorithms | `featherstone-rdf` | 1987 | academic | public-domain |  |
 | Ferrari-Canny Grasp Quality Metrics | `ferrari-canny-grasp-quality` | 1992 | academic | public-domain |  |
 | Festo BionicSoftArm | `festo-bionic-soft-arm-2017` | 2017 | private | trade-secret |  |
+| Festo FinGripper / Adaptive Bionic Gripper (Fin Ray Effect) | `festo-finray-fingripper-2009` | 2009 | private | trade-secret |  |
+| Festo OctopusGripper continuum bionic gripper | `festo-octopus-gripper-2017` | 2017 | private | trade-secret |  |
 | Fetch & Freight (Fetch Robotics) | `fetch-freight-fetchrobotics-2014` | 2014 | private | trade-secret |  |
 | Figure 01 | `figure-01` | 2023 | private | patented | ✓ |
 | Figure 02 | `figure-02` | 2024 | private | patented | ✓ |
@@ -227,6 +234,7 @@
 | Google DeepMind Gemini Robotics 1.5 | `google-gemini-robotics-1-5-2025` | 2025 | private | trade-secret | ✓ |
 | Goswami Foot Rotation Indicator | `goswami-fri` | 1999 | academic | public-domain |  |
 | GPT-3 (Brown et al. OpenAI 2020) | `gpt-3-brown-openai-neurips-2020` | 2020 | academic | trade-secret |  |
+| GraspNet-1Billion (Fang Lu SJTU) | `graspnet-1billion-fang-sjtu-2020` | 2020 | academic | open-permissive |  |
 | Habitat 3.0 | `fair-habitat-3-puig-2024` | 2023 | academic | open-permissive |  |
 | Habitat-Sim (Facebook AI Research) | `fair-habitat-sim-2019` | 2019 | academic | open-permissive |  |
 | Hadaly (L'Ève future) | `l-eve-future` | 1886 | fictional | fictional |  |
@@ -358,6 +366,7 @@
 | MJOLNIR Powered Assault Armor / Master Chief | `halo-mjolnir-master-chief` | 2001 | fictional | fictional |  |
 | Mobile ALOHA | `mobile-aloha` | 2024 | academic | open-permissive |  |
 | Model Predictive Control (MPC) | `mpc-garcia-prett-morari-1989` | 1989 | academic | public-domain |  |
+| Modern multi-articulated prosthetic hands (i-LIMB / BeBionic / Michelangelo) | `modern-multiarticulated-prosthetic-hands-2007-2012` | 2007 | private | trade-secret |  |
 | MODOK | `modok-marvel` | 1967 | fictional | fictional | ✓ |
 | Modular Prosthetic Limb (MPL) | `apl-mpl-revolutionizing-prosthetics-2009` | 2009 | academic | public-domain |  |
 | MoveIt! motion-planning framework | `moveit-sucan-icra-2014` | 2013 | academic | open-permissive |  |
@@ -388,10 +397,12 @@
 | OceanOne | `oceanone-stanford-2016` | 2016 | academic | open-permissive |  |
 | OceanOneK | `ocean-onek-stanford-2022` | 2022 | academic | open-permissive |  |
 | OCS2 (Optimal Control for Switched Systems) | `ocs2-eth-2017` | 2017 | academic | open-permissive |  |
+| OctArm continuum manipulator (Walker Clemson) | `octarm-walker-clemson-2005` | 2005 | academic | academic-publication |  |
 | Octo (Open-Source Generalist Robot Policy) | `octo-policy` | 2024 | academic | open-permissive |  |
 | Octo (Open-Source Generalist Robot Policy) | `octo-rss-2024` | 2024 | academic | open-permissive |  |
 | ODrive | `odrive` | 2017 | open | open-permissive |  |
 | OmniGibson / iGibson (Stanford SVL) | `stanford-omnigibson-2023` | 2018 | academic | open-permissive |  |
+| OnRobot RG2 / RG6 / VGC10 cobot grippers | `onrobot-rg-grippers-2015` | 2015 | private | trade-secret |  |
 | Open Invention Network | `open-invention-network-2005` | 2005 | open | open-permissive |  |
 | Open X-Embodiment | `open-x-embodiment` | 2023 | academic | open-permissive |  |
 | Open-TeleVision | `opentelevision-cheng-corl-2024` | 2024 | academic | open-permissive |  |
@@ -435,6 +446,7 @@
 | Rajagopal full-body OpenSim musculoskeletal model | `rajagopal-opensim-full-body-2016` | 2016 | academic | open-permissive |  |
 | Random Forests | `random-forest-breiman-2001` | 2001 | academic | public-domain |  |
 | Rapidly-exploring Random Tree (RRT) | `rrt-lavalle-1998` | 1998 | academic | public-domain |  |
+| RBO Hand 2 (TU Berlin Brock) | `rbo-hand-2-brock-tu-berlin-2014` | 2014 | academic | academic-publication |  |
 | RDT-1B (Robotics Diffusion Transformer) | `rdt-1b-thu-2024` | 2024 | academic | open-permissive |  |
 | Reachy | `reachy` | 2020 | open | open-permissive |  |
 | Reachy 1 (Pollen Robotics open-source humanoid) | `reachy-1-pollen-2017` | 2017 | open | open-source |  |
@@ -463,6 +475,7 @@
 | Robonaut 2 | `robonaut-2` | 2010 | academic | patented |  |
 | Robot (Robot & Frank) | `robot-and-frank` | 2012 | fictional | fictional |  |
 | Robot Era STAR1 | `robot-era-star1` | 2024 | private | patented | ✓ |
+| Robotiq Adaptive Grippers (2F-85, 2F-140, Hand-E, 3-Finger) | `robotiq-adaptive-grippers-2008` | 2008 | private | trade-secret |  |
 | Robotis OP3 | `robotis-op3-2017` | 2017 | private | trade-secret |  |
 | Robotis OpenManipulator | `robotis-openmanipulator-2018` | 2018 | private | open-permissive |  |
 | Robotman (Robert Crane) | `dc-robotman-1942` | 1942 | fictional | fictional |  |
@@ -484,6 +497,7 @@
 | Sanctuary AI Phoenix | `sanctuary-phoenix` | 2023 | private | patented | ✓ |
 | Sanctuary AI Phoenix Carbon (Gen 7) | `sanctuary-phoenix-carbon-2024` | 2024 | private | trade-secret | ✓ |
 | Sanctuary Phoenix Gen 6 | `sanctuary-phoenix-gen6` | 2022 | private | patented | ✓ |
+| Sandia Hand modular 12-DoF gripper | `sandia-hand-2012` | 2012 | academic | academic-publication |  |
 | SAPIEN simulator | `sapien-xiang-cvpr-2020` | 2020 | academic | open-permissive |  |
 | Sarcos Guardian XO | `sarcos-guardian-xo-2018` | 2018 | private | trade-secret |  |
 | Saska multi-MAV systems (CTU Prague MRS group) | `saska-cvut-multi-mav-2017` | 2017 | academic | open-permissive |  |
@@ -492,6 +506,7 @@
 | SCARA (Selective Compliance Articulated Robot Arm) | `scara-makino-1979` | 1979 | academic | public-domain |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
 | Schlesinger 6-grasp classification | `schlesinger-grasp-classification-1919` | 1919 | academic | public-domain |  |
+| SCHUNK Co-act JL1 collaborative gripper | `schunk-coact-jl1-2016` | 2016 | private | trade-secret |  |
 | Schunk SVH 5-finger dexterous hand | `schunk-svh-german-2013` | 2013 | private | trade-secret |  |
 | Seaglider AUV | `seaglider-auv-2001` | 2001 | academic | open-permissive |  |
 | Segment Anything 2 (SAM 2) | `meta-sam-2-2024` | 2024 | academic | open-permissive |  |
@@ -518,10 +533,12 @@
 | Slocum Glider | `slocum-glider-auv` | 1989 | academic | open-permissive |  |
 | Smith (Atlas 2024) | `atlas-2024-film` | 2024 | fictional | fictional |  |
 | Soft Actor-Critic (SAC) | `soft-actor-critic-haarnoja-2018` | 2018 | academic | public-domain |  |
+| Soft Robotics Inc mGrip food-handling gripper | `soft-robotics-mgrip-2014` | 2014 | private | trade-secret |  |
 | Sony AIBO | `sony-aibo` | 1999 | private | patented |  |
 | Sony QRIO | `sony-qrio` | 2003 | private | patented |  |
 | Sophia | `hanson-sophia` | 2016 | private | patented |  |
 | Sophia (Persona 5 Royal) | `persona-5-sophia` | 2019 | fictional | fictional |  |
+| Stanford gecko-adhesive gripper (Cutkosky BDML) | `stanford-gecko-cutkosky-2015` | 2015 | academic | academic-publication |  |
 | Stanford JackRabbot 2 (JR-2) wheeled-arm research robot | `stanford-jr2-2018` | 2018 | academic | public-domain |  |
 | Stanford Pupper / Doggo open-source quadruped | `stanford-pupper-doggo-2019` | 2019 | academic | open-permissive |  |
 | STAR (Sprawl-Tuned Autonomous Robot) | `star-fearing-2013` | 2013 | academic | open-permissive |  |
@@ -567,6 +584,7 @@
 | TSTAR (Tail STAR) | `tstar-zarrouk-2018` | 2018 | academic | open-permissive | ✓ |
 | TU Delft Netherlands robotics | `tu-delft-netherlands-robotics` | 2000 | academic | open-permissive | ✓ |
 | TurtleBot | `turtlebot-willow-garage-2010` | 2010 | academic | open-permissive |  |
+| TWENDY-One Hand (Sugano Waseda) | `twendy-one-sugano-waseda-2007` | 2007 | academic | academic-publication |  |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
 | U-Net | `u-net-ronneberger-miccai-2015` | 2015 | academic | public-domain |  |
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |
@@ -588,6 +606,7 @@
 | University of Malaya (UM) Kuala Lumpur robotics | `um-malaysia-kuala-lumpur-robotics` | 2000 | academic | open-permissive | ✓ |
 | Upkie | `upkie` | 2022 | open | open-permissive |  |
 | USP Brazil robotics cluster | `usp-brazil-robotics-cluster` | 2000 | academic | public-domain | ✓ |
+| Utah/MIT Dextrous Hand (Jacobsen) | `utah-mit-jacobsen-hand-1984` | 1984 | academic | public-domain |  |
 | V'Ger | `v-ger-star-trek` | 1979 | fictional | fictional |  |
 | V.I.N.CENT and Maximilian (The Black Hole) | `black-hole-vincent` | 1979 | fictional | fictional |  |
 | Val and Aqua (Heartbeeps) | `heartbeeps-val-aqua` | 1981 | fictional | fictional |  |
@@ -615,6 +634,7 @@
 | Willow Garage PR1 | `willow-pr1` | 2008 | academic | open-permissive |  |
 | Wisse passive-dynamic walker thesis | `wisse-tu-delft-passive-walker-2004` | 2004 | academic | public-domain |  |
 | Word2Vec | `word2vec-mikolov-2013` | 2013 | academic | public-domain |  |
+| XELA Robotics uSkin 3-axis Hall-effect tactile sensor | `xela-robotics-uskin-2017` | 2017 | private | trade-secret |  |
 | Xiaomi CyberOne | `xiaomi-cyberone-2022` | 2022 | private | trade-secret |  |
 | XPeng Iron | `xpeng-iron` | 2024 | private | patented | ✓ |
 | Yale OpenHand / ReFlex Hand | `yale-reflex-openhand-2014` | 2014 | academic | open-permissive |  |

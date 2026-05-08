@@ -1,7 +1,7 @@
 ---
 title: "sensing-tactile-fingertip"
 parent: "Invalidity Contentions"
-nav_order: 175
+nav_order: 186
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `sensing-tactile-fingertip`  
-**Entries:** 15 (15 commons-grade, 0 draft)  
+**Entries:** 16 (16 commons-grade, 0 draft)  
 **Earliest disclosure:** 1973  
 **Most recent disclosure:** 2025-11
 
@@ -287,6 +287,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-09 — XELA Robotics uSkin 3-axis Hall-effect tactile sensor
+
+- **id:** `xela-robotics-uskin-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** XELA Robotics K.K. (Tokyo, Japan; Waseda University Sugano Lab spinout); Tomo, Wong, Schmitz, Sugano
+- **disclosure citation:** XELA Robotics K.K. (Tokyo, Japan; Waseda University spinout). uSkin 3-axis Hall-effect magnetic tactile sensor product reveal September 2017. Tomo, T.P., Wong, W.K., Schmitz, A., Kristanto, H., Sarazin, A., Jamone, L., Somlor, S., Sugano, S. 'A modular, distributed, soft, 3-axis sensor system for robot hands'. IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2016. Subsequent commercial deployment via XELA Robotics.
+- **disclosed subsystems:** `sensing-tactile-fingertip`, `sensing-3axis-magnetic-tactile`
+
+**Prior art notes:**
+
+> XELA Robotics uSkin (XELA Tokyo 2017+) is the canonical commercial 3-axis magnetic-tactile sensor. 8-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from Hall-effect magnetic tactile sensing or 3-axis distributed taxel arrays on robot fingertips. Sister to GelSight family (corpus gelsight + gelsight-mini-2022 + meta-digit-360-2024) for vision-tactile sensing; XELA uSkin represents the magnetic-tactile branch of the same prior-art tree. Lineage descends from TWENDY-One (round-42 twendy-one-sugano-waseda-2007) Sugano Lab heritage.
+
+**Sources:**
+
+1. xelarobotics.com/
+2. Tomo, T.P. et al. Humanoids 2016.
+
+---
+
 ### 2020-12 — DIGIT
 
 - **id:** `digit-meta`
@@ -379,4 +399,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `a27a0cf`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*

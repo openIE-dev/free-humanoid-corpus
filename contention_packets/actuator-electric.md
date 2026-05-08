@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 33 (26 commons-grade, 7 draft)  
+**Entries:** 38 (31 commons-grade, 7 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2025-10
 
@@ -58,6 +58,27 @@ cite, copy, or redistribute these contentions.
 1. FANUC corporate site (fanuc.com).
 2. Wikipedia 'FANUC'.
 3. International Federation of Robotics annual industrial-robot deployment statistics.
+
+---
+
+### 1963-01 — Belgrade / Belgrade-USC Hand (Tomović + Bekey)
+
+- **id:** `belgrade-usc-tomovic-bekey-hand-1963`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Mihailo Pupin Institute (Belgrade, Yugoslavia); Rajko Tomović + Miodrag Rakić; later Belgrade-USC version with George Bekey at USC
+- **disclosure citation:** Tomović, R., Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962. Belgrade Hand developed at Mihailo Pupin Institute (Belgrade, Yugoslavia) 1961-1963. Subsequent Belgrade-USC Hand version with George Bekey at University of Southern California ~1988.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-underactuated-finger`, `control-myoelectric`, `actuator-electric`
+
+**Prior art notes:**
+
+> Belgrade / Belgrade-USC Hand (Tomović + Rakić 1963; Bekey USC 1988) is the foundational anthropomorphic prosthetic hand and the world's first externally-powered five-finger myoelectric prosthetic. 62-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from five-finger anthropomorphic hands, underactuated finger mechanisms, or myoelectric prosthetic control. Foundational to every modern anthropomorphic hand including Robotiq (round-42), Shadow Dexterous Hand (corpus), Salisbury Stanford-JPL Hand (corpus), Utah/MIT Hand (round-42), and the entire dexterous-hand research lineage.
+
+**Sources:**
+
+1. Tomović, R. + Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962.
+2. en.techfokus.rs/belgrade-hand-first-bionic-prosthetic-robotics/
+3. en.wikipedia.org/wiki/Rajko_Tomović
 
 ---
 
@@ -143,6 +164,46 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2007-07 — Modern multi-articulated prosthetic hands (i-LIMB / BeBionic / Michelangelo)
+
+- **id:** `modern-multiarticulated-prosthetic-hands-2007-2012`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Touch Bionics (Edinburgh) → Össur (Iceland); RSL Steeper (UK) → Otto Bock (Germany); Otto Bock HealthCare (Duderstadt, Germany)
+- **disclosure citation:** Touch Bionics Ltd. (Edinburgh, Scotland; founded 2003 by David Gow, NHS Lothian rehabilitation engineering spinout). i-LIMB myoelectric prosthetic hand product reveal July 2007. RSL Steeper Ltd. (UK) BeBionic hand 2010, acquired by Otto Bock HealthCare 2017. Otto Bock Michelangelo Hand reveal 2012. Touch Bionics acquired by Össur (Iceland) 2016; i-LIMB Quantum 2015.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-multi-articulated-finger`, `control-myoelectric`, `actuator-electric`
+
+**Prior art notes:**
+
+> Modern multi-articulated prosthetic hands (Touch Bionics i-LIMB 2007, RSL Steeper BeBionic 2010, Otto Bock Michelangelo 2012) are the defining commercial multi-articulated myoelectric prosthetic hand category. 13-19-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from individually-powered five-finger prosthetic hands or myoelectric multi-grip control. Lineage descends from Belgrade-USC Hand (round-42 belgrade-usc-tomovic-bekey-hand-1963) of foundational anthropomorphic prosthetics.
+
+**Sources:**
+
+1. ottobock.com/en-us/product/8E7----61161 (BeBionic).
+2. Touch Bionics i-LIMB historical product page (Össur).
+
+---
+
+### 2008-01 — Robotiq Adaptive Grippers (2F-85, 2F-140, Hand-E, 3-Finger)
+
+- **id:** `robotiq-adaptive-grippers-2008`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Robotiq Inc. (Lévis QC, Canada); Bouchard, Jobin, Duchaine; underactuated finger lineage from Laval University MARS hand
+- **disclosure citation:** Robotiq Inc. (Lévis, Québec, Canada). Founded 2008 by Samuel Bouchard, Jean-Philippe Jobin, Vincent Duchaine. Adaptive Gripper product line 2008-2018: 2-Finger 85 (2F-85, 2014), 2-Finger 140 (2F-140, 2017), Hand-E (2018), 3-Finger Adaptive Gripper (2008). Underactuated finger mechanism descended from Laval University MARS hand (Laliberté, Birglen, Gosselin).
+- **disclosed subsystems:** `mechanism-parallel-jaw-gripper`, `mechanism-underactuated-finger`, `actuator-electric`
+
+**Prior art notes:**
+
+> Robotiq Adaptive Grippers (Robotiq Lévis QC 2008+) are the canonical commercial cobot end-effector with 17+ years of deployment and 23,000+ units shipped. Direct shielding for any commercial humanoid claim deriving from underactuated parallel-jaw or three-finger adaptive grippers, or from cobot-tool plug-and-play architectures. Lineage descends from Laval University MARS hand (Laliberté / Birglen / Gosselin) underactuated mechanism.
+
+**Sources:**
+
+1. blog.robotiq.com/adaptive-robot-gripper-3-finger-history
+2. robotiq.com/products/adaptive-grippers
+
+---
+
 ### 2008-12 — Surena humanoid (Tehran University)
 
 - **id:** `surena-tehran-university-2008`
@@ -186,6 +247,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2012-08 — Sandia Hand modular 12-DoF gripper
+
+- **id:** `sandia-hand-2012`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Sandia National Laboratories (Albuquerque, NM, USA); Curt Salisbury (PI); DARPA ARM-H program
+- **disclosure citation:** Quigley, M., Salisbury, C., Ng, A.Y., Salisbury, J.K. 'Mechatronic design of an integrated robotic hand'. International Journal of Robotics Research 33(5), 2014. Sandia National Laboratories (Albuquerque, NM, USA) DARPA Autonomous Robotic Manipulation (ARM-H) program. Reveal August 2012; ~$10K modular hand target.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-modular-finger`, `actuator-electric`
+
+**Prior art notes:**
+
+> Sandia Hand (Sandia National Laboratories 2012, IJRR 2014) is the canonical cost-reduced modular anthropomorphic hand. 13-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from modular-interchangeable-finger architectures or low-cost (\$10k-class) anthropomorphic hands. DARPA ARM-H program lineage.
+
+**Sources:**
+
+1. sandia.gov/research/sandia-hand/
+2. spectrum.ieee.org/sandia-labs-robotic-hand-
+3. Quigley, M. et al. IJRR 33(5), 2014.
+
+---
+
 ### 2014-04 — Allegro Hand (Wonik / SimLab)
 
 - **id:** `allegro-hand-wonik-simlab-2014`
@@ -224,6 +306,26 @@ cite, copy, or redistribute these contentions.
 
 1. PAL Robotics TIAGo product page (pal-robotics.com).
 2. PAL Robotics corporate site.
+
+---
+
+### 2015-01 — OnRobot RG2 / RG6 / VGC10 cobot grippers
+
+- **id:** `onrobot-rg-grippers-2015`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** On Robot A/S (Odense, Denmark); Christiansen + Fuglsang; absorbed Perception Robotics + OptoForce 2018
+- **disclosure citation:** On Robot A/S (Odense, Denmark). Founded 2015 by Bilge J. Christiansen + Ebbe O. Fuglsang. RG2 (2015) and RG6 (2016) electric parallel grippers; VG10 / VGC10 compressor-free electric vacuum grippers (2017-2019). Merged with Perception Robotics (NASA-JPL gecko-microhair-licensed) and OptoForce (Hungarian F/T sensor) 2018.
+- **disclosed subsystems:** `mechanism-parallel-jaw-gripper`, `mechanism-vacuum-gripper`, `mechanism-gecko-microhair-adhesion`, `actuator-electric`
+
+**Prior art notes:**
+
+> OnRobot RG-line and VGC-line grippers (Odense Denmark 2015+) are the canonical 'cable-free cobot tool' commercial category. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from plug-and-play electric parallel grippers, compressor-free electric vacuum grippers, or gecko-microhair dry-adhesion grippers. Together with Robotiq (round-42) and SCHUNK Co-act (round-42), establishes the global cobot-gripper prior-art chain across CA / DK / DE.
+
+**Sources:**
+
+1. onrobot.com/en/about
+2. onrobot.com/en/products/gecko-gripper
 
 ---
 
@@ -749,4 +851,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `a27a0cf`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*

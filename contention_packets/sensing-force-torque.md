@@ -1,7 +1,7 @@
 ---
 title: "sensing-force-torque"
 parent: "Invalidity Contentions"
-nav_order: 165
+nav_order: 176
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `sensing-force-torque`  
-**Entries:** 44 (38 commons-grade, 6 draft)  
+**Entries:** 45 (39 commons-grade, 6 draft)  
 **Earliest disclosure:** 1969  
 **Most recent disclosure:** 2024-07
 
@@ -119,6 +119,26 @@ cite, copy, or redistribute these contentions.
 1. Howe, R.D. and Cutkosky, M.R. 'Sensing skin acceleration for slip and texture perception'. IEEE ICRA 1989.
 2. Howe, R.D. and Cutkosky, M.R. 'Dynamic tactile sensing'. IEEE T-RO 9(2), 1993.
 3. Howe, R.D. 'Tactile sensing and control of robotic manipulation'. Advanced Robotics 8(3), 1994.
+
+---
+
+### 1990-01 — ATI Industrial Automation 6-axis F/T sensors (Mini40, Nano17, Gamma)
+
+- **id:** `ati-industrial-ft-sensors-1990s`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** ATI Industrial Automation, Inc. (Apex, NC, USA; now Novanta)
+- **disclosure citation:** ATI Industrial Automation, Inc. (Apex, NC, USA; founded 1989; now part of Novanta). 6-axis force/torque sensor product line from ~1990 onward. Mini40 (~2000), Nano17 (~2003), Gamma, Delta, Theta product variants. EDM-cut stainless-steel monolith with silicon strain gauges. The dominant commercial wrist F/T sensor in academic + industrial robotics.
+- **disclosed subsystems:** `sensing-force-torque`, `sensing-6axis-ft`
+
+**Prior art notes:**
+
+> ATI Industrial Automation 6-axis F/T sensors (Apex NC ~1990+) are the dominant commercial 6-axis wrist F/T sensors. 30+-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from 6-axis wrist or fingertip F/T sensing. The default citation for commercial F/T sensing in academic literature.
+
+**Sources:**
+
+1. ati-ia.com/products/ft/ft_models.aspx?id=mini40
+2. ATI Industrial Automation product line documentation.
 
 ---
 
@@ -953,4 +973,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `a27a0cf`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*

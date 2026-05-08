@@ -1,7 +1,7 @@
 ---
 title: "power-li-po"
 parent: "Invalidity Contentions"
-nav_order: 153
+nav_order: 163
 layout: default
 ---
 
@@ -130,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `a27a0cf`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*

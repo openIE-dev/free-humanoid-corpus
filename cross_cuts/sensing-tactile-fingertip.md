@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `sensing-tactile-fingertip`
 
-**15 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1973
 
@@ -122,6 +122,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Odhner, Lael U.; Jentoft, Leif P.; Claffee, Mark R.; Corson, Nicholas; Tenzer, Yaroslav; Ma, Raymond R.; Buehler, Martin; Kohout, Robert; Howe, Robert D.; Dollar, Aaron M. 'A compliant, underactuated hand for robust manipulation.' International Journal of Robotics Research, Volume 33, Issue 5, April 2014, pp. 736-752. DOI: 10.1177/0278364913514466. Yale OpenHand Project release: Ma, R. R. and Dollar, A. M. 'Yale OpenHand Project: Optimizing Open-Source Hand Designs for Ease of Fabrication and Adoption.' IEEE Robotics & Automation Magazine, Volume 24, Issue 1, March 2017, pp. 32-40. DOI: 10.1109/MRA.2016.2639034. Open-hardware repository at https://www.eng.yale.edu/grablab/openhand/.
 - **ip status**: open-permissive
 - **prior art notes**: Yale OpenHand / ReFlex SF (Odhner-Dollar et al. IJRR 2014; Yale OpenHand Project IEEE RAM 2017) is the canonical open-hardware academic disclosure of underactuated tendon-driven robust grasping hands. Anticipates with full open-hardware specificity: (1) the three-finger underactuated tendon-driven gripper with passive compliance — directly relevant to claims on simple-grasp humanoid end-effectors; (2) the open-hardware design release pattern (CAD files, BOMs, fabrication instructions) for robotic hands — relevant to claims on 3D-printable robotic hand IP (predates and anticipates many late-2010s and 2020s open-hardware hand patents); (3) the compliant-grasp-without-perception paradigm as an alternative to dexterous-perception-driven manipulation — relevant to claims on perception-light humanoid grasping; (4) integration of barometric tactile sensors (TakkTile) into a robot hand — relevant to claims on humanoid tactile fingertip IP. Yale GRAB Lab has continuous publication record on underactuated hands since the early 2000s; the 2014 IJRR consolidates the design canon. Modern open-hardware humanoid hand IP filings face this 12-year-deep open-source academic anchor.
+
+## XELA Robotics uSkin 3-axis Hall-effect tactile sensor (2017-09)
+
+- **id**: `xela-robotics-uskin-2017`
+- **corpus**: private
+- **creator**: XELA Robotics K.K. (Tokyo, Japan; Waseda University Sugano Lab spinout); Tomo, Wong, Schmitz, Sugano
+- **disclosure**: XELA Robotics K.K. (Tokyo, Japan; Waseda University spinout). uSkin 3-axis Hall-effect magnetic tactile sensor product reveal September 2017. Tomo, T.P., Wong, W.K., Schmitz, A., Kristanto, H., Sarazin, A., Jamone, L., Somlor, S., Sugano, S. 'A modular, distributed, soft, 3-axis sensor system for robot hands'. IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2016. Subsequent commercial deployment via XELA Robotics.
+- **ip status**: trade-secret
+- **prior art notes**: XELA Robotics uSkin (XELA Tokyo 2017+) is the canonical commercial 3-axis magnetic-tactile sensor. 8-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from Hall-effect magnetic tactile sensing or 3-axis distributed taxel arrays on robot fingertips. Sister to GelSight family (corpus gelsight + gelsight-mini-2022 + meta-digit-360-2024) for vision-tactile sensing; XELA uSkin represents the magnetic-tactile branch of the same prior-art tree. Lineage descends from TWENDY-One (round-42 twendy-one-sugano-waseda-2007) Sugano Lab heritage.
 
 ## DIGIT (2020-12)
 
