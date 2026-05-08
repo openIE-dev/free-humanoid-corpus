@@ -957,7 +957,9 @@
       "year": "1989",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "taylor-robodoc-orthopedic-1992"
+      ]
     },
     {
       "id": "jason-rov-1989",
@@ -1070,6 +1072,16 @@
       "descendants": [
         "honda-e6"
       ]
+    },
+    {
+      "id": "taylor-robodoc-orthopedic-1992",
+      "name": "ROBODOC orthopedic surgical robot (Taylor JHU + Integrated Surgical Systems)",
+      "year": "1992",
+      "corpus": "private",
+      "ancestors": [
+        "taylor-jhu-surgical-robotics-1990s"
+      ],
+      "descendants": []
     },
     {
       "id": "dbz-android-17",
@@ -3618,6 +3630,19 @@
       "descendants": []
     },
     {
+      "id": "nerf-mildenhall-eccv-2020",
+      "name": "NeRF (Neural Radiance Fields)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "kerbl-3d-gaussian-splatting-siggraph-2023",
+        "lerf-kerr-2023",
+        "nerfstudio-berkeley-2023",
+        "rodyn-slam-jiang-2024"
+      ]
+    },
+    {
       "id": "sapien-xiang-cvpr-2020",
       "name": "SAPIEN simulator",
       "year": "2020",
@@ -3715,7 +3740,8 @@
       "descendants": [
         "ase-peng-stanford-2022",
         "exbody-stanford-2024",
-        "humanplus-stanford-2024"
+        "humanplus-stanford-2024",
+        "maskedmimic-tessler-stanford-2024"
       ]
     },
     {
@@ -3896,7 +3922,8 @@
       ],
       "descendants": [
         "exbody-stanford-2024",
-        "humanplus-stanford-2024"
+        "humanplus-stanford-2024",
+        "maskedmimic-tessler-stanford-2024"
       ]
     },
     {
@@ -4023,11 +4050,23 @@
       "descendants": []
     },
     {
+      "id": "nerfstudio-berkeley-2023",
+      "name": "Nerfstudio + Nerfacto",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "nerf-mildenhall-eccv-2020"
+      ],
+      "descendants": []
+    },
+    {
       "id": "lerf-kerr-2023",
       "name": "LERF (Language Embedded Radiance Fields)",
       "year": "2023",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "nerf-mildenhall-eccv-2020"
+      ],
       "descendants": [
         "legs-berkeley-2024"
       ]
@@ -4266,7 +4305,9 @@
       "name": "3D Gaussian Splatting (Kerbl et al.)",
       "year": "2023",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "nerf-mildenhall-eccv-2020"
+      ],
       "descendants": [
         "dgs-slam-kong-2024",
         "leg-slam-2025",
@@ -4397,6 +4438,19 @@
       ]
     },
     {
+      "id": "dust3r-naver-cvpr-2024",
+      "name": "DUSt3R",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "mast3r-naver-2024",
+        "megasam-google-2024",
+        "nvidia-vipe-2025",
+        "radio-vipe-itmo-2026"
+      ]
+    },
+    {
       "id": "limx-cl1",
       "name": "LimX Dynamics CL-1",
       "year": "2023",
@@ -4412,7 +4466,9 @@
       "name": "AM-RADIO (NVIDIA)",
       "year": "2023",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "meta-sam-2-2024"
+      ],
       "descendants": []
     },
     {
@@ -4674,6 +4730,14 @@
       "descendants": []
     },
     {
+      "id": "bytedance-depth-anything-v2-2024",
+      "name": "Depth Anything V2",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "humanplus-stanford-2024",
       "name": "HumanPlus humanoid",
       "year": "2024",
@@ -4681,6 +4745,16 @@
       "ancestors": [
         "amp-peng-siggraph-2021",
         "ase-peng-stanford-2022"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "mast3r-naver-2024",
+      "name": "MASt3R (Matching And Stereo 3D Reconstruction)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "dust3r-naver-cvpr-2024"
       ],
       "descendants": []
     },
@@ -4759,6 +4833,16 @@
       "descendants": []
     },
     {
+      "id": "meta-sam-2-2024",
+      "name": "Segment Anything 2 (SAM 2)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "nvidia-am-radio-2024"
+      ]
+    },
+    {
       "id": "opentelevision-cheng-corl-2024",
       "name": "Open-TeleVision",
       "year": "2024",
@@ -4771,7 +4855,9 @@
       "name": "RoDyn-SLAM",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "nerf-mildenhall-eccv-2020"
+      ],
       "descendants": []
     },
     {
@@ -4808,6 +4894,17 @@
       "ancestors": [
         "kerbl-3d-gaussian-splatting-siggraph-2023",
         "lerf-kerr-2023"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "maskedmimic-tessler-stanford-2024",
+      "name": "MaskedMimic",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "amp-peng-siggraph-2021",
+        "ase-peng-stanford-2022"
       ],
       "descendants": []
     },
@@ -4914,7 +5011,9 @@
       "name": "MegaSaM",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "dust3r-naver-cvpr-2024"
+      ],
       "descendants": [
         "nvidia-vipe-2025"
       ]
@@ -5064,6 +5163,7 @@
       "corpus": "academic",
       "ancestors": [
         "droid-slam-2021",
+        "dust3r-naver-cvpr-2024",
         "megasam-google-2024"
       ],
       "descendants": [
@@ -5162,6 +5262,7 @@
       "corpus": "academic",
       "ancestors": [
         "droid-slam-2021",
+        "dust3r-naver-cvpr-2024",
         "nvidia-vipe-2025",
         "orb-slam3-2021"
       ],

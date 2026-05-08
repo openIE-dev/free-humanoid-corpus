@@ -35,7 +35,8 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-soft-elastomeric` | 3 | 2014-09 |
 | `actuator-spherical-multi-dof` | 2 | 2020 |
 | `actuator-variable-stiffness` | 2 | 2005-04 |
-| `control-3d-perception` | 2 | 2023-08 |
+| `control-3d-perception` | 3 | 2020-03 |
+| `control-3d-reconstruction` | 2 | 2023-12 |
 | `control-acoustic-comms` | 10 | 1989-01 |
 | `control-action-chunking` | 1 | 2025-02 |
 | `control-adversarial-style-distillation` | 1 | 2021-04 |
@@ -43,6 +44,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-agricultural-autonomy` | 2 | 2010-01 |
 | `control-articulated-object-manipulation` | 1 | 2020-03 |
 | `control-assembly-task` | 1 | 2023-05 |
+| `control-autonomous-cutting` | 1 | 1992-01 |
 | `control-bci` | 3 | 2002-07 |
 | `control-behavior-tree` | 12 | 1772 |
 | `control-benchmarking` | 6 | 2019-09 |
@@ -50,6 +52,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-bilingual-speech` | 1 | 2020-01 |
 | `control-bimanual-manipulation` | 2 | 2024-10 |
 | `control-bioelectric` | 1 | 2004-06 |
+| `control-bone-registration` | 1 | 1992-01 |
 | `control-bundle-adjustment` | 5 | 2021-04 |
 | `control-cabin-environment` | 1 | 2014-04 |
 | `control-capture-point` | 1 | 2006-12 |
@@ -70,12 +73,13 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-eod-robotics` | 1 | 2000-01 |
 | `control-expressive-humanoid` | 1 | 2024-02 |
 | `control-facial-expression` | 1 | 1998-09 |
+| `control-feature-matching` | 1 | 2024-06 |
 | `control-flow-matching` | 1 | 2024-10 |
 | `control-fluid-simulation` | 1 | 2018-10 |
 | `control-forestry-autonomy` | 1 | 2000-01 |
 | `control-formal-verification` | 1 | 2019-01 |
 | `control-foundation-model` | 1 | 2023-07 |
-| `control-foundation-model-perception` | 10 | 2023-03 |
+| `control-foundation-model-perception` | 16 | 2020-03 |
 | `control-foundation-model-policy` | 16 | 2021-08 |
 | `control-gaussian-splatting-slam` | 6 | 2024-03 |
 | `control-gps-denied-navigation` | 1 | 2000-01 |
@@ -86,9 +90,10 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-high-rate-continuous-control` | 1 | 2025-02 |
 | `control-human-robot-collaboration` | 1 | 2023-10 |
 | `control-humanoid-shadowing` | 1 | 2024-06 |
-| `control-imitation-learning` | 20 | 2018-04 |
+| `control-imitation-learning` | 21 | 2018-04 |
 | `control-immersive-pov` | 1 | 2024-07 |
 | `control-impedance-control` | 2 | 1994-09 |
+| `control-implicit-scene-representation` | 2 | 2020-03 |
 | `control-knowledge-insulation` | 1 | 2025-09 |
 | `control-language-conditioned-policy` | 1 | 2021-12 |
 | `control-language-model` | 1 | 2023-07 |
@@ -98,6 +103,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-long-horizon-manipulation` | 2 | 2021-12 |
 | `control-low-resource-deployment` | 1 | 2005-01 |
 | `control-mask-segmentation` | 1 | 2018-06 |
+| `control-masked-motion-inpainting` | 1 | 2024-09 |
 | `control-master-slave-teleoperation` | 4 | 1989-01 |
 | `control-mav-flight` | 1 | 2000-01 |
 | `control-middleware` | 2 | 2009-05 |
@@ -106,8 +112,8 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-mining-autonomy` | 2 | 2000-01 |
 | `control-mission-script` | 4 | 1989-01 |
 | `control-mode-switching` | 8 | 2008-05 |
-| `control-monocular-metric-depth` | 2 | 2024-12 |
-| `control-motion-capture-imitation` | 5 | 2018-04 |
+| `control-monocular-metric-depth` | 3 | 2024-06 |
+| `control-motion-capture-imitation` | 6 | 2018-04 |
 | `control-motion-planning` | 1 | 2003-09 |
 | `control-mpc` | 40 | 1980-11 |
 | `control-multi-agent-rl` | 1 | 2024-04 |
@@ -119,7 +125,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-network-protocol` | 2 | 2014-09 |
 | `control-neural-decoding` | 2 | 2002-07 |
 | `control-neural-radiance-field` | 1 | 2024-07 |
-| `control-novel-view-synthesis` | 4 | 2023-03 |
+| `control-novel-view-synthesis` | 6 | 2020-03 |
 | `control-open-loop-gait` | 2 | 2013-05 |
 | `control-open-vocabulary` | 4 | 2023-03 |
 | `control-operational-space` | 2 | 2016-04 |
@@ -130,7 +136,10 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-physics-simulation` | 6 | 2012-10 |
 | `control-place-recognition` | 1 | 2021-04 |
 | `control-policy-evaluation` | 1 | 2024-05 |
+| `control-pose-free-reconstruction` | 1 | 2023-12 |
+| `control-pre-op-planning` | 1 | 1992-01 |
 | `control-privileged-teacher` | 1 | 2022-01 |
+| `control-promptable-segmentation` | 1 | 2024-07 |
 | `control-prosthetic-control` | 2 | 2002-07 |
 | `control-publish-subscribe` | 2 | 2009-05 |
 | `control-raibert-decomposition` | 2 | 1981-01 |
@@ -139,7 +148,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-reduced-order-model` | 28 | 1979-04-07 |
 | `control-rehabilitation` | 1 | 2000-01 |
 | `control-research-cluster` | 33 | 2000-01 |
-| `control-rl-policy` | 142 | 1818 |
+| `control-rl-policy` | 143 | 1818 |
 | `control-rough-terrain-locomotion` | 5 | 2005-12 |
 | `control-self-play` | 1 | 2024-04 |
 | `control-self-supervised-vision` | 1 | 2023-04 |
@@ -157,13 +166,15 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-tilt-triggered-gait` | 1 | 2011-03 |
 | `control-trajectory-optimization` | 3 | 2012-10 |
 | `control-tremor-filtering` | 1 | 2000-07 |
-| `control-uncalibrated-video-perception` | 1 | 2025-08 |
+| `control-uncalibrated-video-perception` | 2 | 2023-12 |
 | `control-vibrotactile-feedback` | 2 | 2023-01 |
 | `control-video-generation` | 1 | 2025-01 |
+| `control-video-segmentation` | 1 | 2024-07 |
 | `control-vio-slam` | 13 | 2010-07 |
 | `control-virtual-finger` | 1 | 1986-01 |
 | `control-vision-language` | 2 | 2023-03 |
 | `control-vision-only-perception` | 1 | 2025-10 |
+| `control-visual-localization` | 1 | 2024-06 |
 | `control-visual-servoing` | 1 | 2000-01 |
 | `control-vla-vision-language-action` | 92 | 1886 |
 | `control-voice-command` | 1 | 2012-09 |
@@ -204,7 +215,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-hybrid-locomotion` | 1 | 2019-05 |
 | `mechanism-hydraulic-actuator` | 3 | 2004-03 |
 | `mechanism-implantable-medical-device` | 1 | 2017-04 |
-| `mechanism-manipulator-arm` | 16 | 1964-06 |
+| `mechanism-manipulator-arm` | 17 | 1964-06 |
 | `mechanism-mobile-base` | 7 | 2000-01 |
 | `mechanism-parallel-kinematic-haptic` | 2 | 1994-09 |
 | `mechanism-passive-dynamic-walking` | 5 | 1990 |
@@ -221,7 +232,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-soft-synergy` | 1 | 2025-10 |
 | `mechanism-sprawl-tunable` | 6 | 2013-05 |
 | `mechanism-super-human-range-of-motion` | 1 | 2024-04 |
-| `mechanism-surgical-robot` | 1 | 1989-01 |
+| `mechanism-surgical-robot` | 2 | 1989-01 |
 | `mechanism-syntactic-foam-ballast` | 2 | 1964-06 |
 | `mechanism-telescoping-mast` | 2 | 2020-07 |
 | `mechanism-tendon-driven` | 5 | 1988-01 |

@@ -1,7 +1,7 @@
 ---
 title: "control-imitation-learning"
 parent: "Invalidity Contentions"
-nav_order: 39
+nav_order: 40
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-imitation-learning`  
-**Entries:** 20 (20 commons-grade, 0 draft)  
+**Entries:** 21 (21 commons-grade, 0 draft)  
 **Earliest disclosure:** 2018-04  
 **Most recent disclosure:** 2025-02
 
@@ -378,6 +378,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-09 — MaskedMimic
+
+- **id:** `maskedmimic-tessler-stanford-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA Research + Stanford; Chen Tessler, Yunrong Guo, Ofir Nabati, Gal Chechik, Xue Bin Peng
+- **disclosure citation:** Tessler, C., Guo, Y., Nabati, O., Chechik, G., Peng, X. B. 'MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting'. SIGGRAPH Asia 2024. arXiv:2409.14393. NVIDIA Research + Stanford.
+- **disclosed subsystems:** `control-rl-policy`, `control-imitation-learning`, `control-motion-capture-imitation`, `control-masked-motion-inpainting`
+
+**Prior art notes:**
+
+> MaskedMimic (Tessler + Peng SIGGRAPH Asia 2024) is the architectural successor to AMP + ASE for physics-based character control. 1-year-deep open-permissive prior art. Continues the DeepMimic 2018 → AMP 2021 → ASE 2022 → MaskedMimic 2024 chain. Direct shielding for any commercial humanoid claim on masked-token motion-inpainting or unified-conditioning character control.
+
+**Sources:**
+
+1. Tessler et al. arXiv:2409.14393 SIGGRAPH Asia 2024.
+2. GitHub: github.com/NVIDIA-Omniverse/IsaacGymEnvs (MaskedMimic implementation).
+
+---
+
 ### 2024-10 — π₀ (Pi-Zero)
 
 - **id:** `physical-intelligence-pi0-2024`
@@ -494,4 +514,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*

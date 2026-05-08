@@ -6,14 +6,32 @@ layout: default
 
 # Cross-cut: `control-foundation-model-perception`
 
-**10 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2023-03
+Earliest disclosure: 2020-03
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## NeRF (Neural Radiance Fields) (2020-03)
+
+- **id**: `nerf-mildenhall-eccv-2020`
+- **corpus**: academic
+- **creator**: UC Berkeley + Google Research; Ben Mildenhall, Pratul Srinivasan, Matthew Tancik, Jonathan Barron, Ravi Ramamoorthi, Ren Ng
+- **disclosure**: Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., Ng, R. 'NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis'. ECCV 2020 Best Paper Honorable Mention. arXiv:2003.08934. UC Berkeley + Google Research.
+- **ip status**: open-permissive
+- **prior art notes**: NeRF (Mildenhall et al. ECCV 2020) is the foundational neural-implicit-3D-representation paper. 5-year-deep open-permissive prior art. **The architectural ancestor of every subsequent neural-3D system** including LERF (round-13), 3D Gaussian Splatting (round-27), all 6 GS-SLAM systems in the corpus, RoDyn-SLAM (round-14, NeRF-based dynamic SLAM). Direct shielding for any commercial humanoid claim on neural-implicit scene representation. Closes a major foundational citation chain.
+
+## Nerfstudio + Nerfacto (2023-02)
+
+- **id**: `nerfstudio-berkeley-2023`
+- **corpus**: academic
+- **creator**: UC Berkeley AI Research (BAIR); Matthew Tancik, Ethan Weber, Angjoo Kanazawa et al.
+- **disclosure**: Tancik, M., Weber, E., Ng, E., Li, R., Yi, B., Wang, T., Kristoffersen, A., Austin, J., Salahi, K., Ahuja, A., McAllister, D., Kanazawa, A. 'Nerfstudio: A Modular Framework for Neural Radiance Field Development'. SIGGRAPH 2023. arXiv:2302.04264. UC Berkeley AI Research (BAIR) + UC Berkeley + Stanford.
+- **ip status**: open-permissive
+- **prior art notes**: Nerfstudio + Nerfacto (Tancik et al. SIGGRAPH 2023) is the canonical open-academic NeRF research framework. 2-year-deep open-permissive prior art. Direct successor to NeRF (round-28) in the open-source NeRF tooling chain. Used in 100+ academic papers as the standard NeRF research substrate. Direct shielding for any commercial humanoid claim on NeRF-based scene representation development tooling.
 
 ## SigLIP (2023-03)
 
@@ -59,6 +77,42 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ranzinger, M., Heinrich, G., Kautz, J., Molchanov, P. 'AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One'. arXiv:2312.06709, December 2023. CVPR 2024. NVIDIA Learning and Perception Research. RADIOv2.5 follow-up: arXiv:2412.07679 December 2024.
 - **ip status**: open-permissive
 - **prior art notes**: AM-RADIO is the canonical agglomerative-distillation vision foundation model (NVIDIA, CVPR 2024). 1.5-year-deep open-permissive prior art for: multi-teacher vision-foundation distillation, single-backbone CLIP+DINOv2+SAM amalgamation. **The literal embedding substrate of RADIO-ViPE** — the round-10 RADIO-ViPE entry's name comes from this. Direct shielding for any commercial humanoid claim on multi-modal vision-foundation backbones for onboard perception.
+
+## DUSt3R (2023-12)
+
+- **id**: `dust3r-naver-cvpr-2024`
+- **corpus**: academic
+- **creator**: NAVER LABS Europe + Aalto University; Shuzhe Wang, Vincent Leroy, Yohann Cabon, Boris Chidlovskii, Jerome Revaud
+- **disclosure**: Wang, S., Leroy, V., Cabon, Y., Chidlovskii, B., Revaud, J. 'DUSt3R: Geometric 3D Vision Made Easy'. CVPR 2024. arXiv:2312.14132. NAVER LABS Europe + Aalto University.
+- **ip status**: open-permissive
+- **prior art notes**: DUSt3R (Wang et al. CVPR 2024) is the foundational pose-free unconstrained 3D-reconstruction paper. 2-year-deep open-permissive prior art. **Direct architectural ancestor of MASt3R** (round-28 entry below), **VGGT** (in audit, round-corpus VGGT), **MegaSaM** (round-13), **NVIDIA ViPE** (round-11), **RADIO-ViPE** (round-10). The 2-year-deep DUSt3R-derived calibration-free reconstruction chain shields any commercial humanoid claim on uncalibrated-camera onboard 3D reconstruction.
+
+## MASt3R (Matching And Stereo 3D Reconstruction) (2024-06)
+
+- **id**: `mast3r-naver-2024`
+- **corpus**: academic
+- **creator**: NAVER LABS Europe; Vincent Leroy, Yohann Cabon, Jerome Revaud
+- **disclosure**: Leroy, V., Cabon, Y., Revaud, J. 'Grounding Image Matching in 3D with MASt3R'. ECCV 2024. arXiv:2406.09756. NAVER LABS Europe.
+- **ip status**: open-permissive
+- **prior art notes**: MASt3R (Leroy et al. ECCV 2024) is DUSt3R's direct successor adding image-matching. 1-year-deep open-permissive prior art. Together with DUSt3R (round-28), MegaSaM (round-13), ViPE (round-11), RADIO-ViPE (round-10), establishes the calibration-free reconstruction chain that any commercial humanoid camera-perception claim must contend with.
+
+## Depth Anything V2 (2024-06)
+
+- **id**: `bytedance-depth-anything-v2-2024`
+- **corpus**: academic
+- **creator**: ByteDance + University of Hong Kong + Zhejiang University; Lihe Yang, Bingyi Kang, Hengshuang Zhao et al.
+- **disclosure**: Yang, L., Kang, B., Huang, Z., Zhao, Z., Xu, X., Feng, J., Zhao, H. 'Depth Anything V2'. NeurIPS 2024. arXiv:2406.09414. ByteDance + University of Hong Kong + Zhejiang University.
+- **ip status**: open-permissive
+- **prior art notes**: Depth Anything V2 (Yang et al. NeurIPS 2024) is the canonical open monocular depth estimation foundation model. 1-year-deep open-permissive prior art. **Used in NVIDIA ViPE (round-11) + RADIO-ViPE (round-10) as the metric-depth backbone**. Direct shielding for any commercial humanoid claim on monocular depth estimation as part of an onboard perception stack.
+
+## Segment Anything 2 (SAM 2) (2024-07)
+
+- **id**: `meta-sam-2-2024`
+- **corpus**: academic
+- **creator**: Meta AI / FAIR; Nikhila Ravi + multi-author team
+- **disclosure**: Ravi, N., Gabeur, V., Hu, Y.-T., Hu, R., Ryali, C., Ma, T., Khedr, H., Rädle, R., Rolland, C., Gustafson, L., Mintun, E., Pan, J., Alwala, K. V., Carion, N., Wu, C.-Y., Girshick, R., Dollár, P., Feichtenhofer, C. 'SAM 2: Segment Anything in Images and Videos'. arXiv:2408.00714, July 2024. Meta AI / FAIR. Apache-2.0.
+- **ip status**: open-permissive
+- **prior art notes**: SAM 2 (Ravi et al. Meta FAIR July 2024) is the canonical open-source promptable video segmentation foundation model. 1-year-deep open-permissive prior art. **A teacher in NVIDIA AM-RADIO's agglomerative-distillation training** (corpus entry round-13). Direct shielding for any commercial humanoid claim on video segmentation, real-time object tracking, or promptable segmentation. Together with DINOv2 (round-13) + SigLIP (round-13) + AM-RADIO (round-13), establishes the foundation-vision-model chain.
 
 ## LEGS (Language-Embedded Gaussian Splats) (2024-09)
 

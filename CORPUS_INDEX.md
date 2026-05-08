@@ -1,6 +1,6 @@
 # Corpus Index
 
-511 entries total. Generated from corpus.jsonl.
+519 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
 | DeepMimic | `deepmimic-peng-siggraph-2018` | 2018 | academic | open-permissive |  |
 | DeepMind humanoid soccer (Haarnoja et al.) | `deepmind-humanoid-soccer-haarnoja-2024` | 2024 | academic | open-permissive |  |
+| Depth Anything V2 | `bytedance-depth-anything-v2-2024` | 2024 | academic | open-permissive |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
 | DexMV (Dexterous Manipulation from Videos) | `dexmv-qin-cvpr-2022` | 2021 | academic | open-permissive |  |
 | DGS-SLAM | `dgs-slam-kong-2024` | 2024 | academic | open-permissive | ✓ |
@@ -144,6 +145,7 @@
 | DROID Dataset | `droid-dataset` | 2024 | academic | open-permissive |  |
 | DROID-SLAM | `droid-slam-2021` | 2021 | academic | open-permissive |  |
 | DSV Alvin | `alvin-hov-1964` | 1964 | academic | public-domain |  |
+| DUSt3R | `dust3r-naver-cvpr-2024` | 2023 | academic | open-permissive |  |
 | Dynamic Movement Primitives (DMP) | `dmp-schaal-ijspeert` | 2002 | academic | public-domain |  |
 | DynaSLAM | `dynaslam-bescos-2018` | 2018 | academic | open-copyleft |  |
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
@@ -281,7 +283,9 @@
 | Major Motoko Kusanagi (Ghost in the Shell) | `ghost-in-the-shell-major` | 1989 | fictional | fictional |  |
 | Manus Quantum Metagloves | `manus-quantum-metagloves-2023` | 2023 | private | trade-secret | ✓ |
 | Maschinenmensch | `metropolis-maschinenmensch` | 1927 | fictional | public-domain |  |
+| MaskedMimic | `maskedmimic-tessler-stanford-2024` | 2024 | academic | open-permissive |  |
 | Mason Mechanics of Manipulation | `mason-mechanics-manipulation` | 1986 | academic | public-domain |  |
+| MASt3R (Matching And Stereo 3D Reconstruction) | `mast3r-naver-2024` | 2024 | academic | open-permissive |  |
 | Mazinger Z | `mazinger-z` | 1972 | fictional | fictional |  |
 | McGeer Passive Dynamic Walker | `mcgeer-passive-walker` | 1990 | academic | public-domain |  |
 | McKibben pneumatic artificial muscle | `mckibben-pneumatic-muscle-1957` | 1957 | academic | public-domain |  |
@@ -310,6 +314,8 @@
 | NASA Valkyrie | `nasa-valkyrie` | 2013 | academic | open-permissive |  |
 | NAVER LABS AMBIDEX | `naver-labs-ambidex-2018` | 2018 | private | trade-secret |  |
 | Nereus HROV | `nereus-hrov-2008` | 2008 | academic | public-domain |  |
+| NeRF (Neural Radiance Fields) | `nerf-mildenhall-eccv-2020` | 2020 | academic | open-permissive |  |
+| Nerfstudio + Nerfacto | `nerfstudio-berkeley-2023` | 2023 | academic | open-permissive |  |
 | Neura 4NE-1 | `neura-4ne1` | 2024 | private | patented | ✓ |
 | Neuralink | `neuralink-2017` | 2017 | private | trade-secret |  |
 | Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) | `gibson-neuromancer-constructs` | 1984 | fictional | fictional |  |
@@ -379,6 +385,7 @@
 | RoboCasa | `robocasa-nasiriany-2024` | 2024 | academic | open-permissive |  |
 | RoboCat (Self-Improving Generalist Agent) | `robocat` | 2023 | academic | open-permissive |  |
 | RoboCop (Alex Murphy) | `robocop-1987` | 1987 | fictional | fictional |  |
+| ROBODOC orthopedic surgical robot (Taylor JHU + Integrated Surgical Systems) | `taylor-robodoc-orthopedic-1992` | 1992 | private | trade-secret |  |
 | robomimic | `robomimic-mandlekar-2021` | 2021 | academic | open-permissive |  |
 | Robonaut 1 | `robonaut-1` | 1996 | academic | public-domain |  |
 | Robonaut 2 | `robonaut-2` | 2010 | academic | patented |  |
@@ -409,6 +416,7 @@
 | Schlesinger 6-grasp classification | `schlesinger-grasp-classification-1919` | 1919 | academic | public-domain |  |
 | Schunk SVH 5-finger dexterous hand | `schunk-svh-german-2013` | 2013 | private | trade-secret |  |
 | Seaglider AUV | `seaglider-auv-2001` | 2001 | academic | open-permissive |  |
+| Segment Anything 2 (SAM 2) | `meta-sam-2-2024` | 2024 | academic | open-permissive |  |
 | SemGauss-SLAM | `semgauss-slam-2024` | 2024 | academic | open-permissive | ✓ |
 | SensAble Phantom haptic device | `sensable-phantom-1994` | 1994 | private | trade-secret |  |
 | SenseGlove Nova 2 | `senseglove-nova-2-2023` | 2023 | private | trade-secret | ✓ |

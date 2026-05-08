@@ -1,7 +1,7 @@
 ---
 title: "control-monocular-metric-depth"
 parent: "Invalidity Contentions"
-nav_order: 48
+nav_order: 50
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-monocular-metric-depth`  
-**Entries:** 2 (1 commons-grade, 1 draft)  
-**Earliest disclosure:** 2024-12  
+**Entries:** 3 (2 commons-grade, 1 draft)  
+**Earliest disclosure:** 2024-06  
 **Most recent disclosure:** 2025-08
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2024-06 — Depth Anything V2
+
+- **id:** `bytedance-depth-anything-v2-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** ByteDance + University of Hong Kong + Zhejiang University; Lihe Yang, Bingyi Kang, Hengshuang Zhao et al.
+- **disclosure citation:** Yang, L., Kang, B., Huang, Z., Zhao, Z., Xu, X., Feng, J., Zhao, H. 'Depth Anything V2'. NeurIPS 2024. arXiv:2406.09414. ByteDance + University of Hong Kong + Zhejiang University.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-monocular-metric-depth`
+
+**Prior art notes:**
+
+> Depth Anything V2 (Yang et al. NeurIPS 2024) is the canonical open monocular depth estimation foundation model. 1-year-deep open-permissive prior art. **Used in NVIDIA ViPE (round-11) + RADIO-ViPE (round-10) as the metric-depth backbone**. Direct shielding for any commercial humanoid claim on monocular depth estimation as part of an onboard perception stack.
+
+**Sources:**
+
+1. Yang et al. arXiv:2406.09414 NeurIPS 2024.
+2. Project page (depth-anything-v2.github.io).
+3. HuggingFace: huggingface.co/depth-anything.
+
+---
 
 ### 2024-12 — MegaSaM *(draft)*
 
@@ -111,4 +132,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*

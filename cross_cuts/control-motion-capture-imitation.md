@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-motion-capture-imitation`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2018-04
 
@@ -59,3 +59,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fu, Z., Zhao, Q., Wu, Q., Wetzstein, G., Finn, C. 'HumanPlus: Humanoid Shadowing and Imitation from Humans'. CoRL 2024. arXiv:2406.10454. Stanford University.
 - **ip status**: open-permissive
 - **prior art notes**: HumanPlus (Fu et al. CoRL 2024) is the canonical Stanford humanoid-imitation-from-humans paper. 1-year-deep open-permissive prior art for: two-stage RL-shadowing + IL fine-tuning, real-hardware humanoid full-body imitation from human motion. Direct architectural application of AMP/ASE lineage (rounds 21+27) to actual humanoid hardware. Direct shielding for any commercial humanoid claim on 'humanoid imitates humans' or 'mocap-trained humanoid policy on real hardware'.
+
+## MaskedMimic (2024-09)
+
+- **id**: `maskedmimic-tessler-stanford-2024`
+- **corpus**: academic
+- **creator**: NVIDIA Research + Stanford; Chen Tessler, Yunrong Guo, Ofir Nabati, Gal Chechik, Xue Bin Peng
+- **disclosure**: Tessler, C., Guo, Y., Nabati, O., Chechik, G., Peng, X. B. 'MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting'. SIGGRAPH Asia 2024. arXiv:2409.14393. NVIDIA Research + Stanford.
+- **ip status**: open-permissive
+- **prior art notes**: MaskedMimic (Tessler + Peng SIGGRAPH Asia 2024) is the architectural successor to AMP + ASE for physics-based character control. 1-year-deep open-permissive prior art. Continues the DeepMimic 2018 → AMP 2021 → ASE 2022 → MaskedMimic 2024 chain. Direct shielding for any commercial humanoid claim on masked-token motion-inpainting or unified-conditioning character control.

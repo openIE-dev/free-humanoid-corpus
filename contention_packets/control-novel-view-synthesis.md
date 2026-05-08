@@ -1,7 +1,7 @@
 ---
 title: "control-novel-view-synthesis"
 parent: "Invalidity Contentions"
-nav_order: 55
+nav_order: 57
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-novel-view-synthesis`  
-**Entries:** 4 (3 commons-grade, 1 draft)  
-**Earliest disclosure:** 2023-03  
+**Entries:** 6 (5 commons-grade, 1 draft)  
+**Earliest disclosure:** 2020-03  
 **Most recent disclosure:** 2025-04
 
 ---
@@ -39,6 +39,48 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2020-03 — NeRF (Neural Radiance Fields)
+
+- **id:** `nerf-mildenhall-eccv-2020`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley + Google Research; Ben Mildenhall, Pratul Srinivasan, Matthew Tancik, Jonathan Barron, Ravi Ramamoorthi, Ren Ng
+- **disclosure citation:** Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., Ng, R. 'NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis'. ECCV 2020 Best Paper Honorable Mention. arXiv:2003.08934. UC Berkeley + Google Research.
+- **disclosed subsystems:** `control-novel-view-synthesis`, `control-foundation-model-perception`, `control-3d-perception`, `control-implicit-scene-representation`
+
+**Prior art notes:**
+
+> NeRF (Mildenhall et al. ECCV 2020) is the foundational neural-implicit-3D-representation paper. 5-year-deep open-permissive prior art. **The architectural ancestor of every subsequent neural-3D system** including LERF (round-13), 3D Gaussian Splatting (round-27), all 6 GS-SLAM systems in the corpus, RoDyn-SLAM (round-14, NeRF-based dynamic SLAM). Direct shielding for any commercial humanoid claim on neural-implicit scene representation. Closes a major foundational citation chain.
+
+**Sources:**
+
+1. Mildenhall et al. arXiv:2003.08934 ECCV 2020.
+2. Project page (matthewtancik.com/nerf).
+3. GitHub: github.com/bmild/nerf.
+
+---
+
+### 2023-02 — Nerfstudio + Nerfacto
+
+- **id:** `nerfstudio-berkeley-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC Berkeley AI Research (BAIR); Matthew Tancik, Ethan Weber, Angjoo Kanazawa et al.
+- **disclosure citation:** Tancik, M., Weber, E., Ng, E., Li, R., Yi, B., Wang, T., Kristoffersen, A., Austin, J., Salahi, K., Ahuja, A., McAllister, D., Kanazawa, A. 'Nerfstudio: A Modular Framework for Neural Radiance Field Development'. SIGGRAPH 2023. arXiv:2302.04264. UC Berkeley AI Research (BAIR) + UC Berkeley + Stanford.
+- **disclosed subsystems:** `control-novel-view-synthesis`, `control-foundation-model-perception`, `control-implicit-scene-representation`
+
+**Prior art notes:**
+
+> Nerfstudio + Nerfacto (Tancik et al. SIGGRAPH 2023) is the canonical open-academic NeRF research framework. 2-year-deep open-permissive prior art. Direct successor to NeRF (round-28) in the open-source NeRF tooling chain. Used in 100+ academic papers as the standard NeRF research substrate. Direct shielding for any commercial humanoid claim on NeRF-based scene representation development tooling.
+
+**Sources:**
+
+1. Tancik et al. arXiv:2302.04264 SIGGRAPH 2023.
+2. Project page (nerf.studio).
+3. GitHub: github.com/nerfstudio-project/nerfstudio.
+
+---
 
 ### 2023-03 — LERF (Language Embedded Radiance Fields)
 
@@ -153,4 +195,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*

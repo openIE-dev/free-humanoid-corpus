@@ -1,7 +1,7 @@
 ---
 title: "mechanism-manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 95
+nav_order: 98
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-manipulator-arm`  
-**Entries:** 16 (14 commons-grade, 2 draft)  
+**Entries:** 17 (15 commons-grade, 2 draft)  
 **Earliest disclosure:** 1964-06  
 **Most recent disclosure:** 2022-07
 
@@ -102,6 +102,27 @@ cite, copy, or redistribute these contentions.
 2. Ballard et al. MTS Journal 23(4) 1989.
 3. D. R. Yoerger, A. M. Bradley, B. B. Walden, R. P. Stokey, 'Hydrodynamic Force-Augmented Multivariable Control for ROVs', IEEE J. Oceanic Engineering 1996.
 4. M. V. Jakuba et al., 'Long-baseline acoustic navigation for under-ice AUV operations', J. Field Robotics 2008.
+
+---
+
+### 1992-01 — ROBODOC orthopedic surgical robot (Taylor JHU + Integrated Surgical Systems)
+
+- **id:** `taylor-robodoc-orthopedic-1992`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Integrated Surgical Systems + Russell Taylor (JHU + IBM Research); Bargar UC Davis
+- **disclosure citation:** Taylor, R. H., Mittelstadt, B. D., Paul, H. A., Hanson, W., Kazanzides, P., Zuhars, J. F., Williamson, B., Musits, B. L., Glassman, E., Bargar, W. L. 'An Image-Directed Robotic System for Precise Orthopaedic Surgery'. IEEE Transactions on Robotics and Automation 10(3) 1994. ROBODOC commercial deployment 1992 (European CE mark) + 2008 (FDA 510(k) clearance K081570). Integrated Surgical Systems (US commercial spinout); now marketed as TSolution One by THINK Surgical.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-surgical-robot`, `control-pre-op-planning`, `control-bone-registration`, `control-autonomous-cutting`
+
+**Prior art notes:**
+
+> ROBODOC is the canonical first orthopedic surgical robot (Taylor JHU + IBM + Integrated Surgical Systems, 1992). 33-year-deep public-disclosure prior art. **8-year-predating Intuitive Surgical da Vinci** (FDA 2000, round-16). Direct architectural anchor of orthopedic surgical robotics: subsequent CASPAR (1990s), MAKO RIO (Stryker 2000s+), TSolution One (current commercial). Together with Salisbury Stanford-JPL hand 1982 + Taylor JHU 1989+ academic program (round-20 taylor-jhu-surgical-robotics-1990s aggregator), establishes the **academic-commercial surgical-robot chain spanning 43 years 1982-2025**.
+
+**Sources:**
+
+1. Taylor, R. H. et al. IEEE T-RA 10(3) 1994.
+2. Integrated Surgical Systems / THINK Surgical product history.
+3. FDA 510(k) K081570.
 
 ---
 
@@ -404,4 +425,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*
