@@ -626,7 +626,9 @@
       "year": "1981",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "boston-dynamics-bigdog-2005"
+      ]
     },
     {
       "id": "lucas-kanade-1981",
@@ -904,6 +906,14 @@
     {
       "id": "slocum-glider-auv",
       "name": "Slocum Glider",
+      "year": "1989",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "taylor-jhu-surgical-robotics-1990s",
+      "name": "Taylor JHU surgical robotics (foundational)",
       "year": "1989",
       "corpus": "academic",
       "ancestors": [],
@@ -1206,6 +1216,14 @@
       "name": "Cowboy Bebop (Pierrot Le Fou cyborg, MPU and AI antagonists)",
       "year": "1998",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mit-kismet-breazeal-1998",
+      "name": "MIT Kismet (sociable robot)",
+      "year": "1998",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -1597,6 +1615,19 @@
       "corpus": "open",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "boston-dynamics-bigdog-2005",
+      "name": "Boston Dynamics BigDog",
+      "year": "2005",
+      "corpus": "private",
+      "ancestors": [
+        "raibert-mit-leg-lab-history-1980s"
+      ],
+      "descendants": [
+        "boston-dynamics-ls3-alphadog-2012",
+        "hyundai-boston-dynamics-spot"
+      ]
     },
     {
       "id": "iso-10218-collaborative-robots",
@@ -2072,6 +2103,18 @@
       "descendants": []
     },
     {
+      "id": "boston-dynamics-ls3-alphadog-2012",
+      "name": "Boston Dynamics LS3 (AlphaDog)",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [
+        "boston-dynamics-bigdog-2005"
+      ],
+      "descendants": [
+        "hyundai-boston-dynamics-spot"
+      ]
+    },
+    {
       "id": "mujoco-todorov-2012",
       "name": "MuJoCo (original)",
       "year": "2012",
@@ -2372,7 +2415,10 @@
       "name": "Boston Dynamics Spot",
       "year": "2015",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "boston-dynamics-bigdog-2005",
+        "boston-dynamics-ls3-alphadog-2012"
+      ],
       "descendants": [
         "spot-fuel-cell"
       ]
@@ -3158,6 +3204,7 @@
         "mini-cheetah"
       ],
       "descendants": [
+        "unitree-go2-2023",
         "unitree-h1"
       ]
     },
@@ -3252,6 +3299,14 @@
       "ancestors": [
         "hanson-sophia"
       ],
+      "descendants": []
+    },
+    {
+      "id": "calvin-mees-2022",
+      "name": "CALVIN",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -3497,6 +3552,14 @@
       ]
     },
     {
+      "id": "furniturebench-heo-rss-2023",
+      "name": "FurnitureBench",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sanctuary-phoenix",
       "name": "Sanctuary AI Phoenix",
       "year": "2023",
@@ -3653,6 +3716,16 @@
       "descendants": []
     },
     {
+      "id": "unitree-go2-2023",
+      "name": "Unitree Go2",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "unitree-go1"
+      ],
+      "descendants": []
+    },
+    {
       "id": "unitree-h1",
       "name": "Unitree H1",
       "year": "2023",
@@ -3723,7 +3796,8 @@
         "droid-dataset",
         "octo-policy",
         "openvla",
-        "physical-intelligence-pi-zero"
+        "physical-intelligence-pi-zero",
+        "rt-x-collaboration-2023"
       ]
     },
     {
@@ -3735,6 +3809,19 @@
         "reachy-1-pollen-2017"
       ],
       "descendants": []
+    },
+    {
+      "id": "rt-x-collaboration-2023",
+      "name": "RT-X / Open X-Embodiment collaboration paper",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "open-x-embodiment"
+      ],
+      "descendants": [
+        "octo-rss-2024",
+        "openvla-stanford-2024"
+      ]
     },
     {
       "id": "limx-cl1",
@@ -3949,7 +4036,9 @@
       "name": "Octo (Open-Source Generalist Robot Policy)",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "rt-x-collaboration-2023"
+      ],
       "descendants": []
     },
     {
@@ -4000,7 +4089,9 @@
       "name": "OpenVLA",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "rt-x-collaboration-2023"
+      ],
       "descendants": [
         "openvla-oft-stanford-2025"
       ]
@@ -4117,6 +4208,14 @@
       "ancestors": [
         "lerf-kerr-2023"
       ],
+      "descendants": []
+    },
+    {
+      "id": "unitree-b2-2024",
+      "name": "Unitree B2",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {

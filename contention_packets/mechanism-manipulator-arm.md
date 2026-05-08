@@ -1,15 +1,15 @@
 ---
 title: "mechanism-manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 75
+nav_order: 80
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-manipulator-arm`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-manipulator-arm`  
-**Entries:** 13 (12 commons-grade, 1 draft)  
+**Entries:** 14 (12 commons-grade, 2 draft)  
 **Earliest disclosure:** 1964-06  
 **Most recent disclosure:** 2022-07
 
@@ -59,6 +59,27 @@ cite, copy, or redistribute these contentions.
 2. R. D. Ballard, 'The Discovery of the Titanic', Warner Books 1987.
 3. D. R. Yoerger, A. M. Bradley, B. B. Walden, 'The Autonomous Benthic Explorer', J. Field Robotics 1991.
 4. W. Kohnen (ed.), 'Manned Submersibles', U.S. Naval Institute 1978.
+
+---
+
+### 1989-01 — Taylor JHU surgical robotics (foundational) *(draft)*
+
+- **id:** `taylor-jhu-surgical-robotics-1990s`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** JHU Computer Integrated Surgery Lab; Russell Taylor + collaborators
+- **disclosure citation:** Taylor, R. H. et al. 'Robotic technology in surgery: past, present, and future'. American Journal of Surgery 188(4) 2004 (survey); foundational papers from 1989+: 'A Telerobotic Assistant for Laparoscopic Surgery' IEEE EMBC 1995; 'Steady-Hand robotic system for microsurgical augmentation' IJRR 1999. Johns Hopkins University Computer Integrated Surgery Lab. Russell Taylor + collaborators (Marcel Brett, Allison Okamura, Peter Kazanzides).
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `control-cooperative-control`, `control-master-slave-teleoperation`, `mechanism-surgical-robot`
+
+**Prior art notes:**
+
+> Russell Taylor's JHU CISST academic surgical robotics program (1989+) is the foundational academic counterpart to commercial surgical robotics (Intuitive Surgical da Vinci, Vicarious Surgical, Memic Hominis — all round-16 entries). 36-year-deep public-domain academic prior art for: cooperative-control surgical augmentation, master-slave surgical teleoperation, robotic orthopedic bone-cutting. ROBODOC (FDA 2008 / European 1992) and AESOP (Taylor co-developed) predate Intuitive Surgical da Vinci (FDA 2000) by years. Direct shielding for any commercial humanoid claim that derives from surgical-robot manipulator architectures. **Together with Salisbury Stanford-JPL hand (1982), establishes the two foundational academic lineages underpinning all modern surgical-and-humanoid manipulator IP.**
+
+**Sources:**
+
+1. Taylor, R. H. American Journal of Surgery 188(4) 2004.
+2. JHU LCSR Computer Integrated Surgery Lab (cisst.org).
+3. Taylor, R. H. + Stoianovici 'Medical robotics in computer-integrated surgery' IEEE T-RA 2003.
 
 ---
 
@@ -342,4 +363,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

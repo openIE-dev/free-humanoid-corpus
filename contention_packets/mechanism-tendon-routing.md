@@ -1,13 +1,13 @@
 ---
 title: "mechanism-tendon-routing"
 parent: "Invalidity Contentions"
-nav_order: 87
+nav_order: 92
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-tendon-routing`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-tendon-routing`  
 **Entries:** 15 (12 commons-grade, 3 draft)  
 **Earliest disclosure:** 1495  
@@ -373,4 +373,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

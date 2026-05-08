@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-electric-quasi-direct-drive`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-electric-quasi-direct-drive`  
-**Entries:** 19 (13 commons-grade, 6 draft)  
+**Entries:** 21 (15 commons-grade, 6 draft)  
 **Earliest disclosure:** 2014  
 **Most recent disclosure:** 2025-10
 
@@ -261,6 +261,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-08 — Unitree Go2
+
+- **id:** `unitree-go2-2023`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Unitree Robotics (Hangzhou, China)
+- **disclosure citation:** Unitree Robotics. Go2 commercial quadruped product reveal August 2023 via unitree.com. Successor to the Go1 (corpus entry `unitree-go1`).
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `actuator-electric-quasi-direct-drive`
+
+**Prior art notes:**
+
+> Unitree Go2 is the canonical 2023+ consumer/educational quadruped. 2-year-deep public-disclosure prior art. Direct successor to Go1 (corpus entry). **The dominant educational quadruped globally** — used in 1000+ academic publications. Direct shielding for any commercial claim on consumer-tier quadruped pricing or educational-quadruped form factor.
+
+**Sources:**
+
+1. Unitree Go2 product page (unitree.com/Go2).
+
+---
+
 ### 2023-10 — Reachy-2 open-source humanoid platform (Pollen Robotics)
 
 - **id:** `reachy-2-pollen-2023`
@@ -383,6 +402,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-09 — Unitree B2
+
+- **id:** `unitree-b2-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Unitree Robotics (Hangzhou, China)
+- **disclosure citation:** Unitree Robotics. B2 commercial quadruped product reveal September 2024 via unitree.com / IFA Berlin 2024. Successor to the B1 (2023). B2-W variant adds wheel-feet for hybrid wheel-leg operation.
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `mechanism-wheel-leg-hybrid`, `actuator-electric-quasi-direct-drive`, `control-rough-terrain-locomotion`
+
+**Prior art notes:**
+
+> Unitree B2 is the canonical 2024+ heavy-payload commercial electric quadruped (Unitree). 1.5-year-deep public-disclosure prior art for: 40 kg sustained / 120 kg burst electric quadruped, wheel-leg hybrid B2-W variant. **B2-W is architecturally similar to the STAR family wheel-leg hybrid** (round-10 entries star-fearing-2013 → dstar-zarrouk-2026) — Unitree commercializes the wheel-leg-hybrid pattern at quadruped scale. Direct shielding for any commercial quadruped claim on heavy-payload electric or wheel-leg-hybrid morphology.
+
+**Sources:**
+
+1. Unitree B2 product page (unitree.com/B2).
+2. IFA Berlin 2024 announcement.
+
+---
+
 ### 2024-12 — EngineAI PM01 *(draft)*
 
 - **id:** `engineai-pm01`
@@ -452,4 +491,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

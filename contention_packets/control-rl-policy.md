@@ -1,13 +1,13 @@
 ---
 title: "control-rl-policy"
 parent: "Invalidity Contentions"
-nav_order: 52
+nav_order: 54
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-rl-policy`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-rl-policy`  
 **Entries:** 135 (107 commons-grade, 28 draft)  
 **Earliest disclosure:** 1818  
@@ -2785,4 +2785,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

@@ -1,13 +1,13 @@
 ---
 title: "control-monocular-metric-depth"
 parent: "Invalidity Contentions"
-nav_order: 40
+nav_order: 41
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-monocular-metric-depth`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-monocular-metric-depth`  
 **Entries:** 2 (1 commons-grade, 1 draft)  
 **Earliest disclosure:** 2024-12  
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

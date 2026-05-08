@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `control-benchmarking`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-benchmarking`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 2019-09  
 **Most recent disclosure:** 2024-05
 
@@ -79,6 +79,48 @@ cite, copy, or redistribute these contentions.
 1. Mandlekar et al. CoRL 2021; arXiv:2108.03298.
 2. Project page (robomimic.github.io).
 3. GitHub: github.com/ARISE-Initiative/robomimic.
+
+---
+
+### 2021-12 — CALVIN
+
+- **id:** `calvin-mees-2022`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** University of Freiburg AIS Lab; Oier Mees, Lukas Hermann, Wolfram Burgard
+- **disclosure citation:** Mees, O., Hermann, L., Rosete-Beas, E., Burgard, W. 'CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks'. IEEE Robotics and Automation Letters 7(3) 2022. arXiv:2112.03227. University of Freiburg.
+- **disclosed subsystems:** `control-language-conditioned-policy`, `control-imitation-learning`, `control-long-horizon-manipulation`, `control-benchmarking`
+
+**Prior art notes:**
+
+> CALVIN is the canonical long-horizon language-conditioned manipulation benchmark (Mees + Burgard Freiburg, RA-L 2022). 4-year-deep open-permissive prior art for: language-conditioned robot manipulation benchmark, teleoperated 'play data' as training distribution, hour-scale unstructured play datasets for language grounding. Direct shielding for any commercial humanoid claim on language-conditioned manipulation training data + benchmarks. Together with LIBERO (round-17), RoboCasa (round-16), robomimic (round-16), establishes the language-conditioned-VLA evaluation substrate.
+
+**Sources:**
+
+1. Mees et al. arXiv:2112.03227 IEEE RA-L 2022.
+2. Project page (calvin.cs.uni-freiburg.de).
+3. GitHub: github.com/mees/calvin.
+
+---
+
+### 2023-05 — FurnitureBench
+
+- **id:** `furniturebench-heo-rss-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** KAIST + USC; Minho Heo, Youngwoon Lee, Doohyun Lee, Joseph J. Lim
+- **disclosure citation:** Heo, M., Lee, Y., Lee, D., Lim, J. J. 'FurnitureBench: Reproducible Real-World Benchmark for Long-Horizon Complex Manipulation'. RSS 2023. arXiv:2305.12821. KAIST + USC.
+- **disclosed subsystems:** `control-imitation-learning`, `control-long-horizon-manipulation`, `control-benchmarking`, `control-assembly-task`
+
+**Prior art notes:**
+
+> FurnitureBench is the canonical real-world long-horizon manipulation benchmark (Heo et al. RSS 2023). 2-year-deep open-permissive prior art for: furniture-assembly real-robot benchmark, fiducial-based standardization for cross-lab reproducibility. Distinct architectural branch from sim-only benchmarks: FurnitureBench is real-robot, while RLBench/robomimic/LIBERO/RoboCasa are simulated. Direct shielding for any commercial humanoid claim on furniture-assembly or long-horizon real-world benchmark performance.
+
+**Sources:**
+
+1. Heo et al. arXiv:2305.12821 RSS 2023.
+2. Project page (clvrai.github.io/furniture-bench).
+3. GitHub: github.com/clvrai/furniture-bench.
 
 ---
 
@@ -154,4 +196,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

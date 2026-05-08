@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-quasi-direct-drive`
 
-**19 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014
 
@@ -114,6 +114,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: AgiBot's actuator IP heavily anticipated by Honda P-series harmonic drive work and MIT Cheetah QDD lineage. Chinese-language patent filings should be enumerated in strengthening pass.
 
+## Unitree Go2 (2023-08)
+
+- **id**: `unitree-go2-2023`
+- **corpus**: private
+- **creator**: Unitree Robotics (Hangzhou, China)
+- **disclosure**: Unitree Robotics. Go2 commercial quadruped product reveal August 2023 via unitree.com. Successor to the Go1 (corpus entry `unitree-go1`).
+- **ip status**: trade-secret
+- **prior art notes**: Unitree Go2 is the canonical 2023+ consumer/educational quadruped. 2-year-deep public-disclosure prior art. Direct successor to Go1 (corpus entry). **The dominant educational quadruped globally** — used in 1000+ academic publications. Direct shielding for any commercial claim on consumer-tier quadruped pricing or educational-quadruped form factor.
+
 ## Reachy-2 open-source humanoid platform (Pollen Robotics) (2023-10)
 
 - **id**: `reachy-2-pollen-2023`
@@ -167,6 +176,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Liao, Q., Zhang, B., Huang, X., Huang, X., Li, Z., Sreenath, K. 'Berkeley Humanoid: A Research Platform for Learning-based Control'. arXiv:2407.21781, July 2024. IEEE International Conference on Robotics and Automation (ICRA) 2025. UC Berkeley Hybrid Robotics Lab.
 - **ip status**: open-permissive
 - **prior art notes**: Berkeley Humanoid is the open academic mid-scale bipedal humanoid research platform from the Sreenath group, ICRA 2025. Open-permissive. Establishes 1-year-deep prior art for: RL-trained locomotion with sim-to-real zero-shot transfer at humanoid scale, low-cost in-house-built humanoid for learning research, anthropomorphic kinematics optimized for sim-to-real. Direct shielding for free-humanoid-platform commitments on bipedal RL locomotion and any commercial humanoid claim on RL-trained outdoor walking. Parent of Berkeley Humanoid Lite (round-11 entry below).
+
+## Unitree B2 (2024-09)
+
+- **id**: `unitree-b2-2024`
+- **corpus**: private
+- **creator**: Unitree Robotics (Hangzhou, China)
+- **disclosure**: Unitree Robotics. B2 commercial quadruped product reveal September 2024 via unitree.com / IFA Berlin 2024. Successor to the B1 (2023). B2-W variant adds wheel-feet for hybrid wheel-leg operation.
+- **ip status**: trade-secret
+- **prior art notes**: Unitree B2 is the canonical 2024+ heavy-payload commercial electric quadruped (Unitree). 1.5-year-deep public-disclosure prior art for: 40 kg sustained / 120 kg burst electric quadruped, wheel-leg hybrid B2-W variant. **B2-W is architecturally similar to the STAR family wheel-leg hybrid** (round-10 entries star-fearing-2013 → dstar-zarrouk-2026) — Unitree commercializes the wheel-leg-hybrid pattern at quadruped scale. Direct shielding for any commercial quadruped claim on heavy-payload electric or wheel-leg-hybrid morphology.
 
 ## EngineAI PM01 (2024-12)
 

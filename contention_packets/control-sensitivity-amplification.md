@@ -1,13 +1,13 @@
 ---
 title: "control-sensitivity-amplification"
 parent: "Invalidity Contentions"
-nav_order: 54
+nav_order: 57
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-sensitivity-amplification`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-sensitivity-amplification`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2004-03  
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

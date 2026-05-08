@@ -1,15 +1,15 @@
 ---
 title: "mechanism-wheel-leg-hybrid"
 parent: "Invalidity Contentions"
-nav_order: 92
+nav_order: 97
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-wheel-leg-hybrid`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-wheel-leg-hybrid`  
-**Entries:** 10 (6 commons-grade, 4 draft)  
+**Entries:** 11 (7 commons-grade, 4 draft)  
 **Earliest disclosure:** 2002-10-01  
 **Most recent disclosure:** 2026-01
 
@@ -202,6 +202,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-09 — Unitree B2
+
+- **id:** `unitree-b2-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Unitree Robotics (Hangzhou, China)
+- **disclosure citation:** Unitree Robotics. B2 commercial quadruped product reveal September 2024 via unitree.com / IFA Berlin 2024. Successor to the B1 (2023). B2-W variant adds wheel-feet for hybrid wheel-leg operation.
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `mechanism-wheel-leg-hybrid`, `actuator-electric-quasi-direct-drive`, `control-rough-terrain-locomotion`
+
+**Prior art notes:**
+
+> Unitree B2 is the canonical 2024+ heavy-payload commercial electric quadruped (Unitree). 1.5-year-deep public-disclosure prior art for: 40 kg sustained / 120 kg burst electric quadruped, wheel-leg hybrid B2-W variant. **B2-W is architecturally similar to the STAR family wheel-leg hybrid** (round-10 entries star-fearing-2013 → dstar-zarrouk-2026) — Unitree commercializes the wheel-leg-hybrid pattern at quadruped scale. Direct shielding for any commercial quadruped claim on heavy-payload electric or wheel-leg-hybrid morphology.
+
+**Sources:**
+
+1. Unitree B2 product page (unitree.com/B2).
+2. IFA Berlin 2024 announcement.
+
+---
+
 ### 2025-07 — FLORES wheel-legged robot *(draft)*
 
 - **id:** `flores-wheel-legged-2025`
@@ -272,4 +292,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

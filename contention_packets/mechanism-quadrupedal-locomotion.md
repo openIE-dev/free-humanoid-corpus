@@ -1,17 +1,17 @@
 ---
 title: "mechanism-quadrupedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 81
+nav_order: 86
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-quadrupedal-locomotion`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-quadrupedal-locomotion`  
-**Entries:** 18 (16 commons-grade, 2 draft)  
+**Entries:** 22 (20 commons-grade, 2 draft)  
 **Earliest disclosure:** 1968-09-27  
-**Most recent disclosure:** 2022-09
+**Most recent disclosure:** 2024-09
 
 ---
 
@@ -100,6 +100,47 @@ cite, copy, or redistribute these contentions.
 1. Sony AIBO product materials.
 2. Fujita, M. and Kageyama, K. 'An open architecture for robot entertainment.' Autonomous Agents 1997.
 3. Various academic papers using AIBO as research platform.
+
+---
+
+### 2005-12 — Boston Dynamics BigDog
+
+- **id:** `boston-dynamics-bigdog-2005`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Boston Dynamics; Marc Raibert et al. (under DARPA TUGV)
+- **disclosure citation:** Boston Dynamics + Foster-Miller + Jet Propulsion Laboratory + Harvard Concord Field Station. BigDog public reveal December 2005 video. Funded by DARPA TUGV (Tactical Ground Vehicle) program 2005-2015. Raibert, M. et al. 'BigDog, the Rough-Terrain Quadruped Robot' IFAC Proceedings 41(2) 2008.
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `mechanism-hydraulic-actuator`, `mechanism-dynamic-legged-locomotion`, `control-raibert-decomposition`, `control-rough-terrain-locomotion`
+
+**Prior art notes:**
+
+> BigDog is the canonical Boston Dynamics foundational hydraulic quadruped (December 2005). 20-year-deep public-disclosure prior art for: dynamic-balance commercial quadruped, hydraulic-actuated heavy-payload legged robot, rough-terrain dynamic stabilization. Direct architectural application of Raibert's MIT Leg Lab work (round-19 entry) at commercial scale. The ancestor of every modern Boston Dynamics platform: LS3 (2012), Spot (2015+), Atlas (2013+). Direct shielding for any commercial quadruped or quadruped-derivative humanoid claim. The viral 'kicked on ice' video itself constitutes a uniquely-public defensive disclosure of dynamic-recovery behavior.
+
+**Sources:**
+
+1. Raibert et al. IFAC Proceedings 41(2) 2008.
+2. Boston Dynamics BigDog YouTube reveal video December 2005.
+3. DARPA TUGV program documentation.
+
+---
+
+### 2012-09 — Boston Dynamics LS3 (AlphaDog)
+
+- **id:** `boston-dynamics-ls3-alphadog-2012`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Boston Dynamics under DARPA / USMC contract
+- **disclosure citation:** Boston Dynamics + Marines Corps Warfighting Laboratory. LS3 (Legged Squad Support System) program reveal September 2012; demonstrated through 2015. AlphaDog is the prototype name (Phase 1, 2009-2012); LS3 is the Phase 2 (2012-2015) production version. Funded by DARPA + USMC.
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `mechanism-hydraulic-actuator`, `control-voice-command`, `control-rough-terrain-locomotion`
+
+**Prior art notes:**
+
+> LS3 / AlphaDog is the canonical 2012 hydraulic heavy-payload tactical quadruped (Boston Dynamics under DARPA + USMC). 13-year-deep public-disclosure prior art for: 400 lb payload quadruped, voice-commanded squad-support behavior, 20-mile endurance hydraulic quadruped. Direct successor to BigDog (round-20 entry above), architectural ancestor of Spot. **The hydraulic-vs-electric-quadruped architectural choice was decided at LS3** — BD pivoted to all-electric for Spot in part because LS3's noise made it tactically unusable. This decision is itself architectural prior art for modern humanoid claims.
+
+**Sources:**
+
+1. Boston Dynamics LS3 YouTube reveals 2012-2015.
+2. DARPA + USMC program documentation.
 
 ---
 
@@ -403,6 +444,45 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-08 — Unitree Go2
+
+- **id:** `unitree-go2-2023`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Unitree Robotics (Hangzhou, China)
+- **disclosure citation:** Unitree Robotics. Go2 commercial quadruped product reveal August 2023 via unitree.com. Successor to the Go1 (corpus entry `unitree-go1`).
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `actuator-electric-quasi-direct-drive`
+
+**Prior art notes:**
+
+> Unitree Go2 is the canonical 2023+ consumer/educational quadruped. 2-year-deep public-disclosure prior art. Direct successor to Go1 (corpus entry). **The dominant educational quadruped globally** — used in 1000+ academic publications. Direct shielding for any commercial claim on consumer-tier quadruped pricing or educational-quadruped form factor.
+
+**Sources:**
+
+1. Unitree Go2 product page (unitree.com/Go2).
+
+---
+
+### 2024-09 — Unitree B2
+
+- **id:** `unitree-b2-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Unitree Robotics (Hangzhou, China)
+- **disclosure citation:** Unitree Robotics. B2 commercial quadruped product reveal September 2024 via unitree.com / IFA Berlin 2024. Successor to the B1 (2023). B2-W variant adds wheel-feet for hybrid wheel-leg operation.
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `mechanism-wheel-leg-hybrid`, `actuator-electric-quasi-direct-drive`, `control-rough-terrain-locomotion`
+
+**Prior art notes:**
+
+> Unitree B2 is the canonical 2024+ heavy-payload commercial electric quadruped (Unitree). 1.5-year-deep public-disclosure prior art for: 40 kg sustained / 120 kg burst electric quadruped, wheel-leg hybrid B2-W variant. **B2-W is architecturally similar to the STAR family wheel-leg hybrid** (round-10 entries star-fearing-2013 → dstar-zarrouk-2026) — Unitree commercializes the wheel-leg-hybrid pattern at quadruped scale. Direct shielding for any commercial quadruped claim on heavy-payload electric or wheel-leg-hybrid morphology.
+
+**Sources:**
+
+1. Unitree B2 product page (unitree.com/B2).
+2. IFA Berlin 2024 announcement.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -433,4 +513,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

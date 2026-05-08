@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `control-cross-embodiment`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-cross-embodiment`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
-**Earliest disclosure:** 2024-03  
+**Entries:** 5 (5 commons-grade, 0 draft)  
+**Earliest disclosure:** 2023-10  
 **Most recent disclosure:** 2025-03
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2023-10 — RT-X / Open X-Embodiment collaboration paper
+
+- **id:** `rt-x-collaboration-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Open X-Embodiment Collaboration (21 institutions, 100+ co-authors)
+- **disclosure citation:** Open X-Embodiment Collaboration et al. 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models'. ICRA 2024. arXiv:2310.08864. Cross-institutional collaboration spanning 21 institutions (Google DeepMind, Stanford, UC Berkeley, MIT, CMU, Columbia, NYU, Toyota Research Institute, Imperial College, ETH Zürich, Tokyo Tech, et al.). The paper introducing the dataset now in the corpus as `open-x-embodiment`.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-cross-embodiment`, `control-foundation-model-policy`, `control-imitation-learning`
+
+**Prior art notes:**
+
+> RT-X / Open X-Embodiment collaboration (ICRA 2024) is the canonical 21-institution cross-embodiment VLA collaboration. 1.5-year-deep open-permissive prior art for: publicly-coordinated cross-institutional robot dataset pool, cross-embodiment VLA training methodology, RT-1-X / RT-2-X cross-embodiment models. Direct shielding for any commercial humanoid claim on cross-embodiment VLA training. **The collaboration model itself is novel art** — establishes that open multi-institution dataset pooling for robot learning is well-anticipated public-domain academic practice. Distinct from the dataset entry (`open-x-embodiment` already in corpus) by emphasis on the model-training + collaboration-pattern artifacts.
+
+**Sources:**
+
+1. Open X-Embodiment Collaboration arXiv:2310.08864 ICRA 2024.
+2. Project page (robotics-transformer-x.github.io).
+3. Open X-Embodiment dataset (robotics-transformer-x.github.io/data).
+
+---
 
 ### 2024-03 — 3D Diffusion Policy (DP3)
 
@@ -158,4 +179,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

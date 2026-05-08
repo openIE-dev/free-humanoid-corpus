@@ -1,13 +1,13 @@
 ---
 title: "mechanism-syntactic-foam-ballast"
 parent: "Invalidity Contentions"
-nav_order: 84
+nav_order: 89
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-syntactic-foam-ballast`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-syntactic-foam-ballast`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1964-06  
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

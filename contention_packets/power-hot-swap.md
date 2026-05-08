@@ -1,13 +1,13 @@
 ---
 title: "power-hot-swap"
 parent: "Invalidity Contentions"
-nav_order: 94
+nav_order: 99
 layout: default
 ---
 
 # Invalidity Contention Packet — `power-hot-swap`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `power-hot-swap`  
 **Entries:** 3 (2 commons-grade, 1 draft)  
 **Earliest disclosure:** 2015-02  
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

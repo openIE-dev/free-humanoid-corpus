@@ -1,13 +1,13 @@
 ---
 title: "control-sim-to-real"
 parent: "Invalidity Contentions"
-nav_order: 55
+nav_order: 58
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-sim-to-real`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-sim-to-real`  
 **Entries:** 34 (29 commons-grade, 5 draft)  
 **Earliest disclosure:** 2014-12-11  
@@ -768,4 +768,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

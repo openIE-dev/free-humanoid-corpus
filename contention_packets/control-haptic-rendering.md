@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-haptic-rendering`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-haptic-rendering`  
 **Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 1994-09  
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

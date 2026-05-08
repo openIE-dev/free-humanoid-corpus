@@ -1,13 +1,13 @@
 ---
 title: "control-publish-subscribe"
 parent: "Invalidity Contentions"
-nav_order: 50
+nav_order: 51
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-publish-subscribe`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-publish-subscribe`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2009-05  
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

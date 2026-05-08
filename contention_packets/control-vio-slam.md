@@ -1,13 +1,13 @@
 ---
 title: "control-vio-slam"
 parent: "Invalidity Contentions"
-nav_order: 61
+nav_order: 64
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-vio-slam`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-vio-slam`  
 **Entries:** 12 (7 commons-grade, 5 draft)  
 **Earliest disclosure:** 2018-06  
@@ -315,4 +315,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*

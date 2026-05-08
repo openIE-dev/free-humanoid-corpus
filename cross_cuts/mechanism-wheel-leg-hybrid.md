@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-wheel-leg-hybrid`
 
-**10 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2002-10-01
 
@@ -86,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cohen, A., Zarrouk, D. 'AmphiSTAR: A High-Speed Amphibious Reconfigurable Robot'. IEEE Robotics and Automation Letters 2023; ICRA 2023 demo. Ben-Gurion University, Zarrouk lab.
 - **ip status**: open-permissive
 - **prior art notes**: AmphiSTAR establishes 3-year-deep open-academic prior art for **terrestrial-aquatic transition in a single platform with shared ground-contact mechanism**. Directly relevant to free-humanoid-submersible (and the centaur's wetland mode-transition) — proves that wheel-paddle hybrid contact patches and sealed-enclosure amphibious operation are well-anticipated open art. Any commercial claim on amphibious humanoid robotics faces this lineage plus the deeper aquatic-robotics chain (Slocum/Seaglider, OceanOne, AmphiSTAR).
+
+## Unitree B2 (2024-09)
+
+- **id**: `unitree-b2-2024`
+- **corpus**: private
+- **creator**: Unitree Robotics (Hangzhou, China)
+- **disclosure**: Unitree Robotics. B2 commercial quadruped product reveal September 2024 via unitree.com / IFA Berlin 2024. Successor to the B1 (2023). B2-W variant adds wheel-feet for hybrid wheel-leg operation.
+- **ip status**: trade-secret
+- **prior art notes**: Unitree B2 is the canonical 2024+ heavy-payload commercial electric quadruped (Unitree). 1.5-year-deep public-disclosure prior art for: 40 kg sustained / 120 kg burst electric quadruped, wheel-leg hybrid B2-W variant. **B2-W is architecturally similar to the STAR family wheel-leg hybrid** (round-10 entries star-fearing-2013 → dstar-zarrouk-2026) — Unitree commercializes the wheel-leg-hybrid pattern at quadruped scale. Direct shielding for any commercial quadruped claim on heavy-payload electric or wheel-leg-hybrid morphology.
 
 ## FLORES wheel-legged robot (2025-07)
 

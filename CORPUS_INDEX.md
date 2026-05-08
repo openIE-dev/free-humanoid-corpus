@@ -1,6 +1,6 @@
 # Corpus Index
 
-436 entries total. Generated from corpus.jsonl.
+445 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -62,6 +62,8 @@
 | Booster K1 | `booster-k1-2025` | 2025 | private | trade-secret |  |
 | Booster T1 | `booster-t1-2025` | 2025 | private | trade-secret | ✓ |
 | Borg Collective (Star Trek TNG) | `borg-tng-1989` | 1989 | fictional | fictional |  |
+| Boston Dynamics BigDog | `boston-dynamics-bigdog-2005` | 2005 | private | trade-secret |  |
+| Boston Dynamics LS3 (AlphaDog) | `boston-dynamics-ls3-alphadog-2012` | 2012 | private | trade-secret |  |
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
 | Boston Dynamics Spot (fuel-cell variant) | `spot-fuel-cell` | 2020 | private | patented | ✓ |
 | Boston Dynamics SpotMini | `boston-dynamics-spotmini-2017` | 2016 | private | trade-secret |  |
@@ -71,6 +73,7 @@
 | Brockett's Necessary Condition for Stabilizability | `brockett-condition-1983` | 1983 | academic | public-domain |  |
 | Caltech CAST Hank bipedal platform | `caltech-hank-cast-2019` | 2019 | academic | public-domain |  |
 | Caltech LEONARDO | `caltech-leonardo-2021` | 2021 | academic | public-domain |  |
+| CALVIN | `calvin-mees-2022` | 2021 | academic | open-permissive |  |
 | Casshan / Casshern (Neo-Human Casshan) | `casshan-tatsunoko` | 1973 | fictional | fictional | ✓ |
 | Cassie | `cassie-osu` | 2017 | academic | patented |  |
 | Cell | `dbz-cell-android-21` | 1992 | fictional | fictional |  |
@@ -146,6 +149,7 @@
 | Frankenstein's Creature | `frankenstein` | 1818 | fictional | fictional |  |
 | Frost and Betelgeuse | `zelazny-frost-betelgeuse` | 1966 | fictional | fictional |  |
 | FSTAR (Flying STAR) | `fstar-zarrouk-2019` | 2019 | academic | open-permissive | ✓ |
+| FurnitureBench | `furniturebench-heo-rss-2023` | 2023 | academic | open-permissive |  |
 | Galbot | `galbot-galaxy-robotics-2024` | 2024 | private | trade-secret | ✓ |
 | Gato (DeepMind generalist agent) | `gato-deepmind` | 2022 | academic | open-permissive |  |
 | GE Quadruped Transporter (Walking Truck) | `ge-walking-truck` | 1968 | academic | public-domain |  |
@@ -248,6 +252,7 @@
 | MIT Cheetah 2 | `mit-cheetah-2` | 2014 | academic | open-permissive |  |
 | MIT Cheetah 3 | `mit-cheetah-3` | 2018 | academic | open-permissive |  |
 | MIT Humanoid | `mit-humanoid-2021` | 2021 | academic | public-domain |  |
+| MIT Kismet (sociable robot) | `mit-kismet-breazeal-1998` | 1998 | academic | public-domain |  |
 | MIT Mini Cheetah | `mini-cheetah` | 2019 | academic | open-permissive |  |
 | mjbots Moteus | `mjbots-moteus` | 2019 | open | open-permissive |  |
 | MJOLNIR Powered Assault Armor / Master Chief | `halo-mjolnir-master-chief` | 2001 | fictional | fictional |  |
@@ -342,6 +347,7 @@
 | RSTAR (Rising STAR) | `rstar-zarrouk-2019` | 2019 | academic | open-permissive |  |
 | RT-1 (Robotics Transformer 1) | `rt-1` | 2022 | academic | open-permissive |  |
 | RT-2 | `openai-rt-2` | 2023 | academic | public-domain |  |
+| RT-X / Open X-Embodiment collaboration paper | `rt-x-collaboration-2023` | 2023 | academic | open-permissive |  |
 | Runtime Assurance (RTA) | `runtime-assurance-rta` | 2010 | academic | public-domain |  |
 | RX-78-2 Gundam | `gundam-rx-78-2` | 1979 | fictional | fictional | ✓ |
 | RX-78-2 Gundam (additional Gundam mecha disclosures) | `rx-78-2-gundam-2` | 1979 | fictional | fictional | ✓ |
@@ -389,6 +395,7 @@
 | Talos Principle Robots | `talos-principle-robots` | 2014 | fictional | fictional |  |
 | Tan et al. Quadruped Sim-to-Real | `tan-quadruped-sim2real` | 2018 | academic | open-permissive |  |
 | Tassa iLQG / Synthesis and Stabilization of Complex Behaviors | `tassa-ilqg-2012` | 2012 | academic | public-domain |  |
+| Taylor JHU surgical robotics (foundational) | `taylor-jhu-surgical-robotics-1990s` | 1989 | academic | public-domain | ✓ |
 | Tesla Optimus | `tesla-optimus` | 2021 | private | patented | ✓ |
 | Tesla Optimus Gen 3 | `tesla-optimus-gen3-2025` | 2025 | private | trade-secret | ✓ |
 | Tetsujin 28 | `tetsujin-28` | 1956 | fictional | fictional |  |
@@ -411,8 +418,10 @@
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |
 | Ultron | `ultron-marvel` | 1968 | fictional | fictional |  |
 | UnetStack underwater networking framework | `unetstack-subnero-2014` | 2014 | open | open-permissive |  |
+| Unitree B2 | `unitree-b2-2024` | 2024 | private | trade-secret |  |
 | Unitree G1 | `unitree-g1` | 2024 | private | patented | ✓ |
 | Unitree Go1 | `unitree-go1` | 2021 | private | patented |  |
+| Unitree Go2 | `unitree-go2-2023` | 2023 | private | trade-secret |  |
 | Unitree H1 | `unitree-h1` | 2023 | private | patented | ✓ |
 | Unitree H2 | `unitree-h2` | 2025 | private | patented | ✓ |
 | Unitree R1 | `unitree-r1-2025` | 2025 | private | trade-secret |  |

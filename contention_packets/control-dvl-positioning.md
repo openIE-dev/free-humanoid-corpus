@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-dvl-positioning`
 
-**Generated:** 2026-05-07  
+**Generated:** 2026-05-08  
 **Cross-cut tag:** `control-dvl-positioning`  
 **Entries:** 8 (7 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-04  
@@ -238,4 +238,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b51f194`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `f1d5a8f`.*
