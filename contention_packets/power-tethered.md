@@ -1,7 +1,7 @@
 ---
 title: "power-tethered"
 parent: "Invalidity Contentions"
-nav_order: 75
+nav_order: 76
 layout: default
 ---
 
@@ -325,4 +325,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7337017`.*

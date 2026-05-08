@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-gaussian-splatting-slam`  
-**Entries:** 5 (2 commons-grade, 3 draft)  
+**Entries:** 6 (2 commons-grade, 4 draft)  
 **Earliest disclosure:** 2024-03  
 **Most recent disclosure:** 2025-11
 
@@ -76,6 +76,25 @@ cite, copy, or redistribute these contentions.
 
 1. Yu et al. arXiv:2409.18108 September 2024.
 2. IROS 2024 proceedings paper (autolab.berkeley.edu/assets/publications/media/2024_IROS_LEGS_CR.pdf).
+
+---
+
+### 2024-11 — DGS-SLAM *(draft)*
+
+- **id:** `dgs-slam-kong-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Mangyu Kong, Jaewon Lee, Seongwon Lee, Euntai Kim (per arXiv 2411.10722)
+- **disclosure citation:** Kong, M., Lee, J., Lee, S., Kim, E. 'DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment'. arXiv:2411.10722, November 2024.
+- **disclosed subsystems:** `control-vio-slam`, `control-gaussian-splatting-slam`, `control-dynamic-scene-robust`
+
+**Prior art notes:**
+
+> DGS-SLAM (Kong et al. arXiv 2411.10722, November 2024). 6-month-deep prior art on dynamic-aware Gaussian-splatting SLAM. Cited as a competitor in the RADIO-ViPE Table II TUM-RGBD ATE benchmark; the round-10 RADIO-ViPE entry's claim of SOTA is anchored by comparison against this and several sibling systems. Direct shielding for any commercial humanoid claim on dynamic-scene GS-SLAM.
+
+**Sources:**
+
+1. Kong et al. arXiv:2411.10722 November 2024.
 
 ---
 
@@ -171,4 +190,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7337017`.*

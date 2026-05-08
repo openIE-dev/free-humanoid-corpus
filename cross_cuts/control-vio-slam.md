@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vio-slam`
 
-**10 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2018-06
 
@@ -50,6 +50,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Zhu, S., et al. 'SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM'. arXiv:2403.07494, March 2024.
 - **ip status**: open-permissive
 - **prior art notes**: SemGauss-SLAM is one of the first dense-semantic Gaussian-splatting SLAM systems (March 2024). 14-month-deep prior art for combining 3D Gaussian representations with per-primitive semantic features. Predates and informs the open-vocabulary GS-SLAM lineage that WildGS-SLAM, LEG-SLAM, LEGO-SLAM, and RADIO-ViPE descend from.
+
+## RoDyn-SLAM (2024-07)
+
+- **id**: `rodyn-slam-jiang-2024`
+- **corpus**: academic
+- **creator**: Fudan University ZVG; Haochen Jiang, Yueming Xu, Kejie Li, Jianfeng Feng, Li Zhang
+- **disclosure**: Jiang, H., Xu, Y., Li, K., Feng, J., Zhang, L. 'RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields'. IEEE Robotics and Automation Letters 2024. arXiv:2407.01303 July 2024. Fudan University ZVG (Zhang Vision Group).
+- **ip status**: open-permissive
+- **prior art notes**: RoDyn-SLAM is Fudan ZVG's NeRF-based dynamic-scene SLAM (IEEE RAL 2024). 10-month-deep prior art on the NeRF branch of dynamic SLAM (distinct from the GS-based lineage of WildGS-SLAM, DGS-SLAM, DG-SLAM, etc.). Cited as a competitor in RADIO-ViPE Table II — the TUM-RGBD ATE benchmark RADIO-ViPE compares against. Together with DGS-SLAM, DG-SLAM, WildGS-SLAM, and DynaSLAM, establishes the academic dynamic-SLAM substrate that RADIO-ViPE measures itself against.
+
+## DGS-SLAM (2024-11)
+
+- **id**: `dgs-slam-kong-2024`
+- **corpus**: academic
+- **creator**: Mangyu Kong, Jaewon Lee, Seongwon Lee, Euntai Kim (per arXiv 2411.10722)
+- **disclosure**: Kong, M., Lee, J., Lee, S., Kim, E. 'DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment'. arXiv:2411.10722, November 2024.
+- **ip status**: open-permissive
+- **prior art notes**: DGS-SLAM (Kong et al. arXiv 2411.10722, November 2024). 6-month-deep prior art on dynamic-aware Gaussian-splatting SLAM. Cited as a competitor in the RADIO-ViPE Table II TUM-RGBD ATE benchmark; the round-10 RADIO-ViPE entry's claim of SOTA is anchored by comparison against this and several sibling systems. Direct shielding for any commercial humanoid claim on dynamic-scene GS-SLAM.
 
 ## MegaSaM (2024-12)
 

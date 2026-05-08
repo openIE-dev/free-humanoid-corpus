@@ -1,7 +1,7 @@
 ---
 title: "mechanism-quadrupedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 60
+nav_order: 61
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-quadrupedal-locomotion`  
-**Entries:** 16 (15 commons-grade, 1 draft)  
+**Entries:** 17 (16 commons-grade, 1 draft)  
 **Earliest disclosure:** 1968-09-27  
 **Most recent disclosure:** 2022-09
 
@@ -179,6 +179,27 @@ cite, copy, or redistribute these contentions.
 
 1. Hutter, M. et al. IROS 2016.
 2. ANYbotics company materials.
+
+---
+
+### 2016-06 — Boston Dynamics SpotMini
+
+- **id:** `boston-dynamics-spotmini-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Boston Dynamics
+- **disclosure citation:** Boston Dynamics. SpotMini public reveal June 2016 demo video; subsequent IEEE Spectrum coverage 2017-2018; capability demonstrations via Boston Dynamics YouTube. Discontinued in favor of Spot (the production quadruped) circa 2019.
+- **disclosed subsystems:** `mechanism-quadrupedal-locomotion`, `actuator-electric`, `control-rl-policy`, `control-teleoperation`
+
+**Prior art notes:**
+
+> SpotMini is the architectural predecessor to commercial Spot. ~9-year-deep public-disclosure prior art for: all-electric quadruped morphology (distinct from hydraulic BigDog/Spot ancestors), dorsal-mount manipulator on quadruped base, Velodyne+depth-camera quadruped sensor stack. Trade-secret control software, public capability surface. Direct shielding for any commercial humanoid-quadruped or quadruped-manipulator claim. Cited in cheetah-cub-epfl and black-mirror-metalhead-2017 prior_art_notes; round-14 backfill closes those citation chains.
+
+**Sources:**
+
+1. Boston Dynamics YouTube reveal videos June 2016 and 2018.
+2. IEEE Spectrum 'Boston Dynamics' SpotMini Is All Electric, Agile, and Has a Capable Face-Arm', 2017.
+3. Vision Systems Design coverage 2018.
 
 ---
 
@@ -391,4 +412,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `864caf4`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7337017`.*

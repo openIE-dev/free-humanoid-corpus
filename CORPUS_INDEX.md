@@ -1,6 +1,6 @@
 # Corpus Index
 
-375 entries total. Generated from corpus.jsonl.
+381 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | Borg Collective (Star Trek TNG) | `borg-tng-1989` | 1989 | fictional | fictional |  |
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
 | Boston Dynamics Spot (fuel-cell variant) | `spot-fuel-cell` | 2020 | private | patented | ✓ |
+| Boston Dynamics SpotMini | `boston-dynamics-spotmini-2017` | 2016 | private | trade-secret |  |
 | Brainiac | `dc-brainiac-1958` | 1958 | fictional | fictional |  |
 | BridgeData V2 multi-robot trajectory dataset | `bridgedata-v2-walke-2023` | 2023 | academic | public-domain |  |
 | Brockett's Necessary Condition for Stabilizability | `brockett-condition-1983` | 1983 | academic | public-domain |  |
@@ -92,6 +93,7 @@
 | David and Walter (Alien franchise synthetics) | `david-prometheus-walter-covenant` | 2012 | fictional | fictional |  |
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
+| DGS-SLAM | `dgs-slam-kong-2024` | 2024 | academic | open-permissive | ✓ |
 | Diffusion Policy | `diffusion-policy` | 2023 | academic | open-permissive |  |
 | Digit | `agility-digit` | 2019 | private | patented |  |
 | DIGIT | `digit-meta` | 2020 | academic | open-permissive |  |
@@ -115,6 +117,7 @@
 | Ergo Proxy (Autoreivs and Proxies) | `ergo-proxy-2006` | 2006 | fictional | fictional |  |
 | Eureka LLM-driven reward design | `eureka-ma-2023` | 2023 | academic | public-domain |  |
 | Evangelion (EVA Unit-01) | `evangelion` | 1995 | fictional | fictional | ✓ |
+| FCSTAR (Flying-Climbing STAR) | `fcstar-zarrouk-2021` | 2021 | academic | open-permissive | ✓ |
 | Featherstone Robot Dynamics Algorithms | `featherstone-rdf` | 1987 | academic | public-domain |  |
 | Ferrari-Canny Grasp Quality Metrics | `ferrari-canny-grasp-quality` | 1992 | academic | public-domain |  |
 | Figure 01 | `figure-01` | 2023 | private | patented | ✓ |
@@ -123,6 +126,7 @@
 | Fourier GR-1 | `fourier-gr1` | 2023 | private | patented | ✓ |
 | Frankenstein's Creature | `frankenstein` | 1818 | fictional | fictional |  |
 | Frost and Betelgeuse | `zelazny-frost-betelgeuse` | 1966 | fictional | fictional |  |
+| FSTAR (Flying STAR) | `fstar-zarrouk-2019` | 2019 | academic | open-permissive | ✓ |
 | Gato (DeepMind generalist agent) | `gato-deepmind` | 2022 | academic | open-permissive |  |
 | GE Quadruped Transporter (Walking Truck) | `ge-walking-truck` | 1968 | academic | public-domain |  |
 | GelSight | `gelsight` | 2009 | academic | open-permissive |  |
@@ -284,6 +288,7 @@
 | Robot (Robot & Frank) | `robot-and-frank` | 2012 | fictional | fictional |  |
 | Robot Era STAR1 | `robot-era-star1` | 2024 | private | patented | ✓ |
 | Robotman (Robert Crane) | `dc-robotman-1942` | 1942 | fictional | fictional |  |
+| RoDyn-SLAM | `rodyn-slam-jiang-2024` | 2024 | academic | open-permissive |  |
 | Roetenberg Inertial Motion Capture (Xsens MVN) | `roetenberg-xsens-imu` | 2009 | academic | open-permissive |  |
 | ROS (Robot Operating System) | `ros-quigley-2009` | 2009 | academic | open-permissive |  |
 | ROS 2 | `ros-2-2017` | 2017 | academic | open-permissive |  |
@@ -348,6 +353,7 @@
 | Toyota T-HR3 | `toyota-thr3` | 2017 | private | patented |  |
 | Triton XLX work-class ROV | `triton-xlx-rov` | 2003 | private | trade-secret |  |
 | Trurl and Klapaucius (The Cyberiad) | `lem-cyberiad` | 1965 | fictional | fictional |  |
+| TSTAR (Tail STAR) | `tstar-zarrouk-2018` | 2018 | academic | open-permissive | ✓ |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |
 | Ultron | `ultron-marvel` | 1968 | fictional | fictional |  |

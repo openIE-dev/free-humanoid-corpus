@@ -2061,7 +2061,10 @@
       "descendants": [
         "amphistar-zarrouk-2023",
         "dstar-zarrouk-2026",
-        "rstar-zarrouk-2019"
+        "fcstar-zarrouk-2021",
+        "fstar-zarrouk-2019",
+        "rstar-zarrouk-2019",
+        "tstar-zarrouk-2018"
       ]
     },
     {
@@ -2357,6 +2360,14 @@
       "descendants": []
     },
     {
+      "id": "boston-dynamics-spotmini-2017",
+      "name": "Boston Dynamics SpotMini",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "gail-ho-ermon",
       "name": "Generative Adversarial Imitation Learning (GAIL)",
       "year": "2016",
@@ -2587,6 +2598,19 @@
       ]
     },
     {
+      "id": "tstar-zarrouk-2018",
+      "name": "TSTAR (Tail STAR)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "star-fearing-2013"
+      ],
+      "descendants": [
+        "fcstar-zarrouk-2021",
+        "fstar-zarrouk-2019"
+      ]
+    },
+    {
       "id": "detroit-become-human",
       "name": "Detroit: Become Human androids (RT600/RK800/RK900 series)",
       "year": "2018",
@@ -2753,6 +2777,19 @@
       "descendants": []
     },
     {
+      "id": "fstar-zarrouk-2019",
+      "name": "FSTAR (Flying STAR)",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [
+        "star-fearing-2013",
+        "tstar-zarrouk-2018"
+      ],
+      "descendants": [
+        "fcstar-zarrouk-2021"
+      ]
+    },
+    {
       "id": "rstar-zarrouk-2019",
       "name": "RSTAR (Rising STAR)",
       "year": "2019",
@@ -2894,6 +2931,18 @@
       "descendants": [
         "unitree-h1"
       ]
+    },
+    {
+      "id": "fcstar-zarrouk-2021",
+      "name": "FCSTAR (Flying-Climbing STAR)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [
+        "fstar-zarrouk-2019",
+        "star-fearing-2013",
+        "tstar-zarrouk-2018"
+      ],
+      "descendants": []
     },
     {
       "id": "nvidia-isaac-gym-2021",
@@ -3639,6 +3688,14 @@
       "descendants": []
     },
     {
+      "id": "rodyn-slam-jiang-2024",
+      "name": "RoDyn-SLAM",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "skild-foundation-model",
       "name": "Skild AI foundation model",
       "year": "2024",
@@ -3703,6 +3760,14 @@
       "ancestors": [
         "cassie-osu"
       ],
+      "descendants": []
+    },
+    {
+      "id": "dgs-slam-kong-2024",
+      "name": "DGS-SLAM",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
