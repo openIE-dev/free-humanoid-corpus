@@ -40,6 +40,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-action-chunking` | 1 | 2025-02 |
 | `control-adversarial-style-distillation` | 1 | 2021-04 |
 | `control-affective-computing` | 1 | 1998-09 |
+| `control-agricultural-autonomy` | 2 | 2010-01 |
 | `control-articulated-object-manipulation` | 1 | 2020-03 |
 | `control-assembly-task` | 1 | 2023-05 |
 | `control-bci` | 3 | 2002-07 |
@@ -72,6 +73,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-foundation-model-perception` | 9 | 2023-03 |
 | `control-foundation-model-policy` | 14 | 2021-08 |
 | `control-gaussian-splatting-slam` | 6 | 2024-03 |
+| `control-gps-denied-navigation` | 1 | 2000-01 |
 | `control-gpu-parallelized-rl` | 1 | 2021-08 |
 | `control-grasp-planning` | 1 | 1989-06 |
 | `control-grasp-taxonomy` | 4 | 1919-01 |
@@ -86,8 +88,10 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-lifelong-learning` | 1 | 2023-06 |
 | `control-loco-manipulation` | 4 | 2023-10 |
 | `control-long-horizon-manipulation` | 2 | 2021-12 |
+| `control-low-resource-deployment` | 1 | 2005-01 |
 | `control-mask-segmentation` | 1 | 2018-06 |
 | `control-master-slave-teleoperation` | 4 | 1989-01 |
+| `control-mav-flight` | 1 | 2000-01 |
 | `control-middleware` | 2 | 2009-05 |
 | `control-minimal-actuation` | 1 | 2005-02 |
 | `control-mission-script` | 4 | 1989-01 |
@@ -97,7 +101,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-mpc` | 40 | 1980-11 |
 | `control-multi-agent-rl` | 1 | 2024-04 |
 | `control-multi-agent-simulation` | 1 | 2023-10 |
-| `control-multi-robot-coordination` | 1 | 2025-02 |
+| `control-multi-robot-coordination` | 2 | 2000-01 |
 | `control-multi-teacher-distillation` | 1 | 2023-12 |
 | `control-multilingual-speech` | 3 | 2003-09 |
 | `control-multimodal-agent` | 1 | 2025-02 |
@@ -121,7 +125,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-real-time-communication` | 1 | 2017-12 |
 | `control-real-time-control` | 1 | 2025-03 |
 | `control-reduced-order-model` | 28 | 1979-04-07 |
-| `control-research-cluster` | 1 | 2010-01 |
+| `control-research-cluster` | 10 | 2000-01 |
 | `control-rl-policy` | 138 | 1818 |
 | `control-rough-terrain-locomotion` | 5 | 2005-12 |
 | `control-self-play` | 1 | 2024-04 |
@@ -143,7 +147,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-uncalibrated-video-perception` | 1 | 2025-08 |
 | `control-vibrotactile-feedback` | 2 | 2023-01 |
 | `control-video-generation` | 1 | 2025-01 |
-| `control-vio-slam` | 12 | 2018-06 |
+| `control-vio-slam` | 13 | 2010-07 |
 | `control-virtual-finger` | 1 | 1986-01 |
 | `control-vision-language` | 2 | 2023-03 |
 | `control-vision-only-perception` | 1 | 2025-10 |
@@ -169,7 +173,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-anthropomorphic-hand` | 126 | 1495 |
 | `mechanism-bipedal-locomotion` | 144 | -0250 |
 | `mechanism-cable-driven-transmission` | 1 | 2018-04 |
-| `mechanism-collaborative-robot` | 1 | 2017-09 |
+| `mechanism-collaborative-robot` | 2 | 2002-01 |
 | `mechanism-continuum-manipulator` | 1 | 2017-04 |
 | `mechanism-control-fin` | 2 | 1995-01 |
 | `mechanism-differential-synergy` | 1 | 2025-10 |
@@ -185,14 +189,14 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-hydraulic-actuator` | 3 | 2004-03 |
 | `mechanism-implantable-medical-device` | 1 | 2017-04 |
 | `mechanism-manipulator-arm` | 15 | 1964-06 |
-| `mechanism-mobile-base` | 5 | 2003-09 |
+| `mechanism-mobile-base` | 6 | 2003-09 |
 | `mechanism-parallel-kinematic-haptic` | 2 | 1994-09 |
 | `mechanism-passive-dynamic-walking` | 4 | 1990 |
 | `mechanism-pcb-folded-linkage` | 1 | 2013-05 |
 | `mechanism-pitch-roll-trim` | 2 | 1989-01 |
 | `mechanism-pressure-hull` | 7 | 1964-06 |
 | `mechanism-pressure-tolerant-actuator` | 1 | 2022-07 |
-| `mechanism-quadrupedal-locomotion` | 22 | 1968-09-27 |
+| `mechanism-quadrupedal-locomotion` | 23 | 1968-09-27 |
 | `mechanism-realistic-face` | 1 | 2015-03 |
 | `mechanism-reconfigurable` | 6 | 2018-05 |
 | `mechanism-sealed-enclosure` | 1 | 2023-05 |

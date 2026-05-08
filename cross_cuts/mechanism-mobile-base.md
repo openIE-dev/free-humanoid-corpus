@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-mobile-base`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003-09
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mitsubishi Heavy Industries, Ltd. (Japan). Wakamaru reveal 2003 via mhi.co.jp; commercial release September 2005. Designed for domestic + healthcare service applications. Production discontinued 2014; ~100 units sold.
 - **ip status**: trade-secret
 - **prior art notes**: Mitsubishi Wakamaru is the canonical first Japanese commercial domestic-service humanoid (MHI 2003-2014). 22-year-deep public-disclosure prior art for: wheeled domestic-service humanoid form factor, elder-care + appointment-reminder commercial humanoid applications, bright-color visibility-optimized humanoid design. **Direct architectural predecessor of Aldebaran/Softbank Pepper (2014, in corpus) and the contemporary domestic-service humanoid lineage** including 1X NEO Beta + Galbot. Adds a 22-year prior-art chain to Japanese commercial domestic-service humanoid space.
+
+## Embrapa Brazilian agritech robotics (2010-01)
+
+- **id**: `embrapa-brazil-agritech-robotics`
+- **corpus**: academic
+- **creator**: Empresa Brasileira de Pesquisa Agropecuária (Embrapa)
+- **disclosure**: Empresa Brasileira de Pesquisa Agropecuária (Embrapa, founded 1973). Brazilian Federal Government agricultural research corporation; the largest agricultural research organization in the southern hemisphere. embrapa.br. Robotics research concentrated at Embrapa Instrumentation (São Carlos): autonomous tractors, agricultural drones, soil + crop sensing platforms.
+- **ip status**: public-domain
+- **prior art notes**: Embrapa is the canonical Brazilian agritech robotics research institution. **First entry in the corpus from Brazil** — closes a major regional gap. Direct shielding for any commercial humanoid claim on agricultural-context deployment, particularly for the Latin American market. Aggregator-style entry; specific Embrapa papers should be added in future rounds.
 
 ## Promobot (2015-03)
 

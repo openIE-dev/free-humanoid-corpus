@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-vio-slam`
 
-**12 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2018-06
+Earliest disclosure: 2010-07
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## CSIRO Data61 Robotics and Autonomous Systems (2010-07)
+
+- **id**: `csiro-data61-australia-robotics`
+- **corpus**: academic
+- **creator**: CSIRO Data61 (Commonwealth Scientific and Industrial Research Organisation, Australia)
+- **disclosure**: CSIRO Data61 (Commonwealth Scientific and Industrial Research Organisation; Brisbane + Sydney, Australia). Robotics and Autonomous Systems group originally part of CSIRO ICT Centre, merged into Data61 in 2014. Notable projects: **Wildcat** legged robot for DARPA Subterranean Challenge (won 2nd place 2021), **Bobcat** agricultural robot, **Tilt-rotor UAV** development. Continuous robotics research output 2010+.
+- **ip status**: public-domain
+- **prior art notes**: CSIRO Data61 is Australia's dominant robotics research institution. 15-year-deep public-domain academic prior art spanning legged robots (DARPA SubT 2021 2nd place), agricultural automation (SwagBot, Bobcat), aerial systems. **First entry in the corpus for Australia** — closes a major regional gap. Aggregator-style entry covering CSIRO RAS broadly; specific papers should be added in future rounds.
 
 ## DynaSLAM (2018-06)
 

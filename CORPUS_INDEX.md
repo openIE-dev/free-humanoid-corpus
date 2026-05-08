@@ -1,12 +1,13 @@
 # Corpus Index
 
-464 entries total. Generated from corpus.jsonl.
+473 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
 | 1X NEO | `1x-neo` | 2024 | private | patented | ✓ |
 | 3D Diffusion Policy (DP3) | `dp3-ze-rss-2024` | 2024 | academic | open-permissive |  |
 | 8 Man (Hachiman) | `8-man-hachiman` | 1963 | fictional | fictional |  |
+| A*STAR Institute for Infocomm Research (I2R) robotics | `a-star-singapore-i2r-robotics` | 2002 | academic | open-permissive | ✓ |
 | Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning | `abbeel-ng-irl-2004` | 2004 | academic | public-domain |  |
 | ACT (Action Chunking Transformer) / ALOHA | `act-aloha` | 2023 | academic | open-permissive |  |
 | Adversarial Motion Priors (AMP) | `amp-peng-siggraph-2021` | 2021 | academic | open-permissive |  |
@@ -93,6 +94,7 @@
 | Cowboy Bebop (Pierrot Le Fou cyborg, MPU and AI antagonists) | `cowboy-bebop-pierrot-1998` | 1998 | fictional | fictional |  |
 | Crazyflie | `crazyflie` | 2013 | open | open-permissive |  |
 | Crocoddyl | `mastalli-crocoddyl-2020` | 2020 | academic | open-permissive |  |
+| CSIRO Data61 Robotics and Autonomous Systems | `csiro-data61-australia-robotics` | 2010 | academic | public-domain | ✓ |
 | Culture Drones | `banks-culture-drones` | 1987 | fictional | fictional |  |
 | Cutkosky grasp taxonomy | `cutkosky-grasp-taxonomy-1989` | 1989 | academic | public-domain |  |
 | Cyberdyne HAL (Hybrid Assistive Limb) | `cyberdyne-hal-sankai-2004` | 2004 | private | trade-secret |  |
@@ -102,6 +104,7 @@
 | Cyborg 009 (Joe Shimamura and the 00 Cyborgs) | `cyborg-009` | 1964 | fictional | fictional |  |
 | Cylon Centurion (1978) | `cylon-centurion-1978` | 1978 | fictional | fictional |  |
 | Cylon Hybrids | `bsg-hybrids` | 2007 | fictional | fictional |  |
+| Czech Technical University Prague (CVUT/CTU) robotics | `cvut-prague-czech-robotics` | 2000 | academic | open-permissive | ✓ |
 | Dahj and Soji (Star Trek: Picard) | `picard-soji` | 2020 | fictional | fictional |  |
 | Daleks | `daleks-doctor-who` | 1963 | fictional | fictional |  |
 | DARwIn-OP | `darwin-op` | 2010 | open | open-permissive |  |
@@ -137,6 +140,7 @@
 | DynaSLAM | `dynaslam-bescos-2018` | 2018 | academic | open-copyleft |  |
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
 | Educational SoftHand-A | `educational-softhand-a-2025` | 2025 | academic | open-permissive |  |
+| Embrapa Brazilian agritech robotics | `embrapa-brazil-agritech-robotics` | 2010 | academic | public-domain | ✓ |
 | EngineAI PM01 | `engineai-pm01` | 2024 | private | patented | ✓ |
 | EngineAI SE01 | `engineai-se01-2025` | 2025 | private | trade-secret | ✓ |
 | Ergo Proxy (Autoreivs and Proxies) | `ergo-proxy-2006` | 2006 | fictional | fictional |  |
@@ -226,6 +230,7 @@
 | K9 | `dr-who-k9` | 1977 | fictional | fictional |  |
 | Kajita Linear Inverted Pendulum Model | `kajita-lipm` | 2001 | academic | public-domain |  |
 | Kapandji thumb-opposition classification | `kapandji-thumb-opposition-1986` | 1986 | academic | public-domain |  |
+| KAUST Saudi Arabia AI + robotics | `kaust-saudi-arabia-robotics` | 2009 | academic | open-permissive | ✓ |
 | Kawasaki Kaleido | `kawasaki-kaleido` | 2017 | private | patented |  |
 | Kepler K2 | `kepler-k2` | 2024 | private | patented | ✓ |
 | Khatib Operational Space Formulation | `khatib-operational-space` | 1987 | academic | public-domain |  |
@@ -283,6 +288,7 @@
 | Neura 4NE-1 | `neura-4ne1` | 2024 | private | patented | ✓ |
 | Neuralink | `neuralink-2017` | 2017 | private | trade-secret |  |
 | Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) | `gibson-neuromancer-constructs` | 1984 | fictional | fictional |  |
+| NTU Singapore robotics cluster | `ntu-singapore-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
 | Number Six (Cylon Model Six) | `bsg-number-six` | 2003 | fictional | fictional |  |
 | NVIDIA Cosmos | `nvidia-cosmos-2025` | 2025 | academic | open-permissive |  |
@@ -391,6 +397,7 @@
 | SimplerEnv | `simpler-env-li-corl-2024` | 2024 | academic | open-permissive |  |
 | Simplex Architecture | `sherman-simplex-architecture` | 1995 | academic | public-domain |  |
 | Skild AI foundation model | `skild-foundation-model` | 2024 | private | trade-secret | ✓ |
+| Skolkovo Institute of Science and Technology (Skoltech) robotics | `skoltech-russia-academic` | 2011 | academic | open-permissive | ✓ |
 | Skybot F-850 / FEDOR | `skybot-fedor-russia-2019` | 2014 | private | trade-secret |  |
 | Slocum Glider | `slocum-glider-auv` | 1989 | academic | open-permissive |  |
 | Smith (Atlas 2024) | `atlas-2024-film` | 2024 | fictional | fictional |  |
@@ -434,6 +441,7 @@
 | TSTAR (Tail STAR) | `tstar-zarrouk-2018` | 2018 | academic | open-permissive | ✓ |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |
+| UCT South Africa robotics cluster | `uct-south-africa-robotics-cluster` | 2005 | academic | open-permissive | ✓ |
 | Ultron | `ultron-marvel` | 1968 | fictional | fictional |  |
 | UnetStack underwater networking framework | `unetstack-subnero-2014` | 2014 | open | open-permissive |  |
 | Unitree B2 | `unitree-b2-2024` | 2024 | private | trade-secret |  |
@@ -445,6 +453,7 @@
 | Unitree R1 | `unitree-r1-2025` | 2025 | private | trade-secret |  |
 | Universal Manipulation Interface (UMI) | `umi-stanford` | 2024 | academic | open-permissive |  |
 | Upkie | `upkie` | 2022 | open | open-permissive |  |
+| USP Brazil robotics cluster | `usp-brazil-robotics-cluster` | 2000 | academic | public-domain | ✓ |
 | V'Ger | `v-ger-star-trek` | 1979 | fictional | fictional |  |
 | V.I.N.CENT and Maximilian (The Black Hole) | `black-hole-vincent` | 1979 | fictional | fictional |  |
 | Val and Aqua (Heartbeeps) | `heartbeeps-val-aqua` | 1981 | fictional | fictional |  |

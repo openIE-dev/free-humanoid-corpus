@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-collaborative-robot`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2017-09
+Earliest disclosure: 2002-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## A*STAR Institute for Infocomm Research (I2R) robotics (2002-01)
+
+- **id**: `a-star-singapore-i2r-robotics`
+- **corpus**: academic
+- **creator**: Agency for Science, Technology and Research (A*STAR), Singapore
+- **disclosure**: Agency for Science, Technology and Research (A*STAR), Singapore. Institute for Infocomm Research (I2R) and Institute for High Performance Computing (IHPC) host Singapore's national robotics research. a-star.edu.sg. Notable: industrial-collaboration research (cobot integration with Singapore manufacturing), AI + vision research, autonomous-vehicle technology.
+- **ip status**: open-permissive
+- **prior art notes**: A*STAR I2R is Singapore's national robotics research aggregator. Together with NUS UnetStack (round-9 entry, NUS robotics), NTU robotics (round-23 entry below), establishes the Singapore + ASEAN robotics prior-art baseline. Aggregator-style; specific A*STAR papers should be added in future rounds.
 
 ## Doosan Robotics M-series cobots (2017-09)
 

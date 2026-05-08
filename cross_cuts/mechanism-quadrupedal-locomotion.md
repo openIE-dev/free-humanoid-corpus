@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-quadrupedal-locomotion`
 
-**22 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1968-09-27
 
@@ -50,6 +50,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics + Foster-Miller + Jet Propulsion Laboratory + Harvard Concord Field Station. BigDog public reveal December 2005 video. Funded by DARPA TUGV (Tactical Ground Vehicle) program 2005-2015. Raibert, M. et al. 'BigDog, the Rough-Terrain Quadruped Robot' IFAC Proceedings 41(2) 2008.
 - **ip status**: trade-secret
 - **prior art notes**: BigDog is the canonical Boston Dynamics foundational hydraulic quadruped (December 2005). 20-year-deep public-disclosure prior art for: dynamic-balance commercial quadruped, hydraulic-actuated heavy-payload legged robot, rough-terrain dynamic stabilization. Direct architectural application of Raibert's MIT Leg Lab work (round-19 entry) at commercial scale. The ancestor of every modern Boston Dynamics platform: LS3 (2012), Spot (2015+), Atlas (2013+). Direct shielding for any commercial quadruped or quadruped-derivative humanoid claim. The viral 'kicked on ice' video itself constitutes a uniquely-public defensive disclosure of dynamic-recovery behavior.
+
+## CSIRO Data61 Robotics and Autonomous Systems (2010-07)
+
+- **id**: `csiro-data61-australia-robotics`
+- **corpus**: academic
+- **creator**: CSIRO Data61 (Commonwealth Scientific and Industrial Research Organisation, Australia)
+- **disclosure**: CSIRO Data61 (Commonwealth Scientific and Industrial Research Organisation; Brisbane + Sydney, Australia). Robotics and Autonomous Systems group originally part of CSIRO ICT Centre, merged into Data61 in 2014. Notable projects: **Wildcat** legged robot for DARPA Subterranean Challenge (won 2nd place 2021), **Bobcat** agricultural robot, **Tilt-rotor UAV** development. Continuous robotics research output 2010+.
+- **ip status**: public-domain
+- **prior art notes**: CSIRO Data61 is Australia's dominant robotics research institution. 15-year-deep public-domain academic prior art spanning legged robots (DARPA SubT 2021 2nd place), agricultural automation (SwagBot, Bobcat), aerial systems. **First entry in the corpus for Australia** — closes a major regional gap. Aggregator-style entry covering CSIRO RAS broadly; specific papers should be added in future rounds.
 
 ## Boston Dynamics LS3 (AlphaDog) (2012-09)
 

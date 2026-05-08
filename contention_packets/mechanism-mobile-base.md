@@ -1,7 +1,7 @@
 ---
 title: "mechanism-mobile-base"
 parent: "Invalidity Contentions"
-nav_order: 85
+nav_order: 89
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-mobile-base`  
-**Entries:** 5 (3 commons-grade, 2 draft)  
+**Entries:** 6 (3 commons-grade, 3 draft)  
 **Earliest disclosure:** 2003-09  
 **Most recent disclosure:** 2024-09
 
@@ -58,6 +58,26 @@ cite, copy, or redistribute these contentions.
 1. Mitsubishi Heavy Industries Wakamaru product documentation 2003-2014.
 2. Wikipedia 'Wakamaru' (en.wikipedia.org/wiki/Wakamaru).
 3. Japanese press coverage 2003-2014.
+
+---
+
+### 2010-01 — Embrapa Brazilian agritech robotics *(draft)*
+
+- **id:** `embrapa-brazil-agritech-robotics`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Empresa Brasileira de Pesquisa Agropecuária (Embrapa)
+- **disclosure citation:** Empresa Brasileira de Pesquisa Agropecuária (Embrapa, founded 1973). Brazilian Federal Government agricultural research corporation; the largest agricultural research organization in the southern hemisphere. embrapa.br. Robotics research concentrated at Embrapa Instrumentation (São Carlos): autonomous tractors, agricultural drones, soil + crop sensing platforms.
+- **disclosed subsystems:** `control-research-cluster`, `control-agricultural-autonomy`, `mechanism-mobile-base`
+
+**Prior art notes:**
+
+> Embrapa is the canonical Brazilian agritech robotics research institution. **First entry in the corpus from Brazil** — closes a major regional gap. Direct shielding for any commercial humanoid claim on agricultural-context deployment, particularly for the Latin American market. Aggregator-style entry; specific Embrapa papers should be added in future rounds.
+
+**Sources:**
+
+1. Embrapa corporate site (embrapa.br).
+2. Embrapa Instrumentation publications (cnpdia.embrapa.br).
 
 ---
 
@@ -174,4 +194,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b80ce5d`.*

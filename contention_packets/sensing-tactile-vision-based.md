@@ -1,7 +1,7 @@
 ---
 title: "sensing-tactile-vision-based"
 parent: "Invalidity Contentions"
-nav_order: 123
+nav_order: 127
 layout: default
 ---
 
@@ -176,4 +176,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b80ce5d`.*

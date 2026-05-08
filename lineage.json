@@ -1336,10 +1336,34 @@
       ]
     },
     {
+      "id": "cvut-prague-czech-robotics",
+      "name": "Czech Technical University Prague (CVUT/CTU) robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ip-com-prior-art-database",
       "name": "IP.com Prior Art Database",
       "year": "2000",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ntu-singapore-robotics-cluster",
+      "name": "NTU Singapore robotics cluster",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "usp-brazil-robotics-cluster",
+      "name": "USP Brazil robotics cluster",
+      "year": "2000",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -1457,6 +1481,14 @@
       "descendants": [
         "dlr-hand-ii"
       ]
+    },
+    {
+      "id": "a-star-singapore-i2r-robotics",
+      "name": "A*STAR Institute for Infocomm Research (I2R) robotics",
+      "year": "2002",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "saab-seaeye-falcon-rov",
@@ -1641,6 +1673,14 @@
         "dlr-toro",
         "nasa-valkyrie"
       ]
+    },
+    {
+      "id": "uct-south-africa-robotics-cluster",
+      "name": "UCT South Africa robotics cluster",
+      "year": "2005",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "collins-ruina-tedrake-wisse-passive-walker-2005",
@@ -1986,6 +2026,14 @@
       ]
     },
     {
+      "id": "kaust-saudi-arabia-robotics",
+      "name": "KAUST Saudi Arabia AI + robotics",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "apl-mpl-revolutionizing-prosthetics-2009",
       "name": "Modular Prosthetic Limb (MPL)",
       "year": "2009",
@@ -2042,6 +2090,14 @@
       "descendants": []
     },
     {
+      "id": "embrapa-brazil-agritech-robotics",
+      "name": "Embrapa Brazilian agritech robotics",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "iit-india-robotics-research-cluster",
       "name": "IIT India robotics research cluster",
       "year": "2010",
@@ -2071,6 +2127,14 @@
       "descendants": [
         "nasa-valkyrie"
       ]
+    },
+    {
+      "id": "csiro-data61-australia-robotics",
+      "name": "CSIRO Data61 Robotics and Autonomous Systems",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "cornell-jamming-gripper",
@@ -2112,6 +2176,14 @@
       "name": "Force Dimension Sigma.7",
       "year": "2011",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "skoltech-russia-academic",
+      "name": "Skolkovo Institute of Science and Technology (Skoltech) robotics",
+      "year": "2011",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },

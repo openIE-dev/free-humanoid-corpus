@@ -1,7 +1,7 @@
 ---
 title: "control-vio-slam"
 parent: "Invalidity Contentions"
-nav_order: 68
+nav_order: 71
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-vio-slam`  
-**Entries:** 12 (7 commons-grade, 5 draft)  
-**Earliest disclosure:** 2018-06  
+**Entries:** 13 (7 commons-grade, 6 draft)  
+**Earliest disclosure:** 2010-07  
 **Most recent disclosure:** 2026-04
 
 ---
@@ -39,6 +39,28 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2010-07 — CSIRO Data61 Robotics and Autonomous Systems *(draft)*
+
+- **id:** `csiro-data61-australia-robotics`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** CSIRO Data61 (Commonwealth Scientific and Industrial Research Organisation, Australia)
+- **disclosure citation:** CSIRO Data61 (Commonwealth Scientific and Industrial Research Organisation; Brisbane + Sydney, Australia). Robotics and Autonomous Systems group originally part of CSIRO ICT Centre, merged into Data61 in 2014. Notable projects: **Wildcat** legged robot for DARPA Subterranean Challenge (won 2nd place 2021), **Bobcat** agricultural robot, **Tilt-rotor UAV** development. Continuous robotics research output 2010+.
+- **disclosed subsystems:** `control-research-cluster`, `control-vio-slam`, `mechanism-quadrupedal-locomotion`, `control-agricultural-autonomy`
+
+**Prior art notes:**
+
+> CSIRO Data61 is Australia's dominant robotics research institution. 15-year-deep public-domain academic prior art spanning legged robots (DARPA SubT 2021 2nd place), agricultural automation (SwagBot, Bobcat), aerial systems. **First entry in the corpus for Australia** — closes a major regional gap. Aggregator-style entry covering CSIRO RAS broadly; specific papers should be added in future rounds.
+
+**Sources:**
+
+1. CSIRO Data61 corporate site (data61.csiro.au).
+2. CSIRO Robotics and Autonomous Systems (research.csiro.au/robotics).
+3. DARPA SubT 2021 results.
+4. Cordin et al. CSIRO Wildcat / Spotter publications.
+
+---
 
 ### 2018-06 — DynaSLAM
 
@@ -315,4 +337,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b80ce5d`.*
