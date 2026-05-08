@@ -1,7 +1,7 @@
 ---
 title: "control-grasp-planning"
 parent: "Invalidity Contentions"
-nav_order: 49
+nav_order: 52
 layout: default
 ---
 
@@ -188,4 +188,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*

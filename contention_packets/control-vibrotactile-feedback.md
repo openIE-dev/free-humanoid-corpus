@@ -1,7 +1,7 @@
 ---
 title: "control-vibrotactile-feedback"
 parent: "Invalidity Contentions"
-nav_order: 110
+nav_order: 113
 layout: default
 ---
 
@@ -109,4 +109,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*

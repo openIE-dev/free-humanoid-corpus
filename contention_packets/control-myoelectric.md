@@ -1,7 +1,7 @@
 ---
 title: "control-myoelectric"
 parent: "Invalidity Contentions"
-nav_order: 75
+nav_order: 78
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-myoelectric`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1963-01  
 **Most recent disclosure:** 2007-07
 
@@ -58,6 +58,25 @@ cite, copy, or redistribute these contentions.
 1. Tomović, R. + Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962.
 2. en.techfokus.rs/belgrade-hand-first-bionic-prosthetic-robotics/
 3. en.wikipedia.org/wiki/Rajko_Tomović
+
+---
+
+### 2002-09 — Targeted Muscle Reinnervation (TMR) — Kuiken RIC
+
+- **id:** `kuiken-tmr-targeted-muscle-reinnervation-2002`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Rehabilitation Institute of Chicago (now Shirley Ryan AbilityLab) + Northwestern University; Todd Kuiken (PI)
+- **disclosure citation:** Kuiken, T.A. et al. 'Targeted muscle reinnervation for real-time myoelectric control of multifunction artificial arms'. JAMA 301(6), 2009. First clinical case 2002 at Rehabilitation Institute of Chicago (RIC; now Shirley Ryan AbilityLab). The surgical procedure that re-routes amputated-limb motor nerves to chest/back muscles for intuitive myoelectric prosthesis control.
+- **disclosed subsystems:** `control-myoelectric`, `control-pattern-recognition`, `surgical-nerve-redirection`
+
+**Prior art notes:**
+
+> TMR (Kuiken RIC 2002 first case; JAMA 2009) is the surgical procedure that enables intuitive multi-DOF prosthetic-arm control. 23-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from intuitive myoelectric multi-DOF prosthesis control. The surgical foundation of modern multi-articulated prosthetic hands (round-42 modern-multiarticulated-prosthetic-hands-2007-2012).
+
+**Sources:**
+
+1. Kuiken, T.A. et al. JAMA 301(6), 2009.
 
 ---
 
@@ -111,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*

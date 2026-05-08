@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-pneumatic`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
+**Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 2005-04  
 **Most recent disclosure:** 2017-04
 
@@ -57,6 +57,25 @@ cite, copy, or redistribute these contentions.
 
 1. iwalker.people.clemson.edu/icra06.pdf
 2. Walker, I.D. et al. SPIE Defense & Security Symposium 2005.
+
+---
+
+### 2014-01 — Roam Robotics soft-pneumatic exoskeleton
+
+- **id:** `roam-robotics-soft-exo-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Roam Robotics (San Francisco, CA, USA); Otherlab spinout; Tim Swift, Eythor Bender
+- **disclosure citation:** Roam Robotics (San Francisco, CA, USA; founded 2014 by Tim Swift, Eythor Bender, et al.; spinout from Otherlab). Soft-pneumatic exoskeleton platform. Consumer ski/snowboard knee assist + DoD military programs. Pneubotics Otherlab heritage.
+- **disclosed subsystems:** `exoskeleton-lower-limb`, `exoskeleton-soft-pneumatic`, `actuator-pneumatic`
+
+**Prior art notes:**
+
+> Roam Robotics soft-pneumatic exoskeleton (San Francisco 2014+) is the defining commercial soft-exo. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from fabric/airbag pneumatic exos. Establishes the soft-exo category distinct from rigid-frame BLEEX/HULC/Ekso lineage.
+
+**Sources:**
+
+1. Roam Robotics corporate site (historical).
 
 ---
 
@@ -172,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*

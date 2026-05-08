@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**28 corpus entries disclose this subsystem.**
+**30 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -186,6 +186,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: BioShock's Big Daddies are an unusually engineering-grounded disclosure of: (1) heavy-cyborg combat humanoid with integrated tool/weapon arm — relevant to integrated-end-effector humanoid IP; (2) operator-paired guardian humanoid with explicit bond protocol — relevant to companion / care humanoid claims with operator-pair conditioning. The 2007 game is heavily archived; the Big Daddy design is widely cited.
 
+## Sarcos / Raytheon XOS / XOS-2 full-body exoskeleton (2008-05)
+
+- **id**: `sarcos-raytheon-xos-2008`
+- **corpus**: private
+- **creator**: Sarcos Research Corporation (Salt Lake City, UT, USA; Jacobsen) + Raytheon Company; DARPA EHPA
+- **disclosure**: Sarcos Research Corporation (Salt Lake City, UT, USA; founded by Stephen Jacobsen) + Raytheon Company. XOS reveal May 2008. XOS-2 reveal September 2010, named to Time Best Inventions 2010. DARPA Exoskeletons for Human Performance Augmentation (EHPA) program. Tethered hydraulic full-body master-slave exoskeleton.
+- **ip status**: trade-secret
+- **prior art notes**: Sarcos / Raytheon XOS / XOS-2 (Sarcos Salt Lake City + Raytheon 2008-2010) is the canonical 'Iron Man' full-body exoskeleton demo of the DARPA EHPA era. 17-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from tethered full-body hydraulic master-slave exos. Stephen Jacobsen lineage descends from Utah/MIT Hand (corpus utah-mit-jacobsen-hand-1984) and continues to Sarcos Guardian XO (corpus sarcos-guardian-xo-2018).
+
 ## Liberty Prime (2008-10-28)
 
 - **id**: `fallout-liberty-prime`
@@ -212,6 +221,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ONE (writer). One Punch Man webcomic chapter 7. Self-published online, 2009. Murata, Yusuke (artist) redrawing in Tonari no Young Jump (Shueisha), 2012.
 - **ip status**: fictional
 - **prior art notes**: Genos's 2009 webcomic disclosure (extended in Murata's 2012 redraw) provides specific prior art for: (1) full-body cybernetic replacement following biological trauma — relevant to medical-prosthetic humanoid IP (paralleling DC's Cyborg 1980 lineage with arm-integrated weapons added); (2) integrated palm-mounted incinerator/plasma weapons in humanoid arm chassis — directly relevant to claims on integrated end-effector weapon platforms (paralleling IG-88 1980); (3) explicit upgrade-progression chassis architecture with named successive versions — relevant to commercial humanoid product-versioning IP; (4) creator-as-physician (Dr. Kuseno) and continuous upgrade pathway across canon — relevant to maintenance-pathway humanoid IP. Continuously available since 2009.
+
+## Lockheed Martin HULC (Human Universal Load Carrier) (2009-02)
+
+- **id**: `lockheed-martin-hulc-2009`
+- **corpus**: private
+- **creator**: Lockheed Martin Corporation; licensed from Berkeley Bionics (Kazerooni); developed for US Army Natick
+- **disclosure**: Lockheed Martin Corporation. HULC commercial license signed with Berkeley Bionics February 26, 2009. Direct descendant of Berkeley BLEEX (corpus berkeley-bleex-kazerooni-2004). Hydraulic lower-extremity load carrier developed for US Army Natick Soldier Research, Development and Engineering Center.
+- **ip status**: trade-secret
+- **prior art notes**: Lockheed Martin HULC (Lockheed Martin 2009+) is the first major US military exoskeleton commercial program. 16-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hydraulic lower-limb load-carrying exoskeletons. Lineage descends from BLEEX (corpus berkeley-bleex-kazerooni-2004).
 
 ## Knights of Sidonia (Garde mecha) (2009-04)
 

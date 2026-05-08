@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-myoelectric`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1963-01
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tomović, R., Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962. Belgrade Hand developed at Mihailo Pupin Institute (Belgrade, Yugoslavia) 1961-1963. Subsequent Belgrade-USC Hand version with George Bekey at University of Southern California ~1988.
 - **ip status**: public-domain
 - **prior art notes**: Belgrade / Belgrade-USC Hand (Tomović + Rakić 1963; Bekey USC 1988) is the foundational anthropomorphic prosthetic hand and the world's first externally-powered five-finger myoelectric prosthetic. 62-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from five-finger anthropomorphic hands, underactuated finger mechanisms, or myoelectric prosthetic control. Foundational to every modern anthropomorphic hand including Robotiq (round-42), Shadow Dexterous Hand (corpus), Salisbury Stanford-JPL Hand (corpus), Utah/MIT Hand (round-42), and the entire dexterous-hand research lineage.
+
+## Targeted Muscle Reinnervation (TMR) — Kuiken RIC (2002-09)
+
+- **id**: `kuiken-tmr-targeted-muscle-reinnervation-2002`
+- **corpus**: academic
+- **creator**: Rehabilitation Institute of Chicago (now Shirley Ryan AbilityLab) + Northwestern University; Todd Kuiken (PI)
+- **disclosure**: Kuiken, T.A. et al. 'Targeted muscle reinnervation for real-time myoelectric control of multifunction artificial arms'. JAMA 301(6), 2009. First clinical case 2002 at Rehabilitation Institute of Chicago (RIC; now Shirley Ryan AbilityLab). The surgical procedure that re-routes amputated-limb motor nerves to chest/back muscles for intuitive myoelectric prosthesis control.
+- **ip status**: academic-publication
+- **prior art notes**: TMR (Kuiken RIC 2002 first case; JAMA 2009) is the surgical procedure that enables intuitive multi-DOF prosthetic-arm control. 23-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from intuitive myoelectric multi-DOF prosthesis control. The surgical foundation of modern multi-articulated prosthetic hands (round-42 modern-multiarticulated-prosthetic-hands-2007-2012).
 
 ## Modern multi-articulated prosthetic hands (i-LIMB / BeBionic / Michelangelo) (2007-07)
 

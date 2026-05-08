@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-08  
-**Packets:** 191  
-**Corpus revision:** `69278e1`
+**Packets:** 203  
+**Corpus revision:** `46b6329`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -30,21 +30,22 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-biological`](actuator-biological.md) | 13 | 12 | 1 | 1973-11-21 | 2020-01-23 |
 | [`actuator-bldc-controller`](actuator-bldc-controller.md) | 11 | 11 | 0 | 1929-07 | 2022 |
 | [`actuator-compliant`](actuator-compliant.md) | 3 | 3 | 0 | 1957-01 | 2017-04 |
-| [`actuator-electric`](actuator-electric.md) | 38 | 31 | 7 | 1956-01 | 2025-10 |
+| [`actuator-electric`](actuator-electric.md) | 48 | 41 | 7 | 1956-01 | 2025-10 |
 | [`actuator-electric-cycloidal`](actuator-electric-cycloidal.md) | 5 | 2 | 3 | 1937 | 2025-04 |
 | [`actuator-electric-direct-drive`](actuator-electric-direct-drive.md) | 69 | 51 | 18 | 1886 | 2024-11 |
 | [`actuator-electric-harmonic-drive`](actuator-electric-harmonic-drive.md) | 22 | 19 | 3 | 1986 | 2025-10 |
 | [`actuator-electric-planetary`](actuator-electric-planetary.md) | 3 | 1 | 2 | 2023-08 | 2024-07 |
 | [`actuator-electric-quasi-direct-drive`](actuator-electric-quasi-direct-drive.md) | 21 | 15 | 6 | 2014 | 2025-10 |
-| [`actuator-electric-series-elastic`](actuator-electric-series-elastic.md) | 17 | 17 | 0 | 1995-08 | 2023-08 |
+| [`actuator-electric-series-elastic`](actuator-electric-series-elastic.md) | 18 | 18 | 0 | 1995-08 | 2023-08 |
 | [`actuator-electric-tendon-driven`](actuator-electric-tendon-driven.md) | 25 | 24 | 1 | 1495 | 2024 |
 | [`actuator-foc-controller`](actuator-foc-controller.md) | 6 | 6 | 0 | 1929-07 | 2025-03 |
-| [`actuator-hydraulic`](actuator-hydraulic.md) | 28 | 22 | 6 | -0250 | 2024-05-24 |
-| [`actuator-pneumatic`](actuator-pneumatic.md) | 5 | 5 | 0 | 2005-04 | 2017-04 |
+| [`actuator-hydraulic`](actuator-hydraulic.md) | 30 | 24 | 6 | -0250 | 2024-05-24 |
+| [`actuator-pneumatic`](actuator-pneumatic.md) | 6 | 6 | 0 | 2005-04 | 2017-04 |
 | [`actuator-pneumatic-muscle`](actuator-pneumatic-muscle.md) | 7 | 7 | 0 | 1957-01 | 2018-07-30 |
 | [`actuator-soft-elastomeric`](actuator-soft-elastomeric.md) | 3 | 3 | 0 | 2014-09 | 2021-11 |
 | [`actuator-spherical-multi-dof`](actuator-spherical-multi-dof.md) | 2 | 2 | 0 | 2020 | 2023-10 |
 | [`actuator-variable-stiffness`](actuator-variable-stiffness.md) | 2 | 2 | 0 | 2005-04 | 2015-06 |
+| [`bci-fictional-extremis`](bci-fictional-extremis.md) | 2 | 2 | 0 | 2005-12 | 2013-05 |
 | [`control-3d-perception`](control-3d-perception.md) | 4 | 4 | 0 | 2016-12 | 2024-03 |
 | [`control-3d-reconstruction`](control-3d-reconstruction.md) | 3 | 3 | 0 | 2023-12 | 2025-03 |
 | [`control-acoustic-comms`](control-acoustic-comms.md) | 10 | 9 | 1 | 1989-01 | 2018-04 |
@@ -57,6 +58,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-bimanual-manipulation`](control-bimanual-manipulation.md) | 2 | 2 | 0 | 2024-10 | 2025-02 |
 | [`control-bone-registration`](control-bone-registration.md) | 2 | 2 | 0 | 1992-01 | 2008-08 |
 | [`control-bundle-adjustment`](control-bundle-adjustment.md) | 5 | 4 | 1 | 2021-04 | 2026-04 |
+| [`control-capture-point`](control-capture-point.md) | 2 | 2 | 0 | 2006-12 | 2018-09 |
 | [`control-classification`](control-classification.md) | 2 | 2 | 0 | 1995-09 | 2001-10 |
 | [`control-cross-embodiment`](control-cross-embodiment.md) | 6 | 5 | 1 | 2023-10 | 2025-03 |
 | [`control-deep-cnn`](control-deep-cnn.md) | 2 | 2 | 0 | 2012-12 | 2015-12 |
@@ -71,6 +73,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-foundation-model`](control-foundation-model.md) | 14 | 12 | 2 | 1997-11 | 2025-06 |
 | [`control-foundation-model-perception`](control-foundation-model-perception.md) | 30 | 27 | 3 | 2009-06 | 2026-04 |
 | [`control-foundation-model-policy`](control-foundation-model-policy.md) | 20 | 15 | 5 | 2021-06 | 2025-10 |
+| [`control-gait-rehabilitation`](control-gait-rehabilitation.md) | 2 | 2 | 0 | 1999-01 | 2012-02 |
 | [`control-gaussian-splatting-slam`](control-gaussian-splatting-slam.md) | 6 | 2 | 4 | 2024-03 | 2025-11 |
 | [`control-generative-model`](control-generative-model.md) | 3 | 3 | 0 | 2013-12 | 2020-06 |
 | [`control-gps-denied-navigation`](control-gps-denied-navigation.md) | 2 | 1 | 1 | 2000-01 | 2017-09 |
@@ -101,7 +104,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-multilingual-speech`](control-multilingual-speech.md) | 3 | 2 | 1 | 2003-09 | 2017-08 |
 | [`control-multimodal-sensor-fusion`](control-multimodal-sensor-fusion.md) | 2 | 2 | 0 | 2009-01 | 2017-04 |
 | [`control-musculoskeletal-modeling`](control-musculoskeletal-modeling.md) | 3 | 2 | 1 | 2003-01 | 2016-08 |
-| [`control-myoelectric`](control-myoelectric.md) | 2 | 2 | 0 | 1963-01 | 2007-07 |
+| [`control-myoelectric`](control-myoelectric.md) | 3 | 3 | 0 | 1963-01 | 2007-07 |
 | [`control-network-protocol`](control-network-protocol.md) | 2 | 2 | 0 | 2014-09 | 2017-03 |
 | [`control-neural-decoding`](control-neural-decoding.md) | 2 | 2 | 0 | 2002-07 | 2017-04 |
 | [`control-neural-network-training`](control-neural-network-training.md) | 3 | 3 | 0 | 1986-10 | 2015-02 |
@@ -144,7 +147,15 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-vr-headset-teleoperation`](control-vr-headset-teleoperation.md) | 3 | 2 | 1 | 2014-01 | 2025-06 |
 | [`control-whole-body-qp`](control-whole-body-qp.md) | 3 | 3 | 0 | 2003-09 | 2017-09 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 25 | 24 | 1 | 1969 | 2023-08 |
+| [`end-effector-prosthetic`](end-effector-prosthetic.md) | 3 | 3 | 0 | 1997-09 | 2019-09 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |
+| [`exoskeleton-fictional`](exoskeleton-fictional.md) | 9 | 9 | 0 | 2005-12 | 2018-04 |
+| [`exoskeleton-full-body`](exoskeleton-full-body.md) | 3 | 3 | 0 | 2008-05 | 2010-05 |
+| [`exoskeleton-hip-only`](exoskeleton-hip-only.md) | 2 | 2 | 0 | 2009-04 | 2017-01 |
+| [`exoskeleton-lower-limb`](exoskeleton-lower-limb.md) | 10 | 10 | 0 | 1999-01 | 2019-09 |
+| [`exoskeleton-nanobot-substrate`](exoskeleton-nanobot-substrate.md) | 2 | 2 | 0 | 2010-04 | 2018-04 |
+| [`exoskeleton-programmable-matter`](exoskeleton-programmable-matter.md) | 2 | 2 | 0 | 2010-04 | 2018-04 |
+| [`exoskeleton-upper-limb`](exoskeleton-upper-limb.md) | 4 | 4 | 0 | 2012-02 | 2018-01 |
 | [`mechanism-3d-printed-platform`](mechanism-3d-printed-platform.md) | 4 | 4 | 0 | 2019-04 | 2026-01 |
 | [`mechanism-aerial-thruster`](mechanism-aerial-thruster.md) | 4 | 2 | 2 | 2010-01 | 2021-07 |
 | [`mechanism-antagonistic-tendon`](mechanism-antagonistic-tendon.md) | 2 | 2 | 0 | 2024-06 | 2025-10 |
@@ -208,6 +219,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`sensing-joint-torque`](sensing-joint-torque.md) | 2 | 2 | 0 | 2017-09 | 2019-09 |
 | [`sensing-lidar`](sensing-lidar.md) | 17 | 15 | 2 | 2004 | 2023-08 |
 | [`sensing-monocular-depth`](sensing-monocular-depth.md) | 13 | 10 | 3 | 1981-08 | 2025-10 |
+| [`sensing-neural`](sensing-neural.md) | 2 | 2 | 0 | 1991-01 | 2019-08 |
 | [`sensing-proprioceptive-actuator`](sensing-proprioceptive-actuator.md) | 20 | 20 | 0 | 1980-11 | 2024-02 |
 | [`sensing-stereo-camera`](sensing-stereo-camera.md) | 83 | 63 | 20 | 1973 | 2024-11 |
 | [`sensing-stereoscopic-camera`](sensing-stereoscopic-camera.md) | 2 | 2 | 0 | 2000-07 | 2024-07 |

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 38 (31 commons-grade, 7 draft)  
+**Entries:** 48 (41 commons-grade, 7 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2025-10
 
@@ -144,6 +144,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1999-01 — Hocoma Lokomat treadmill-mounted gait orthosis
+
+- **id:** `hocoma-lokomat-1999`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Hocoma AG (Volketswil, Switzerland) + University Hospital Balgrist + ETH Zurich; Reinhard Riener
+- **disclosure citation:** Hocoma AG (Volketswil, Switzerland; founded 1996). Lokomat treadmill-mounted robot-driven gait orthosis commercial reveal 1999. Co-developed with University Hospital Balgrist (Zurich) and ETH Zurich (Reinhard Riener).
+- **disclosed subsystems:** `exoskeleton-lower-limb`, `actuator-electric`, `control-gait-rehabilitation`
+
+**Prior art notes:**
+
+> Hocoma Lokomat (Hocoma AG Volketswil 1999+) is the foundational treadmill-mounted robotic gait-rehab orthosis. 26-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from treadmill-mounted lower-limb rehabilitation orthoses or robotic gait-rehabilitation. The Swiss anchor of medical exoskeletons.
+
+**Sources:**
+
+1. hocoma.com/us/solutions/lokomat/
+
+---
+
 ### 2003-12 — KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO)
 
 - **id:** `kaist-fx-2-1995`
@@ -247,6 +266,64 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2009-04 — Honda Walking Assist Device / Stride Management Assist
+
+- **id:** `honda-walking-assist-2009`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Honda Motor Co., Ltd. (Tokyo, Japan); ASIMO research lineage
+- **disclosure citation:** Honda Motor Co., Ltd. (Tokyo, Japan). Walking Assist Device public demo April 2009 (R&D since 1999). Lease program 2015. Stride Management Assist variant. Pre-dates Samsung GEMS Hip (round-43) by 10 years for hip-only motor-on-belt assist.
+- **disclosed subsystems:** `exoskeleton-lower-limb`, `exoskeleton-hip-only`, `actuator-electric`
+
+**Prior art notes:**
+
+> Honda Walking Assist Device (Honda Tokyo 2009+; R&D 1999+) is the foundational hip-only motor-on-belt walking-assist exo. 16-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hip-only powered-belt exoskeletons. Lineage descends from Honda ASIMO (corpus asimo) bipedal-locomotion research.
+
+**Sources:**
+
+1. global.honda/en/newsroom/worldnews/2009/c090414Walking-Assist-Devices.html
+
+---
+
+### 2010-07 — Rex Bionics REX self-supporting exoskeleton
+
+- **id:** `rex-bionics-rex-2010`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Rex Bionics Ltd. (Auckland, New Zealand); Robert Irving + Richard Little
+- **disclosure citation:** Rex Bionics Ltd. (Auckland, New Zealand; founded 2007 by Robert Irving + Richard Little). REX commercial reveal July 2010. First commercial self-supporting hands-free powered exoskeleton — the user is hands-free, no crutches, the exo balances itself.
+- **disclosed subsystems:** `exoskeleton-lower-limb`, `exoskeleton-self-supporting`, `control-quasistatic-walking`, `actuator-electric`
+
+**Prior art notes:**
+
+> Rex Bionics REX (Auckland NZ 2010+) is the first commercial self-supporting hands-free powered exoskeleton. 15-year-deep public-disclosure prior art. Pre-dates Wandercraft Atalante (round-43) by 8 years for hands-free walking, though REX uses quasi-static-stable gait rather than dynamic-walking. Direct shielding for any commercial humanoid or Iron Man-class claim deriving from hands-free powered exoskeletons.
+
+**Sources:**
+
+1. rexbionics.com/
+
+---
+
+### 2012-02 — Ekso Bionics Ekso / EksoNR overground rehab exoskeleton
+
+- **id:** `ekso-bionics-eksonr-2012`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Ekso Bionics Holdings (Richmond CA, USA); Homayoon Kazerooni Berkeley lineage; founded 2005
+- **disclosure citation:** Ekso Bionics Holdings, Inc. (Richmond, CA, USA; founded 2005 by Homayoon Kazerooni's group at Berkeley Bionics, renamed Ekso Bionics 2011). Ekso commercial reveal February 2012. EksoNR (Neural Rehabilitation) 2019; FDA clearance for stroke + spinal-cord-injury 2016, brain-injury 2020, multiple sclerosis 2021.
+- **disclosed subsystems:** `exoskeleton-lower-limb`, `exoskeleton-upper-limb`, `actuator-electric`, `control-gait-rehabilitation`
+
+**Prior art notes:**
+
+> Ekso Bionics Ekso / EksoNR (Richmond CA 2012+) is the first broadly FDA-cleared overground rehabilitation exoskeleton. 13-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from FDA-cleared overground lower-limb rehab exos. Together with Hocoma Lokomat (round-43; treadmill-mounted) and Wandercraft Atalante (round-43; self-balancing), establishes the medical-exoskeleton prior-art chain. Lineage descends from BLEEX (corpus).
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Ekso_Bionics
+2. ir.eksobionics.com/press-releases/detail/689/ekso-bionics-receives-fda-clearance-to-market-its
+
+---
+
 ### 2012-08 — Sandia Hand modular 12-DoF gripper
 
 - **id:** `sandia-hand-2012`
@@ -309,6 +386,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-05 — DEKA / Mobius Bionics LUKE Arm
+
+- **id:** `deka-mobius-luke-arm-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** DEKA Research and Development Corporation (Manchester, NH, USA); Dean Kamen; DARPA Revolutionizing Prosthetics; commercialized as Mobius Bionics
+- **disclosure citation:** DEKA Research and Development Corporation (Manchester, NH, USA; Dean Kamen). DARPA Revolutionizing Prosthetics program 2006-2014. FDA clearance May 2014. Mobius Bionics commercial launch July 2016. Named 'LUKE' after Star Wars (Luke Skywalker's prosthetic arm).
+- **disclosed subsystems:** `end-effector-anthropomorphic-hand`, `exoskeleton-upper-limb`, `actuator-electric`, `control-multi-modal-user-input`
+
+**Prior art notes:**
+
+> DEKA / Mobius Bionics LUKE Arm (DEKA Manchester NH 2014; Mobius Bionics 2016) is the first FDA-cleared integrated multi-joint upper-extremity prosthesis. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from integrated multi-joint upper-extremity prostheses. DARPA RP outcome; sister to APL MPL (corpus apl-mpl-revolutionizing-prosthetics-2009).
+
+**Sources:**
+
+1. darpa.mil/news/2016/mobius-bionics-luke-arms-walter-reed
+2. darpa.mil/about/innovation-timeline/revolutionizing-prosthetics
+
+---
+
 ### 2015-01 — OnRobot RG2 / RG6 / VGC10 cobot grippers
 
 - **id:** `onrobot-rg-grippers-2015`
@@ -351,6 +448,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-03 — Indego modular powered lower-limb exoskeleton
+
+- **id:** `indego-vanderbilt-parker-2016`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Vanderbilt University CIM (Michael Goldfarb) → Parker Hannifin → Ekso Bionics 2023
+- **disclosure citation:** Vanderbilt University Center for Intelligent Mechatronics (Michael Goldfarb's group; prototype 2010). Parker Hannifin license 2012; Indego FDA clearance March 2016. Indego acquired by Ekso Bionics 2023.
+- **disclosed subsystems:** `exoskeleton-lower-limb`, `exoskeleton-modular`, `actuator-electric`
+
+**Prior art notes:**
+
+> Indego (Vanderbilt + Parker Hannifin 2016+; → Ekso Bionics 2023) is the canonical modular split-at-hips lower-limb exoskeleton. 9-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from modular seated-don lower-limb exos.
+
+**Sources:**
+
+1. news.vumc.org/2016/03/10/fda-approves-vanderbilt-designed-indego-exoskeleton-for-clinical-and-personal-use/
+
+---
+
 ### 2016-06 — Boston Dynamics SpotMini
 
 - **id:** `boston-dynamics-spotmini-2017`
@@ -369,6 +485,25 @@ cite, copy, or redistribute these contentions.
 1. Boston Dynamics YouTube reveal videos June 2016 and 2018.
 2. IEEE Spectrum 'Boston Dynamics' SpotMini Is All Electric, Agile, and Has a Capable Face-Arm', 2017.
 3. Vision Systems Design coverage 2018.
+
+---
+
+### 2017-01 — Samsung GEMS Hip + Korean industrial wearables
+
+- **id:** `samsung-gems-hip-2019`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Hyundai Motor Group + Samsung Electronics (Seoul, South Korea)
+- **disclosure citation:** Hyundai Motor Group (Seoul, South Korea). H-MEX paraplegic medical exo CES January 2017; CEX chairless 1.6 kg passive sit-stand 2018; Vex upper-body overhead industrial vest 2018; X-ble MEX medical rehab 2024. Samsung Electronics GEMS Hip powered hip assist 2019.
+- **disclosed subsystems:** `exoskeleton-lower-limb`, `exoskeleton-upper-limb`, `exoskeleton-hip-only`, `actuator-electric`
+
+**Prior art notes:**
+
+> Samsung GEMS Hip + Hyundai H-MEX / CEX / Vex / X-ble (Seoul South Korea 2017+) establish the Korean industrial-conglomerate wearable-robotics product family. 9-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or Iron Man-class claim deriving from Korean OEM wearable-robotics. Lineage descends from Honda Walking Assist (round-43) for Samsung GEMS Hip, and from BLEEX/HULC for Hyundai H-MEX. Geographic balance with Japanese (Honda, Cyberdyne HAL corpus) and US (Ekso, Indego) wearable-robotics OEMs.
+
+**Sources:**
+
+1. cnbc.com/2017/02/01/hyundai-debuts-a-miracle-device-that-can-help-paraplegics-walk.html
 
 ---
 
@@ -409,6 +544,25 @@ cite, copy, or redistribute these contentions.
 
 1. Doosan Robotics corporate site (doosanrobotics.com).
 2. KOSDAQ IPO filings 2023.
+
+---
+
+### 2018-01 — German Bionic Cray X IoT-connected industrial exoskeleton
+
+- **id:** `german-bionic-cray-x-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** German Bionic Systems GmbH (Augsburg, Germany)
+- **disclosure citation:** German Bionic Systems GmbH (Augsburg, Germany; founded 2017 by Armin Schmidt + Eric Eitel + Norma Steller). Cray X first generation 2018; v5 launch 2021. First TÜV-certified powered industrial exo. First IoT-connected powered exo with cloud telemetry.
+- **disclosed subsystems:** `exoskeleton-upper-limb`, `exoskeleton-iot-connected`, `actuator-electric`, `control-cloud-telemetry`
+
+**Prior art notes:**
+
+> German Bionic Cray X (Augsburg 2018+) is the first IoT-connected powered industrial exo with cloud telemetry. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from cloud-connected wearable robotics or Industry-4.0 data-loop exoskeletons.
+
+**Sources:**
+
+1. germanbionic.com/en/solutions/exoskeletons/crayx/
 
 ---
 
@@ -474,6 +628,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-09 — Wandercraft Atalante / Atalante X self-balancing exoskeleton
+
+- **id:** `wandercraft-atalante-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Wandercraft S.A.S. (Paris, France); Masselin + Simon + Boulanger + Lance; Aaron Ames-school dynamic-locomotion control
+- **disclosure citation:** Wandercraft S.A.S. (Paris, France; founded 2012 by Matthieu Masselin, Nicolas Simon, Alexandre Boulanger, Jérémie Lance). Atalante clinical reveal 2018. Atalante X 2022. FDA clearance 2024. Built on Aaron Ames-school dynamic-locomotion / capture-point / Hybrid Zero Dynamics formal control.
+- **disclosed subsystems:** `exoskeleton-lower-limb`, `control-bipedal-locomotion`, `control-hybrid-zero-dynamics`, `control-capture-point`, `actuator-electric`
+
+**Prior art notes:**
+
+> Wandercraft Atalante / Atalante X (Wandercraft Paris 2018+; FDA-cleared 2024) is the world's first self-balancing dynamic-walking exoskeleton — the most architecturally important entry in the human-augmented-robotics chain. 7-year-deep public-disclosure prior art. **Direct shielding for any commercial humanoid or fictional Iron Man-class claim deriving from self-balancing powered armor / autonomous-walking wearable robotics.** The Wandercraft formal-dynamic-locomotion control architecture (Hybrid Zero Dynamics + capture-point) is the Ames-school lineage that anchors all 'powered armor that walks by itself' claims.
+
+**Sources:**
+
+1. en.wandercraft.eu/
+
+---
+
 ### 2019-04 — Stanford Pupper / Doggo open-source quadruped
 
 - **id:** `stanford-pupper-doggo-2019`
@@ -511,6 +684,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. FANUC CRX product page (fanuc.com).
+
+---
+
+### 2019-09 — Open Source Leg (Rouse Michigan)
+
+- **id:** `open-source-leg-rouse-2019`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** University of Michigan + Shirley Ryan AbilityLab; Elliott Rouse
+- **disclosure citation:** Elliott Rouse (University of Michigan + Shirley Ryan AbilityLab). Open Source Leg announced 2018; public release 2019. CC-BY / MIT licensed open-hardware powered knee+ankle prosthesis platform. Deployed at 15+ institutions worldwide.
+- **disclosed subsystems:** `end-effector-prosthetic`, `exoskeleton-lower-limb`, `actuator-electric`, `actuator-quasi-direct-drive`
+
+**Prior art notes:**
+
+> Open Source Leg (Rouse Michigan + Shirley Ryan AbilityLab 2019+) is the canonical open-hardware powered knee+ankle prosthesis platform. 6-year-deep open-permissive prior art (CC-BY / MIT). Direct shielding for any commercial humanoid claim deriving from open-source powered prosthesis platforms or quasi-direct-drive brushless-DC + ball-screw lower-limb actuators.
+
+**Sources:**
+
+1. neurobionics.robotics.umich.edu/research/wearable-robotics/open-source-leg/
 
 ---
 
@@ -851,4 +1043,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*

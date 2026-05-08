@@ -272,7 +272,9 @@
       "year": "1963",
       "corpus": "fictional",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "iron-man-mark-iii-2008"
+      ]
     },
     {
       "id": "8-man-hachiman",
@@ -805,7 +807,8 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
-        "sarcos-guardian-xo-2018"
+        "sarcos-guardian-xo-2018",
+        "sarcos-raytheon-xos-2008"
       ]
     },
     {
@@ -1177,6 +1180,17 @@
       ]
     },
     {
+      "id": "blackrock-utah-array-normann-1990s",
+      "name": "Blackrock Neurotech Utah Array (Normann 1990s)",
+      "year": "1991",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "apl-mpl-revolutionizing-prosthetics-2009",
+        "braingate-donoghue-2002"
+      ]
+    },
+    {
       "id": "mems-imu-foundational-1990s",
       "name": "MEMS IMU foundational lineage (gyroscope + accelerometer)",
       "year": "1991",
@@ -1351,6 +1365,7 @@
       "ancestors": [],
       "descendants": [
         "atrias",
+        "biom-empower-herr-mit-2007",
         "cassie-osu",
         "digit-meta",
         "hwangbo-anymal-sim2real",
@@ -1422,6 +1437,14 @@
       ]
     },
     {
+      "id": "ottobock-c-leg-microprocessor-knee-1997",
+      "name": "Otto Bock C-Leg microprocessor-controlled knee",
+      "year": "1997",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "lstm-hochreiter-schmidhuber-1997",
       "name": "Long Short-Term Memory (LSTM)",
       "year": "1997",
@@ -1464,6 +1487,14 @@
       "descendants": [
         "moveit-sucan-icra-2014"
       ]
+    },
+    {
+      "id": "hocoma-lokomat-1999",
+      "name": "Hocoma Lokomat treadmill-mounted gait orthosis",
+      "year": "1999",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "sony-aibo",
@@ -1792,6 +1823,7 @@
         "agibot-a1",
         "dlr-toro",
         "figure-01",
+        "honda-walking-assist-2009",
         "hubo",
         "tesla-optimus"
       ]
@@ -1925,8 +1957,22 @@
       "name": "BrainGate",
       "year": "2002",
       "corpus": "academic",
+      "ancestors": [
+        "blackrock-utah-array-normann-1990s"
+      ],
+      "descendants": [
+        "synchron-stentrode-endovascular-bci-2019"
+      ]
+    },
+    {
+      "id": "kuiken-tmr-targeted-muscle-reinnervation-2002",
+      "name": "Targeted Muscle Reinnervation (TMR) — Kuiken RIC",
+      "year": "2002",
+      "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "modern-multiarticulated-prosthetic-hands-2007-2012"
+      ]
     },
     {
       "id": "ghost-in-the-shell-tachikoma",
@@ -2082,7 +2128,10 @@
       "year": "2004",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "ekso-bionics-eksonr-2012",
+        "lockheed-martin-hulc-2009"
+      ]
     },
     {
       "id": "cyberdyne-hal-sankai-2004",
@@ -2209,6 +2258,18 @@
       ]
     },
     {
+      "id": "iron-man-extremis-armor-comics-2005",
+      "name": "Iron Man Extremis Armor (comics; Ellis + Granov 2005-2006)",
+      "year": "2005",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "iron-man-bleeding-edge-comics-2010",
+        "iron-man-mark-l-bleeding-edge-2018",
+        "iron-man-mark-xlii-distributed-2013"
+      ]
+    },
+    {
       "id": "iso-10218-collaborative-robots",
       "name": "ISO 10218 Collaborative Robot Safety",
       "year": "2006",
@@ -2276,6 +2337,16 @@
       ]
     },
     {
+      "id": "biom-empower-herr-mit-2007",
+      "name": "BiOM / iWalk / BionX → Empower Ankle (Hugh Herr)",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [
+        "pratt-williamson-sea"
+      ],
+      "descendants": []
+    },
+    {
       "id": "khalifa-university-uae-abu-dhabi-robotics",
       "name": "Khalifa University UAE Abu Dhabi robotics",
       "year": "2007",
@@ -2315,7 +2386,8 @@
       "year": "2007",
       "corpus": "private",
       "ancestors": [
-        "belgrade-usc-tomovic-bekey-hand-1963"
+        "belgrade-usc-tomovic-bekey-hand-1963",
+        "kuiken-tmr-targeted-muscle-reinnervation-2002"
       ],
       "descendants": []
     },
@@ -2445,6 +2517,23 @@
       ]
     },
     {
+      "id": "iron-man-mark-iii-2008",
+      "name": "Iron Man Mark III (red-and-gold MCU production armor)",
+      "year": "2008",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-mark-i",
+        "jarvis-iron-man"
+      ],
+      "descendants": [
+        "iron-man-hulkbuster-mark-xliv-2015",
+        "iron-man-mark-v-briefcase-2010",
+        "iron-man-mark-vii-auto-deploy-2012",
+        "iron-man-mark-xlii-distributed-2013",
+        "rescue-pepper-potts-armor-2009"
+      ]
+    },
+    {
       "id": "nereus-hrov-2008",
       "name": "Nereus HROV",
       "year": "2008",
@@ -2453,12 +2542,26 @@
       "descendants": []
     },
     {
+      "id": "sarcos-raytheon-xos-2008",
+      "name": "Sarcos / Raytheon XOS / XOS-2 full-body exoskeleton",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [
+        "utah-mit-jacobsen-hand-1984"
+      ],
+      "descendants": [
+        "sarcos-guardian-xo-2018"
+      ]
+    },
+    {
       "id": "jarvis-iron-man",
       "name": "JARVIS (Just A Rather Very Intelligent System)",
       "year": "2008",
       "corpus": "fictional",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "iron-man-mark-iii-2008"
+      ]
     },
     {
       "id": "wall-e-eve-pixar",
@@ -2560,6 +2663,28 @@
       "descendants": []
     },
     {
+      "id": "lockheed-martin-hulc-2009",
+      "name": "Lockheed Martin HULC (Human Universal Load Carrier)",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [
+        "berkeley-bleex-kazerooni-2004"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "honda-walking-assist-2009",
+      "name": "Honda Walking Assist Device / Stride Management Assist",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [
+        "asimo"
+      ],
+      "descendants": [
+        "samsung-gems-hip-2019"
+      ]
+    },
+    {
       "id": "knights-of-sidonia-2013",
       "name": "Knights of Sidonia (Garde mecha)",
       "year": "2009",
@@ -2602,6 +2727,16 @@
       "descendants": [
         "dlr-toro"
       ]
+    },
+    {
+      "id": "rescue-pepper-potts-armor-2009",
+      "name": "Rescue Armor (Pepper Potts; comics 2009 / MCU 2019)",
+      "year": "2009",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-mark-iii-2008"
+      ],
+      "descendants": []
     },
     {
       "id": "ros-quigley-2009",
@@ -2651,8 +2786,12 @@
       "name": "Modular Prosthetic Limb (MPL)",
       "year": "2009",
       "corpus": "academic",
-      "ancestors": [],
-      "descendants": []
+      "ancestors": [
+        "blackrock-utah-array-normann-1990s"
+      ],
+      "descendants": [
+        "deka-mobius-luke-arm-2014"
+      ]
     },
     {
       "id": "darwin-op",
@@ -2753,6 +2892,28 @@
       ]
     },
     {
+      "id": "iron-man-bleeding-edge-comics-2010",
+      "name": "Iron Man Bleeding Edge Armor (comics; Fraction + Larroca 2010)",
+      "year": "2010",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-extremis-armor-comics-2005"
+      ],
+      "descendants": [
+        "iron-man-mark-l-bleeding-edge-2018"
+      ]
+    },
+    {
+      "id": "iron-man-mark-v-briefcase-2010",
+      "name": "Iron Man Mark V (briefcase / foldable armor)",
+      "year": "2010",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-mark-iii-2008"
+      ],
+      "descendants": []
+    },
+    {
       "id": "csiro-data61-australia-robotics",
       "name": "CSIRO Data61 Robotics and Autonomous Systems",
       "year": "2010",
@@ -2761,6 +2922,14 @@
       "descendants": [
         "csiro-hudson-wildcat-darpa-subt-2021"
       ]
+    },
+    {
+      "id": "rex-bionics-rex-2010",
+      "name": "Rex Bionics REX self-supporting exoskeleton",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "cornell-jamming-gripper",
@@ -2898,6 +3067,16 @@
       "descendants": []
     },
     {
+      "id": "ekso-bionics-eksonr-2012",
+      "name": "Ekso Bionics Ekso / EksoNR overground rehab exoskeleton",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [
+        "berkeley-bleex-kazerooni-2004"
+      ],
+      "descendants": []
+    },
+    {
       "id": "cmu-herb-srinivasa-2012",
       "name": "CMU HERB (Home Exploring Robotic Butler)",
       "year": "2012",
@@ -2907,6 +3086,16 @@
         "cmu-andy-herb2-srinivasa-2014",
         "pr2"
       ]
+    },
+    {
+      "id": "iron-man-mark-vii-auto-deploy-2012",
+      "name": "Iron Man Mark VII (auto-deploying tracker armor)",
+      "year": "2012",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-mark-iii-2008"
+      ],
+      "descendants": []
     },
     {
       "id": "david-prometheus-walter-covenant",
@@ -3099,6 +3288,17 @@
       "descendants": []
     },
     {
+      "id": "iron-man-mark-xlii-distributed-2013",
+      "name": "Iron Man Mark XLII (prehensile distributed-actuation armor)",
+      "year": "2013",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-extremis-armor-comics-2005",
+        "iron-man-mark-iii-2008"
+      ],
+      "descendants": []
+    },
+    {
       "id": "star-fearing-2013",
       "name": "STAR (Sprawl-Tuned Autonomous Robot)",
       "year": "2013",
@@ -3209,6 +3409,14 @@
       ]
     },
     {
+      "id": "roam-robotics-soft-exo-2014",
+      "name": "Roam Robotics soft-pneumatic exoskeleton",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "vicarious-surgical-2014",
       "name": "Vicarious Surgical",
       "year": "2014",
@@ -3252,6 +3460,16 @@
       "corpus": "academic",
       "ancestors": [
         "cmu-herb-srinivasa-2012"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "deka-mobius-luke-arm-2014",
+      "name": "DEKA / Mobius Bionics LUKE Arm",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [
+        "apl-mpl-revolutionizing-prosthetics-2009"
       ],
       "descendants": []
     },
@@ -3539,6 +3757,16 @@
       "descendants": []
     },
     {
+      "id": "iron-man-hulkbuster-mark-xliv-2015",
+      "name": "Iron Man Hulkbuster (Mark XLIV + Veronica orbital deploy)",
+      "year": "2015",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-mark-iii-2008"
+      ],
+      "descendants": []
+    },
+    {
       "id": "stanford-gecko-cutkosky-2015",
       "name": "Stanford gecko-adhesive gripper (Cutkosky BDML)",
       "year": "2015",
@@ -3676,6 +3904,14 @@
       "descendants": []
     },
     {
+      "id": "indego-vanderbilt-parker-2016",
+      "name": "Indego modular powered lower-limb exoskeleton",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hanson-sophia",
       "name": "Sophia",
       "year": "2016",
@@ -3803,6 +4039,16 @@
       "year": "2017",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "samsung-gems-hip-2019",
+      "name": "Samsung GEMS Hip + Korean industrial wearables",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "honda-walking-assist-2009"
+      ],
       "descendants": []
     },
     {
@@ -4134,6 +4380,14 @@
       "descendants": []
     },
     {
+      "id": "german-bionic-cray-x-2018",
+      "name": "German Bionic Cray X IoT-connected industrial exoskeleton",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "soft-actor-critic-haarnoja-2018",
       "name": "Soft Actor-Critic (SAC)",
       "year": "2018",
@@ -4187,6 +4441,17 @@
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "iron-man-mark-l-bleeding-edge-2018",
+      "name": "Iron Man Mark L (Bleeding Edge nano-tech armor)",
+      "year": "2018",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-bleeding-edge-comics-2010",
+        "iron-man-extremis-armor-comics-2005"
+      ],
       "descendants": []
     },
     {
@@ -4295,6 +4560,7 @@
       "year": "2018",
       "corpus": "private",
       "ancestors": [
+        "sarcos-raytheon-xos-2008",
         "utah-mit-jacobsen-hand-1984"
       ],
       "descendants": []
@@ -4302,6 +4568,14 @@
     {
       "id": "tencent-robotics-x-lab-2018",
       "name": "Tencent Robotics X Lab",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wandercraft-atalante-2018",
+      "name": "Wandercraft Atalante / Atalante X self-balancing exoskeleton",
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
@@ -4478,6 +4752,16 @@
       "descendants": []
     },
     {
+      "id": "synchron-stentrode-endovascular-bci-2019",
+      "name": "Synchron Stentrode endovascular brain-computer interface",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "braingate-donoghue-2002"
+      ],
+      "descendants": []
+    },
+    {
       "id": "diligent-moxi",
       "name": "Diligent Moxi",
       "year": "2019",
@@ -4496,6 +4780,14 @@
         "fanuc-industrial-robotics-1956",
         "universal-robots-denmark-2008"
       ],
+      "descendants": []
+    },
+    {
+      "id": "open-source-leg-rouse-2019",
+      "name": "Open Source Leg (Rouse Michigan)",
+      "year": "2019",
+      "corpus": "open",
+      "ancestors": [],
       "descendants": []
     },
     {

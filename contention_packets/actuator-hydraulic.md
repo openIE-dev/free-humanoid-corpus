@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-hydraulic`  
-**Entries:** 28 (22 commons-grade, 6 draft)  
+**Entries:** 30 (24 commons-grade, 6 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2024-05-24
 
@@ -422,6 +422,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2008-05 — Sarcos / Raytheon XOS / XOS-2 full-body exoskeleton
+
+- **id:** `sarcos-raytheon-xos-2008`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Sarcos Research Corporation (Salt Lake City, UT, USA; Jacobsen) + Raytheon Company; DARPA EHPA
+- **disclosure citation:** Sarcos Research Corporation (Salt Lake City, UT, USA; founded by Stephen Jacobsen) + Raytheon Company. XOS reveal May 2008. XOS-2 reveal September 2010, named to Time Best Inventions 2010. DARPA Exoskeletons for Human Performance Augmentation (EHPA) program. Tethered hydraulic full-body master-slave exoskeleton.
+- **disclosed subsystems:** `exoskeleton-full-body`, `actuator-hydraulic`, `control-master-slave`
+
+**Prior art notes:**
+
+> Sarcos / Raytheon XOS / XOS-2 (Sarcos Salt Lake City + Raytheon 2008-2010) is the canonical 'Iron Man' full-body exoskeleton demo of the DARPA EHPA era. 17-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from tethered full-body hydraulic master-slave exos. Stephen Jacobsen lineage descends from Utah/MIT Hand (corpus utah-mit-jacobsen-hand-1984) and continues to Sarcos Guardian XO (corpus sarcos-guardian-xo-2018).
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Sarcos
+2. army-technology.com/projects/raytheon-xos-2-exoskeleton-us/
+
+---
+
 ### 2008-10-28 — Liberty Prime
 
 - **id:** `fallout-liberty-prime`
@@ -478,6 +498,26 @@ cite, copy, or redistribute these contentions.
 
 1. ONE. One Punch Man webcomic ch. 7. Self-published, 2009.
 2. Murata, Y. One Punch Man. Tonari no Young Jump, Shueisha, 2012-present.
+
+---
+
+### 2009-02 — Lockheed Martin HULC (Human Universal Load Carrier)
+
+- **id:** `lockheed-martin-hulc-2009`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Lockheed Martin Corporation; licensed from Berkeley Bionics (Kazerooni); developed for US Army Natick
+- **disclosure citation:** Lockheed Martin Corporation. HULC commercial license signed with Berkeley Bionics February 26, 2009. Direct descendant of Berkeley BLEEX (corpus berkeley-bleex-kazerooni-2004). Hydraulic lower-extremity load carrier developed for US Army Natick Soldier Research, Development and Engineering Center.
+- **disclosed subsystems:** `exoskeleton-lower-limb`, `actuator-hydraulic`, `control-load-carrier`
+
+**Prior art notes:**
+
+> Lockheed Martin HULC (Lockheed Martin 2009+) is the first major US military exoskeleton commercial program. 16-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hydraulic lower-limb load-carrying exoskeletons. Lineage descends from BLEEX (corpus berkeley-bleex-kazerooni-2004).
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Human_Universal_Load_Carrier
+2. en.wikipedia.org/wiki/Berkeley_Lower_Extremity_Exoskeleton
 
 ---
 
@@ -632,4 +672,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*

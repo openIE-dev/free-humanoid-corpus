@@ -1,6 +1,6 @@
 # Corpus Index
 
-642 entries total. Generated from corpus.jsonl.
+669 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -76,12 +76,14 @@
 | BERT (Bidirectional Encoder Representations from Transformers) | `bert-devlin-google-2018` | 2018 | academic | public-domain |  |
 | Big Daddy (Bouncer / Rosie) | `bioshock-big-daddy` | 2007 | fictional | fictional |  |
 | Big O (The Big O) | `big-o-megadeus` | 1999 | fictional | fictional |  |
+| BiOM / iWalk / BionX → Empower Ankle (Hugh Herr) | `biom-empower-herr-mit-2007` | 2007 | private | trade-secret |  |
 | BioTac | `biotac-syntouch` | 2008 | academic | patented |  |
 | Bishop (Aliens) | `bishop-aliens` | 1986 | fictional | fictional |  |
 | BIT Beijing Institute of Technology robotics | `bit-china-beijing-institute-of-technology-robotics` | 2000 | academic | open-permissive | ✓ |
 | Black Mirror 'Be Right Back' bio-printed companion humanoid | `black-mirror-be-right-back-2013` | 2013 | fictional | public-domain |  |
 | Black Mirror 'Metalhead' autonomous quadruped killer | `black-mirror-metalhead-2017` | 2017 | fictional | public-domain |  |
 | Black Mirror 'White Christmas' cookies and consciousness copies | `black-mirror-white-christmas-2014` | 2014 | fictional | public-domain |  |
+| Blackrock Neurotech Utah Array (Normann 1990s) | `blackrock-utah-array-normann-1990s` | 1991 | private | public-domain (foundational design); trade-secret (commercial implementation) |  |
 | Blade Runner 2049 (Nexus-9 K, Joi) | `blade-runner-2049` | 2017 | fictional | fictional |  |
 | Bluefin-21 AUV | `bluefin-21-auv` | 2003 | private | trade-secret |  |
 | Bokurano (Zearth, child-piloted consent-architecture mecha) | `bokurano-2004` | 2004 | fictional | fictional |  |
@@ -148,6 +150,7 @@
 | DeepMimic | `deepmimic-peng-siggraph-2018` | 2018 | academic | open-permissive |  |
 | DeepMind Control Suite | `dm-control-suite-tassa-2018` | 2018 | academic | open-permissive |  |
 | DeepMind humanoid soccer (Haarnoja et al.) | `deepmind-humanoid-soccer-haarnoja-2024` | 2024 | academic | open-permissive |  |
+| DEKA / Mobius Bionics LUKE Arm | `deka-mobius-luke-arm-2014` | 2014 | private | trade-secret |  |
 | Denavit-Hartenberg parameters | `denavit-hartenberg-parameters-1955` | 1955 | academic | public-domain |  |
 | Denoising Diffusion Probabilistic Models (DDPM) | `ddpm-ho-neurips-2020` | 2020 | academic | public-domain |  |
 | Depth Anything V2 | `bytedance-depth-anything-v2-2024` | 2024 | academic | open-permissive |  |
@@ -185,6 +188,7 @@
 | Edan-Bechar agricultural robotics survey | `edan-bechar-agritech-survey-2017` | 2017 | academic | public-domain |  |
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
 | Educational SoftHand-A | `educational-softhand-a-2025` | 2025 | academic | open-permissive |  |
+| Ekso Bionics Ekso / EksoNR overground rehab exoskeleton | `ekso-bionics-eksonr-2012` | 2012 | private | trade-secret |  |
 | Embrapa Brazilian agritech robotics | `embrapa-brazil-agritech-robotics` | 2010 | academic | public-domain | ✓ |
 | Empire Robotics VERSABALL universal jamming gripper | `empire-robotics-versaball-2012` | 2012 | private | trade-secret |  |
 | EngineAI PM01 | `engineai-pm01` | 2024 | private | patented | ✓ |
@@ -228,6 +232,7 @@
 | Genesis (open-source physics simulator) | `genesis-embodied-ai-simulator` | 2024 | open | open-permissive |  |
 | Genesis AI GENE-26.5 | `genesis-ai-gene-26-5` | 2026 | private | trade-secret | ✓ |
 | Genos (One Punch Man) | `opm-genos` | 2009 | fictional | fictional |  |
+| German Bionic Cray X IoT-connected industrial exoskeleton | `german-bionic-cray-x-2018` | 2018 | private | trade-secret |  |
 | Geth | `geth-mass-effect` | 2007 | fictional | fictional |  |
 | Ghost Robotics Vision 60 | `ghost-robotics-vision-60` | 2018 | private | patented |  |
 | Globus Medical ExcelsiusGPS spine surgical robot | `globus-excelsius-gps-spine-2017` | 2017 | private | trade-secret |  |
@@ -249,6 +254,7 @@
 | Hello Robot Stretch | `hello-robot-stretch-2020` | 2020 | private | trade-secret |  |
 | Hindsight Experience Replay (HER) | `hindsight-experience-replay` | 2017 | academic | open-permissive |  |
 | HK-47 | `hk-47-kotor` | 2003 | fictional | fictional | ✓ |
+| Hocoma Lokomat treadmill-mounted gait orthosis | `hocoma-lokomat-1999` | 1999 | private | trade-secret |  |
 | Hollerbach Recursive Lagrangian Manipulator Dynamics | `hollerbach-manipulator-1980` | 1980 | academic | public-domain |  |
 | Honda Asimo / P-series patent cluster | `honda-asimo-patent-cluster` | 1996 | private | public-domain | ✓ |
 | Honda E0 | `honda-e0` | 1986 | private | trade-secret | ✓ |
@@ -261,6 +267,7 @@
 | Honda P1 | `honda-p1` | 1993 | private | trade-secret |  |
 | Honda P2 | `honda-p2` | 1996 | private | patented |  |
 | Honda P3 | `honda-p3` | 1997 | private | patented |  |
+| Honda Walking Assist Device / Stride Management Assist | `honda-walking-assist-2009` | 2009 | private | trade-secret |  |
 | Howe-Cutkosky tactile fingertip | `howe-cutkosky-tactile-1989` | 1989 | academic | open-permissive |  |
 | HRP-2 | `hrp-2` | 2002 | academic | open-permissive |  |
 | HRP-3 | `hrp-3` | 2008 | academic | open-permissive |  |
@@ -280,6 +287,7 @@
 | IIT WALK-MAN + R1 personal humanoid (Italy) | `iit-walk-man-r1-italy-2015` | 2015 | academic | public-domain |  |
 | Ijspeert-Schaal Dynamic Movement Primitives (formal extension) | `ijspeert-dmp-2013` | 2013 | academic | public-domain |  |
 | ImageNet (large-scale image database) | `imagenet-deng-cvpr-2009` | 2009 | academic | public-domain |  |
+| Indego modular powered lower-limb exoskeleton | `indego-vanderbilt-parker-2016` | 2016 | private | trade-secret |  |
 | InMoov | `inmoov` | 2012 | open | open-permissive |  |
 | INRIA France robotics aggregator | `inria-france-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Intel RealSense depth camera lineage | `intel-realsense-2015` | 2015 | private | trade-secret |  |
@@ -287,7 +295,15 @@
 | IP.com Prior Art Database | `ip-com-prior-art-database` | 2000 | open | open-permissive |  |
 | IPN CIC Mexico robotics (Instituto Politécnico Nacional) | `ipn-cic-mexico-robotics` | 2000 | academic | open-permissive | ✓ |
 | Iron Legion | `marvel-iron-legion` | 2015 | fictional | fictional |  |
+| Iron Man Bleeding Edge Armor (comics; Fraction + Larroca 2010) | `iron-man-bleeding-edge-comics-2010` | 2010 | fictional | copyright-marvel |  |
+| Iron Man Extremis Armor (comics; Ellis + Granov 2005-2006) | `iron-man-extremis-armor-comics-2005` | 2005 | fictional | copyright-marvel |  |
+| Iron Man Hulkbuster (Mark XLIV + Veronica orbital deploy) | `iron-man-hulkbuster-mark-xliv-2015` | 2015 | fictional | copyright-marvel |  |
 | Iron Man Mark I (Tony Stark exoskeleton) | `iron-man-mark-i` | 1963 | fictional | fictional |  |
+| Iron Man Mark III (red-and-gold MCU production armor) | `iron-man-mark-iii-2008` | 2008 | fictional | copyright-marvel |  |
+| Iron Man Mark L (Bleeding Edge nano-tech armor) | `iron-man-mark-l-bleeding-edge-2018` | 2018 | fictional | copyright-marvel |  |
+| Iron Man Mark V (briefcase / foldable armor) | `iron-man-mark-v-briefcase-2010` | 2010 | fictional | copyright-marvel |  |
+| Iron Man Mark VII (auto-deploying tracker armor) | `iron-man-mark-vii-auto-deploy-2012` | 2012 | fictional | copyright-marvel |  |
+| Iron Man Mark XLII (prehensile distributed-actuation armor) | `iron-man-mark-xlii-distributed-2013` | 2013 | fictional | copyright-marvel |  |
 | ISO 10218 Collaborative Robot Safety | `iso-10218-collaborative-robots` | 2006 | academic | public-domain |  |
 | ISRO Vyommitra (Gaganyaan humanoid) | `isro-vyommitra-2020` | 2020 | academic | public-domain |  |
 | ITB Bandung Institute of Technology robotics | `itb-bandung-indonesia-robotics` | 2000 | academic | open-permissive | ✓ |
@@ -330,6 +346,7 @@
 | Liberty Prime | `fallout-liberty-prime` | 2008 | fictional | fictional |  |
 | LimX Dynamics CL-1 | `limx-cl1` | 2023 | private | patented | ✓ |
 | LLaMA 2 | `meta-llama-2-2023` | 2023 | academic | open-permissive |  |
+| Lockheed Martin HULC (Human Universal Load Carrier) | `lockheed-martin-hulc-2009` | 2009 | private | trade-secret |  |
 | Long Short-Term Memory (LSTM) | `lstm-hochreiter-schmidhuber-1997` | 1997 | academic | public-domain |  |
 | Lore (Star Trek: TNG) | `star-trek-tng-lore` | 1988 | fictional | fictional |  |
 | Lucas-Kanade Optical Flow | `lucas-kanade-1981` | 1981 | academic | public-domain |  |
@@ -404,6 +421,7 @@
 | OmniGibson / iGibson (Stanford SVL) | `stanford-omnigibson-2023` | 2018 | academic | open-permissive |  |
 | OnRobot RG2 / RG6 / VGC10 cobot grippers | `onrobot-rg-grippers-2015` | 2015 | private | trade-secret |  |
 | Open Invention Network | `open-invention-network-2005` | 2005 | open | open-permissive |  |
+| Open Source Leg (Rouse Michigan) | `open-source-leg-rouse-2019` | 2019 | open | open-permissive |  |
 | Open X-Embodiment | `open-x-embodiment` | 2023 | academic | open-permissive |  |
 | Open-TeleVision | `opentelevision-cheng-corl-2024` | 2024 | academic | open-permissive |  |
 | OpenAI Dactyl | `openai-dactyl` | 2018 | academic | open-permissive |  |
@@ -414,6 +432,7 @@
 | ORB-SLAM | `orb-slam-mur-artal-2015` | 2015 | academic | open-permissive |  |
 | ORB-SLAM3 | `orb-slam3-2021` | 2021 | academic | open-copyleft |  |
 | Ott Cartesian Impedance Control | `ott-impedance-control` | 2008 | academic | open-permissive |  |
+| Otto Bock C-Leg microprocessor-controlled knee | `ottobock-c-leg-microprocessor-knee-1997` | 1997 | private | trade-secret |  |
 | PAL Robotics TIAGo mobile manipulator | `pal-robotics-tiago-2014` | 2014 | private | trade-secret |  |
 | PAL TALOS | `pal-talos` | 2017 | private | patented |  |
 | PaLM-E (Embodied Multimodal Language Model) | `palm-e` | 2023 | academic | open-permissive |  |
@@ -456,14 +475,17 @@
 | REEM-C | `reem-c` | 2013 | private | patented |  |
 | REMUS 100 AUV | `kongsberg-remus-100-auv` | 1995 | private | trade-secret |  |
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
+| Rescue Armor (Pepper Potts; comics 2009 / MCU 2019) | `rescue-pepper-potts-armor-2009` | 2009 | fictional | copyright-marvel |  |
 | ReSkin (magnetic tactile skin) | `cmu-reskin-tactile-2021` | 2021 | academic | open-permissive |  |
 | ResNet (Residual Networks) | `resnet-he-cvpr-2016` | 2015 | academic | public-domain |  |
 | Retentive Network (RetNet) | `retentive-network-microsoft-2023` | 2023 | academic | public-domain |  |
 | ReWalk medical exoskeleton | `rewalk-goffer-2011` | 2011 | private | trade-secret |  |
+| Rex Bionics REX self-supporting exoskeleton | `rex-bionics-rex-2010` | 2010 | private | trade-secret |  |
 | RH20T heterogeneous robot trajectory dataset | `rh20t-fang-2024` | 2023 | academic | public-domain |  |
 | RHex hexapod (Saranli-Buehler-Koditschek) | `saranli-buehler-koditschek-rhex-ijrr-2001` | 2000 | academic | public-domain |  |
 | RLBench | `rlbench-james-2019` | 2019 | academic | open-permissive |  |
 | RLHF (Deep Reinforcement Learning from Human Preferences) | `christiano-rlhf-2017` | 2017 | academic | open-permissive |  |
+| Roam Robotics soft-pneumatic exoskeleton | `roam-robotics-soft-exo-2014` | 2014 | private | trade-secret |  |
 | Robby the Robot (Forbidden Planet) | `forbidden-planet-robby` | 1956 | fictional | fictional |  |
 | RoboCasa | `robocasa-nasiriany-2024` | 2024 | academic | open-permissive |  |
 | RoboCat (Self-Improving Generalist Agent) | `robocat` | 2023 | academic | open-permissive |  |
@@ -494,11 +516,13 @@
 | RX-78-2 Gundam (additional Gundam mecha disclosures) | `rx-78-2-gundam-2` | 1979 | fictional | fictional | ✓ |
 | Saab Seaeye Falcon | `saab-seaeye-falcon-rov` | 2002 | private | trade-secret |  |
 | Salisbury Stanford/JPL Hand | `salisbury-stanford-jpl-hand` | 1982 | academic | public-domain |  |
+| Samsung GEMS Hip + Korean industrial wearables | `samsung-gems-hip-2019` | 2017 | private | trade-secret |  |
 | Sanctuary AI Phoenix | `sanctuary-phoenix` | 2023 | private | patented | ✓ |
 | Sanctuary AI Phoenix Carbon (Gen 7) | `sanctuary-phoenix-carbon-2024` | 2024 | private | trade-secret | ✓ |
 | Sanctuary Phoenix Gen 6 | `sanctuary-phoenix-gen6` | 2022 | private | patented | ✓ |
 | Sandia Hand modular 12-DoF gripper | `sandia-hand-2012` | 2012 | academic | academic-publication |  |
 | SAPIEN simulator | `sapien-xiang-cvpr-2020` | 2020 | academic | open-permissive |  |
+| Sarcos / Raytheon XOS / XOS-2 full-body exoskeleton | `sarcos-raytheon-xos-2008` | 2008 | private | trade-secret |  |
 | Sarcos Guardian XO | `sarcos-guardian-xo-2018` | 2018 | private | trade-secret |  |
 | Saska multi-MAV systems (CTU Prague MRS group) | `saska-cvut-multi-mav-2017` | 2017 | academic | open-permissive |  |
 | Savioke Relay (hotel delivery) | `savioke-relay-2014` | 2014 | private | trade-secret |  |
@@ -550,6 +574,7 @@
 | Support Vector Machines (SVM) | `svm-cortes-vapnik-1995` | 1995 | academic | public-domain |  |
 | Surena humanoid (Tehran University) | `surena-tehran-university-2008` | 2008 | academic | public-domain |  |
 | Sutton & Barto, Reinforcement Learning: An Introduction (2nd edition) | `sutton-barto-rl-2nd-edition-2018` | 2018 | academic | public-domain |  |
+| Synchron Stentrode endovascular brain-computer interface | `synchron-stentrode-endovascular-bci-2019` | 2019 | private | trade-secret |  |
 | T-800 | `t-800-terminator` | 1984 | fictional | fictional |  |
 | Tachikoma | `ghost-in-the-shell-tachikoma` | 2002 | fictional | fictional |  |
 | Tactile SoftHand-A | `tactile-softhand-a-2025` | 2024 | academic | open-permissive |  |
@@ -558,6 +583,7 @@
 | Talos of Crete | `talos-bronze-giant` | -025 | fictional | fictional |  |
 | Talos Principle Robots | `talos-principle-robots` | 2014 | fictional | fictional |  |
 | Tan et al. Quadruped Sim-to-Real | `tan-quadruped-sim2real` | 2018 | academic | open-permissive |  |
+| Targeted Muscle Reinnervation (TMR) — Kuiken RIC | `kuiken-tmr-targeted-muscle-reinnervation-2002` | 2002 | academic | academic-publication |  |
 | Tassa iLQG / Synthesis and Stabilization of Complex Behaviors | `tassa-ilqg-2012` | 2012 | academic | public-domain |  |
 | Taylor JHU surgical robotics (foundational) | `taylor-jhu-surgical-robotics-1990s` | 1989 | academic | public-domain | ✓ |
 | Tencent Robotics X Lab | `tencent-robotics-x-lab-2018` | 2018 | private | trade-secret | ✓ |
@@ -626,6 +652,7 @@
 | WABIAN-2 | `wabian-2` | 2006 | academic | open-permissive |  |
 | WABOT-1 | `wabot-1` | 1973 | academic | public-domain |  |
 | WALL-E and EVE (Pixar 2008) | `wall-e-eve-pixar` | 2008 | fictional | fictional |  |
+| Wandercraft Atalante / Atalante X self-balancing exoskeleton | `wandercraft-atalante-2018` | 2018 | private | trade-secret |  |
 | War Machine (James Rhodes) | `marvel-war-machine` | 1979 | fictional | fictional |  |
 | Warsaw University of Technology (PW) robotics | `warsaw-poland-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Waymo / Google Self-Driving Car | `waymo-google-self-driving-car-2009` | 2009 | private | trade-secret |  |

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-electric-series-elastic`  
-**Entries:** 17 (17 commons-grade, 0 draft)  
+**Entries:** 18 (18 commons-grade, 0 draft)  
 **Earliest disclosure:** 1995-08  
 **Most recent disclosure:** 2023-08
 
@@ -97,6 +97,26 @@ cite, copy, or redistribute these contentions.
 
 1. Tonietti et al. ICRA 2005 IEEE.
 2. Bicchi group publications (Pisa-IIT centroaesp.unipi.it).
+
+---
+
+### 2007-01 — BiOM / iWalk / BionX → Empower Ankle (Hugh Herr)
+
+- **id:** `biom-empower-herr-mit-2007`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** iWalk Inc. → BionX → Otto Bock Empower; Hugh Herr (MIT Media Lab Biomechatronics)
+- **disclosure citation:** iWalk Inc. (Bedford, MA, USA; founded 2007 by Hugh Herr, MIT Media Lab Biomechatronics). BiOM commercial launch 2011. Renamed BionX 2014. Acquired by Otto Bock HealthCare 2017; rebranded as Otto Bock Empower.
+- **disclosed subsystems:** `end-effector-prosthetic`, `actuator-electric-series-elastic`, `control-gait-active-push-off`
+
+**Prior art notes:**
+
+> BiOM / iWalk / Empower Ankle (Hugh Herr MIT Media Lab + iWalk 2007 → BiOM 2011 → BionX 2014 → Otto Bock Empower 2017) is the first powered ankle-foot prosthesis with positive net work. 18-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from powered ankle-foot prostheses or active gait push-off actuation. Lineage descends from Pratt-Williamson series-elastic actuator (corpus pratt-williamson-sea).
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Hugh_Herr
+2. corporate.ottobock.com/en/media/newsroom/an-active-step-ottobock-acquires-bionx
 
 ---
 
@@ -416,4 +436,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `69278e1`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*

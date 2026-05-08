@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-series-elastic`
 
-**17 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995-08
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tonietti, G., Schiavi, R., Bicchi, A. 'Design and Control of a Variable Stiffness Actuator for Safe and Fast Physical Human/Robot Interaction'. ICRA 2005. Pisa-IIT (later: IIT-Pisa joint lab; antecedent of Pisa-IIT SoftHand corpus entry).
 - **ip status**: public-domain
 - **prior art notes**: The Pisa-IIT Tonietti VSA (ICRA 2005) is the canonical academic variable-stiffness actuator. 20-year-deep public-domain prior art for: mechanically-adjustable joint compliance, two-motor co-control of position + stiffness. Architectural cousin of Pratt-Williamson SEA (corpus entry, 1995, fixed compliance). Direct ancestor of: DLR Hand-Arm System variable-impedance joints (corpus entry dlr-hand-arm-system-2011); EPFL spring-driven exoskeletons; modern compliant-actuator commercial products. Direct shielding for any commercial humanoid claim on real-time-adjustable compliance or variable-stiffness joint control.
+
+## BiOM / iWalk / BionX → Empower Ankle (Hugh Herr) (2007-01)
+
+- **id**: `biom-empower-herr-mit-2007`
+- **corpus**: private
+- **creator**: iWalk Inc. → BionX → Otto Bock Empower; Hugh Herr (MIT Media Lab Biomechatronics)
+- **disclosure**: iWalk Inc. (Bedford, MA, USA; founded 2007 by Hugh Herr, MIT Media Lab Biomechatronics). BiOM commercial launch 2011. Renamed BionX 2014. Acquired by Otto Bock HealthCare 2017; rebranded as Otto Bock Empower.
+- **ip status**: trade-secret
+- **prior art notes**: BiOM / iWalk / Empower Ankle (Hugh Herr MIT Media Lab + iWalk 2007 → BiOM 2011 → BionX 2014 → Otto Bock Empower 2017) is the first powered ankle-foot prosthesis with positive net work. 18-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from powered ankle-foot prostheses or active gait push-off actuation. Lineage descends from Pratt-Williamson series-elastic actuator (corpus pratt-williamson-sea).
 
 ## MIT Domo + Meka Robotics (Aaron Edsinger) (2007-07)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**38 corpus entries disclose this subsystem.**
+**48 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -60,6 +60,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The KIT ARMAR humanoid lineage is the foundational German academic humanoid program (Asfour + Dillmann at KIT, 1998-2020+). 27-year-deep public-domain prior art across 7 generations of ARMAR humanoid. Together with DLR Justin (corpus entry justin / dlr-justin), DLR Hand-II (corpus), DLR Hand-Arm System (corpus round-8), establishes the German academic humanoid + manipulator prior-art baseline. Direct shielding for any commercial humanoid claim that descends architecturally from German academic humanoid lineages.
 
+## Hocoma Lokomat treadmill-mounted gait orthosis (1999-01)
+
+- **id**: `hocoma-lokomat-1999`
+- **corpus**: private
+- **creator**: Hocoma AG (Volketswil, Switzerland) + University Hospital Balgrist + ETH Zurich; Reinhard Riener
+- **disclosure**: Hocoma AG (Volketswil, Switzerland; founded 1996). Lokomat treadmill-mounted robot-driven gait orthosis commercial reveal 1999. Co-developed with University Hospital Balgrist (Zurich) and ETH Zurich (Reinhard Riener).
+- **ip status**: trade-secret
+- **prior art notes**: Hocoma Lokomat (Hocoma AG Volketswil 1999+) is the foundational treadmill-mounted robotic gait-rehab orthosis. 26-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from treadmill-mounted lower-limb rehabilitation orthoses or robotic gait-rehabilitation. The Swiss anchor of medical exoskeletons.
+
 ## KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO) (2003-12)
 
 - **id**: `kaist-fx-2-1995`
@@ -105,6 +114,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Universal Robots is the canonical 2008+ commercial cobot anchor (Odense Denmark, SDU spinout). 17-year-deep public-disclosure prior art for: 6-DoF anthropomorphic cobot at the educational/industrial price point, ISO 10218 + ISO/TS 15066 collaborative-safety compliance, PolyScope teach-pendant programming model. **The architectural anchor of every subsequent commercial cobot** — Doosan (round-22 entry), Franka Emika, Aubo, Elite, Jaka, Universal Robots' own e-Series. The Odense Denmark cobot cluster (Robocluster consortium) is the Nordic robotics anchor. Direct shielding for any commercial humanoid claim that includes cobot-class collaborative-arm derivative applications. Closes the Denmark / Nordic gap (corpus had no Danish entries prior).
 
+## Honda Walking Assist Device / Stride Management Assist (2009-04)
+
+- **id**: `honda-walking-assist-2009`
+- **corpus**: private
+- **creator**: Honda Motor Co., Ltd. (Tokyo, Japan); ASIMO research lineage
+- **disclosure**: Honda Motor Co., Ltd. (Tokyo, Japan). Walking Assist Device public demo April 2009 (R&D since 1999). Lease program 2015. Stride Management Assist variant. Pre-dates Samsung GEMS Hip (round-43) by 10 years for hip-only motor-on-belt assist.
+- **ip status**: trade-secret
+- **prior art notes**: Honda Walking Assist Device (Honda Tokyo 2009+; R&D 1999+) is the foundational hip-only motor-on-belt walking-assist exo. 16-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hip-only powered-belt exoskeletons. Lineage descends from Honda ASIMO (corpus asimo) bipedal-locomotion research.
+
+## Rex Bionics REX self-supporting exoskeleton (2010-07)
+
+- **id**: `rex-bionics-rex-2010`
+- **corpus**: private
+- **creator**: Rex Bionics Ltd. (Auckland, New Zealand); Robert Irving + Richard Little
+- **disclosure**: Rex Bionics Ltd. (Auckland, New Zealand; founded 2007 by Robert Irving + Richard Little). REX commercial reveal July 2010. First commercial self-supporting hands-free powered exoskeleton — the user is hands-free, no crutches, the exo balances itself.
+- **ip status**: trade-secret
+- **prior art notes**: Rex Bionics REX (Auckland NZ 2010+) is the first commercial self-supporting hands-free powered exoskeleton. 15-year-deep public-disclosure prior art. Pre-dates Wandercraft Atalante (round-43) by 8 years for hands-free walking, though REX uses quasi-static-stable gait rather than dynamic-walking. Direct shielding for any commercial humanoid or Iron Man-class claim deriving from hands-free powered exoskeletons.
+
+## Ekso Bionics Ekso / EksoNR overground rehab exoskeleton (2012-02)
+
+- **id**: `ekso-bionics-eksonr-2012`
+- **corpus**: private
+- **creator**: Ekso Bionics Holdings (Richmond CA, USA); Homayoon Kazerooni Berkeley lineage; founded 2005
+- **disclosure**: Ekso Bionics Holdings, Inc. (Richmond, CA, USA; founded 2005 by Homayoon Kazerooni's group at Berkeley Bionics, renamed Ekso Bionics 2011). Ekso commercial reveal February 2012. EksoNR (Neural Rehabilitation) 2019; FDA clearance for stroke + spinal-cord-injury 2016, brain-injury 2020, multiple sclerosis 2021.
+- **ip status**: trade-secret
+- **prior art notes**: Ekso Bionics Ekso / EksoNR (Richmond CA 2012+) is the first broadly FDA-cleared overground rehabilitation exoskeleton. 13-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from FDA-cleared overground lower-limb rehab exos. Together with Hocoma Lokomat (round-43; treadmill-mounted) and Wandercraft Atalante (round-43; self-balancing), establishes the medical-exoskeleton prior-art chain. Lineage descends from BLEEX (corpus).
+
 ## Sandia Hand modular 12-DoF gripper (2012-08)
 
 - **id**: `sandia-hand-2012`
@@ -132,6 +168,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: PAL Robotics TIAGo (Barcelona Spain 2014+) is the canonical Spanish commercial mobile manipulator. 11-year-deep public-disclosure prior art. Sister product line to REEM-C (corpus). Together with REEM-C, brings Spanish commercial-robotics representation to 2 specific platform entries. Architectural sibling to Hello Robot Stretch (round-17), Fetch (round-35), BD Stretch warehouse (round-34). Direct shielding for any commercial humanoid claim deriving from telescoping-mast mobile-manipulator commercial deployments.
 
+## DEKA / Mobius Bionics LUKE Arm (2014-05)
+
+- **id**: `deka-mobius-luke-arm-2014`
+- **corpus**: private
+- **creator**: DEKA Research and Development Corporation (Manchester, NH, USA); Dean Kamen; DARPA Revolutionizing Prosthetics; commercialized as Mobius Bionics
+- **disclosure**: DEKA Research and Development Corporation (Manchester, NH, USA; Dean Kamen). DARPA Revolutionizing Prosthetics program 2006-2014. FDA clearance May 2014. Mobius Bionics commercial launch July 2016. Named 'LUKE' after Star Wars (Luke Skywalker's prosthetic arm).
+- **ip status**: trade-secret
+- **prior art notes**: DEKA / Mobius Bionics LUKE Arm (DEKA Manchester NH 2014; Mobius Bionics 2016) is the first FDA-cleared integrated multi-joint upper-extremity prosthesis. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from integrated multi-joint upper-extremity prostheses. DARPA RP outcome; sister to APL MPL (corpus apl-mpl-revolutionizing-prosthetics-2009).
+
 ## OnRobot RG2 / RG6 / VGC10 cobot grippers (2015-01)
 
 - **id**: `onrobot-rg-grippers-2015`
@@ -150,6 +195,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: DRC-HUBO+ (KAIST + Rainbow Robotics, DRC 2015) is the canonical Korean academic humanoid milestone — 1st place winner of the DARPA Robotics Challenge Finals June 2015. 10-year-deep public-domain prior art for: wheel-leg hybrid transformable bipedal humanoid (knee-rolling for stability + bipedal for stairs), operator-supervised whole-body autonomy under intermittent comm. Direct shielding for any commercial humanoid claim on transformable lower-body morphology or DRC-class disaster-response capability set. Established Rainbow Robotics' commercial humanoid lineage (corpus entry rainbow-robotics-rb-y1).
 
+## Indego modular powered lower-limb exoskeleton (2016-03)
+
+- **id**: `indego-vanderbilt-parker-2016`
+- **corpus**: private
+- **creator**: Vanderbilt University CIM (Michael Goldfarb) → Parker Hannifin → Ekso Bionics 2023
+- **disclosure**: Vanderbilt University Center for Intelligent Mechatronics (Michael Goldfarb's group; prototype 2010). Parker Hannifin license 2012; Indego FDA clearance March 2016. Indego acquired by Ekso Bionics 2023.
+- **ip status**: trade-secret
+- **prior art notes**: Indego (Vanderbilt + Parker Hannifin 2016+; → Ekso Bionics 2023) is the canonical modular split-at-hips lower-limb exoskeleton. 9-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from modular seated-don lower-limb exos.
+
 ## Boston Dynamics SpotMini (2016-06)
 
 - **id**: `boston-dynamics-spotmini-2017`
@@ -158,6 +212,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics. SpotMini public reveal June 2016 demo video; subsequent IEEE Spectrum coverage 2017-2018; capability demonstrations via Boston Dynamics YouTube. Discontinued in favor of Spot (the production quadruped) circa 2019.
 - **ip status**: trade-secret
 - **prior art notes**: SpotMini is the architectural predecessor to commercial Spot. ~9-year-deep public-disclosure prior art for: all-electric quadruped morphology (distinct from hydraulic BigDog/Spot ancestors), dorsal-mount manipulator on quadruped base, Velodyne+depth-camera quadruped sensor stack. Trade-secret control software, public capability surface. Direct shielding for any commercial humanoid-quadruped or quadruped-manipulator claim. Cited in cheetah-cub-epfl and black-mirror-metalhead-2017 prior_art_notes; round-14 backfill closes those citation chains.
+
+## Samsung GEMS Hip + Korean industrial wearables (2017-01)
+
+- **id**: `samsung-gems-hip-2019`
+- **corpus**: private
+- **creator**: Hyundai Motor Group + Samsung Electronics (Seoul, South Korea)
+- **disclosure**: Hyundai Motor Group (Seoul, South Korea). H-MEX paraplegic medical exo CES January 2017; CEX chairless 1.6 kg passive sit-stand 2018; Vex upper-body overhead industrial vest 2018; X-ble MEX medical rehab 2024. Samsung Electronics GEMS Hip powered hip assist 2019.
+- **ip status**: trade-secret
+- **prior art notes**: Samsung GEMS Hip + Hyundai H-MEX / CEX / Vex / X-ble (Seoul South Korea 2017+) establish the Korean industrial-conglomerate wearable-robotics product family. 9-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or Iron Man-class claim deriving from Korean OEM wearable-robotics. Lineage descends from Honda Walking Assist (round-43) for Samsung GEMS Hip, and from BLEEX/HULC for Hyundai H-MEX. Geographic balance with Japanese (Honda, Cyberdyne HAL corpus) and US (Ekso, Indego) wearable-robotics OEMs.
 
 ## Robotis OP3 (2017-08)
 
@@ -176,6 +239,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Doosan Robotics, Inc. (Suwon, South Korea; Doosan Group subsidiary, founded 2015). M-series cobot product reveal September 2017 via doosanrobotics.com. M0609, M1013, M1509, M1013 lineup. Subsequent A-series (2021), H-series (2022) commercial expansions. KOSDAQ IPO 2023.
 - **ip status**: trade-secret
 - **prior art notes**: Doosan Robotics M-series is the canonical Korean commercial collaborative-robot arm family (2017+). 8-year-deep public-disclosure prior art for: 6-axis joint-torque-sensing cobot, ISO 10218 + ISO/TS 15066 compliant collaborative robot. The Korean commercial cobot leader (vs. Universal Robots Denmark / Franka Emika Germany / Kuka Germany). Direct shielding for any commercial humanoid claim on collaborative-robot-arm derivative applications, particularly anthropomorphic-arm joint-torque sensing as deployed in Optimus Gen 3 / Apptronik Apollo.
+
+## German Bionic Cray X IoT-connected industrial exoskeleton (2018-01)
+
+- **id**: `german-bionic-cray-x-2018`
+- **corpus**: private
+- **creator**: German Bionic Systems GmbH (Augsburg, Germany)
+- **disclosure**: German Bionic Systems GmbH (Augsburg, Germany; founded 2017 by Armin Schmidt + Eric Eitel + Norma Steller). Cray X first generation 2018; v5 launch 2021. First TÜV-certified powered industrial exo. First IoT-connected powered exo with cloud telemetry.
+- **ip status**: trade-secret
+- **prior art notes**: German Bionic Cray X (Augsburg 2018+) is the first IoT-connected powered industrial exo with cloud telemetry. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from cloud-connected wearable robotics or Industry-4.0 data-loop exoskeletons.
 
 ## NAVER LABS AMBIDEX (2018-04)
 
@@ -204,6 +276,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Sarcos Guardian XO is the canonical 2018+ all-electric full-body industrial exoskeleton. 7-year-deep public-disclosure prior art for: 24-DoF whole-body industrial exoskeleton, all-electric (vs. hydraulic) heavy-lift exoskeleton. Architecturally extends Berkeley BLEEX (round-19) from lower-extremity-only to whole-body. Direct shielding for any commercial humanoid claim on full-body load-handling robotics — particularly for industrial-deployment commercial humanoid claims (Apptronik Apollo, Figure, Optimus all market industrial heavy-lift) which face 7-year-deep Sarcos commercial prior art.
 
+## Wandercraft Atalante / Atalante X self-balancing exoskeleton (2018-09)
+
+- **id**: `wandercraft-atalante-2018`
+- **corpus**: private
+- **creator**: Wandercraft S.A.S. (Paris, France); Masselin + Simon + Boulanger + Lance; Aaron Ames-school dynamic-locomotion control
+- **disclosure**: Wandercraft S.A.S. (Paris, France; founded 2012 by Matthieu Masselin, Nicolas Simon, Alexandre Boulanger, Jérémie Lance). Atalante clinical reveal 2018. Atalante X 2022. FDA clearance 2024. Built on Aaron Ames-school dynamic-locomotion / capture-point / Hybrid Zero Dynamics formal control.
+- **ip status**: trade-secret
+- **prior art notes**: Wandercraft Atalante / Atalante X (Wandercraft Paris 2018+; FDA-cleared 2024) is the world's first self-balancing dynamic-walking exoskeleton — the most architecturally important entry in the human-augmented-robotics chain. 7-year-deep public-disclosure prior art. **Direct shielding for any commercial humanoid or fictional Iron Man-class claim deriving from self-balancing powered armor / autonomous-walking wearable robotics.** The Wandercraft formal-dynamic-locomotion control architecture (Hybrid Zero Dynamics + capture-point) is the Ames-school lineage that anchors all 'powered armor that walks by itself' claims.
+
 ## Stanford Pupper / Doggo open-source quadruped (2019-04)
 
 - **id**: `stanford-pupper-doggo-2019`
@@ -221,6 +302,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: FANUC Corporation. CRX collaborative robot family commercial reveal September 2019. CRX-10iA (10 kg payload) initial product; subsequent CRX-25iA (25 kg payload) + CRX-5iA (5 kg payload). fanuc.com. The cobot variant of FANUC's industrial-arm family (corpus round-34 fanuc-industrial-robotics-1956).
 - **ip status**: trade-secret
 - **prior art notes**: FANUC CRX (FANUC Yamanashi 2019+) is FANUC's cobot variant of the industrial-arm family (round-34 fanuc-industrial-robotics-1956). 6-year-deep public-disclosure prior art. The Japanese cobot answer to Universal Robots (Denmark) + Doosan (Korea) + Franka Emika (Germany). Together, the global cobot prior-art chain spans 4 distinct national-origin commercial cobot product lines.
+
+## Open Source Leg (Rouse Michigan) (2019-09)
+
+- **id**: `open-source-leg-rouse-2019`
+- **corpus**: open
+- **creator**: University of Michigan + Shirley Ryan AbilityLab; Elliott Rouse
+- **disclosure**: Elliott Rouse (University of Michigan + Shirley Ryan AbilityLab). Open Source Leg announced 2018; public release 2019. CC-BY / MIT licensed open-hardware powered knee+ankle prosthesis platform. Deployed at 15+ institutions worldwide.
+- **ip status**: open-permissive
+- **prior art notes**: Open Source Leg (Rouse Michigan + Shirley Ryan AbilityLab 2019+) is the canonical open-hardware powered knee+ankle prosthesis platform. 6-year-deep open-permissive prior art (CC-BY / MIT). Direct shielding for any commercial humanoid claim deriving from open-source powered prosthesis platforms or quasi-direct-drive brushless-DC + ball-screw lower-limb actuators.
 
 ## Hello Robot Stretch (2020-07)
 
