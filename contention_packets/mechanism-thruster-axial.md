@@ -1,7 +1,7 @@
 ---
 title: "mechanism-thruster-axial"
 parent: "Invalidity Contentions"
-nav_order: 78
+nav_order: 86
 layout: default
 ---
 
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*

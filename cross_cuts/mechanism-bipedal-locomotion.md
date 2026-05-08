@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**129 corpus entries disclose this subsystem.**
+**133 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -1050,6 +1050,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Fourier GR1 is one of the canonical Chinese commercial humanoid platforms used by academic teams (alongside Unitree H1/G1, Booster K1). 1.5-year-deep public-disclosure prior art for: adult-class commercial humanoid sold to academic researchers as a hardware-only platform, interchangeable hand/gripper end-effectors. The Open-TeleVision academic publication (CoRL 2024) uses GR1 as one of two evaluation platforms, providing third-party documentation of the system's interfaces and capabilities. Direct shielding for any commercial humanoid claim on adult-class hardware-platform sales to academic researchers.
 
+## Astribot S1 (2024-04)
+
+- **id**: `astribot-s1-stardust-2025`
+- **corpus**: private
+- **creator**: Stardust Intelligence (Shenzhen, China)
+- **disclosure**: Stardust Intelligence (Shenzhen, China; founded December 2022). Astribot S1 reveal April 2024 via stardust-tech.com / astribot.com demo videos showing 10 m/s arm motion. Stardust Intelligence Astribot Suite paper July 2025 (peer-reviewed; teleop + DuoCore-WB imitation learning achieving 80% task success). Commercial availability late 2025+ in China.
+- **ip status**: trade-secret
+- **prior art notes**: Astribot S1 is one of the canonical 2024-2025 Chinese commercial humanoid platforms (Stardust Intelligence). 1.5-year-deep public-disclosure prior art for: ≥10 m/s anthropomorphic arm motion (claimed industry-leading), 36-DoF whole-body humanoid, DuoCore-WB whole-body IL framework. Direct shielding for any commercial humanoid claim on extreme arm-speed performance — Astribot's April 2024 viral demo set the public benchmark. Claim surface is peer-reviewed (Astribot Suite paper July 2025), unlike most Chinese commercial humanoid platforms.
+
+## DeepMind humanoid soccer (Haarnoja et al.) (2024-04)
+
+- **id**: `deepmind-humanoid-soccer-haarnoja-2024`
+- **corpus**: academic
+- **creator**: Google DeepMind; Tuomas Haarnoja, Yuval Tassa, Nicolas Heess + ~25 co-authors
+- **disclosure**: Haarnoja, T., Moran, B., Lever, G., Huang, S. H., Tirumala, D., Humplik, J., Wulfmeier, M., Tunyasuvunakool, S., Siegel, N. Y., Hafner, R., Bloesch, M., Hartikainen, K., Byravan, A., Hasenclever, L., Tassa, Y., Sadeghi, F., Batchelor, N., Casarini, F., Saliceti, S., Game, C., Sreendra, N., Patel, K., Gwira, M., Huber, A., Hurley, N., Nori, F., Hadsell, R., Heess, N. 'Learning agile soccer skills for a bipedal robot with deep reinforcement learning'. Science Robotics 9(89) April 2024.
+- **ip status**: open-permissive
+- **prior art notes**: DeepMind humanoid soccer (Haarnoja et al. Science Robotics April 2024) is the canonical end-to-end deep-RL humanoid agility paper. 1-year-deep open-academic prior art for: zero-shot sim-to-real agile humanoid skills (kicking, defending, getting up), multi-agent self-play RL on humanoid hardware, teacher-student distillation for compact deployable policies. Direct shielding for any commercial humanoid claim on dynamic-skill RL training or sim-to-real agile-locomotion transfer. Together with Berkeley Humanoid (round-11), Berkeley Humanoid Lite (round-11), and ToddlerBot (round-11), establishes the open-academic agile-humanoid-RL substrate.
+
+## Atlas Electric (Boston Dynamics) (2024-04)
+
+- **id**: `boston-dynamics-atlas-electric-2024`
+- **corpus**: private
+- **creator**: Boston Dynamics (Hyundai subsidiary since 2021)
+- **disclosure**: Boston Dynamics. 'An Electric New Era for Atlas' announcement April 17 2024 via boston-dynamics.com (replacing the hydraulic Atlas, which retired April 16 2024). Subsequent capability demonstrations 2024-2025 including Hyundai factory deployment preparation. Trade-secret commercial humanoid platform.
+- **ip status**: trade-secret
+- **prior art notes**: Atlas Electric is Boston Dynamics' canonical 2024+ commercial all-electric humanoid (succeeding the 11-year hydraulic Atlas lineage). 1.5-year-deep public-disclosure prior art for: super-human range-of-motion humanoid joint design, all-electric humanoid form factor at compact mass. Public capability surface (viral demo videos) is fully covered by deeper academic prior art chains: HRP-2/HRP-4/HRP-5P (full-size humanoid lineage); Berkeley Humanoid + ToddlerBot (round-11, all-electric humanoid); the Hwangbo ANYmal sim-to-real lineage for the RL training substrate. **Specific super-human-ROM joint kinematics** are the architectural distinction; corpus has Salisbury / DLR / Pisa-IIT joint mechanism prior art back to 1982 for kinematic ranges that exceed standard anthropomorphic humanoids.
+
 ## Unitree G1 (2024-05)
 
 - **id**: `unitree-g1`
@@ -1148,6 +1175,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cui, F., Sayle, J., Karydis, K., Liao, Q., et al. 'Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot'. arXiv:2504.17249, April 2025. Robotics: Science and Systems (RSS) 2025. UC Berkeley Hybrid Robotics Lab.
 - **ip status**: open-permissive
 - **prior art notes**: Berkeley Humanoid Lite is the canonical sub-$5k open-hardware academic bipedal humanoid (RSS 2025). 1-year-deep prior art on: 3D-printed cycloidal reducer humanoid actuator (a specific architectural commitment), full open-source release of hardware + firmware + training, sub-$5k humanoid BOM, RL-controlled walking on a 3D-printed platform. **Direct shielding for free-humanoid-platform** — particularly the 3D-printed actuator path and any commercial claim on accessible humanoid hardware. Together with ToddlerBot and Berkeley Humanoid (full-size), establishes a deep open-academic substrate for any commercial humanoid platform claim.
+
+## Booster T1 (2025-09)
+
+- **id**: `booster-t1-2025`
+- **corpus**: private
+- **creator**: Booster Robotics (Beijing, China)
+- **disclosure**: Booster Robotics. T1 product reveal Q3 2025 via booster.tech. Successor to K1 (round-16 entry booster-k1-2025) with adult-class form factor.
+- **ip status**: trade-secret
+- **prior art notes**: Booster T1 is Booster Robotics' adult-class commercial humanoid (2025+). 8-month-deep public-disclosure prior art at the time of this corpus entry. Inherits from K1 (round-16) the ROS 2 + Python developer-friendly stack pattern. Direct shielding for Booster's commercial product line as a coherent multi-platform humanoid family (KidSize K1 + AdultSize T1).
 
 ## Unitree H2 (2025-10)
 

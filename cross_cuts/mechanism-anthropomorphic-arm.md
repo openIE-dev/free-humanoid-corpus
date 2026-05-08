@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-arm`
 
-**6 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2016-04
+Earliest disclosure: 2009-12
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Modular Prosthetic Limb (MPL) (2009-12)
+
+- **id**: `apl-mpl-revolutionizing-prosthetics-2009`
+- **corpus**: academic
+- **creator**: JHU Applied Physics Laboratory; led under DARPA Revolutionizing Prosthetics program (Geoffrey Ling DARPA PM)
+- **disclosure**: Johns Hopkins Applied Physics Laboratory. Modular Prosthetic Limb (MPL) v1.0 completed December 2009 under DARPA Revolutionizing Prosthetics program (2006-present). Johnson, M. J. et al. clinical evaluation: Scientific Reports 11 (2021). DARPA + APL + Johns Hopkins Medicine + multiple consortium partners.
+- **ip status**: public-domain
+- **prior art notes**: The Modular Prosthetic Limb is the canonical sophisticated anthropomorphic prosthetic arm + hand from the DARPA Revolutionizing Prosthetics program (APL/JHU 2009+). 16-year-deep public-domain prior art for: 25-DoF anthropomorphic arm-and-hand at human-limb mass, integrated 100+-sensor tactile/position/force network, BCI-controlled prosthetic operation. Direct shielding for any commercial humanoid claim on anthropomorphic arm + hand integration. Particularly relevant for Tesla Optimus Gen 3 (round-15 entry, 22-DoF hands × 50 actuators) — the MPL's 25-DoF arm-and-hand at 100+ sensors establishes 16-year-deep prior art at the architectural level.
 
 ## OceanOne (2016-04)
 
@@ -59,6 +68,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fourier Intelligence. GR1 humanoid product reveal January 2024 via fourierintelligence.com and CES 2024 demonstration. Subsequent deployments by academic teams (Open-TeleVision UCSD+MIT CoRL 2024 uses Fourier GR1 as one of its evaluation platforms).
 - **ip status**: trade-secret
 - **prior art notes**: Fourier GR1 is one of the canonical Chinese commercial humanoid platforms used by academic teams (alongside Unitree H1/G1, Booster K1). 1.5-year-deep public-disclosure prior art for: adult-class commercial humanoid sold to academic researchers as a hardware-only platform, interchangeable hand/gripper end-effectors. The Open-TeleVision academic publication (CoRL 2024) uses GR1 as one of two evaluation platforms, providing third-party documentation of the system's interfaces and capabilities. Direct shielding for any commercial humanoid claim on adult-class hardware-platform sales to academic researchers.
+
+## Astribot S1 (2024-04)
+
+- **id**: `astribot-s1-stardust-2025`
+- **corpus**: private
+- **creator**: Stardust Intelligence (Shenzhen, China)
+- **disclosure**: Stardust Intelligence (Shenzhen, China; founded December 2022). Astribot S1 reveal April 2024 via stardust-tech.com / astribot.com demo videos showing 10 m/s arm motion. Stardust Intelligence Astribot Suite paper July 2025 (peer-reviewed; teleop + DuoCore-WB imitation learning achieving 80% task success). Commercial availability late 2025+ in China.
+- **ip status**: trade-secret
+- **prior art notes**: Astribot S1 is one of the canonical 2024-2025 Chinese commercial humanoid platforms (Stardust Intelligence). 1.5-year-deep public-disclosure prior art for: ≥10 m/s anthropomorphic arm motion (claimed industry-leading), 36-DoF whole-body humanoid, DuoCore-WB whole-body IL framework. Direct shielding for any commercial humanoid claim on extreme arm-speed performance — Astribot's April 2024 viral demo set the public benchmark. Claim surface is peer-reviewed (Astribot Suite paper July 2025), unlike most Chinese commercial humanoid platforms.
+
+## Galbot (2024-09)
+
+- **id**: `galbot-galaxy-robotics-2024`
+- **corpus**: private
+- **creator**: Galaxy Robotics (Beijing, China)
+- **disclosure**: Galaxy Robotics (Beijing, China). Galbot platform reveal 2024 via galaxy-robotics.com / WAIC 2024 demonstration. Wheeled humanoid with telescoping torso lift + dual 7-DoF arms. ~CNY 500k initial commercial price.
+- **ip status**: trade-secret
+- **prior art notes**: Galbot is the canonical 2024 Chinese wheeled-humanoid commercial platform (Galaxy Robotics). 1.5-year-deep public-disclosure prior art for: telescoping-torso wheeled humanoid commercial deployment, dual-arm wheeled mobile manipulator at the educational-to-commercial price tier. Architectural sibling of Hello Robot Stretch (round-17 entry) but with humanoid-form dual-arm + telescoping-torso vs. Stretch's single-arm + mast. Direct shielding for any commercial humanoid claim on wheeled-humanoid (non-bipedal) form factor with telescoping vertical adjustment. **Directly relevant to free-humanoid-wheeled** — Galbot is the closest commercial product to that morphology.
 
 ## ToddlerBot (2025-02)
 

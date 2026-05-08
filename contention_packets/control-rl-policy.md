@@ -1,7 +1,7 @@
 ---
 title: "control-rl-policy"
 parent: "Invalidity Contentions"
-nav_order: 48
+nav_order: 52
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 131 (105 commons-grade, 26 draft)  
+**Entries:** 133 (106 commons-grade, 27 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2026-04
 
@@ -2310,6 +2310,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-04 — DeepMind humanoid soccer (Haarnoja et al.)
+
+- **id:** `deepmind-humanoid-soccer-haarnoja-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Google DeepMind; Tuomas Haarnoja, Yuval Tassa, Nicolas Heess + ~25 co-authors
+- **disclosure citation:** Haarnoja, T., Moran, B., Lever, G., Huang, S. H., Tirumala, D., Humplik, J., Wulfmeier, M., Tunyasuvunakool, S., Siegel, N. Y., Hafner, R., Bloesch, M., Hartikainen, K., Byravan, A., Hasenclever, L., Tassa, Y., Sadeghi, F., Batchelor, N., Casarini, F., Saliceti, S., Game, C., Sreendra, N., Patel, K., Gwira, M., Huber, A., Hurley, N., Nori, F., Hadsell, R., Heess, N. 'Learning agile soccer skills for a bipedal robot with deep reinforcement learning'. Science Robotics 9(89) April 2024.
+- **disclosed subsystems:** `control-rl-policy`, `control-sim-to-real`, `control-multi-agent-rl`, `control-self-play`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> DeepMind humanoid soccer (Haarnoja et al. Science Robotics April 2024) is the canonical end-to-end deep-RL humanoid agility paper. 1-year-deep open-academic prior art for: zero-shot sim-to-real agile humanoid skills (kicking, defending, getting up), multi-agent self-play RL on humanoid hardware, teacher-student distillation for compact deployable policies. Direct shielding for any commercial humanoid claim on dynamic-skill RL training or sim-to-real agile-locomotion transfer. Together with Berkeley Humanoid (round-11), Berkeley Humanoid Lite (round-11), and ToddlerBot (round-11), establishes the open-academic agile-humanoid-RL substrate.
+
+**Sources:**
+
+1. Haarnoja et al. Science Robotics 9(89) 2024.
+2. Project page (sites.google.com/view/op3-soccer).
+
+---
+
 ### 2024-05 — Unitree G1 *(draft)*
 
 - **id:** `unitree-g1`
@@ -2636,6 +2656,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-09 — Booster T1 *(draft)*
+
+- **id:** `booster-t1-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Booster Robotics (Beijing, China)
+- **disclosure citation:** Booster Robotics. T1 product reveal Q3 2025 via booster.tech. Successor to K1 (round-16 entry booster-k1-2025) with adult-class form factor.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Booster T1 is Booster Robotics' adult-class commercial humanoid (2025+). 8-month-deep public-disclosure prior art at the time of this corpus entry. Inherits from K1 (round-16) the ROS 2 + Python developer-friendly stack pattern. Direct shielding for Booster's commercial product line as a coherent multi-platform humanoid family (KidSize K1 + AdultSize T1).
+
+**Sources:**
+
+1. Booster Robotics corporate site (booster.tech).
+
+---
+
 ### 2025-10 — Unitree H2 *(draft)*
 
 - **id:** `unitree-h2`
@@ -2705,4 +2744,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*

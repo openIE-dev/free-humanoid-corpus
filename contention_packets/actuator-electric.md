@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 4 (3 commons-grade, 1 draft)  
+**Entries:** 8 (5 commons-grade, 3 draft)  
 **Earliest disclosure:** 2016-06  
 **Most recent disclosure:** 2025-10
 
@@ -82,6 +82,70 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-04 — Astribot S1
+
+- **id:** `astribot-s1-stardust-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Stardust Intelligence (Shenzhen, China)
+- **disclosure citation:** Stardust Intelligence (Shenzhen, China; founded December 2022). Astribot S1 reveal April 2024 via stardust-tech.com / astribot.com demo videos showing 10 m/s arm motion. Stardust Intelligence Astribot Suite paper July 2025 (peer-reviewed; teleop + DuoCore-WB imitation learning achieving 80% task success). Commercial availability late 2025+ in China.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `actuator-electric`, `control-imitation-learning`, `control-foundation-model-policy`
+
+**Prior art notes:**
+
+> Astribot S1 is one of the canonical 2024-2025 Chinese commercial humanoid platforms (Stardust Intelligence). 1.5-year-deep public-disclosure prior art for: ≥10 m/s anthropomorphic arm motion (claimed industry-leading), 36-DoF whole-body humanoid, DuoCore-WB whole-body IL framework. Direct shielding for any commercial humanoid claim on extreme arm-speed performance — Astribot's April 2024 viral demo set the public benchmark. Claim surface is peer-reviewed (Astribot Suite paper July 2025), unlike most Chinese commercial humanoid platforms.
+
+**Sources:**
+
+1. Stardust Intelligence corporate site (stardust-tech.com / astribot.com).
+2. Astribot Suite paper July 2025 (peer-reviewed; venue TBV).
+3. Humanoid Press product database (humanoid.press/database/database-astribot-s1).
+4. Origin of Bots, RobotsLATAM, Mike Kalil coverage 2024-2026.
+
+---
+
+### 2024-04 — Atlas Electric (Boston Dynamics)
+
+- **id:** `boston-dynamics-atlas-electric-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Boston Dynamics (Hyundai subsidiary since 2021)
+- **disclosure citation:** Boston Dynamics. 'An Electric New Era for Atlas' announcement April 17 2024 via boston-dynamics.com (replacing the hydraulic Atlas, which retired April 16 2024). Subsequent capability demonstrations 2024-2025 including Hyundai factory deployment preparation. Trade-secret commercial humanoid platform.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-super-human-range-of-motion`, `actuator-electric`, `actuator-electric-harmonic-drive`
+
+**Prior art notes:**
+
+> Atlas Electric is Boston Dynamics' canonical 2024+ commercial all-electric humanoid (succeeding the 11-year hydraulic Atlas lineage). 1.5-year-deep public-disclosure prior art for: super-human range-of-motion humanoid joint design, all-electric humanoid form factor at compact mass. Public capability surface (viral demo videos) is fully covered by deeper academic prior art chains: HRP-2/HRP-4/HRP-5P (full-size humanoid lineage); Berkeley Humanoid + ToddlerBot (round-11, all-electric humanoid); the Hwangbo ANYmal sim-to-real lineage for the RL training substrate. **Specific super-human-ROM joint kinematics** are the architectural distinction; corpus has Salisbury / DLR / Pisa-IIT joint mechanism prior art back to 1982 for kinematic ranges that exceed standard anthropomorphic humanoids.
+
+**Sources:**
+
+1. Boston Dynamics 'An Electric New Era for Atlas' April 17 2024 (bostondynamics.com/atlas/an-electric-new-era-for-atlas).
+2. Boston Dynamics YouTube channel (Atlas Electric demonstration videos 2024-2025).
+3. Hyundai partnership announcements.
+
+---
+
+### 2024-09 — Galbot *(draft)*
+
+- **id:** `galbot-galaxy-robotics-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Galaxy Robotics (Beijing, China)
+- **disclosure citation:** Galaxy Robotics (Beijing, China). Galbot platform reveal 2024 via galaxy-robotics.com / WAIC 2024 demonstration. Wheeled humanoid with telescoping torso lift + dual 7-DoF arms. ~CNY 500k initial commercial price.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-anthropomorphic-arm`, `mechanism-telescoping-mast`, `actuator-electric`
+
+**Prior art notes:**
+
+> Galbot is the canonical 2024 Chinese wheeled-humanoid commercial platform (Galaxy Robotics). 1.5-year-deep public-disclosure prior art for: telescoping-torso wheeled humanoid commercial deployment, dual-arm wheeled mobile manipulator at the educational-to-commercial price tier. Architectural sibling of Hello Robot Stretch (round-17 entry) but with humanoid-form dual-arm + telescoping-torso vs. Stretch's single-arm + mast. Direct shielding for any commercial humanoid claim on wheeled-humanoid (non-bipedal) form factor with telescoping vertical adjustment. **Directly relevant to free-humanoid-wheeled** — Galbot is the closest commercial product to that morphology.
+
+**Sources:**
+
+1. Galaxy Robotics corporate site (galaxy-robotics.com).
+2. WAIC 2024 demonstration coverage.
+3. Humanoid Press product database.
+
+---
+
 ### 2025-03 — Booster K1
 
 - **id:** `booster-k1-2025`
@@ -101,6 +165,25 @@ cite, copy, or redistribute these contentions.
 2. Generation Robots product listing (generationrobots.com).
 3. Humanoid Guide product database entry (humanoid.guide/product/k1).
 4. RoboCup 2025 results (Salvador, Brazil, July 2025).
+
+---
+
+### 2025-09 — Booster T1 *(draft)*
+
+- **id:** `booster-t1-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Booster Robotics (Beijing, China)
+- **disclosure citation:** Booster Robotics. T1 product reveal Q3 2025 via booster.tech. Successor to K1 (round-16 entry booster-k1-2025) with adult-class form factor.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Booster T1 is Booster Robotics' adult-class commercial humanoid (2025+). 8-month-deep public-disclosure prior art at the time of this corpus entry. Inherits from K1 (round-16) the ROS 2 + Python developer-friendly stack pattern. Direct shielding for Booster's commercial product line as a coherent multi-platform humanoid family (KidSize K1 + AdultSize T1).
+
+**Sources:**
+
+1. Booster Robotics corporate site (booster.tech).
 
 ---
 
@@ -157,4 +240,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*

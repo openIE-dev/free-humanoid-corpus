@@ -1,7 +1,7 @@
 ---
 title: "control-egocentric-video-pretraining"
 parent: "Invalidity Contentions"
-nav_order: 28
+nav_order: 29
 layout: default
 ---
 
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*

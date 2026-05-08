@@ -1071,6 +1071,14 @@
       "descendants": []
     },
     {
+      "id": "sensable-phantom-1994",
+      "name": "SensAble Phantom haptic device",
+      "year": "1994",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sherman-simplex-architecture",
       "name": "Simplex Architecture",
       "year": "1995",
@@ -1151,6 +1159,14 @@
       "descendants": [
         "robonaut-2"
       ]
+    },
+    {
+      "id": "honda-asimo-patent-cluster",
+      "name": "Honda Asimo / P-series patent cluster",
+      "year": "1996",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "honda-p2",
@@ -1382,6 +1398,14 @@
       "name": "Saab Seaeye Falcon",
       "year": "2002",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "braingate-donoghue-2002",
+      "name": "BrainGate",
+      "year": "2002",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -1816,6 +1840,14 @@
       ]
     },
     {
+      "id": "apl-mpl-revolutionizing-prosthetics-2009",
+      "name": "Modular Prosthetic Limb (MPL)",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "darwin-op",
       "name": "DARwIn-OP",
       "year": "2010",
@@ -1910,6 +1942,14 @@
       "ancestors": [
         "dlr-hand-ii"
       ],
+      "descendants": []
+    },
+    {
+      "id": "force-dimension-sigma7-2010s",
+      "name": "Force Dimension Sigma.7",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2500,8 +2540,28 @@
       "descendants": []
     },
     {
+      "id": "bristol-tactip-2017",
+      "name": "TacTip (vision-based tactile sensor)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "educational-softhand-a-2025",
+        "meta-digit-tactile-2020",
+        "tactile-softhand-a-2025"
+      ]
+    },
+    {
       "id": "festo-bionic-soft-arm-2017",
       "name": "Festo BionicSoftArm",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "neuralink-2017",
+      "name": "Neuralink",
       "year": "2017",
       "corpus": "private",
       "ancestors": [],
@@ -2961,7 +3021,9 @@
       "name": "DIGIT (Meta tactile sensor)",
       "year": "2020",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "bristol-tactip-2017"
+      ],
       "descendants": []
     },
     {
@@ -3221,6 +3283,14 @@
       "descendants": []
     },
     {
+      "id": "haptx-gloves-g1-2022",
+      "name": "HaptX Gloves G1",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "vima",
       "name": "VIMA (General Robot Manipulation with Multimodal Prompts)",
       "year": "2022",
@@ -3254,6 +3324,14 @@
       "name": "M3GAN",
       "year": "2022",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "manus-quantum-metagloves-2023",
+      "name": "Manus Quantum Metagloves",
+      "year": "2023",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -3521,6 +3599,14 @@
       ]
     },
     {
+      "id": "senseglove-nova-2-2023",
+      "name": "SenseGlove Nova 2",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "eureka-ma-2023",
       "name": "Eureka LLM-driven reward design",
       "year": "2023",
@@ -3759,6 +3845,30 @@
       ]
     },
     {
+      "id": "astribot-s1-stardust-2025",
+      "name": "Astribot S1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "boston-dynamics-atlas-electric-2024",
+      "name": "Atlas Electric (Boston Dynamics)",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "deepmind-humanoid-soccer-haarnoja-2024",
+      "name": "DeepMind humanoid soccer (Haarnoja et al.)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "neura-4ne1",
       "name": "Neura 4NE-1",
       "year": "2024",
@@ -3843,6 +3953,7 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [
+        "bristol-tactip-2017",
         "pisa-iit-softhand-2"
       ],
       "descendants": [
@@ -3920,6 +4031,14 @@
       "ancestors": [
         "figure-01"
       ],
+      "descendants": []
+    },
+    {
+      "id": "galbot-galaxy-robotics-2024",
+      "name": "Galbot",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -4147,11 +4266,20 @@
       ]
     },
     {
+      "id": "booster-t1-2025",
+      "name": "Booster T1",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "educational-softhand-a-2025",
       "name": "Educational SoftHand-A",
       "year": "2025",
       "corpus": "academic",
       "ancestors": [
+        "bristol-tactip-2017",
         "tactile-softhand-a-2025"
       ],
       "descendants": []

@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-arm"
 parent: "Invalidity Contentions"
-nav_order: 64
+nav_order: 69
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `mechanism-anthropomorphic-arm`  
-**Entries:** 6 (5 commons-grade, 1 draft)  
-**Earliest disclosure:** 2016-04  
+**Entries:** 9 (7 commons-grade, 2 draft)  
+**Earliest disclosure:** 2009-12  
 **Most recent disclosure:** 2025-02
 
 ---
@@ -39,6 +39,28 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2009-12 — Modular Prosthetic Limb (MPL)
+
+- **id:** `apl-mpl-revolutionizing-prosthetics-2009`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** JHU Applied Physics Laboratory; led under DARPA Revolutionizing Prosthetics program (Geoffrey Ling DARPA PM)
+- **disclosure citation:** Johns Hopkins Applied Physics Laboratory. Modular Prosthetic Limb (MPL) v1.0 completed December 2009 under DARPA Revolutionizing Prosthetics program (2006-present). Johnson, M. J. et al. clinical evaluation: Scientific Reports 11 (2021). DARPA + APL + Johns Hopkins Medicine + multiple consortium partners.
+- **disclosed subsystems:** `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `sensing-tactile`, `sensing-fingertip-tactile`, `control-bci`, `control-prosthetic-control`
+
+**Prior art notes:**
+
+> The Modular Prosthetic Limb is the canonical sophisticated anthropomorphic prosthetic arm + hand from the DARPA Revolutionizing Prosthetics program (APL/JHU 2009+). 16-year-deep public-domain prior art for: 25-DoF anthropomorphic arm-and-hand at human-limb mass, integrated 100+-sensor tactile/position/force network, BCI-controlled prosthetic operation. Direct shielding for any commercial humanoid claim on anthropomorphic arm + hand integration. Particularly relevant for Tesla Optimus Gen 3 (round-15 entry, 22-DoF hands × 50 actuators) — the MPL's 25-DoF arm-and-hand at 100+ sensors establishes 16-year-deep prior art at the architectural level.
+
+**Sources:**
+
+1. JHU APL Revolutionizing Prosthetics page (jhuapl.edu/work/projects-and-missions/revolutionizing-prosthetics).
+2. DARPA Revolutionizing Prosthetics page (darpa.mil/research/programs/revolutionizing-prosthetics).
+3. Johnson et al. Scientific Reports 11 2021 ('Clinical evaluation of the Revolutionizing Prosthetics modular prosthetic limb system').
+4. Bridges, M. M. et al. 'The Modular Prosthetic Limb: A Year of Operational Experience' (APL Tech Digest 2011).
+
+---
 
 ### 2016-04 — OceanOne
 
@@ -145,6 +167,49 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-04 — Astribot S1
+
+- **id:** `astribot-s1-stardust-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Stardust Intelligence (Shenzhen, China)
+- **disclosure citation:** Stardust Intelligence (Shenzhen, China; founded December 2022). Astribot S1 reveal April 2024 via stardust-tech.com / astribot.com demo videos showing 10 m/s arm motion. Stardust Intelligence Astribot Suite paper July 2025 (peer-reviewed; teleop + DuoCore-WB imitation learning achieving 80% task success). Commercial availability late 2025+ in China.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `actuator-electric`, `control-imitation-learning`, `control-foundation-model-policy`
+
+**Prior art notes:**
+
+> Astribot S1 is one of the canonical 2024-2025 Chinese commercial humanoid platforms (Stardust Intelligence). 1.5-year-deep public-disclosure prior art for: ≥10 m/s anthropomorphic arm motion (claimed industry-leading), 36-DoF whole-body humanoid, DuoCore-WB whole-body IL framework. Direct shielding for any commercial humanoid claim on extreme arm-speed performance — Astribot's April 2024 viral demo set the public benchmark. Claim surface is peer-reviewed (Astribot Suite paper July 2025), unlike most Chinese commercial humanoid platforms.
+
+**Sources:**
+
+1. Stardust Intelligence corporate site (stardust-tech.com / astribot.com).
+2. Astribot Suite paper July 2025 (peer-reviewed; venue TBV).
+3. Humanoid Press product database (humanoid.press/database/database-astribot-s1).
+4. Origin of Bots, RobotsLATAM, Mike Kalil coverage 2024-2026.
+
+---
+
+### 2024-09 — Galbot *(draft)*
+
+- **id:** `galbot-galaxy-robotics-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Galaxy Robotics (Beijing, China)
+- **disclosure citation:** Galaxy Robotics (Beijing, China). Galbot platform reveal 2024 via galaxy-robotics.com / WAIC 2024 demonstration. Wheeled humanoid with telescoping torso lift + dual 7-DoF arms. ~CNY 500k initial commercial price.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-anthropomorphic-arm`, `mechanism-telescoping-mast`, `actuator-electric`
+
+**Prior art notes:**
+
+> Galbot is the canonical 2024 Chinese wheeled-humanoid commercial platform (Galaxy Robotics). 1.5-year-deep public-disclosure prior art for: telescoping-torso wheeled humanoid commercial deployment, dual-arm wheeled mobile manipulator at the educational-to-commercial price tier. Architectural sibling of Hello Robot Stretch (round-17 entry) but with humanoid-form dual-arm + telescoping-torso vs. Stretch's single-arm + mast. Direct shielding for any commercial humanoid claim on wheeled-humanoid (non-bipedal) form factor with telescoping vertical adjustment. **Directly relevant to free-humanoid-wheeled** — Galbot is the closest commercial product to that morphology.
+
+**Sources:**
+
+1. Galaxy Robotics corporate site (galaxy-robotics.com).
+2. WAIC 2024 demonstration coverage.
+3. Humanoid Press product database.
+
+---
+
 ### 2025-02 — ToddlerBot
 
 - **id:** `stanford-toddlerbot-2025`
@@ -197,4 +262,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*

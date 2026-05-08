@@ -1,7 +1,7 @@
 ---
 title: "sensing-fingertip-tactile"
 parent: "Invalidity Contentions"
-nav_order: 92
+nav_order: 101
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `sensing-fingertip-tactile`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
-**Earliest disclosure:** 2020-05  
+**Entries:** 5 (4 commons-grade, 1 draft)  
+**Earliest disclosure:** 2009-12  
 **Most recent disclosure:** 2025-10
 
 ---
@@ -39,6 +39,49 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2009-12 — Modular Prosthetic Limb (MPL)
+
+- **id:** `apl-mpl-revolutionizing-prosthetics-2009`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** JHU Applied Physics Laboratory; led under DARPA Revolutionizing Prosthetics program (Geoffrey Ling DARPA PM)
+- **disclosure citation:** Johns Hopkins Applied Physics Laboratory. Modular Prosthetic Limb (MPL) v1.0 completed December 2009 under DARPA Revolutionizing Prosthetics program (2006-present). Johnson, M. J. et al. clinical evaluation: Scientific Reports 11 (2021). DARPA + APL + Johns Hopkins Medicine + multiple consortium partners.
+- **disclosed subsystems:** `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `sensing-tactile`, `sensing-fingertip-tactile`, `control-bci`, `control-prosthetic-control`
+
+**Prior art notes:**
+
+> The Modular Prosthetic Limb is the canonical sophisticated anthropomorphic prosthetic arm + hand from the DARPA Revolutionizing Prosthetics program (APL/JHU 2009+). 16-year-deep public-domain prior art for: 25-DoF anthropomorphic arm-and-hand at human-limb mass, integrated 100+-sensor tactile/position/force network, BCI-controlled prosthetic operation. Direct shielding for any commercial humanoid claim on anthropomorphic arm + hand integration. Particularly relevant for Tesla Optimus Gen 3 (round-15 entry, 22-DoF hands × 50 actuators) — the MPL's 25-DoF arm-and-hand at 100+ sensors establishes 16-year-deep prior art at the architectural level.
+
+**Sources:**
+
+1. JHU APL Revolutionizing Prosthetics page (jhuapl.edu/work/projects-and-missions/revolutionizing-prosthetics).
+2. DARPA Revolutionizing Prosthetics page (darpa.mil/research/programs/revolutionizing-prosthetics).
+3. Johnson et al. Scientific Reports 11 2021 ('Clinical evaluation of the Revolutionizing Prosthetics modular prosthetic limb system').
+4. Bridges, M. M. et al. 'The Modular Prosthetic Limb: A Year of Operational Experience' (APL Tech Digest 2011).
+
+---
+
+### 2017-04 — TacTip (vision-based tactile sensor)
+
+- **id:** `bristol-tactip-2017`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Bristol Robotics Laboratory; Nathan Lepora group
+- **disclosure citation:** Ward-Cherrier, B., Pestell, N., Cramphorn, L., Winstone, B., Giannaccini, M. E., Rossiter, J., Lepora, N. F. 'The TacTip Family: Soft Optical Tactile Sensors with 3D-Printed Biomimetic Morphologies'. Soft Robotics 5(2) 2018; arXiv:1803.04922. Bristol Robotics Laboratory (Lepora group).
+- **disclosed subsystems:** `sensing-tactile-vision-based`, `sensing-fingertip-tactile`, `actuator-soft-elastomeric`
+
+**Prior art notes:**
+
+> TacTip is the canonical academic vision-based tactile sensor with 3D-printed biomimetic skin (Lepora group Bristol, 2017+). 8-year-deep open-permissive prior art predating Meta DIGIT (round-16, 2020) by 3 years; predates GelSight commercialization by ~6 years. **The architectural ancestor of Tactile SoftHand-A (round-11, 2024) and Educational SoftHand-A (round-12, 2025)** — both Lepora-group successors integrating TacTip at fingertips. Direct shielding for any commercial humanoid claim on biomimetic-papillae tactile fingertips. Tesla Optimus Gen 3's 'tactile fingertip sensors' claim faces TacTip + DIGIT + GelSight + ReSkin as three modality-distinct prior-art chains.
+
+**Sources:**
+
+1. Ward-Cherrier et al. Soft Robotics 5(2) 2018; arXiv:1803.04922.
+2. Lepora group publications (lepora.com).
+3. TacTip GitHub + open-hardware build instructions.
+
+---
 
 ### 2020-05 — DIGIT (Meta tactile sensor)
 
@@ -137,4 +180,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*

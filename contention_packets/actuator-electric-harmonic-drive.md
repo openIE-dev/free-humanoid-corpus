@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `actuator-electric-harmonic-drive`  
-**Entries:** 21 (18 commons-grade, 3 draft)  
+**Entries:** 22 (19 commons-grade, 3 draft)  
 **Earliest disclosure:** 1986  
 **Most recent disclosure:** 2025-10
 
@@ -439,6 +439,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-04 — Atlas Electric (Boston Dynamics)
+
+- **id:** `boston-dynamics-atlas-electric-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Boston Dynamics (Hyundai subsidiary since 2021)
+- **disclosure citation:** Boston Dynamics. 'An Electric New Era for Atlas' announcement April 17 2024 via boston-dynamics.com (replacing the hydraulic Atlas, which retired April 16 2024). Subsequent capability demonstrations 2024-2025 including Hyundai factory deployment preparation. Trade-secret commercial humanoid platform.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-super-human-range-of-motion`, `actuator-electric`, `actuator-electric-harmonic-drive`
+
+**Prior art notes:**
+
+> Atlas Electric is Boston Dynamics' canonical 2024+ commercial all-electric humanoid (succeeding the 11-year hydraulic Atlas lineage). 1.5-year-deep public-disclosure prior art for: super-human range-of-motion humanoid joint design, all-electric humanoid form factor at compact mass. Public capability surface (viral demo videos) is fully covered by deeper academic prior art chains: HRP-2/HRP-4/HRP-5P (full-size humanoid lineage); Berkeley Humanoid + ToddlerBot (round-11, all-electric humanoid); the Hwangbo ANYmal sim-to-real lineage for the RL training substrate. **Specific super-human-ROM joint kinematics** are the architectural distinction; corpus has Salisbury / DLR / Pisa-IIT joint mechanism prior art back to 1982 for kinematic ranges that exceed standard anthropomorphic humanoids.
+
+**Sources:**
+
+1. Boston Dynamics 'An Electric New Era for Atlas' April 17 2024 (bostondynamics.com/atlas/an-electric-new-era-for-atlas).
+2. Boston Dynamics YouTube channel (Atlas Electric demonstration videos 2024-2025).
+3. Hyundai partnership announcements.
+
+---
+
 ### 2025-10 — Unitree H2 *(draft)*
 
 - **id:** `unitree-h2`
@@ -488,4 +509,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*

@@ -1,6 +1,6 @@
 # Corpus Index
 
-411 entries total. Generated from corpus.jsonl.
+426 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -32,10 +32,12 @@
 | ASIMO | `asimo` | 2000 | private | patented |  |
 | Asimov positronic robots | `asimov-positronic-robots` | 1940 | fictional | fictional |  |
 | Asimov's Zeroth Law | `asimovs-zeroth-law` | 1985 | fictional | fictional |  |
+| Astribot S1 | `astribot-s1-stardust-2025` | 2024 | private | trade-secret |  |
 | Astro Boy | `astro-boy` | 1952 | fictional | fictional | ✓ |
 | Atlas | `atlas-boston-dynamics` | 2013 | private | patented | ✓ |
 | Atlas academic publications (Kuindersma et al., DRC era) | `atlas-academic-disclosures` | 2014 | academic | public-domain |  |
 | Atlas and P-Body (Portal 2) | `atlas-p-body-portal-2` | 2011 | fictional | fictional |  |
+| Atlas Electric (Boston Dynamics) | `boston-dynamics-atlas-electric-2024` | 2024 | private | trade-secret |  |
 | ATRIAS | `atrias` | 2013 | academic | open-permissive |  |
 | AV-98 Ingram | `patlabor-av-98` | 1988 | fictional | fictional |  |
 | Ava (Ex Machina) | `ex-machina-ava` | 2014 | fictional | fictional |  |
@@ -57,10 +59,12 @@
 | Bluefin-21 AUV | `bluefin-21-auv` | 2003 | private | trade-secret |  |
 | Bokurano (Zearth, child-piloted consent-architecture mecha) | `bokurano-2004` | 2004 | fictional | fictional |  |
 | Booster K1 | `booster-k1-2025` | 2025 | private | trade-secret |  |
+| Booster T1 | `booster-t1-2025` | 2025 | private | trade-secret | ✓ |
 | Borg Collective (Star Trek TNG) | `borg-tng-1989` | 1989 | fictional | fictional |  |
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
 | Boston Dynamics Spot (fuel-cell variant) | `spot-fuel-cell` | 2020 | private | patented | ✓ |
 | Boston Dynamics SpotMini | `boston-dynamics-spotmini-2017` | 2016 | private | trade-secret |  |
+| BrainGate | `braingate-donoghue-2002` | 2002 | academic | open-permissive |  |
 | Brainiac | `dc-brainiac-1958` | 1958 | fictional | fictional |  |
 | BridgeData V2 multi-robot trajectory dataset | `bridgedata-v2-walke-2023` | 2023 | academic | public-domain |  |
 | Brockett's Necessary Condition for Stabilizability | `brockett-condition-1983` | 1983 | academic | public-domain |  |
@@ -94,6 +98,7 @@
 | Data | `data-tng` | 1987 | fictional | fictional |  |
 | David and Walter (Alien franchise synthetics) | `david-prometheus-walter-covenant` | 2012 | fictional | fictional |  |
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
+| DeepMind humanoid soccer (Haarnoja et al.) | `deepmind-humanoid-soccer-haarnoja-2024` | 2024 | academic | open-permissive |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
 | DexMV (Dexterous Manipulation from Videos) | `dexmv-qin-cvpr-2022` | 2021 | academic | open-permissive |  |
 | DGS-SLAM | `dgs-slam-kong-2024` | 2024 | academic | open-permissive | ✓ |
@@ -130,11 +135,13 @@
 | Figure 02 | `figure-02` | 2024 | private | patented | ✓ |
 | Figure Helix | `figure-helix-2025` | 2025 | private | trade-secret |  |
 | FLORES wheel-legged robot | `flores-wheel-legged-2025` | 2025 | academic | open-permissive | ✓ |
+| Force Dimension Sigma.7 | `force-dimension-sigma7-2010s` | 2011 | private | trade-secret |  |
 | Fourier GR-1 | `fourier-gr1` | 2023 | private | patented | ✓ |
 | Fourier GR1 | `fourier-gr1-2024` | 2024 | private | trade-secret |  |
 | Frankenstein's Creature | `frankenstein` | 1818 | fictional | fictional |  |
 | Frost and Betelgeuse | `zelazny-frost-betelgeuse` | 1966 | fictional | fictional |  |
 | FSTAR (Flying STAR) | `fstar-zarrouk-2019` | 2019 | academic | open-permissive | ✓ |
+| Galbot | `galbot-galaxy-robotics-2024` | 2024 | private | trade-secret | ✓ |
 | Gato (DeepMind generalist agent) | `gato-deepmind` | 2022 | academic | open-permissive |  |
 | GE Quadruped Transporter (Walking Truck) | `ge-walking-truck` | 1968 | academic | public-domain |  |
 | GelSight | `gelsight` | 2009 | academic | open-permissive |  |
@@ -151,6 +158,7 @@
 | Hadaly (L'Ève future) | `l-eve-future` | 1886 | fictional | fictional |  |
 | HAL 9000 | `hal-9000` | 1968 | fictional | fictional |  |
 | Hamilton-Jacobi Reachability for Safe Control | `reachability-analysis-safe-control` | 2005 | academic | public-domain |  |
+| HaptX Gloves G1 | `haptx-gloves-g1-2022` | 2022 | private | trade-secret |  |
 | Harvard Soft Robotics Toolkit | `harvard-soft-robotics-toolkit-2017` | 2014 | academic | open-copyleft |  |
 | Hector (Saturn 3) | `saturn-3-hector` | 1980 | fictional | fictional |  |
 | Helen O'Loy | `helen-o-loy` | 1938 | fictional | fictional | ✓ |
@@ -158,6 +166,7 @@
 | Hindsight Experience Replay (HER) | `hindsight-experience-replay` | 2017 | academic | open-permissive |  |
 | HK-47 | `hk-47-kotor` | 2003 | fictional | fictional | ✓ |
 | Hollerbach Recursive Lagrangian Manipulator Dynamics | `hollerbach-manipulator-1980` | 1980 | academic | public-domain |  |
+| Honda Asimo / P-series patent cluster | `honda-asimo-patent-cluster` | 1996 | private | public-domain | ✓ |
 | Honda E0 | `honda-e0` | 1986 | private | trade-secret | ✓ |
 | Honda E1 | `honda-e1` | 1987 | private | trade-secret |  |
 | Honda E2 | `honda-e2` | 1989 | private | trade-secret |  |
@@ -221,6 +230,7 @@
 | Magma (Microsoft Multimodal Agent) | `microsoft-magma-cvpr-2025` | 2025 | academic | open-permissive |  |
 | Magnus, Robot Fighter (4000 A.D.) | `magnus-robot-fighter` | 1963 | fictional | fictional | ✓ |
 | Major Motoko Kusanagi (Ghost in the Shell) | `ghost-in-the-shell-major` | 1989 | fictional | fictional |  |
+| Manus Quantum Metagloves | `manus-quantum-metagloves-2023` | 2023 | private | trade-secret | ✓ |
 | Maschinenmensch | `metropolis-maschinenmensch` | 1927 | fictional | public-domain |  |
 | Mason Mechanics of Manipulation | `mason-mechanics-manipulation` | 1986 | academic | public-domain |  |
 | Mazinger Z | `mazinger-z` | 1972 | fictional | fictional |  |
@@ -237,6 +247,7 @@
 | MJOLNIR Powered Assault Armor / Master Chief | `halo-mjolnir-master-chief` | 2001 | fictional | fictional |  |
 | Mobile ALOHA | `mobile-aloha` | 2024 | academic | open-permissive |  |
 | MODOK | `modok-marvel` | 1967 | fictional | fictional | ✓ |
+| Modular Prosthetic Limb (MPL) | `apl-mpl-revolutionizing-prosthetics-2009` | 2009 | academic | public-domain |  |
 | Mr Sin (The Peking Homunculus) | `dr-who-mr-sin` | 1977 | fictional | fictional |  |
 | MuJoCo (original) | `mujoco-todorov-2012` | 2012 | academic | open-permissive |  |
 | MuJoCo MJX | `deepmind-mujoco-mjx-2023` | 2023 | academic | open-permissive |  |
@@ -246,6 +257,7 @@
 | NASA Valkyrie | `nasa-valkyrie` | 2013 | academic | open-permissive |  |
 | Nereus HROV | `nereus-hrov-2008` | 2008 | academic | public-domain |  |
 | Neura 4NE-1 | `neura-4ne1` | 2024 | private | patented | ✓ |
+| Neuralink | `neuralink-2017` | 2017 | private | trade-secret |  |
 | Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) | `gibson-neuromancer-constructs` | 1984 | fictional | fictional |  |
 | Number 5 / Johnny 5 | `number-5-short-circuit` | 1986 | fictional | fictional |  |
 | Number Six (Cylon Model Six) | `bsg-number-six` | 2003 | fictional | fictional |  |
@@ -334,6 +346,8 @@
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
 | Seaglider AUV | `seaglider-auv-2001` | 2001 | academic | open-permissive |  |
 | SemGauss-SLAM | `semgauss-slam-2024` | 2024 | academic | open-permissive | ✓ |
+| SensAble Phantom haptic device | `sensable-phantom-1994` | 1994 | private | trade-secret |  |
+| SenseGlove Nova 2 | `senseglove-nova-2-2023` | 2023 | private | trade-secret | ✓ |
 | Sentinels (X-Men) | `sentinels-marvel` | 1965 | fictional | fictional |  |
 | Sentis-Khatib Whole-Body Prioritized Task Control | `sentis-khatib-whole-body` | 2005 | academic | public-domain |  |
 | Shadow Dexterous Hand | `shadow-hand` | 2003 | private | patented |  |
@@ -361,6 +375,7 @@
 | T-800 | `t-800-terminator` | 1984 | fictional | fictional |  |
 | Tachikoma | `ghost-in-the-shell-tachikoma` | 2002 | fictional | fictional |  |
 | Tactile SoftHand-A | `tactile-softhand-a-2025` | 2024 | academic | open-permissive |  |
+| TacTip (vision-based tactile sensor) | `bristol-tactip-2017` | 2017 | academic | open-permissive |  |
 | Talos of Crete | `talos-bronze-giant` | -025 | fictional | fictional |  |
 | Talos Principle Robots | `talos-principle-robots` | 2014 | fictional | fictional |  |
 | Tan et al. Quadruped Sim-to-Real | `tan-quadruped-sim2real` | 2018 | academic | open-permissive |  |

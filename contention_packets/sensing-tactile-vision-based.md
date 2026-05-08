@@ -1,7 +1,7 @@
 ---
 title: "sensing-tactile-vision-based"
 parent: "Invalidity Contentions"
-nav_order: 101
+nav_order: 112
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `sensing-tactile-vision-based`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2020-05  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 2017-04  
 **Most recent disclosure:** 2024-06
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2017-04 — TacTip (vision-based tactile sensor)
+
+- **id:** `bristol-tactip-2017`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Bristol Robotics Laboratory; Nathan Lepora group
+- **disclosure citation:** Ward-Cherrier, B., Pestell, N., Cramphorn, L., Winstone, B., Giannaccini, M. E., Rossiter, J., Lepora, N. F. 'The TacTip Family: Soft Optical Tactile Sensors with 3D-Printed Biomimetic Morphologies'. Soft Robotics 5(2) 2018; arXiv:1803.04922. Bristol Robotics Laboratory (Lepora group).
+- **disclosed subsystems:** `sensing-tactile-vision-based`, `sensing-fingertip-tactile`, `actuator-soft-elastomeric`
+
+**Prior art notes:**
+
+> TacTip is the canonical academic vision-based tactile sensor with 3D-printed biomimetic skin (Lepora group Bristol, 2017+). 8-year-deep open-permissive prior art predating Meta DIGIT (round-16, 2020) by 3 years; predates GelSight commercialization by ~6 years. **The architectural ancestor of Tactile SoftHand-A (round-11, 2024) and Educational SoftHand-A (round-12, 2025)** — both Lepora-group successors integrating TacTip at fingertips. Direct shielding for any commercial humanoid claim on biomimetic-papillae tactile fingertips. Tesla Optimus Gen 3's 'tactile fingertip sensors' claim faces TacTip + DIGIT + GelSight + ReSkin as three modality-distinct prior-art chains.
+
+**Sources:**
+
+1. Ward-Cherrier et al. Soft Robotics 5(2) 2018; arXiv:1803.04922.
+2. Lepora group publications (lepora.com).
+3. TacTip GitHub + open-hardware build instructions.
+
+---
 
 ### 2020-05 — DIGIT (Meta tactile sensor)
 
@@ -114,4 +135,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*

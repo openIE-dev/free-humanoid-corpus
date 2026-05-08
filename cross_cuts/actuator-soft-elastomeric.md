@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-soft-elastomeric`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014-09
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Holland, D. P., Park, E. J., Polygerinos, P., Bennett, G. J., Walsh, C. J. 'The Soft Robotics Toolkit: Shared Resources for Research and Design'. Soft Robotics Vol. 1 No. 3 2014. Wood + Walsh groups, Harvard Biodesign Lab + Harvard Microrobotics Lab.
 - **ip status**: open-copyleft
 - **prior art notes**: The Harvard Soft Robotics Toolkit is the canonical open-academic soft-robotics fabrication library (Holland et al. Soft Robotics 1(3) 2014; Wood + Walsh group lineage). 11-year-deep open prior art for: elastomeric soft actuators (PneuNets, fiber-reinforced bending), soft sensors, complete fabrication recipes. Direct shielding for any commercial humanoid claim on soft-actuator fabrication or soft-sensor design. Particularly relevant for any future free-humanoid-soft variant.
+
+## TacTip (vision-based tactile sensor) (2017-04)
+
+- **id**: `bristol-tactip-2017`
+- **corpus**: academic
+- **creator**: Bristol Robotics Laboratory; Nathan Lepora group
+- **disclosure**: Ward-Cherrier, B., Pestell, N., Cramphorn, L., Winstone, B., Giannaccini, M. E., Rossiter, J., Lepora, N. F. 'The TacTip Family: Soft Optical Tactile Sensors with 3D-Printed Biomimetic Morphologies'. Soft Robotics 5(2) 2018; arXiv:1803.04922. Bristol Robotics Laboratory (Lepora group).
+- **ip status**: open-permissive
+- **prior art notes**: TacTip is the canonical academic vision-based tactile sensor with 3D-printed biomimetic skin (Lepora group Bristol, 2017+). 8-year-deep open-permissive prior art predating Meta DIGIT (round-16, 2020) by 3 years; predates GelSight commercialization by ~6 years. **The architectural ancestor of Tactile SoftHand-A (round-11, 2024) and Educational SoftHand-A (round-12, 2025)** — both Lepora-group successors integrating TacTip at fingertips. Direct shielding for any commercial humanoid claim on biomimetic-papillae tactile fingertips. Tesla Optimus Gen 3's 'tactile fingertip sensors' claim faces TacTip + DIGIT + GelSight + ReSkin as three modality-distinct prior-art chains.
 
 ## ReSkin (magnetic tactile skin) (2021-11)
 

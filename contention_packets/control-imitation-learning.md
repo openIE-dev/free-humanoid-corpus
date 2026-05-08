@@ -1,7 +1,7 @@
 ---
 title: "control-imitation-learning"
 parent: "Invalidity Contentions"
-nav_order: 32
+nav_order: 34
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-imitation-learning`  
-**Entries:** 12 (12 commons-grade, 0 draft)  
+**Entries:** 13 (13 commons-grade, 0 draft)  
 **Earliest disclosure:** 2019-09  
 **Most recent disclosure:** 2025-02
 
@@ -141,6 +141,28 @@ cite, copy, or redistribute these contentions.
 1. Ze et al. arXiv:2403.03954 RSS 2024.
 2. Project page (3d-diffusion-policy.github.io).
 3. GitHub: github.com/YanjieZe/3D-Diffusion-Policy.
+
+---
+
+### 2024-04 — Astribot S1
+
+- **id:** `astribot-s1-stardust-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Stardust Intelligence (Shenzhen, China)
+- **disclosure citation:** Stardust Intelligence (Shenzhen, China; founded December 2022). Astribot S1 reveal April 2024 via stardust-tech.com / astribot.com demo videos showing 10 m/s arm motion. Stardust Intelligence Astribot Suite paper July 2025 (peer-reviewed; teleop + DuoCore-WB imitation learning achieving 80% task success). Commercial availability late 2025+ in China.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `actuator-electric`, `control-imitation-learning`, `control-foundation-model-policy`
+
+**Prior art notes:**
+
+> Astribot S1 is one of the canonical 2024-2025 Chinese commercial humanoid platforms (Stardust Intelligence). 1.5-year-deep public-disclosure prior art for: ≥10 m/s anthropomorphic arm motion (claimed industry-leading), 36-DoF whole-body humanoid, DuoCore-WB whole-body IL framework. Direct shielding for any commercial humanoid claim on extreme arm-speed performance — Astribot's April 2024 viral demo set the public benchmark. Claim surface is peer-reviewed (Astribot Suite paper July 2025), unlike most Chinese commercial humanoid platforms.
+
+**Sources:**
+
+1. Stardust Intelligence corporate site (stardust-tech.com / astribot.com).
+2. Astribot Suite paper July 2025 (peer-reviewed; venue TBV).
+3. Humanoid Press product database (humanoid.press/database/database-astribot-s1).
+4. Origin of Bots, RobotsLATAM, Mike Kalil coverage 2024-2026.
 
 ---
 
@@ -326,4 +348,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*

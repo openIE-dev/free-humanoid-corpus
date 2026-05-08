@@ -1,7 +1,7 @@
 ---
 title: "control-bilateral-teleop-haptic"
 parent: "Invalidity Contentions"
-nav_order: 20
+nav_order: 21
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-07  
 **Cross-cut tag:** `control-bilateral-teleop-haptic`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2016-04  
-**Most recent disclosure:** 2022-07
+**Entries:** 4 (4 commons-grade, 0 draft)  
+**Earliest disclosure:** 2011-06  
+**Most recent disclosure:** 2022-10
 
 ---
 
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2011-06 — Force Dimension Sigma.7
+
+- **id:** `force-dimension-sigma7-2010s`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Force Dimension SA (Lausanne, EPFL spinout); founded by Sébastien Grange + colleagues
+- **disclosure citation:** Force Dimension SA (Lausanne, Switzerland; EPFL spinout). Sigma.7 haptic master controller product reveal ~2011 (after the Omega.x and Delta.x predecessor lines). EPFL Computational Robotics Lab spinout 2001. forcedimension.com.
+- **disclosed subsystems:** `control-haptic-rendering`, `control-bilateral-teleop-haptic`, `mechanism-parallel-kinematic-haptic`
+
+**Prior art notes:**
+
+> The Force Dimension Sigma.7 is the canonical research-grade 7-DoF haptic master (~2011+). 14-year-deep public-disclosure prior art for: grasp-active 7-DoF haptic master, delta-kinematic parallel-mechanism haptic base, sub-millimeter / >1 kHz haptic rendering. **The OceanOne (round-9) and OceanOneK (round-9) academic publications explicitly use Sigma.7 as the bilateral-teleop master** — round-18 entry resolves that integration citation. Direct shielding for any commercial humanoid claim on bilateral haptic teleop or research-grade haptic-master controllers. Together with the SensAble Phantom (round-18 entry above), establishes the 32-year stylus-based haptic-master prior-art chain.
+
+**Sources:**
+
+1. Force Dimension corporate site (forcedimension.com).
+2. Khatib et al. OceanOne IEEE RAM 2016 (uses Sigma.7).
+
+---
 
 ### 2016-04 — OceanOne
 
@@ -82,6 +102,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-10 — HaptX Gloves G1
+
+- **id:** `haptx-gloves-g1-2022`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** HaptX Inc. (Redmond, WA; founded 2012)
+- **disclosure citation:** HaptX Inc. Gloves G1 commercial reveal October 2022 via haptx.com / press releases. Successor to research-targeted DK1 (2018) and DK2 (2021). Public technical spec sheet Rev 1.4 (2024) at docs.haptx.com.
+- **disclosed subsystems:** `control-haptic-rendering`, `actuator-microfluidic`, `sensing-hand-pose-tracking`, `control-bilateral-teleop-haptic`
+
+**Prior art notes:**
+
+> HaptX G1 is the canonical 2022+ commercial high-fidelity haptic glove. 3-year-deep public-disclosure prior art for: microfluidic tactile actuators in glove form factor, integrated tactile + force-feedback + hand-pose tracking. Direct shielding for any commercial humanoid teleop claim on glove-based haptic feedback. Architectural successor to the SensAble Phantom (stylus-based) and Force Dimension Sigma.7 (master-controller-based) lineages — HaptX adds the wearable glove form factor.
+
+**Sources:**
+
+1. HaptX corporate site (haptx.com).
+2. HaptX G1 spec sheet Rev 1.4 (docs.haptx.com).
+3. Freethink, XR Today, Magnetics Magazine coverage 2022-2024.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -112,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `5228ded`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `3119648`.*
