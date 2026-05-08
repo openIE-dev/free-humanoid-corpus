@@ -1,7 +1,7 @@
 ---
 title: "mechanism-mobile-base"
 parent: "Invalidity Contentions"
-nav_order: 118
+nav_order: 121
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-mobile-base`  
-**Entries:** 8 (3 commons-grade, 5 draft)  
+**Entries:** 9 (4 commons-grade, 5 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2024-09
 
@@ -163,6 +163,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-01 — Boston Dynamics Stretch (warehouse robot)
+
+- **id:** `boston-dynamics-stretch-warehouse-2022`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Boston Dynamics (Hyundai subsidiary)
+- **disclosure citation:** Boston Dynamics. Stretch warehouse robot commercial reveal January 2022 via boston-dynamics.com. Distinct from Hello Robot Stretch (corpus entry hello-robot-stretch-2020). DHL Supply Chain partnership announced 2022 for case-handling deployment.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-manipulator-arm`, `mechanism-telescoping-mast`, `actuator-electric`
+
+**Prior art notes:**
+
+> Boston Dynamics Stretch (BD warehouse robot, 2022+) is a canonical industrial warehouse case-handling robot. 3-year-deep public-disclosure prior art. **Distinct from Hello Robot Stretch (round-17 entry hello-robot-stretch-2020)** — BD Stretch is industrial warehouse-deployment focused, Hello Robot Stretch is educational mobile-manipulator focused. Both use telescoping form factors. Direct shielding for any commercial humanoid claim on warehouse case-handling derivative applications.
+
+**Sources:**
+
+1. Boston Dynamics Stretch product page (bostondynamics.com/products/stretch).
+2. DHL Supply Chain announcement 2022.
+
+---
+
 ### 2024-09 — Galbot *(draft)*
 
 - **id:** `galbot-galaxy-robotics-2024`
@@ -233,4 +253,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*

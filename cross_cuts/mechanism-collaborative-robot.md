@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-collaborative-robot`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2002-01
+Earliest disclosure: 1956-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## FANUC industrial robotics (1956-01)
+
+- **id**: `fanuc-industrial-robotics-1956`
+- **corpus**: private
+- **creator**: FANUC Corporation (Yamanashi, Japan; Fujitsu spinout)
+- **disclosure**: FANUC Corporation (Oshino-mura, Yamanashi, Japan; founded 1956 as Fuji Communication Apparatus Co., spun out of Fujitsu 1972 as FANUC Ltd.). Industrial robot product line: M-series, R-series, LR Mate, CRX cobot series. **The largest industrial robot company in the world by deployed-unit count** (~750,000 units cumulative).
+- **ip status**: trade-secret
+- **prior art notes**: FANUC (founded 1956 as Fujitsu spinout; FANUC Ltd 1972) is the world's largest industrial robot company by deployed units. 70-year-deep public-disclosure prior art across multi-product industrial-arm + cobot lineage. ~750,000 units cumulative. Direct shielding for any commercial humanoid claim that includes industrial-arm derivative applications. Together with SCARA (round-32), Universal Robots (round-24), Doosan (round-22), KUKA, ABB, Yaskawa, establishes the industrial-robot prior-art chain spanning 1956-2026.
 
 ## A*STAR Institute for Infocomm Research (I2R) robotics (2002-01)
 

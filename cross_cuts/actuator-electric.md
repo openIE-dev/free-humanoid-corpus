@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**24 corpus entries disclose this subsystem.**
+**26 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1979-01
+Earliest disclosure: 1956-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## FANUC industrial robotics (1956-01)
+
+- **id**: `fanuc-industrial-robotics-1956`
+- **corpus**: private
+- **creator**: FANUC Corporation (Yamanashi, Japan; Fujitsu spinout)
+- **disclosure**: FANUC Corporation (Oshino-mura, Yamanashi, Japan; founded 1956 as Fuji Communication Apparatus Co., spun out of Fujitsu 1972 as FANUC Ltd.). Industrial robot product line: M-series, R-series, LR Mate, CRX cobot series. **The largest industrial robot company in the world by deployed-unit count** (~750,000 units cumulative).
+- **ip status**: trade-secret
+- **prior art notes**: FANUC (founded 1956 as Fujitsu spinout; FANUC Ltd 1972) is the world's largest industrial robot company by deployed units. 70-year-deep public-disclosure prior art across multi-product industrial-arm + cobot lineage. ~750,000 units cumulative. Direct shielding for any commercial humanoid claim that includes industrial-arm derivative applications. Together with SCARA (round-32), Universal Robots (round-24), Doosan (round-22), KUKA, ABB, Yaskawa, establishes the industrial-robot prior-art chain spanning 1956-2026.
 
 ## SCARA (Selective Compliance Articulated Robot Arm) (1979-01)
 
@@ -140,6 +149,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hello Robot, Inc. 'Stretch: A Versatile Mobile Manipulator'. Public reveal July 2020 via hello-robot.com. Founded by Charles Kemp (Georgia Tech Healthcare Robotics Lab spinout) and Aaron Edsinger. Subsequent product generations: Stretch RE1 (2020), RE2 (2021), Stretch 3 (2024). Used as the deployment platform in LEGS (round-15 entry legs-berkeley-2024) and many other academic mobile-manipulation projects.
 - **ip status**: trade-secret
 - **prior art notes**: Hello Robot Stretch is the canonical sub-\$25k educational mobile manipulator (2020). 5-year-deep public-disclosure prior art with 100+ academic publications using Stretch as the deployment platform. Direct shielding for any commercial mobile-manipulator claim at the educational price point or with the telescoping-mast architectural pattern. Notably **the Berkeley LEGS round-15 entry deployed on Stretch** — the round-15 entry's prior_art_notes implicitly reference Stretch as the platform; round-17 now resolves that reference. Architecturally distinct from humanoid-form mobile manipulators (Apptronik, Figure, Optimus): Stretch is single-arm + mast + wheels, not bipedal + bimanual.
+
+## Boston Dynamics Stretch (warehouse robot) (2022-01)
+
+- **id**: `boston-dynamics-stretch-warehouse-2022`
+- **corpus**: private
+- **creator**: Boston Dynamics (Hyundai subsidiary)
+- **disclosure**: Boston Dynamics. Stretch warehouse robot commercial reveal January 2022 via boston-dynamics.com. Distinct from Hello Robot Stretch (corpus entry hello-robot-stretch-2020). DHL Supply Chain partnership announced 2022 for case-handling deployment.
+- **ip status**: trade-secret
+- **prior art notes**: Boston Dynamics Stretch (BD warehouse robot, 2022+) is a canonical industrial warehouse case-handling robot. 3-year-deep public-disclosure prior art. **Distinct from Hello Robot Stretch (round-17 entry hello-robot-stretch-2020)** — BD Stretch is industrial warehouse-deployment focused, Hello Robot Stretch is educational mobile-manipulator focused. Both use telescoping form factors. Direct shielding for any commercial humanoid claim on warehouse case-handling derivative applications.
 
 ## Astribot S1 (2024-04)
 

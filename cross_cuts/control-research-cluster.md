@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-research-cluster`
 
-**37 corpus entries disclose this subsystem.**
+**39 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -347,3 +347,21 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Zewail City of Science and Technology (6th of October City, Egypt). Founded November 2011 by Egyptian-American Nobel laureate Ahmed Zewail (1999 Chemistry); president of the Zewail Foundation. Center for Robotics + AI established within the city's research framework. zewailcity.edu.eg.
 - **ip status**: open-permissive
 - **prior art notes**: Zewail City is Egypt's flagship privately-founded research institution (founded 2011 by Nobel laureate Ahmed Zewail). **First entry in the corpus from Egypt** — closes a major MENA + African gap. Together with KAUST Saudi Arabia (round-23) and UCT South Africa (round-23), establishes the African + MENA robotics prior-art baseline. Aggregator-style.
+
+## Baidu Apollo (autonomous driving — distinct from Apptronik humanoid) (2017-04)
+
+- **id**: `baidu-apollo-self-driving-2017`
+- **corpus**: private
+- **creator**: Baidu Inc. (Beijing, China)
+- **disclosure**: Baidu Inc. (Beijing, China). Apollo open-source autonomous driving platform announced April 2017. apollo.baidu.com. **Note: this is the Baidu Apollo autonomous-vehicle platform, distinct from Apptronik Apollo humanoid robot (corpus entry apptronik-apollo)** — both confusingly share the name 'Apollo'.
+- **ip status**: open-permissive
+- **prior art notes**: Baidu Apollo (Baidu Beijing 2017+) is the Chinese open-source autonomous-vehicle platform. 8-year-deep open-permissive prior art. **Distinct from Apptronik Apollo humanoid (corpus entry apptronik-apollo) by application + architecture** — both share the 'Apollo' name only by coincidence. Direct shielding for any commercial humanoid claim that derives perception or planning from autonomous-vehicle stacks (which the Tesla Optimus FSD lineage explicitly does).
+
+## Tencent Robotics X Lab (2018-09)
+
+- **id**: `tencent-robotics-x-lab-2018`
+- **corpus**: private
+- **creator**: Tencent Holdings (Shenzhen, China)
+- **disclosure**: Tencent Robotics X (Shenzhen, China). Founded September 2018 as Tencent's robotics research division. Notable products: Max (quadruped 2021), Booster (bipedal 2022 — distinct from Booster Robotics), Smart Lab automation.
+- **ip status**: trade-secret
+- **prior art notes**: Tencent Robotics X (Shenzhen 2018+) is one of China's major commercial robotics divisions. Aggregator-style entry. Together with Tsinghua (round-26) + SJTU (round-26) + CASIA (round-29) + BIT (round-29), brings explicit Chinese robotics ecosystem representation to a 5-pillar mix of commercial + academic + national-research.

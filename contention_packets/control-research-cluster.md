@@ -1,7 +1,7 @@
 ---
 title: "control-research-cluster"
 parent: "Invalidity Contentions"
-nav_order: 81
+nav_order: 84
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-research-cluster`  
-**Entries:** 37 (2 commons-grade, 35 draft)  
+**Entries:** 39 (3 commons-grade, 36 draft)  
 **Earliest disclosure:** 2000-01  
-**Most recent disclosure:** 2011-11
+**Most recent disclosure:** 2018-09
 
 ---
 
@@ -777,6 +777,45 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-04 — Baidu Apollo (autonomous driving — distinct from Apptronik humanoid)
+
+- **id:** `baidu-apollo-self-driving-2017`
+- **corpus:** private
+- **ip status:** open-permissive
+- **creator:** Baidu Inc. (Beijing, China)
+- **disclosure citation:** Baidu Inc. (Beijing, China). Apollo open-source autonomous driving platform announced April 2017. apollo.baidu.com. **Note: this is the Baidu Apollo autonomous-vehicle platform, distinct from Apptronik Apollo humanoid robot (corpus entry apptronik-apollo)** — both confusingly share the name 'Apollo'.
+- **disclosed subsystems:** `control-autonomous-driving`, `control-multimodal-sensor-fusion`, `control-research-cluster`
+
+**Prior art notes:**
+
+> Baidu Apollo (Baidu Beijing 2017+) is the Chinese open-source autonomous-vehicle platform. 8-year-deep open-permissive prior art. **Distinct from Apptronik Apollo humanoid (corpus entry apptronik-apollo) by application + architecture** — both share the 'Apollo' name only by coincidence. Direct shielding for any commercial humanoid claim that derives perception or planning from autonomous-vehicle stacks (which the Tesla Optimus FSD lineage explicitly does).
+
+**Sources:**
+
+1. Baidu Apollo platform site (apollo.baidu.com).
+2. GitHub: github.com/ApolloAuto/apollo.
+
+---
+
+### 2018-09 — Tencent Robotics X Lab *(draft)*
+
+- **id:** `tencent-robotics-x-lab-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Tencent Holdings (Shenzhen, China)
+- **disclosure citation:** Tencent Robotics X (Shenzhen, China). Founded September 2018 as Tencent's robotics research division. Notable products: Max (quadruped 2021), Booster (bipedal 2022 — distinct from Booster Robotics), Smart Lab automation.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-quadrupedal-locomotion`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> Tencent Robotics X (Shenzhen 2018+) is one of China's major commercial robotics divisions. Aggregator-style entry. Together with Tsinghua (round-26) + SJTU (round-26) + CASIA (round-29) + BIT (round-29), brings explicit Chinese robotics ecosystem representation to a 5-pillar mix of commercial + academic + national-research.
+
+**Sources:**
+
+1. Tencent Robotics X corporate site (roboticsx.tencent.com).
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -807,4 +846,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*

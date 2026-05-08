@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-manipulator-arm`
 
-**18 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1964-06
+Earliest disclosure: 1956-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## FANUC industrial robotics (1956-01)
+
+- **id**: `fanuc-industrial-robotics-1956`
+- **corpus**: private
+- **creator**: FANUC Corporation (Yamanashi, Japan; Fujitsu spinout)
+- **disclosure**: FANUC Corporation (Oshino-mura, Yamanashi, Japan; founded 1956 as Fuji Communication Apparatus Co., spun out of Fujitsu 1972 as FANUC Ltd.). Industrial robot product line: M-series, R-series, LR Mate, CRX cobot series. **The largest industrial robot company in the world by deployed-unit count** (~750,000 units cumulative).
+- **ip status**: trade-secret
+- **prior art notes**: FANUC (founded 1956 as Fujitsu spinout; FANUC Ltd 1972) is the world's largest industrial robot company by deployed units. 70-year-deep public-disclosure prior art across multi-product industrial-arm + cobot lineage. ~750,000 units cumulative. Direct shielding for any commercial humanoid claim that includes industrial-arm derivative applications. Together with SCARA (round-32), Universal Robots (round-24), Doosan (round-22), KUKA, ABB, Yaskawa, establishes the industrial-robot prior-art chain spanning 1956-2026.
 
 ## DSV Alvin (1964-06)
 
@@ -167,6 +176,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Memic Innovative Surgery, Ltd. (Tel Aviv, Israel; now Momentis Surgical). FDA De Novo authorization March 1 2021 for transvaginal hysterectomy and salpingectomy/oophorectomy. memicmed.com / momentissurgical.com.
 - **ip status**: trade-secret
 - **prior art notes**: Memic Hominis (FDA De Novo March 2021) is a canonical anthropomorphic-arm-kinematics surgical robotic system. 4-year-deep public-disclosure prior art for: humanoid-style (shoulder+elbow+wrist) surgical-arm kinematics, natural-orifice robotic surgery. Direct shielding for any commercial humanoid claim on anthropomorphic-arm-derivative surgical applications or natural-orifice manipulation. Together with da Vinci and Vicarious Surgical, establishes a 25-year commercial robotic-surgery prior-art chain that anticipates humanoid-form manipulator architectures from a different industrial vertical.
+
+## Boston Dynamics Stretch (warehouse robot) (2022-01)
+
+- **id**: `boston-dynamics-stretch-warehouse-2022`
+- **corpus**: private
+- **creator**: Boston Dynamics (Hyundai subsidiary)
+- **disclosure**: Boston Dynamics. Stretch warehouse robot commercial reveal January 2022 via boston-dynamics.com. Distinct from Hello Robot Stretch (corpus entry hello-robot-stretch-2020). DHL Supply Chain partnership announced 2022 for case-handling deployment.
+- **ip status**: trade-secret
+- **prior art notes**: Boston Dynamics Stretch (BD warehouse robot, 2022+) is a canonical industrial warehouse case-handling robot. 3-year-deep public-disclosure prior art. **Distinct from Hello Robot Stretch (round-17 entry hello-robot-stretch-2020)** — BD Stretch is industrial warehouse-deployment focused, Hello Robot Stretch is educational mobile-manipulator focused. Both use telescoping form factors. Direct shielding for any commercial humanoid claim on warehouse case-handling derivative applications.
 
 ## OceanOneK (2022-07)
 

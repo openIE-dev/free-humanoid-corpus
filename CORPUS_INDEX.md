@@ -1,6 +1,6 @@
 # Corpus Index
 
-585 entries total. Generated from corpus.jsonl.
+593 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | B-9 (Lost in Space) | `b-9-lost-in-space` | 1965 | fictional | fictional |  |
 | B1 Battle Droid | `b1-battle-droid` | 1999 | fictional | fictional |  |
 | Backpropagation | `backpropagation-rumelhart-hinton-1986` | 1986 | academic | public-domain |  |
+| Baidu Apollo (autonomous driving — distinct from Apptronik humanoid) | `baidu-apollo-self-driving-2017` | 2017 | private | open-permissive |  |
 | BarrettHand BH8-280 / BH8-282 | `barrett-hand-1988` | 1988 | private | trade-secret |  |
 | Batch Normalization | `batchnorm-ioffe-szegedy-icml-2015` | 2015 | academic | public-domain |  |
 | Baymax | `baymax-big-hero-6` | 2014 | fictional | fictional |  |
@@ -87,6 +88,7 @@
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
 | Boston Dynamics Spot (fuel-cell variant) | `spot-fuel-cell` | 2020 | private | patented | ✓ |
 | Boston Dynamics SpotMini | `boston-dynamics-spotmini-2017` | 2016 | private | trade-secret |  |
+| Boston Dynamics Stretch (warehouse robot) | `boston-dynamics-stretch-warehouse-2022` | 2022 | private | trade-secret |  |
 | Boğaziçi University Istanbul robotics | `bogazici-istanbul-turkey-robotics` | 2000 | academic | open-permissive | ✓ |
 | BrainGate | `braingate-donoghue-2002` | 2002 | academic | open-permissive |  |
 | Brainiac | `dc-brainiac-1958` | 1958 | fictional | fictional |  |
@@ -179,6 +181,7 @@
 | Eureka LLM-driven reward design | `eureka-ma-2023` | 2023 | academic | public-domain |  |
 | Evangelion (EVA Unit-01) | `evangelion` | 1995 | fictional | fictional | ✓ |
 | ExBody whole-body humanoid policy | `exbody-stanford-2024` | 2024 | academic | open-permissive |  |
+| FANUC industrial robotics | `fanuc-industrial-robotics-1956` | 1956 | private | trade-secret |  |
 | Faster R-CNN | `faster-rcnn-ren-nips-2015` | 2015 | academic | public-domain |  |
 | FCSTAR (Flying-Climbing STAR) | `fcstar-zarrouk-2021` | 2021 | academic | open-permissive | ✓ |
 | Featherstone Robot Dynamics Algorithms | `featherstone-rdf` | 1987 | academic | public-domain |  |
@@ -315,6 +318,7 @@
 | Magma (Microsoft Multimodal Agent) | `microsoft-magma-cvpr-2025` | 2025 | academic | open-permissive |  |
 | Magnus, Robot Fighter (4000 A.D.) | `magnus-robot-fighter` | 1963 | fictional | fictional | ✓ |
 | Major Motoko Kusanagi (Ghost in the Shell) | `ghost-in-the-shell-major` | 1989 | fictional | fictional |  |
+| Mamba (Selective State-Space Model) | `mamba-state-space-model-gu-dao-2023` | 2023 | academic | public-domain |  |
 | Manus Quantum Metagloves | `manus-quantum-metagloves-2023` | 2023 | private | trade-secret | ✓ |
 | Maschinenmensch | `metropolis-maschinenmensch` | 1927 | fictional | public-domain |  |
 | Masked Autoencoders (MAE) | `mae-he-cvpr-2022` | 2021 | academic | public-domain |  |
@@ -426,6 +430,7 @@
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
 | ReSkin (magnetic tactile skin) | `cmu-reskin-tactile-2021` | 2021 | academic | open-permissive |  |
 | ResNet (Residual Networks) | `resnet-he-cvpr-2016` | 2015 | academic | public-domain |  |
+| Retentive Network (RetNet) | `retentive-network-microsoft-2023` | 2023 | academic | public-domain |  |
 | ReWalk medical exoskeleton | `rewalk-goffer-2011` | 2011 | private | trade-secret |  |
 | RH20T heterogeneous robot trajectory dataset | `rh20t-fang-2024` | 2023 | academic | public-domain |  |
 | RLBench | `rlbench-james-2019` | 2019 | academic | open-permissive |  |
@@ -514,6 +519,7 @@
 | Tan et al. Quadruped Sim-to-Real | `tan-quadruped-sim2real` | 2018 | academic | open-permissive |  |
 | Tassa iLQG / Synthesis and Stabilization of Complex Behaviors | `tassa-ilqg-2012` | 2012 | academic | public-domain |  |
 | Taylor JHU surgical robotics (foundational) | `taylor-jhu-surgical-robotics-1990s` | 1989 | academic | public-domain | ✓ |
+| Tencent Robotics X Lab | `tencent-robotics-x-lab-2018` | 2018 | private | trade-secret | ✓ |
 | Tesla Optimus | `tesla-optimus` | 2021 | private | patented | ✓ |
 | Tesla Optimus Gen 3 | `tesla-optimus-gen3-2025` | 2025 | private | trade-secret | ✓ |
 | Tetsujin 28 | `tetsujin-28` | 1956 | fictional | fictional |  |
@@ -537,6 +543,7 @@
 | TSTAR (Tail STAR) | `tstar-zarrouk-2018` | 2018 | academic | open-permissive | ✓ |
 | TU Delft Netherlands robotics | `tu-delft-netherlands-robotics` | 2000 | academic | open-permissive | ✓ |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
+| U-Net | `u-net-ronneberger-miccai-2015` | 2015 | academic | public-domain |  |
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |
 | UCT South Africa robotics cluster | `uct-south-africa-robotics-cluster` | 2005 | academic | open-permissive | ✓ |
 | Ultron | `ultron-marvel` | 1968 | fictional | fictional |  |
@@ -575,6 +582,7 @@
 | WALL-E and EVE (Pixar 2008) | `wall-e-eve-pixar` | 2008 | fictional | fictional |  |
 | War Machine (James Rhodes) | `marvel-war-machine` | 1979 | fictional | fictional |  |
 | Warsaw University of Technology (PW) robotics | `warsaw-poland-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
+| Waymo / Google Self-Driving Car | `waymo-google-self-driving-car-2009` | 2009 | private | trade-secret |  |
 | Westworld Hosts (1973 / 2016) | `westworld-hosts` | 1973 | fictional | fictional |  |
 | WildGS-SLAM | `wildgs-slam-2025` | 2025 | academic | open-permissive |  |
 | Willow Garage PR1 | `willow-pr1` | 2008 | academic | open-permissive |  |

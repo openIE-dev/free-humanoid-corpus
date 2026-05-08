@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model-perception"
 parent: "Invalidity Contentions"
-nav_order: 38
+nav_order: 40
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model-perception`  
-**Entries:** 29 (26 commons-grade, 3 draft)  
+**Entries:** 30 (27 commons-grade, 3 draft)  
 **Earliest disclosure:** 2009-06  
 **Most recent disclosure:** 2026-04
 
@@ -76,6 +76,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Krizhevsky et al. NeurIPS 2012.
+
+---
+
+### 2015-05 — U-Net
+
+- **id:** `u-net-ronneberger-miccai-2015`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** University of Freiburg; Olaf Ronneberger, Philipp Fischer, Thomas Brox
+- **disclosure citation:** Ronneberger, O., Fischer, P., Brox, T. 'U-Net: Convolutional Networks for Biomedical Image Segmentation'. MICCAI 2015. arXiv:1505.04597. University of Freiburg.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-image-segmentation`, `control-encoder-decoder`
+
+**Prior art notes:**
+
+> U-Net (Ronneberger-Fischer-Brox MICCAI 2015) is the foundational image-segmentation neural network. 10-year-deep public-domain prior art. >75,000 citations. The architectural ancestor of every modern image-segmentation network + the denoising backbone of Stable Diffusion + DDPM (round-29). Direct shielding for any commercial humanoid claim using U-Net-class architectures for perception or generation.
+
+**Sources:**
+
+1. Ronneberger, O., Fischer, P., Brox, T. arXiv:1505.04597 MICCAI 2015.
 
 ---
 
@@ -658,4 +677,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*

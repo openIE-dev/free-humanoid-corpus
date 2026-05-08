@@ -1,7 +1,7 @@
 ---
 title: "control-open-loop-gait"
 parent: "Invalidity Contentions"
-nav_order: 70
+nav_order: 73
 layout: default
 ---
 
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*

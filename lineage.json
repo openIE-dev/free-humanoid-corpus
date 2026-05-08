@@ -193,6 +193,14 @@
       "descendants": []
     },
     {
+      "id": "fanuc-industrial-robotics-1956",
+      "name": "FANUC industrial robotics",
+      "year": "1956",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "forbidden-planet-robby",
       "name": "Robby the Robot (Forbidden Planet)",
       "year": "1956",
@@ -2373,6 +2381,14 @@
       ]
     },
     {
+      "id": "waymo-google-self-driving-car-2009",
+      "name": "Waymo / Google Self-Driving Car",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "knights-of-sidonia-2013",
       "name": "Knights of Sidonia (Garde mecha)",
       "year": "2009",
@@ -3233,6 +3249,14 @@
       "descendants": []
     },
     {
+      "id": "u-net-ronneberger-miccai-2015",
+      "name": "U-Net",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "marvel-iron-legion",
       "name": "Iron Legion",
       "year": "2015",
@@ -3476,6 +3500,14 @@
       "name": "Domain Randomization",
       "year": "2017",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "baidu-apollo-self-driving-2017",
+      "name": "Baidu Apollo (autonomous driving — distinct from Apptronik humanoid)",
+      "year": "2017",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -3833,6 +3865,14 @@
     {
       "id": "sarcos-guardian-xo-2018",
       "name": "Sarcos Guardian XO",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tencent-robotics-x-lab-2018",
+      "name": "Tencent Robotics X Lab",
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
@@ -4441,6 +4481,14 @@
       "descendants": []
     },
     {
+      "id": "boston-dynamics-stretch-warehouse-2022",
+      "name": "Boston Dynamics Stretch (warehouse robot)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "miki-perceptive-anymal-science-2022",
       "name": "Perceptive ANYmal locomotion (Miki Science Robotics 2022)",
       "year": "2022",
@@ -4793,6 +4841,14 @@
       ]
     },
     {
+      "id": "retentive-network-microsoft-2023",
+      "name": "Retentive Network (RetNet)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "rh20t-fang-2024",
       "name": "RH20T heterogeneous robot trajectory dataset",
       "year": "2023",
@@ -5035,6 +5091,14 @@
         "cassie-osu",
         "mini-cheetah"
       ],
+      "descendants": []
+    },
+    {
+      "id": "mamba-state-space-model-gu-dao-2023",
+      "name": "Mamba (Selective State-Space Model)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {

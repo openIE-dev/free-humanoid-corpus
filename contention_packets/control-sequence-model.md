@@ -1,7 +1,7 @@
 ---
 title: "control-sequence-model"
 parent: "Invalidity Contentions"
-nav_order: 88
+nav_order: 91
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-sequence-model`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 1997-11  
-**Most recent disclosure:** 2017-06
+**Most recent disclosure:** 2023-12
 
 ---
 
@@ -97,6 +97,45 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-07 — Retentive Network (RetNet)
+
+- **id:** `retentive-network-microsoft-2023`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Microsoft Research + Tsinghua University; Yutao Sun, Furu Wei et al.
+- **disclosure citation:** Sun, Y., Dong, L., Huang, S., Ma, S., Xia, Y., Xue, J., Wang, J., Wei, F. 'Retentive Network: A Successor to Transformer for Large Language Models'. arXiv:2307.08621, July 2023. Microsoft Research + Tsinghua University.
+- **disclosed subsystems:** `control-foundation-model`, `control-sequence-model`
+
+**Prior art notes:**
+
+> RetNet (Sun et al. Microsoft + Tsinghua 2023) is one of the canonical post-Transformer architecture explorations. 2-year-deep public-domain prior art. Together with Mamba (round-34), establishes the alternative-architecture prior-art chain that challenges Transformer dominance in long-context sequence modeling.
+
+**Sources:**
+
+1. Sun et al. arXiv:2307.08621 July 2023.
+
+---
+
+### 2023-12 — Mamba (Selective State-Space Model)
+
+- **id:** `mamba-state-space-model-gu-dao-2023`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** CMU + Princeton + Together AI; Albert Gu, Tri Dao
+- **disclosure citation:** Gu, A., Dao, T. 'Mamba: Linear-Time Sequence Modeling with Selective State Spaces'. COLM 2024. arXiv:2312.00752. CMU + Princeton + Together AI. Antecedent: S4 / S4D / S5 (Gu 2022).
+- **disclosed subsystems:** `control-foundation-model`, `control-state-space-model`, `control-sequence-model`
+
+**Prior art notes:**
+
+> Mamba (Gu + Dao COLM 2024) is the canonical state-space-model foundation architecture. 1.5-year-deep public-domain prior art. A leading architectural alternative to Transformers (round-29) for long-context sequence modeling. Direct shielding for any commercial humanoid claim using state-space-model architectures for VLA or perception.
+
+**Sources:**
+
+1. Gu, A., Dao, T. arXiv:2312.00752 COLM 2024.
+2. Gu, A. PhD thesis (Stanford 2023) on S4/S5.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -127,4 +166,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*

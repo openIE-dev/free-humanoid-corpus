@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**151 corpus entries disclose this subsystem.**
+**152 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -1004,6 +1004,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaneko, K. et al. 'Humanoid Robot HRP-5P: An Electrically Actuated Humanoid Robot With High-Power and Wide-Range Joints.' IEEE Robotics and Automation Letters 4(2), 2019.
 - **ip status**: open-permissive
 - **prior art notes**: HRP-5P's construction-task demonstrations and high-power actuator disclosures are among the most thoroughly published examples of humanoid construction work. Anticipates many subsequent industrial humanoid claims.
+
+## Tencent Robotics X Lab (2018-09)
+
+- **id**: `tencent-robotics-x-lab-2018`
+- **corpus**: private
+- **creator**: Tencent Holdings (Shenzhen, China)
+- **disclosure**: Tencent Robotics X (Shenzhen, China). Founded September 2018 as Tencent's robotics research division. Notable products: Max (quadruped 2021), Booster (bipedal 2022 — distinct from Booster Robotics), Smart Lab automation.
+- **ip status**: trade-secret
+- **prior art notes**: Tencent Robotics X (Shenzhen 2018+) is one of China's major commercial robotics divisions. Aggregator-style entry. Together with Tsinghua (round-26) + SJTU (round-26) + CASIA (round-29) + BIT (round-29), brings explicit Chinese robotics ecosystem representation to a 5-pillar mix of commercial + academic + national-research.
 
 ## Digit (2019-01)
 

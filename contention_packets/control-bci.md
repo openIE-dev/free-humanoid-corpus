@@ -1,7 +1,7 @@
 ---
 title: "control-bci"
 parent: "Invalidity Contentions"
-nav_order: 22
+nav_order: 23
 layout: default
 ---
 
@@ -135,4 +135,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*

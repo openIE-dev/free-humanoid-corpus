@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-quadrupedal-locomotion`
 
-**23 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1968-09-27
 
@@ -158,6 +158,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tan, Jie, Zhang, Tingnan, Coumans, Erwin, Iscen, Atil, Bai, Yunfei, Hafner, Danijar, Bohez, Steven, Vanhoucke, Vincent. 'Sim-to-Real: Learning Agile Locomotion For Quadruped Robots.' arXiv:1804.10332, April 28, 2018. Robotics: Science and Systems (RSS) 2018.
 - **ip status**: open-permissive
 - **prior art notes**: Tan et al. 2018 is one of the earliest academic disclosures of practical sim-to-real RL for quadrupedal locomotion, predating Hwangbo 2019 by ~9 months and establishing the system-identification + domain-randomization paradigm for legged sim-to-real. Anticipates: (1) PPO-based RL for legged locomotion with subsequent zero-shot hardware transfer — relevant to RL-locomotion-policy patents (Boston Dynamics, Unitree, every commercial quadruped); (2) explicit actuator-latency modeling as a sim-to-real bridge — relevant to claims on real-time sim-to-real techniques; (3) the quasi-direct-drive Minitaur platform combined with sim-to-real — relevant to QDD-actuator+RL humanoid claims. Open-source code via PyBullet repository. RSS 2018 publication. Modern legged sim-to-real claims face an 8-year-deep anchor.
+
+## Tencent Robotics X Lab (2018-09)
+
+- **id**: `tencent-robotics-x-lab-2018`
+- **corpus**: private
+- **creator**: Tencent Holdings (Shenzhen, China)
+- **disclosure**: Tencent Robotics X (Shenzhen, China). Founded September 2018 as Tencent's robotics research division. Notable products: Max (quadruped 2021), Booster (bipedal 2022 — distinct from Booster Robotics), Smart Lab automation.
+- **ip status**: trade-secret
+- **prior art notes**: Tencent Robotics X (Shenzhen 2018+) is one of China's major commercial robotics divisions. Aggregator-style entry. Together with Tsinghua (round-26) + SJTU (round-26) + CASIA (round-29) + BIT (round-29), brings explicit Chinese robotics ecosystem representation to a 5-pillar mix of commercial + academic + national-research.
 
 ## MIT Mini Cheetah (2019)
 

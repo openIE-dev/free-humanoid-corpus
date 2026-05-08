@@ -1,7 +1,7 @@
 ---
 title: "mechanism-bipedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 110
+nav_order: 113
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 151 (118 commons-grade, 33 draft)  
+**Entries:** 152 (118 commons-grade, 34 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2026-04
 
@@ -2253,6 +2253,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-09 — Tencent Robotics X Lab *(draft)*
+
+- **id:** `tencent-robotics-x-lab-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Tencent Holdings (Shenzhen, China)
+- **disclosure citation:** Tencent Robotics X (Shenzhen, China). Founded September 2018 as Tencent's robotics research division. Notable products: Max (quadruped 2021), Booster (bipedal 2022 — distinct from Booster Robotics), Smart Lab automation.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-quadrupedal-locomotion`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> Tencent Robotics X (Shenzhen 2018+) is one of China's major commercial robotics divisions. Aggregator-style entry. Together with Tsinghua (round-26) + SJTU (round-26) + CASIA (round-29) + BIT (round-29), brings explicit Chinese robotics ecosystem representation to a 5-pillar mix of commercial + academic + national-research.
+
+**Sources:**
+
+1. Tencent Robotics X corporate site (roboticsx.tencent.com).
+
+---
+
 ### 2019-01 — Digit
 
 - **id:** `agility-digit`
@@ -3114,4 +3133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*

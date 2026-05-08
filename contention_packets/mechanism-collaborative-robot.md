@@ -1,7 +1,7 @@
 ---
 title: "mechanism-collaborative-robot"
 parent: "Invalidity Contentions"
-nav_order: 112
+nav_order: 115
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-collaborative-robot`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
-**Earliest disclosure:** 2002-01  
+**Entries:** 4 (3 commons-grade, 1 draft)  
+**Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2017-09
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1956-01 — FANUC industrial robotics
+
+- **id:** `fanuc-industrial-robotics-1956`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** FANUC Corporation (Yamanashi, Japan; Fujitsu spinout)
+- **disclosure citation:** FANUC Corporation (Oshino-mura, Yamanashi, Japan; founded 1956 as Fuji Communication Apparatus Co., spun out of Fujitsu 1972 as FANUC Ltd.). Industrial robot product line: M-series, R-series, LR Mate, CRX cobot series. **The largest industrial robot company in the world by deployed-unit count** (~750,000 units cumulative).
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `actuator-electric`, `mechanism-collaborative-robot`
+
+**Prior art notes:**
+
+> FANUC (founded 1956 as Fujitsu spinout; FANUC Ltd 1972) is the world's largest industrial robot company by deployed units. 70-year-deep public-disclosure prior art across multi-product industrial-arm + cobot lineage. ~750,000 units cumulative. Direct shielding for any commercial humanoid claim that includes industrial-arm derivative applications. Together with SCARA (round-32), Universal Robots (round-24), Doosan (round-22), KUKA, ABB, Yaskawa, establishes the industrial-robot prior-art chain spanning 1956-2026.
+
+**Sources:**
+
+1. FANUC corporate site (fanuc.com).
+2. Wikipedia 'FANUC'.
+3. International Federation of Robotics annual industrial-robot deployment statistics.
+
+---
 
 ### 2002-01 — A*STAR Institute for Infocomm Research (I2R) robotics *(draft)*
 
@@ -131,4 +152,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b2db4c5`.*
