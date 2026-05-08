@@ -1360,8 +1360,24 @@
       "descendants": []
     },
     {
+      "id": "chulalongkorn-thailand-bangkok-robotics",
+      "name": "Chulalongkorn University Thailand robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "cvut-prague-czech-robotics",
       "name": "Czech Technical University Prague (CVUT/CTU) robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hcmut-vietnam-ho-chi-minh-robotics",
+      "name": "HCMUT Ho Chi Minh City University of Technology robotics",
       "year": "2000",
       "corpus": "academic",
       "ancestors": [],
@@ -1384,6 +1400,38 @@
       "descendants": []
     },
     {
+      "id": "itb-bandung-indonesia-robotics",
+      "name": "ITB Bandung Institute of Technology robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "itba-argentina-buenos-aires-robotics",
+      "name": "ITBA Buenos Aires robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kpi-igor-sikorsky-ukraine-kyiv-robotics",
+      "name": "Igor Sikorsky Kyiv Polytechnic Institute robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kth-sweden-stockholm-robotics",
+      "name": "KTH Royal Institute of Technology robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "metu-ankara-turkey-robotics",
       "name": "METU Ankara robotics (Middle East Technical University)",
       "year": "2000",
@@ -1394,6 +1442,33 @@
     {
       "id": "ntu-singapore-robotics-cluster",
       "name": "NTU Singapore robotics cluster",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tu-delft-netherlands-robotics",
+      "name": "TU Delft Netherlands robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "collins-ruina-tedrake-wisse-passive-walker-2005",
+        "senseglove-nova-2-2023"
+      ]
+    },
+    {
+      "id": "uchile-chile-santiago-robotics",
+      "name": "Universidad de Chile robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "um-malaysia-kuala-lumpur-robotics",
+      "name": "University of Malaya (UM) Kuala Lumpur robotics",
       "year": "2000",
       "corpus": "academic",
       "ancestors": [],
@@ -1744,7 +1819,8 @@
       "year": "2005",
       "corpus": "academic",
       "ancestors": [
-        "mcgeer-passive-walker"
+        "mcgeer-passive-walker",
+        "tu-delft-netherlands-robotics"
       ],
       "descendants": [
         "mit-humanoid-2021"
@@ -1849,6 +1925,14 @@
       "descendants": [
         "toyota-thr3"
       ]
+    },
+    {
+      "id": "khalifa-university-uae-abu-dhabi-robotics",
+      "name": "Khalifa University UAE Abu Dhabi robotics",
+      "year": "2007",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "bsg-hybrids",
@@ -4062,7 +4146,9 @@
       "name": "SenseGlove Nova 2",
       "year": "2023",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "tu-delft-netherlands-robotics"
+      ],
       "descendants": []
     },
     {

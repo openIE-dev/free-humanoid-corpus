@@ -1,6 +1,6 @@
 # Corpus Index
 
-482 entries total. Generated from corpus.jsonl.
+492 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | Cell | `dbz-cell-android-21` | 1992 | fictional | fictional |  |
 | Chappie | `chappie` | 2015 | fictional | fictional |  |
 | Cheetah-cub | `cheetah-cub-epfl` | 2013 | academic | open-permissive |  |
+| Chulalongkorn University Thailand robotics | `chulalongkorn-thailand-bangkok-robotics` | 2000 | academic | open-permissive | ✓ |
 | CLIP (Contrastive Language-Image Pretraining) | `radford-clip-2021` | 2021 | academic | open-permissive |  |
 | CMU HERB (Home Exploring Robotic Butler) | `cmu-herb-srinivasa-2012` | 2012 | academic | public-domain |  |
 | CMU Personal Robotics Lab Andy / HERB-2 follow-on platform | `cmu-andy-herb2-srinivasa-2014` | 2014 | academic | public-domain |  |
@@ -183,6 +184,7 @@
 | Hamilton-Jacobi Reachability for Safe Control | `reachability-analysis-safe-control` | 2005 | academic | public-domain |  |
 | HaptX Gloves G1 | `haptx-gloves-g1-2022` | 2022 | private | trade-secret |  |
 | Harvard Soft Robotics Toolkit | `harvard-soft-robotics-toolkit-2017` | 2014 | academic | open-copyleft |  |
+| HCMUT Ho Chi Minh City University of Technology robotics | `hcmut-vietnam-ho-chi-minh-robotics` | 2000 | academic | open-permissive | ✓ |
 | Hector (Saturn 3) | `saturn-3-hector` | 1980 | fictional | fictional |  |
 | Helen O'Loy | `helen-o-loy` | 1938 | fictional | fictional | ✓ |
 | Hello Robot Stretch | `hello-robot-stretch-2020` | 2020 | private | trade-secret |  |
@@ -213,6 +215,7 @@
 | Iberall opposition-space hand-kinematics theory | `iberall-opposition-space-1986` | 1986 | academic | public-domain |  |
 | iCub | `icub` | 2008 | academic | open-permissive |  |
 | IG-88 | `ig-88-star-wars` | 1980 | fictional | fictional |  |
+| Igor Sikorsky Kyiv Polytechnic Institute robotics | `kpi-igor-sikorsky-ukraine-kyiv-robotics` | 2000 | academic | open-permissive | ✓ |
 | IIT India robotics research cluster | `iit-india-robotics-research-cluster` | 2010 | academic | open-permissive | ✓ |
 | Ijspeert-Schaal Dynamic Movement Primitives (formal extension) | `ijspeert-dmp-2013` | 2013 | academic | public-domain |  |
 | InMoov | `inmoov` | 2012 | open | open-permissive |  |
@@ -223,6 +226,8 @@
 | Iron Man Mark I (Tony Stark exoskeleton) | `iron-man-mark-i` | 1963 | fictional | fictional |  |
 | ISO 10218 Collaborative Robot Safety | `iso-10218-collaborative-robots` | 2006 | academic | public-domain |  |
 | ISRO Vyommitra (Gaganyaan humanoid) | `isro-vyommitra-2020` | 2020 | academic | public-domain |  |
+| ITB Bandung Institute of Technology robotics | `itb-bandung-indonesia-robotics` | 2000 | academic | open-permissive | ✓ |
+| ITBA Buenos Aires robotics | `itba-argentina-buenos-aires-robotics` | 2000 | academic | open-permissive | ✓ |
 | Jaegers (Pacific Rim) | `pacific-rim-jaegers` | 2013 | fictional | fictional |  |
 | Janner Diffuser planning with diffusion | `janner-diffuser-2022` | 2022 | academic | public-domain |  |
 | JANUS underwater acoustic communications standard | `janus-stanag-4748-2017` | 2017 | open | open-permissive |  |
@@ -236,10 +241,12 @@
 | KAUST Saudi Arabia AI + robotics | `kaust-saudi-arabia-robotics` | 2009 | academic | open-permissive | ✓ |
 | Kawasaki Kaleido | `kawasaki-kaleido` | 2017 | private | patented |  |
 | Kepler K2 | `kepler-k2` | 2024 | private | patented | ✓ |
+| Khalifa University UAE Abu Dhabi robotics | `khalifa-university-uae-abu-dhabi-robotics` | 2007 | academic | open-permissive | ✓ |
 | Khatib Operational Space Formulation | `khatib-operational-space` | 1987 | academic | public-domain |  |
 | Klara and the Sun — Artificial Friend (AF) child companion | `ishiguro-klara-and-the-sun-2021` | 2021 | fictional | public-domain |  |
 | Knight Sabers Hardsuits (Bubblegum Crisis) | `bubblegum-crisis-hardsuits` | 1987 | fictional | fictional |  |
 | Knights of Sidonia (Garde mecha) | `knights-of-sidonia-2013` | 2009 | fictional | fictional |  |
+| KTH Royal Institute of Technology robotics | `kth-sweden-stockholm-robotics` | 2000 | academic | open-permissive | ✓ |
 | KX-series Imperial Security Droids (K-2SO) | `kx-series-k2so-2016` | 2016 | fictional | fictional |  |
 | LEG-SLAM | `leg-slam-2025` | 2025 | academic | open-permissive | ✓ |
 | LEGO-SLAM | `lego-slam-2025` | 2025 | academic | open-permissive | ✓ |
@@ -443,6 +450,7 @@
 | Triton XLX work-class ROV | `triton-xlx-rov` | 2003 | private | trade-secret |  |
 | Trurl and Klapaucius (The Cyberiad) | `lem-cyberiad` | 1965 | fictional | fictional |  |
 | TSTAR (Tail STAR) | `tstar-zarrouk-2018` | 2018 | academic | open-permissive | ✓ |
+| TU Delft Netherlands robotics | `tu-delft-netherlands-robotics` | 2000 | academic | open-permissive | ✓ |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
 | UBTech Walker | `ubtech-walker` | 2018 | private | patented |  |
 | UCT South Africa robotics cluster | `uct-south-africa-robotics-cluster` | 2005 | academic | open-permissive | ✓ |
@@ -457,7 +465,9 @@
 | Unitree R1 | `unitree-r1-2025` | 2025 | private | trade-secret |  |
 | Universal Manipulation Interface (UMI) | `umi-stanford` | 2024 | academic | open-permissive |  |
 | Universal Robots (Odense, Denmark) | `universal-robots-denmark-2008` | 2008 | private | trade-secret |  |
+| Universidad de Chile robotics | `uchile-chile-santiago-robotics` | 2000 | academic | open-permissive | ✓ |
 | University of Auckland (NZ) robotics | `auckland-university-nz-robotics` | 2000 | academic | open-permissive | ✓ |
+| University of Malaya (UM) Kuala Lumpur robotics | `um-malaysia-kuala-lumpur-robotics` | 2000 | academic | open-permissive | ✓ |
 | Upkie | `upkie` | 2022 | open | open-permissive |  |
 | USP Brazil robotics cluster | `usp-brazil-robotics-cluster` | 2000 | academic | public-domain | ✓ |
 | V'Ger | `v-ger-star-trek` | 1979 | fictional | fictional |  |

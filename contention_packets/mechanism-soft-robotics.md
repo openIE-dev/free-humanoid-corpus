@@ -1,7 +1,7 @@
 ---
 title: "mechanism-soft-robotics"
 parent: "Invalidity Contentions"
-nav_order: 98
+nav_order: 100
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-soft-robotics`  
-**Entries:** 2 (1 commons-grade, 1 draft)  
+**Entries:** 3 (1 commons-grade, 2 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2014-09
 
@@ -57,6 +57,27 @@ cite, copy, or redistribute these contentions.
 
 1. University of Auckland corporate site (auckland.ac.nz).
 2. Auckland Bioengineering Institute (abi.auckland.ac.nz).
+
+---
+
+### 2000-01 — TU Delft Netherlands robotics *(draft)*
+
+- **id:** `tu-delft-netherlands-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Delft University of Technology (TU Delft, Netherlands)
+- **disclosure citation:** Delft University of Technology (TU Delft), Netherlands. Cognitive Robotics + Robotics Institute. Notable: Wisse passive-dynamic walker (round-19 collins-ruina-tedrake-wisse-passive-walker-2005 entry includes Wisse), TU Delft Robotics Institute spinouts (SenseGlove round-19 entry). The dominant Dutch academic robotics cluster.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-passive-dynamic-walking`, `mechanism-soft-robotics`
+
+**Prior art notes:**
+
+> TU Delft is the Netherlands' flagship robotics academic anchor. Direct ancestor of SenseGlove (round-19) and contributor to Collins-Ruina-Tedrake-Wisse passive-dynamic walker (round-19). Brings Netherlands depth in the corpus from 3 to 4 entries.
+
+**Sources:**
+
+1. TU Delft corporate site (tudelft.nl).
+2. TU Delft Cognitive Robotics (cor.tudelft.nl).
+3. TU Delft Robotics Institute (robotics.tudelft.nl).
 
 ---
 
@@ -111,4 +132,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*

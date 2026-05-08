@@ -1,7 +1,7 @@
 ---
 title: "mechanism-passive-dynamic-walking"
 parent: "Invalidity Contentions"
-nav_order: 93
+nav_order: 95
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-passive-dynamic-walking`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 5 (4 commons-grade, 1 draft)  
 **Earliest disclosure:** 1990  
 **Most recent disclosure:** 2017
 
@@ -57,6 +57,27 @@ cite, copy, or redistribute these contentions.
 
 1. McGeer, T. 'Passive dynamic walking'. IJRR 9(2): 62-82, 1990.
 2. Collins, S.H., Wisse, M., Ruina, A. 'A three-dimensional passive-dynamic walking robot with two legs and knees'. IJRR 20(7): 607-615, 2001 (extends McGeer to 3D).
+
+---
+
+### 2000-01 — TU Delft Netherlands robotics *(draft)*
+
+- **id:** `tu-delft-netherlands-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Delft University of Technology (TU Delft, Netherlands)
+- **disclosure citation:** Delft University of Technology (TU Delft), Netherlands. Cognitive Robotics + Robotics Institute. Notable: Wisse passive-dynamic walker (round-19 collins-ruina-tedrake-wisse-passive-walker-2005 entry includes Wisse), TU Delft Robotics Institute spinouts (SenseGlove round-19 entry). The dominant Dutch academic robotics cluster.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-passive-dynamic-walking`, `mechanism-soft-robotics`
+
+**Prior art notes:**
+
+> TU Delft is the Netherlands' flagship robotics academic anchor. Direct ancestor of SenseGlove (round-19) and contributor to Collins-Ruina-Tedrake-Wisse passive-dynamic walker (round-19). Brings Netherlands depth in the corpus from 3 to 4 entries.
+
+**Sources:**
+
+1. TU Delft corporate site (tudelft.nl).
+2. TU Delft Cognitive Robotics (cor.tudelft.nl).
+3. TU Delft Robotics Institute (robotics.tudelft.nl).
 
 ---
 
@@ -150,4 +171,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*

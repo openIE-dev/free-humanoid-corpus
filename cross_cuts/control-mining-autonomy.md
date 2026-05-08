@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-mining-autonomy`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -23,3 +23,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: VTT Technical Research Centre of Finland Ltd. (Espoo, Finland; 100% Finnish state-owned; one of Europe's largest applied research institutions). Robotics + automation research hosted at the Smart Industry + Energy Group. vttresearch.com.
 - **ip status**: open-permissive
 - **prior art notes**: VTT is Finland's flagship applied-research institution and the Nordic robotics academic complement to Universal Robots Denmark. **First entry in the corpus from Finland** — closes Nordic gap. Aggregator-style; specific VTT papers should be added in future rounds.
+
+## Universidad de Chile robotics (2000-01)
+
+- **id**: `uchile-chile-santiago-robotics`
+- **corpus**: academic
+- **creator**: Universidad de Chile (Santiago)
+- **disclosure**: Universidad de Chile (Santiago, Chile). Robotics research at Facultad de Ciencias Físicas y Matemáticas (FCFM) and the Advanced Mining Technology Center (AMTC). Notable: mining robotics, autonomous vehicles, computer vision.
+- **ip status**: open-permissive
+- **prior art notes**: Universidad de Chile is Chile's flagship public research university and the Chilean robotics academic anchor. **First entry in the corpus from Chile** — closes a Latin American gap.

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-research-cluster`
 
-**18 corpus entries disclose this subsystem.**
+**28 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -105,6 +105,87 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: BME Budapest is Hungary's largest technical university and the Hungarian robotics academic anchor. **First entry in the corpus from Hungary** — closes a regional gap. Together with CTU Prague (round-23) and Warsaw University of Technology (round-24 entry above), establishes the Central + Eastern European robotics prior-art baseline.
 
+## ITBA Buenos Aires robotics (2000-01)
+
+- **id**: `itba-argentina-buenos-aires-robotics`
+- **corpus**: academic
+- **creator**: Instituto Tecnológico de Buenos Aires (ITBA), Argentina
+- **disclosure**: Instituto Tecnológico de Buenos Aires (ITBA), Argentina. Founded 1959. Robotics research at Faculty of Engineering. Together with University of Buenos Aires (UBA) and University of Buenos Aires Faculty of Engineering (FIUBA), forms the Argentine academic robotics anchor.
+- **ip status**: open-permissive
+- **prior art notes**: ITBA Argentina is the flagship Argentine academic robotics + AI anchor. **First entry in the corpus from Argentina** — closes a Latin American gap. Together with USP Brazil + Embrapa (round-23) and IPN Mexico (round-24), establishes the Latin American robotics prior-art baseline.
+
+## Universidad de Chile robotics (2000-01)
+
+- **id**: `uchile-chile-santiago-robotics`
+- **corpus**: academic
+- **creator**: Universidad de Chile (Santiago)
+- **disclosure**: Universidad de Chile (Santiago, Chile). Robotics research at Facultad de Ciencias Físicas y Matemáticas (FCFM) and the Advanced Mining Technology Center (AMTC). Notable: mining robotics, autonomous vehicles, computer vision.
+- **ip status**: open-permissive
+- **prior art notes**: Universidad de Chile is Chile's flagship public research university and the Chilean robotics academic anchor. **First entry in the corpus from Chile** — closes a Latin American gap.
+
+## HCMUT Ho Chi Minh City University of Technology robotics (2000-01)
+
+- **id**: `hcmut-vietnam-ho-chi-minh-robotics`
+- **corpus**: academic
+- **creator**: Ho Chi Minh City University of Technology (HCMUT/BK), Vietnam
+- **disclosure**: Ho Chi Minh City University of Technology (HCMUT, also known as Bach Khoa / BK University). Vietnam's flagship technical university. Robotics research at Faculty of Mechanical Engineering + Faculty of Electrical and Electronics Engineering.
+- **ip status**: open-permissive
+- **prior art notes**: HCMUT is Vietnam's flagship technical university and the Vietnamese robotics academic anchor. **First entry in the corpus from Vietnam** — closes a SE Asian gap.
+
+## Chulalongkorn University Thailand robotics (2000-01)
+
+- **id**: `chulalongkorn-thailand-bangkok-robotics`
+- **corpus**: academic
+- **creator**: Chulalongkorn University (Bangkok, Thailand)
+- **disclosure**: Chulalongkorn University (Bangkok, Thailand; founded 1917; Thailand's oldest and most prestigious university). Robotics research at Faculty of Engineering.
+- **ip status**: open-permissive
+- **prior art notes**: Chulalongkorn University is Thailand's flagship research university and the Thai robotics academic anchor. **First entry in the corpus from Thailand** — closes a SE Asian gap.
+
+## ITB Bandung Institute of Technology robotics (2000-01)
+
+- **id**: `itb-bandung-indonesia-robotics`
+- **corpus**: academic
+- **creator**: Institut Teknologi Bandung (ITB), Indonesia
+- **disclosure**: Institut Teknologi Bandung / Bandung Institute of Technology (ITB), Indonesia. Indonesia's flagship technical university. Robotics research distributed across STEI (School of Electrical Engineering and Informatics) + FTI (Faculty of Industrial Technology).
+- **ip status**: open-permissive
+- **prior art notes**: ITB is Indonesia's flagship technical university and the Indonesian robotics academic anchor. **First entry in the corpus from Indonesia** — closes a SE Asian gap (largest-by-population country in the region).
+
+## Igor Sikorsky Kyiv Polytechnic Institute robotics (2000-01)
+
+- **id**: `kpi-igor-sikorsky-ukraine-kyiv-robotics`
+- **corpus**: academic
+- **creator**: Igor Sikorsky Kyiv Polytechnic Institute (Kyiv, Ukraine)
+- **disclosure**: Igor Sikorsky Kyiv Polytechnic Institute (Igor Sikorsky KPI), Kyiv, Ukraine. Founded 1898; renamed in honor of Igor Sikorsky (Ukrainian-born aircraft pioneer). Ukraine's flagship technical university. Robotics research at Faculty of Mechanical Engineering. Active military-applications + dual-use research since 2022 (defensive drones, mine-detection robotics).
+- **ip status**: open-permissive
+- **prior art notes**: Igor Sikorsky KPI Kyiv is Ukraine's flagship technical university and the Ukrainian robotics academic anchor. **First entry in the corpus from Ukraine** — closes an Eastern European gap.
+
+## University of Malaya (UM) Kuala Lumpur robotics (2000-01)
+
+- **id**: `um-malaysia-kuala-lumpur-robotics`
+- **corpus**: academic
+- **creator**: University of Malaya (Kuala Lumpur, Malaysia)
+- **disclosure**: University of Malaya (UM, Kuala Lumpur, Malaysia; Malaysia's oldest and highest-ranked university). Robotics research at Faculty of Engineering.
+- **ip status**: open-permissive
+- **prior art notes**: University of Malaya is Malaysia's flagship research university and the Malaysian robotics academic anchor. **First entry in the corpus from Malaysia** — closes a SE Asian gap.
+
+## TU Delft Netherlands robotics (2000-01)
+
+- **id**: `tu-delft-netherlands-robotics`
+- **corpus**: academic
+- **creator**: Delft University of Technology (TU Delft, Netherlands)
+- **disclosure**: Delft University of Technology (TU Delft), Netherlands. Cognitive Robotics + Robotics Institute. Notable: Wisse passive-dynamic walker (round-19 collins-ruina-tedrake-wisse-passive-walker-2005 entry includes Wisse), TU Delft Robotics Institute spinouts (SenseGlove round-19 entry). The dominant Dutch academic robotics cluster.
+- **ip status**: open-permissive
+- **prior art notes**: TU Delft is the Netherlands' flagship robotics academic anchor. Direct ancestor of SenseGlove (round-19) and contributor to Collins-Ruina-Tedrake-Wisse passive-dynamic walker (round-19). Brings Netherlands depth in the corpus from 3 to 4 entries.
+
+## KTH Royal Institute of Technology robotics (2000-01)
+
+- **id**: `kth-sweden-stockholm-robotics`
+- **corpus**: academic
+- **creator**: KTH Royal Institute of Technology (Stockholm, Sweden)
+- **disclosure**: KTH Royal Institute of Technology (Stockholm, Sweden). Robotics research at Robotics, Perception and Learning (RPL) division of the School of Electrical Engineering and Computer Science. Notable: visual servoing + grasping (Kragic + Hellström lab), autonomous vehicles.
+- **ip status**: open-permissive
+- **prior art notes**: KTH Royal Institute of Technology is Sweden's flagship robotics academic anchor. Brings Sweden depth in the corpus from 2 to 3 entries. Together with VTT Finland (round-24) and Universal Robots Denmark (round-24), establishes the Nordic robotics prior-art baseline.
+
 ## A*STAR Institute for Infocomm Research (I2R) robotics (2002-01)
 
 - **id**: `a-star-singapore-i2r-robotics`
@@ -122,6 +203,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: University of Cape Town (UCT). Multiple robotics research groups: Mobile Intelligent Autonomous Systems (MIIA), African Institute for Mathematical Sciences (AIMS) ML+robotics concentration. Notable contributions: African-context autonomous agricultural research, low-cost embedded robotics, computer-vision research at the Centre for Computer Vision (Tapson, Sudd lab). Faculty includes notable computer-vision figures.
 - **ip status**: open-permissive
 - **prior art notes**: UCT South Africa robotics cluster is the canonical African robotics academic anchor. **First real (non-fictional) entry in the corpus from Africa** — closes a major regional gap. Aggregator-style entry; specific papers should be added in future rounds. Together with future African Institute for Mathematical Sciences (AIMS) and Egyptian academic entries, establishes the African robotics prior-art baseline.
+
+## Khalifa University UAE Abu Dhabi robotics (2007-01)
+
+- **id**: `khalifa-university-uae-abu-dhabi-robotics`
+- **corpus**: academic
+- **creator**: Khalifa University of Science and Technology (Abu Dhabi, UAE)
+- **disclosure**: Khalifa University of Science and Technology (Abu Dhabi, UAE; founded 2007; merged with Petroleum Institute + Masdar Institute 2017). Robotics + AI research at Center for Autonomous Robotic Systems (KUCARS). UAE's flagship research university.
+- **ip status**: open-permissive
+- **prior art notes**: Khalifa University is UAE's flagship research university and the second Gulf-region robotics anchor (alongside KAUST Saudi Arabia, round-23). **First entry in the corpus from UAE** — closes a Gulf gap.
 
 ## KAUST Saudi Arabia AI + robotics (2009-09)
 

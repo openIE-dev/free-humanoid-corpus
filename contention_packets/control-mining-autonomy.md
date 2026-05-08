@@ -1,17 +1,17 @@
 ---
-title: "software-mjbots-stack"
+title: "control-mining-autonomy"
 parent: "Invalidity Contentions"
-nav_order: 134
+nav_order: 43
 layout: default
 ---
 
-# Invalidity Contention Packet — `software-mjbots-stack`
+# Invalidity Contention Packet — `control-mining-autonomy`
 
 **Generated:** 2026-05-08  
-**Cross-cut tag:** `software-mjbots-stack`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2019  
-**Most recent disclosure:** 2022
+**Cross-cut tag:** `control-mining-autonomy`  
+**Entries:** 2 (0 commons-grade, 2 draft)  
+**Earliest disclosure:** 2000-01  
+**Most recent disclosure:** 2000-01
 
 ---
 
@@ -19,7 +19,7 @@ layout: default
 
 This document is an invalidity-contention packet — a chronologically-ordered
 list of every disclosed prior art reference in the Free Humanoid Corpus that
-bears on the subsystem `software-mjbots-stack`.
+bears on the subsystem `control-mining-autonomy`.
 
 To use it:
 
@@ -40,43 +40,43 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
-### 2019 — mjbots Moteus
+### 2000-01 — VTT Technical Research Centre of Finland robotics *(draft)*
 
-- **id:** `mjbots-moteus`
-- **corpus:** open
+- **id:** `vtt-finland-robotics-cluster`
+- **corpus:** academic
 - **ip status:** open-permissive
-- **creator:** mjbots Robotic Systems (Josh Katz)
-- **disclosure citation:** Katz, Josh (mjbots). Moteus controller release, 2019.
-- **disclosed subsystems:** `actuator-bldc-controller`, `actuator-foc-controller`, `software-mjbots-stack`
+- **creator:** VTT Technical Research Centre of Finland Ltd.
+- **disclosure citation:** VTT Technical Research Centre of Finland Ltd. (Espoo, Finland; 100% Finnish state-owned; one of Europe's largest applied research institutions). Robotics + automation research hosted at the Smart Industry + Energy Group. vttresearch.com.
+- **disclosed subsystems:** `control-research-cluster`, `control-mining-autonomy`, `control-forestry-autonomy`
 
 **Prior art notes:**
 
-> mjbots Moteus is foundational prior art for compact open BLDC controllers in legged robotics. Used in Berkeley Humanoid, Upkie, and many academic platforms.
+> VTT is Finland's flagship applied-research institution and the Nordic robotics academic complement to Universal Robots Denmark. **First entry in the corpus from Finland** — closes Nordic gap. Aggregator-style; specific VTT papers should be added in future rounds.
 
 **Sources:**
 
-1. mjbots.com
-2. Moteus GitHub repositories.
+1. VTT corporate site (vttresearch.com).
+2. VTT Smart Industry + Energy publications.
 
 ---
 
-### 2022 — Upkie
+### 2000-01 — Universidad de Chile robotics *(draft)*
 
-- **id:** `upkie`
-- **corpus:** open
+- **id:** `uchile-chile-santiago-robotics`
+- **corpus:** academic
 - **ip status:** open-permissive
-- **creator:** Stéphane Caron and contributors
-- **disclosure citation:** Caron, S. et al. Upkie public release, 2022.
-- **disclosed subsystems:** `actuator-electric-quasi-direct-drive`, `actuator-bldc-controller`, `actuator-foc-controller`, `mechanism-wheeled-balancing`, `control-reduced-order-model`, `control-mpc`, `sensing-imu`, `power-li-po`, `software-mjbots-stack`, `software-ros2`
+- **creator:** Universidad de Chile (Santiago)
+- **disclosure citation:** Universidad de Chile (Santiago, Chile). Robotics research at Facultad de Ciencias Físicas y Matemáticas (FCFM) and the Advanced Mining Technology Center (AMTC). Notable: mining robotics, autonomous vehicles, computer vision.
+- **disclosed subsystems:** `control-research-cluster`, `control-mining-autonomy`
 
 **Prior art notes:**
 
-> Upkie demonstrates fully-open wheeled-bipedal balancing using commodity mjbots actuators. Anticipates cost-effective wheeled-humanoid designs.
+> Universidad de Chile is Chile's flagship public research university and the Chilean robotics academic anchor. **First entry in the corpus from Chile** — closes a Latin American gap.
 
 **Sources:**
 
-1. github.com/upkie
-2. Caron, S. publications and project documentation.
+1. Universidad de Chile FCFM (uchile.cl).
+2. AMTC publications.
 
 ---
 

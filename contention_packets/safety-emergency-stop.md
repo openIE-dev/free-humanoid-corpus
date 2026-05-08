@@ -1,7 +1,7 @@
 ---
 title: "safety-emergency-stop"
 parent: "Invalidity Contentions"
-nav_order: 115
+nav_order: 117
 layout: default
 ---
 
@@ -173,4 +173,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*

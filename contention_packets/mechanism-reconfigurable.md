@@ -1,7 +1,7 @@
 ---
 title: "mechanism-reconfigurable"
 parent: "Invalidity Contentions"
-nav_order: 97
+nav_order: 99
 layout: default
 ---
 
@@ -191,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*

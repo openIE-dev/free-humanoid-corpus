@@ -1,7 +1,7 @@
 ---
 title: "control-research-cluster"
 parent: "Invalidity Contentions"
-nav_order: 60
+nav_order: 62
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-research-cluster`  
-**Entries:** 18 (0 commons-grade, 18 draft)  
+**Entries:** 28 (0 commons-grade, 28 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2011-11
 
@@ -240,6 +240,181 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2000-01 — ITBA Buenos Aires robotics *(draft)*
+
+- **id:** `itba-argentina-buenos-aires-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Instituto Tecnológico de Buenos Aires (ITBA), Argentina
+- **disclosure citation:** Instituto Tecnológico de Buenos Aires (ITBA), Argentina. Founded 1959. Robotics research at Faculty of Engineering. Together with University of Buenos Aires (UBA) and University of Buenos Aires Faculty of Engineering (FIUBA), forms the Argentine academic robotics anchor.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> ITBA Argentina is the flagship Argentine academic robotics + AI anchor. **First entry in the corpus from Argentina** — closes a Latin American gap. Together with USP Brazil + Embrapa (round-23) and IPN Mexico (round-24), establishes the Latin American robotics prior-art baseline.
+
+**Sources:**
+
+1. ITBA corporate site (itba.edu.ar).
+
+---
+
+### 2000-01 — Universidad de Chile robotics *(draft)*
+
+- **id:** `uchile-chile-santiago-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Universidad de Chile (Santiago)
+- **disclosure citation:** Universidad de Chile (Santiago, Chile). Robotics research at Facultad de Ciencias Físicas y Matemáticas (FCFM) and the Advanced Mining Technology Center (AMTC). Notable: mining robotics, autonomous vehicles, computer vision.
+- **disclosed subsystems:** `control-research-cluster`, `control-mining-autonomy`
+
+**Prior art notes:**
+
+> Universidad de Chile is Chile's flagship public research university and the Chilean robotics academic anchor. **First entry in the corpus from Chile** — closes a Latin American gap.
+
+**Sources:**
+
+1. Universidad de Chile FCFM (uchile.cl).
+2. AMTC publications.
+
+---
+
+### 2000-01 — HCMUT Ho Chi Minh City University of Technology robotics *(draft)*
+
+- **id:** `hcmut-vietnam-ho-chi-minh-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Ho Chi Minh City University of Technology (HCMUT/BK), Vietnam
+- **disclosure citation:** Ho Chi Minh City University of Technology (HCMUT, also known as Bach Khoa / BK University). Vietnam's flagship technical university. Robotics research at Faculty of Mechanical Engineering + Faculty of Electrical and Electronics Engineering.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> HCMUT is Vietnam's flagship technical university and the Vietnamese robotics academic anchor. **First entry in the corpus from Vietnam** — closes a SE Asian gap.
+
+**Sources:**
+
+1. HCMUT corporate site (hcmut.edu.vn).
+
+---
+
+### 2000-01 — Chulalongkorn University Thailand robotics *(draft)*
+
+- **id:** `chulalongkorn-thailand-bangkok-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Chulalongkorn University (Bangkok, Thailand)
+- **disclosure citation:** Chulalongkorn University (Bangkok, Thailand; founded 1917; Thailand's oldest and most prestigious university). Robotics research at Faculty of Engineering.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> Chulalongkorn University is Thailand's flagship research university and the Thai robotics academic anchor. **First entry in the corpus from Thailand** — closes a SE Asian gap.
+
+**Sources:**
+
+1. Chulalongkorn University corporate site (chula.ac.th).
+
+---
+
+### 2000-01 — ITB Bandung Institute of Technology robotics *(draft)*
+
+- **id:** `itb-bandung-indonesia-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Institut Teknologi Bandung (ITB), Indonesia
+- **disclosure citation:** Institut Teknologi Bandung / Bandung Institute of Technology (ITB), Indonesia. Indonesia's flagship technical university. Robotics research distributed across STEI (School of Electrical Engineering and Informatics) + FTI (Faculty of Industrial Technology).
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> ITB is Indonesia's flagship technical university and the Indonesian robotics academic anchor. **First entry in the corpus from Indonesia** — closes a SE Asian gap (largest-by-population country in the region).
+
+**Sources:**
+
+1. ITB corporate site (itb.ac.id).
+
+---
+
+### 2000-01 — Igor Sikorsky Kyiv Polytechnic Institute robotics *(draft)*
+
+- **id:** `kpi-igor-sikorsky-ukraine-kyiv-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Igor Sikorsky Kyiv Polytechnic Institute (Kyiv, Ukraine)
+- **disclosure citation:** Igor Sikorsky Kyiv Polytechnic Institute (Igor Sikorsky KPI), Kyiv, Ukraine. Founded 1898; renamed in honor of Igor Sikorsky (Ukrainian-born aircraft pioneer). Ukraine's flagship technical university. Robotics research at Faculty of Mechanical Engineering. Active military-applications + dual-use research since 2022 (defensive drones, mine-detection robotics).
+- **disclosed subsystems:** `control-research-cluster`, `control-mine-detection`, `control-defensive-drone`
+
+**Prior art notes:**
+
+> Igor Sikorsky KPI Kyiv is Ukraine's flagship technical university and the Ukrainian robotics academic anchor. **First entry in the corpus from Ukraine** — closes an Eastern European gap.
+
+**Sources:**
+
+1. Igor Sikorsky KPI corporate site (kpi.ua).
+
+---
+
+### 2000-01 — University of Malaya (UM) Kuala Lumpur robotics *(draft)*
+
+- **id:** `um-malaysia-kuala-lumpur-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** University of Malaya (Kuala Lumpur, Malaysia)
+- **disclosure citation:** University of Malaya (UM, Kuala Lumpur, Malaysia; Malaysia's oldest and highest-ranked university). Robotics research at Faculty of Engineering.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> University of Malaya is Malaysia's flagship research university and the Malaysian robotics academic anchor. **First entry in the corpus from Malaysia** — closes a SE Asian gap.
+
+**Sources:**
+
+1. University of Malaya corporate site (um.edu.my).
+
+---
+
+### 2000-01 — TU Delft Netherlands robotics *(draft)*
+
+- **id:** `tu-delft-netherlands-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Delft University of Technology (TU Delft, Netherlands)
+- **disclosure citation:** Delft University of Technology (TU Delft), Netherlands. Cognitive Robotics + Robotics Institute. Notable: Wisse passive-dynamic walker (round-19 collins-ruina-tedrake-wisse-passive-walker-2005 entry includes Wisse), TU Delft Robotics Institute spinouts (SenseGlove round-19 entry). The dominant Dutch academic robotics cluster.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-passive-dynamic-walking`, `mechanism-soft-robotics`
+
+**Prior art notes:**
+
+> TU Delft is the Netherlands' flagship robotics academic anchor. Direct ancestor of SenseGlove (round-19) and contributor to Collins-Ruina-Tedrake-Wisse passive-dynamic walker (round-19). Brings Netherlands depth in the corpus from 3 to 4 entries.
+
+**Sources:**
+
+1. TU Delft corporate site (tudelft.nl).
+2. TU Delft Cognitive Robotics (cor.tudelft.nl).
+3. TU Delft Robotics Institute (robotics.tudelft.nl).
+
+---
+
+### 2000-01 — KTH Royal Institute of Technology robotics *(draft)*
+
+- **id:** `kth-sweden-stockholm-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** KTH Royal Institute of Technology (Stockholm, Sweden)
+- **disclosure citation:** KTH Royal Institute of Technology (Stockholm, Sweden). Robotics research at Robotics, Perception and Learning (RPL) division of the School of Electrical Engineering and Computer Science. Notable: visual servoing + grasping (Kragic + Hellström lab), autonomous vehicles.
+- **disclosed subsystems:** `control-research-cluster`, `control-visual-servoing`, `control-grasp-planning`
+
+**Prior art notes:**
+
+> KTH Royal Institute of Technology is Sweden's flagship robotics academic anchor. Brings Sweden depth in the corpus from 2 to 3 entries. Together with VTT Finland (round-24) and Universal Robots Denmark (round-24), establishes the Nordic robotics prior-art baseline.
+
+**Sources:**
+
+1. KTH RPL division (kth.se/rpl).
+2. Kragic group publications.
+
+---
+
 ### 2002-01 — A*STAR Institute for Infocomm Research (I2R) robotics *(draft)*
 
 - **id:** `a-star-singapore-i2r-robotics`
@@ -277,6 +452,26 @@ cite, copy, or redistribute these contentions.
 
 1. University of Cape Town robotics publications.
 2. AIMS South Africa (aims.ac.za).
+
+---
+
+### 2007-01 — Khalifa University UAE Abu Dhabi robotics *(draft)*
+
+- **id:** `khalifa-university-uae-abu-dhabi-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Khalifa University of Science and Technology (Abu Dhabi, UAE)
+- **disclosure citation:** Khalifa University of Science and Technology (Abu Dhabi, UAE; founded 2007; merged with Petroleum Institute + Masdar Institute 2017). Robotics + AI research at Center for Autonomous Robotic Systems (KUCARS). UAE's flagship research university.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> Khalifa University is UAE's flagship research university and the second Gulf-region robotics anchor (alongside KAUST Saudi Arabia, round-23). **First entry in the corpus from UAE** — closes a Gulf gap.
+
+**Sources:**
+
+1. Khalifa University corporate site (ku.ac.ae).
+2. KUCARS publications.
 
 ---
 
@@ -435,4 +630,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*

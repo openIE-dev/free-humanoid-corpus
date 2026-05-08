@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-08  
-**Packets:** 134  
-**Corpus revision:** `6b58593`
+**Packets:** 136  
+**Corpus revision:** `bb592c0`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -60,6 +60,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-foundation-model-perception`](control-foundation-model-perception.md) | 9 | 7 | 2 | 2023-03 | 2026-04 |
 | [`control-foundation-model-policy`](control-foundation-model-policy.md) | 14 | 13 | 1 | 2021-08 | 2025-10 |
 | [`control-gaussian-splatting-slam`](control-gaussian-splatting-slam.md) | 6 | 2 | 4 | 2024-03 | 2025-11 |
+| [`control-grasp-planning`](control-grasp-planning.md) | 2 | 1 | 1 | 1989-06 | 2000-01 |
 | [`control-grasp-taxonomy`](control-grasp-taxonomy.md) | 4 | 4 | 0 | 1919-01 | 1989-06 |
 | [`control-haptic-rendering`](control-haptic-rendering.md) | 4 | 3 | 1 | 1994-09 | 2023-09 |
 | [`control-imitation-learning`](control-imitation-learning.md) | 18 | 18 | 0 | 2018-04 | 2025-02 |
@@ -68,6 +69,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-long-horizon-manipulation`](control-long-horizon-manipulation.md) | 2 | 2 | 0 | 2021-12 | 2023-05 |
 | [`control-master-slave-teleoperation`](control-master-slave-teleoperation.md) | 4 | 3 | 1 | 1989-01 | 2021-03 |
 | [`control-middleware`](control-middleware.md) | 2 | 2 | 0 | 2009-05 | 2017-12 |
+| [`control-mining-autonomy`](control-mining-autonomy.md) | 2 | 0 | 2 | 2000-01 | 2000-01 |
 | [`control-mission-script`](control-mission-script.md) | 4 | 4 | 0 | 1989-01 | 2003-09 |
 | [`control-mode-switching`](control-mode-switching.md) | 8 | 4 | 4 | 2008-05 | 2026-01 |
 | [`control-monocular-metric-depth`](control-monocular-metric-depth.md) | 2 | 1 | 1 | 2024-12 | 2025-08 |
@@ -86,7 +88,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-publish-subscribe`](control-publish-subscribe.md) | 2 | 2 | 0 | 2009-05 | 2017-12 |
 | [`control-raibert-decomposition`](control-raibert-decomposition.md) | 2 | 1 | 1 | 1981-01 | 2005-12 |
 | [`control-reduced-order-model`](control-reduced-order-model.md) | 28 | 27 | 1 | 1979-04-07 | 2023-08 |
-| [`control-research-cluster`](control-research-cluster.md) | 18 | 0 | 18 | 2000-01 | 2011-11 |
+| [`control-research-cluster`](control-research-cluster.md) | 28 | 0 | 28 | 2000-01 | 2011-11 |
 | [`control-rl-policy`](control-rl-policy.md) | 138 | 110 | 28 | 1818 | 2026-04 |
 | [`control-rough-terrain-locomotion`](control-rough-terrain-locomotion.md) | 5 | 5 | 0 | 2005-12 | 2024-09 |
 | [`control-semantic-slam`](control-semantic-slam.md) | 4 | 1 | 3 | 2024-03 | 2026-04 |
@@ -119,12 +121,12 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-manipulator-arm`](mechanism-manipulator-arm.md) | 16 | 14 | 2 | 1964-06 | 2022-07 |
 | [`mechanism-mobile-base`](mechanism-mobile-base.md) | 7 | 3 | 4 | 2000-01 | 2024-09 |
 | [`mechanism-parallel-kinematic-haptic`](mechanism-parallel-kinematic-haptic.md) | 2 | 2 | 0 | 1994-09 | 2011-06 |
-| [`mechanism-passive-dynamic-walking`](mechanism-passive-dynamic-walking.md) | 4 | 4 | 0 | 1990 | 2017 |
+| [`mechanism-passive-dynamic-walking`](mechanism-passive-dynamic-walking.md) | 5 | 4 | 1 | 1990 | 2017 |
 | [`mechanism-pitch-roll-trim`](mechanism-pitch-roll-trim.md) | 2 | 2 | 0 | 1989-01 | 2001-09 |
 | [`mechanism-pressure-hull`](mechanism-pressure-hull.md) | 7 | 6 | 1 | 1964-06 | 2018-04 |
 | [`mechanism-quadrupedal-locomotion`](mechanism-quadrupedal-locomotion.md) | 23 | 20 | 3 | 1968-09-27 | 2024-09 |
 | [`mechanism-reconfigurable`](mechanism-reconfigurable.md) | 6 | 2 | 4 | 2018-05 | 2026-01 |
-| [`mechanism-soft-robotics`](mechanism-soft-robotics.md) | 2 | 1 | 1 | 2000-01 | 2014-09 |
+| [`mechanism-soft-robotics`](mechanism-soft-robotics.md) | 3 | 1 | 2 | 2000-01 | 2014-09 |
 | [`mechanism-sprawl-tunable`](mechanism-sprawl-tunable.md) | 6 | 3 | 3 | 2013-05 | 2026-01 |
 | [`mechanism-syntactic-foam-ballast`](mechanism-syntactic-foam-ballast.md) | 2 | 2 | 0 | 1964-06 | 2008-05 |
 | [`mechanism-telescoping-mast`](mechanism-telescoping-mast.md) | 2 | 1 | 1 | 2020-07 | 2024-09 |

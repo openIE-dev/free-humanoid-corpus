@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-soft-robotics`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: University of Auckland (Auckland, New Zealand). Robotics + AI research distributed across Auckland Bioengineering Institute (ABI), Department of Mechanical and Mechatronics Engineering, Department of Computer Science. Notable: bioengineering robots, soft robotics (collaborator with Harvard), agricultural robotics.
 - **ip status**: open-permissive
 - **prior art notes**: University of Auckland is New Zealand's largest research university and the dominant NZ robotics academic cluster. **First entry in the corpus from New Zealand** — closes a regional gap. Together with CSIRO Data61 (round-23, Australia), brings Antipodean coverage to 2.
+
+## TU Delft Netherlands robotics (2000-01)
+
+- **id**: `tu-delft-netherlands-robotics`
+- **corpus**: academic
+- **creator**: Delft University of Technology (TU Delft, Netherlands)
+- **disclosure**: Delft University of Technology (TU Delft), Netherlands. Cognitive Robotics + Robotics Institute. Notable: Wisse passive-dynamic walker (round-19 collins-ruina-tedrake-wisse-passive-walker-2005 entry includes Wisse), TU Delft Robotics Institute spinouts (SenseGlove round-19 entry). The dominant Dutch academic robotics cluster.
+- **ip status**: open-permissive
+- **prior art notes**: TU Delft is the Netherlands' flagship robotics academic anchor. Direct ancestor of SenseGlove (round-19) and contributor to Collins-Ruina-Tedrake-Wisse passive-dynamic walker (round-19). Brings Netherlands depth in the corpus from 3 to 4 entries.
 
 ## Harvard Soft Robotics Toolkit (2014-09)
 

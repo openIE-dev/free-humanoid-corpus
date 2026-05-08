@@ -16,7 +16,7 @@ Corpus (`corpus.jsonl`) by grouping entries on their `disclosed_subsystems`
 tags, and reproducing each entry's `prior_art_notes` verbatim alongside the
 citation-ready metadata an attorney needs to cite it.
 
-This generation produced **134 packets** covering **1834 entry
+This generation produced **136 packets** covering **1850 entry
 references** in total (entries appear in multiple packets when they disclose
 multiple subsystems).
 
@@ -78,7 +78,7 @@ python3 tools/contention_packets.py
 
 from the repository root. The tool wipes the `contention_packets/` directory
 before writing, so every regeneration is a clean slate. The corpus revision
-that produced this set is recorded in each packet's footer (`6b58593`).
+that produced this set is recorded in each packet's footer (`bb592c0`).
 
 ## Provenance
 
