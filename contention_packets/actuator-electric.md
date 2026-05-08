@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 21 (17 commons-grade, 4 draft)  
-**Earliest disclosure:** 1988-01  
+**Entries:** 22 (18 commons-grade, 4 draft)  
+**Earliest disclosure:** 1979-01  
 **Most recent disclosure:** 2025-10
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1979-01 — SCARA (Selective Compliance Articulated Robot Arm)
+
+- **id:** `scara-makino-1979`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Yamanashi University, Japan; Hiroshi Makino
+- **disclosure citation:** Makino, H. 'SCARA Robot' development at Yamanashi University, Japan, 1978-1981. Initial commercial SCARA robots from Sankyo Seiki + Yamaha + others early 1980s. SCARA stands for Selective Compliance Articulated Robot Arm.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-selective-compliance`, `actuator-electric`
+
+**Prior art notes:**
+
+> SCARA (Makino Yamanashi University 1979) is the foundational selective-compliance manipulator architecture. 46-year-deep public-domain prior art. The dominant industrial-arm class for electronics assembly. Direct shielding for any commercial humanoid claim that includes SCARA-class arm derivatives or selective-compliance manipulation.
+
+**Sources:**
+
+1. Makino, H. SCARA development at Yamanashi University 1978-1981.
+2. Wikipedia 'SCARA' (en.wikipedia.org/wiki/SCARA).
+3. Sankyo Seiki + Yamaha early 1980s SCARA commercialization.
+
+---
 
 ### 1988-01 — BarrettHand BH8-280 / BH8-282
 
@@ -510,4 +531,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*

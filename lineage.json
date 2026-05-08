@@ -185,6 +185,14 @@
       ]
     },
     {
+      "id": "denavit-hartenberg-parameters-1955",
+      "name": "Denavit-Hartenberg parameters",
+      "year": "1955",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "forbidden-planet-robby",
       "name": "Robby the Robot (Forbidden Planet)",
       "year": "1956",
@@ -215,6 +223,14 @@
       "name": "Brainiac",
       "year": "1958",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kalman-filter-lqr-1960",
+      "name": "Kalman filter + LQR (Linear-Quadratic Regulator)",
+      "year": "1960",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -285,6 +301,17 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "stewart-platform-gough-1965",
+      "name": "Stewart platform / Gough-Stewart parallel mechanism",
+      "year": "1965",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "force-dimension-sigma7-2010s",
+        "sensable-phantom-1994"
+      ]
     },
     {
       "id": "b-9-lost-in-space",
@@ -536,6 +563,14 @@
       "name": "War Machine (James Rhodes)",
       "year": "1979",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "scara-makino-1979",
+      "name": "SCARA (Selective Compliance Articulated Robot Arm)",
+      "year": "1979",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -817,6 +852,14 @@
       "descendants": [
         "david-prometheus-walter-covenant"
       ]
+    },
+    {
+      "id": "backpropagation-rumelhart-hinton-1986",
+      "name": "Backpropagation",
+      "year": "1986",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "featherstone-rdf",
@@ -1168,7 +1211,9 @@
       "name": "SensAble Phantom haptic device",
       "year": "1994",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "stewart-platform-gough-1965"
+      ],
       "descendants": []
     },
     {
@@ -1293,7 +1338,9 @@
       "year": "1997",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "sutskever-seq2seq-nips-2014"
+      ]
     },
     {
       "id": "kit-armar-humanoid-2000-2020",
@@ -2479,7 +2526,9 @@
       "name": "Force Dimension Sigma.7",
       "year": "2011",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "stewart-platform-gough-1965"
+      ],
       "descendants": []
     },
     {
@@ -2589,7 +2638,8 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
-        "deepmind-mujoco-mjx-2023"
+        "deepmind-mujoco-mjx-2023",
+        "dm-control-suite-tassa-2018"
       ]
     },
     {
@@ -2915,6 +2965,18 @@
       "descendants": []
     },
     {
+      "id": "sutskever-seq2seq-nips-2014",
+      "name": "Sequence to Sequence Learning",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [
+        "lstm-hochreiter-schmidhuber-1997"
+      ],
+      "descendants": [
+        "transformer-vaswani-neurips-2017"
+      ]
+    },
+    {
       "id": "unetstack-subnero-2014",
       "name": "UnetStack underwater networking framework",
       "year": "2014",
@@ -3065,6 +3127,14 @@
       "descendants": []
     },
     {
+      "id": "faster-rcnn-ren-nips-2015",
+      "name": "Faster R-CNN",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "humans-channel4-amc-2015",
       "name": "Humans (Channel 4 / AMC) Synth household robots",
       "year": "2015",
@@ -3096,6 +3166,14 @@
       "descendants": [
         "rainbow-robotics-rb-y1"
       ]
+    },
+    {
+      "id": "yolo-redmon-cvpr-2016",
+      "name": "YOLO (You Only Look Once)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "fallout-gen-3-synths",
@@ -3152,6 +3230,14 @@
       ]
     },
     {
+      "id": "pybullet-coumans-2017",
+      "name": "PyBullet",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hanson-sophia",
       "name": "Sophia",
       "year": "2016",
@@ -3204,6 +3290,16 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "pointnet-qi-cvpr-2017",
+      "name": "PointNet",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "dp3-ze-rss-2024"
+      ]
     },
     {
       "id": "cassie-osu",
@@ -3310,7 +3406,9 @@
       "name": "Transformer (Attention Is All You Need)",
       "year": "2017",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "sutskever-seq2seq-nips-2014"
+      ],
       "descendants": [
         "bert-devlin-google-2018",
         "decision-transformer-chen-2021",
@@ -3467,6 +3565,16 @@
       "corpus": "academic",
       "ancestors": [
         "sherman-simplex-architecture"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "dm-control-suite-tassa-2018",
+      "name": "DeepMind Control Suite",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "mujoco-todorov-2012"
       ],
       "descendants": []
     },
@@ -4931,7 +5039,8 @@
       "corpus": "academic",
       "ancestors": [
         "ddpm-ho-neurips-2020",
-        "diffusion-policy"
+        "diffusion-policy",
+        "pointnet-qi-cvpr-2017"
       ],
       "descendants": []
     },

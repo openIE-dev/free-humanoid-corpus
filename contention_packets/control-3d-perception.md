@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-3d-perception`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
-**Earliest disclosure:** 2020-03  
+**Entries:** 4 (4 commons-grade, 0 draft)  
+**Earliest disclosure:** 2016-12  
 **Most recent disclosure:** 2024-03
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2016-12 — PointNet
+
+- **id:** `pointnet-qi-cvpr-2017`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Stanford University; Charles R. Qi, Hao Su, Kaichun Mo, Leonidas Guibas
+- **disclosure citation:** Qi, C. R., Su, H., Mo, K., Guibas, L. J. 'PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation'. CVPR 2017. arXiv:1612.00593. Subsequent PointNet++ NeurIPS 2017. Stanford University; Leonidas Guibas group.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-3d-perception`, `control-point-cloud`
+
+**Prior art notes:**
+
+> PointNet (Qi et al. Stanford CVPR 2017) is the foundational deep learning on point clouds paper. 8-year-deep public-domain prior art. The architectural ancestor of: 3D Diffusion Policy (round-17), every point-cloud-conditioned manipulation policy, depth-perception VLAs. Direct shielding for any commercial humanoid claim on 3D point cloud perception.
+
+**Sources:**
+
+1. Qi, C. R. et al. arXiv:1612.00593 CVPR 2017.
+2. Qi, C. R. et al. PointNet++ NeurIPS 2017.
+
+---
 
 ### 2020-03 — NeRF (Neural Radiance Fields)
 
@@ -133,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*

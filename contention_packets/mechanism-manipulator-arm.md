@@ -1,7 +1,7 @@
 ---
 title: "mechanism-manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 110
+nav_order: 111
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-manipulator-arm`  
-**Entries:** 17 (15 commons-grade, 2 draft)  
+**Entries:** 18 (16 commons-grade, 2 draft)  
 **Earliest disclosure:** 1964-06  
 **Most recent disclosure:** 2022-07
 
@@ -59,6 +59,27 @@ cite, copy, or redistribute these contentions.
 2. R. D. Ballard, 'The Discovery of the Titanic', Warner Books 1987.
 3. D. R. Yoerger, A. M. Bradley, B. B. Walden, 'The Autonomous Benthic Explorer', J. Field Robotics 1991.
 4. W. Kohnen (ed.), 'Manned Submersibles', U.S. Naval Institute 1978.
+
+---
+
+### 1979-01 — SCARA (Selective Compliance Articulated Robot Arm)
+
+- **id:** `scara-makino-1979`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Yamanashi University, Japan; Hiroshi Makino
+- **disclosure citation:** Makino, H. 'SCARA Robot' development at Yamanashi University, Japan, 1978-1981. Initial commercial SCARA robots from Sankyo Seiki + Yamaha + others early 1980s. SCARA stands for Selective Compliance Articulated Robot Arm.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-selective-compliance`, `actuator-electric`
+
+**Prior art notes:**
+
+> SCARA (Makino Yamanashi University 1979) is the foundational selective-compliance manipulator architecture. 46-year-deep public-domain prior art. The dominant industrial-arm class for electronics assembly. Direct shielding for any commercial humanoid claim that includes SCARA-class arm derivatives or selective-compliance manipulation.
+
+**Sources:**
+
+1. Makino, H. SCARA development at Yamanashi University 1978-1981.
+2. Wikipedia 'SCARA' (en.wikipedia.org/wiki/SCARA).
+3. Sankyo Seiki + Yamaha early 1980s SCARA commercialization.
 
 ---
 
@@ -425,4 +446,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*

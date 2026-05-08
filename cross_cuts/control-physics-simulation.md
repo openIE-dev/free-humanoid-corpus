@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-physics-simulation`
 
-**6 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2012-10
 
@@ -23,6 +23,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Todorov, E., Erez, T., Tassa, Y. 'MuJoCo: A physics engine for model-based control'. IROS 2012. Originally proprietary (Roboti LLC); acquired by Google DeepMind October 2021 and released under Apache-2.0.
 - **ip status**: open-permissive
 - **prior art notes**: MuJoCo is the canonical academic physics engine for model-based robotic control (Todorov-Erez-Tassa 2012). 13-year-deep prior art spanning the proprietary Roboti era (2012-2021) and the open-source DeepMind era (2021+). The substrate that the Tassa iLQG entry, Howell-Tassa MuJoCo MPC entry, MJX entry, and Genesis simulator entry all build on or interop with. Direct shielding for any commercial humanoid claim on contact-rich policy training simulation. MJCF is the format OpenLoco compiles to, so MuJoCo is the reference simulator for the entire free-humanoid-family.
+
+## PyBullet (2016-01)
+
+- **id**: `pybullet-coumans-2017`
+- **corpus**: academic
+- **creator**: Erwin Coumans (Google Brain), Yunfei Bai
+- **disclosure**: Coumans, E., Bai, Y. 'PyBullet: A Python module for physics simulation for games, robotics and machine learning'. 2016-2025. pybullet.org. Bullet physics engine antecedent (Coumans 2003+). Open-source ZLIB license.
+- **ip status**: open-permissive
+- **prior art notes**: PyBullet (Coumans Google 2017+) is the foundational open-source physics engine for academic robotics + RL. 9-year-deep open-permissive prior art. The dominant academic simulator before MuJoCo open-sourcing 2021. Direct shielding for any commercial humanoid claim using physics-simulation training infrastructure.
+
+## DeepMind Control Suite (2018-01)
+
+- **id**: `dm-control-suite-tassa-2018`
+- **corpus**: academic
+- **creator**: DeepMind; Yuval Tassa et al.
+- **disclosure**: Tassa, Y., Doron, Y., Muldal, A., Erez, T., Li, Y., Casas, D. d. L., Budden, D., Abdolmaleki, A., Merel, J., Lefrancq, A., Lillicrap, T., Riedmiller, M. 'DeepMind Control Suite'. arXiv:1801.00690, January 2018. DeepMind.
+- **ip status**: open-permissive
+- **prior art notes**: DeepMind Control Suite (Tassa et al. DeepMind 2018) is the foundational continuous-control RL benchmark suite. 7-year-deep open-permissive prior art. Used in countless RL papers 2018-2024. Direct shielding for any commercial humanoid claim using MuJoCo-based continuous-control benchmark evaluation.
 
 ## Drake (2019-01)
 

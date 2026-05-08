@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-benchmarking`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2019-09
+Earliest disclosure: 2018-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## DeepMind Control Suite (2018-01)
+
+- **id**: `dm-control-suite-tassa-2018`
+- **corpus**: academic
+- **creator**: DeepMind; Yuval Tassa et al.
+- **disclosure**: Tassa, Y., Doron, Y., Muldal, A., Erez, T., Li, Y., Casas, D. d. L., Budden, D., Abdolmaleki, A., Merel, J., Lefrancq, A., Lillicrap, T., Riedmiller, M. 'DeepMind Control Suite'. arXiv:1801.00690, January 2018. DeepMind.
+- **ip status**: open-permissive
+- **prior art notes**: DeepMind Control Suite (Tassa et al. DeepMind 2018) is the foundational continuous-control RL benchmark suite. 7-year-deep open-permissive prior art. Used in countless RL papers 2018-2024. Direct shielding for any commercial humanoid claim using MuJoCo-based continuous-control benchmark evaluation.
 
 ## RLBench (2019-09)
 

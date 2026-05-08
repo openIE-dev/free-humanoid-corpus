@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-benchmarking`  
-**Entries:** 6 (6 commons-grade, 0 draft)  
-**Earliest disclosure:** 2019-09  
+**Entries:** 7 (7 commons-grade, 0 draft)  
+**Earliest disclosure:** 2018-01  
 **Most recent disclosure:** 2024-05
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2018-01 — DeepMind Control Suite
+
+- **id:** `dm-control-suite-tassa-2018`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** DeepMind; Yuval Tassa et al.
+- **disclosure citation:** Tassa, Y., Doron, Y., Muldal, A., Erez, T., Li, Y., Casas, D. d. L., Budden, D., Abdolmaleki, A., Merel, J., Lefrancq, A., Lillicrap, T., Riedmiller, M. 'DeepMind Control Suite'. arXiv:1801.00690, January 2018. DeepMind.
+- **disclosed subsystems:** `control-rl-policy`, `control-benchmarking`, `control-physics-simulation`
+
+**Prior art notes:**
+
+> DeepMind Control Suite (Tassa et al. DeepMind 2018) is the foundational continuous-control RL benchmark suite. 7-year-deep open-permissive prior art. Used in countless RL papers 2018-2024. Direct shielding for any commercial humanoid claim using MuJoCo-based continuous-control benchmark evaluation.
+
+**Sources:**
+
+1. Tassa et al. arXiv:1801.00690 January 2018.
+2. GitHub: github.com/google-deepmind/dm_control.
+
+---
 
 ### 2019-09 — RLBench
 
@@ -196,4 +216,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*

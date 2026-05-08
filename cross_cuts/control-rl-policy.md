@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**149 corpus entries disclose this subsystem.**
+**150 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -671,6 +671,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Haarnoja, T., Zhou, A., Abbeel, P., Levine, S. 'Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor'. ICML 2018. arXiv:1801.01290. UC Berkeley + Google Brain.
 - **ip status**: public-domain
 - **prior art notes**: SAC (Haarnoja et al. ICML 2018) is the canonical off-policy maximum-entropy RL algorithm. 7-year-deep public-domain prior art. Notable: same first author (Haarnoja) led DeepMind humanoid soccer (round-18). Together with PPO (round-30), TRPO (round-30), DQN (round-30), establishes the deep RL prior-art chain underlying every RL-trained humanoid + quadruped policy in the corpus.
+
+## DeepMind Control Suite (2018-01)
+
+- **id**: `dm-control-suite-tassa-2018`
+- **corpus**: academic
+- **creator**: DeepMind; Yuval Tassa et al.
+- **disclosure**: Tassa, Y., Doron, Y., Muldal, A., Erez, T., Li, Y., Casas, D. d. L., Budden, D., Abdolmaleki, A., Merel, J., Lefrancq, A., Lillicrap, T., Riedmiller, M. 'DeepMind Control Suite'. arXiv:1801.00690, January 2018. DeepMind.
+- **ip status**: open-permissive
+- **prior art notes**: DeepMind Control Suite (Tassa et al. DeepMind 2018) is the foundational continuous-control RL benchmark suite. 7-year-deep open-permissive prior art. Used in countless RL papers 2018-2024. Direct shielding for any commercial humanoid claim using MuJoCo-based continuous-control benchmark evaluation.
 
 ## OmniGibson / iGibson (Stanford SVL) (2018-04)
 

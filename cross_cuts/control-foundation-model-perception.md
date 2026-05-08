@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-foundation-model-perception`
 
-**26 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2009-06
 
@@ -33,6 +33,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: AlexNet (Krizhevsky et al. NeurIPS 2012) is **the paper that started the deep-learning revolution in computer vision**. 13-year-deep public-domain prior art. >180,000 citations. The predecessor of ResNet (round-30), ViT (round-30), every modern vision encoder. Together with ImageNet (round-30), constitutes the foundational vision-DL substrate underlying every commercial humanoid vision system.
 
+## Faster R-CNN (2015-06)
+
+- **id**: `faster-rcnn-ren-nips-2015`
+- **corpus**: academic
+- **creator**: Microsoft Research Asia; Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun
+- **disclosure**: Ren, S., He, K., Girshick, R., Sun, J. 'Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks'. NeurIPS 2015. arXiv:1506.01497. Microsoft Research Asia.
+- **ip status**: public-domain
+- **prior art notes**: Faster R-CNN (Ren-He-Girshick-Sun NeurIPS 2015) is the foundational two-stage object detector. 10-year-deep public-domain prior art. The pre-Transformer object-detection architecture used in many robotic perception stacks (Kaiming He is also the ResNet author — round-30).
+
+## YOLO (You Only Look Once) (2015-06)
+
+- **id**: `yolo-redmon-cvpr-2016`
+- **corpus**: academic
+- **creator**: University of Washington + Allen Institute for AI + FAIR; Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
+- **disclosure**: Redmon, J., Divvala, S., Girshick, R., Farhadi, A. 'You Only Look Once: Unified, Real-Time Object Detection'. CVPR 2016. arXiv:1506.02640. University of Washington + Allen Institute for AI + Facebook AI Research. Subsequent: YOLOv2/v3/v4/v5/v6/v7/v8/v9/v10/v11 commercial + community variants.
+- **ip status**: public-domain
+- **prior art notes**: YOLO (Redmon et al. CVPR 2016) is the foundational real-time one-stage object detector. 9-year-deep public-domain prior art. Together with Faster R-CNN (round-32), establishes the dominant object-detection prior-art chain underlying most robotic perception systems pre-Transformer.
+
 ## ResNet (Residual Networks) (2015-12)
 
 - **id**: `resnet-he-cvpr-2016`
@@ -41,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: He, K., Zhang, X., Ren, S., Sun, J. 'Deep Residual Learning for Image Recognition'. CVPR 2016 Best Paper. arXiv:1512.03385. Microsoft Research Asia.
 - **ip status**: public-domain
 - **prior art notes**: ResNet (He et al. CVPR 2016 Best Paper) is the foundational deep residual networks paper. 10-year-deep public-domain prior art. >250,000 citations — one of the most-cited ML papers of all time. The visual encoder underlying BC-Z (round-29), RT-1 (corpus), and most pre-Transformer robotic VLA. Direct shielding for any commercial humanoid claim using deep CNNs for vision encoding.
+
+## PointNet (2016-12)
+
+- **id**: `pointnet-qi-cvpr-2017`
+- **corpus**: academic
+- **creator**: Stanford University; Charles R. Qi, Hao Su, Kaichun Mo, Leonidas Guibas
+- **disclosure**: Qi, C. R., Su, H., Mo, K., Guibas, L. J. 'PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation'. CVPR 2017. arXiv:1612.00593. Subsequent PointNet++ NeurIPS 2017. Stanford University; Leonidas Guibas group.
+- **ip status**: public-domain
+- **prior art notes**: PointNet (Qi et al. Stanford CVPR 2017) is the foundational deep learning on point clouds paper. 8-year-deep public-domain prior art. The architectural ancestor of: 3D Diffusion Policy (round-17), every point-cloud-conditioned manipulation policy, depth-perception VLAs. Direct shielding for any commercial humanoid claim on 3D point cloud perception.
 
 ## NeRF (Neural Radiance Fields) (2020-03)
 

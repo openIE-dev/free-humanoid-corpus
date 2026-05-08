@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model`  
-**Entries:** 11 (9 commons-grade, 2 draft)  
+**Entries:** 12 (10 commons-grade, 2 draft)  
 **Earliest disclosure:** 1997-11  
 **Most recent disclosure:** 2025-06
 
@@ -76,6 +76,25 @@ cite, copy, or redistribute these contentions.
 
 1. Mikolov et al. arXiv:1301.3781 ICLR 2013 Workshop.
 2. Mikolov et al. NeurIPS 2013.
+
+---
+
+### 2014-09 — Sequence to Sequence Learning
+
+- **id:** `sutskever-seq2seq-nips-2014`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Google; Ilya Sutskever, Oriol Vinyals, Quoc V. Le
+- **disclosure citation:** Sutskever, I., Vinyals, O., Le, Q. V. 'Sequence to Sequence Learning with Neural Networks'. NeurIPS 2014. arXiv:1409.3215. Google.
+- **disclosed subsystems:** `control-foundation-model`, `control-encoder-decoder`, `control-sequence-model`
+
+**Prior art notes:**
+
+> Seq2Seq (Sutskever-Vinyals-Le NeurIPS 2014) is the foundational encoder-decoder neural network paper. 11-year-deep public-domain prior art. The architectural pattern underlying every encoder-decoder system in the corpus, including every VLA's action-decoder pattern. Together with LSTM (round-30) + Transformer (round-29), establishes the sequence-modeling chain underlying every modern AI system.
+
+**Sources:**
+
+1. Sutskever, I., Vinyals, O., Le, Q. V. arXiv:1409.3215 NeurIPS 2014.
 
 ---
 
@@ -286,4 +305,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*

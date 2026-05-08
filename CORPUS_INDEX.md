@@ -1,6 +1,6 @@
 # Corpus Index
 
-558 entries total. Generated from corpus.jsonl.
+569 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | Ava (Ex Machina) | `ex-machina-ava` | 2014 | fictional | fictional |  |
 | B-9 (Lost in Space) | `b-9-lost-in-space` | 1965 | fictional | fictional |  |
 | B1 Battle Droid | `b1-battle-droid` | 1999 | fictional | fictional |  |
+| Backpropagation | `backpropagation-rumelhart-hinton-1986` | 1986 | academic | public-domain |  |
 | BarrettHand BH8-280 / BH8-282 | `barrett-hand-1988` | 1988 | private | trade-secret |  |
 | Batch Normalization | `batchnorm-ioffe-szegedy-icml-2015` | 2015 | academic | public-domain |  |
 | Baymax | `baymax-big-hero-6` | 2014 | fictional | fictional |  |
@@ -133,7 +134,9 @@
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
 | Deep Q-Network (DQN) | `dqn-mnih-deepmind-2013` | 2013 | academic | public-domain |  |
 | DeepMimic | `deepmimic-peng-siggraph-2018` | 2018 | academic | open-permissive |  |
+| DeepMind Control Suite | `dm-control-suite-tassa-2018` | 2018 | academic | open-permissive |  |
 | DeepMind humanoid soccer (Haarnoja et al.) | `deepmind-humanoid-soccer-haarnoja-2024` | 2024 | academic | open-permissive |  |
+| Denavit-Hartenberg parameters | `denavit-hartenberg-parameters-1955` | 1955 | academic | public-domain |  |
 | Denoising Diffusion Probabilistic Models (DDPM) | `ddpm-ho-neurips-2020` | 2020 | academic | public-domain |  |
 | Depth Anything V2 | `bytedance-depth-anything-v2-2024` | 2024 | academic | open-permissive |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
@@ -173,6 +176,7 @@
 | Eureka LLM-driven reward design | `eureka-ma-2023` | 2023 | academic | public-domain |  |
 | Evangelion (EVA Unit-01) | `evangelion` | 1995 | fictional | fictional | ✓ |
 | ExBody whole-body humanoid policy | `exbody-stanford-2024` | 2024 | academic | open-permissive |  |
+| Faster R-CNN | `faster-rcnn-ren-nips-2015` | 2015 | academic | public-domain |  |
 | FCSTAR (Flying-Climbing STAR) | `fcstar-zarrouk-2021` | 2021 | academic | open-permissive | ✓ |
 | Featherstone Robot Dynamics Algorithms | `featherstone-rdf` | 1987 | academic | public-domain |  |
 | Ferrari-Canny Grasp Quality Metrics | `ferrari-canny-grasp-quality` | 1992 | academic | public-domain |  |
@@ -271,6 +275,7 @@
 | K9 | `dr-who-k9` | 1977 | fictional | fictional |  |
 | KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO) | `kaist-fx-2-1995` | 2003 | academic | public-domain |  |
 | Kajita Linear Inverted Pendulum Model | `kajita-lipm` | 2001 | academic | public-domain |  |
+| Kalman filter + LQR (Linear-Quadratic Regulator) | `kalman-filter-lqr-1960` | 1960 | academic | public-domain |  |
 | Kapandji thumb-opposition classification | `kapandji-thumb-opposition-1986` | 1986 | academic | public-domain |  |
 | KAUST Saudi Arabia AI + robotics | `kaust-saudi-arabia-robotics` | 2009 | academic | open-permissive | ✓ |
 | Kawasaki Kaleido | `kawasaki-kaleido` | 2017 | private | patented |  |
@@ -381,6 +386,7 @@
 | Pisa-IIT SoftHand 2 | `pisa-iit-softhand-2` | 2018 | academic | open-permissive |  |
 | Plastic Memories (Giftia humanoids with explicit lifecycle) | `plastic-memories-2015` | 2015 | fictional | fictional |  |
 | Pluto (Naoki Urasawa reimagining) | `urasawa-pluto` | 2003 | fictional | fictional |  |
+| PointNet | `pointnet-qi-cvpr-2017` | 2016 | academic | public-domain |  |
 | Poppy Humanoid | `poppy-humanoid` | 2014 | open | open-permissive |  |
 | PR2 | `pr2` | 2010 | open | open-permissive |  |
 | Pratt Virtual Model Control | `pratt-virtual-model-control` | 2001 | academic | public-domain |  |
@@ -388,6 +394,7 @@
 | Promobot | `promobot-russia-2015` | 2015 | private | trade-secret |  |
 | Prophesee EVK4 event camera | `prophesee-evk4-event-camera-2020` | 2020 | private | trade-secret |  |
 | Proximal Policy Optimization (PPO) | `ppo-schulman-openai-2017` | 2017 | academic | public-domain |  |
+| PyBullet | `pybullet-coumans-2017` | 2016 | academic | open-permissive |  |
 | R. Daneel Olivaw | `asimov-caves-of-steel-daneel` | 1953 | fictional | fictional |  |
 | R2-D2 | `r2-d2-star-wars` | 1977 | fictional | fictional |  |
 | RADIO-ViPE | `radio-vipe-itmo-2026` | 2026 | academic | open-permissive |  |
@@ -442,6 +449,7 @@
 | SAPIEN simulator | `sapien-xiang-cvpr-2020` | 2020 | academic | open-permissive |  |
 | Sarcos Guardian XO | `sarcos-guardian-xo-2018` | 2018 | private | trade-secret |  |
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
+| SCARA (Selective Compliance Articulated Robot Arm) | `scara-makino-1979` | 1979 | academic | public-domain |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
 | Schlesinger 6-grasp classification | `schlesinger-grasp-classification-1919` | 1919 | academic | public-domain |  |
 | Schunk SVH 5-finger dexterous hand | `schunk-svh-german-2013` | 2013 | private | trade-secret |  |
@@ -452,6 +460,7 @@
 | SenseGlove Nova 2 | `senseglove-nova-2-2023` | 2023 | private | trade-secret | ✓ |
 | Sentinels (X-Men) | `sentinels-marvel` | 1965 | fictional | fictional |  |
 | Sentis-Khatib Whole-Body Prioritized Task Control | `sentis-khatib-whole-body` | 2005 | academic | public-domain |  |
+| Sequence to Sequence Learning | `sutskever-seq2seq-nips-2014` | 2014 | academic | public-domain |  |
 | Shadow Dexterous Hand | `shadow-hand` | 2003 | private | patented |  |
 | Shadow Dexterous Hand | `shadow-dexterous-hand` | 2002 | academic | open-permissive |  |
 | Shanghai Jiao Tong University (SJTU) robotics | `sjtu-shanghai-china-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
@@ -475,6 +484,7 @@
 | Stanford JackRabbot 2 (JR-2) wheeled-arm research robot | `stanford-jr2-2018` | 2018 | academic | public-domain |  |
 | STAR (Sprawl-Tuned Autonomous Robot) | `star-fearing-2013` | 2013 | academic | open-permissive |  |
 | Steins;Gate 0 Amadeus AI consciousness backup | `steins-gate-amadeus-2015` | 2015 | fictional | public-domain |  |
+| Stewart platform / Gough-Stewart parallel mechanism | `stewart-platform-gough-1965` | 1965 | academic | public-domain |  |
 | Stonefish underwater robotics simulator | `stonefish-sim-2018` | 2018 | open | open-permissive |  |
 | Sumitomo CYCLO Speed Reducer | `sumitomo-cyclo` | 1937 | academic | public-domain |  |
 | Surena humanoid (Tehran University) | `surena-tehran-university-2008` | 2008 | academic | public-domain |  |
@@ -555,6 +565,7 @@
 | Word2Vec | `word2vec-mikolov-2013` | 2013 | academic | public-domain |  |
 | XPeng Iron | `xpeng-iron` | 2024 | private | patented | ✓ |
 | Yale OpenHand / ReFlex Hand | `yale-reflex-openhand-2014` | 2014 | academic | open-permissive |  |
+| YOLO (You Only Look Once) | `yolo-redmon-cvpr-2016` | 2015 | academic | public-domain |  |
 | YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) | `nier-automata-2b` | 2017 | fictional | fictional |  |
 | Yoshikawa Manipulability Ellipsoid | `yoshikawa-manipulability` | 1985 | academic | public-domain |  |
 | Zewail City of Science and Technology (Egypt) | `zewail-city-egypt-2011` | 2011 | academic | open-permissive | ✓ |

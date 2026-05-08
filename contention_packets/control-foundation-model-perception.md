@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model-perception`  
-**Entries:** 26 (23 commons-grade, 3 draft)  
+**Entries:** 29 (26 commons-grade, 3 draft)  
 **Earliest disclosure:** 2009-06  
 **Most recent disclosure:** 2026-04
 
@@ -79,6 +79,45 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2015-06 — Faster R-CNN
+
+- **id:** `faster-rcnn-ren-nips-2015`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Microsoft Research Asia; Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun
+- **disclosure citation:** Ren, S., He, K., Girshick, R., Sun, J. 'Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks'. NeurIPS 2015. arXiv:1506.01497. Microsoft Research Asia.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-object-detection`
+
+**Prior art notes:**
+
+> Faster R-CNN (Ren-He-Girshick-Sun NeurIPS 2015) is the foundational two-stage object detector. 10-year-deep public-domain prior art. The pre-Transformer object-detection architecture used in many robotic perception stacks (Kaiming He is also the ResNet author — round-30).
+
+**Sources:**
+
+1. Ren, S. et al. arXiv:1506.01497 NeurIPS 2015.
+
+---
+
+### 2015-06 — YOLO (You Only Look Once)
+
+- **id:** `yolo-redmon-cvpr-2016`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** University of Washington + Allen Institute for AI + FAIR; Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
+- **disclosure citation:** Redmon, J., Divvala, S., Girshick, R., Farhadi, A. 'You Only Look Once: Unified, Real-Time Object Detection'. CVPR 2016. arXiv:1506.02640. University of Washington + Allen Institute for AI + Facebook AI Research. Subsequent: YOLOv2/v3/v4/v5/v6/v7/v8/v9/v10/v11 commercial + community variants.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-object-detection`, `control-real-time-perception`
+
+**Prior art notes:**
+
+> YOLO (Redmon et al. CVPR 2016) is the foundational real-time one-stage object detector. 9-year-deep public-domain prior art. Together with Faster R-CNN (round-32), establishes the dominant object-detection prior-art chain underlying most robotic perception systems pre-Transformer.
+
+**Sources:**
+
+1. Redmon et al. arXiv:1506.02640 CVPR 2016.
+2. Project page (pjreddie.com/darknet/yolo).
+
+---
+
 ### 2015-12 — ResNet (Residual Networks)
 
 - **id:** `resnet-he-cvpr-2016`
@@ -95,6 +134,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. He et al. arXiv:1512.03385 CVPR 2016 Best Paper.
+
+---
+
+### 2016-12 — PointNet
+
+- **id:** `pointnet-qi-cvpr-2017`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Stanford University; Charles R. Qi, Hao Su, Kaichun Mo, Leonidas Guibas
+- **disclosure citation:** Qi, C. R., Su, H., Mo, K., Guibas, L. J. 'PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation'. CVPR 2017. arXiv:1612.00593. Subsequent PointNet++ NeurIPS 2017. Stanford University; Leonidas Guibas group.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-3d-perception`, `control-point-cloud`
+
+**Prior art notes:**
+
+> PointNet (Qi et al. Stanford CVPR 2017) is the foundational deep learning on point clouds paper. 8-year-deep public-domain prior art. The architectural ancestor of: 3D Diffusion Policy (round-17), every point-cloud-conditioned manipulation policy, depth-perception VLAs. Direct shielding for any commercial humanoid claim on 3D point cloud perception.
+
+**Sources:**
+
+1. Qi, C. R. et al. arXiv:1612.00593 CVPR 2017.
+2. Qi, C. R. et al. PointNet++ NeurIPS 2017.
 
 ---
 
@@ -599,4 +658,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*

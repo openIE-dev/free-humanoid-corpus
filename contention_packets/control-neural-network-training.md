@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-neural-network-training`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2014-06  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 1986-10  
 **Most recent disclosure:** 2015-02
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1986-10 — Backpropagation
+
+- **id:** `backpropagation-rumelhart-hinton-1986`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Carnegie Mellon University + UCSD; David E. Rumelhart, Geoffrey Hinton, Ronald Williams
+- **disclosure citation:** Rumelhart, D. E., Hinton, G. E., Williams, R. J. 'Learning Representations by Back-Propagating Errors'. Nature 323 1986. Antecedent: Werbos, P. PhD thesis Harvard 1974 (the mathematical foundations); Linnainmaa, S. master's thesis Helsinki 1970 (chain-rule application to neural networks).
+- **disclosed subsystems:** `control-neural-network-training`, `control-gradient-descent`
+
+**Prior art notes:**
+
+> Backpropagation (Rumelhart-Hinton-Williams Nature 1986; antecedents Werbos 1974, Linnainmaa 1970) is the foundational neural-network training algorithm. 39-year-deep public-domain prior art. The substrate of every neural network in the corpus, every VLA, every policy. Direct shielding for any commercial humanoid claim using neural networks (which is essentially every modern humanoid system).
+
+**Sources:**
+
+1. Rumelhart, D. E., Hinton, G. E., Williams, R. J. Nature 323 1986.
+2. Werbos, P. PhD thesis Harvard 1974 (mathematical foundations).
+3. Linnainmaa, S. master's thesis Helsinki 1970 (chain rule).
+
+---
 
 ### 2014-06 — Dropout regularization
 
@@ -108,4 +129,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*

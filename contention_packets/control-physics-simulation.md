@@ -1,7 +1,7 @@
 ---
 title: "control-physics-simulation"
 parent: "Invalidity Contentions"
-nav_order: 68
+nav_order: 69
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-physics-simulation`  
-**Entries:** 6 (6 commons-grade, 0 draft)  
+**Entries:** 8 (8 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012-10  
 **Most recent disclosure:** 2024-06
 
@@ -59,6 +59,46 @@ cite, copy, or redistribute these contentions.
 2. MuJoCo official site (mujoco.org).
 3. GitHub: github.com/google-deepmind/mujoco.
 4. DeepMind acquisition + open-sourcing announcement, October 2021.
+
+---
+
+### 2016-01 — PyBullet
+
+- **id:** `pybullet-coumans-2017`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Erwin Coumans (Google Brain), Yunfei Bai
+- **disclosure citation:** Coumans, E., Bai, Y. 'PyBullet: A Python module for physics simulation for games, robotics and machine learning'. 2016-2025. pybullet.org. Bullet physics engine antecedent (Coumans 2003+). Open-source ZLIB license.
+- **disclosed subsystems:** `control-physics-simulation`
+
+**Prior art notes:**
+
+> PyBullet (Coumans Google 2017+) is the foundational open-source physics engine for academic robotics + RL. 9-year-deep open-permissive prior art. The dominant academic simulator before MuJoCo open-sourcing 2021. Direct shielding for any commercial humanoid claim using physics-simulation training infrastructure.
+
+**Sources:**
+
+1. PyBullet site (pybullet.org).
+2. GitHub: github.com/bulletphysics/bullet3.
+
+---
+
+### 2018-01 — DeepMind Control Suite
+
+- **id:** `dm-control-suite-tassa-2018`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** DeepMind; Yuval Tassa et al.
+- **disclosure citation:** Tassa, Y., Doron, Y., Muldal, A., Erez, T., Li, Y., Casas, D. d. L., Budden, D., Abdolmaleki, A., Merel, J., Lefrancq, A., Lillicrap, T., Riedmiller, M. 'DeepMind Control Suite'. arXiv:1801.00690, January 2018. DeepMind.
+- **disclosed subsystems:** `control-rl-policy`, `control-benchmarking`, `control-physics-simulation`
+
+**Prior art notes:**
+
+> DeepMind Control Suite (Tassa et al. DeepMind 2018) is the foundational continuous-control RL benchmark suite. 7-year-deep open-permissive prior art. Used in countless RL papers 2018-2024. Direct shielding for any commercial humanoid claim using MuJoCo-based continuous-control benchmark evaluation.
+
+**Sources:**
+
+1. Tassa et al. arXiv:1801.00690 January 2018.
+2. GitHub: github.com/google-deepmind/dm_control.
 
 ---
 
@@ -197,4 +237,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d02ae55`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
