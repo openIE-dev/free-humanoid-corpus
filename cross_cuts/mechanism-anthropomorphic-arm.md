@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-arm`
 
-**16 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2003-09
+Earliest disclosure: 1998-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## KIT ARMAR humanoid lineage (1998-01)
+
+- **id**: `kit-armar-humanoid-2000-2020`
+- **corpus**: academic
+- **creator**: Karlsruhe Institute of Technology (KIT); Tamim Asfour group (founded by Rüdiger Dillmann)
+- **disclosure**: Karlsruhe Institute of Technology (KIT, formerly Universität Karlsruhe). ARMAR humanoid lineage 1998-2020+: ARMAR-I (1998), ARMAR-II (2002), ARMAR-III (2005), ARMAR-IV (2013), ARMAR-VI (2018), ARMAR-7 (2024). Albers + Asfour + Dillmann group (now led by Tamim Asfour). The foundational German academic humanoid lineage.
+- **ip status**: public-domain
+- **prior art notes**: The KIT ARMAR humanoid lineage is the foundational German academic humanoid program (Asfour + Dillmann at KIT, 1998-2020+). 27-year-deep public-domain prior art across 7 generations of ARMAR humanoid. Together with DLR Justin (corpus entry justin / dlr-justin), DLR Hand-II (corpus), DLR Hand-Arm System (corpus round-8), establishes the German academic humanoid + manipulator prior-art baseline. Direct shielding for any commercial humanoid claim that descends architecturally from German academic humanoid lineages.
 
 ## Mitsubishi Wakamaru (2003-09)
 
@@ -59,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Promobot LLC (Perm, Russia; founded 2015 by Aleksey Yuzhakov, Igor Eremeev, Oleg Kivokurtsev). Promobot V.1 reveal 2015; V.2/V.3/V.4 product evolution through 2020+. Robo-C variant (2018): hyper-realistic humanoid head capable of mimicking specific people. promo-bot.ai.
 - **ip status**: trade-secret
 - **prior art notes**: Promobot (Perm Russia 2015+) is Russia's canonical commercial service humanoid. 10-year-deep public-disclosure prior art for: wheeled-humanoid customer-service deployment, hyper-realistic silicone-face robot capable of mimicking specific humans (Robo-C variant 2018), multi-language Russian-language NLP-integrated humanoid. Together with FEDOR (round-22 entry) brings RU-tagged corpus entries to 3.
+
+## IIT WALK-MAN + R1 personal humanoid (Italy) (2015-06)
+
+- **id**: `iit-walk-man-r1-italy-2015`
+- **corpus**: academic
+- **creator**: Istituto Italiano di Tecnologia (IIT, Genoa); Nikos Tsagarakis + Darwin Caldwell groups
+- **disclosure**: Istituto Italiano di Tecnologia (IIT), Genoa, Italy. WALK-MAN humanoid reveal June 2015 for DARPA Robotics Challenge competition (5th place). Subsequent: COMAN+ (Compliant Humanoid), **R1 personal humanoid** (2017-2020) targeted at home + service applications. iit.it. Tsagarakis + Caldwell + Bicchi groups.
+- **ip status**: public-domain
+- **prior art notes**: IIT WALK-MAN + R1 are the canonical Italian academic humanoid platforms (IIT Genoa, 2015-2020+). 10-year-deep public-domain prior art for: SEA + VSA-actuated compliant whole-body humanoid, personal humanoid form factor (130cm/50kg/sub-€30k), DARPA-class disaster-response humanoid. Direct architectural descendant of: Pratt-Williamson SEA (1995, in corpus), Tonietti VSA (2005, round-21), Pisa-IIT SoftHand (in corpus). Together with iCub (corpus entry), establishes the Italian academic humanoid + compliant-actuator prior-art chain. Brings Italian depth from 5 to 6 entries.
 
 ## OceanOne (2016-04)
 

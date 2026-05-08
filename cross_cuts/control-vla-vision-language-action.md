@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vla-vision-language-action`
 
-**90 corpus entries disclose this subsystem.**
+**92 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -798,6 +798,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: NVIDIA GR00T N1 is the canonical first open commercial-licensed humanoid foundation model (GTC March 2025). 2-month-deep open prior art for: dual-system S1/S2 humanoid VLA, egocentric-human-video pre-training at scale, NVIDIA Isaac platform integration. Direct architectural sibling of Figure Helix (round-15 entry). Both adopt the dual-system pattern from cognitive science. The N1.7 EgoScale 20K-hour pre-training corpus is itself prior art for any commercial humanoid claim on egocentric-video-trained policy datasets. Direct shielding for any commercial humanoid VLA claim.
 
+## Google DeepMind Gemini Robotics 1.5 (2025-03)
+
+- **id**: `google-gemini-robotics-1-5-2025`
+- **corpus**: private
+- **creator**: Google DeepMind
+- **disclosure**: Google DeepMind. Gemini Robotics + Gemini Robotics-ER (Embodied Reasoning) reveal March 12 2025 via deepmind.google. Gemini Robotics 1.5 announced June 2025. The first VLA built atop Gemini 2.0 Flash foundation model.
+- **ip status**: trade-secret
+- **prior art notes**: Gemini Robotics 1.5 is Google DeepMind's canonical 2025 commercial VLA built atop Gemini 2.0 Flash. ~6-month-deep public-disclosure prior art at corpus-entry time. The successor to RT-1 (corpus) + RT-2 (corpus) in the Google DeepMind VLA lineage. Direct shielding for any commercial humanoid VLA claim on 'foundation-model-backbone-conditioned policy'.
+
 ## π₀.₅ (Pi-0.5) (2025-04)
 
 - **id**: `physical-intelligence-pi05-2025`
@@ -815,6 +824,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unitree Robotics (Hangzhou, China). R1 product reveal July 2025; global launch April 2026 via shop.unitree.com / AliExpress. unitree.com/R1. Multi-tier product line: R1 Air \$4.9k, R1 Basic \$5.9k-\$8.99k, R1 EDU Standard \$10-12k, R1 EDU Smart \$15-19k, R1 EDU Pro \$20-35k.
 - **ip status**: trade-secret
 - **prior art notes**: Unitree R1 is the canonical 2025+ low-cost consumer humanoid (Unitree Robotics, China). ~10-month-deep public-disclosure prior art at time of corpus entry. **Significantly disrupts the humanoid pricing claim space** — drops the entry price from Boston Dynamics Atlas (>\$1M) / Figure 02 (\$15k+) / Optimus Gen 3 (\$20-30k target) to \$4,900. Establishes 9 km/h running + cartwheels as commercially-deployed-not-academic capabilities. Direct shielding for any commercial humanoid claim on consumer-tier pricing or low-cost humanoid morphology.
+
+## π₀.₅ Knowledge Insulating (Pi-0.5 KI) (2025-09)
+
+- **id**: `physical-intelligence-pi05-ki-2025`
+- **corpus**: academic
+- **creator**: Physical Intelligence
+- **disclosure**: Physical Intelligence. 'π₀.₅: Knowledge Insulating' technical report Sept 2025 via physicalintelligence.company/download/pi05_KI.pdf. Successor variant to π₀.₅ (round-12 entry) addressing catastrophic forgetting + multi-task interference.
+- **ip status**: open-permissive
+- **prior art notes**: π₀.₅ KI is Physical Intelligence's Sept 2025 architectural extension of π₀.₅ (round-12). 8-month-deep prior art for: knowledge-insulation in VLA, catastrophic-forgetting mitigation in foundation-policy training. Direct shielding for any commercial humanoid claim on multi-task VLA training without interference.
 
 ## Genesis AI GENE-26.5 (2026-04)
 

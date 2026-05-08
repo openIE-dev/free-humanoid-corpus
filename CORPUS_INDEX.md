@@ -1,19 +1,22 @@
 # Corpus Index
 
-492 entries total. Generated from corpus.jsonl.
+511 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
 | 1X NEO | `1x-neo` | 2024 | private | patented | ✓ |
 | 3D Diffusion Policy (DP3) | `dp3-ze-rss-2024` | 2024 | academic | open-permissive |  |
+| 3D Gaussian Splatting (Kerbl et al.) | `kerbl-3d-gaussian-splatting-siggraph-2023` | 2023 | academic | open-permissive |  |
 | 8 Man (Hachiman) | `8-man-hachiman` | 1963 | fictional | fictional |  |
 | A*STAR Institute for Infocomm Research (I2R) robotics | `a-star-singapore-i2r-robotics` | 2002 | academic | open-permissive | ✓ |
 | Abbeel-Ng Apprenticeship Learning via Inverse Reinforcement Learning | `abbeel-ng-irl-2004` | 2004 | academic | public-domain |  |
 | ACT (Action Chunking Transformer) / ALOHA | `act-aloha` | 2023 | academic | open-permissive |  |
 | Adversarial Motion Priors (AMP) | `amp-peng-siggraph-2021` | 2021 | academic | open-permissive |  |
+| Adversarial Skill Embeddings (ASE) | `ase-peng-stanford-2022` | 2022 | academic | open-permissive |  |
 | AgiBot A1 | `agibot-a1` | 2023 | private | patented | ✓ |
 | Akira (Tetsuo cyborg-mutation, Akira containment) | `akira-tetsuo-1988` | 1982 | fictional | fictional |  |
 | Alita / Gally (Battle Angel Alita / Gunnm) | `battle-angel-alita` | 1990 | fictional | fictional |  |
+| Allegro Hand (Wonik / SimLab) | `allegro-hand-wonik-simlab-2014` | 2014 | private | trade-secret |  |
 | ALOHA-2 enhanced bimanual teleoperation platform | `aloha-2-aldaco-2024` | 2024 | academic | public-domain |  |
 | ALVINN (Autonomous Land Vehicle in a Neural Network) | `pomerleau-alvinn` | 1989 | academic | public-domain |  |
 | AM-RADIO (NVIDIA) | `nvidia-am-radio-2024` | 2023 | academic | open-permissive |  |
@@ -46,6 +49,7 @@
 | Ava (Ex Machina) | `ex-machina-ava` | 2014 | fictional | fictional |  |
 | B-9 (Lost in Space) | `b-9-lost-in-space` | 1965 | fictional | fictional |  |
 | B1 Battle Droid | `b1-battle-droid` | 1999 | fictional | fictional |  |
+| BarrettHand BH8-280 / BH8-282 | `barrett-hand-1988` | 1988 | private | trade-secret |  |
 | Baymax | `baymax-big-hero-6` | 2014 | fictional | fictional |  |
 | BB-8 | `bb-8-star-wars` | 2015 | fictional | fictional |  |
 | Berkeley BLEEX (Lower Extremity Exoskeleton) | `berkeley-bleex-kazerooni-2004` | 2004 | academic | public-domain |  |
@@ -82,6 +86,7 @@
 | Capture Point (Pratt humanoid balance) | `pratt-capture-point-2007` | 2006 | academic | public-domain |  |
 | Casshan / Casshern (Neo-Human Casshan) | `casshan-tatsunoko` | 1973 | fictional | fictional | ✓ |
 | Cassie | `cassie-osu` | 2017 | academic | patented |  |
+| CEA-LIST France robotics | `cea-list-saclay-france-robotics` | 2000 | academic | open-permissive | ✓ |
 | Cell | `dbz-cell-android-21` | 1992 | fictional | fictional |  |
 | Chappie | `chappie` | 2015 | fictional | fictional |  |
 | Cheetah-cub | `cheetah-cub-epfl` | 2013 | academic | open-permissive |  |
@@ -149,6 +154,7 @@
 | Ergo Proxy (Autoreivs and Proxies) | `ergo-proxy-2006` | 2006 | fictional | fictional |  |
 | Eureka LLM-driven reward design | `eureka-ma-2023` | 2023 | academic | public-domain |  |
 | Evangelion (EVA Unit-01) | `evangelion` | 1995 | fictional | fictional | ✓ |
+| ExBody whole-body humanoid policy | `exbody-stanford-2024` | 2024 | academic | open-permissive |  |
 | FCSTAR (Flying-Climbing STAR) | `fcstar-zarrouk-2021` | 2021 | academic | open-permissive | ✓ |
 | Featherstone Robot Dynamics Algorithms | `featherstone-rdf` | 1987 | academic | public-domain |  |
 | Ferrari-Canny Grasp Quality Metrics | `ferrari-canny-grasp-quality` | 1992 | academic | public-domain |  |
@@ -176,6 +182,7 @@
 | Genos (One Punch Man) | `opm-genos` | 2009 | fictional | fictional |  |
 | Geth | `geth-mass-effect` | 2007 | fictional | fictional |  |
 | Ghost Robotics Vision 60 | `ghost-robotics-vision-60` | 2018 | private | patented |  |
+| Google DeepMind Gemini Robotics 1.5 | `google-gemini-robotics-1-5-2025` | 2025 | private | trade-secret | ✓ |
 | Goswami Foot Rotation Indicator | `goswami-fri` | 1999 | academic | public-domain |  |
 | Habitat 3.0 | `fair-habitat-3-puig-2024` | 2023 | academic | open-permissive |  |
 | Habitat-Sim (Facebook AI Research) | `fair-habitat-sim-2019` | 2019 | academic | open-permissive |  |
@@ -210,6 +217,7 @@
 | HUBO | `hubo` | 2004 | academic | open-permissive |  |
 | Huey, Dewey, and Louie (Silent Running) | `silent-running-drones` | 1972 | fictional | fictional |  |
 | Humanoids (With Folded Hands) | `williamson-folded-hands` | 1947 | fictional | fictional |  |
+| HumanPlus humanoid | `humanplus-stanford-2024` | 2024 | academic | open-permissive |  |
 | Humans (Channel 4 / AMC) Synth household robots | `humans-channel4-amc-2015` | 2015 | fictional | public-domain |  |
 | Hwangbo ANYmal Sim-to-Real Locomotion | `hwangbo-anymal-sim2real` | 2019 | academic | open-permissive |  |
 | Iberall opposition-space hand-kinematics theory | `iberall-opposition-space-1986` | 1986 | academic | public-domain |  |
@@ -217,8 +225,10 @@
 | IG-88 | `ig-88-star-wars` | 1980 | fictional | fictional |  |
 | Igor Sikorsky Kyiv Polytechnic Institute robotics | `kpi-igor-sikorsky-ukraine-kyiv-robotics` | 2000 | academic | open-permissive | ✓ |
 | IIT India robotics research cluster | `iit-india-robotics-research-cluster` | 2010 | academic | open-permissive | ✓ |
+| IIT WALK-MAN + R1 personal humanoid (Italy) | `iit-walk-man-r1-italy-2015` | 2015 | academic | public-domain |  |
 | Ijspeert-Schaal Dynamic Movement Primitives (formal extension) | `ijspeert-dmp-2013` | 2013 | academic | public-domain |  |
 | InMoov | `inmoov` | 2012 | open | open-permissive |  |
+| INRIA France robotics aggregator | `inria-france-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Intuitive Surgical da Vinci | `intuitive-surgical-da-vinci-2000` | 2000 | private | trade-secret |  |
 | IP.com Prior Art Database | `ip-com-prior-art-database` | 2000 | open | open-permissive |  |
 | IPN CIC Mexico robotics (Instituto Politécnico Nacional) | `ipn-cic-mexico-robotics` | 2000 | academic | open-permissive | ✓ |
@@ -236,6 +246,7 @@
 | Jason ROV | `jason-rov-1989` | 1989 | academic | public-domain |  |
 | K-Scale Labs Open Source Humanoid | `k-scale-os` | 2024 | open | open-permissive | ✓ |
 | K9 | `dr-who-k9` | 1977 | fictional | fictional |  |
+| KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO) | `kaist-fx-2-1995` | 2003 | academic | public-domain |  |
 | Kajita Linear Inverted Pendulum Model | `kajita-lipm` | 2001 | academic | public-domain |  |
 | Kapandji thumb-opposition classification | `kapandji-thumb-opposition-1986` | 1986 | academic | public-domain |  |
 | KAUST Saudi Arabia AI + robotics | `kaust-saudi-arabia-robotics` | 2009 | academic | open-permissive | ✓ |
@@ -243,11 +254,13 @@
 | Kepler K2 | `kepler-k2` | 2024 | private | patented | ✓ |
 | Khalifa University UAE Abu Dhabi robotics | `khalifa-university-uae-abu-dhabi-robotics` | 2007 | academic | open-permissive | ✓ |
 | Khatib Operational Space Formulation | `khatib-operational-space` | 1987 | academic | public-domain |  |
+| KIT ARMAR humanoid lineage | `kit-armar-humanoid-2000-2020` | 1998 | academic | public-domain |  |
 | Klara and the Sun — Artificial Friend (AF) child companion | `ishiguro-klara-and-the-sun-2021` | 2021 | fictional | public-domain |  |
 | Knight Sabers Hardsuits (Bubblegum Crisis) | `bubblegum-crisis-hardsuits` | 1987 | fictional | fictional |  |
 | Knights of Sidonia (Garde mecha) | `knights-of-sidonia-2013` | 2009 | fictional | fictional |  |
 | KTH Royal Institute of Technology robotics | `kth-sweden-stockholm-robotics` | 2000 | academic | open-permissive | ✓ |
 | KX-series Imperial Security Droids (K-2SO) | `kx-series-k2so-2016` | 2016 | fictional | fictional |  |
+| LAAS-CNRS Toulouse humanoid robotics | `laas-cnrs-toulouse-humanoid-2003` | 2003 | academic | public-domain |  |
 | LEG-SLAM | `leg-slam-2025` | 2025 | academic | open-permissive | ✓ |
 | LEGO-SLAM | `lego-slam-2025` | 2025 | academic | open-permissive | ✓ |
 | LEGS (Language-Embedded Gaussian Splats) | `legs-berkeley-2024` | 2024 | academic | open-permissive |  |
@@ -272,6 +285,7 @@
 | Mazinger Z | `mazinger-z` | 1972 | fictional | fictional |  |
 | McGeer Passive Dynamic Walker | `mcgeer-passive-walker` | 1990 | academic | public-domain |  |
 | McKibben pneumatic artificial muscle | `mckibben-pneumatic-muscle-1957` | 1957 | academic | public-domain |  |
+| MediaPipe (Google on-device perception) | `mediapipe-google-2019` | 2019 | academic | open-permissive |  |
 | MegaSaM | `megasam-google-2024` | 2024 | academic | open-permissive | ✓ |
 | Memic Hominis | `memic-hominis-2020` | 2021 | private | trade-secret |  |
 | METU Ankara robotics (Middle East Technical University) | `metu-ankara-turkey-robotics` | 2000 | academic | open-permissive | ✓ |
@@ -370,6 +384,7 @@
 | Robonaut 2 | `robonaut-2` | 2010 | academic | patented |  |
 | Robot (Robot & Frank) | `robot-and-frank` | 2012 | fictional | fictional |  |
 | Robot Era STAR1 | `robot-era-star1` | 2024 | private | patented | ✓ |
+| Robotis OP3 | `robotis-op3-2017` | 2017 | private | trade-secret |  |
 | Robotman (Robert Crane) | `dc-robotman-1942` | 1942 | fictional | fictional |  |
 | RoDyn-SLAM | `rodyn-slam-jiang-2024` | 2024 | academic | open-permissive |  |
 | Roetenberg Inertial Motion Capture (Xsens MVN) | `roetenberg-xsens-imu` | 2009 | academic | open-permissive |  |
@@ -392,6 +407,7 @@
 | SayCan (Do As I Can, Not As I Say) | `saycan-google` | 2022 | academic | open-permissive |  |
 | Schaal 'Is imitation learning the route to humanoid robots?' | `schaal-imitation-1999` | 1999 | academic | public-domain |  |
 | Schlesinger 6-grasp classification | `schlesinger-grasp-classification-1919` | 1919 | academic | public-domain |  |
+| Schunk SVH 5-finger dexterous hand | `schunk-svh-german-2013` | 2013 | private | trade-secret |  |
 | Seaglider AUV | `seaglider-auv-2001` | 2001 | academic | open-permissive |  |
 | SemGauss-SLAM | `semgauss-slam-2024` | 2024 | academic | open-permissive | ✓ |
 | SensAble Phantom haptic device | `sensable-phantom-1994` | 1994 | private | trade-secret |  |
@@ -400,6 +416,7 @@
 | Sentis-Khatib Whole-Body Prioritized Task Control | `sentis-khatib-whole-body` | 2005 | academic | public-domain |  |
 | Shadow Dexterous Hand | `shadow-hand` | 2003 | private | patented |  |
 | Shadow Dexterous Hand | `shadow-dexterous-hand` | 2002 | academic | open-permissive |  |
+| Shanghai Jiao Tong University (SJTU) robotics | `sjtu-shanghai-china-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Sharon Apple | `macross-plus-sharon-apple` | 1994 | fictional | fictional |  |
 | Shielding for Safe Reinforcement Learning | `shielding-rl` | 2018 | academic | public-domain |  |
 | SIFT (Scale-Invariant Feature Transform) | `lowe-sift-1999` | 1999 | academic | patented |  |
@@ -449,6 +466,7 @@
 | Toyota T-HR3 | `toyota-thr3` | 2017 | private | patented |  |
 | Triton XLX work-class ROV | `triton-xlx-rov` | 2003 | private | trade-secret |  |
 | Trurl and Klapaucius (The Cyberiad) | `lem-cyberiad` | 1965 | fictional | fictional |  |
+| Tsinghua University China robotics | `tsinghua-china-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | TSTAR (Tail STAR) | `tstar-zarrouk-2018` | 2018 | academic | open-permissive | ✓ |
 | TU Delft Netherlands robotics | `tu-delft-netherlands-robotics` | 2000 | academic | open-permissive | ✓ |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
@@ -496,3 +514,4 @@
 | Ziebart Maximum Entropy Inverse Reinforcement Learning | `ziebart-maxent-irl-2008` | 2008 | academic | public-domain |  |
 | π₀ (Pi-Zero) | `physical-intelligence-pi0-2024` | 2024 | academic | open-permissive |  |
 | π₀.₅ (Pi-0.5) | `physical-intelligence-pi05-2025` | 2025 | academic | open-permissive |  |
+| π₀.₅ Knowledge Insulating (Pi-0.5 KI) | `physical-intelligence-pi05-ki-2025` | 2025 | academic | open-permissive | ✓ |

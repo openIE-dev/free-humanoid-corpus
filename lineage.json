@@ -883,6 +883,19 @@
       "descendants": []
     },
     {
+      "id": "barrett-hand-1988",
+      "name": "BarrettHand BH8-280 / BH8-282",
+      "year": "1988",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "allegro-hand-wonik-simlab-2014",
+        "pisa-iit-softhand",
+        "schunk-svh-german-2013",
+        "shadow-dexterous-hand"
+      ]
+    },
+    {
       "id": "patlabor-av-98",
       "name": "AV-98 Ingram",
       "year": "1988",
@@ -1191,6 +1204,7 @@
         "cassie-osu",
         "digit-meta",
         "hwangbo-anymal-sim2real",
+        "iit-walk-man-r1-italy-2015",
         "nasa-valkyrie",
         "pratt-virtual-model-control",
         "tonietti-vsa-pisa-iit-2005"
@@ -1248,6 +1262,14 @@
       "descendants": [
         "asimo"
       ]
+    },
+    {
+      "id": "kit-armar-humanoid-2000-2020",
+      "name": "KIT ARMAR humanoid lineage",
+      "year": "1998",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "cowboy-bebop-pierrot-1998",
@@ -1360,6 +1382,14 @@
       "descendants": []
     },
     {
+      "id": "cea-list-saclay-france-robotics",
+      "name": "CEA-LIST France robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "chulalongkorn-thailand-bangkok-robotics",
       "name": "Chulalongkorn University Thailand robotics",
       "year": "2000",
@@ -1378,6 +1408,14 @@
     {
       "id": "hcmut-vietnam-ho-chi-minh-robotics",
       "name": "HCMUT Ho Chi Minh City University of Technology robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "inria-france-robotics-cluster",
+      "name": "INRIA France robotics aggregator",
       "year": "2000",
       "corpus": "academic",
       "ancestors": [],
@@ -1446,6 +1484,24 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "sjtu-shanghai-china-robotics-cluster",
+      "name": "Shanghai Jiao Tong University (SJTU) robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tsinghua-china-robotics-cluster",
+      "name": "Tsinghua University China robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "rdt-1b-thu-2024"
+      ]
     },
     {
       "id": "tu-delft-netherlands-robotics",
@@ -1607,6 +1663,7 @@
       "year": "2002",
       "corpus": "academic",
       "ancestors": [
+        "barrett-hand-1988",
         "salisbury-stanford-jpl-hand"
       ],
       "descendants": [
@@ -1692,6 +1749,16 @@
       "descendants": []
     },
     {
+      "id": "laas-cnrs-toulouse-humanoid-2003",
+      "name": "LAAS-CNRS Toulouse humanoid robotics",
+      "year": "2003",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "mastalli-crocoddyl-2020"
+      ]
+    },
+    {
       "id": "mitsubishi-wakamaru-2003",
       "name": "Mitsubishi Wakamaru",
       "year": "2003",
@@ -1708,6 +1775,17 @@
         "astro-boy-greatest-robot"
       ],
       "descendants": []
+    },
+    {
+      "id": "kaist-fx-2-1995",
+      "name": "KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO)",
+      "year": "2003",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "hubo",
+        "kaist-drc-hubo-2015"
+      ]
     },
     {
       "id": "bsg-number-six",
@@ -1740,6 +1818,7 @@
       "corpus": "academic",
       "ancestors": [
         "asimo",
+        "kaist-fx-2-1995",
         "wabot-1"
       ],
       "descendants": [
@@ -1835,7 +1914,8 @@
         "pratt-williamson-sea"
       ],
       "descendants": [
-        "dlr-hand-arm-system-2011"
+        "dlr-hand-arm-system-2011",
+        "iit-walk-man-r1-italy-2015"
       ]
     },
     {
@@ -2196,7 +2276,8 @@
       "corpus": "open",
       "ancestors": [],
       "descendants": [
-        "poppy-humanoid"
+        "poppy-humanoid",
+        "robotis-op3-2017"
       ]
     },
     {
@@ -2568,6 +2649,16 @@
       "descendants": []
     },
     {
+      "id": "schunk-svh-german-2013",
+      "name": "Schunk SVH 5-finger dexterous hand",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [
+        "barrett-hand-1988"
+      ],
+      "descendants": []
+    },
+    {
       "id": "cheetah-cub-epfl",
       "name": "Cheetah-cub",
       "year": "2013",
@@ -2607,6 +2698,16 @@
       "year": "2014",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "allegro-hand-wonik-simlab-2014",
+      "name": "Allegro Hand (Wonik / SimLab)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [
+        "barrett-hand-1988"
+      ],
       "descendants": []
     },
     {
@@ -2702,7 +2803,9 @@
       "name": "Pisa-IIT SoftHand",
       "year": "2014",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "barrett-hand-1988"
+      ],
       "descendants": [
         "pisa-iit-softhand-2"
       ]
@@ -2810,11 +2913,24 @@
       "descendants": []
     },
     {
+      "id": "iit-walk-man-r1-italy-2015",
+      "name": "IIT WALK-MAN + R1 personal humanoid (Italy)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [
+        "pratt-williamson-sea",
+        "tonietti-vsa-pisa-iit-2005"
+      ],
+      "descendants": []
+    },
+    {
       "id": "kaist-drc-hubo-2015",
       "name": "DRC-HUBO+ (DARPA Robotics Challenge winner)",
       "year": "2015",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "kaist-fx-2-1995"
+      ],
       "descendants": [
         "rainbow-robotics-rb-y1"
       ]
@@ -3032,6 +3148,18 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "robotis-op3-2017",
+      "name": "Robotis OP3",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "darwin-op"
+      ],
+      "descendants": [
+        "deepmind-humanoid-soccer-haarnoja-2024"
+      ]
     },
     {
       "id": "doosan-robotics-cobots-2017",
@@ -3404,6 +3532,14 @@
       ]
     },
     {
+      "id": "mediapipe-google-2019",
+      "name": "MediaPipe (Google on-device perception)",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "diligent-moxi",
       "name": "Diligent Moxi",
       "year": "2019",
@@ -3495,6 +3631,7 @@
       "year": "2020",
       "corpus": "academic",
       "ancestors": [
+        "laas-cnrs-toulouse-humanoid-2003",
         "tassa-ilqg-2012"
       ],
       "descendants": []
@@ -3575,7 +3712,11 @@
       "ancestors": [
         "deepmimic-peng-siggraph-2018"
       ],
-      "descendants": []
+      "descendants": [
+        "ase-peng-stanford-2022",
+        "exbody-stanford-2024",
+        "humanplus-stanford-2024"
+      ]
     },
     {
       "id": "orb-slam3-2021",
@@ -3744,6 +3885,19 @@
         "hwangbo-anymal-sim2real"
       ],
       "descendants": []
+    },
+    {
+      "id": "ase-peng-stanford-2022",
+      "name": "Adversarial Skill Embeddings (ASE)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [
+        "amp-peng-siggraph-2021"
+      ],
+      "descendants": [
+        "exbody-stanford-2024",
+        "humanplus-stanford-2024"
+      ]
     },
     {
       "id": "saycan-google",
@@ -4108,6 +4262,21 @@
       "descendants": []
     },
     {
+      "id": "kerbl-3d-gaussian-splatting-siggraph-2023",
+      "name": "3D Gaussian Splatting (Kerbl et al.)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "dgs-slam-kong-2024",
+        "leg-slam-2025",
+        "lego-slam-2025",
+        "legs-berkeley-2024",
+        "semgauss-slam-2024",
+        "wildgs-slam-2025"
+      ]
+    },
+    {
       "id": "nvidia-isaac-lab-2024",
       "name": "NVIDIA Isaac Lab",
       "year": "2023",
@@ -4323,6 +4492,17 @@
       "descendants": []
     },
     {
+      "id": "exbody-stanford-2024",
+      "name": "ExBody whole-body humanoid policy",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "amp-peng-siggraph-2021",
+        "ase-peng-stanford-2022"
+      ],
+      "descendants": []
+    },
+    {
       "id": "umi-stanford",
       "name": "Universal Manipulation Interface (UMI)",
       "year": "2024",
@@ -4377,7 +4557,9 @@
       "name": "SemGauss-SLAM",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "kerbl-3d-gaussian-splatting-siggraph-2023"
+      ],
       "descendants": []
     },
     {
@@ -4425,7 +4607,9 @@
       "name": "DeepMind humanoid soccer (Haarnoja et al.)",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "robotis-op3-2017"
+      ],
       "descendants": []
     },
     {
@@ -4487,6 +4671,17 @@
       "year": "2024",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "humanplus-stanford-2024",
+      "name": "HumanPlus humanoid",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "amp-peng-siggraph-2021",
+        "ase-peng-stanford-2022"
+      ],
       "descendants": []
     },
     {
@@ -4611,6 +4806,7 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [
+        "kerbl-3d-gaussian-splatting-siggraph-2023",
         "lerf-kerr-2023"
       ],
       "descendants": []
@@ -4649,7 +4845,9 @@
       "name": "RDT-1B (Robotics Diffusion Transformer)",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "tsinghua-china-robotics-cluster"
+      ],
       "descendants": []
     },
     {
@@ -4667,7 +4865,9 @@
       "name": "DGS-SLAM",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "kerbl-3d-gaussian-splatting-siggraph-2023"
+      ],
       "descendants": []
     },
     {
@@ -4772,6 +4972,14 @@
       "descendants": []
     },
     {
+      "id": "google-gemini-robotics-1-5-2025",
+      "name": "Google DeepMind Gemini Robotics 1.5",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "howell-tassa-mujoco-mpc-2025",
       "name": "MuJoCo MPC (Howell-Tassa)",
       "year": "2025",
@@ -4809,14 +5017,18 @@
       "ancestors": [
         "physical-intelligence-pi0-2024"
       ],
-      "descendants": []
+      "descendants": [
+        "physical-intelligence-pi05-ki-2025"
+      ]
     },
     {
       "id": "wildgs-slam-2025",
       "name": "WildGS-SLAM",
       "year": "2025",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "kerbl-3d-gaussian-splatting-siggraph-2023"
+      ],
       "descendants": []
     },
     {
@@ -4824,7 +5036,9 @@
       "name": "LEG-SLAM",
       "year": "2025",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "kerbl-3d-gaussian-splatting-siggraph-2023"
+      ],
       "descendants": []
     },
     {
@@ -4873,6 +5087,16 @@
       "descendants": []
     },
     {
+      "id": "physical-intelligence-pi05-ki-2025",
+      "name": "π₀.₅ Knowledge Insulating (Pi-0.5 KI)",
+      "year": "2025",
+      "corpus": "academic",
+      "ancestors": [
+        "physical-intelligence-pi05-2025"
+      ],
+      "descendants": []
+    },
+    {
       "id": "educational-softhand-a-2025",
       "name": "Educational SoftHand-A",
       "year": "2025",
@@ -4906,7 +5130,9 @@
       "name": "LEGO-SLAM",
       "year": "2025",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "kerbl-3d-gaussian-splatting-siggraph-2023"
+      ],
       "descendants": []
     },
     {

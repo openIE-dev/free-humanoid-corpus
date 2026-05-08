@@ -1,7 +1,7 @@
 ---
 title: "mechanism-exoskeleton"
 parent: "Invalidity Contentions"
-nav_order: 90
+nav_order: 93
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-exoskeleton`  
-**Entries:** 5 (4 commons-grade, 1 draft)  
+**Entries:** 6 (4 commons-grade, 2 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2018-09
 
@@ -57,6 +57,25 @@ cite, copy, or redistribute these contentions.
 
 1. Boğaziçi University corporate site (boun.edu.tr).
 2. Boğaziçi Intelligent Systems Laboratory publications.
+
+---
+
+### 2000-01 — CEA-LIST France robotics *(draft)*
+
+- **id:** `cea-list-saclay-france-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** CEA-LIST (Saclay, France); Interactive Robotics Lab
+- **disclosure citation:** Commissariat à l'énergie atomique et aux énergies alternatives / Laboratoire d'Intégration des Systèmes et des Technologies (CEA-LIST), Saclay, France. Robotic systems research at the Interactive Robotics Lab. Notable: surgical robotics, telerobotic systems, exoskeletons (CEA Hercule).
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-exoskeleton`
+
+**Prior art notes:**
+
+> CEA-LIST is one of three pillars of French academic robotics (alongside INRIA + LAAS-CNRS). Brings French depth from 14 to 15.
+
+**Sources:**
+
+1. CEA-LIST corporate site (cea.fr/cea-tech/list).
 
 ---
 
@@ -174,4 +193,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

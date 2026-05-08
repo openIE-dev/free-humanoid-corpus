@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-arm"
 parent: "Invalidity Contentions"
-nav_order: 84
+nav_order: 87
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-arm`  
-**Entries:** 16 (13 commons-grade, 3 draft)  
-**Earliest disclosure:** 2003-09  
+**Entries:** 18 (15 commons-grade, 3 draft)  
+**Earliest disclosure:** 1998-01  
 **Most recent disclosure:** 2025-02
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1998-01 — KIT ARMAR humanoid lineage
+
+- **id:** `kit-armar-humanoid-2000-2020`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Karlsruhe Institute of Technology (KIT); Tamim Asfour group (founded by Rüdiger Dillmann)
+- **disclosure citation:** Karlsruhe Institute of Technology (KIT, formerly Universität Karlsruhe). ARMAR humanoid lineage 1998-2020+: ARMAR-I (1998), ARMAR-II (2002), ARMAR-III (2005), ARMAR-IV (2013), ARMAR-VI (2018), ARMAR-7 (2024). Albers + Asfour + Dillmann group (now led by Tamim Asfour). The foundational German academic humanoid lineage.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`, `control-whole-body-control`
+
+**Prior art notes:**
+
+> The KIT ARMAR humanoid lineage is the foundational German academic humanoid program (Asfour + Dillmann at KIT, 1998-2020+). 27-year-deep public-domain prior art across 7 generations of ARMAR humanoid. Together with DLR Justin (corpus entry justin / dlr-justin), DLR Hand-II (corpus), DLR Hand-Arm System (corpus round-8), establishes the German academic humanoid + manipulator prior-art baseline. Direct shielding for any commercial humanoid claim that descends architecturally from German academic humanoid lineages.
+
+**Sources:**
+
+1. KIT High Performance Humanoid Technologies Lab (h2t.iar.kit.edu).
+2. Asfour + Dillmann publications.
+3. Master Motor Map (mmm.humanoids.kit.edu).
+
+---
 
 ### 2003-09 — Mitsubishi Wakamaru
 
@@ -145,6 +166,28 @@ cite, copy, or redistribute these contentions.
 1. Promobot corporate site (promo-bot.ai).
 2. TechCrunch coverage 2015+ ('Russian robot ...').
 3. Wikipedia 'Promobot'.
+
+---
+
+### 2015-06 — IIT WALK-MAN + R1 personal humanoid (Italy)
+
+- **id:** `iit-walk-man-r1-italy-2015`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Istituto Italiano di Tecnologia (IIT, Genoa); Nikos Tsagarakis + Darwin Caldwell groups
+- **disclosure citation:** Istituto Italiano di Tecnologia (IIT), Genoa, Italy. WALK-MAN humanoid reveal June 2015 for DARPA Robotics Challenge competition (5th place). Subsequent: COMAN+ (Compliant Humanoid), **R1 personal humanoid** (2017-2020) targeted at home + service applications. iit.it. Tsagarakis + Caldwell + Bicchi groups.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric-series-elastic`, `actuator-variable-stiffness`
+
+**Prior art notes:**
+
+> IIT WALK-MAN + R1 are the canonical Italian academic humanoid platforms (IIT Genoa, 2015-2020+). 10-year-deep public-domain prior art for: SEA + VSA-actuated compliant whole-body humanoid, personal humanoid form factor (130cm/50kg/sub-€30k), DARPA-class disaster-response humanoid. Direct architectural descendant of: Pratt-Williamson SEA (1995, in corpus), Tonietti VSA (2005, round-21), Pisa-IIT SoftHand (in corpus). Together with iCub (corpus entry), establishes the Italian academic humanoid + compliant-actuator prior-art chain. Brings Italian depth from 5 to 6 entries.
+
+**Sources:**
+
+1. IIT corporate site (iit.it).
+2. Tsagarakis + Caldwell publications (iit.it/research/lines/humanoid-and-human-centred-mechatronics).
+3. WALK-MAN DRC 2015 documentation.
+4. IIT R1 product page.
 
 ---
 
@@ -411,4 +454,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

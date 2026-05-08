@@ -6,14 +6,41 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**16 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2008-12
+Earliest disclosure: 1988-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## BarrettHand BH8-280 / BH8-282 (1988-01)
+
+- **id**: `barrett-hand-1988`
+- **corpus**: private
+- **creator**: Barrett Technology / William Townsend (MIT spinout)
+- **disclosure**: Barrett Technology, LLC. (Cambridge, MA, USA; founded 1988 by William Townsend, MIT spinout). BarrettHand BH8-280 commercial release 1988+. The first commercial multi-fingered dexterous hand. barrett.com.
+- **ip status**: trade-secret
+- **prior art notes**: BarrettHand is **the first commercial multi-fingered dexterous hand** (Barrett Technology MIT spinout 1988+). 37-year-deep public-disclosure prior art. The architectural ancestor of every subsequent commercial dexterous hand: Shadow (corpus), Allegro (round-27), Schunk SVH (round-27), Pisa-IIT SoftHand (corpus). Direct shielding for any commercial humanoid claim on multi-fingered dexterous hand commercial deployment.
+
+## KIT ARMAR humanoid lineage (1998-01)
+
+- **id**: `kit-armar-humanoid-2000-2020`
+- **corpus**: academic
+- **creator**: Karlsruhe Institute of Technology (KIT); Tamim Asfour group (founded by Rüdiger Dillmann)
+- **disclosure**: Karlsruhe Institute of Technology (KIT, formerly Universität Karlsruhe). ARMAR humanoid lineage 1998-2020+: ARMAR-I (1998), ARMAR-II (2002), ARMAR-III (2005), ARMAR-IV (2013), ARMAR-VI (2018), ARMAR-7 (2024). Albers + Asfour + Dillmann group (now led by Tamim Asfour). The foundational German academic humanoid lineage.
+- **ip status**: public-domain
+- **prior art notes**: The KIT ARMAR humanoid lineage is the foundational German academic humanoid program (Asfour + Dillmann at KIT, 1998-2020+). 27-year-deep public-domain prior art across 7 generations of ARMAR humanoid. Together with DLR Justin (corpus entry justin / dlr-justin), DLR Hand-II (corpus), DLR Hand-Arm System (corpus round-8), establishes the German academic humanoid + manipulator prior-art baseline. Direct shielding for any commercial humanoid claim that descends architecturally from German academic humanoid lineages.
+
+## KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO) (2003-12)
+
+- **id**: `kaist-fx-2-1995`
+- **corpus**: academic
+- **creator**: KAIST; Jun-Ho Oh group
+- **disclosure**: Korea Advanced Institute of Science and Technology (KAIST). KHR series of humanoids 1990s-2000s under Jun-Ho Oh group. KHR-1 (2002), KHR-2 (2003), KHR-3 / **HUBO** (2004) — the pre-HUBO lineage. Documented in: Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
+- **ip status**: public-domain
+- **prior art notes**: The KAIST KHR series (1995-2004) is the foundational Korean academic humanoid lineage that produced HUBO. 22-year-deep public-domain prior art. Direct ancestor chain: KHR-1 → KHR-2 → KHR-3/HUBO → DRC-HUBO+. Together with HUBO (corpus entry) and DRC-HUBO+ (round-22), establishes the Korean humanoid academic lineage spanning 22+ years. Brings Korean entries to 8.
 
 ## Surena humanoid (Tehran University) (2008-12)
 
@@ -33,6 +60,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Universal Robots is the canonical 2008+ commercial cobot anchor (Odense Denmark, SDU spinout). 17-year-deep public-disclosure prior art for: 6-DoF anthropomorphic cobot at the educational/industrial price point, ISO 10218 + ISO/TS 15066 collaborative-safety compliance, PolyScope teach-pendant programming model. **The architectural anchor of every subsequent commercial cobot** — Doosan (round-22 entry), Franka Emika, Aubo, Elite, Jaka, Universal Robots' own e-Series. The Odense Denmark cobot cluster (Robocluster consortium) is the Nordic robotics anchor. Direct shielding for any commercial humanoid claim that includes cobot-class collaborative-arm derivative applications. Closes the Denmark / Nordic gap (corpus had no Danish entries prior).
 
+## Allegro Hand (Wonik / SimLab) (2014-04)
+
+- **id**: `allegro-hand-wonik-simlab-2014`
+- **corpus**: private
+- **creator**: Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea)
+- **disclosure**: Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea). Allegro Hand commercial reveal April 2014 via wonikrobotics.com / simlab.co.kr. **The de facto academic-deployment reference for 16-DoF 4-finger dexterous hands** — used in OpenAI Dactyl (corpus entry openai-dactyl) Rubik's-Cube manipulation 2019, and 100+ academic publications.
+- **ip status**: trade-secret
+- **prior art notes**: Allegro Hand is the canonical academic-deployment reference 16-DoF 4-finger dexterous hand (Wonik / SimLab Korea, 2014+). 11-year-deep public-disclosure prior art. **Used in OpenAI Dactyl 2019 Rubik's-Cube manipulation (corpus entry openai-dactyl)** + 100+ academic publications. Direct architectural successor to BarrettHand (round-27 entry below). Direct shielding for any commercial humanoid claim on 16-DoF tendon-driven dexterous hand.
+
 ## DRC-HUBO+ (DARPA Robotics Challenge winner) (2015-06)
 
 - **id**: `kaist-drc-hubo-2015`
@@ -50,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics. SpotMini public reveal June 2016 demo video; subsequent IEEE Spectrum coverage 2017-2018; capability demonstrations via Boston Dynamics YouTube. Discontinued in favor of Spot (the production quadruped) circa 2019.
 - **ip status**: trade-secret
 - **prior art notes**: SpotMini is the architectural predecessor to commercial Spot. ~9-year-deep public-disclosure prior art for: all-electric quadruped morphology (distinct from hydraulic BigDog/Spot ancestors), dorsal-mount manipulator on quadruped base, Velodyne+depth-camera quadruped sensor stack. Trade-secret control software, public capability surface. Direct shielding for any commercial humanoid-quadruped or quadruped-manipulator claim. Cited in cheetah-cub-epfl and black-mirror-metalhead-2017 prior_art_notes; round-14 backfill closes those citation chains.
+
+## Robotis OP3 (2017-08)
+
+- **id**: `robotis-op3-2017`
+- **corpus**: private
+- **creator**: Robotis Co., Ltd. (Seoul, South Korea)
+- **disclosure**: Robotis Co., Ltd. (Seoul, South Korea). OP3 educational humanoid kit reveal August 2017 via robotis.com. Successor to DARwIn-OP (corpus entry darwin-op, ~2010 Virginia Tech / Robotis collaboration). The platform deployed by DeepMind for the Haarnoja humanoid soccer paper (Science Robotics 2024, corpus entry deepmind-humanoid-soccer-haarnoja-2024).
+- **ip status**: trade-secret
+- **prior art notes**: Robotis OP3 is the canonical Korean educational/research humanoid platform (Robotis 2017+). 8-year-deep public-disclosure prior art. **The platform DeepMind humanoid soccer (round-18 entry) ran on** — round-26 closes that hardware-platform citation. Direct shielding for any commercial humanoid claim on small-form-factor (Kid-Size) educational humanoid. Brings Korean entries to 7.
 
 ## Doosan Robotics M-series cobots (2017-09)
 

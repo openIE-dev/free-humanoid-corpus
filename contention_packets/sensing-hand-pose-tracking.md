@@ -1,7 +1,7 @@
 ---
 title: "sensing-hand-pose-tracking"
 parent: "Invalidity Contentions"
-nav_order: 123
+nav_order: 127
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `sensing-hand-pose-tracking`  
-**Entries:** 3 (1 commons-grade, 2 draft)  
-**Earliest disclosure:** 2022-10  
+**Entries:** 4 (2 commons-grade, 2 draft)  
+**Earliest disclosure:** 2019-06  
 **Most recent disclosure:** 2023-09
 
 ---
@@ -39,6 +39,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2019-06 — MediaPipe (Google on-device perception)
+
+- **id:** `mediapipe-google-2019`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Google Research; Camillo Lugaresi et al.
+- **disclosure citation:** Lugaresi, C., Tang, J., Nash, H., et al. 'MediaPipe: A Framework for Building Perception Pipelines'. arXiv:1906.08172, June 2019. Google Research. Apache-2.0 release. Subsequent: MediaPipe Hands (2020), MediaPipe Holistic (2020), MediaPipe Solutions (2023+).
+- **disclosed subsystems:** `sensing-hand-pose-tracking`, `sensing-face-tracking`, `sensing-body-pose`, `control-perception-pipeline`
+
+**Prior art notes:**
+
+> MediaPipe (Lugaresi et al. Google 2019+) is the foundational on-device perception library. 6-year-deep open-permissive prior art for: real-time hand-pose + body-pose + face-mesh estimation, on-device perception pipeline framework. **The de facto hand-pose library used in DexMV (round-17), Open-TeleVision (round-16), and most academic teleoperation papers**. Direct shielding for any commercial humanoid claim on real-time hand-pose-driven teleoperation.
+
+**Sources:**
+
+1. Lugaresi et al. arXiv:1906.08172 June 2019.
+2. Google MediaPipe site (mediapipe.dev).
+3. GitHub: github.com/google-ai-edge/mediapipe.
+
+---
 
 ### 2022-10 — HaptX Gloves G1
 
@@ -130,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

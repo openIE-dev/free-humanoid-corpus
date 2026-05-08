@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model-policy"
 parent: "Invalidity Contentions"
-nav_order: 32
+nav_order: 34
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model-policy`  
-**Entries:** 14 (13 commons-grade, 1 draft)  
+**Entries:** 16 (13 commons-grade, 3 draft)  
 **Earliest disclosure:** 2021-08  
 **Most recent disclosure:** 2025-10
 
@@ -302,6 +302,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-03 — Google DeepMind Gemini Robotics 1.5 *(draft)*
+
+- **id:** `google-gemini-robotics-1-5-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Google DeepMind
+- **disclosure citation:** Google DeepMind. Gemini Robotics + Gemini Robotics-ER (Embodied Reasoning) reveal March 12 2025 via deepmind.google. Gemini Robotics 1.5 announced June 2025. The first VLA built atop Gemini 2.0 Flash foundation model.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-cross-embodiment`
+
+**Prior art notes:**
+
+> Gemini Robotics 1.5 is Google DeepMind's canonical 2025 commercial VLA built atop Gemini 2.0 Flash. ~6-month-deep public-disclosure prior art at corpus-entry time. The successor to RT-1 (corpus) + RT-2 (corpus) in the Google DeepMind VLA lineage. Direct shielding for any commercial humanoid VLA claim on 'foundation-model-backbone-conditioned policy'.
+
+**Sources:**
+
+1. Google DeepMind announcement (deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/).
+2. DeepMind Gemini Robotics paper (when published).
+
+---
+
 ### 2025-04 — π₀.₅ (Pi-0.5)
 
 - **id:** `physical-intelligence-pi05-2025`
@@ -321,6 +341,25 @@ cite, copy, or redistribute these contentions.
 2. CoRL 2025 PMLR v305 Black25a (proceedings.mlr.press/v305/black25a.html).
 3. Physical Intelligence pi0.5 paper (pi.website/download/pi05.pdf).
 4. Knowledge Insulating VLA follow-up (physicalintelligence.company/download/pi05_KI.pdf).
+
+---
+
+### 2025-09 — π₀.₅ Knowledge Insulating (Pi-0.5 KI) *(draft)*
+
+- **id:** `physical-intelligence-pi05-ki-2025`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Physical Intelligence
+- **disclosure citation:** Physical Intelligence. 'π₀.₅: Knowledge Insulating' technical report Sept 2025 via physicalintelligence.company/download/pi05_KI.pdf. Successor variant to π₀.₅ (round-12 entry) addressing catastrophic forgetting + multi-task interference.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-knowledge-insulation`, `control-catastrophic-forgetting-mitigation`
+
+**Prior art notes:**
+
+> π₀.₅ KI is Physical Intelligence's Sept 2025 architectural extension of π₀.₅ (round-12). 8-month-deep prior art for: knowledge-insulation in VLA, catastrophic-forgetting mitigation in foundation-policy training. Direct shielding for any commercial humanoid claim on multi-task VLA training without interference.
+
+**Sources:**
+
+1. Physical Intelligence pi0.5 KI paper (physicalintelligence.company/download/pi05_KI.pdf).
 
 ---
 
@@ -377,4 +416,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

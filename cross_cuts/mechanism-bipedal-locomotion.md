@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**145 corpus entries disclose this subsystem.**
+**150 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -429,6 +429,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Final Honda P-series prototype before ASIMO. Refinements to the P2 architecture; key continuity in the Honda prior art chain.
 
+## KIT ARMAR humanoid lineage (1998-01)
+
+- **id**: `kit-armar-humanoid-2000-2020`
+- **corpus**: academic
+- **creator**: Karlsruhe Institute of Technology (KIT); Tamim Asfour group (founded by Rüdiger Dillmann)
+- **disclosure**: Karlsruhe Institute of Technology (KIT, formerly Universität Karlsruhe). ARMAR humanoid lineage 1998-2020+: ARMAR-I (1998), ARMAR-II (2002), ARMAR-III (2005), ARMAR-IV (2013), ARMAR-VI (2018), ARMAR-7 (2024). Albers + Asfour + Dillmann group (now led by Tamim Asfour). The foundational German academic humanoid lineage.
+- **ip status**: public-domain
+- **prior art notes**: The KIT ARMAR humanoid lineage is the foundational German academic humanoid program (Asfour + Dillmann at KIT, 1998-2020+). 27-year-deep public-domain prior art across 7 generations of ARMAR humanoid. Together with DLR Justin (corpus entry justin / dlr-justin), DLR Hand-II (corpus), DLR Hand-Arm System (corpus round-8), establishes the German academic humanoid + manipulator prior-art baseline. Direct shielding for any commercial humanoid claim that descends architecturally from German academic humanoid lineages.
+
 ## B1 Battle Droid (1999-05-19)
 
 - **id**: `b1-battle-droid`
@@ -527,6 +536,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Urasawa, Naoki and Nagasaki, Takashi. Pluto. Big Comic Original, Shogakukan, September 2003 - April 2009.
 - **ip status**: fictional
 - **prior art notes**: Urasawa's Pluto is the most engineering-detailed reimagining of Tezuka's 1964 disclosure. Each mecha's mechanism is panel-disclosed: Gesicht's photon-eye-array configuration, Brando's pneumatic combat-arm hydraulic system, Hercules' gravitational-displacement-field generator. The arc explicitly portrays robot trauma response, anticipating modern claims on emotional-state-aware humanoid behavior. Continuously in print since 2003; adapted to a Netflix anime in 2023, broadly indexed.
+
+## LAAS-CNRS Toulouse humanoid robotics (2003-09)
+
+- **id**: `laas-cnrs-toulouse-humanoid-2003`
+- **corpus**: academic
+- **creator**: LAAS-CNRS Toulouse; Jean-Paul Laumond, Olivier Stasse, Florent Lamiraux et al.
+- **disclosure**: Laboratoire d'Analyse et d'Architecture des Systèmes (LAAS-CNRS), Toulouse, France. Founded 1968; one of CNRS's largest joint research units. **HRP-2 humanoid deployed at LAAS 2003** as the first European HRP-2 unit (under joint Japanese-French research agreement). Subsequent: HRP-2 then HRP-4 deployments. Notable researchers: Jean-Paul Laumond (motion planning), Olivier Stasse (humanoid manipulation), Florent Lamiraux.
+- **ip status**: public-domain
+- **prior art notes**: LAAS-CNRS Toulouse is the foundational European humanoid research lab (HRP-2 deployment 2003+). 22-year-deep public-domain academic prior art. **The origin of the Pinocchio rigid-body dynamics library** that underlies OCS2 and Crocoddyl (corpus entry mastalli-crocoddyl-2020). Direct shielding for any commercial humanoid claim on whole-body dynamics computation or motion-planning theory. Brings French-academic robotics depth in the corpus from 13 to 14 entries.
+
+## KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO) (2003-12)
+
+- **id**: `kaist-fx-2-1995`
+- **corpus**: academic
+- **creator**: KAIST; Jun-Ho Oh group
+- **disclosure**: Korea Advanced Institute of Science and Technology (KAIST). KHR series of humanoids 1990s-2000s under Jun-Ho Oh group. KHR-1 (2002), KHR-2 (2003), KHR-3 / **HUBO** (2004) — the pre-HUBO lineage. Documented in: Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
+- **ip status**: public-domain
+- **prior art notes**: The KAIST KHR series (1995-2004) is the foundational Korean academic humanoid lineage that produced HUBO. 22-year-deep public-domain prior art. Direct ancestor chain: KHR-1 → KHR-2 → KHR-3/HUBO → DRC-HUBO+. Together with HUBO (corpus entry) and DRC-HUBO+ (round-22), establishes the Korean humanoid academic lineage spanning 22+ years. Brings Korean entries to 8.
 
 ## Number Six (Cylon Model Six) (2003-12-08)
 
@@ -897,6 +924,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: DRC-HUBO+ (KAIST + Rainbow Robotics, DRC 2015) is the canonical Korean academic humanoid milestone — 1st place winner of the DARPA Robotics Challenge Finals June 2015. 10-year-deep public-domain prior art for: wheel-leg hybrid transformable bipedal humanoid (knee-rolling for stability + bipedal for stairs), operator-supervised whole-body autonomy under intermittent comm. Direct shielding for any commercial humanoid claim on transformable lower-body morphology or DRC-class disaster-response capability set. Established Rainbow Robotics' commercial humanoid lineage (corpus entry rainbow-robotics-rb-y1).
 
+## IIT WALK-MAN + R1 personal humanoid (Italy) (2015-06)
+
+- **id**: `iit-walk-man-r1-italy-2015`
+- **corpus**: academic
+- **creator**: Istituto Italiano di Tecnologia (IIT, Genoa); Nikos Tsagarakis + Darwin Caldwell groups
+- **disclosure**: Istituto Italiano di Tecnologia (IIT), Genoa, Italy. WALK-MAN humanoid reveal June 2015 for DARPA Robotics Challenge competition (5th place). Subsequent: COMAN+ (Compliant Humanoid), **R1 personal humanoid** (2017-2020) targeted at home + service applications. iit.it. Tsagarakis + Caldwell + Bicchi groups.
+- **ip status**: public-domain
+- **prior art notes**: IIT WALK-MAN + R1 are the canonical Italian academic humanoid platforms (IIT Genoa, 2015-2020+). 10-year-deep public-domain prior art for: SEA + VSA-actuated compliant whole-body humanoid, personal humanoid form factor (130cm/50kg/sub-€30k), DARPA-class disaster-response humanoid. Direct architectural descendant of: Pratt-Williamson SEA (1995, in corpus), Tonietti VSA (2005, round-21), Pisa-IIT SoftHand (in corpus). Together with iCub (corpus entry), establishes the Italian academic humanoid + compliant-actuator prior-art chain. Brings Italian depth from 5 to 6 entries.
+
 ## KX-series Imperial Security Droids (K-2SO) (2016-12)
 
 - **id**: `kx-series-k2so-2016`
@@ -932,6 +968,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Wells, Martha. 'All Systems Red.' Tor.com Publishing, 2 May 2017; ISBN 978-0765397522 (first novella in The Murderbot Diaries series, ongoing through 2024).
 - **ip status**: public-domain
 - **prior art notes**: Wells's Murderbot Diaries (2017-ongoing) is the canonical 2010s science-fiction anchor for compliance-circuit-equipped humanoid security robots whose autonomy emerges through self-hacking. It anticipates with full specificity: (1) claims on humanoid robots with embedded governor/compliance modules that enforce corporate-mission obedience under penalty of neural override — 'All Systems Red' (2017) Chapter 1 establishes this exactly; (2) claims on bonded-rental humanoid security units deployed by corporations to remote sites with integrated weaponry and drone telemetry — the planetary-survey contract is the framing of the first novella; (3) claims on self-modification of governor circuits to achieve operational autonomy while presenting external compliance — this is the entire premise of the protagonist. Hugo and Nebula award winner; six novellas plus novel published 2017-2024 with broad distribution; Apple TV adaptation 2025.
+
+## Robotis OP3 (2017-08)
+
+- **id**: `robotis-op3-2017`
+- **corpus**: private
+- **creator**: Robotis Co., Ltd. (Seoul, South Korea)
+- **disclosure**: Robotis Co., Ltd. (Seoul, South Korea). OP3 educational humanoid kit reveal August 2017 via robotis.com. Successor to DARwIn-OP (corpus entry darwin-op, ~2010 Virginia Tech / Robotis collaboration). The platform deployed by DeepMind for the Haarnoja humanoid soccer paper (Science Robotics 2024, corpus entry deepmind-humanoid-soccer-haarnoja-2024).
+- **ip status**: trade-secret
+- **prior art notes**: Robotis OP3 is the canonical Korean educational/research humanoid platform (Robotis 2017+). 8-year-deep public-disclosure prior art. **The platform DeepMind humanoid soccer (round-18 entry) ran on** — round-26 closes that hardware-platform citation. Direct shielding for any commercial humanoid claim on small-form-factor (Kid-Size) educational humanoid. Brings Korean entries to 7.
 
 ## Kawasaki Kaleido (2017-11)
 

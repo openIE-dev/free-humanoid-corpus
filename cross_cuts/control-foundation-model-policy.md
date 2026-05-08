@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-foundation-model-policy`
 
-**14 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2021-08
 
@@ -123,6 +123,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: NVIDIA GR00T N1 is the canonical first open commercial-licensed humanoid foundation model (GTC March 2025). 2-month-deep open prior art for: dual-system S1/S2 humanoid VLA, egocentric-human-video pre-training at scale, NVIDIA Isaac platform integration. Direct architectural sibling of Figure Helix (round-15 entry). Both adopt the dual-system pattern from cognitive science. The N1.7 EgoScale 20K-hour pre-training corpus is itself prior art for any commercial humanoid claim on egocentric-video-trained policy datasets. Direct shielding for any commercial humanoid VLA claim.
 
+## Google DeepMind Gemini Robotics 1.5 (2025-03)
+
+- **id**: `google-gemini-robotics-1-5-2025`
+- **corpus**: private
+- **creator**: Google DeepMind
+- **disclosure**: Google DeepMind. Gemini Robotics + Gemini Robotics-ER (Embodied Reasoning) reveal March 12 2025 via deepmind.google. Gemini Robotics 1.5 announced June 2025. The first VLA built atop Gemini 2.0 Flash foundation model.
+- **ip status**: trade-secret
+- **prior art notes**: Gemini Robotics 1.5 is Google DeepMind's canonical 2025 commercial VLA built atop Gemini 2.0 Flash. ~6-month-deep public-disclosure prior art at corpus-entry time. The successor to RT-1 (corpus) + RT-2 (corpus) in the Google DeepMind VLA lineage. Direct shielding for any commercial humanoid VLA claim on 'foundation-model-backbone-conditioned policy'.
+
 ## π₀.₅ (Pi-0.5) (2025-04)
 
 - **id**: `physical-intelligence-pi05-2025`
@@ -131,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Black, K., et al. 'π₀.₅: a Vision-Language-Action Model with Open-World Generalization'. arXiv:2504.16054, April 2025. CoRL 2025 (PMLR vol. 305 pp. 17-40, Black25a). Physical Intelligence.
 - **ip status**: open-permissive
 - **prior art notes**: π₀.₅ is Physical Intelligence's open-world VLA (CoRL 2025 oral). 1-year-deep prior art on: open-world (new-home) zero-shot mobile manipulation, co-training across multi-robot + web + semantic subtask data, long-horizon (10+ minute) household task autonomy. **The most direct prior art for any commercial humanoid claim on 'works in any home out-of-the-box'** — Tesla Optimus, Figure, 1X NEO, Apptronik all market this generalization claim and now face 1-year-deep open-academic anticipation. Lineage: RT-1 → RT-2 → OpenVLA → π₀ → π₀.₅.
+
+## π₀.₅ Knowledge Insulating (Pi-0.5 KI) (2025-09)
+
+- **id**: `physical-intelligence-pi05-ki-2025`
+- **corpus**: academic
+- **creator**: Physical Intelligence
+- **disclosure**: Physical Intelligence. 'π₀.₅: Knowledge Insulating' technical report Sept 2025 via physicalintelligence.company/download/pi05_KI.pdf. Successor variant to π₀.₅ (round-12 entry) addressing catastrophic forgetting + multi-task interference.
+- **ip status**: open-permissive
+- **prior art notes**: π₀.₅ KI is Physical Intelligence's Sept 2025 architectural extension of π₀.₅ (round-12). 8-month-deep prior art for: knowledge-insulation in VLA, catastrophic-forgetting mitigation in foundation-policy training. Direct shielding for any commercial humanoid claim on multi-task VLA training without interference.
 
 ## Tesla Optimus Gen 3 (2025-10)
 

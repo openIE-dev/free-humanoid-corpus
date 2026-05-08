@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-electric-series-elastic`  
-**Entries:** 15 (15 commons-grade, 0 draft)  
+**Entries:** 16 (16 commons-grade, 0 draft)  
 **Earliest disclosure:** 1995-08  
 **Most recent disclosure:** 2023-08
 
@@ -177,6 +177,28 @@ cite, copy, or redistribute these contentions.
 
 1. Hubicki, C. et al. IJRR 35(12), 2016.
 2. Hurst, J. et al. various IROS and ICRA publications, 2012-2015.
+
+---
+
+### 2015-06 — IIT WALK-MAN + R1 personal humanoid (Italy)
+
+- **id:** `iit-walk-man-r1-italy-2015`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Istituto Italiano di Tecnologia (IIT, Genoa); Nikos Tsagarakis + Darwin Caldwell groups
+- **disclosure citation:** Istituto Italiano di Tecnologia (IIT), Genoa, Italy. WALK-MAN humanoid reveal June 2015 for DARPA Robotics Challenge competition (5th place). Subsequent: COMAN+ (Compliant Humanoid), **R1 personal humanoid** (2017-2020) targeted at home + service applications. iit.it. Tsagarakis + Caldwell + Bicchi groups.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric-series-elastic`, `actuator-variable-stiffness`
+
+**Prior art notes:**
+
+> IIT WALK-MAN + R1 are the canonical Italian academic humanoid platforms (IIT Genoa, 2015-2020+). 10-year-deep public-domain prior art for: SEA + VSA-actuated compliant whole-body humanoid, personal humanoid form factor (130cm/50kg/sub-€30k), DARPA-class disaster-response humanoid. Direct architectural descendant of: Pratt-Williamson SEA (1995, in corpus), Tonietti VSA (2005, round-21), Pisa-IIT SoftHand (in corpus). Together with iCub (corpus entry), establishes the Italian academic humanoid + compliant-actuator prior-art chain. Brings Italian depth from 5 to 6 entries.
+
+**Sources:**
+
+1. IIT corporate site (iit.it).
+2. Tsagarakis + Caldwell publications (iit.it/research/lines/humanoid-and-human-centred-mechatronics).
+3. WALK-MAN DRC 2015 documentation.
+4. IIT R1 product page.
 
 ---
 
@@ -373,4 +395,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

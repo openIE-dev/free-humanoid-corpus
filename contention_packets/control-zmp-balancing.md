@@ -1,7 +1,7 @@
 ---
 title: "control-zmp-balancing"
 parent: "Invalidity Contentions"
-nav_order: 79
+nav_order: 82
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-zmp-balancing`  
-**Entries:** 24 (23 commons-grade, 1 draft)  
+**Entries:** 25 (24 commons-grade, 1 draft)  
 **Earliest disclosure:** 1969  
 **Most recent disclosure:** 2023-08
 
@@ -238,6 +238,26 @@ cite, copy, or redistribute these contentions.
 
 1. Ishida, T. et al. 'Mechanical system of a small biped entertainment robot.' IROS 2003.
 2. Sony QRIO press materials.
+
+---
+
+### 2003-12 — KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO)
+
+- **id:** `kaist-fx-2-1995`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** KAIST; Jun-Ho Oh group
+- **disclosure citation:** Korea Advanced Institute of Science and Technology (KAIST). KHR series of humanoids 1990s-2000s under Jun-Ho Oh group. KHR-1 (2002), KHR-2 (2003), KHR-3 / **HUBO** (2004) — the pre-HUBO lineage. Documented in: Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-zmp-balancing`
+
+**Prior art notes:**
+
+> The KAIST KHR series (1995-2004) is the foundational Korean academic humanoid lineage that produced HUBO. 22-year-deep public-domain prior art. Direct ancestor chain: KHR-1 → KHR-2 → KHR-3/HUBO → DRC-HUBO+. Together with HUBO (corpus entry) and DRC-HUBO+ (round-22), establishes the Korean humanoid academic lineage spanning 22+ years. Brings Korean entries to 8.
+
+**Sources:**
+
+1. Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
+2. Jun-Ho Oh group publications (KAIST Humanoid Robot Research Center).
 
 ---
 
@@ -556,4 +576,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `actuator-electric-direct-drive`  
-**Entries:** 68 (50 commons-grade, 18 draft)  
+**Entries:** 69 (51 commons-grade, 18 draft)  
 **Earliest disclosure:** 1886  
 **Most recent disclosure:** 2024-11
 
@@ -775,6 +775,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2013-09 — Schunk SVH 5-finger dexterous hand
+
+- **id:** `schunk-svh-german-2013`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Schunk GmbH & Co. KG (Lauffen am Neckar, Germany)
+- **disclosure citation:** Schunk GmbH & Co. KG (Lauffen am Neckar, Germany). SVH 5-finger anthropomorphic hand commercial reveal 2013. Subsequent: SDH (Servo Dexterous Hand, 3-finger industrial). schunk.com.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `actuator-electric-direct-drive`
+
+**Prior art notes:**
+
+> Schunk SVH is the canonical German commercial 5-finger direct-drive dexterous hand (2013+). 12-year-deep public-disclosure prior art for: 9-DoF 5-finger anthropomorphic direct-drive hand. Distinguished architecturally from Allegro / Shadow / Pisa-IIT (all tendon-driven) by direct-drive transmission. Direct shielding for any commercial humanoid claim on direct-drive dexterous hand.
+
+**Sources:**
+
+1. Schunk corporate site (schunk.com).
+2. Schunk SVH product page.
+
+---
+
 ### 2013-12 — Cheetah-cub
 
 - **id:** `cheetah-cub-epfl`
@@ -1419,4 +1439,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

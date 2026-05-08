@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 85
+nav_order: 88
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 126 (103 commons-grade, 23 draft)  
+**Entries:** 131 (108 commons-grade, 23 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2026-04
 
@@ -647,6 +647,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1988-01 — BarrettHand BH8-280 / BH8-282
+
+- **id:** `barrett-hand-1988`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Barrett Technology / William Townsend (MIT spinout)
+- **disclosure citation:** Barrett Technology, LLC. (Cambridge, MA, USA; founded 1988 by William Townsend, MIT spinout). BarrettHand BH8-280 commercial release 1988+. The first commercial multi-fingered dexterous hand. barrett.com.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-tendon-driven`, `mechanism-underactuated-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> BarrettHand is **the first commercial multi-fingered dexterous hand** (Barrett Technology MIT spinout 1988+). 37-year-deep public-disclosure prior art. The architectural ancestor of every subsequent commercial dexterous hand: Shadow (corpus), Allegro (round-27), Schunk SVH (round-27), Pisa-IIT SoftHand (corpus). Direct shielding for any commercial humanoid claim on multi-fingered dexterous hand commercial deployment.
+
+**Sources:**
+
+1. Barrett Technology corporate site (barrett.com).
+2. Townsend, W. T. 'The BarrettHand Grasper' Industrial Robot 27(3) 2000.
+
+---
+
 ### 1988-05-09 — Lore (Star Trek: TNG)
 
 - **id:** `star-trek-tng-lore`
@@ -849,6 +869,27 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Hirose, M. and Ogawa, K. Phil. Trans. R. Soc. A 365, 11–19 (2007).
+
+---
+
+### 1998-01 — KIT ARMAR humanoid lineage
+
+- **id:** `kit-armar-humanoid-2000-2020`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Karlsruhe Institute of Technology (KIT); Tamim Asfour group (founded by Rüdiger Dillmann)
+- **disclosure citation:** Karlsruhe Institute of Technology (KIT, formerly Universität Karlsruhe). ARMAR humanoid lineage 1998-2020+: ARMAR-I (1998), ARMAR-II (2002), ARMAR-III (2005), ARMAR-IV (2013), ARMAR-VI (2018), ARMAR-7 (2024). Albers + Asfour + Dillmann group (now led by Tamim Asfour). The foundational German academic humanoid lineage.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`, `control-whole-body-control`
+
+**Prior art notes:**
+
+> The KIT ARMAR humanoid lineage is the foundational German academic humanoid program (Asfour + Dillmann at KIT, 1998-2020+). 27-year-deep public-domain prior art across 7 generations of ARMAR humanoid. Together with DLR Justin (corpus entry justin / dlr-justin), DLR Hand-II (corpus), DLR Hand-Arm System (corpus round-8), establishes the German academic humanoid + manipulator prior-art baseline. Direct shielding for any commercial humanoid claim that descends architecturally from German academic humanoid lineages.
+
+**Sources:**
+
+1. KIT High Performance Humanoid Technologies Lab (h2t.iar.kit.edu).
+2. Asfour + Dillmann publications.
+3. Master Motor Map (mmm.humanoids.kit.edu).
 
 ---
 
@@ -1533,6 +1574,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2013-09 — Schunk SVH 5-finger dexterous hand
+
+- **id:** `schunk-svh-german-2013`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Schunk GmbH & Co. KG (Lauffen am Neckar, Germany)
+- **disclosure citation:** Schunk GmbH & Co. KG (Lauffen am Neckar, Germany). SVH 5-finger anthropomorphic hand commercial reveal 2013. Subsequent: SDH (Servo Dexterous Hand, 3-finger industrial). schunk.com.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `actuator-electric-direct-drive`
+
+**Prior art notes:**
+
+> Schunk SVH is the canonical German commercial 5-finger direct-drive dexterous hand (2013+). 12-year-deep public-disclosure prior art for: 9-DoF 5-finger anthropomorphic direct-drive hand. Distinguished architecturally from Allegro / Shadow / Pisa-IIT (all tendon-driven) by direct-drive transmission. Direct shielding for any commercial humanoid claim on direct-drive dexterous hand.
+
+**Sources:**
+
+1. Schunk corporate site (schunk.com).
+2. Schunk SVH product page.
+
+---
+
 ### 2014-04 — Skybot F-850 / FEDOR
 
 - **id:** `skybot-fedor-russia-2019`
@@ -1552,6 +1613,27 @@ cite, copy, or redistribute these contentions.
 2. NPO Android Technics corporate page (npo-at.com).
 3. Soyuz MS-14 mission documentation.
 4. Wikipedia 'Skybot F-850' (en.wikipedia.org/wiki/Skybot_F-850).
+
+---
+
+### 2014-04 — Allegro Hand (Wonik / SimLab)
+
+- **id:** `allegro-hand-wonik-simlab-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea)
+- **disclosure citation:** Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea). Allegro Hand commercial reveal April 2014 via wonikrobotics.com / simlab.co.kr. **The de facto academic-deployment reference for 16-DoF 4-finger dexterous hands** — used in OpenAI Dactyl (corpus entry openai-dactyl) Rubik's-Cube manipulation 2019, and 100+ academic publications.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-tendon-driven`, `actuator-electric`
+
+**Prior art notes:**
+
+> Allegro Hand is the canonical academic-deployment reference 16-DoF 4-finger dexterous hand (Wonik / SimLab Korea, 2014+). 11-year-deep public-disclosure prior art. **Used in OpenAI Dactyl 2019 Rubik's-Cube manipulation (corpus entry openai-dactyl)** + 100+ academic publications. Direct architectural successor to BarrettHand (round-27 entry below). Direct shielding for any commercial humanoid claim on 16-DoF tendon-driven dexterous hand.
+
+**Sources:**
+
+1. Wonik Robotics corporate site (wonikrobotics.com).
+2. SimLab Allegro Hand product page (simlab.co.kr/allegro-hand).
+3. OpenAI Dactyl Rubik's Cube paper (corpus entry openai-dactyl) uses Allegro Hand as the simulated hand.
 
 ---
 
@@ -1695,6 +1777,28 @@ cite, copy, or redistribute these contentions.
 
 1. Humans S1-S3, Channel 4 / AMC, 2015-2018.
 2. Vincent, S. and Brackley, J. development materials, Kudos production company press kit.
+
+---
+
+### 2015-06 — IIT WALK-MAN + R1 personal humanoid (Italy)
+
+- **id:** `iit-walk-man-r1-italy-2015`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Istituto Italiano di Tecnologia (IIT, Genoa); Nikos Tsagarakis + Darwin Caldwell groups
+- **disclosure citation:** Istituto Italiano di Tecnologia (IIT), Genoa, Italy. WALK-MAN humanoid reveal June 2015 for DARPA Robotics Challenge competition (5th place). Subsequent: COMAN+ (Compliant Humanoid), **R1 personal humanoid** (2017-2020) targeted at home + service applications. iit.it. Tsagarakis + Caldwell + Bicchi groups.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric-series-elastic`, `actuator-variable-stiffness`
+
+**Prior art notes:**
+
+> IIT WALK-MAN + R1 are the canonical Italian academic humanoid platforms (IIT Genoa, 2015-2020+). 10-year-deep public-domain prior art for: SEA + VSA-actuated compliant whole-body humanoid, personal humanoid form factor (130cm/50kg/sub-€30k), DARPA-class disaster-response humanoid. Direct architectural descendant of: Pratt-Williamson SEA (1995, in corpus), Tonietti VSA (2005, round-21), Pisa-IIT SoftHand (in corpus). Together with iCub (corpus entry), establishes the Italian academic humanoid + compliant-actuator prior-art chain. Brings Italian depth from 5 to 6 entries.
+
+**Sources:**
+
+1. IIT corporate site (iit.it).
+2. Tsagarakis + Caldwell publications (iit.it/research/lines/humanoid-and-human-centred-mechatronics).
+3. WALK-MAN DRC 2015 documentation.
+4. IIT R1 product page.
 
 ---
 
@@ -2613,4 +2717,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

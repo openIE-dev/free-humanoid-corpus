@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-zmp-balancing`
 
-**24 corpus entries disclose this subsystem.**
+**25 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1969
 
@@ -104,6 +104,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sony Corporation public reveal of QRIO, March 2003.
 - **ip status**: patented
 - **prior art notes**: QRIO's intelligent servo actuator architecture (embedded control in each joint module) is significant prior art for distributed-control humanoid actuator claims. Sony's now-expiring patents are a deep prior art well.
+
+## KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO) (2003-12)
+
+- **id**: `kaist-fx-2-1995`
+- **corpus**: academic
+- **creator**: KAIST; Jun-Ho Oh group
+- **disclosure**: Korea Advanced Institute of Science and Technology (KAIST). KHR series of humanoids 1990s-2000s under Jun-Ho Oh group. KHR-1 (2002), KHR-2 (2003), KHR-3 / **HUBO** (2004) — the pre-HUBO lineage. Documented in: Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
+- **ip status**: public-domain
+- **prior art notes**: The KAIST KHR series (1995-2004) is the foundational Korean academic humanoid lineage that produced HUBO. 22-year-deep public-domain prior art. Direct ancestor chain: KHR-1 → KHR-2 → KHR-3/HUBO → DRC-HUBO+. Together with HUBO (corpus entry) and DRC-HUBO+ (round-22), establishes the Korean humanoid academic lineage spanning 22+ years. Brings Korean entries to 8.
 
 ## HUBO (2004)
 

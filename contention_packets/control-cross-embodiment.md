@@ -1,7 +1,7 @@
 ---
 title: "control-cross-embodiment"
 parent: "Invalidity Contentions"
-nav_order: 25
+nav_order: 27
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-cross-embodiment`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
+**Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 2023-10  
 **Most recent disclosure:** 2025-03
 
@@ -149,6 +149,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-03 — Google DeepMind Gemini Robotics 1.5 *(draft)*
+
+- **id:** `google-gemini-robotics-1-5-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Google DeepMind
+- **disclosure citation:** Google DeepMind. Gemini Robotics + Gemini Robotics-ER (Embodied Reasoning) reveal March 12 2025 via deepmind.google. Gemini Robotics 1.5 announced June 2025. The first VLA built atop Gemini 2.0 Flash foundation model.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-cross-embodiment`
+
+**Prior art notes:**
+
+> Gemini Robotics 1.5 is Google DeepMind's canonical 2025 commercial VLA built atop Gemini 2.0 Flash. ~6-month-deep public-disclosure prior art at corpus-entry time. The successor to RT-1 (corpus) + RT-2 (corpus) in the Google DeepMind VLA lineage. Direct shielding for any commercial humanoid VLA claim on 'foundation-model-backbone-conditioned policy'.
+
+**Sources:**
+
+1. Google DeepMind announcement (deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/).
+2. DeepMind Gemini Robotics paper (when published).
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -179,4 +199,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

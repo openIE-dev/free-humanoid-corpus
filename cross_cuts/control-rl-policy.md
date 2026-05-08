@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**138 corpus entries disclose this subsystem.**
+**142 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -609,6 +609,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: HER is the canonical academic disclosure of hindsight relabeling for goal-conditioned reinforcement learning. Anticipates: (1) the use of achieved-goal relabeling to convert sparse-reward trajectories into dense-reward training signal — directly relevant to claims on sample-efficient humanoid policy training (every modern humanoid RL pipeline that uses goal-conditioned policies relies on HER or its descendants); (2) the algorithmic decoupling of off-policy RL from the relabeling step — relevant to architecture-agnostic relabeling claims; (3) the demonstration on dexterous manipulation (Shadow Hand simulation) connecting HER to humanoid-relevant tasks. Heavily cited (>3000 citations); NeurIPS 2017. Code released under MIT license. Modern humanoid policy-training patents face this 9-year-deep 102 anchor on hindsight-relabeling RL.
 
+## Robotis OP3 (2017-08)
+
+- **id**: `robotis-op3-2017`
+- **corpus**: private
+- **creator**: Robotis Co., Ltd. (Seoul, South Korea)
+- **disclosure**: Robotis Co., Ltd. (Seoul, South Korea). OP3 educational humanoid kit reveal August 2017 via robotis.com. Successor to DARwIn-OP (corpus entry darwin-op, ~2010 Virginia Tech / Robotis collaboration). The platform deployed by DeepMind for the Haarnoja humanoid soccer paper (Science Robotics 2024, corpus entry deepmind-humanoid-soccer-haarnoja-2024).
+- **ip status**: trade-secret
+- **prior art notes**: Robotis OP3 is the canonical Korean educational/research humanoid platform (Robotis 2017+). 8-year-deep public-disclosure prior art. **The platform DeepMind humanoid soccer (round-18 entry) ran on** — round-26 closes that hardware-platform citation. Direct shielding for any commercial humanoid claim on small-form-factor (Kid-Size) educational humanoid. Brings Korean entries to 7.
+
 ## Black Mirror 'Metalhead' autonomous quadruped killer (2017-12)
 
 - **id**: `black-mirror-metalhead-2017`
@@ -779,6 +788,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Miki, T., Lee, J., Hwangbo, J., Wellhausen, L., Koltun, V., Hutter, M. 'Learning Robust Perceptive Locomotion for Quadrupedal Robots in the Wild'. Science Robotics 7(62) 2022. ETH Zürich Robotic Systems Lab + Intel Labs.
 - **ip status**: open-permissive
 - **prior art notes**: The Miki et al. Science Robotics 2022 perceptive-ANYmal paper is the canonical academic perceptive-quadruped-RL work. 3-year-deep open-permissive prior art for: privileged-teacher / proprioception+exteroception-student two-stage distillation, robust unstructured-terrain RL locomotion, depth-elevation-map perceptive locomotion. Direct successor to Hwangbo ANYmal sim-to-real (corpus entry, 2019). **The architectural ancestor of every modern quadruped + humanoid RL locomotion paper** including Berkeley Humanoid, ToddlerBot, Atlas Electric (round-18). Direct shielding for any commercial humanoid claim on perceptive-RL locomotion or unstructured-terrain RL training.
+
+## Adversarial Skill Embeddings (ASE) (2022-04)
+
+- **id**: `ase-peng-stanford-2022`
+- **corpus**: academic
+- **creator**: NVIDIA + Stanford + UC Berkeley + University of Toronto; Xue Bin Peng et al.
+- **disclosure**: Peng, X. B., Guo, Y., Halper, L., Levine, S., Fidler, S. 'ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters'. ACM Transactions on Graphics 41(4) 2022 (SIGGRAPH 2022). arXiv:2205.01906. NVIDIA + Stanford + UC Berkeley + University of Toronto.
+- **ip status**: open-permissive
+- **prior art notes**: ASE (Peng et al. SIGGRAPH 2022) is the canonical successor to AMP (round-21). 3-year-deep open-permissive prior art for: latent-skill-space adversarial-training for character animation, task-conditioned skill reuse. **Direct ancestor of HumanPlus + ExBody humanoid imitation policies** (round-27 entries below). Together with DeepMimic (round-21) + AMP (round-21), establishes the 7-year mocap-imitation-RL chain DeepMimic 2018 → AMP 2021 → ASE 2022 → HumanPlus 2024 → ExBody 2024.
 
 ## SayCan (Do As I Can, Not As I Say) (2022-04-04)
 
@@ -1023,6 +1041,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Public technical disclosure is thin; strengthening pass needed.
 
+## ExBody whole-body humanoid policy (2024-02)
+
+- **id**: `exbody-stanford-2024`
+- **corpus**: academic
+- **creator**: UC San Diego + MIT + CMU; Xuxin Cheng, Yandong Ji, Junming Chen, Ruihan Yang, Ge Yang, Xiaolong Wang
+- **disclosure**: Cheng, X., Ji, Y., Chen, J., Yang, R., Yang, G., Wang, X. 'Expressive Whole-Body Control for Humanoid Robots'. RSS 2024. arXiv:2402.16796. UC San Diego + MIT + CMU.
+- **ip status**: open-permissive
+- **prior art notes**: ExBody (Cheng et al. RSS 2024) is the canonical expressive whole-body humanoid policy paper. 1.5-year-deep open-permissive prior art. Companion to HumanPlus (round-27); both apply mocap-imitation RL to actual humanoid hardware (Unitree H1). Direct shielding for any commercial humanoid claim on expressive whole-body motion (dance, gestures).
+
 ## Universal Manipulation Interface (UMI) (2024-02-15)
 
 - **id**: `umi-stanford`
@@ -1094,6 +1121,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Octo Model Team. 'Octo: An Open-Source Generalist Robot Policy.' arXiv:2405.12213, May 20, 2024. Robotics: Science and Systems (RSS) 2024. Authors: Ghosh, D., Walke, H.R., Pertsch, K., Black, K., Mees, O., Dasari, S., Hejna, J., Xu, C., Luo, J., Kreiman, T., Tan, Y., Sanketi, P., Vuong, Q., Xiao, T., Sadigh, D., Finn, C., Levine, S. (UC Berkeley + Stanford + CMU + Google).
 - **ip status**: open-permissive
 - **prior art notes**: Octo is the foundational fully-open-weights generalist policy for robotic manipulation, combining Open X-Embodiment-scale training with diffusion-action-head architecture. Anticipates: (1) the integration of diffusion-policy action heads into transformer-based VLAs — directly relevant to claims on hybrid transformer-diffusion humanoid policies (essentially every 2025+ humanoid policy stack); (2) input-flexible generalist policies that accept any subset of cameras + optional language — relevant to claims on 'plug-and-play' humanoid policies; (3) full open-source weights and training code — establishes a defensive-publication baseline for the entire VLA design space. Code, weights, and training data fully released under Apache 2.0 / permissive licenses. Heavily cited within 18 months. Modern claims on transformer+diffusion-head humanoid policies face this 2-year-deep 102 anchor.
+
+## HumanPlus humanoid (2024-06)
+
+- **id**: `humanplus-stanford-2024`
+- **corpus**: academic
+- **creator**: Stanford University; Zipeng Fu, Qingqing Zhao, Qi Wu, Gordon Wetzstein, Chelsea Finn
+- **disclosure**: Fu, Z., Zhao, Q., Wu, Q., Wetzstein, G., Finn, C. 'HumanPlus: Humanoid Shadowing and Imitation from Humans'. CoRL 2024. arXiv:2406.10454. Stanford University.
+- **ip status**: open-permissive
+- **prior art notes**: HumanPlus (Fu et al. CoRL 2024) is the canonical Stanford humanoid-imitation-from-humans paper. 1-year-deep open-permissive prior art for: two-stage RL-shadowing + IL fine-tuning, real-hardware humanoid full-body imitation from human motion. Direct architectural application of AMP/ASE lineage (rounds 21+27) to actual humanoid hardware. Direct shielding for any commercial humanoid claim on 'humanoid imitates humans' or 'mocap-trained humanoid policy on real hardware'.
 
 ## OpenVLA (Open-Source Vision-Language-Action Model) (2024-06-13)
 

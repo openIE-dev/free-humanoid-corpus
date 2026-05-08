@@ -1,7 +1,7 @@
 ---
 title: "control-rl-policy"
 parent: "Invalidity Contentions"
-nav_order: 63
+nav_order: 65
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 138 (110 commons-grade, 28 draft)  
+**Entries:** 142 (114 commons-grade, 28 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2026-04
 
@@ -1362,6 +1362,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-08 — Robotis OP3
+
+- **id:** `robotis-op3-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Robotis Co., Ltd. (Seoul, South Korea)
+- **disclosure citation:** Robotis Co., Ltd. (Seoul, South Korea). OP3 educational humanoid kit reveal August 2017 via robotis.com. Successor to DARwIn-OP (corpus entry darwin-op, ~2010 Virginia Tech / Robotis collaboration). The platform deployed by DeepMind for the Haarnoja humanoid soccer paper (Science Robotics 2024, corpus entry deepmind-humanoid-soccer-haarnoja-2024).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Robotis OP3 is the canonical Korean educational/research humanoid platform (Robotis 2017+). 8-year-deep public-disclosure prior art. **The platform DeepMind humanoid soccer (round-18 entry) ran on** — round-26 closes that hardware-platform citation. Direct shielding for any commercial humanoid claim on small-form-factor (Kid-Size) educational humanoid. Brings Korean entries to 7.
+
+**Sources:**
+
+1. Robotis OP3 product page (robotis.com).
+2. DeepMind humanoid soccer paper Science Robotics 2024.
+
+---
+
 ### 2017-12 — Black Mirror 'Metalhead' autonomous quadruped killer
 
 - **id:** `black-mirror-metalhead-2017`
@@ -1748,6 +1768,26 @@ cite, copy, or redistribute these contentions.
 
 1. Miki et al. Science Robotics 7(62) 2022.
 2. ETH RSL publications (rsl.ethz.ch).
+
+---
+
+### 2022-04 — Adversarial Skill Embeddings (ASE)
+
+- **id:** `ase-peng-stanford-2022`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA + Stanford + UC Berkeley + University of Toronto; Xue Bin Peng et al.
+- **disclosure citation:** Peng, X. B., Guo, Y., Halper, L., Levine, S., Fidler, S. 'ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters'. ACM Transactions on Graphics 41(4) 2022 (SIGGRAPH 2022). arXiv:2205.01906. NVIDIA + Stanford + UC Berkeley + University of Toronto.
+- **disclosed subsystems:** `control-rl-policy`, `control-imitation-learning`, `control-motion-capture-imitation`, `control-latent-skill-embedding`
+
+**Prior art notes:**
+
+> ASE (Peng et al. SIGGRAPH 2022) is the canonical successor to AMP (round-21). 3-year-deep open-permissive prior art for: latent-skill-space adversarial-training for character animation, task-conditioned skill reuse. **Direct ancestor of HumanPlus + ExBody humanoid imitation policies** (round-27 entries below). Together with DeepMimic (round-21) + AMP (round-21), establishes the 7-year mocap-imitation-RL chain DeepMimic 2018 → AMP 2021 → ASE 2022 → HumanPlus 2024 → ExBody 2024.
+
+**Sources:**
+
+1. Peng et al. arXiv:2205.01906 SIGGRAPH 2022.
+2. GitHub: github.com/nv-tlabs/ASE.
 
 ---
 
@@ -2291,6 +2331,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-02 — ExBody whole-body humanoid policy
+
+- **id:** `exbody-stanford-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** UC San Diego + MIT + CMU; Xuxin Cheng, Yandong Ji, Junming Chen, Ruihan Yang, Ge Yang, Xiaolong Wang
+- **disclosure citation:** Cheng, X., Ji, Y., Chen, J., Yang, R., Yang, G., Wang, X. 'Expressive Whole-Body Control for Humanoid Robots'. RSS 2024. arXiv:2402.16796. UC San Diego + MIT + CMU.
+- **disclosed subsystems:** `control-rl-policy`, `control-motion-capture-imitation`, `control-expressive-humanoid`
+
+**Prior art notes:**
+
+> ExBody (Cheng et al. RSS 2024) is the canonical expressive whole-body humanoid policy paper. 1.5-year-deep open-permissive prior art. Companion to HumanPlus (round-27); both apply mocap-imitation RL to actual humanoid hardware (Unitree H1). Direct shielding for any commercial humanoid claim on expressive whole-body motion (dance, gestures).
+
+**Sources:**
+
+1. Cheng et al. arXiv:2402.16796 RSS 2024.
+2. Project page (expressive-humanoid.github.io).
+3. GitHub: github.com/chengxuxin/expressive-humanoid.
+
+---
+
 ### 2024-02-15 — Universal Manipulation Interface (UMI)
 
 - **id:** `umi-stanford`
@@ -2449,6 +2510,27 @@ cite, copy, or redistribute these contentions.
 
 1. Octo Model Team. 'Octo: An Open-Source Generalist Robot Policy.' RSS 2024; arXiv:2405.12213.
 2. Project page and weights: https://octo-models.github.io/
+
+---
+
+### 2024-06 — HumanPlus humanoid
+
+- **id:** `humanplus-stanford-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford University; Zipeng Fu, Qingqing Zhao, Qi Wu, Gordon Wetzstein, Chelsea Finn
+- **disclosure citation:** Fu, Z., Zhao, Q., Wu, Q., Wetzstein, G., Finn, C. 'HumanPlus: Humanoid Shadowing and Imitation from Humans'. CoRL 2024. arXiv:2406.10454. Stanford University.
+- **disclosed subsystems:** `control-rl-policy`, `control-imitation-learning`, `control-motion-capture-imitation`, `control-humanoid-shadowing`
+
+**Prior art notes:**
+
+> HumanPlus (Fu et al. CoRL 2024) is the canonical Stanford humanoid-imitation-from-humans paper. 1-year-deep open-permissive prior art for: two-stage RL-shadowing + IL fine-tuning, real-hardware humanoid full-body imitation from human motion. Direct architectural application of AMP/ASE lineage (rounds 21+27) to actual humanoid hardware. Direct shielding for any commercial humanoid claim on 'humanoid imitates humans' or 'mocap-trained humanoid policy on real hardware'.
+
+**Sources:**
+
+1. Fu et al. arXiv:2406.10454 CoRL 2024.
+2. Project page (humanoid-shadowing.github.io).
+3. GitHub: github.com/MarkFzp/humanplus.
 
 ---
 
@@ -2847,4 +2929,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

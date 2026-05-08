@@ -1,7 +1,7 @@
 ---
 title: "control-imitation-learning"
 parent: "Invalidity Contentions"
-nav_order: 37
+nav_order: 39
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-imitation-learning`  
-**Entries:** 18 (18 commons-grade, 0 draft)  
+**Entries:** 20 (20 commons-grade, 0 draft)  
 **Earliest disclosure:** 2018-04  
 **Most recent disclosure:** 2025-02
 
@@ -162,6 +162,26 @@ cite, copy, or redistribute these contentions.
 1. Mees et al. arXiv:2112.03227 IEEE RA-L 2022.
 2. Project page (calvin.cs.uni-freiburg.de).
 3. GitHub: github.com/mees/calvin.
+
+---
+
+### 2022-04 — Adversarial Skill Embeddings (ASE)
+
+- **id:** `ase-peng-stanford-2022`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** NVIDIA + Stanford + UC Berkeley + University of Toronto; Xue Bin Peng et al.
+- **disclosure citation:** Peng, X. B., Guo, Y., Halper, L., Levine, S., Fidler, S. 'ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters'. ACM Transactions on Graphics 41(4) 2022 (SIGGRAPH 2022). arXiv:2205.01906. NVIDIA + Stanford + UC Berkeley + University of Toronto.
+- **disclosed subsystems:** `control-rl-policy`, `control-imitation-learning`, `control-motion-capture-imitation`, `control-latent-skill-embedding`
+
+**Prior art notes:**
+
+> ASE (Peng et al. SIGGRAPH 2022) is the canonical successor to AMP (round-21). 3-year-deep open-permissive prior art for: latent-skill-space adversarial-training for character animation, task-conditioned skill reuse. **Direct ancestor of HumanPlus + ExBody humanoid imitation policies** (round-27 entries below). Together with DeepMimic (round-21) + AMP (round-21), establishes the 7-year mocap-imitation-RL chain DeepMimic 2018 → AMP 2021 → ASE 2022 → HumanPlus 2024 → ExBody 2024.
+
+**Sources:**
+
+1. Peng et al. arXiv:2205.01906 SIGGRAPH 2022.
+2. GitHub: github.com/nv-tlabs/ASE.
 
 ---
 
@@ -337,6 +357,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-06 — HumanPlus humanoid
+
+- **id:** `humanplus-stanford-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford University; Zipeng Fu, Qingqing Zhao, Qi Wu, Gordon Wetzstein, Chelsea Finn
+- **disclosure citation:** Fu, Z., Zhao, Q., Wu, Q., Wetzstein, G., Finn, C. 'HumanPlus: Humanoid Shadowing and Imitation from Humans'. CoRL 2024. arXiv:2406.10454. Stanford University.
+- **disclosed subsystems:** `control-rl-policy`, `control-imitation-learning`, `control-motion-capture-imitation`, `control-humanoid-shadowing`
+
+**Prior art notes:**
+
+> HumanPlus (Fu et al. CoRL 2024) is the canonical Stanford humanoid-imitation-from-humans paper. 1-year-deep open-permissive prior art for: two-stage RL-shadowing + IL fine-tuning, real-hardware humanoid full-body imitation from human motion. Direct architectural application of AMP/ASE lineage (rounds 21+27) to actual humanoid hardware. Direct shielding for any commercial humanoid claim on 'humanoid imitates humans' or 'mocap-trained humanoid policy on real hardware'.
+
+**Sources:**
+
+1. Fu et al. arXiv:2406.10454 CoRL 2024.
+2. Project page (humanoid-shadowing.github.io).
+3. GitHub: github.com/MarkFzp/humanplus.
+
+---
+
 ### 2024-10 — π₀ (Pi-Zero)
 
 - **id:** `physical-intelligence-pi0-2024`
@@ -453,4 +494,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-exoskeleton`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boğaziçi University (Istanbul, Turkey; founded 1863 as Robert College). Robotics research at the Intelligent Systems Laboratory + Faculty of Engineering. Notable: rehabilitation robotics, exoskeleton research, mobile manipulation.
 - **ip status**: open-permissive
 - **prior art notes**: Boğaziçi University is one of two Turkish robotics academic anchors (alongside METU; round-24 entry above). Together with METU brings TR-tagged entries to 2 in the corpus. Aggregator-style; specific Boğaziçi papers should be added in future rounds.
+
+## CEA-LIST France robotics (2000-01)
+
+- **id**: `cea-list-saclay-france-robotics`
+- **corpus**: academic
+- **creator**: CEA-LIST (Saclay, France); Interactive Robotics Lab
+- **disclosure**: Commissariat à l'énergie atomique et aux énergies alternatives / Laboratoire d'Intégration des Systèmes et des Technologies (CEA-LIST), Saclay, France. Robotic systems research at the Interactive Robotics Lab. Notable: surgical robotics, telerobotic systems, exoskeletons (CEA Hercule).
+- **ip status**: open-permissive
+- **prior art notes**: CEA-LIST is one of three pillars of French academic robotics (alongside INRIA + LAAS-CNRS). Brings French depth from 14 to 15.
 
 ## Berkeley BLEEX (Lower Extremity Exoskeleton) (2004-03)
 

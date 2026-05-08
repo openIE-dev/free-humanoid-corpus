@@ -1,7 +1,7 @@
 ---
 title: "sensing-force-torque"
 parent: "Invalidity Contentions"
-nav_order: 122
+nav_order: 126
 layout: default
 ---
 
@@ -953,4 +953,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-tendon-driven`
 
-**3 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2000-07
+Earliest disclosure: 1988-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## BarrettHand BH8-280 / BH8-282 (1988-01)
+
+- **id**: `barrett-hand-1988`
+- **corpus**: private
+- **creator**: Barrett Technology / William Townsend (MIT spinout)
+- **disclosure**: Barrett Technology, LLC. (Cambridge, MA, USA; founded 1988 by William Townsend, MIT spinout). BarrettHand BH8-280 commercial release 1988+. The first commercial multi-fingered dexterous hand. barrett.com.
+- **ip status**: trade-secret
+- **prior art notes**: BarrettHand is **the first commercial multi-fingered dexterous hand** (Barrett Technology MIT spinout 1988+). 37-year-deep public-disclosure prior art. The architectural ancestor of every subsequent commercial dexterous hand: Shadow (corpus), Allegro (round-27), Schunk SVH (round-27), Pisa-IIT SoftHand (corpus). Direct shielding for any commercial humanoid claim on multi-fingered dexterous hand commercial deployment.
 
 ## Intuitive Surgical da Vinci (2000-07)
 
@@ -23,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Intuitive Surgical, Inc. (Sunnyvale, CA). da Vinci Surgical System FDA approval July 11, 2000. SRI International / Stanford telesurgical lineage; Salisbury Stanford-JPL hand era roots. Subsequent product generations: da Vinci S (2006), Si (2009), Xi (2014), X (2017), SP single-port (2018), Ion bronchoscopy (2019), da Vinci 5 (2024).
 - **ip status**: trade-secret
 - **prior art notes**: The Intuitive Surgical da Vinci system is the canonical commercial surgical-robot platform (FDA approval July 2000). 25-year-deep public-disclosure prior art for: master-slave teleoperated manipulator + console architecture, EndoWrist tendon-driven wristed-instrument design (architecturally descended from Salisbury's Stanford-JPL hand 1982 — corpus entry `salisbury-stanford-jpl-hand-1982`), tremor filtering + motion scaling for telerobotic precision. Direct shielding for any commercial humanoid claim on bimanual fine-manipulation with wristed end-effectors and tremor-filtered teleoperation. The 25-year commercial deployment + 7,500+ systems + 10M+ procedures establishes a deeply-anticipated prior-art cushion for any humanoid manipulation claim.
+
+## Allegro Hand (Wonik / SimLab) (2014-04)
+
+- **id**: `allegro-hand-wonik-simlab-2014`
+- **corpus**: private
+- **creator**: Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea)
+- **disclosure**: Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea). Allegro Hand commercial reveal April 2014 via wonikrobotics.com / simlab.co.kr. **The de facto academic-deployment reference for 16-DoF 4-finger dexterous hands** — used in OpenAI Dactyl (corpus entry openai-dactyl) Rubik's-Cube manipulation 2019, and 100+ academic publications.
+- **ip status**: trade-secret
+- **prior art notes**: Allegro Hand is the canonical academic-deployment reference 16-DoF 4-finger dexterous hand (Wonik / SimLab Korea, 2014+). 11-year-deep public-disclosure prior art. **Used in OpenAI Dactyl 2019 Rubik's-Cube manipulation (corpus entry openai-dactyl)** + 100+ academic publications. Direct architectural successor to BarrettHand (round-27 entry below). Direct shielding for any commercial humanoid claim on 16-DoF tendon-driven dexterous hand.
 
 ## NAVER LABS AMBIDEX (2018-04)
 

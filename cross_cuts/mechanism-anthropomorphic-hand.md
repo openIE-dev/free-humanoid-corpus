@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**126 corpus entries disclose this subsystem.**
+**131 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -285,6 +285,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: RoboCop's Prime Directives architecture is a foundational fictional disclosure of *enumerated, prioritized, hard-constraint safety supervisors with disclosed backdoors*. Anticipates with notable specificity: (1) explicit prioritized list of safety directives operating as hard constraints — relevant to modern Simplex/CBF/RTA-style safety supervisor IP; (2) the *failure mode* of operator-installed backdoors in safety supervisors (Directive 4 prevents arrest of OCP senior staff) — directly relevant to claims on tamper-resistant safety policies; this is the single most prescient pre-2010 fictional disclosure of the alignment-failure modes that modern safety-supervisor IP attempts to address; (3) integrated armed humanoid for civic deployment — relevant to law-enforcement humanoid IP. Continuously available since 1987; the Prime Directives sequence is widely cited in safety-architecture pedagogy.
 
+## BarrettHand BH8-280 / BH8-282 (1988-01)
+
+- **id**: `barrett-hand-1988`
+- **corpus**: private
+- **creator**: Barrett Technology / William Townsend (MIT spinout)
+- **disclosure**: Barrett Technology, LLC. (Cambridge, MA, USA; founded 1988 by William Townsend, MIT spinout). BarrettHand BH8-280 commercial release 1988+. The first commercial multi-fingered dexterous hand. barrett.com.
+- **ip status**: trade-secret
+- **prior art notes**: BarrettHand is **the first commercial multi-fingered dexterous hand** (Barrett Technology MIT spinout 1988+). 37-year-deep public-disclosure prior art. The architectural ancestor of every subsequent commercial dexterous hand: Shadow (corpus), Allegro (round-27), Schunk SVH (round-27), Pisa-IIT SoftHand (corpus). Direct shielding for any commercial humanoid claim on multi-fingered dexterous hand commercial deployment.
+
 ## Lore (Star Trek: TNG) (1988-05-09)
 
 - **id**: `star-trek-tng-lore`
@@ -374,6 +383,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Honda Motor Co. press materials, September 1997. Hirose, M. and Ogawa, K. Phil. Trans. R. Soc. A 365, 11–19 (2007).
 - **ip status**: patented
 - **prior art notes**: Final Honda P-series prototype before ASIMO. Refinements to the P2 architecture; key continuity in the Honda prior art chain.
+
+## KIT ARMAR humanoid lineage (1998-01)
+
+- **id**: `kit-armar-humanoid-2000-2020`
+- **corpus**: academic
+- **creator**: Karlsruhe Institute of Technology (KIT); Tamim Asfour group (founded by Rüdiger Dillmann)
+- **disclosure**: Karlsruhe Institute of Technology (KIT, formerly Universität Karlsruhe). ARMAR humanoid lineage 1998-2020+: ARMAR-I (1998), ARMAR-II (2002), ARMAR-III (2005), ARMAR-IV (2013), ARMAR-VI (2018), ARMAR-7 (2024). Albers + Asfour + Dillmann group (now led by Tamim Asfour). The foundational German academic humanoid lineage.
+- **ip status**: public-domain
+- **prior art notes**: The KIT ARMAR humanoid lineage is the foundational German academic humanoid program (Asfour + Dillmann at KIT, 1998-2020+). 27-year-deep public-domain prior art across 7 generations of ARMAR humanoid. Together with DLR Justin (corpus entry justin / dlr-justin), DLR Hand-II (corpus), DLR Hand-Arm System (corpus round-8), establishes the German academic humanoid + manipulator prior-art baseline. Direct shielding for any commercial humanoid claim that descends architecturally from German academic humanoid lineages.
 
 ## Big O (The Big O) (1999-10-13)
 
@@ -681,6 +699,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Boston Dynamics' patents are among the most-cited in the humanoid space and also among the most likely to be challenged on 102/103 grounds given the long academic prior art chain (Honda, AIST, KAIST, MIT). Worth dedicated patent-by-patent analysis.
 
+## Schunk SVH 5-finger dexterous hand (2013-09)
+
+- **id**: `schunk-svh-german-2013`
+- **corpus**: private
+- **creator**: Schunk GmbH & Co. KG (Lauffen am Neckar, Germany)
+- **disclosure**: Schunk GmbH & Co. KG (Lauffen am Neckar, Germany). SVH 5-finger anthropomorphic hand commercial reveal 2013. Subsequent: SDH (Servo Dexterous Hand, 3-finger industrial). schunk.com.
+- **ip status**: trade-secret
+- **prior art notes**: Schunk SVH is the canonical German commercial 5-finger direct-drive dexterous hand (2013+). 12-year-deep public-disclosure prior art for: 9-DoF 5-finger anthropomorphic direct-drive hand. Distinguished architecturally from Allegro / Shadow / Pisa-IIT (all tendon-driven) by direct-drive transmission. Direct shielding for any commercial humanoid claim on direct-drive dexterous hand.
+
 ## Skybot F-850 / FEDOR (2014-04)
 
 - **id**: `skybot-fedor-russia-2019`
@@ -689,6 +716,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Roscosmos + NPO Android Technics (Russia). FEDOR (Final Experimental Demonstration Object Research) humanoid robot project announced 2014. Skybot F-850 variant launched to International Space Station August 22 2019 aboard Soyuz MS-14, uncrewed test mission; spent 16 days at ISS performing supervised tasks before returning to Earth September 7 2019. Subsequent FEDOR work continues at Magnitogorsk-based NPO Android Technics.
 - **ip status**: trade-secret
 - **prior art notes**: Skybot F-850 / FEDOR is the canonical Russian humanoid robotics platform (2014+; ISS deployment 2019). 11-year-deep public-disclosure prior art for: ISS-deployable humanoid (second after NASA Robonaut 2), 180 cm / 160 kg anthropomorphic with bimanual tool-use, exoskeleton-glove master-slave teleoperation. Direct shielding for any commercial humanoid claim on space-deployable humanoid form factor. Closes the Russian regional gap — corpus previously had only 1 RU-tagged entry.
+
+## Allegro Hand (Wonik / SimLab) (2014-04)
+
+- **id**: `allegro-hand-wonik-simlab-2014`
+- **corpus**: private
+- **creator**: Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea)
+- **disclosure**: Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea). Allegro Hand commercial reveal April 2014 via wonikrobotics.com / simlab.co.kr. **The de facto academic-deployment reference for 16-DoF 4-finger dexterous hands** — used in OpenAI Dactyl (corpus entry openai-dactyl) Rubik's-Cube manipulation 2019, and 100+ academic publications.
+- **ip status**: trade-secret
+- **prior art notes**: Allegro Hand is the canonical academic-deployment reference 16-DoF 4-finger dexterous hand (Wonik / SimLab Korea, 2014+). 11-year-deep public-disclosure prior art. **Used in OpenAI Dactyl 2019 Rubik's-Cube manipulation (corpus entry openai-dactyl)** + 100+ academic publications. Direct architectural successor to BarrettHand (round-27 entry below). Direct shielding for any commercial humanoid claim on 16-DoF tendon-driven dexterous hand.
 
 ## Yale OpenHand / ReFlex Hand (2014-05)
 
@@ -752,6 +788,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Humans, Series 1-3. Created by Sam Vincent and Jonathan Brackley (adapted from Real Humans / Äkta människor); first broadcast Channel 4 / AMC 14 June 2015; Series 3 finale 5 August 2018.
 - **ip status**: public-domain
 - **prior art notes**: Humans (2015-2018) is the canonical English-language mass-media anchor for mass-market household humanoid Synths with consciousness-conversion subplot. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid service robots with hyper-real synthetic skin and factory-assembly pipelines — Persona Synthetics is shown across all 3 series; (2) claims on hard-coded safety constraint layers ('do no harm to humans') overlaid on policy networks — Synths cannot override these in standard configuration; (3) claims on consciousness-conversion firmware patches that propagate awareness to peer Synths — the 'Day Zero' code distribution is the Series 3 dramatic core. Broadcast on Channel 4 / AMC with timestamped 14 June 2015 air date.
+
+## IIT WALK-MAN + R1 personal humanoid (Italy) (2015-06)
+
+- **id**: `iit-walk-man-r1-italy-2015`
+- **corpus**: academic
+- **creator**: Istituto Italiano di Tecnologia (IIT, Genoa); Nikos Tsagarakis + Darwin Caldwell groups
+- **disclosure**: Istituto Italiano di Tecnologia (IIT), Genoa, Italy. WALK-MAN humanoid reveal June 2015 for DARPA Robotics Challenge competition (5th place). Subsequent: COMAN+ (Compliant Humanoid), **R1 personal humanoid** (2017-2020) targeted at home + service applications. iit.it. Tsagarakis + Caldwell + Bicchi groups.
+- **ip status**: public-domain
+- **prior art notes**: IIT WALK-MAN + R1 are the canonical Italian academic humanoid platforms (IIT Genoa, 2015-2020+). 10-year-deep public-domain prior art for: SEA + VSA-actuated compliant whole-body humanoid, personal humanoid form factor (130cm/50kg/sub-€30k), DARPA-class disaster-response humanoid. Direct architectural descendant of: Pratt-Williamson SEA (1995, in corpus), Tonietti VSA (2005, round-21), Pisa-IIT SoftHand (in corpus). Together with iCub (corpus entry), establishes the Italian academic humanoid + compliant-actuator prior-art chain. Brings Italian depth from 5 to 6 entries.
 
 ## Generation-3 Synths (Institute Synths) (2015-11-10)
 

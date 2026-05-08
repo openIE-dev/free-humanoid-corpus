@@ -1,7 +1,7 @@
 ---
 title: "control-research-cluster"
 parent: "Invalidity Contentions"
-nav_order: 62
+nav_order: 64
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-research-cluster`  
-**Entries:** 28 (0 commons-grade, 28 draft)  
+**Entries:** 33 (1 commons-grade, 32 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2011-11
 
@@ -415,6 +415,83 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2000-01 — Tsinghua University China robotics *(draft)*
+
+- **id:** `tsinghua-china-robotics-cluster`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Tsinghua University (Beijing, China)
+- **disclosure citation:** Tsinghua University (Beijing, China; founded 1911). Robotics + AI research distributed across multiple departments: Department of Computer Science and Technology (CST), Department of Automation, Department of Mechanical Engineering. Notable: TSAIL machine learning lab (RDT-1B authors round-13 entry); humanoid robotics research.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> Tsinghua University is China's flagship research university and the Chinese academic robotics anchor. Direct ancestor of RDT-1B (corpus entry round-13) via TSAIL lab; founder pipeline produces a substantial fraction of Chinese commercial-humanoid leadership (Unitree, Astribot, others). Aggregator-style; brings CN entries to 25 with first explicit academic-cluster entry.
+
+**Sources:**
+
+1. Tsinghua University corporate site (tsinghua.edu.cn).
+2. TSAIL group publications (ml.cs.tsinghua.edu.cn).
+
+---
+
+### 2000-01 — Shanghai Jiao Tong University (SJTU) robotics *(draft)*
+
+- **id:** `sjtu-shanghai-china-robotics-cluster`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Shanghai Jiao Tong University (Shanghai, China)
+- **disclosure citation:** Shanghai Jiao Tong University (上海交通大学), Shanghai, China. Founded 1896; one of China's oldest and most-prestigious research universities. Robotics research at School of Mechanical Engineering + School of Electronic Information and Electrical Engineering. Notable: surgical robotics, autonomous vehicles, humanoid robotics.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> Shanghai Jiao Tong University is the second elite Chinese academic robotics anchor (alongside Tsinghua). Aggregator-style; brings explicit Chinese academic-cluster representation to 2 entries.
+
+**Sources:**
+
+1. SJTU corporate site (sjtu.edu.cn).
+
+---
+
+### 2000-01 — INRIA France robotics aggregator *(draft)*
+
+- **id:** `inria-france-robotics-cluster`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** INRIA (France); national institute
+- **disclosure citation:** Institut national de recherche en sciences et technologies du numérique (INRIA), France. National French research institute for digital sciences. ~200 research teams across multiple centers: Sophia Antipolis, Paris-Saclay, Grenoble, Rennes, Bordeaux, Lille, Nancy, Lyon. Robotics research scattered across many teams.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> INRIA is France's national digital-sciences research institute. Aggregator covering robotics teams across all INRIA centers. Together with LAAS-CNRS (round-26 entry) and CEA-LIST (round-26 entry below), establishes the French academic-robotics 3-pillar structure. Brings French depth from 13 to 15.
+
+**Sources:**
+
+1. INRIA corporate site (inria.fr).
+
+---
+
+### 2000-01 — CEA-LIST France robotics *(draft)*
+
+- **id:** `cea-list-saclay-france-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** CEA-LIST (Saclay, France); Interactive Robotics Lab
+- **disclosure citation:** Commissariat à l'énergie atomique et aux énergies alternatives / Laboratoire d'Intégration des Systèmes et des Technologies (CEA-LIST), Saclay, France. Robotic systems research at the Interactive Robotics Lab. Notable: surgical robotics, telerobotic systems, exoskeletons (CEA Hercule).
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-exoskeleton`
+
+**Prior art notes:**
+
+> CEA-LIST is one of three pillars of French academic robotics (alongside INRIA + LAAS-CNRS). Brings French depth from 14 to 15.
+
+**Sources:**
+
+1. CEA-LIST corporate site (cea.fr/cea-tech/list).
+
+---
+
 ### 2002-01 — A*STAR Institute for Infocomm Research (I2R) robotics *(draft)*
 
 - **id:** `a-star-singapore-i2r-robotics`
@@ -432,6 +509,27 @@ cite, copy, or redistribute these contentions.
 
 1. A*STAR Institute for Infocomm Research (i2r.a-star.edu.sg).
 2. A*STAR corporate site (a-star.edu.sg).
+
+---
+
+### 2003-09 — LAAS-CNRS Toulouse humanoid robotics
+
+- **id:** `laas-cnrs-toulouse-humanoid-2003`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** LAAS-CNRS Toulouse; Jean-Paul Laumond, Olivier Stasse, Florent Lamiraux et al.
+- **disclosure citation:** Laboratoire d'Analyse et d'Architecture des Systèmes (LAAS-CNRS), Toulouse, France. Founded 1968; one of CNRS's largest joint research units. **HRP-2 humanoid deployed at LAAS 2003** as the first European HRP-2 unit (under joint Japanese-French research agreement). Subsequent: HRP-2 then HRP-4 deployments. Notable researchers: Jean-Paul Laumond (motion planning), Olivier Stasse (humanoid manipulation), Florent Lamiraux.
+- **disclosed subsystems:** `control-research-cluster`, `control-whole-body-qp`, `control-motion-planning`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> LAAS-CNRS Toulouse is the foundational European humanoid research lab (HRP-2 deployment 2003+). 22-year-deep public-domain academic prior art. **The origin of the Pinocchio rigid-body dynamics library** that underlies OCS2 and Crocoddyl (corpus entry mastalli-crocoddyl-2020). Direct shielding for any commercial humanoid claim on whole-body dynamics computation or motion-planning theory. Brings French-academic robotics depth in the corpus from 13 to 14 entries.
+
+**Sources:**
+
+1. LAAS-CNRS corporate site (laas.fr).
+2. Pinocchio library (github.com/stack-of-tasks/pinocchio).
+3. Laumond + Stasse + Lamiraux publications.
 
 ---
 
@@ -630,4 +728,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

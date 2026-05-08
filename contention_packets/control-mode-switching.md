@@ -1,7 +1,7 @@
 ---
 title: "control-mode-switching"
 parent: "Invalidity Contentions"
-nav_order: 45
+nav_order: 47
 layout: default
 ---
 
@@ -234,4 +234,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

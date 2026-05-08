@@ -1,7 +1,7 @@
 ---
 title: "mechanism-bipedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 86
+nav_order: 89
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 145 (113 commons-grade, 32 draft)  
+**Entries:** 150 (118 commons-grade, 32 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2026-04
 
@@ -957,6 +957,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1998-01 — KIT ARMAR humanoid lineage
+
+- **id:** `kit-armar-humanoid-2000-2020`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Karlsruhe Institute of Technology (KIT); Tamim Asfour group (founded by Rüdiger Dillmann)
+- **disclosure citation:** Karlsruhe Institute of Technology (KIT, formerly Universität Karlsruhe). ARMAR humanoid lineage 1998-2020+: ARMAR-I (1998), ARMAR-II (2002), ARMAR-III (2005), ARMAR-IV (2013), ARMAR-VI (2018), ARMAR-7 (2024). Albers + Asfour + Dillmann group (now led by Tamim Asfour). The foundational German academic humanoid lineage.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`, `control-whole-body-control`
+
+**Prior art notes:**
+
+> The KIT ARMAR humanoid lineage is the foundational German academic humanoid program (Asfour + Dillmann at KIT, 1998-2020+). 27-year-deep public-domain prior art across 7 generations of ARMAR humanoid. Together with DLR Justin (corpus entry justin / dlr-justin), DLR Hand-II (corpus), DLR Hand-Arm System (corpus round-8), establishes the German academic humanoid + manipulator prior-art baseline. Direct shielding for any commercial humanoid claim that descends architecturally from German academic humanoid lineages.
+
+**Sources:**
+
+1. KIT High Performance Humanoid Technologies Lab (h2t.iar.kit.edu).
+2. Asfour + Dillmann publications.
+3. Master Motor Map (mmm.humanoids.kit.edu).
+
+---
+
 ### 1999-05-19 — B1 Battle Droid
 
 - **id:** `b1-battle-droid`
@@ -1175,6 +1196,47 @@ cite, copy, or redistribute these contentions.
 
 1. Urasawa, N. and Nagasaki, T. Pluto. Big Comic Original, Shogakukan, 2003-2009 (8 collected tankōbon volumes).
 2. Netflix Pluto anime adaptation, 2023.
+
+---
+
+### 2003-09 — LAAS-CNRS Toulouse humanoid robotics
+
+- **id:** `laas-cnrs-toulouse-humanoid-2003`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** LAAS-CNRS Toulouse; Jean-Paul Laumond, Olivier Stasse, Florent Lamiraux et al.
+- **disclosure citation:** Laboratoire d'Analyse et d'Architecture des Systèmes (LAAS-CNRS), Toulouse, France. Founded 1968; one of CNRS's largest joint research units. **HRP-2 humanoid deployed at LAAS 2003** as the first European HRP-2 unit (under joint Japanese-French research agreement). Subsequent: HRP-2 then HRP-4 deployments. Notable researchers: Jean-Paul Laumond (motion planning), Olivier Stasse (humanoid manipulation), Florent Lamiraux.
+- **disclosed subsystems:** `control-research-cluster`, `control-whole-body-qp`, `control-motion-planning`, `mechanism-bipedal-locomotion`
+
+**Prior art notes:**
+
+> LAAS-CNRS Toulouse is the foundational European humanoid research lab (HRP-2 deployment 2003+). 22-year-deep public-domain academic prior art. **The origin of the Pinocchio rigid-body dynamics library** that underlies OCS2 and Crocoddyl (corpus entry mastalli-crocoddyl-2020). Direct shielding for any commercial humanoid claim on whole-body dynamics computation or motion-planning theory. Brings French-academic robotics depth in the corpus from 13 to 14 entries.
+
+**Sources:**
+
+1. LAAS-CNRS corporate site (laas.fr).
+2. Pinocchio library (github.com/stack-of-tasks/pinocchio).
+3. Laumond + Stasse + Lamiraux publications.
+
+---
+
+### 2003-12 — KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO)
+
+- **id:** `kaist-fx-2-1995`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** KAIST; Jun-Ho Oh group
+- **disclosure citation:** Korea Advanced Institute of Science and Technology (KAIST). KHR series of humanoids 1990s-2000s under Jun-Ho Oh group. KHR-1 (2002), KHR-2 (2003), KHR-3 / **HUBO** (2004) — the pre-HUBO lineage. Documented in: Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-zmp-balancing`
+
+**Prior art notes:**
+
+> The KAIST KHR series (1995-2004) is the foundational Korean academic humanoid lineage that produced HUBO. 22-year-deep public-domain prior art. Direct ancestor chain: KHR-1 → KHR-2 → KHR-3/HUBO → DRC-HUBO+. Together with HUBO (corpus entry) and DRC-HUBO+ (round-22), establishes the Korean humanoid academic lineage spanning 22+ years. Brings Korean entries to 8.
+
+**Sources:**
+
+1. Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
+2. Jun-Ho Oh group publications (KAIST Humanoid Robot Research Center).
 
 ---
 
@@ -2008,6 +2070,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2015-06 — IIT WALK-MAN + R1 personal humanoid (Italy)
+
+- **id:** `iit-walk-man-r1-italy-2015`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Istituto Italiano di Tecnologia (IIT, Genoa); Nikos Tsagarakis + Darwin Caldwell groups
+- **disclosure citation:** Istituto Italiano di Tecnologia (IIT), Genoa, Italy. WALK-MAN humanoid reveal June 2015 for DARPA Robotics Challenge competition (5th place). Subsequent: COMAN+ (Compliant Humanoid), **R1 personal humanoid** (2017-2020) targeted at home + service applications. iit.it. Tsagarakis + Caldwell + Bicchi groups.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric-series-elastic`, `actuator-variable-stiffness`
+
+**Prior art notes:**
+
+> IIT WALK-MAN + R1 are the canonical Italian academic humanoid platforms (IIT Genoa, 2015-2020+). 10-year-deep public-domain prior art for: SEA + VSA-actuated compliant whole-body humanoid, personal humanoid form factor (130cm/50kg/sub-€30k), DARPA-class disaster-response humanoid. Direct architectural descendant of: Pratt-Williamson SEA (1995, in corpus), Tonietti VSA (2005, round-21), Pisa-IIT SoftHand (in corpus). Together with iCub (corpus entry), establishes the Italian academic humanoid + compliant-actuator prior-art chain. Brings Italian depth from 5 to 6 entries.
+
+**Sources:**
+
+1. IIT corporate site (iit.it).
+2. Tsagarakis + Caldwell publications (iit.it/research/lines/humanoid-and-human-centred-mechatronics).
+3. WALK-MAN DRC 2015 documentation.
+4. IIT R1 product page.
+
+---
+
 ### 2016-12 — KX-series Imperial Security Droids (K-2SO)
 
 - **id:** `kx-series-k2so-2016`
@@ -2087,6 +2171,26 @@ cite, copy, or redistribute these contentions.
 1. Wells, M. 'All Systems Red.' Tor.com Publishing, 2017.
 2. Wells, M. The Murderbot Diaries series 2017-2024.
 3. Hugo Award (Best Novella) 2018; Nebula Award (Best Novella) 2017.
+
+---
+
+### 2017-08 — Robotis OP3
+
+- **id:** `robotis-op3-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Robotis Co., Ltd. (Seoul, South Korea)
+- **disclosure citation:** Robotis Co., Ltd. (Seoul, South Korea). OP3 educational humanoid kit reveal August 2017 via robotis.com. Successor to DARwIn-OP (corpus entry darwin-op, ~2010 Virginia Tech / Robotis collaboration). The platform deployed by DeepMind for the Haarnoja humanoid soccer paper (Science Robotics 2024, corpus entry deepmind-humanoid-soccer-haarnoja-2024).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `actuator-electric`, `control-rl-policy`
+
+**Prior art notes:**
+
+> Robotis OP3 is the canonical Korean educational/research humanoid platform (Robotis 2017+). 8-year-deep public-disclosure prior art. **The platform DeepMind humanoid soccer (round-18 entry) ran on** — round-26 closes that hardware-platform citation. Direct shielding for any commercial humanoid claim on small-form-factor (Kid-Size) educational humanoid. Brings Korean entries to 7.
+
+**Sources:**
+
+1. Robotis OP3 product page (robotis.com).
+2. DeepMind humanoid soccer paper Science Robotics 2024.
 
 ---
 
@@ -2991,4 +3095,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

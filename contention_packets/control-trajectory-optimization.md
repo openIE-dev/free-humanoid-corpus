@@ -1,7 +1,7 @@
 ---
 title: "control-trajectory-optimization"
 parent: "Invalidity Contentions"
-nav_order: 73
+nav_order: 75
 layout: default
 ---
 
@@ -133,4 +133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

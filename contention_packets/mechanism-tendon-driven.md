@@ -1,7 +1,7 @@
 ---
 title: "mechanism-tendon-driven"
 parent: "Invalidity Contentions"
-nav_order: 104
+nav_order: 107
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-tendon-driven`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
-**Earliest disclosure:** 2000-07  
+**Entries:** 5 (4 commons-grade, 1 draft)  
+**Earliest disclosure:** 1988-01  
 **Most recent disclosure:** 2025-10
 
 ---
@@ -40,6 +40,26 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 1988-01 — BarrettHand BH8-280 / BH8-282
+
+- **id:** `barrett-hand-1988`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Barrett Technology / William Townsend (MIT spinout)
+- **disclosure citation:** Barrett Technology, LLC. (Cambridge, MA, USA; founded 1988 by William Townsend, MIT spinout). BarrettHand BH8-280 commercial release 1988+. The first commercial multi-fingered dexterous hand. barrett.com.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-tendon-driven`, `mechanism-underactuated-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> BarrettHand is **the first commercial multi-fingered dexterous hand** (Barrett Technology MIT spinout 1988+). 37-year-deep public-disclosure prior art. The architectural ancestor of every subsequent commercial dexterous hand: Shadow (corpus), Allegro (round-27), Schunk SVH (round-27), Pisa-IIT SoftHand (corpus). Direct shielding for any commercial humanoid claim on multi-fingered dexterous hand commercial deployment.
+
+**Sources:**
+
+1. Barrett Technology corporate site (barrett.com).
+2. Townsend, W. T. 'The BarrettHand Grasper' Industrial Robot 27(3) 2000.
+
+---
+
 ### 2000-07 — Intuitive Surgical da Vinci
 
 - **id:** `intuitive-surgical-da-vinci-2000`
@@ -58,6 +78,27 @@ cite, copy, or redistribute these contentions.
 1. Intuitive Surgical corporate site (intuitive.com).
 2. FDA premarket approval (PMA) database, da Vinci System (P000004).
 3. Wikipedia 'Da Vinci Surgical System'.
+
+---
+
+### 2014-04 — Allegro Hand (Wonik / SimLab)
+
+- **id:** `allegro-hand-wonik-simlab-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea)
+- **disclosure citation:** Wonik Robotics + SimLab Co., Ltd. (Seoul, South Korea). Allegro Hand commercial reveal April 2014 via wonikrobotics.com / simlab.co.kr. **The de facto academic-deployment reference for 16-DoF 4-finger dexterous hands** — used in OpenAI Dactyl (corpus entry openai-dactyl) Rubik's-Cube manipulation 2019, and 100+ academic publications.
+- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-tendon-driven`, `actuator-electric`
+
+**Prior art notes:**
+
+> Allegro Hand is the canonical academic-deployment reference 16-DoF 4-finger dexterous hand (Wonik / SimLab Korea, 2014+). 11-year-deep public-disclosure prior art. **Used in OpenAI Dactyl 2019 Rubik's-Cube manipulation (corpus entry openai-dactyl)** + 100+ academic publications. Direct architectural successor to BarrettHand (round-27 entry below). Direct shielding for any commercial humanoid claim on 16-DoF tendon-driven dexterous hand.
+
+**Sources:**
+
+1. Wonik Robotics corporate site (wonikrobotics.com).
+2. SimLab Allegro Hand product page (simlab.co.kr/allegro-hand).
+3. OpenAI Dactyl Rubik's Cube paper (corpus entry openai-dactyl) uses Allegro Hand as the simulated hand.
 
 ---
 
@@ -135,4 +176,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-direct-drive`
 
-**68 corpus entries disclose this subsystem.**
+**69 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -347,6 +347,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DARPA press release, July 2013, announcing Atlas as DRC platform.
 - **ip status**: patented
 - **prior art notes**: Boston Dynamics' patents are among the most-cited in the humanoid space and also among the most likely to be challenged on 102/103 grounds given the long academic prior art chain (Honda, AIST, KAIST, MIT). Worth dedicated patent-by-patent analysis.
+
+## Schunk SVH 5-finger dexterous hand (2013-09)
+
+- **id**: `schunk-svh-german-2013`
+- **corpus**: private
+- **creator**: Schunk GmbH & Co. KG (Lauffen am Neckar, Germany)
+- **disclosure**: Schunk GmbH & Co. KG (Lauffen am Neckar, Germany). SVH 5-finger anthropomorphic hand commercial reveal 2013. Subsequent: SDH (Servo Dexterous Hand, 3-finger industrial). schunk.com.
+- **ip status**: trade-secret
+- **prior art notes**: Schunk SVH is the canonical German commercial 5-finger direct-drive dexterous hand (2013+). 12-year-deep public-disclosure prior art for: 9-DoF 5-finger anthropomorphic direct-drive hand. Distinguished architecturally from Allegro / Shadow / Pisa-IIT (all tendon-driven) by direct-drive transmission. Direct shielding for any commercial humanoid claim on direct-drive dexterous hand.
 
 ## Cheetah-cub (2013-12)
 

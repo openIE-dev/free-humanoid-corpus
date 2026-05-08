@@ -1,7 +1,7 @@
 ---
 title: "control-novel-view-synthesis"
 parent: "Invalidity Contentions"
-nav_order: 53
+nav_order: 55
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-novel-view-synthesis`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
+**Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 2023-03  
 **Most recent disclosure:** 2025-04
 
@@ -58,6 +58,27 @@ cite, copy, or redistribute these contentions.
 1. Kerr et al. arXiv:2303.09553 March 2023; ICCV 2023.
 2. Project page (lerf.io).
 3. GitHub: github.com/kerrj/lerf.
+
+---
+
+### 2023-08 — 3D Gaussian Splatting (Kerbl et al.)
+
+- **id:** `kerbl-3d-gaussian-splatting-siggraph-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Inria + Université Côte d'Azur + MPII; Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis
+- **disclosure citation:** Kerbl, B., Kopanas, G., Leimkühler, T., Drettakis, G. '3D Gaussian Splatting for Real-Time Radiance Field Rendering'. ACM Transactions on Graphics 42(4) 2023 (SIGGRAPH 2023; Best Paper Honorable Mention). arXiv:2308.04079. Inria + Université Côte d'Azur + Max-Planck-Institut für Informatik.
+- **disclosed subsystems:** `control-novel-view-synthesis`, `control-foundation-model-perception`, `control-3d-perception`
+
+**Prior art notes:**
+
+> 3D Gaussian Splatting (Kerbl et al. SIGGRAPH 2023) is the foundational paper underlying every GS-SLAM system in the corpus. 2-year-deep open-permissive prior art. **The architectural foundation of WildGS-SLAM (round-11), LEGS (round-15), LEG-SLAM (round-12), LEGO-SLAM (round-12), DGS-SLAM (round-14), SemGauss-SLAM (round-12), OmniSDF, etc.**. Direct shielding for any commercial humanoid claim on Gaussian-splatting scene representation. Corpus citation chain now resolves through round-27.
+
+**Sources:**
+
+1. Kerbl et al. ACM TOG 42(4) 2023; arXiv:2308.04079.
+2. Project page (repo-sam.inria.fr/fungraph/3d-gaussian-splatting).
+3. GitHub: github.com/graphdeco-inria/gaussian-splatting.
 
 ---
 
@@ -132,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bb592c0`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `90f3192`.*
