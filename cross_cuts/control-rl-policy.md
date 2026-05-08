@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-rl-policy`
 
-**143 corpus entries disclose this subsystem.**
+**144 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1818
 
@@ -761,6 +761,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unitree Robotics Go1 reveal, June 2021.
 - **ip status**: patented
 - **prior art notes**: Unitree Go1 actuator design is heavily anticipated by MIT Cheetah QDD prior art (Wensing 2017, Katz 2019). Pricing-driven commodification rather than novel IP.
+
+## Decision Transformer (2021-06)
+
+- **id**: `decision-transformer-chen-2021`
+- **corpus**: academic
+- **creator**: UC Berkeley + FAIR + Google Brain; Lili Chen, Kevin Lu, Pieter Abbeel, Igor Mordatch et al.
+- **disclosure**: Chen, L., Lu, K., Rajeswaran, A., Lee, K., Grover, A., Laskin, M., Abbeel, P., Srinivas, A., Mordatch, I. 'Decision Transformer: Reinforcement Learning via Sequence Modeling'. NeurIPS 2021. arXiv:2106.01345. UC Berkeley + Facebook AI Research + Google Brain.
+- **ip status**: public-domain
+- **prior art notes**: Decision Transformer (Chen et al. NeurIPS 2021) is the foundational paper recasting RL as conditional sequence modeling. 4-year-deep public-domain prior art. **The conceptual precursor of VLA architecture** — every VLA in the corpus (RT-1, RT-2, OpenVLA, π₀, GR00T N1, Helix) implicitly applies this framing. Direct shielding for any commercial humanoid claim on Transformer-based control policies.
 
 ## NVIDIA Isaac Gym (2021-08)
 

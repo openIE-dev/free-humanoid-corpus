@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-research-cluster`
 
-**33 corpus entries disclose this subsystem.**
+**36 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -221,6 +221,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Commissariat à l'énergie atomique et aux énergies alternatives / Laboratoire d'Intégration des Systèmes et des Technologies (CEA-LIST), Saclay, France. Robotic systems research at the Interactive Robotics Lab. Notable: surgical robotics, telerobotic systems, exoskeletons (CEA Hercule).
 - **ip status**: open-permissive
 - **prior art notes**: CEA-LIST is one of three pillars of French academic robotics (alongside INRIA + LAAS-CNRS). Brings French depth from 14 to 15.
+
+## CASIA Chinese Academy of Sciences Institute of Automation (2000-01)
+
+- **id**: `casia-china-academic-robotics`
+- **corpus**: academic
+- **creator**: Chinese Academy of Sciences Institute of Automation (CASIA, Beijing)
+- **disclosure**: Institute of Automation, Chinese Academy of Sciences (CASIA / 中科院自动化所), Beijing, China. Founded 1956. China's flagship AI/robotics national research institute. casia.cn.
+- **ip status**: open-permissive
+- **prior art notes**: CASIA is China's flagship national AI/robotics research institute (Chinese Academy of Sciences). Together with Tsinghua (round-26) + SJTU (round-26), brings explicit Chinese academic robotics representation to 3 institutions. Aggregator-style; specific CASIA papers should be added in future rounds.
+
+## BIT Beijing Institute of Technology robotics (2000-01)
+
+- **id**: `bit-china-beijing-institute-of-technology-robotics`
+- **corpus**: academic
+- **creator**: Beijing Institute of Technology (BIT)
+- **disclosure**: Beijing Institute of Technology (BIT / 北京理工大学), Beijing, China. Founded 1940. Robotics research at School of Mechatronics + Intelligent Robotics Institute. Notable: defense robotics, humanoid robotics, autonomous vehicles.
+- **ip status**: open-permissive
+- **prior art notes**: BIT is one of China's leading robotics research universities. Aggregator-style; brings explicit Chinese academic representation to 4 institutions (with Tsinghua + SJTU + CASIA).
+
+## KIST Korea Institute of Science and Technology robotics (2000-01)
+
+- **id**: `kist-korea-academic-robotics`
+- **corpus**: academic
+- **creator**: Korea Institute of Science and Technology (KIST)
+- **disclosure**: Korea Institute of Science and Technology (KIST / 한국과학기술연구원), Seoul, South Korea. Founded 1966. Korea's first national-level research institute. Robotics research at Center for Intelligent and Interactive Robotics (CIIR).
+- **ip status**: open-permissive
+- **prior art notes**: KIST is Korea's flagship national research institute. Brings Korean academic representation in the corpus to 9 entries (KAIST + Naver Labs + Doosan + DRC-HUBO+ + Robotis + Rainbow + DARwIn-OP + KAIST KHR series + KIST). Aggregator-style.
 
 ## A*STAR Institute for Infocomm Research (I2R) robotics (2002-01)
 

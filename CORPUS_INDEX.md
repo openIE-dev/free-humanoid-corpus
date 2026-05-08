@@ -1,6 +1,6 @@
 # Corpus Index
 
-519 entries total. Generated from corpus.jsonl.
+531 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | BarrettHand BH8-280 / BH8-282 | `barrett-hand-1988` | 1988 | private | trade-secret |  |
 | Baymax | `baymax-big-hero-6` | 2014 | fictional | fictional |  |
 | BB-8 | `bb-8-star-wars` | 2015 | fictional | fictional |  |
+| BC-Z | `bc-z-jang-2021` | 2021 | academic | public-domain |  |
 | Berkeley BLEEX (Lower Extremity Exoskeleton) | `berkeley-bleex-kazerooni-2004` | 2004 | academic | public-domain |  |
 | Berkeley Humanoid | `berkeley-humanoid` | 2024 | academic | open-permissive |  |
 | Berkeley Humanoid | `berkeley-humanoid-2024` | 2024 | academic | open-permissive |  |
@@ -60,6 +61,7 @@
 | Big O (The Big O) | `big-o-megadeus` | 1999 | fictional | fictional |  |
 | BioTac | `biotac-syntouch` | 2008 | academic | patented |  |
 | Bishop (Aliens) | `bishop-aliens` | 1986 | fictional | fictional |  |
+| BIT Beijing Institute of Technology robotics | `bit-china-beijing-institute-of-technology-robotics` | 2000 | academic | open-permissive | ✓ |
 | Black Mirror 'Be Right Back' bio-printed companion humanoid | `black-mirror-be-right-back-2013` | 2013 | fictional | public-domain |  |
 | Black Mirror 'Metalhead' autonomous quadruped killer | `black-mirror-metalhead-2017` | 2017 | fictional | public-domain |  |
 | Black Mirror 'White Christmas' cookies and consciousness copies | `black-mirror-white-christmas-2014` | 2014 | fictional | public-domain |  |
@@ -84,6 +86,7 @@
 | Caltech LEONARDO | `caltech-leonardo-2021` | 2021 | academic | public-domain |  |
 | CALVIN | `calvin-mees-2022` | 2021 | academic | open-permissive |  |
 | Capture Point (Pratt humanoid balance) | `pratt-capture-point-2007` | 2006 | academic | public-domain |  |
+| CASIA Chinese Academy of Sciences Institute of Automation | `casia-china-academic-robotics` | 2000 | academic | open-permissive | ✓ |
 | Casshan / Casshern (Neo-Human Casshan) | `casshan-tatsunoko` | 1973 | fictional | fictional | ✓ |
 | Cassie | `cassie-osu` | 2017 | academic | patented |  |
 | CEA-LIST France robotics | `cea-list-saclay-france-robotics` | 2000 | academic | open-permissive | ✓ |
@@ -118,9 +121,11 @@
 | DARwIn-OP | `darwin-op` | 2010 | open | open-permissive |  |
 | Data | `data-tng` | 1987 | fictional | fictional |  |
 | David and Walter (Alien franchise synthetics) | `david-prometheus-walter-covenant` | 2012 | fictional | fictional |  |
+| Decision Transformer | `decision-transformer-chen-2021` | 2021 | academic | public-domain |  |
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
 | DeepMimic | `deepmimic-peng-siggraph-2018` | 2018 | academic | open-permissive |  |
 | DeepMind humanoid soccer (Haarnoja et al.) | `deepmind-humanoid-soccer-haarnoja-2024` | 2024 | academic | open-permissive |  |
+| Denoising Diffusion Probabilistic Models (DDPM) | `ddpm-ho-neurips-2020` | 2020 | academic | public-domain |  |
 | Depth Anything V2 | `bytedance-depth-anything-v2-2024` | 2024 | academic | open-permissive |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
 | DexMV (Dexterous Manipulation from Videos) | `dexmv-qin-cvpr-2022` | 2021 | academic | open-permissive |  |
@@ -147,6 +152,7 @@
 | DSV Alvin | `alvin-hov-1964` | 1964 | academic | public-domain |  |
 | DUSt3R | `dust3r-naver-cvpr-2024` | 2023 | academic | open-permissive |  |
 | Dynamic Movement Primitives (DMP) | `dmp-schaal-ijspeert` | 2002 | academic | public-domain |  |
+| Dynamic Vision Sensor (DVS) event camera | `lichtsteiner-dvs-event-camera-2008` | 2008 | academic | public-domain |  |
 | DynaSLAM | `dynaslam-bescos-2018` | 2018 | academic | open-copyleft |  |
 | EDI (Mass Effect) | `mass-effect-edi` | 2010 | fictional | fictional | ✓ |
 | Educational SoftHand-A | `educational-softhand-a-2025` | 2025 | academic | open-permissive |  |
@@ -256,6 +262,7 @@
 | Kepler K2 | `kepler-k2` | 2024 | private | patented | ✓ |
 | Khalifa University UAE Abu Dhabi robotics | `khalifa-university-uae-abu-dhabi-robotics` | 2007 | academic | open-permissive | ✓ |
 | Khatib Operational Space Formulation | `khatib-operational-space` | 1987 | academic | public-domain |  |
+| KIST Korea Institute of Science and Technology robotics | `kist-korea-academic-robotics` | 2000 | academic | open-permissive | ✓ |
 | KIT ARMAR humanoid lineage | `kit-armar-humanoid-2000-2020` | 1998 | academic | public-domain |  |
 | Klara and the Sun — Artificial Friend (AF) child companion | `ishiguro-klara-and-the-sun-2021` | 2021 | fictional | public-domain |  |
 | Knight Sabers Hardsuits (Bubblegum Crisis) | `bubblegum-crisis-hardsuits` | 1987 | fictional | fictional |  |
@@ -361,6 +368,7 @@
 | Pratt Virtual Model Control | `pratt-virtual-model-control` | 2001 | academic | public-domain |  |
 | Pratt-Williamson Series Elastic Actuator | `pratt-williamson-sea` | 1995 | academic | public-domain |  |
 | Promobot | `promobot-russia-2015` | 2015 | private | trade-secret |  |
+| Prophesee EVK4 event camera | `prophesee-evk4-event-camera-2020` | 2020 | private | trade-secret |  |
 | R. Daneel Olivaw | `asimov-caves-of-steel-daneel` | 1953 | fictional | fictional |  |
 | R2-D2 | `r2-d2-star-wars` | 1977 | fictional | fictional |  |
 | RADIO-ViPE | `radio-vipe-itmo-2026` | 2026 | academic | open-permissive |  |
@@ -386,6 +394,7 @@
 | RoboCat (Self-Improving Generalist Agent) | `robocat` | 2023 | academic | open-permissive |  |
 | RoboCop (Alex Murphy) | `robocop-1987` | 1987 | fictional | fictional |  |
 | ROBODOC orthopedic surgical robot (Taylor JHU + Integrated Surgical Systems) | `taylor-robodoc-orthopedic-1992` | 1992 | private | trade-secret |  |
+| RoboFlamingo | `roboflamingo-baai-tsinghua-2024` | 2023 | academic | open-permissive | ✓ |
 | robomimic | `robomimic-mandlekar-2021` | 2021 | academic | open-permissive |  |
 | Robonaut 1 | `robonaut-1` | 1996 | academic | public-domain |  |
 | Robonaut 2 | `robonaut-2` | 2010 | academic | patented |  |
@@ -472,6 +481,7 @@
 | Toyota HSR | `toyota-hsr` | 2012 | private | patented |  |
 | Toyota Partner Robot (Violin) | `toyota-partner-robot-violin` | 2007 | private | patented |  |
 | Toyota T-HR3 | `toyota-thr3` | 2017 | private | patented |  |
+| Transformer (Attention Is All You Need) | `transformer-vaswani-neurips-2017` | 2017 | academic | public-domain |  |
 | Triton XLX work-class ROV | `triton-xlx-rov` | 2003 | private | trade-secret |  |
 | Trurl and Klapaucius (The Cyberiad) | `lem-cyberiad` | 1965 | fictional | fictional |  |
 | Tsinghua University China robotics | `tsinghua-china-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
@@ -501,8 +511,10 @@
 | Val and Aqua (Heartbeeps) | `heartbeeps-val-aqua` | 1981 | fictional | fictional |  |
 | Variable Stiffness Actuator (Tonietti VSA) | `tonietti-vsa-pisa-iit-2005` | 2005 | academic | public-domain |  |
 | Vicarious Surgical | `vicarious-surgical-2014` | 2014 | private | trade-secret |  |
+| Vicon optical motion capture | `vicon-mocap-1984` | 1984 | private | trade-secret |  |
 | VIMA (General Robot Manipulation with Multimodal Prompts) | `vima` | 2022 | academic | open-permissive |  |
 | ViPE (Video Pose Engine) | `nvidia-vipe-2025` | 2025 | academic | open-permissive |  |
+| Visual Cortex 1 (VC-1) | `meta-vc-1-majumdar-2023` | 2023 | academic | open-permissive |  |
 | Voc Robots (Robots of Death) | `voc-robots-doctor-who` | 1977 | fictional | fictional |  |
 | VTT Technical Research Centre of Finland robotics | `vtt-finland-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Vukobratović Zero Moment Point | `vukobratovic-zmp` | 1969 | academic | public-domain |  |

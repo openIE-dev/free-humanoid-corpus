@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-imitation-learning`
 
-**21 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2018-04
 
@@ -69,6 +69,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: CALVIN is the canonical long-horizon language-conditioned manipulation benchmark (Mees + Burgard Freiburg, RA-L 2022). 4-year-deep open-permissive prior art for: language-conditioned robot manipulation benchmark, teleoperated 'play data' as training distribution, hour-scale unstructured play datasets for language grounding. Direct shielding for any commercial humanoid claim on language-conditioned manipulation training data + benchmarks. Together with LIBERO (round-17), RoboCasa (round-16), robomimic (round-16), establishes the language-conditioned-VLA evaluation substrate.
 
+## BC-Z (2021-12)
+
+- **id**: `bc-z-jang-2021`
+- **corpus**: academic
+- **creator**: Google Research + Stanford + Everyday Robots; Eric Jang, Sergey Levine, Chelsea Finn et al.
+- **disclosure**: Jang, E., Irpan, A., Khansari, M., Kappler, D., Ebert, F., Lynch, C., Levine, S., Finn, C. 'BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning'. CoRL 2021. arXiv:2202.02005. Google Research + Stanford + Everyday Robots.
+- **ip status**: public-domain
+- **prior art notes**: BC-Z (Jang et al. CoRL 2021) is the foundational language-conditioned manipulation policy paper at Google scale. 4-year-deep public-domain prior art. **Direct architectural ancestor of RT-1** (corpus entry) which transformerized BC-Z's framework. Established the 'large-scale demonstrations + language conditioning' pattern that the entire RT-X lineage descends from. Direct shielding for any commercial humanoid VLA claim on 'large-scale teleop + language conditioning'.
+
 ## Adversarial Skill Embeddings (ASE) (2022-04)
 
 - **id**: `ase-peng-stanford-2022`
@@ -104,6 +113,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Open X-Embodiment Collaboration et al. 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models'. ICRA 2024. arXiv:2310.08864. Cross-institutional collaboration spanning 21 institutions (Google DeepMind, Stanford, UC Berkeley, MIT, CMU, Columbia, NYU, Toyota Research Institute, Imperial College, ETH Zürich, Tokyo Tech, et al.). The paper introducing the dataset now in the corpus as `open-x-embodiment`.
 - **ip status**: open-permissive
 - **prior art notes**: RT-X / Open X-Embodiment collaboration (ICRA 2024) is the canonical 21-institution cross-embodiment VLA collaboration. 1.5-year-deep open-permissive prior art for: publicly-coordinated cross-institutional robot dataset pool, cross-embodiment VLA training methodology, RT-1-X / RT-2-X cross-embodiment models. Direct shielding for any commercial humanoid claim on cross-embodiment VLA training. **The collaboration model itself is novel art** — establishes that open multi-institution dataset pooling for robot learning is well-anticipated public-domain academic practice. Distinct from the dataset entry (`open-x-embodiment` already in corpus) by emphasis on the model-training + collaboration-pattern artifacts.
+
+## RoboFlamingo (2023-11)
+
+- **id**: `roboflamingo-baai-tsinghua-2024`
+- **corpus**: academic
+- **creator**: BAAI + ByteDance + Tsinghua; Xinghang Li, Tao Kong et al.
+- **disclosure**: Li, X., Liu, M., Zhang, H., Yu, C., Xu, J., Wu, H., Cheang, C., Jing, Y., Zhang, W., Liu, H., Li, H., Kong, T. 'Vision-Language Foundation Models as Effective Robot Imitators'. ICLR 2024. arXiv:2311.01378. Beijing Academy of Artificial Intelligence (BAAI) + ByteDance + Tsinghua.
+- **ip status**: open-permissive
+- **prior art notes**: RoboFlamingo (Li et al. ICLR 2024) is the canonical Chinese open-source VLM-based VLA. 1.5-year-deep open-permissive prior art. Demonstrates the **frozen-VLM + lightweight-policy paradigm** as an alternative to full VLA fine-tuning (OpenVLA round-12). Direct shielding for any commercial humanoid VLA claim on frozen-foundation-model + light-policy-head architecture.
 
 ## 3D Diffusion Policy (DP3) (2024-03)
 

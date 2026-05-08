@@ -1,7 +1,7 @@
 ---
 title: "control-rl-policy"
 parent: "Invalidity Contentions"
-nav_order: 67
+nav_order: 69
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-rl-policy`  
-**Entries:** 143 (115 commons-grade, 28 draft)  
+**Entries:** 144 (116 commons-grade, 28 draft)  
 **Earliest disclosure:** 1818  
 **Most recent disclosure:** 2026-04
 
@@ -1711,6 +1711,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-06 — Decision Transformer
+
+- **id:** `decision-transformer-chen-2021`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** UC Berkeley + FAIR + Google Brain; Lili Chen, Kevin Lu, Pieter Abbeel, Igor Mordatch et al.
+- **disclosure citation:** Chen, L., Lu, K., Rajeswaran, A., Lee, K., Grover, A., Laskin, M., Abbeel, P., Srinivas, A., Mordatch, I. 'Decision Transformer: Reinforcement Learning via Sequence Modeling'. NeurIPS 2021. arXiv:2106.01345. UC Berkeley + Facebook AI Research + Google Brain.
+- **disclosed subsystems:** `control-rl-policy`, `control-foundation-model-policy`, `control-sequence-modeling`
+
+**Prior art notes:**
+
+> Decision Transformer (Chen et al. NeurIPS 2021) is the foundational paper recasting RL as conditional sequence modeling. 4-year-deep public-domain prior art. **The conceptual precursor of VLA architecture** — every VLA in the corpus (RT-1, RT-2, OpenVLA, π₀, GR00T N1, Helix) implicitly applies this framing. Direct shielding for any commercial humanoid claim on Transformer-based control policies.
+
+**Sources:**
+
+1. Chen et al. arXiv:2106.01345 NeurIPS 2021.
+2. Project page (sites.google.com/berkeley.edu/decision-transformer).
+
+---
+
 ### 2021-08 — NVIDIA Isaac Gym
 
 - **id:** `nvidia-isaac-gym-2021`
@@ -2949,4 +2969,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*

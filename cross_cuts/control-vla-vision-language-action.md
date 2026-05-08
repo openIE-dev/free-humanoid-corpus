@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-vla-vision-language-action`
 
-**92 corpus entries disclose this subsystem.**
+**93 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -608,6 +608,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Open X-Embodiment Collaboration et al. 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models'. ICRA 2024. arXiv:2310.08864. Cross-institutional collaboration spanning 21 institutions (Google DeepMind, Stanford, UC Berkeley, MIT, CMU, Columbia, NYU, Toyota Research Institute, Imperial College, ETH Zürich, Tokyo Tech, et al.). The paper introducing the dataset now in the corpus as `open-x-embodiment`.
 - **ip status**: open-permissive
 - **prior art notes**: RT-X / Open X-Embodiment collaboration (ICRA 2024) is the canonical 21-institution cross-embodiment VLA collaboration. 1.5-year-deep open-permissive prior art for: publicly-coordinated cross-institutional robot dataset pool, cross-embodiment VLA training methodology, RT-1-X / RT-2-X cross-embodiment models. Direct shielding for any commercial humanoid claim on cross-embodiment VLA training. **The collaboration model itself is novel art** — establishes that open multi-institution dataset pooling for robot learning is well-anticipated public-domain academic practice. Distinct from the dataset entry (`open-x-embodiment` already in corpus) by emphasis on the model-training + collaboration-pattern artifacts.
+
+## RoboFlamingo (2023-11)
+
+- **id**: `roboflamingo-baai-tsinghua-2024`
+- **corpus**: academic
+- **creator**: BAAI + ByteDance + Tsinghua; Xinghang Li, Tao Kong et al.
+- **disclosure**: Li, X., Liu, M., Zhang, H., Yu, C., Xu, J., Wu, H., Cheang, C., Jing, Y., Zhang, W., Liu, H., Li, H., Kong, T. 'Vision-Language Foundation Models as Effective Robot Imitators'. ICLR 2024. arXiv:2311.01378. Beijing Academy of Artificial Intelligence (BAAI) + ByteDance + Tsinghua.
+- **ip status**: open-permissive
+- **prior art notes**: RoboFlamingo (Li et al. ICLR 2024) is the canonical Chinese open-source VLM-based VLA. 1.5-year-deep open-permissive prior art. Demonstrates the **frozen-VLM + lightweight-policy paradigm** as an alternative to full VLA fine-tuning (OpenVLA round-12). Direct shielding for any commercial humanoid VLA claim on frozen-foundation-model + light-policy-head architecture.
 
 ## Mobile ALOHA (2024-01-04)
 

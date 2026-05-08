@@ -700,6 +700,18 @@
       ]
     },
     {
+      "id": "vicon-mocap-1984",
+      "name": "Vicon optical motion capture",
+      "year": "1984",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "amp-peng-siggraph-2021",
+        "ase-peng-stanford-2022",
+        "deepmimic-peng-siggraph-2018"
+      ]
+    },
+    {
       "id": "gibson-neuromancer-constructs",
       "name": "Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline)",
       "year": "1984",
@@ -1378,6 +1390,14 @@
       "descendants": []
     },
     {
+      "id": "bit-china-beijing-institute-of-technology-robotics",
+      "name": "BIT Beijing Institute of Technology robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bme-budapest-hungary-robotics",
       "name": "Budapest University of Technology and Economics (BME) robotics",
       "year": "2000",
@@ -1388,6 +1408,14 @@
     {
       "id": "bogazici-istanbul-turkey-robotics",
       "name": "Boğaziçi University Istanbul robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "casia-china-academic-robotics",
+      "name": "CASIA Chinese Academy of Sciences Institute of Automation",
       "year": "2000",
       "corpus": "academic",
       "ancestors": [],
@@ -1460,6 +1488,14 @@
     {
       "id": "itba-argentina-buenos-aires-robotics",
       "name": "ITBA Buenos Aires robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kist-korea-academic-robotics",
+      "name": "KIST Korea Institute of Science and Technology robotics",
       "year": "2000",
       "corpus": "academic",
       "ancestors": [],
@@ -2109,6 +2145,16 @@
       "ancestors": [],
       "descendants": [
         "pr2"
+      ]
+    },
+    {
+      "id": "lichtsteiner-dvs-event-camera-2008",
+      "name": "Dynamic Vision Sensor (DVS) event camera",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "prophesee-evk4-event-camera-2020"
       ]
     },
     {
@@ -3136,6 +3182,18 @@
       "descendants": []
     },
     {
+      "id": "transformer-vaswani-neurips-2017",
+      "name": "Transformer (Attention Is All You Need)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "decision-transformer-chen-2021",
+        "meta-vc-1-majumdar-2023",
+        "roboflamingo-baai-tsinghua-2024"
+      ]
+    },
+    {
       "id": "christiano-rlhf-2017",
       "name": "RLHF (Deep Reinforcement Learning from Human Preferences)",
       "year": "2017",
@@ -3294,7 +3352,9 @@
       "name": "DeepMimic",
       "year": "2018",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "vicon-mocap-1984"
+      ],
       "descendants": [
         "amp-peng-siggraph-2021"
       ]
@@ -3674,11 +3734,34 @@
       ]
     },
     {
+      "id": "ddpm-ho-neurips-2020",
+      "name": "Denoising Diffusion Probabilistic Models (DDPM)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "diffusion-policy",
+        "dp3-ze-rss-2024",
+        "physical-intelligence-pi0-2024",
+        "rdt-1b-thu-2024"
+      ]
+    },
+    {
       "id": "hello-robot-stretch-2020",
       "name": "Hello Robot Stretch",
       "year": "2020",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "prophesee-evk4-event-camera-2020",
+      "name": "Prophesee EVK4 event camera",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [
+        "lichtsteiner-dvs-event-camera-2008"
+      ],
       "descendants": []
     },
     {
@@ -3735,7 +3818,8 @@
       "year": "2021",
       "corpus": "academic",
       "ancestors": [
-        "deepmimic-peng-siggraph-2018"
+        "deepmimic-peng-siggraph-2018",
+        "vicon-mocap-1984"
       ],
       "descendants": [
         "ase-peng-stanford-2022",
@@ -3753,6 +3837,16 @@
       "descendants": [
         "radio-vipe-itmo-2026"
       ]
+    },
+    {
+      "id": "decision-transformer-chen-2021",
+      "name": "Decision Transformer",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [
+        "transformer-vaswani-neurips-2017"
+      ],
+      "descendants": []
     },
     {
       "id": "unitree-go1",
@@ -3861,6 +3955,16 @@
       "descendants": []
     },
     {
+      "id": "bc-z-jang-2021",
+      "name": "BC-Z",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "rt-1"
+      ]
+    },
+    {
       "id": "calvin-mees-2022",
       "name": "CALVIN",
       "year": "2021",
@@ -3918,7 +4022,8 @@
       "year": "2022",
       "corpus": "academic",
       "ancestors": [
-        "amp-peng-siggraph-2021"
+        "amp-peng-siggraph-2021",
+        "vicon-mocap-1984"
       ],
       "descendants": [
         "exbody-stanford-2024",
@@ -4013,6 +4118,7 @@
       "year": "2022",
       "corpus": "academic",
       "ancestors": [
+        "bc-z-jang-2021",
         "levine-gps-pr2-2016",
         "saycan-google"
       ],
@@ -4072,6 +4178,16 @@
       ]
     },
     {
+      "id": "meta-vc-1-majumdar-2023",
+      "name": "Visual Cortex 1 (VC-1)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "transformer-vaswani-neurips-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "siglip-zhai-2023",
       "name": "SigLIP",
       "year": "2023",
@@ -4099,6 +4215,7 @@
       "year": "2023",
       "corpus": "academic",
       "ancestors": [
+        "ddpm-ho-neurips-2020",
         "dmp-schaal-ijspeert",
         "janner-diffuser-2022",
         "mason-mechanics-manipulation",
@@ -4438,6 +4555,16 @@
       ]
     },
     {
+      "id": "roboflamingo-baai-tsinghua-2024",
+      "name": "RoboFlamingo",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "transformer-vaswani-neurips-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "dust3r-naver-cvpr-2024",
       "name": "DUSt3R",
       "year": "2023",
@@ -4585,6 +4712,7 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [
+        "ddpm-ho-neurips-2020",
         "diffusion-policy"
       ],
       "descendants": []
@@ -4932,7 +5060,9 @@
       "name": "π₀ (Pi-Zero)",
       "year": "2024",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "ddpm-ho-neurips-2020"
+      ],
       "descendants": [
         "physical-intelligence-pi05-2025"
       ]
@@ -4943,6 +5073,7 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [
+        "ddpm-ho-neurips-2020",
         "tsinghua-china-robotics-cluster"
       ],
       "descendants": []

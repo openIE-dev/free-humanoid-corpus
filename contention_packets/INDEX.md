@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-08  
-**Packets:** 144  
-**Corpus revision:** `147307a`
+**Packets:** 149  
+**Corpus revision:** `46e9af2`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -55,20 +55,22 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-bimanual-manipulation`](control-bimanual-manipulation.md) | 2 | 2 | 0 | 2024-10 | 2025-02 |
 | [`control-bundle-adjustment`](control-bundle-adjustment.md) | 5 | 4 | 1 | 2021-04 | 2026-04 |
 | [`control-cross-embodiment`](control-cross-embodiment.md) | 6 | 5 | 1 | 2023-10 | 2025-03 |
-| [`control-diffusion-policy`](control-diffusion-policy.md) | 3 | 3 | 0 | 2024-03 | 2024-10 |
+| [`control-diffusion-policy`](control-diffusion-policy.md) | 4 | 4 | 0 | 2020-06 | 2024-10 |
 | [`control-dual-system-architecture`](control-dual-system-architecture.md) | 2 | 2 | 0 | 2025-02 | 2025-03 |
 | [`control-dvl-positioning`](control-dvl-positioning.md) | 8 | 7 | 1 | 1989-04 | 2018-04 |
 | [`control-dynamic-scene-robust`](control-dynamic-scene-robust.md) | 6 | 4 | 2 | 2018-06 | 2026-04 |
-| [`control-egocentric-video-pretraining`](control-egocentric-video-pretraining.md) | 2 | 2 | 0 | 2021-08 | 2025-03 |
-| [`control-foundation-model-perception`](control-foundation-model-perception.md) | 16 | 14 | 2 | 2020-03 | 2026-04 |
-| [`control-foundation-model-policy`](control-foundation-model-policy.md) | 16 | 13 | 3 | 2021-08 | 2025-10 |
+| [`control-egocentric-video-pretraining`](control-egocentric-video-pretraining.md) | 3 | 3 | 0 | 2021-08 | 2025-03 |
+| [`control-foundation-model`](control-foundation-model.md) | 3 | 3 | 0 | 2017-06 | 2023-07 |
+| [`control-foundation-model-perception`](control-foundation-model-perception.md) | 17 | 15 | 2 | 2020-03 | 2026-04 |
+| [`control-foundation-model-policy`](control-foundation-model-policy.md) | 19 | 15 | 4 | 2021-06 | 2025-10 |
 | [`control-gaussian-splatting-slam`](control-gaussian-splatting-slam.md) | 6 | 2 | 4 | 2024-03 | 2025-11 |
 | [`control-grasp-planning`](control-grasp-planning.md) | 2 | 1 | 1 | 1989-06 | 2000-01 |
 | [`control-grasp-taxonomy`](control-grasp-taxonomy.md) | 4 | 4 | 0 | 1919-01 | 1989-06 |
 | [`control-haptic-rendering`](control-haptic-rendering.md) | 4 | 3 | 1 | 1994-09 | 2023-09 |
-| [`control-imitation-learning`](control-imitation-learning.md) | 21 | 21 | 0 | 2018-04 | 2025-02 |
+| [`control-imitation-learning`](control-imitation-learning.md) | 23 | 22 | 1 | 2018-04 | 2025-02 |
 | [`control-impedance-control`](control-impedance-control.md) | 2 | 2 | 0 | 1994-09 | 2008-12 |
 | [`control-implicit-scene-representation`](control-implicit-scene-representation.md) | 2 | 2 | 0 | 2020-03 | 2023-02 |
+| [`control-language-conditioned-policy`](control-language-conditioned-policy.md) | 2 | 2 | 0 | 2021-12 | 2021-12 |
 | [`control-loco-manipulation`](control-loco-manipulation.md) | 4 | 4 | 0 | 2023-10 | 2025-04 |
 | [`control-long-horizon-manipulation`](control-long-horizon-manipulation.md) | 2 | 2 | 0 | 2021-12 | 2023-05 |
 | [`control-master-slave-teleoperation`](control-master-slave-teleoperation.md) | 4 | 3 | 1 | 1989-01 | 2021-03 |
@@ -92,9 +94,10 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-publish-subscribe`](control-publish-subscribe.md) | 2 | 2 | 0 | 2009-05 | 2017-12 |
 | [`control-raibert-decomposition`](control-raibert-decomposition.md) | 2 | 1 | 1 | 1981-01 | 2005-12 |
 | [`control-reduced-order-model`](control-reduced-order-model.md) | 28 | 27 | 1 | 1979-04-07 | 2023-08 |
-| [`control-research-cluster`](control-research-cluster.md) | 33 | 1 | 32 | 2000-01 | 2011-11 |
-| [`control-rl-policy`](control-rl-policy.md) | 143 | 115 | 28 | 1818 | 2026-04 |
+| [`control-research-cluster`](control-research-cluster.md) | 36 | 1 | 35 | 2000-01 | 2011-11 |
+| [`control-rl-policy`](control-rl-policy.md) | 144 | 116 | 28 | 1818 | 2026-04 |
 | [`control-rough-terrain-locomotion`](control-rough-terrain-locomotion.md) | 5 | 5 | 0 | 2005-12 | 2024-09 |
+| [`control-self-supervised-vision`](control-self-supervised-vision.md) | 2 | 2 | 0 | 2023-03 | 2023-04 |
 | [`control-semantic-slam`](control-semantic-slam.md) | 4 | 1 | 3 | 2024-03 | 2026-04 |
 | [`control-sensitivity-amplification`](control-sensitivity-amplification.md) | 2 | 2 | 0 | 2004-03 | 2018-09 |
 | [`control-sim-to-real`](control-sim-to-real.md) | 35 | 30 | 5 | 2014-12-11 | 2026-04 |
@@ -108,7 +111,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-vibrotactile-feedback`](control-vibrotactile-feedback.md) | 2 | 0 | 2 | 2023-01 | 2023-09 |
 | [`control-vio-slam`](control-vio-slam.md) | 13 | 7 | 6 | 2010-07 | 2026-04 |
 | [`control-vision-language`](control-vision-language.md) | 2 | 2 | 0 | 2023-03 | 2023-12 |
-| [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 92 | 81 | 11 | 1886 | 2026-04 |
+| [`control-vla-vision-language-action`](control-vla-vision-language-action.md) | 93 | 81 | 12 | 1886 | 2026-04 |
 | [`control-vr-headset-teleoperation`](control-vr-headset-teleoperation.md) | 2 | 2 | 0 | 2014-01 | 2024-07 |
 | [`control-whole-body-qp`](control-whole-body-qp.md) | 2 | 2 | 0 | 2003-09 | 2015-06 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 25 | 24 | 1 | 1969 | 2023-08 |
@@ -153,7 +156,9 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`safety-emergency-stop`](safety-emergency-stop.md) | 5 | 5 | 0 | 1982-12 | 2017-05 |
 | [`safety-hard-constraint`](safety-hard-constraint.md) | 58 | 57 | 1 | -0250 | 2024-05-24 |
 | [`safety-simplex-supervisor`](safety-simplex-supervisor.md) | 8 | 8 | 0 | 1940-09 | 2019-05 |
+| [`sensing-asynchronous-vision`](sensing-asynchronous-vision.md) | 2 | 2 | 0 | 2008-02 | 2020-09 |
 | [`sensing-cortical-implant`](sensing-cortical-implant.md) | 2 | 2 | 0 | 2002-07 | 2017-04 |
+| [`sensing-event-camera`](sensing-event-camera.md) | 2 | 2 | 0 | 2008-02 | 2020-09 |
 | [`sensing-face-tracking`](sensing-face-tracking.md) | 2 | 2 | 0 | 1998-09 | 2019-06 |
 | [`sensing-fingertip-tactile`](sensing-fingertip-tactile.md) | 7 | 5 | 2 | 2009-12 | 2025-10 |
 | [`sensing-force-torque`](sensing-force-torque.md) | 44 | 38 | 6 | 1969 | 2024-07 |

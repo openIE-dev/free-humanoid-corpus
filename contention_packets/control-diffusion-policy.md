@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-diffusion-policy`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
-**Earliest disclosure:** 2024-03  
+**Entries:** 4 (4 commons-grade, 0 draft)  
+**Earliest disclosure:** 2020-06  
 **Most recent disclosure:** 2024-10
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2020-06 — Denoising Diffusion Probabilistic Models (DDPM)
+
+- **id:** `ddpm-ho-neurips-2020`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** UC Berkeley; Jonathan Ho, Ajay Jain, Pieter Abbeel; antecedent: Stanford Sohl-Dickstein 2015
+- **disclosure citation:** Ho, J., Jain, A., Abbeel, P. 'Denoising Diffusion Probabilistic Models'. NeurIPS 2020. arXiv:2006.11239. UC Berkeley. The antecedent: Sohl-Dickstein, J., Weiss, E., Maheswaranathan, N., Ganguli, S. 'Deep Unsupervised Learning using Nonequilibrium Thermodynamics'. ICML 2015 (the original diffusion model paper).
+- **disclosed subsystems:** `control-foundation-model`, `control-diffusion-policy`, `control-generative-model`
+
+**Prior art notes:**
+
+> DDPM (Ho et al. NeurIPS 2020) is the foundational modern diffusion-models paper. 5-year-deep public-domain prior art. **Direct architectural ancestor of Diffusion Policy (corpus), DP3 (round-17), RDT-1B (round-13), π₀ (round-12)** — every diffusion-based VLA + manipulation policy. Direct shielding for any commercial humanoid claim on diffusion-based action generation. Closes a major foundational citation chain.
+
+**Sources:**
+
+1. Ho, Jain, Abbeel. arXiv:2006.11239 NeurIPS 2020.
+2. Sohl-Dickstein et al. ICML 2015 (diffusion antecedent).
+
+---
 
 ### 2024-03 — 3D Diffusion Policy (DP3)
 
@@ -135,4 +155,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*

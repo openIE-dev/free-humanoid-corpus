@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model-policy"
 parent: "Invalidity Contentions"
-nav_order: 35
+nav_order: 36
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-foundation-model-policy`  
-**Entries:** 16 (13 commons-grade, 3 draft)  
-**Earliest disclosure:** 2021-08  
+**Entries:** 19 (15 commons-grade, 4 draft)  
+**Earliest disclosure:** 2021-06  
 **Most recent disclosure:** 2025-10
 
 ---
@@ -40,6 +40,26 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 2021-06 — Decision Transformer
+
+- **id:** `decision-transformer-chen-2021`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** UC Berkeley + FAIR + Google Brain; Lili Chen, Kevin Lu, Pieter Abbeel, Igor Mordatch et al.
+- **disclosure citation:** Chen, L., Lu, K., Rajeswaran, A., Lee, K., Grover, A., Laskin, M., Abbeel, P., Srinivas, A., Mordatch, I. 'Decision Transformer: Reinforcement Learning via Sequence Modeling'. NeurIPS 2021. arXiv:2106.01345. UC Berkeley + Facebook AI Research + Google Brain.
+- **disclosed subsystems:** `control-rl-policy`, `control-foundation-model-policy`, `control-sequence-modeling`
+
+**Prior art notes:**
+
+> Decision Transformer (Chen et al. NeurIPS 2021) is the foundational paper recasting RL as conditional sequence modeling. 4-year-deep public-domain prior art. **The conceptual precursor of VLA architecture** — every VLA in the corpus (RT-1, RT-2, OpenVLA, π₀, GR00T N1, Helix) implicitly applies this framing. Direct shielding for any commercial humanoid claim on Transformer-based control policies.
+
+**Sources:**
+
+1. Chen et al. arXiv:2106.01345 NeurIPS 2021.
+2. Project page (sites.google.com/berkeley.edu/decision-transformer).
+
+---
+
 ### 2021-08 — robomimic
 
 - **id:** `robomimic-mandlekar-2021`
@@ -61,6 +81,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-12 — BC-Z
+
+- **id:** `bc-z-jang-2021`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Google Research + Stanford + Everyday Robots; Eric Jang, Sergey Levine, Chelsea Finn et al.
+- **disclosure citation:** Jang, E., Irpan, A., Khansari, M., Kappler, D., Ebert, F., Lynch, C., Levine, S., Finn, C. 'BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning'. CoRL 2021. arXiv:2202.02005. Google Research + Stanford + Everyday Robots.
+- **disclosed subsystems:** `control-imitation-learning`, `control-language-conditioned-policy`, `control-foundation-model-policy`
+
+**Prior art notes:**
+
+> BC-Z (Jang et al. CoRL 2021) is the foundational language-conditioned manipulation policy paper at Google scale. 4-year-deep public-domain prior art. **Direct architectural ancestor of RT-1** (corpus entry) which transformerized BC-Z's framework. Established the 'large-scale demonstrations + language conditioning' pattern that the entire RT-X lineage descends from. Direct shielding for any commercial humanoid VLA claim on 'large-scale teleop + language conditioning'.
+
+**Sources:**
+
+1. Jang et al. arXiv:2202.02005 CoRL 2021.
+2. Project page (sites.google.com/view/bc-z).
+
+---
+
 ### 2023-10 — RT-X / Open X-Embodiment collaboration paper
 
 - **id:** `rt-x-collaboration-2023`
@@ -79,6 +119,27 @@ cite, copy, or redistribute these contentions.
 1. Open X-Embodiment Collaboration arXiv:2310.08864 ICRA 2024.
 2. Project page (robotics-transformer-x.github.io).
 3. Open X-Embodiment dataset (robotics-transformer-x.github.io/data).
+
+---
+
+### 2023-11 — RoboFlamingo *(draft)*
+
+- **id:** `roboflamingo-baai-tsinghua-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** BAAI + ByteDance + Tsinghua; Xinghang Li, Tao Kong et al.
+- **disclosure citation:** Li, X., Liu, M., Zhang, H., Yu, C., Xu, J., Wu, H., Cheang, C., Jing, Y., Zhang, W., Liu, H., Li, H., Kong, T. 'Vision-Language Foundation Models as Effective Robot Imitators'. ICLR 2024. arXiv:2311.01378. Beijing Academy of Artificial Intelligence (BAAI) + ByteDance + Tsinghua.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-imitation-learning`
+
+**Prior art notes:**
+
+> RoboFlamingo (Li et al. ICLR 2024) is the canonical Chinese open-source VLM-based VLA. 1.5-year-deep open-permissive prior art. Demonstrates the **frozen-VLM + lightweight-policy paradigm** as an alternative to full VLA fine-tuning (OpenVLA round-12). Direct shielding for any commercial humanoid VLA claim on frozen-foundation-model + light-policy-head architecture.
+
+**Sources:**
+
+1. Li et al. arXiv:2311.01378 ICLR 2024.
+2. Project page (roboflamingo.github.io).
+3. GitHub: github.com/RoboFlamingo/RoboFlamingo.
 
 ---
 
@@ -416,4 +477,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*

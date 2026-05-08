@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-egocentric-video-pretraining`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2021-08  
 **Most recent disclosure:** 2025-03
 
@@ -57,6 +57,26 @@ cite, copy, or redistribute these contentions.
 
 1. Qin et al. arXiv:2108.05877 ECCV 2022.
 2. Project page (yzqin.github.io/dexmv).
+
+---
+
+### 2023-03 — Visual Cortex 1 (VC-1)
+
+- **id:** `meta-vc-1-majumdar-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Meta AI + UC Berkeley + Georgia Tech; Arjun Majumdar, Karmesh Yadav, Pieter Abbeel, Jitendra Malik et al.
+- **disclosure citation:** Majumdar, A., Yadav, K., Arnaud, S., Ma, J., Chen, C., Silwal, S., Jain, A., Berges, V.-P., Abbeel, P., Malik, J., Batra, D., Lin, Y., Maksymets, O., Rajeswaran, A., Meier, F. 'Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?'. NeurIPS 2023. arXiv:2303.18240. Meta AI + UC Berkeley + Georgia Tech.
+- **disclosed subsystems:** `control-foundation-model-perception`, `control-self-supervised-vision`, `control-egocentric-video-pretraining`
+
+**Prior art notes:**
+
+> VC-1 (Majumdar et al. Meta NeurIPS 2023) is the canonical foundation vision model for embodied AI. 2-year-deep open-permissive prior art. Direct architectural ancestor of: subsequent embodied-vision foundation models, NVIDIA AM-RADIO (round-13), DexMV (round-17 entry — egocentric-video-trained manipulation policies). Direct shielding for any commercial humanoid claim on embodied-vision foundation models.
+
+**Sources:**
+
+1. Majumdar et al. arXiv:2303.18240 NeurIPS 2023.
+2. Project page (eai-vc.github.io).
 
 ---
 
@@ -113,4 +133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*

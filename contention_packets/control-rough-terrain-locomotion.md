@@ -1,7 +1,7 @@
 ---
 title: "control-rough-terrain-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 68
+nav_order: 70
 layout: default
 ---
 
@@ -172,4 +172,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*

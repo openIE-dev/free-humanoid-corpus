@@ -1,7 +1,7 @@
 ---
 title: "control-vla-vision-language-action"
 parent: "Invalidity Contentions"
-nav_order: 82
+nav_order: 85
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-vla-vision-language-action`  
-**Entries:** 92 (81 commons-grade, 11 draft)  
+**Entries:** 93 (81 commons-grade, 12 draft)  
 **Earliest disclosure:** 1886  
 **Most recent disclosure:** 2026-04
 
@@ -1365,6 +1365,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-11 — RoboFlamingo *(draft)*
+
+- **id:** `roboflamingo-baai-tsinghua-2024`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** BAAI + ByteDance + Tsinghua; Xinghang Li, Tao Kong et al.
+- **disclosure citation:** Li, X., Liu, M., Zhang, H., Yu, C., Xu, J., Wu, H., Cheang, C., Jing, Y., Zhang, W., Liu, H., Li, H., Kong, T. 'Vision-Language Foundation Models as Effective Robot Imitators'. ICLR 2024. arXiv:2311.01378. Beijing Academy of Artificial Intelligence (BAAI) + ByteDance + Tsinghua.
+- **disclosed subsystems:** `control-vla-vision-language-action`, `control-foundation-model-policy`, `control-imitation-learning`
+
+**Prior art notes:**
+
+> RoboFlamingo (Li et al. ICLR 2024) is the canonical Chinese open-source VLM-based VLA. 1.5-year-deep open-permissive prior art. Demonstrates the **frozen-VLM + lightweight-policy paradigm** as an alternative to full VLA fine-tuning (OpenVLA round-12). Direct shielding for any commercial humanoid VLA claim on frozen-foundation-model + light-policy-head architecture.
+
+**Sources:**
+
+1. Li et al. arXiv:2311.01378 ICLR 2024.
+2. Project page (roboflamingo.github.io).
+3. GitHub: github.com/RoboFlamingo/RoboFlamingo.
+
+---
+
 ### 2024-01-04 — Mobile ALOHA
 
 - **id:** `mobile-aloha`
@@ -1933,4 +1954,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `147307a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46e9af2`.*
