@@ -1,7 +1,7 @@
 ---
 title: "mechanism-tendon-driven"
 parent: "Invalidity Contentions"
-nav_order: 93
+nav_order: 95
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-tendon-driven`  
-**Entries:** 2 (1 commons-grade, 1 draft)  
+**Entries:** 3 (2 commons-grade, 1 draft)  
 **Earliest disclosure:** 2000-07  
 **Most recent disclosure:** 2025-10
 
@@ -58,6 +58,27 @@ cite, copy, or redistribute these contentions.
 1. Intuitive Surgical corporate site (intuitive.com).
 2. FDA premarket approval (PMA) database, da Vinci System (P000004).
 3. Wikipedia 'Da Vinci Surgical System'.
+
+---
+
+### 2018-04 — NAVER LABS AMBIDEX
+
+- **id:** `naver-labs-ambidex-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** NAVER LABS Corp. (Seongnam, South Korea)
+- **disclosure citation:** NAVER LABS Corp. (Seongnam, South Korea; AI research arm of Naver Corporation). AMBIDEX humanoid arm reveal April 2018 at ICRA 2018 demo + naverlabs.com. Subsequent academic publications: 'Cable-driven anthropomorphic robot arm' related papers from the Korea Institute of Science and Technology / KAIST collaborations.
+- **disclosed subsystems:** `mechanism-anthropomorphic-arm`, `mechanism-tendon-driven`, `mechanism-cable-driven-transmission`, `actuator-electric`
+
+**Prior art notes:**
+
+> NAVER LABS AMBIDEX is the canonical Korean academic-commercial cable-driven anthropomorphic arm (NAVER LABS, 2018+). 7-year-deep public-disclosure prior art for: dual-wire-driven 7-DoF manipulator with proximal motor concentration, low-distal-inertia commercial collaborative robot arm. Distinct architectural branch from harmonic-drive arms (Honda P-series, DLR Hand-Arm) and quasi-direct-drive arms (Berkeley Humanoid, ToddlerBot). Direct shielding for any commercial humanoid claim on cable-driven transmission for arms. Particularly relevant for free-humanoid-platform's wrist + hand subsystem (which is tendon-driven) — AMBIDEX establishes that whole-arm tendon transmission is well-anticipated commercial Korean practice.
+
+**Sources:**
+
+1. NAVER LABS corporate site (naverlabs.com).
+2. ICRA 2018 demonstration coverage.
+3. AMBIDEX product page (Naver internal).
 
 ---
 
@@ -114,4 +135,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*

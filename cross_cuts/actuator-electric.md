@@ -6,14 +6,32 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**11 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2016-06
+Earliest disclosure: 2008-12
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Surena humanoid (Tehran University) (2008-12)
+
+- **id**: `surena-tehran-university-2008`
+- **corpus**: academic
+- **creator**: Tehran University CAST + Iranian Ministry of Industry; Aghil Yousefi-Koma group
+- **disclosure**: Tehran University Center of Advanced Systems and Technologies (CAST). Surena lineage: Surena (2008), Surena II (2010), Surena III (2015), Surena IV (December 2019). Yousefi-Koma, A. + Tehran University engineering team. Iran's flagship humanoid program.
+- **ip status**: public-domain
+- **prior art notes**: The Surena lineage (Tehran University CAST, 2008-2020+) is Iran's flagship humanoid program. 17-year-deep public-domain academic prior art (Iran does not enforce most foreign patents; Iranian academic publications are public-domain by default). Establishes Iranian indigenous capability under sanctions for: 170 cm / 68 kg adult-class bipedal humanoid, 43-DoF whole-body, anthropomorphic 5-finger hands. Closes the Iran/Middle-East regional gap (corpus had 0 entries from Iran prior to this round).
+
+## DRC-HUBO+ (DARPA Robotics Challenge winner) (2015-06)
+
+- **id**: `kaist-drc-hubo-2015`
+- **corpus**: academic
+- **creator**: KAIST Humanoid Robot Research Center; Jun-Ho Oh group + Rainbow Robotics
+- **disclosure**: KAIST + Rainbow Robotics. 'DRC-HUBO+: A robotic platform for the DARPA Robotics Challenge'. Lim, J., Lee, I., Shim, I., et al. International Journal of Robotics Research / Journal of Field Robotics 2017. Won 1st place at DARPA Robotics Challenge Finals Pomona June 2015 — completing all 8 disaster-response tasks in 44m28s. The follow-on commercial version was Rainbow Robotics' first product (corpus has rainbow-robotics-rb-y1 as the modern commercial successor).
+- **ip status**: public-domain
+- **prior art notes**: DRC-HUBO+ (KAIST + Rainbow Robotics, DRC 2015) is the canonical Korean academic humanoid milestone — 1st place winner of the DARPA Robotics Challenge Finals June 2015. 10-year-deep public-domain prior art for: wheel-leg hybrid transformable bipedal humanoid (knee-rolling for stability + bipedal for stairs), operator-supervised whole-body autonomy under intermittent comm. Direct shielding for any commercial humanoid claim on transformable lower-body morphology or DRC-class disaster-response capability set. Established Rainbow Robotics' commercial humanoid lineage (corpus entry rainbow-robotics-rb-y1).
 
 ## Boston Dynamics SpotMini (2016-06)
 
@@ -23,6 +41,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics. SpotMini public reveal June 2016 demo video; subsequent IEEE Spectrum coverage 2017-2018; capability demonstrations via Boston Dynamics YouTube. Discontinued in favor of Spot (the production quadruped) circa 2019.
 - **ip status**: trade-secret
 - **prior art notes**: SpotMini is the architectural predecessor to commercial Spot. ~9-year-deep public-disclosure prior art for: all-electric quadruped morphology (distinct from hydraulic BigDog/Spot ancestors), dorsal-mount manipulator on quadruped base, Velodyne+depth-camera quadruped sensor stack. Trade-secret control software, public capability surface. Direct shielding for any commercial humanoid-quadruped or quadruped-manipulator claim. Cited in cheetah-cub-epfl and black-mirror-metalhead-2017 prior_art_notes; round-14 backfill closes those citation chains.
+
+## Doosan Robotics M-series cobots (2017-09)
+
+- **id**: `doosan-robotics-cobots-2017`
+- **corpus**: private
+- **creator**: Doosan Robotics (Suwon, South Korea)
+- **disclosure**: Doosan Robotics, Inc. (Suwon, South Korea; Doosan Group subsidiary, founded 2015). M-series cobot product reveal September 2017 via doosanrobotics.com. M0609, M1013, M1509, M1013 lineup. Subsequent A-series (2021), H-series (2022) commercial expansions. KOSDAQ IPO 2023.
+- **ip status**: trade-secret
+- **prior art notes**: Doosan Robotics M-series is the canonical Korean commercial collaborative-robot arm family (2017+). 8-year-deep public-disclosure prior art for: 6-axis joint-torque-sensing cobot, ISO 10218 + ISO/TS 15066 compliant collaborative robot. The Korean commercial cobot leader (vs. Universal Robots Denmark / Franka Emika Germany / Kuka Germany). Direct shielding for any commercial humanoid claim on collaborative-robot-arm derivative applications, particularly anthropomorphic-arm joint-torque sensing as deployed in Optimus Gen 3 / Apptronik Apollo.
+
+## NAVER LABS AMBIDEX (2018-04)
+
+- **id**: `naver-labs-ambidex-2018`
+- **corpus**: private
+- **creator**: NAVER LABS Corp. (Seongnam, South Korea)
+- **disclosure**: NAVER LABS Corp. (Seongnam, South Korea; AI research arm of Naver Corporation). AMBIDEX humanoid arm reveal April 2018 at ICRA 2018 demo + naverlabs.com. Subsequent academic publications: 'Cable-driven anthropomorphic robot arm' related papers from the Korea Institute of Science and Technology / KAIST collaborations.
+- **ip status**: trade-secret
+- **prior art notes**: NAVER LABS AMBIDEX is the canonical Korean academic-commercial cable-driven anthropomorphic arm (NAVER LABS, 2018+). 7-year-deep public-disclosure prior art for: dual-wire-driven 7-DoF manipulator with proximal motor concentration, low-distal-inertia commercial collaborative robot arm. Distinct architectural branch from harmonic-drive arms (Honda P-series, DLR Hand-Arm) and quasi-direct-drive arms (Berkeley Humanoid, ToddlerBot). Direct shielding for any commercial humanoid claim on cable-driven transmission for arms. Particularly relevant for free-humanoid-platform's wrist + hand subsystem (which is tendon-driven) — AMBIDEX establishes that whole-arm tendon transmission is well-anticipated commercial Korean practice.
 
 ## Sarcos Guardian XO (2018-09)
 

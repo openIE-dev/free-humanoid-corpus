@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-arm"
 parent: "Invalidity Contentions"
-nav_order: 75
+nav_order: 77
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-arm`  
-**Entries:** 9 (7 commons-grade, 2 draft)  
-**Earliest disclosure:** 2009-12  
+**Entries:** 16 (13 commons-grade, 3 draft)  
+**Earliest disclosure:** 2003-09  
 **Most recent disclosure:** 2025-02
 
 ---
@@ -40,6 +40,49 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 2003-09 — Mitsubishi Wakamaru
+
+- **id:** `mitsubishi-wakamaru-2003`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Mitsubishi Heavy Industries (MHI), Japan
+- **disclosure citation:** Mitsubishi Heavy Industries, Ltd. (Japan). Wakamaru reveal 2003 via mhi.co.jp; commercial release September 2005. Designed for domestic + healthcare service applications. Production discontinued 2014; ~100 units sold.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-anthropomorphic-arm`, `control-multilingual-speech`, `control-elder-care`
+
+**Prior art notes:**
+
+> Mitsubishi Wakamaru is the canonical first Japanese commercial domestic-service humanoid (MHI 2003-2014). 22-year-deep public-disclosure prior art for: wheeled domestic-service humanoid form factor, elder-care + appointment-reminder commercial humanoid applications, bright-color visibility-optimized humanoid design. **Direct architectural predecessor of Aldebaran/Softbank Pepper (2014, in corpus) and the contemporary domestic-service humanoid lineage** including 1X NEO Beta + Galbot. Adds a 22-year prior-art chain to Japanese commercial domestic-service humanoid space.
+
+**Sources:**
+
+1. Mitsubishi Heavy Industries Wakamaru product documentation 2003-2014.
+2. Wikipedia 'Wakamaru' (en.wikipedia.org/wiki/Wakamaru).
+3. Japanese press coverage 2003-2014.
+
+---
+
+### 2008-12 — Surena humanoid (Tehran University)
+
+- **id:** `surena-tehran-university-2008`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Tehran University CAST + Iranian Ministry of Industry; Aghil Yousefi-Koma group
+- **disclosure citation:** Tehran University Center of Advanced Systems and Technologies (CAST). Surena lineage: Surena (2008), Surena II (2010), Surena III (2015), Surena IV (December 2019). Yousefi-Koma, A. + Tehran University engineering team. Iran's flagship humanoid program.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`, `control-zmp-balancing`
+
+**Prior art notes:**
+
+> The Surena lineage (Tehran University CAST, 2008-2020+) is Iran's flagship humanoid program. 17-year-deep public-domain academic prior art (Iran does not enforce most foreign patents; Iranian academic publications are public-domain by default). Establishes Iranian indigenous capability under sanctions for: 170 cm / 68 kg adult-class bipedal humanoid, 43-DoF whole-body, anthropomorphic 5-finger hands. Closes the Iran/Middle-East regional gap (corpus had 0 entries from Iran prior to this round).
+
+**Sources:**
+
+1. Tehran University CAST publications.
+2. Yousefi-Koma, A. et al. — various IEEE / ASME conference papers.
+3. Wikipedia 'Surena' (en.wikipedia.org/wiki/Surena_(robot)).
+4. Iranian press coverage 2008-2020.
+
+---
+
 ### 2009-12 — Modular Prosthetic Limb (MPL)
 
 - **id:** `apl-mpl-revolutionizing-prosthetics-2009`
@@ -59,6 +102,49 @@ cite, copy, or redistribute these contentions.
 2. DARPA Revolutionizing Prosthetics page (darpa.mil/research/programs/revolutionizing-prosthetics).
 3. Johnson et al. Scientific Reports 11 2021 ('Clinical evaluation of the Revolutionizing Prosthetics modular prosthetic limb system').
 4. Bridges, M. M. et al. 'The Modular Prosthetic Limb: A Year of Operational Experience' (APL Tech Digest 2011).
+
+---
+
+### 2014-04 — Skybot F-850 / FEDOR
+
+- **id:** `skybot-fedor-russia-2019`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Roscosmos + NPO Android Technics (Magnitogorsk, Russia); also Russian Foundation for Advanced Research Projects
+- **disclosure citation:** Roscosmos + NPO Android Technics (Russia). FEDOR (Final Experimental Demonstration Object Research) humanoid robot project announced 2014. Skybot F-850 variant launched to International Space Station August 22 2019 aboard Soyuz MS-14, uncrewed test mission; spent 16 days at ISS performing supervised tasks before returning to Earth September 7 2019. Subsequent FEDOR work continues at Magnitogorsk-based NPO Android Technics.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `control-master-slave-teleoperation`, `control-cabin-environment`
+
+**Prior art notes:**
+
+> Skybot F-850 / FEDOR is the canonical Russian humanoid robotics platform (2014+; ISS deployment 2019). 11-year-deep public-disclosure prior art for: ISS-deployable humanoid (second after NASA Robonaut 2), 180 cm / 160 kg anthropomorphic with bimanual tool-use, exoskeleton-glove master-slave teleoperation. Direct shielding for any commercial humanoid claim on space-deployable humanoid form factor. Closes the Russian regional gap — corpus previously had only 1 RU-tagged entry.
+
+**Sources:**
+
+1. Roscosmos public statements 2014-2019.
+2. NPO Android Technics corporate page (npo-at.com).
+3. Soyuz MS-14 mission documentation.
+4. Wikipedia 'Skybot F-850' (en.wikipedia.org/wiki/Skybot_F-850).
+
+---
+
+### 2015-03 — Promobot
+
+- **id:** `promobot-russia-2015`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Promobot LLC (Perm, Russia; Aleksey Yuzhakov + Igor Eremeev + Oleg Kivokurtsev)
+- **disclosure citation:** Promobot LLC (Perm, Russia; founded 2015 by Aleksey Yuzhakov, Igor Eremeev, Oleg Kivokurtsev). Promobot V.1 reveal 2015; V.2/V.3/V.4 product evolution through 2020+. Robo-C variant (2018): hyper-realistic humanoid head capable of mimicking specific people. promo-bot.ai.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-anthropomorphic-arm`, `mechanism-realistic-face`, `control-multilingual-speech`
+
+**Prior art notes:**
+
+> Promobot (Perm Russia 2015+) is Russia's canonical commercial service humanoid. 10-year-deep public-disclosure prior art for: wheeled-humanoid customer-service deployment, hyper-realistic silicone-face robot capable of mimicking specific humans (Robo-C variant 2018), multi-language Russian-language NLP-integrated humanoid. Together with FEDOR (round-22 entry) brings RU-tagged corpus entries to 3.
+
+**Sources:**
+
+1. Promobot corporate site (promo-bot.ai).
+2. TechCrunch coverage 2015+ ('Russian robot ...').
+3. Wikipedia 'Promobot'.
 
 ---
 
@@ -83,6 +169,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-08 — Asimov Robotics Sayak *(draft)*
+
+- **id:** `asimov-robotics-sayak-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Asimov Robotics Pvt. Ltd. (Kochi, Kerala, India)
+- **disclosure citation:** Asimov Robotics Pvt. Ltd. (Kochi, Kerala, India; founded 2012 by Jayakrishnan T., IIT-Madras alumnus). Sayak humanoid reveal August 2017. asimov-robotics.com. Indian commercial humanoid for service applications.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-anthropomorphic-arm`, `control-multilingual-speech`
+
+**Prior art notes:**
+
+> Asimov Robotics Sayak (Kerala India, 2017+) is one of the earliest Indian commercial humanoid platforms. 8-year-deep public-disclosure prior art for: Indian-designed service humanoid morphology, multi-language Indian-language NLP-integrated humanoid. Closes a major regional gap — together with ISRO Vyommitra (round-22 entry) and the IIT-academic-cluster (round-22 entry below), establishes 8-year-deep Indian humanoid prior art.
+
+**Sources:**
+
+1. Asimov Robotics corporate site (asimov-robotics.com).
+2. Indian press coverage 2017+.
+
+---
+
 ### 2018-04 — Aquanaut hybrid AUV/ROV *(draft)*
 
 - **id:** `aquanaut-houston-2017`
@@ -102,6 +208,49 @@ cite, copy, or redistribute these contentions.
 2. Houston Mechatronics April 2018 press release (archived).
 3. IEEE Spectrum, 'This Underwater Robot Transforms Into a Submarine That Can Stretch Out to Use Both Arms', April 2018.
 4. Nauticus Robotics corporate website (nauticusrobotics.com), Aquanaut product page.
+
+---
+
+### 2018-04 — NAVER LABS AMBIDEX
+
+- **id:** `naver-labs-ambidex-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** NAVER LABS Corp. (Seongnam, South Korea)
+- **disclosure citation:** NAVER LABS Corp. (Seongnam, South Korea; AI research arm of Naver Corporation). AMBIDEX humanoid arm reveal April 2018 at ICRA 2018 demo + naverlabs.com. Subsequent academic publications: 'Cable-driven anthropomorphic robot arm' related papers from the Korea Institute of Science and Technology / KAIST collaborations.
+- **disclosed subsystems:** `mechanism-anthropomorphic-arm`, `mechanism-tendon-driven`, `mechanism-cable-driven-transmission`, `actuator-electric`
+
+**Prior art notes:**
+
+> NAVER LABS AMBIDEX is the canonical Korean academic-commercial cable-driven anthropomorphic arm (NAVER LABS, 2018+). 7-year-deep public-disclosure prior art for: dual-wire-driven 7-DoF manipulator with proximal motor concentration, low-distal-inertia commercial collaborative robot arm. Distinct architectural branch from harmonic-drive arms (Honda P-series, DLR Hand-Arm) and quasi-direct-drive arms (Berkeley Humanoid, ToddlerBot). Direct shielding for any commercial humanoid claim on cable-driven transmission for arms. Particularly relevant for free-humanoid-platform's wrist + hand subsystem (which is tendon-driven) — AMBIDEX establishes that whole-arm tendon transmission is well-anticipated commercial Korean practice.
+
+**Sources:**
+
+1. NAVER LABS corporate site (naverlabs.com).
+2. ICRA 2018 demonstration coverage.
+3. AMBIDEX product page (Naver internal).
+
+---
+
+### 2020-01 — ISRO Vyommitra (Gaganyaan humanoid)
+
+- **id:** `isro-vyommitra-2020`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Indian Space Research Organisation (ISRO); Vikram Sarabhai Space Centre, Thiruvananthapuram
+- **disclosure citation:** Indian Space Research Organisation (ISRO). Vyommitra reveal January 22 2020 at Symposium on Human Spaceflight, Bengaluru. Vikram Sarabhai Space Centre (Thiruvananthapuram, Kerala) led design + fabrication. Planned first space flight: Gaganyaan-1 Q4 2025; subsequent Gaganyaan-2 2026. The first Indian humanoid robot for space.
+- **disclosed subsystems:** `mechanism-anthropomorphic-arm`, `mechanism-half-humanoid`, `control-supervised-autonomy`, `control-bilingual-speech`, `sensing-cabin-environment`
+
+**Prior art notes:**
+
+> ISRO Vyommitra is the canonical Indian humanoid space-robot (2020+, Gaganyaan-1 launch Q4 2025). 5-year-deep public-domain prior art for: half-humanoid (no-legs) anthropomorphic upper-body for spacecraft cabin operation, bilingual (Hindi + English) speech-interfaced robot, female-form humanoid for crew-substitute missions. Direct architectural successor to NASA Robonaut 1+2 (corpus entries) for ISS deployment. **The first humanoid-robot entry from India in the corpus** — closes a major regional gap.
+
+**Sources:**
+
+1. ISRO Vyommitra announcement (pib.gov.in/PressReleasePage.aspx?PRID=2002418).
+2. Wikipedia 'Vyommitra' (en.wikipedia.org/wiki/Vyommitra).
+3. The Print, GKToday, MakerSmuse coverage 2020-2025.
+4. Symposium on Human Spaceflight, Bengaluru, January 2020.
 
 ---
 
@@ -262,4 +411,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*

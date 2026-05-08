@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**124 corpus entries disclose this subsystem.**
+**126 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -528,6 +528,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Yoshiura's Time of EVE (2008-2010) is a precise fictional disclosure of context-aware social-mode-switching for household humanoid robots. Anticipates with full specificity: (1) claims on humanoid robots with externally-visible android-status indicators (the holographic ring) that can be voluntarily suppressed in defined contexts — directly relevant to consumer-humanoid identification-disclosure UX patents; (2) claims on context-conditional behavioral mode supervisors (formal-compliance-mode vs. informal-passing-mode) — the café's rule architecture is panel-explicit; (3) claims on Three-Laws-derived ethical-conflict resolution kernels for service humanoids; (4) claims on consumer-grade humanoid platforms targeting domestic household integration with fully indistinguishable-from-human external presentation. ONA broadcast 2008-2009, theatrical 2010, broadly indexed.
 
+## Surena humanoid (Tehran University) (2008-12)
+
+- **id**: `surena-tehran-university-2008`
+- **corpus**: academic
+- **creator**: Tehran University CAST + Iranian Ministry of Industry; Aghil Yousefi-Koma group
+- **disclosure**: Tehran University Center of Advanced Systems and Technologies (CAST). Surena lineage: Surena (2008), Surena II (2010), Surena III (2015), Surena IV (December 2019). Yousefi-Koma, A. + Tehran University engineering team. Iran's flagship humanoid program.
+- **ip status**: public-domain
+- **prior art notes**: The Surena lineage (Tehran University CAST, 2008-2020+) is Iran's flagship humanoid program. 17-year-deep public-domain academic prior art (Iran does not enforce most foreign patents; Iranian academic publications are public-domain by default). Establishes Iranian indigenous capability under sanctions for: 170 cm / 68 kg adult-class bipedal humanoid, 43-DoF whole-body, anthropomorphic 5-finger hands. Closes the Iran/Middle-East regional gap (corpus had 0 entries from Iran prior to this round).
+
 ## Genos (One Punch Man) (2009)
 
 - **id**: `opm-genos`
@@ -671,6 +680,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DARPA press release, July 2013, announcing Atlas as DRC platform.
 - **ip status**: patented
 - **prior art notes**: Boston Dynamics' patents are among the most-cited in the humanoid space and also among the most likely to be challenged on 102/103 grounds given the long academic prior art chain (Honda, AIST, KAIST, MIT). Worth dedicated patent-by-patent analysis.
+
+## Skybot F-850 / FEDOR (2014-04)
+
+- **id**: `skybot-fedor-russia-2019`
+- **corpus**: private
+- **creator**: Roscosmos + NPO Android Technics (Magnitogorsk, Russia); also Russian Foundation for Advanced Research Projects
+- **disclosure**: Roscosmos + NPO Android Technics (Russia). FEDOR (Final Experimental Demonstration Object Research) humanoid robot project announced 2014. Skybot F-850 variant launched to International Space Station August 22 2019 aboard Soyuz MS-14, uncrewed test mission; spent 16 days at ISS performing supervised tasks before returning to Earth September 7 2019. Subsequent FEDOR work continues at Magnitogorsk-based NPO Android Technics.
+- **ip status**: trade-secret
+- **prior art notes**: Skybot F-850 / FEDOR is the canonical Russian humanoid robotics platform (2014+; ISS deployment 2019). 11-year-deep public-disclosure prior art for: ISS-deployable humanoid (second after NASA Robonaut 2), 180 cm / 160 kg anthropomorphic with bimanual tool-use, exoskeleton-glove master-slave teleoperation. Direct shielding for any commercial humanoid claim on space-deployable humanoid form factor. Closes the Russian regional gap — corpus previously had only 1 RU-tagged entry.
 
 ## Yale OpenHand / ReFlex Hand (2014-05)
 

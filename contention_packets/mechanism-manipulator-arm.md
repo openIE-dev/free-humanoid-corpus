@@ -1,7 +1,7 @@
 ---
 title: "mechanism-manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 82
+nav_order: 84
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-manipulator-arm`  
-**Entries:** 14 (12 commons-grade, 2 draft)  
+**Entries:** 15 (13 commons-grade, 2 draft)  
 **Earliest disclosure:** 1964-06  
 **Most recent disclosure:** 2022-07
 
@@ -249,6 +249,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-09 — Doosan Robotics M-series cobots
+
+- **id:** `doosan-robotics-cobots-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Doosan Robotics (Suwon, South Korea)
+- **disclosure citation:** Doosan Robotics, Inc. (Suwon, South Korea; Doosan Group subsidiary, founded 2015). M-series cobot product reveal September 2017 via doosanrobotics.com. M0609, M1013, M1509, M1013 lineup. Subsequent A-series (2021), H-series (2022) commercial expansions. KOSDAQ IPO 2023.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-collaborative-robot`, `actuator-electric`, `sensing-joint-torque`
+
+**Prior art notes:**
+
+> Doosan Robotics M-series is the canonical Korean commercial collaborative-robot arm family (2017+). 8-year-deep public-disclosure prior art for: 6-axis joint-torque-sensing cobot, ISO 10218 + ISO/TS 15066 compliant collaborative robot. The Korean commercial cobot leader (vs. Universal Robots Denmark / Franka Emika Germany / Kuka Germany). Direct shielding for any commercial humanoid claim on collaborative-robot-arm derivative applications, particularly anthropomorphic-arm joint-torque sensing as deployed in Optimus Gen 3 / Apptronik Apollo.
+
+**Sources:**
+
+1. Doosan Robotics corporate site (doosanrobotics.com).
+2. KOSDAQ IPO filings 2023.
+
+---
+
 ### 2018-04 — Aquanaut hybrid AUV/ROV *(draft)*
 
 - **id:** `aquanaut-houston-2017`
@@ -363,4 +383,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*

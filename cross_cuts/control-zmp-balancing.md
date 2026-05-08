@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-zmp-balancing`
 
-**22 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1969
 
@@ -140,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaneko, K. et al. 'Humanoid Robot HRP-3.' IROS 2008.
 - **ip status**: open-permissive
 - **prior art notes**: HRP-3's environmental sealing disclosures anticipate subsequent IP-rated humanoid claims. The HRP series is a deep commons asset because of consistent open academic disclosure across generations.
+
+## Surena humanoid (Tehran University) (2008-12)
+
+- **id**: `surena-tehran-university-2008`
+- **corpus**: academic
+- **creator**: Tehran University CAST + Iranian Ministry of Industry; Aghil Yousefi-Koma group
+- **disclosure**: Tehran University Center of Advanced Systems and Technologies (CAST). Surena lineage: Surena (2008), Surena II (2010), Surena III (2015), Surena IV (December 2019). Yousefi-Koma, A. + Tehran University engineering team. Iran's flagship humanoid program.
+- **ip status**: public-domain
+- **prior art notes**: The Surena lineage (Tehran University CAST, 2008-2020+) is Iran's flagship humanoid program. 17-year-deep public-domain academic prior art (Iran does not enforce most foreign patents; Iranian academic publications are public-domain by default). Establishes Iranian indigenous capability under sanctions for: 170 cm / 68 kg adult-class bipedal humanoid, 43-DoF whole-body, anthropomorphic 5-finger hands. Closes the Iran/Middle-East regional gap (corpus had 0 entries from Iran prior to this round).
 
 ## DARwIn-OP (2010)
 

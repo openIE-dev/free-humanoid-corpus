@@ -1,6 +1,6 @@
 # Corpus Index
 
-454 entries total. Generated from corpus.jsonl.
+464 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | Ash (Alien) | `ash-alien` | 1979 | fictional | fictional |  |
 | ASIMO | `asimo` | 2000 | private | patented |  |
 | Asimov positronic robots | `asimov-positronic-robots` | 1940 | fictional | fictional |  |
+| Asimov Robotics Sayak | `asimov-robotics-sayak-2017` | 2017 | private | trade-secret | ✓ |
 | Asimov's Zeroth Law | `asimovs-zeroth-law` | 1985 | fictional | fictional |  |
 | Astribot S1 | `astribot-s1-stardust-2025` | 2024 | private | trade-secret |  |
 | Astro Boy | `astro-boy` | 1952 | fictional | fictional | ✓ |
@@ -124,8 +125,10 @@
 | DLR Justin (Rollin' Justin) | `dlr-justin` | 2009 | academic | open-permissive |  |
 | DLR TORO | `dlr-toro` | 2014 | academic | open-permissive |  |
 | Domain Randomization | `tobin-domain-randomization-2017` | 2017 | academic | public-domain |  |
+| Doosan Robotics M-series cobots | `doosan-robotics-cobots-2017` | 2017 | private | trade-secret |  |
 | Doraemon | `doraemon` | 1969 | fictional | fictional |  |
 | Drake | `drake-tedrake-2019` | 2019 | academic | open-permissive |  |
+| DRC-HUBO+ (DARPA Robotics Challenge winner) | `kaist-drc-hubo-2015` | 2015 | academic | public-domain |  |
 | Dreamer V3 | `hafner-dreamer-v3-2023` | 2023 | academic | open-permissive |  |
 | DROID Dataset | `droid-dataset` | 2024 | academic | open-permissive |  |
 | DROID-SLAM | `droid-slam-2021` | 2021 | academic | open-permissive |  |
@@ -204,6 +207,7 @@
 | Iberall opposition-space hand-kinematics theory | `iberall-opposition-space-1986` | 1986 | academic | public-domain |  |
 | iCub | `icub` | 2008 | academic | open-permissive |  |
 | IG-88 | `ig-88-star-wars` | 1980 | fictional | fictional |  |
+| IIT India robotics research cluster | `iit-india-robotics-research-cluster` | 2010 | academic | open-permissive | ✓ |
 | Ijspeert-Schaal Dynamic Movement Primitives (formal extension) | `ijspeert-dmp-2013` | 2013 | academic | public-domain |  |
 | InMoov | `inmoov` | 2012 | open | open-permissive |  |
 | Intuitive Surgical da Vinci | `intuitive-surgical-da-vinci-2000` | 2000 | private | trade-secret |  |
@@ -211,6 +215,7 @@
 | Iron Legion | `marvel-iron-legion` | 2015 | fictional | fictional |  |
 | Iron Man Mark I (Tony Stark exoskeleton) | `iron-man-mark-i` | 1963 | fictional | fictional |  |
 | ISO 10218 Collaborative Robot Safety | `iso-10218-collaborative-robots` | 2006 | academic | public-domain |  |
+| ISRO Vyommitra (Gaganyaan humanoid) | `isro-vyommitra-2020` | 2020 | academic | public-domain |  |
 | Jaegers (Pacific Rim) | `pacific-rim-jaegers` | 2013 | fictional | fictional |  |
 | Janner Diffuser planning with diffusion | `janner-diffuser-2022` | 2022 | academic | public-domain |  |
 | JANUS underwater acoustic communications standard | `janus-stanag-4748-2017` | 2017 | open | open-permissive |  |
@@ -260,6 +265,7 @@
 | MIT Humanoid | `mit-humanoid-2021` | 2021 | academic | public-domain |  |
 | MIT Kismet (sociable robot) | `mit-kismet-breazeal-1998` | 1998 | academic | public-domain |  |
 | MIT Mini Cheetah | `mini-cheetah` | 2019 | academic | open-permissive |  |
+| Mitsubishi Wakamaru | `mitsubishi-wakamaru-2003` | 2003 | private | trade-secret |  |
 | mjbots Moteus | `mjbots-moteus` | 2019 | open | open-permissive |  |
 | MJOLNIR Powered Assault Armor / Master Chief | `halo-mjolnir-master-chief` | 2001 | fictional | fictional |  |
 | Mobile ALOHA | `mobile-aloha` | 2024 | academic | open-permissive |  |
@@ -272,6 +278,7 @@
 | Murderbot Diaries — SecUnit with hacked governor module | `murderbot-diaries-wells-2017` | 2017 | fictional | public-domain |  |
 | NAO | `nao` | 2006 | private | patented |  |
 | NASA Valkyrie | `nasa-valkyrie` | 2013 | academic | open-permissive |  |
+| NAVER LABS AMBIDEX | `naver-labs-ambidex-2018` | 2018 | private | trade-secret |  |
 | Nereus HROV | `nereus-hrov-2008` | 2008 | academic | public-domain |  |
 | Neura 4NE-1 | `neura-4ne1` | 2024 | private | patented | ✓ |
 | Neuralink | `neuralink-2017` | 2017 | private | trade-secret |  |
@@ -316,6 +323,7 @@
 | PR2 | `pr2` | 2010 | open | open-permissive |  |
 | Pratt Virtual Model Control | `pratt-virtual-model-control` | 2001 | academic | public-domain |  |
 | Pratt-Williamson Series Elastic Actuator | `pratt-williamson-sea` | 1995 | academic | public-domain |  |
+| Promobot | `promobot-russia-2015` | 2015 | private | trade-secret |  |
 | R. Daneel Olivaw | `asimov-caves-of-steel-daneel` | 1953 | fictional | fictional |  |
 | R2-D2 | `r2-d2-star-wars` | 1977 | fictional | fictional |  |
 | RADIO-ViPE | `radio-vipe-itmo-2026` | 2026 | academic | open-permissive |  |
@@ -383,6 +391,7 @@
 | SimplerEnv | `simpler-env-li-corl-2024` | 2024 | academic | open-permissive |  |
 | Simplex Architecture | `sherman-simplex-architecture` | 1995 | academic | public-domain |  |
 | Skild AI foundation model | `skild-foundation-model` | 2024 | private | trade-secret | ✓ |
+| Skybot F-850 / FEDOR | `skybot-fedor-russia-2019` | 2014 | private | trade-secret |  |
 | Slocum Glider | `slocum-glider-auv` | 1989 | academic | open-permissive |  |
 | Smith (Atlas 2024) | `atlas-2024-film` | 2024 | fictional | fictional |  |
 | Sony AIBO | `sony-aibo` | 1999 | private | patented |  |
@@ -394,6 +403,7 @@
 | Steins;Gate 0 Amadeus AI consciousness backup | `steins-gate-amadeus-2015` | 2015 | fictional | public-domain |  |
 | Stonefish underwater robotics simulator | `stonefish-sim-2018` | 2018 | open | open-permissive |  |
 | Sumitomo CYCLO Speed Reducer | `sumitomo-cyclo` | 1937 | academic | public-domain |  |
+| Surena humanoid (Tehran University) | `surena-tehran-university-2008` | 2008 | academic | public-domain |  |
 | Sutton & Barto, Reinforcement Learning: An Introduction (2nd edition) | `sutton-barto-rl-2nd-edition-2018` | 2018 | academic | public-domain |  |
 | T-800 | `t-800-terminator` | 1984 | fictional | fictional |  |
 | Tachikoma | `ghost-in-the-shell-tachikoma` | 2002 | fictional | fictional |  |

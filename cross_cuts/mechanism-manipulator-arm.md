@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-manipulator-arm`
 
-**14 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1964-06
 
@@ -104,6 +104,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Khatib, O., Yeh, X., Brantner, G., et al. 'Ocean One: A Robotic Avatar for Oceanic Discovery'. IEEE Robotics and Automation Magazine vol. 23 no. 4, 2016. First operational dive (La Lune wreck, Mediterranean, 100 m depth) April 2016.
 - **ip status**: open-permissive
 - **prior art notes**: OceanOne is the canonical academic bimanual humanoid AUV. 9-year-deep open academic publication via the Khatib group at Stanford. Establishes element-by-element prior art for: 8-thruster vectored layout for humanoid AUV (exact match to free-humanoid-submersible commitment), bimanual 7-DoF anthropomorphic arms underwater, bilateral haptic teleoperation, F/T-sensor-in-the-loop manipulation, integration with Khatib's operational-space framework. Directly anticipates every architectural element of free-humanoid-submersible's design and any Aquanaut/Nauticus commercial claim on the same. The Khatib lineage extends back through Stanford operational-space papers to 1987 (38 years).
+
+## Doosan Robotics M-series cobots (2017-09)
+
+- **id**: `doosan-robotics-cobots-2017`
+- **corpus**: private
+- **creator**: Doosan Robotics (Suwon, South Korea)
+- **disclosure**: Doosan Robotics, Inc. (Suwon, South Korea; Doosan Group subsidiary, founded 2015). M-series cobot product reveal September 2017 via doosanrobotics.com. M0609, M1013, M1509, M1013 lineup. Subsequent A-series (2021), H-series (2022) commercial expansions. KOSDAQ IPO 2023.
+- **ip status**: trade-secret
+- **prior art notes**: Doosan Robotics M-series is the canonical Korean commercial collaborative-robot arm family (2017+). 8-year-deep public-disclosure prior art for: 6-axis joint-torque-sensing cobot, ISO 10218 + ISO/TS 15066 compliant collaborative robot. The Korean commercial cobot leader (vs. Universal Robots Denmark / Franka Emika Germany / Kuka Germany). Direct shielding for any commercial humanoid claim on collaborative-robot-arm derivative applications, particularly anthropomorphic-arm joint-torque sensing as deployed in Optimus Gen 3 / Apptronik Apollo.
 
 ## Aquanaut hybrid AUV/ROV (2018-04)
 

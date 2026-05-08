@@ -1,7 +1,7 @@
 ---
 title: "control-zmp-balancing"
 parent: "Invalidity Contentions"
-nav_order: 70
+nav_order: 72
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-zmp-balancing`  
-**Entries:** 22 (22 commons-grade, 0 draft)  
+**Entries:** 23 (23 commons-grade, 0 draft)  
 **Earliest disclosure:** 1969  
 **Most recent disclosure:** 2023-08
 
@@ -321,6 +321,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2008-12 — Surena humanoid (Tehran University)
+
+- **id:** `surena-tehran-university-2008`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Tehran University CAST + Iranian Ministry of Industry; Aghil Yousefi-Koma group
+- **disclosure citation:** Tehran University Center of Advanced Systems and Technologies (CAST). Surena lineage: Surena (2008), Surena II (2010), Surena III (2015), Surena IV (December 2019). Yousefi-Koma, A. + Tehran University engineering team. Iran's flagship humanoid program.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`, `control-zmp-balancing`
+
+**Prior art notes:**
+
+> The Surena lineage (Tehran University CAST, 2008-2020+) is Iran's flagship humanoid program. 17-year-deep public-domain academic prior art (Iran does not enforce most foreign patents; Iranian academic publications are public-domain by default). Establishes Iranian indigenous capability under sanctions for: 170 cm / 68 kg adult-class bipedal humanoid, 43-DoF whole-body, anthropomorphic 5-finger hands. Closes the Iran/Middle-East regional gap (corpus had 0 entries from Iran prior to this round).
+
+**Sources:**
+
+1. Tehran University CAST publications.
+2. Yousefi-Koma, A. et al. — various IEEE / ASME conference papers.
+3. Wikipedia 'Surena' (en.wikipedia.org/wiki/Surena_(robot)).
+4. Iranian press coverage 2008-2020.
+
+---
+
 ### 2010 — DARwIn-OP
 
 - **id:** `darwin-op`
@@ -514,4 +536,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*

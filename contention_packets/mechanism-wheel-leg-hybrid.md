@@ -1,7 +1,7 @@
 ---
 title: "mechanism-wheel-leg-hybrid"
 parent: "Invalidity Contentions"
-nav_order: 99
+nav_order: 101
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-wheel-leg-hybrid`  
-**Entries:** 11 (7 commons-grade, 4 draft)  
+**Entries:** 12 (8 commons-grade, 4 draft)  
 **Earliest disclosure:** 2002-10-01  
 **Most recent disclosure:** 2026-01
 
@@ -98,6 +98,28 @@ cite, copy, or redistribute these contentions.
 1. Karras et al. IROS 2013.
 2. Kohut, N. J., Birkmeyer, P. M., Peterson, K. C., Fearing, R. S. 'Maneuverability and mobility in palm-sized legged robots'. SPIE 8389 2012.
 3. UC Berkeley Biomimetic Millisystems Lab (robotics.eecs.berkeley.edu/~ronf/).
+
+---
+
+### 2015-06 — DRC-HUBO+ (DARPA Robotics Challenge winner)
+
+- **id:** `kaist-drc-hubo-2015`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** KAIST Humanoid Robot Research Center; Jun-Ho Oh group + Rainbow Robotics
+- **disclosure citation:** KAIST + Rainbow Robotics. 'DRC-HUBO+: A robotic platform for the DARPA Robotics Challenge'. Lim, J., Lee, I., Shim, I., et al. International Journal of Robotics Research / Journal of Field Robotics 2017. Won 1st place at DARPA Robotics Challenge Finals Pomona June 2015 — completing all 8 disaster-response tasks in 44m28s. The follow-on commercial version was Rainbow Robotics' first product (corpus has rainbow-robotics-rb-y1 as the modern commercial successor).
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-wheel-leg-hybrid`, `actuator-electric`, `control-whole-body-qp`, `control-supervised-autonomy`
+
+**Prior art notes:**
+
+> DRC-HUBO+ (KAIST + Rainbow Robotics, DRC 2015) is the canonical Korean academic humanoid milestone — 1st place winner of the DARPA Robotics Challenge Finals June 2015. 10-year-deep public-domain prior art for: wheel-leg hybrid transformable bipedal humanoid (knee-rolling for stability + bipedal for stairs), operator-supervised whole-body autonomy under intermittent comm. Direct shielding for any commercial humanoid claim on transformable lower-body morphology or DRC-class disaster-response capability set. Established Rainbow Robotics' commercial humanoid lineage (corpus entry rainbow-robotics-rb-y1).
+
+**Sources:**
+
+1. Lim, J. et al. JFR / IJRR 2017.
+2. DARPA Robotics Challenge Finals 2015 Pomona results.
+3. KAIST Humanoid Robot Research Center publications.
+4. IEEE Spectrum coverage 'Korean Team Wins DARPA Robotics Challenge' 2015.
 
 ---
 
@@ -292,4 +314,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*

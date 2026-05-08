@@ -1,7 +1,7 @@
 ---
 title: "mechanism-wheeled-balancing"
 parent: "Invalidity Contentions"
-nav_order: 100
+nav_order: 102
 layout: default
 ---
 
@@ -211,4 +211,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*

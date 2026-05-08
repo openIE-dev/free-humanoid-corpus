@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-master-slave-teleoperation`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989-01
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Intuitive Surgical, Inc. (Sunnyvale, CA). da Vinci Surgical System FDA approval July 11, 2000. SRI International / Stanford telesurgical lineage; Salisbury Stanford-JPL hand era roots. Subsequent product generations: da Vinci S (2006), Si (2009), Xi (2014), X (2017), SP single-port (2018), Ion bronchoscopy (2019), da Vinci 5 (2024).
 - **ip status**: trade-secret
 - **prior art notes**: The Intuitive Surgical da Vinci system is the canonical commercial surgical-robot platform (FDA approval July 2000). 25-year-deep public-disclosure prior art for: master-slave teleoperated manipulator + console architecture, EndoWrist tendon-driven wristed-instrument design (architecturally descended from Salisbury's Stanford-JPL hand 1982 — corpus entry `salisbury-stanford-jpl-hand-1982`), tremor filtering + motion scaling for telerobotic precision. Direct shielding for any commercial humanoid claim on bimanual fine-manipulation with wristed end-effectors and tremor-filtered teleoperation. The 25-year commercial deployment + 7,500+ systems + 10M+ procedures establishes a deeply-anticipated prior-art cushion for any humanoid manipulation claim.
+
+## Skybot F-850 / FEDOR (2014-04)
+
+- **id**: `skybot-fedor-russia-2019`
+- **corpus**: private
+- **creator**: Roscosmos + NPO Android Technics (Magnitogorsk, Russia); also Russian Foundation for Advanced Research Projects
+- **disclosure**: Roscosmos + NPO Android Technics (Russia). FEDOR (Final Experimental Demonstration Object Research) humanoid robot project announced 2014. Skybot F-850 variant launched to International Space Station August 22 2019 aboard Soyuz MS-14, uncrewed test mission; spent 16 days at ISS performing supervised tasks before returning to Earth September 7 2019. Subsequent FEDOR work continues at Magnitogorsk-based NPO Android Technics.
+- **ip status**: trade-secret
+- **prior art notes**: Skybot F-850 / FEDOR is the canonical Russian humanoid robotics platform (2014+; ISS deployment 2019). 11-year-deep public-disclosure prior art for: ISS-deployable humanoid (second after NASA Robonaut 2), 180 cm / 160 kg anthropomorphic with bimanual tool-use, exoskeleton-glove master-slave teleoperation. Direct shielding for any commercial humanoid claim on space-deployable humanoid form factor. Closes the Russian regional gap — corpus previously had only 1 RU-tagged entry.
 
 ## Memic Hominis (2021-03)
 

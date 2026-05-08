@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-wheel-leg-hybrid`
 
-**11 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2002-10-01
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Karras, J. T., Fuller, C. L., Carpenter, K. C., Buscicchio, A., McKeeby, D., Norris, C. J., Parcheta, C. E., Royal, M. I., Wilcox, B. H., Fearing, R. S. 'Climbing with sprawl-tuned autonomous robots'. (Original Kohut/Fearing STAR variants 2010-2013.) IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2013. UC Berkeley Biomimetic Millisystems Lab.
 - **ip status**: open-permissive
 - **prior art notes**: STAR is the original sprawl-tuned reconfigurable miniature robot from the Fearing group at Berkeley. 13-year open-academic publication record. Establishes the 'sprawl-tuned wheel-leg-hybrid + four-bar mechanism' architectural pattern that the entire STAR family (RSTAR, TSTAR, FSTAR, FCSTAR, AmphiSTAR, DSTAR) descends from. Directly shields free-humanoid-centaur's wheel-leg-hybrid commitment and any commercial claim on compact reconfigurable-mechanism wheel-leg robotics.
+
+## DRC-HUBO+ (DARPA Robotics Challenge winner) (2015-06)
+
+- **id**: `kaist-drc-hubo-2015`
+- **corpus**: academic
+- **creator**: KAIST Humanoid Robot Research Center; Jun-Ho Oh group + Rainbow Robotics
+- **disclosure**: KAIST + Rainbow Robotics. 'DRC-HUBO+: A robotic platform for the DARPA Robotics Challenge'. Lim, J., Lee, I., Shim, I., et al. International Journal of Robotics Research / Journal of Field Robotics 2017. Won 1st place at DARPA Robotics Challenge Finals Pomona June 2015 — completing all 8 disaster-response tasks in 44m28s. The follow-on commercial version was Rainbow Robotics' first product (corpus has rainbow-robotics-rb-y1 as the modern commercial successor).
+- **ip status**: public-domain
+- **prior art notes**: DRC-HUBO+ (KAIST + Rainbow Robotics, DRC 2015) is the canonical Korean academic humanoid milestone — 1st place winner of the DARPA Robotics Challenge Finals June 2015. 10-year-deep public-domain prior art for: wheel-leg hybrid transformable bipedal humanoid (knee-rolling for stability + bipedal for stairs), operator-supervised whole-body autonomy under intermittent comm. Direct shielding for any commercial humanoid claim on transformable lower-body morphology or DRC-class disaster-response capability set. Established Rainbow Robotics' commercial humanoid lineage (corpus entry rainbow-robotics-rb-y1).
 
 ## TSTAR (Tail STAR) (2018-05)
 

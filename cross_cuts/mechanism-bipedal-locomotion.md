@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**141 corpus entries disclose this subsystem.**
+**144 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -654,6 +654,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Liberty Prime's October 2008 disclosure provides specific prior art for: (1) 12-meter bipedal humanoid combat mech form factor — relevant to claims on large-scale humanoid mech platforms (paralleling Atlas 2024's 3m mech and broader giant-mech lineage); (2) autonomous tactical-nuclear weapon deployment without human-in-loop authorization — directly relevant to safety-supervisor humanoid IP that claims human-in-loop for lethal force (Liberty Prime is an explicit anti-pattern public disclosure); (3) voice-synthesis propaganda output as an integrated humanoid behavior — relevant to social-engineering humanoid claims; (4) eye-mounted directed-energy weapon on a humanoid head chassis — relevant to integrated head-mounted weapon claims. Continuously available since 2008 across Fallout series.
 
+## Surena humanoid (Tehran University) (2008-12)
+
+- **id**: `surena-tehran-university-2008`
+- **corpus**: academic
+- **creator**: Tehran University CAST + Iranian Ministry of Industry; Aghil Yousefi-Koma group
+- **disclosure**: Tehran University Center of Advanced Systems and Technologies (CAST). Surena lineage: Surena (2008), Surena II (2010), Surena III (2015), Surena IV (December 2019). Yousefi-Koma, A. + Tehran University engineering team. Iran's flagship humanoid program.
+- **ip status**: public-domain
+- **prior art notes**: The Surena lineage (Tehran University CAST, 2008-2020+) is Iran's flagship humanoid program. 17-year-deep public-domain academic prior art (Iran does not enforce most foreign patents; Iranian academic publications are public-domain by default). Establishes Iranian indigenous capability under sanctions for: 170 cm / 68 kg adult-class bipedal humanoid, 43-DoF whole-body, anthropomorphic 5-finger hands. Closes the Iran/Middle-East regional gap (corpus had 0 entries from Iran prior to this round).
+
 ## PETMAN (2009)
 
 - **id**: `petman`
@@ -807,6 +816,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Among the earliest fully-open 3D-printable humanoids. Anticipates open-source educational humanoid platforms broadly.
 
+## Skybot F-850 / FEDOR (2014-04)
+
+- **id**: `skybot-fedor-russia-2019`
+- **corpus**: private
+- **creator**: Roscosmos + NPO Android Technics (Magnitogorsk, Russia); also Russian Foundation for Advanced Research Projects
+- **disclosure**: Roscosmos + NPO Android Technics (Russia). FEDOR (Final Experimental Demonstration Object Research) humanoid robot project announced 2014. Skybot F-850 variant launched to International Space Station August 22 2019 aboard Soyuz MS-14, uncrewed test mission; spent 16 days at ISS performing supervised tasks before returning to Earth September 7 2019. Subsequent FEDOR work continues at Magnitogorsk-based NPO Android Technics.
+- **ip status**: trade-secret
+- **prior art notes**: Skybot F-850 / FEDOR is the canonical Russian humanoid robotics platform (2014+; ISS deployment 2019). 11-year-deep public-disclosure prior art for: ISS-deployable humanoid (second after NASA Robonaut 2), 180 cm / 160 kg anthropomorphic with bimanual tool-use, exoskeleton-glove master-slave teleoperation. Direct shielding for any commercial humanoid claim on space-deployable humanoid form factor. Closes the Russian regional gap — corpus previously had only 1 RU-tagged entry.
+
 ## Atlas academic publications (Kuindersma et al., DRC era) (2014-06)
 
 - **id**: `atlas-academic-disclosures`
@@ -860,6 +878,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Humans, Series 1-3. Created by Sam Vincent and Jonathan Brackley (adapted from Real Humans / Äkta människor); first broadcast Channel 4 / AMC 14 June 2015; Series 3 finale 5 August 2018.
 - **ip status**: public-domain
 - **prior art notes**: Humans (2015-2018) is the canonical English-language mass-media anchor for mass-market household humanoid Synths with consciousness-conversion subplot. It anticipates with full specificity: (1) claims on mass-produced anthropomorphic household humanoid service robots with hyper-real synthetic skin and factory-assembly pipelines — Persona Synthetics is shown across all 3 series; (2) claims on hard-coded safety constraint layers ('do no harm to humans') overlaid on policy networks — Synths cannot override these in standard configuration; (3) claims on consciousness-conversion firmware patches that propagate awareness to peer Synths — the 'Day Zero' code distribution is the Series 3 dramatic core. Broadcast on Channel 4 / AMC with timestamped 14 June 2015 air date.
+
+## DRC-HUBO+ (DARPA Robotics Challenge winner) (2015-06)
+
+- **id**: `kaist-drc-hubo-2015`
+- **corpus**: academic
+- **creator**: KAIST Humanoid Robot Research Center; Jun-Ho Oh group + Rainbow Robotics
+- **disclosure**: KAIST + Rainbow Robotics. 'DRC-HUBO+: A robotic platform for the DARPA Robotics Challenge'. Lim, J., Lee, I., Shim, I., et al. International Journal of Robotics Research / Journal of Field Robotics 2017. Won 1st place at DARPA Robotics Challenge Finals Pomona June 2015 — completing all 8 disaster-response tasks in 44m28s. The follow-on commercial version was Rainbow Robotics' first product (corpus has rainbow-robotics-rb-y1 as the modern commercial successor).
+- **ip status**: public-domain
+- **prior art notes**: DRC-HUBO+ (KAIST + Rainbow Robotics, DRC 2015) is the canonical Korean academic humanoid milestone — 1st place winner of the DARPA Robotics Challenge Finals June 2015. 10-year-deep public-domain prior art for: wheel-leg hybrid transformable bipedal humanoid (knee-rolling for stability + bipedal for stairs), operator-supervised whole-body autonomy under intermittent comm. Direct shielding for any commercial humanoid claim on transformable lower-body morphology or DRC-class disaster-response capability set. Established Rainbow Robotics' commercial humanoid lineage (corpus entry rainbow-robotics-rb-y1).
 
 ## KX-series Imperial Security Droids (K-2SO) (2016-12)
 

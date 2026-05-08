@@ -1529,6 +1529,14 @@
       "descendants": []
     },
     {
+      "id": "mitsubishi-wakamaru-2003",
+      "name": "Mitsubishi Wakamaru",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "urasawa-pluto",
       "name": "Pluto (Naoki Urasawa reimagining)",
       "year": "2003",
@@ -1884,6 +1892,14 @@
       "descendants": []
     },
     {
+      "id": "surena-tehran-university-2008",
+      "name": "Surena humanoid (Tehran University)",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "opm-genos",
       "name": "Genos (One Punch Man)",
       "year": "2009",
@@ -2023,6 +2039,14 @@
       "ancestors": [
         "sherman-simplex-architecture"
       ],
+      "descendants": []
+    },
+    {
+      "id": "iit-india-robotics-research-cluster",
+      "name": "IIT India robotics research cluster",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2358,6 +2382,14 @@
       "descendants": []
     },
     {
+      "id": "skybot-fedor-russia-2019",
+      "name": "Skybot F-850 / FEDOR",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "cmu-andy-herb2-srinivasa-2014",
       "name": "CMU Personal Robotics Lab Andy / HERB-2 follow-on platform",
       "year": "2014",
@@ -2485,6 +2517,14 @@
       ]
     },
     {
+      "id": "promobot-russia-2015",
+      "name": "Promobot",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "chappie",
       "name": "Chappie",
       "year": "2015",
@@ -2540,6 +2580,16 @@
         "akta-manniskor-real-humans-2012"
       ],
       "descendants": []
+    },
+    {
+      "id": "kaist-drc-hubo-2015",
+      "name": "DRC-HUBO+ (DARPA Robotics Challenge winner)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "rainbow-robotics-rb-y1"
+      ]
     },
     {
       "id": "fallout-gen-3-synths",
@@ -2748,6 +2798,22 @@
       ]
     },
     {
+      "id": "asimov-robotics-sayak-2017",
+      "name": "Asimov Robotics Sayak",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "doosan-robotics-cobots-2017",
+      "name": "Doosan Robotics M-series cobots",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "reachy-1-pollen-2017",
       "name": "Reachy 1 (Pollen Robotics open-source humanoid)",
       "year": "2017",
@@ -2864,6 +2930,14 @@
       "descendants": [
         "amp-peng-siggraph-2021"
       ]
+    },
+    {
+      "id": "naver-labs-ambidex-2018",
+      "name": "NAVER LABS AMBIDEX",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "stanford-omnigibson-2023",
@@ -3159,6 +3233,14 @@
       "ancestors": [
         "hyundai-boston-dynamics-spot"
       ],
+      "descendants": []
+    },
+    {
+      "id": "isro-vyommitra-2020",
+      "name": "ISRO Vyommitra (Gaganyaan humanoid)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -4055,7 +4137,8 @@
       "year": "2024",
       "corpus": "private",
       "ancestors": [
-        "hubo"
+        "hubo",
+        "kaist-drc-hubo-2015"
       ],
       "descendants": []
     },

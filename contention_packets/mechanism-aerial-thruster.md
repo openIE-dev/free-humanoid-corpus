@@ -1,7 +1,7 @@
 ---
 title: "mechanism-aerial-thruster"
 parent: "Invalidity Contentions"
-nav_order: 73
+nav_order: 75
 layout: default
 ---
 
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*

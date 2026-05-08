@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-master-slave-teleoperation`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
+**Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-01  
 **Most recent disclosure:** 2021-03
 
@@ -82,6 +82,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-04 — Skybot F-850 / FEDOR
+
+- **id:** `skybot-fedor-russia-2019`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Roscosmos + NPO Android Technics (Magnitogorsk, Russia); also Russian Foundation for Advanced Research Projects
+- **disclosure citation:** Roscosmos + NPO Android Technics (Russia). FEDOR (Final Experimental Demonstration Object Research) humanoid robot project announced 2014. Skybot F-850 variant launched to International Space Station August 22 2019 aboard Soyuz MS-14, uncrewed test mission; spent 16 days at ISS performing supervised tasks before returning to Earth September 7 2019. Subsequent FEDOR work continues at Magnitogorsk-based NPO Android Technics.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `control-master-slave-teleoperation`, `control-cabin-environment`
+
+**Prior art notes:**
+
+> Skybot F-850 / FEDOR is the canonical Russian humanoid robotics platform (2014+; ISS deployment 2019). 11-year-deep public-disclosure prior art for: ISS-deployable humanoid (second after NASA Robonaut 2), 180 cm / 160 kg anthropomorphic with bimanual tool-use, exoskeleton-glove master-slave teleoperation. Direct shielding for any commercial humanoid claim on space-deployable humanoid form factor. Closes the Russian regional gap — corpus previously had only 1 RU-tagged entry.
+
+**Sources:**
+
+1. Roscosmos public statements 2014-2019.
+2. NPO Android Technics corporate page (npo-at.com).
+3. Soyuz MS-14 mission documentation.
+4. Wikipedia 'Skybot F-850' (en.wikipedia.org/wiki/Skybot_F-850).
+
+---
+
 ### 2021-03 — Memic Hominis
 
 - **id:** `memic-hominis-2020`
@@ -132,4 +154,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*

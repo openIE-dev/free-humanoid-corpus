@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 76
+nav_order: 78
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
-**Entries:** 124 (101 commons-grade, 23 draft)  
+**Entries:** 126 (103 commons-grade, 23 draft)  
 **Earliest disclosure:** 1495  
 **Most recent disclosure:** 2026-04
 
@@ -1187,6 +1187,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2008-12 — Surena humanoid (Tehran University)
+
+- **id:** `surena-tehran-university-2008`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Tehran University CAST + Iranian Ministry of Industry; Aghil Yousefi-Koma group
+- **disclosure citation:** Tehran University Center of Advanced Systems and Technologies (CAST). Surena lineage: Surena (2008), Surena II (2010), Surena III (2015), Surena IV (December 2019). Yousefi-Koma, A. + Tehran University engineering team. Iran's flagship humanoid program.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`, `control-zmp-balancing`
+
+**Prior art notes:**
+
+> The Surena lineage (Tehran University CAST, 2008-2020+) is Iran's flagship humanoid program. 17-year-deep public-domain academic prior art (Iran does not enforce most foreign patents; Iranian academic publications are public-domain by default). Establishes Iranian indigenous capability under sanctions for: 170 cm / 68 kg adult-class bipedal humanoid, 43-DoF whole-body, anthropomorphic 5-finger hands. Closes the Iran/Middle-East regional gap (corpus had 0 entries from Iran prior to this round).
+
+**Sources:**
+
+1. Tehran University CAST publications.
+2. Yousefi-Koma, A. et al. — various IEEE / ASME conference papers.
+3. Wikipedia 'Surena' (en.wikipedia.org/wiki/Surena_(robot)).
+4. Iranian press coverage 2008-2020.
+
+---
+
 ### 2009 — Genos (One Punch Man)
 
 - **id:** `opm-genos`
@@ -1508,6 +1530,28 @@ cite, copy, or redistribute these contentions.
 
 1. DARPA Robotics Challenge documentation.
 2. Boston Dynamics technical blog posts.
+
+---
+
+### 2014-04 — Skybot F-850 / FEDOR
+
+- **id:** `skybot-fedor-russia-2019`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Roscosmos + NPO Android Technics (Magnitogorsk, Russia); also Russian Foundation for Advanced Research Projects
+- **disclosure citation:** Roscosmos + NPO Android Technics (Russia). FEDOR (Final Experimental Demonstration Object Research) humanoid robot project announced 2014. Skybot F-850 variant launched to International Space Station August 22 2019 aboard Soyuz MS-14, uncrewed test mission; spent 16 days at ISS performing supervised tasks before returning to Earth September 7 2019. Subsequent FEDOR work continues at Magnitogorsk-based NPO Android Technics.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `control-master-slave-teleoperation`, `control-cabin-environment`
+
+**Prior art notes:**
+
+> Skybot F-850 / FEDOR is the canonical Russian humanoid robotics platform (2014+; ISS deployment 2019). 11-year-deep public-disclosure prior art for: ISS-deployable humanoid (second after NASA Robonaut 2), 180 cm / 160 kg anthropomorphic with bimanual tool-use, exoskeleton-glove master-slave teleoperation. Direct shielding for any commercial humanoid claim on space-deployable humanoid form factor. Closes the Russian regional gap — corpus previously had only 1 RU-tagged entry.
+
+**Sources:**
+
+1. Roscosmos public statements 2014-2019.
+2. NPO Android Technics corporate page (npo-at.com).
+3. Soyuz MS-14 mission documentation.
+4. Wikipedia 'Skybot F-850' (en.wikipedia.org/wiki/Skybot_F-850).
 
 ---
 
@@ -2569,4 +2613,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bf892af`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `ca07ce2`.*
