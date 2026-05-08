@@ -1,7 +1,7 @@
 ---
 title: "mechanism-bipedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 82
+nav_order: 84
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 144 (113 commons-grade, 31 draft)  
+**Entries:** 145 (113 commons-grade, 32 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2026-04
 
@@ -1034,6 +1034,26 @@ cite, copy, or redistribute these contentions.
 
 1. Goswami, A. 'Postural stability of biped robots and the FRI point.' IJRR 18(6): 523-533, 1999.
 2. Sardain, P. and Bessonnet, G. 'Forces acting on a biped robot. Center of pressure-zero moment point.' IEEE Trans. SMC-A 34(5): 630-637, 2004 (clarifies FRI vs ZMP).
+
+---
+
+### 2000-01 — METU Ankara robotics (Middle East Technical University) *(draft)*
+
+- **id:** `metu-ankara-turkey-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** METU Ankara (multiple PIs); Erbatur, Saranli, et al.
+- **disclosure citation:** Orta Doğu Teknik Üniversitesi / Middle East Technical University (Ankara, Turkey; founded 1956). Robotics research distributed across Faculty of Engineering — Mechanical, Electrical-Electronics, Computer Engineering departments. Notable contributions: humanoid + bipedal research (Erbatur lab), manipulation + dexterous hand research, autonomous vehicles.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-bipedal-locomotion`, `control-zmp-balancing`, `control-slip-model`
+
+**Prior art notes:**
+
+> METU Ankara is Turkey's largest research-intensive university and the Turkish robotics academic anchor. **First entry in the corpus from Turkey** — closes a major MENA gap. Notable for Saranli SLIP-model + Erbatur ZMP research lineages. Aggregator-style; specific METU papers should be added in future rounds.
+
+**Sources:**
+
+1. METU corporate site (metu.edu.tr).
+2. Saranli + Erbatur publications.
 
 ---
 
@@ -2971,4 +2991,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b80ce5d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*

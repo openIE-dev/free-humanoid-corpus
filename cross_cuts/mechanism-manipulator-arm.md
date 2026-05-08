@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-manipulator-arm`
 
-**15 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1964-06
 
@@ -86,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bowen, A. D., Yoerger, D. R., Taylor, C., et al. 'The Nereus Hybrid Underwater Robotic Vehicle for Global-Class Ocean Science', WHOI Deep Submergence Laboratory; OCEANS 2008. First Challenger Deep dive (10,902 m) May 2009. Lost during operations May 2014 at 9,990 m.
 - **ip status**: public-domain
 - **prior art notes**: Nereus is the canonical academic hybrid AUV/ROV. Establishes 6-year-deep public-domain prior art for: dual-mode AUV-ROV operation in a single hull, lightweight expendable fiber tether (no power conductor), pressure-balanced subsea Li-ion at full ocean depth, ceramic-sphere syntactic-foam buoyancy to 11 km. Directly shields free-humanoid-submersible's potential mode-switching commitments and pressure-balanced power architecture. Any commercial humanoid AUV claiming mode-switching as novel art faces a 16-year-deep WHOI academic lineage with explicit publication of every mechanism.
+
+## Universal Robots (Odense, Denmark) (2008-12)
+
+- **id**: `universal-robots-denmark-2008`
+- **corpus**: private
+- **creator**: Universal Robots A/S (Odense, Denmark; SDU spinout); Østergaard, Støy, Kassow founders
+- **disclosure**: Universal Robots A/S (Odense, Denmark; founded 2005 by Esben Østergaard, Kasper Støy, Kristian Kassow as a University of Southern Denmark spinout). UR5 first commercial cobot reveal December 2008. Subsequently: UR3 (2015), UR10 (2012), UR16 (2019), e-Series (2018+), UR20/UR30 (2022+). Acquired by Teradyne 2015 for $285M. universal-robots.com.
+- **ip status**: trade-secret
+- **prior art notes**: Universal Robots is the canonical 2008+ commercial cobot anchor (Odense Denmark, SDU spinout). 17-year-deep public-disclosure prior art for: 6-DoF anthropomorphic cobot at the educational/industrial price point, ISO 10218 + ISO/TS 15066 collaborative-safety compliance, PolyScope teach-pendant programming model. **The architectural anchor of every subsequent commercial cobot** — Doosan (round-22 entry), Franka Emika, Aubo, Elite, Jaka, Universal Robots' own e-Series. The Odense Denmark cobot cluster (Robocluster consortium) is the Nordic robotics anchor. Direct shielding for any commercial humanoid claim that includes cobot-class collaborative-arm derivative applications. Closes the Denmark / Nordic gap (corpus had no Danish entries prior).
 
 ## Vicarious Surgical (2014-01)
 

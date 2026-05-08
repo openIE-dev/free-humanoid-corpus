@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-bipedal-locomotion`
 
-**144 corpus entries disclose this subsystem.**
+**145 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -464,6 +464,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Goswami, Ambarish. 'Postural stability of biped robots and the foot-rotation indicator (FRI) point.' International Journal of Robotics Research 18(6): 523-533, June 1999.
 - **ip status**: public-domain
 - **prior art notes**: Goswami's FRI is the canonical academic disclosure of an extended-ZMP stability indicator capable of quantifying impending foot-rotation. Anticipates: (1) graded stability metrics for bipedal walking that go beyond binary ZMP-inside/outside checks — relevant to claims on bipedal balance estimators in modern humanoids; (2) FRI as a continuous early-warning signal for tipping-onset — relevant to fall-prediction IP (every academic and commercial humanoid claiming 'fall prediction' or 'stability margin estimation' faces this); (3) the formal distinction between ZMP and FRI in non-quasi-static gaits — relevant to dynamic-walking control claims. Highly cited (>1000 citations); Goswami's later work at Honda Research Institute (Asimo group) extended this. 27-year-deep 102 anchor against bipedal-stability-monitoring IP.
+
+## METU Ankara robotics (Middle East Technical University) (2000-01)
+
+- **id**: `metu-ankara-turkey-robotics`
+- **corpus**: academic
+- **creator**: METU Ankara (multiple PIs); Erbatur, Saranli, et al.
+- **disclosure**: Orta Doğu Teknik Üniversitesi / Middle East Technical University (Ankara, Turkey; founded 1956). Robotics research distributed across Faculty of Engineering — Mechanical, Electrical-Electronics, Computer Engineering departments. Notable contributions: humanoid + bipedal research (Erbatur lab), manipulation + dexterous hand research, autonomous vehicles.
+- **ip status**: open-permissive
+- **prior art notes**: METU Ankara is Turkey's largest research-intensive university and the Turkish robotics academic anchor. **First entry in the corpus from Turkey** — closes a major MENA gap. Notable for Saranli SLIP-model + Erbatur ZMP research lineages. Aggregator-style; specific METU papers should be added in future rounds.
 
 ## ASIMO (2000-10-31)
 

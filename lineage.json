@@ -1336,6 +1336,30 @@
       ]
     },
     {
+      "id": "auckland-university-nz-robotics",
+      "name": "University of Auckland (NZ) robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bme-budapest-hungary-robotics",
+      "name": "Budapest University of Technology and Economics (BME) robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bogazici-istanbul-turkey-robotics",
+      "name": "Boğaziçi University Istanbul robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "cvut-prague-czech-robotics",
       "name": "Czech Technical University Prague (CVUT/CTU) robotics",
       "year": "2000",
@@ -1352,6 +1376,22 @@
       "descendants": []
     },
     {
+      "id": "ipn-cic-mexico-robotics",
+      "name": "IPN CIC Mexico robotics (Instituto Politécnico Nacional)",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "metu-ankara-turkey-robotics",
+      "name": "METU Ankara robotics (Middle East Technical University)",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ntu-singapore-robotics-cluster",
       "name": "NTU Singapore robotics cluster",
       "year": "2000",
@@ -1362,6 +1402,22 @@
     {
       "id": "usp-brazil-robotics-cluster",
       "name": "USP Brazil robotics cluster",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "vtt-finland-robotics-cluster",
+      "name": "VTT Technical Research Centre of Finland robotics",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "warsaw-poland-robotics-cluster",
+      "name": "Warsaw University of Technology (PW) robotics",
       "year": "2000",
       "corpus": "academic",
       "ancestors": [],
@@ -1940,6 +1996,14 @@
       "descendants": []
     },
     {
+      "id": "universal-robots-denmark-2008",
+      "name": "Universal Robots (Odense, Denmark)",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "opm-genos",
       "name": "Genos (One Punch Man)",
       "year": "2009",
@@ -2192,6 +2256,14 @@
       "name": "Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy)",
       "year": "2011",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "zewail-city-egypt-2011",
+      "name": "Zewail City of Science and Technology (Egypt)",
+      "year": "2011",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },

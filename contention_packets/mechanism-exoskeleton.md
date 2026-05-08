@@ -1,7 +1,7 @@
 ---
 title: "mechanism-exoskeleton"
 parent: "Invalidity Contentions"
-nav_order: 86
+nav_order: 88
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-exoskeleton`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
-**Earliest disclosure:** 2004-03  
+**Entries:** 5 (4 commons-grade, 1 draft)  
+**Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2018-09
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2000-01 — Boğaziçi University Istanbul robotics *(draft)*
+
+- **id:** `bogazici-istanbul-turkey-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Boğaziçi University (Istanbul, Turkey)
+- **disclosure citation:** Boğaziçi University (Istanbul, Turkey; founded 1863 as Robert College). Robotics research at the Intelligent Systems Laboratory + Faculty of Engineering. Notable: rehabilitation robotics, exoskeleton research, mobile manipulation.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-exoskeleton`, `control-rehabilitation`
+
+**Prior art notes:**
+
+> Boğaziçi University is one of two Turkish robotics academic anchors (alongside METU; round-24 entry above). Together with METU brings TR-tagged entries to 2 in the corpus. Aggregator-style; specific Boğaziçi papers should be added in future rounds.
+
+**Sources:**
+
+1. Boğaziçi University corporate site (boun.edu.tr).
+2. Boğaziçi Intelligent Systems Laboratory publications.
+
+---
 
 ### 2004-03 — Berkeley BLEEX (Lower Extremity Exoskeleton)
 
@@ -154,4 +174,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b80ce5d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*

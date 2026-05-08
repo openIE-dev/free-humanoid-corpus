@@ -1,7 +1,7 @@
 ---
 title: "mechanism-mobile-base"
 parent: "Invalidity Contentions"
-nav_order: 89
+nav_order: 91
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-mobile-base`  
-**Entries:** 6 (3 commons-grade, 3 draft)  
-**Earliest disclosure:** 2003-09  
+**Entries:** 7 (3 commons-grade, 4 draft)  
+**Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2024-09
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2000-01 — Warsaw University of Technology (PW) robotics *(draft)*
+
+- **id:** `warsaw-poland-robotics-cluster`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Warsaw University of Technology + Industrial Research Institute for Automation and Measurements (PIAP)
+- **disclosure citation:** Warsaw University of Technology / Politechnika Warszawska (PW), Warsaw, Poland. Robotics research at Faculty of Mechatronics + Industrial Research Institute for Automation and Measurements (PIAP). Notable: industrial automation, mobile robotics, EOD (Explosive Ordnance Disposal) robots.
+- **disclosed subsystems:** `control-research-cluster`, `control-eod-robotics`, `mechanism-mobile-base`
+
+**Prior art notes:**
+
+> Warsaw University of Technology + PIAP is Poland's flagship robotics academic + applied-research cluster. **First real (non-fictional) entry in the corpus from Poland** — corpus had only Lem Cyberiad + Cyberpunk 2077 (fictional). Together with CTU Prague (round-23) and BME Budapest (round-24 entry below), establishes the Eastern European robotics prior-art baseline.
+
+**Sources:**
+
+1. Politechnika Warszawska corporate site (pw.edu.pl).
+2. PIAP corporate site (piap.pl).
+
+---
 
 ### 2003-09 — Mitsubishi Wakamaru
 
@@ -194,4 +214,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b80ce5d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*

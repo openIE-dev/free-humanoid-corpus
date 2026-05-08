@@ -1,6 +1,6 @@
 # Corpus Index
 
-473 entries total. Generated from corpus.jsonl.
+482 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -70,10 +70,12 @@
 | Boston Dynamics Spot | `hyundai-boston-dynamics-spot` | 2015 | private | patented |  |
 | Boston Dynamics Spot (fuel-cell variant) | `spot-fuel-cell` | 2020 | private | patented | ✓ |
 | Boston Dynamics SpotMini | `boston-dynamics-spotmini-2017` | 2016 | private | trade-secret |  |
+| Boğaziçi University Istanbul robotics | `bogazici-istanbul-turkey-robotics` | 2000 | academic | open-permissive | ✓ |
 | BrainGate | `braingate-donoghue-2002` | 2002 | academic | open-permissive |  |
 | Brainiac | `dc-brainiac-1958` | 1958 | fictional | fictional |  |
 | BridgeData V2 multi-robot trajectory dataset | `bridgedata-v2-walke-2023` | 2023 | academic | public-domain |  |
 | Brockett's Necessary Condition for Stabilizability | `brockett-condition-1983` | 1983 | academic | public-domain |  |
+| Budapest University of Technology and Economics (BME) robotics | `bme-budapest-hungary-robotics` | 2000 | academic | open-permissive | ✓ |
 | Caltech CAST Hank bipedal platform | `caltech-hank-cast-2019` | 2019 | academic | public-domain |  |
 | Caltech LEONARDO | `caltech-leonardo-2021` | 2021 | academic | public-domain |  |
 | CALVIN | `calvin-mees-2022` | 2021 | academic | open-permissive |  |
@@ -216,6 +218,7 @@
 | InMoov | `inmoov` | 2012 | open | open-permissive |  |
 | Intuitive Surgical da Vinci | `intuitive-surgical-da-vinci-2000` | 2000 | private | trade-secret |  |
 | IP.com Prior Art Database | `ip-com-prior-art-database` | 2000 | open | open-permissive |  |
+| IPN CIC Mexico robotics (Instituto Politécnico Nacional) | `ipn-cic-mexico-robotics` | 2000 | academic | open-permissive | ✓ |
 | Iron Legion | `marvel-iron-legion` | 2015 | fictional | fictional |  |
 | Iron Man Mark I (Tony Stark exoskeleton) | `iron-man-mark-i` | 1963 | fictional | fictional |  |
 | ISO 10218 Collaborative Robot Safety | `iso-10218-collaborative-robots` | 2006 | academic | public-domain |  |
@@ -264,6 +267,7 @@
 | McKibben pneumatic artificial muscle | `mckibben-pneumatic-muscle-1957` | 1957 | academic | public-domain |  |
 | MegaSaM | `megasam-google-2024` | 2024 | academic | open-permissive | ✓ |
 | Memic Hominis | `memic-hominis-2020` | 2021 | private | trade-secret |  |
+| METU Ankara robotics (Middle East Technical University) | `metu-ankara-turkey-robotics` | 2000 | academic | open-permissive | ✓ |
 | MIT Cheetah | `mit-cheetah` | 2013 | academic | open-permissive |  |
 | MIT Cheetah 2 | `mit-cheetah-2` | 2014 | academic | open-permissive |  |
 | MIT Cheetah 3 | `mit-cheetah-3` | 2018 | academic | open-permissive |  |
@@ -452,6 +456,8 @@
 | Unitree H2 | `unitree-h2` | 2025 | private | patented | ✓ |
 | Unitree R1 | `unitree-r1-2025` | 2025 | private | trade-secret |  |
 | Universal Manipulation Interface (UMI) | `umi-stanford` | 2024 | academic | open-permissive |  |
+| Universal Robots (Odense, Denmark) | `universal-robots-denmark-2008` | 2008 | private | trade-secret |  |
+| University of Auckland (NZ) robotics | `auckland-university-nz-robotics` | 2000 | academic | open-permissive | ✓ |
 | Upkie | `upkie` | 2022 | open | open-permissive |  |
 | USP Brazil robotics cluster | `usp-brazil-robotics-cluster` | 2000 | academic | public-domain | ✓ |
 | V'Ger | `v-ger-star-trek` | 1979 | fictional | fictional |  |
@@ -462,11 +468,13 @@
 | VIMA (General Robot Manipulation with Multimodal Prompts) | `vima` | 2022 | academic | open-permissive |  |
 | ViPE (Video Pose Engine) | `nvidia-vipe-2025` | 2025 | academic | open-permissive |  |
 | Voc Robots (Robots of Death) | `voc-robots-doctor-who` | 1977 | fictional | fictional |  |
+| VTT Technical Research Centre of Finland robotics | `vtt-finland-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Vukobratović Zero Moment Point | `vukobratovic-zmp` | 1969 | academic | public-domain |  |
 | WABIAN-2 | `wabian-2` | 2006 | academic | open-permissive |  |
 | WABOT-1 | `wabot-1` | 1973 | academic | public-domain |  |
 | WALL-E and EVE (Pixar 2008) | `wall-e-eve-pixar` | 2008 | fictional | fictional |  |
 | War Machine (James Rhodes) | `marvel-war-machine` | 1979 | fictional | fictional |  |
+| Warsaw University of Technology (PW) robotics | `warsaw-poland-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Westworld Hosts (1973 / 2016) | `westworld-hosts` | 1973 | fictional | fictional |  |
 | WildGS-SLAM | `wildgs-slam-2025` | 2025 | academic | open-permissive |  |
 | Willow Garage PR1 | `willow-pr1` | 2008 | academic | open-permissive |  |
@@ -474,6 +482,7 @@
 | Yale OpenHand / ReFlex Hand | `yale-reflex-openhand-2014` | 2014 | academic | open-permissive |  |
 | YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) | `nier-automata-2b` | 2017 | fictional | fictional |  |
 | Yoshikawa Manipulability Ellipsoid | `yoshikawa-manipulability` | 1985 | academic | public-domain |  |
+| Zewail City of Science and Technology (Egypt) | `zewail-city-egypt-2011` | 2011 | academic | open-permissive | ✓ |
 | Ziebart Maximum Entropy Inverse Reinforcement Learning | `ziebart-maxent-irl-2008` | 2008 | academic | public-domain |  |
 | π₀ (Pi-Zero) | `physical-intelligence-pi0-2024` | 2024 | academic | open-permissive |  |
 | π₀.₅ (Pi-0.5) | `physical-intelligence-pi05-2025` | 2025 | academic | open-permissive |  |

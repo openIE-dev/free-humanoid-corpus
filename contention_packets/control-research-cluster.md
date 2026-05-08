@@ -1,7 +1,7 @@
 ---
 title: "control-research-cluster"
 parent: "Invalidity Contentions"
-nav_order: 59
+nav_order: 60
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-research-cluster`  
-**Entries:** 10 (0 commons-grade, 10 draft)  
+**Entries:** 18 (0 commons-grade, 18 draft)  
 **Earliest disclosure:** 2000-01  
-**Most recent disclosure:** 2011-10
+**Most recent disclosure:** 2011-11
 
 ---
 
@@ -99,6 +99,144 @@ cite, copy, or redistribute these contentions.
 1. CVUT Prague corporate site (cvut.cz).
 2. CTU Multi-Robot Systems group (mrs.felk.cvut.cz).
 3. DARPA SubT 2021 participation documentation.
+
+---
+
+### 2000-01 — VTT Technical Research Centre of Finland robotics *(draft)*
+
+- **id:** `vtt-finland-robotics-cluster`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** VTT Technical Research Centre of Finland Ltd.
+- **disclosure citation:** VTT Technical Research Centre of Finland Ltd. (Espoo, Finland; 100% Finnish state-owned; one of Europe's largest applied research institutions). Robotics + automation research hosted at the Smart Industry + Energy Group. vttresearch.com.
+- **disclosed subsystems:** `control-research-cluster`, `control-mining-autonomy`, `control-forestry-autonomy`
+
+**Prior art notes:**
+
+> VTT is Finland's flagship applied-research institution and the Nordic robotics academic complement to Universal Robots Denmark. **First entry in the corpus from Finland** — closes Nordic gap. Aggregator-style; specific VTT papers should be added in future rounds.
+
+**Sources:**
+
+1. VTT corporate site (vttresearch.com).
+2. VTT Smart Industry + Energy publications.
+
+---
+
+### 2000-01 — METU Ankara robotics (Middle East Technical University) *(draft)*
+
+- **id:** `metu-ankara-turkey-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** METU Ankara (multiple PIs); Erbatur, Saranli, et al.
+- **disclosure citation:** Orta Doğu Teknik Üniversitesi / Middle East Technical University (Ankara, Turkey; founded 1956). Robotics research distributed across Faculty of Engineering — Mechanical, Electrical-Electronics, Computer Engineering departments. Notable contributions: humanoid + bipedal research (Erbatur lab), manipulation + dexterous hand research, autonomous vehicles.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-bipedal-locomotion`, `control-zmp-balancing`, `control-slip-model`
+
+**Prior art notes:**
+
+> METU Ankara is Turkey's largest research-intensive university and the Turkish robotics academic anchor. **First entry in the corpus from Turkey** — closes a major MENA gap. Notable for Saranli SLIP-model + Erbatur ZMP research lineages. Aggregator-style; specific METU papers should be added in future rounds.
+
+**Sources:**
+
+1. METU corporate site (metu.edu.tr).
+2. Saranli + Erbatur publications.
+
+---
+
+### 2000-01 — Boğaziçi University Istanbul robotics *(draft)*
+
+- **id:** `bogazici-istanbul-turkey-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Boğaziçi University (Istanbul, Turkey)
+- **disclosure citation:** Boğaziçi University (Istanbul, Turkey; founded 1863 as Robert College). Robotics research at the Intelligent Systems Laboratory + Faculty of Engineering. Notable: rehabilitation robotics, exoskeleton research, mobile manipulation.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-exoskeleton`, `control-rehabilitation`
+
+**Prior art notes:**
+
+> Boğaziçi University is one of two Turkish robotics academic anchors (alongside METU; round-24 entry above). Together with METU brings TR-tagged entries to 2 in the corpus. Aggregator-style; specific Boğaziçi papers should be added in future rounds.
+
+**Sources:**
+
+1. Boğaziçi University corporate site (boun.edu.tr).
+2. Boğaziçi Intelligent Systems Laboratory publications.
+
+---
+
+### 2000-01 — IPN CIC Mexico robotics (Instituto Politécnico Nacional) *(draft)*
+
+- **id:** `ipn-cic-mexico-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Instituto Politécnico Nacional CIC (Mexico City)
+- **disclosure citation:** Instituto Politécnico Nacional (IPN), Centro de Investigación en Computación (CIC). Mexico City, Mexico. National Mexican research institution; CIC hosts Mexico's largest concentration of robotics + AI research. cic.ipn.mx.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> IPN CIC is Mexico's largest robotics + AI academic research concentration. **First entry in the corpus from Mexico** — closes a major Latin American gap. Together with USP Brazil + Embrapa (round-23), establishes the Latin American robotics prior-art baseline. Aggregator-style; specific IPN papers should be added in future rounds.
+
+**Sources:**
+
+1. IPN CIC corporate site (cic.ipn.mx).
+
+---
+
+### 2000-01 — University of Auckland (NZ) robotics *(draft)*
+
+- **id:** `auckland-university-nz-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** University of Auckland (Auckland, New Zealand)
+- **disclosure citation:** University of Auckland (Auckland, New Zealand). Robotics + AI research distributed across Auckland Bioengineering Institute (ABI), Department of Mechanical and Mechatronics Engineering, Department of Computer Science. Notable: bioengineering robots, soft robotics (collaborator with Harvard), agricultural robotics.
+- **disclosed subsystems:** `control-research-cluster`, `mechanism-soft-robotics`, `mechanism-bioengineering-robot`
+
+**Prior art notes:**
+
+> University of Auckland is New Zealand's largest research university and the dominant NZ robotics academic cluster. **First entry in the corpus from New Zealand** — closes a regional gap. Together with CSIRO Data61 (round-23, Australia), brings Antipodean coverage to 2.
+
+**Sources:**
+
+1. University of Auckland corporate site (auckland.ac.nz).
+2. Auckland Bioengineering Institute (abi.auckland.ac.nz).
+
+---
+
+### 2000-01 — Warsaw University of Technology (PW) robotics *(draft)*
+
+- **id:** `warsaw-poland-robotics-cluster`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Warsaw University of Technology + Industrial Research Institute for Automation and Measurements (PIAP)
+- **disclosure citation:** Warsaw University of Technology / Politechnika Warszawska (PW), Warsaw, Poland. Robotics research at Faculty of Mechatronics + Industrial Research Institute for Automation and Measurements (PIAP). Notable: industrial automation, mobile robotics, EOD (Explosive Ordnance Disposal) robots.
+- **disclosed subsystems:** `control-research-cluster`, `control-eod-robotics`, `mechanism-mobile-base`
+
+**Prior art notes:**
+
+> Warsaw University of Technology + PIAP is Poland's flagship robotics academic + applied-research cluster. **First real (non-fictional) entry in the corpus from Poland** — corpus had only Lem Cyberiad + Cyberpunk 2077 (fictional). Together with CTU Prague (round-23) and BME Budapest (round-24 entry below), establishes the Eastern European robotics prior-art baseline.
+
+**Sources:**
+
+1. Politechnika Warszawska corporate site (pw.edu.pl).
+2. PIAP corporate site (piap.pl).
+
+---
+
+### 2000-01 — Budapest University of Technology and Economics (BME) robotics *(draft)*
+
+- **id:** `bme-budapest-hungary-robotics`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Budapest University of Technology and Economics (BME)
+- **disclosure citation:** Budapest University of Technology and Economics (BME / Budapesti Műszaki és Gazdaságtudományi Egyetem). Hungary's largest technical university. Robotics research at Department of Manufacturing Science and Engineering + Department of Control Engineering and Information Technology. Notable: industrial automation, autonomous vehicles, computer vision.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> BME Budapest is Hungary's largest technical university and the Hungarian robotics academic anchor. **First entry in the corpus from Hungary** — closes a regional gap. Together with CTU Prague (round-23) and Warsaw University of Technology (round-24 entry above), establishes the Central + Eastern European robotics prior-art baseline.
+
+**Sources:**
+
+1. BME corporate site (bme.hu).
 
 ---
 
@@ -247,6 +385,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2011-11 — Zewail City of Science and Technology (Egypt) *(draft)*
+
+- **id:** `zewail-city-egypt-2011`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Zewail City of Science and Technology (founded by Ahmed Zewail, Egyptian-American Nobel laureate)
+- **disclosure citation:** Zewail City of Science and Technology (6th of October City, Egypt). Founded November 2011 by Egyptian-American Nobel laureate Ahmed Zewail (1999 Chemistry); president of the Zewail Foundation. Center for Robotics + AI established within the city's research framework. zewailcity.edu.eg.
+- **disclosed subsystems:** `control-research-cluster`
+
+**Prior art notes:**
+
+> Zewail City is Egypt's flagship privately-founded research institution (founded 2011 by Nobel laureate Ahmed Zewail). **First entry in the corpus from Egypt** — closes a major MENA + African gap. Together with KAUST Saudi Arabia (round-23) and UCT South Africa (round-23), establishes the African + MENA robotics prior-art baseline. Aggregator-style.
+
+**Sources:**
+
+1. Zewail City corporate site (zewailcity.edu.eg).
+2. Wikipedia 'Zewail City of Science and Technology'.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -277,4 +435,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b80ce5d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*

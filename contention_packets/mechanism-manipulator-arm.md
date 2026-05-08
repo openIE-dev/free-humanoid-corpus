@@ -1,7 +1,7 @@
 ---
 title: "mechanism-manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 88
+nav_order: 90
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-manipulator-arm`  
-**Entries:** 15 (13 commons-grade, 2 draft)  
+**Entries:** 16 (14 commons-grade, 2 draft)  
 **Earliest disclosure:** 1964-06  
 **Most recent disclosure:** 2022-07
 
@@ -207,6 +207,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2008-12 — Universal Robots (Odense, Denmark)
+
+- **id:** `universal-robots-denmark-2008`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Universal Robots A/S (Odense, Denmark; SDU spinout); Østergaard, Støy, Kassow founders
+- **disclosure citation:** Universal Robots A/S (Odense, Denmark; founded 2005 by Esben Østergaard, Kasper Støy, Kristian Kassow as a University of Southern Denmark spinout). UR5 first commercial cobot reveal December 2008. Subsequently: UR3 (2015), UR10 (2012), UR16 (2019), e-Series (2018+), UR20/UR30 (2022+). Acquired by Teradyne 2015 for $285M. universal-robots.com.
+- **disclosed subsystems:** `mechanism-manipulator-arm`, `mechanism-collaborative-robot`, `actuator-electric`, `control-impedance-control`
+
+**Prior art notes:**
+
+> Universal Robots is the canonical 2008+ commercial cobot anchor (Odense Denmark, SDU spinout). 17-year-deep public-disclosure prior art for: 6-DoF anthropomorphic cobot at the educational/industrial price point, ISO 10218 + ISO/TS 15066 collaborative-safety compliance, PolyScope teach-pendant programming model. **The architectural anchor of every subsequent commercial cobot** — Doosan (round-22 entry), Franka Emika, Aubo, Elite, Jaka, Universal Robots' own e-Series. The Odense Denmark cobot cluster (Robocluster consortium) is the Nordic robotics anchor. Direct shielding for any commercial humanoid claim that includes cobot-class collaborative-arm derivative applications. Closes the Denmark / Nordic gap (corpus had no Danish entries prior).
+
+**Sources:**
+
+1. Universal Robots corporate site (universal-robots.com).
+2. Teradyne 10-K SEC filings (post-2015 acquisition).
+3. Wikipedia 'Universal Robots' (en.wikipedia.org/wiki/Universal_Robots).
+
+---
+
 ### 2014-01 — Vicarious Surgical
 
 - **id:** `vicarious-surgical-2014`
@@ -383,4 +404,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b80ce5d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `6b58593`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**15 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2008-12
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tehran University Center of Advanced Systems and Technologies (CAST). Surena lineage: Surena (2008), Surena II (2010), Surena III (2015), Surena IV (December 2019). Yousefi-Koma, A. + Tehran University engineering team. Iran's flagship humanoid program.
 - **ip status**: public-domain
 - **prior art notes**: The Surena lineage (Tehran University CAST, 2008-2020+) is Iran's flagship humanoid program. 17-year-deep public-domain academic prior art (Iran does not enforce most foreign patents; Iranian academic publications are public-domain by default). Establishes Iranian indigenous capability under sanctions for: 170 cm / 68 kg adult-class bipedal humanoid, 43-DoF whole-body, anthropomorphic 5-finger hands. Closes the Iran/Middle-East regional gap (corpus had 0 entries from Iran prior to this round).
+
+## Universal Robots (Odense, Denmark) (2008-12)
+
+- **id**: `universal-robots-denmark-2008`
+- **corpus**: private
+- **creator**: Universal Robots A/S (Odense, Denmark; SDU spinout); Østergaard, Støy, Kassow founders
+- **disclosure**: Universal Robots A/S (Odense, Denmark; founded 2005 by Esben Østergaard, Kasper Støy, Kristian Kassow as a University of Southern Denmark spinout). UR5 first commercial cobot reveal December 2008. Subsequently: UR3 (2015), UR10 (2012), UR16 (2019), e-Series (2018+), UR20/UR30 (2022+). Acquired by Teradyne 2015 for $285M. universal-robots.com.
+- **ip status**: trade-secret
+- **prior art notes**: Universal Robots is the canonical 2008+ commercial cobot anchor (Odense Denmark, SDU spinout). 17-year-deep public-disclosure prior art for: 6-DoF anthropomorphic cobot at the educational/industrial price point, ISO 10218 + ISO/TS 15066 collaborative-safety compliance, PolyScope teach-pendant programming model. **The architectural anchor of every subsequent commercial cobot** — Doosan (round-22 entry), Franka Emika, Aubo, Elite, Jaka, Universal Robots' own e-Series. The Odense Denmark cobot cluster (Robocluster consortium) is the Nordic robotics anchor. Direct shielding for any commercial humanoid claim that includes cobot-class collaborative-arm derivative applications. Closes the Denmark / Nordic gap (corpus had no Danish entries prior).
 
 ## DRC-HUBO+ (DARPA Robotics Challenge winner) (2015-06)
 
