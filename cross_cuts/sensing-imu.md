@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `sensing-imu`
 
-**76 corpus entries disclose this subsystem.**
+**77 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hirose, M. and Ogawa, K. 'Honda humanoid robots development.' Phil. Trans. R. Soc. A 365, 11–19 (2007).
 - **ip status**: trade-secret
 - **prior art notes**: Knee-bending dynamic walking variant in the Honda lineage.
+
+## MEMS IMU foundational lineage (gyroscope + accelerometer) (1991-01)
+
+- **id**: `mems-imu-foundational-1990s`
+- **corpus**: private
+- **creator**: Multi-vendor MEMS lineage; Analog Devices (US) + Bosch (Germany) + InvenSense (US, acquired by TDK 2017) + ST Microelectronics (Switzerland/Italy)
+- **disclosure**: Analog Devices ADXL50 first commercial MEMS accelerometer 1991. Bosch MEMS gyroscope SMG020 1995+. **Foundational MEMS IMU lineage**: Analog Devices ADXL series + InvenSense MPU-6050 (2010, founded 2003) + ST Microelectronics LSM-series + Bosch BMI/BMM-series. The MEMS IMU revolution drove the smartphone + drone + robot consumer-IMU era.
+- **ip status**: trade-secret
+- **prior art notes**: The MEMS IMU foundational lineage (Analog Devices 1991 + Bosch 1995 + InvenSense MPU-6050 2010 + modern multi-vendor 9-axis IMU) is the canonical robotic-grade IMU prior art. 34-year-deep public-disclosure prior art. The IMU stack running in essentially every robot + drone + smartphone. Direct shielding for any commercial humanoid claim using IMU sensing.
 
 ## Honda E5 (1992)
 

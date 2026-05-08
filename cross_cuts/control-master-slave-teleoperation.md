@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-master-slave-teleoperation`
 
-**4 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989-01
 
@@ -32,6 +32,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Intuitive Surgical, Inc. (Sunnyvale, CA). da Vinci Surgical System FDA approval July 11, 2000. SRI International / Stanford telesurgical lineage; Salisbury Stanford-JPL hand era roots. Subsequent product generations: da Vinci S (2006), Si (2009), Xi (2014), X (2017), SP single-port (2018), Ion bronchoscopy (2019), da Vinci 5 (2024).
 - **ip status**: trade-secret
 - **prior art notes**: The Intuitive Surgical da Vinci system is the canonical commercial surgical-robot platform (FDA approval July 2000). 25-year-deep public-disclosure prior art for: master-slave teleoperated manipulator + console architecture, EndoWrist tendon-driven wristed-instrument design (architecturally descended from Salisbury's Stanford-JPL hand 1982 — corpus entry `salisbury-stanford-jpl-hand-1982`), tremor filtering + motion scaling for telerobotic precision. Direct shielding for any commercial humanoid claim on bimanual fine-manipulation with wristed end-effectors and tremor-filtered teleoperation. The 25-year commercial deployment + 7,500+ systems + 10M+ procedures establishes a deeply-anticipated prior-art cushion for any humanoid manipulation claim.
+
+## Hansen Medical Sensei catheter robotic system (2007-08)
+
+- **id**: `sensei-hansen-medical-2009`
+- **corpus**: private
+- **creator**: Hansen Medical (Mountain View, CA); now Auris Health / Johnson & Johnson
+- **disclosure**: Hansen Medical, Inc. (Mountain View, CA). Sensei catheter robotic system FDA cleared August 2007. Subsequent: Magellan vascular system. Acquired by Auris Health 2016 → Johnson & Johnson 2019.
+- **ip status**: trade-secret
+- **prior art notes**: Hansen Medical Sensei (FDA cleared August 2007) is the canonical robotic catheter system for cardiac electrophysiology. 18-year-deep public-disclosure prior art. Distinct architectural branch from Intuitive da Vinci by application + kinematics. The Hansen→Auris→J&J lineage is the major intravascular robotic-surgery commercial platform.
+
+## CorPath GRX (Corindus / Siemens Healthineers) (2012-07)
+
+- **id**: `corpath-grx-corindus-2014`
+- **corpus**: private
+- **creator**: Corindus Vascular Robotics (Waltham, MA); acquired by Siemens Healthineers 2019
+- **disclosure**: Corindus Vascular Robotics, Inc. CorPath 200 FDA cleared July 2012; CorPath GRX FDA cleared October 2016. Acquired by Siemens Healthineers 2019.
+- **ip status**: trade-secret
+- **prior art notes**: Corindus CorPath GRX (FDA 2012/2016, Siemens Healthineers 2019) is the canonical robotic-PCI commercial platform. 13-year-deep public-disclosure prior art. Together with Hansen Medical Sensei (round-33 entry above), establishes the intravascular surgical-robot prior-art chain.
 
 ## Skybot F-850 / FEDOR (2014-04)
 

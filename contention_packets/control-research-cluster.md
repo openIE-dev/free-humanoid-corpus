@@ -1,7 +1,7 @@
 ---
 title: "control-research-cluster"
 parent: "Invalidity Contentions"
-nav_order: 76
+nav_order: 81
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-research-cluster`  
-**Entries:** 36 (1 commons-grade, 35 draft)  
+**Entries:** 37 (2 commons-grade, 35 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2011-11
 
@@ -631,6 +631,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2007-11 — OpenSim biomechanics framework
+
+- **id:** `opensim-delp-stanford-2007`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Stanford University; Scott Delp + colleagues
+- **disclosure citation:** Delp, S. L., Anderson, F. C., Arnold, A. S., Loan, P., Habib, A., John, C. T., Guendelman, E., Thelen, D. G. 'OpenSim: Open-Source Software to Create and Analyze Dynamic Simulations of Movement'. IEEE Transactions on Biomedical Engineering 54(11) 2007. Stanford University Neuromuscular Biomechanics Laboratory.
+- **disclosed subsystems:** `control-research-cluster`, `control-physics-simulation`, `control-musculoskeletal-modeling`
+
+**Prior art notes:**
+
+> OpenSim (Delp et al. Stanford IEEE T-BME 2007) is the dominant academic biomechanics simulation framework. 18-year-deep open-permissive prior art. **The framework underlying humanoid-robot kinematic design** — humanoid arms + legs are designed to approximate human ranges of motion documented in OpenSim models. Direct shielding for any commercial humanoid claim that derives kinematic specifications from human-anatomical models.
+
+**Sources:**
+
+1. Delp et al. IEEE T-BME 54(11) 2007.
+2. OpenSim site (opensim.stanford.edu).
+3. GitHub: github.com/opensim-org/opensim-core.
+
+---
+
 ### 2009-09 — KAUST Saudi Arabia AI + robotics *(draft)*
 
 - **id:** `kaust-saudi-arabia-robotics`
@@ -786,4 +807,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*

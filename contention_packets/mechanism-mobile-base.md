@@ -1,7 +1,7 @@
 ---
 title: "mechanism-mobile-base"
 parent: "Invalidity Contentions"
-nav_order: 112
+nav_order: 118
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-mobile-base`  
-**Entries:** 7 (3 commons-grade, 4 draft)  
+**Entries:** 8 (3 commons-grade, 5 draft)  
 **Earliest disclosure:** 2000-01  
 **Most recent disclosure:** 2024-09
 
@@ -184,6 +184,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-09 — Galaxea G1 *(draft)*
+
+- **id:** `galaxea-g1-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Galaxea AI (Beijing, China)
+- **disclosure citation:** Galaxea AI (Beijing, China). G1 commercial humanoid product reveal September 2024 via galaxea.ai. Wheel-based mobile humanoid; ~165 cm tall.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-anthropomorphic-arm`, `actuator-electric`
+
+**Prior art notes:**
+
+> Galaxea G1 (Galaxea AI Beijing 2024+) is one of the canonical Chinese wheeled-humanoid commercial platforms. ~1.5-year-deep public-disclosure prior art. Together with Galbot (round-22) and Promobot (round-22), establishes the wheeled-humanoid commercial-deployment landscape.
+
+**Sources:**
+
+1. Galaxea AI corporate site (galaxea.ai).
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -214,4 +233,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*

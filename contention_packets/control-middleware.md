@@ -1,7 +1,7 @@
 ---
 title: "control-middleware"
 parent: "Invalidity Contentions"
-nav_order: 52
+nav_order: 54
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-middleware`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2009-05  
 **Most recent disclosure:** 2017-12
 
@@ -58,6 +58,26 @@ cite, copy, or redistribute these contentions.
 1. Quigley et al. ICRA 2009 Workshop on Open Source Software.
 2. ROS official site (ros.org).
 3. Open Robotics (openrobotics.org).
+
+---
+
+### 2013-01 — MoveIt! motion-planning framework
+
+- **id:** `moveit-sucan-icra-2014`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Willow Garage / Open Robotics; Ioan Sucan, Sachin Chitta + community
+- **disclosure citation:** Sucan, I. A., Chitta, S. 'MoveIt!'. Open-source ROS motion-planning framework. Initial release 2013. moveit.ros.org. Willow Garage / SRI / PickNik Robotics maintenance lineage.
+- **disclosed subsystems:** `control-motion-planning`, `control-middleware`
+
+**Prior art notes:**
+
+> MoveIt! (Sucan + Chitta Willow Garage 2013+) is the foundational ROS motion-planning framework. 12-year-deep open-permissive prior art. The de facto library for academic + industrial robots integrating with ROS. Direct shielding for any commercial humanoid claim using ROS-integrated motion-planning libraries.
+
+**Sources:**
+
+1. MoveIt! site (moveit.ros.org).
+2. GitHub: github.com/ros-planning/moveit.
 
 ---
 
@@ -111,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*

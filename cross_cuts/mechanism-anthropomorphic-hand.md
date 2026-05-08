@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-anthropomorphic-hand`
 
-**131 corpus entries disclose this subsystem.**
+**132 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495
 
@@ -1103,6 +1103,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Rainbow Robotics public reveal of RB-Y1, March 2024.
 - **ip status**: patented
 - **prior art notes**: Rainbow Robotics has direct lineage from KAIST HUBO program; HUBO academic publications constitute prior art for many of their humanoid claims.
+
+## Sanctuary AI Phoenix Carbon (Gen 7) (2024-04)
+
+- **id**: `sanctuary-phoenix-carbon-2024`
+- **corpus**: private
+- **creator**: Sanctuary AI (Vancouver, Canada)
+- **disclosure**: Sanctuary AI (Vancouver, Canada). Phoenix Generation 7 reveal April 2024 via sanctuary.ai. Successor to Phoenix Gen 6 (corpus entry sanctuary-phoenix-gen6) + original Phoenix (corpus entry sanctuary-phoenix). Carbon-fiber chassis variant.
+- **ip status**: trade-secret
+- **prior art notes**: Sanctuary AI Phoenix Carbon / Gen 7 is the latest in the Sanctuary humanoid lineage (Vancouver, 2024+). 1.5-year-deep public-disclosure prior art. Successor to Phoenix Gen 6 (corpus). Brings Sanctuary Phoenix family to 3 corpus entries spanning the lineage.
 
 ## Neura 4NE-1 (2024-05)
 

@@ -1,7 +1,7 @@
 ---
 title: "control-trajectory-optimization"
 parent: "Invalidity Contentions"
-nav_order: 90
+nav_order: 95
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-trajectory-optimization`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012-10  
 **Most recent disclosure:** 2025-03
 
@@ -59,6 +59,26 @@ cite, copy, or redistribute these contentions.
 2. MuJoCo official site (mujoco.org).
 3. GitHub: github.com/google-deepmind/mujoco.
 4. DeepMind acquisition + open-sourcing announcement, October 2021.
+
+---
+
+### 2017-04 — OCS2 (Optimal Control for Switched Systems)
+
+- **id:** `ocs2-eth-2017`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** ETH Zürich Robotic Systems Lab; Farbod Farshidian, Michael Neunert, Jonas Buchli
+- **disclosure citation:** Farshidian, F., Neunert, M., Buchli, J. 'OCS2: An efficient C++ library for the optimal control of switched systems'. Initial release 2017+. ETH Zürich Robotic Systems Lab. Apache-2.0 open-source.
+- **disclosed subsystems:** `control-mpc`, `control-optimal-control`, `control-trajectory-optimization`
+
+**Prior art notes:**
+
+> OCS2 (Farshidian-Neunert-Buchli ETH RSL 2017+) is the foundational C++ optimal-control library for switched + hybrid systems. 8-year-deep open-permissive prior art. Used in ETH RSL's ANYmal locomotion + humanoid research. Architectural counterpart to Crocoddyl (round-8) for SQP-based optimization. **Closes a citation-audit gap** (cited by laas-cnrs-toulouse-humanoid-2003 round-26 entry).
+
+**Sources:**
+
+1. Farshidian et al. OCS2 documentation.
+2. GitHub: github.com/leggedrobotics/ocs2.
 
 ---
 
@@ -133,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*

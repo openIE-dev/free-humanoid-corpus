@@ -1,7 +1,7 @@
 ---
 title: "control-mpc"
 parent: "Invalidity Contentions"
-nav_order: 58
+nav_order: 61
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-mpc`  
-**Entries:** 40 (37 commons-grade, 3 draft)  
+**Entries:** 42 (39 commons-grade, 3 draft)  
 **Earliest disclosure:** 1980-11  
 **Most recent disclosure:** 2025-03
 
@@ -118,6 +118,25 @@ cite, copy, or redistribute these contentions.
 
 1. Khatib, O. 'A unified approach for motion and force control of robot manipulators.' IEEE J. Robotics and Automation 3(1): 43-53, 1987.
 2. Khatib, O. 'Dynamic control of manipulators in operational space.' 6th IFToMM Congress, 1983.
+
+---
+
+### 1989-08 — Model Predictive Control (MPC)
+
+- **id:** `mpc-garcia-prett-morari-1989`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Caltech (Morari) + Shell (Prett) + IBM (Garcia)
+- **disclosure citation:** Garcia, C. E., Prett, D. M., Morari, M. 'Model Predictive Control: Theory and Practice—a Survey'. Automatica 25(3) 1989. Antecedents: Richalet 1976, Cutler-Ramaker 1980 DMC.
+- **disclosed subsystems:** `control-mpc`, `control-receding-horizon`, `control-optimal-control`
+
+**Prior art notes:**
+
+> MPC (Garcia-Prett-Morari Automatica 1989) is the foundational Model Predictive Control academic survey. 36-year-deep public-domain prior art. The substrate of: Tassa iLQG (corpus), Crocoddyl (corpus), Howell-Tassa MuJoCo MPC (corpus round-11), OCS2 (round-33 entry below), Capture Point (corpus round-21), every humanoid + quadruped MPC controller in the corpus.
+
+**Sources:**
+
+1. Garcia, C. E., Prett, D. M., Morari, M. Automatica 25(3) 1989.
 
 ---
 
@@ -446,6 +465,26 @@ cite, copy, or redistribute these contentions.
 
 1. Stasse, O. et al. IEEE Humanoids 2017.
 2. PAL Robotics company materials.
+
+---
+
+### 2017-04 — OCS2 (Optimal Control for Switched Systems)
+
+- **id:** `ocs2-eth-2017`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** ETH Zürich Robotic Systems Lab; Farbod Farshidian, Michael Neunert, Jonas Buchli
+- **disclosure citation:** Farshidian, F., Neunert, M., Buchli, J. 'OCS2: An efficient C++ library for the optimal control of switched systems'. Initial release 2017+. ETH Zürich Robotic Systems Lab. Apache-2.0 open-source.
+- **disclosed subsystems:** `control-mpc`, `control-optimal-control`, `control-trajectory-optimization`
+
+**Prior art notes:**
+
+> OCS2 (Farshidian-Neunert-Buchli ETH RSL 2017+) is the foundational C++ optimal-control library for switched + hybrid systems. 8-year-deep open-permissive prior art. Used in ETH RSL's ANYmal locomotion + humanoid research. Architectural counterpart to Crocoddyl (round-8) for SQP-based optimization. **Closes a citation-audit gap** (cited by laas-cnrs-toulouse-humanoid-2003 round-26 entry).
+
+**Sources:**
+
+1. Farshidian et al. OCS2 documentation.
+2. GitHub: github.com/leggedrobotics/ocs2.
 
 ---
 
@@ -882,4 +921,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*

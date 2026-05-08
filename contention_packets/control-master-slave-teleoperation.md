@@ -1,7 +1,7 @@
 ---
 title: "control-master-slave-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 51
+nav_order: 53
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `control-master-slave-teleoperation`  
-**Entries:** 4 (3 commons-grade, 1 draft)  
+**Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-01  
 **Most recent disclosure:** 2021-03
 
@@ -79,6 +79,46 @@ cite, copy, or redistribute these contentions.
 1. Intuitive Surgical corporate site (intuitive.com).
 2. FDA premarket approval (PMA) database, da Vinci System (P000004).
 3. Wikipedia 'Da Vinci Surgical System'.
+
+---
+
+### 2007-08 — Hansen Medical Sensei catheter robotic system
+
+- **id:** `sensei-hansen-medical-2009`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Hansen Medical (Mountain View, CA); now Auris Health / Johnson & Johnson
+- **disclosure citation:** Hansen Medical, Inc. (Mountain View, CA). Sensei catheter robotic system FDA cleared August 2007. Subsequent: Magellan vascular system. Acquired by Auris Health 2016 → Johnson & Johnson 2019.
+- **disclosed subsystems:** `mechanism-surgical-robot`, `mechanism-catheter-robot`, `control-master-slave-teleoperation`
+
+**Prior art notes:**
+
+> Hansen Medical Sensei (FDA cleared August 2007) is the canonical robotic catheter system for cardiac electrophysiology. 18-year-deep public-disclosure prior art. Distinct architectural branch from Intuitive da Vinci by application + kinematics. The Hansen→Auris→J&J lineage is the major intravascular robotic-surgery commercial platform.
+
+**Sources:**
+
+1. Hansen Medical / Auris Health / Johnson & Johnson corporate history.
+2. FDA 510(k) Sensei clearance 2007.
+
+---
+
+### 2012-07 — CorPath GRX (Corindus / Siemens Healthineers)
+
+- **id:** `corpath-grx-corindus-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Corindus Vascular Robotics (Waltham, MA); acquired by Siemens Healthineers 2019
+- **disclosure citation:** Corindus Vascular Robotics, Inc. CorPath 200 FDA cleared July 2012; CorPath GRX FDA cleared October 2016. Acquired by Siemens Healthineers 2019.
+- **disclosed subsystems:** `mechanism-surgical-robot`, `mechanism-catheter-robot`, `control-master-slave-teleoperation`
+
+**Prior art notes:**
+
+> Corindus CorPath GRX (FDA 2012/2016, Siemens Healthineers 2019) is the canonical robotic-PCI commercial platform. 13-year-deep public-disclosure prior art. Together with Hansen Medical Sensei (round-33 entry above), establishes the intravascular surgical-robot prior-art chain.
+
+**Sources:**
+
+1. Corindus / Siemens Healthineers corporate history.
+2. FDA 510(k) CorPath 200 clearance 2012; CorPath GRX 2016.
 
 ---
 
@@ -154,4 +194,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*

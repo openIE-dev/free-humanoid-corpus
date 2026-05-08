@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-research-cluster`
 
-**36 corpus entries disclose this subsystem.**
+**37 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -284,6 +284,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Khalifa University of Science and Technology (Abu Dhabi, UAE; founded 2007; merged with Petroleum Institute + Masdar Institute 2017). Robotics + AI research at Center for Autonomous Robotic Systems (KUCARS). UAE's flagship research university.
 - **ip status**: open-permissive
 - **prior art notes**: Khalifa University is UAE's flagship research university and the second Gulf-region robotics anchor (alongside KAUST Saudi Arabia, round-23). **First entry in the corpus from UAE** — closes a Gulf gap.
+
+## OpenSim biomechanics framework (2007-11)
+
+- **id**: `opensim-delp-stanford-2007`
+- **corpus**: academic
+- **creator**: Stanford University; Scott Delp + colleagues
+- **disclosure**: Delp, S. L., Anderson, F. C., Arnold, A. S., Loan, P., Habib, A., John, C. T., Guendelman, E., Thelen, D. G. 'OpenSim: Open-Source Software to Create and Analyze Dynamic Simulations of Movement'. IEEE Transactions on Biomedical Engineering 54(11) 2007. Stanford University Neuromuscular Biomechanics Laboratory.
+- **ip status**: open-permissive
+- **prior art notes**: OpenSim (Delp et al. Stanford IEEE T-BME 2007) is the dominant academic biomechanics simulation framework. 18-year-deep open-permissive prior art. **The framework underlying humanoid-robot kinematic design** — humanoid arms + legs are designed to approximate human ranges of motion documented in OpenSim models. Direct shielding for any commercial humanoid claim that derives kinematic specifications from human-anatomical models.
 
 ## KAUST Saudi Arabia AI + robotics (2009-09)
 

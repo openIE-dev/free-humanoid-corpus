@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-surgical-robot`
 
-**2 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989-01
 
@@ -32,3 +32,21 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Taylor, R. H., Mittelstadt, B. D., Paul, H. A., Hanson, W., Kazanzides, P., Zuhars, J. F., Williamson, B., Musits, B. L., Glassman, E., Bargar, W. L. 'An Image-Directed Robotic System for Precise Orthopaedic Surgery'. IEEE Transactions on Robotics and Automation 10(3) 1994. ROBODOC commercial deployment 1992 (European CE mark) + 2008 (FDA 510(k) clearance K081570). Integrated Surgical Systems (US commercial spinout); now marketed as TSolution One by THINK Surgical.
 - **ip status**: trade-secret
 - **prior art notes**: ROBODOC is the canonical first orthopedic surgical robot (Taylor JHU + IBM + Integrated Surgical Systems, 1992). 33-year-deep public-disclosure prior art. **8-year-predating Intuitive Surgical da Vinci** (FDA 2000, round-16). Direct architectural anchor of orthopedic surgical robotics: subsequent CASPAR (1990s), MAKO RIO (Stryker 2000s+), TSolution One (current commercial). Together with Salisbury Stanford-JPL hand 1982 + Taylor JHU 1989+ academic program (round-20 taylor-jhu-surgical-robotics-1990s aggregator), establishes the **academic-commercial surgical-robot chain spanning 43 years 1982-2025**.
+
+## Hansen Medical Sensei catheter robotic system (2007-08)
+
+- **id**: `sensei-hansen-medical-2009`
+- **corpus**: private
+- **creator**: Hansen Medical (Mountain View, CA); now Auris Health / Johnson & Johnson
+- **disclosure**: Hansen Medical, Inc. (Mountain View, CA). Sensei catheter robotic system FDA cleared August 2007. Subsequent: Magellan vascular system. Acquired by Auris Health 2016 → Johnson & Johnson 2019.
+- **ip status**: trade-secret
+- **prior art notes**: Hansen Medical Sensei (FDA cleared August 2007) is the canonical robotic catheter system for cardiac electrophysiology. 18-year-deep public-disclosure prior art. Distinct architectural branch from Intuitive da Vinci by application + kinematics. The Hansen→Auris→J&J lineage is the major intravascular robotic-surgery commercial platform.
+
+## CorPath GRX (Corindus / Siemens Healthineers) (2012-07)
+
+- **id**: `corpath-grx-corindus-2014`
+- **corpus**: private
+- **creator**: Corindus Vascular Robotics (Waltham, MA); acquired by Siemens Healthineers 2019
+- **disclosure**: Corindus Vascular Robotics, Inc. CorPath 200 FDA cleared July 2012; CorPath GRX FDA cleared October 2016. Acquired by Siemens Healthineers 2019.
+- **ip status**: trade-secret
+- **prior art notes**: Corindus CorPath GRX (FDA 2012/2016, Siemens Healthineers 2019) is the canonical robotic-PCI commercial platform. 13-year-deep public-disclosure prior art. Together with Hansen Medical Sensei (round-33 entry above), establishes the intravascular surgical-robot prior-art chain.

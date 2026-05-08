@@ -382,6 +382,14 @@
       "descendants": []
     },
     {
+      "id": "a-star-hart-nilsson-raphael-1968",
+      "name": "A* search algorithm",
+      "year": "1968",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ultron-marvel",
       "name": "Ultron",
       "year": "1968",
@@ -1067,6 +1075,14 @@
       "descendants": []
     },
     {
+      "id": "mpc-garcia-prett-morari-1989",
+      "name": "Model Predictive Control (MPC)",
+      "year": "1989",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mcgeer-passive-walker",
       "name": "McGeer Passive Dynamic Walker",
       "year": "1990",
@@ -1114,6 +1130,14 @@
       "descendants": [
         "honda-e5"
       ]
+    },
+    {
+      "id": "mems-imu-foundational-1990s",
+      "name": "MEMS IMU foundational lineage (gyroscope + accelerometer)",
+      "year": "1991",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "honda-e5",
@@ -1280,6 +1304,14 @@
       ]
     },
     {
+      "id": "svm-cortes-vapnik-1995",
+      "name": "Support Vector Machines (SVM)",
+      "year": "1995",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "evangelion",
       "name": "Evangelion (EVA Unit-01)",
       "year": "1995",
@@ -1365,6 +1397,16 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "rrt-lavalle-1998",
+      "name": "Rapidly-exploring Random Tree (RRT)",
+      "year": "1998",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "moveit-sucan-icra-2014"
+      ]
     },
     {
       "id": "sony-aibo",
@@ -1722,6 +1764,14 @@
       ]
     },
     {
+      "id": "random-forest-breiman-2001",
+      "name": "Random Forests",
+      "year": "2001",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "halo-mjolnir-master-chief",
       "name": "MJOLNIR Powered Assault Armor / Master Chief",
       "year": "2001",
@@ -1818,6 +1868,14 @@
         "sanctuary-phoenix",
         "sanctuary-phoenix-gen6"
       ]
+    },
+    {
+      "id": "anybody-rasmussen-2003",
+      "name": "AnyBody Modeling System",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "triton-xlx-rov",
@@ -2126,10 +2184,26 @@
       "descendants": []
     },
     {
+      "id": "sensei-hansen-medical-2009",
+      "name": "Hansen Medical Sensei catheter robotic system",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bioshock-big-daddy",
       "name": "Big Daddy (Bouncer / Rosie)",
       "year": "2007",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "opensim-delp-stanford-2007",
+      "name": "OpenSim biomechanics framework",
+      "year": "2007",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -2349,6 +2423,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "moveit-sucan-icra-2014",
         "ros-2-2017"
       ]
     },
@@ -2495,6 +2570,16 @@
       "descendants": []
     },
     {
+      "id": "kinect-microsoft-2010",
+      "name": "Microsoft Kinect",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "intel-realsense-2015"
+      ]
+    },
+    {
       "id": "rewalk-goffer-2011",
       "name": "ReWalk medical exoskeleton",
       "year": "2011",
@@ -2612,6 +2697,14 @@
       "descendants": []
     },
     {
+      "id": "corpath-grx-corindus-2014",
+      "name": "CorPath GRX (Corindus / Siemens Healthineers)",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mordatch-cio-2012",
       "name": "Contact-Invariant Optimization (Mordatch CIO)",
       "year": "2012",
@@ -2722,6 +2815,17 @@
       "year": "2013",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "moveit-sucan-icra-2014",
+      "name": "MoveIt! motion-planning framework",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [
+        "ros-quigley-2009",
+        "rrt-lavalle-1998"
+      ],
       "descendants": []
     },
     {
@@ -3036,6 +3140,16 @@
       "year": "2014",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "intel-realsense-2015",
+      "name": "Intel RealSense depth camera lineage",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [
+        "kinect-microsoft-2010"
+      ],
       "descendants": []
     },
     {
@@ -3390,6 +3504,14 @@
       "name": "Neuralink",
       "year": "2017",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ocs2-eth-2017",
+      "name": "OCS2 (Optimal Control for Switched Systems)",
+      "year": "2017",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -4304,7 +4426,8 @@
         "shadow-hand"
       ],
       "descendants": [
-        "sanctuary-phoenix"
+        "sanctuary-phoenix",
+        "sanctuary-phoenix-carbon-2024"
       ]
     },
     {
@@ -5133,6 +5256,16 @@
       "descendants": []
     },
     {
+      "id": "sanctuary-phoenix-carbon-2024",
+      "name": "Sanctuary AI Phoenix Carbon (Gen 7)",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "sanctuary-phoenix-gen6"
+      ],
+      "descendants": []
+    },
+    {
       "id": "neura-4ne1",
       "name": "Neura 4NE-1",
       "year": "2024",
@@ -5348,6 +5481,14 @@
       "ancestors": [
         "figure-01"
       ],
+      "descendants": []
+    },
+    {
+      "id": "galaxea-g1-2024",
+      "name": "Galaxea G1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {

@@ -1,7 +1,7 @@
 ---
 title: "mechanism-bipedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 105
+nav_order: 110
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
-**Entries:** 150 (118 commons-grade, 32 draft)  
+**Entries:** 151 (118 commons-grade, 33 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2026-04
 
@@ -2717,6 +2717,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-04 — Sanctuary AI Phoenix Carbon (Gen 7) *(draft)*
+
+- **id:** `sanctuary-phoenix-carbon-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Sanctuary AI (Vancouver, Canada)
+- **disclosure citation:** Sanctuary AI (Vancouver, Canada). Phoenix Generation 7 reveal April 2024 via sanctuary.ai. Successor to Phoenix Gen 6 (corpus entry sanctuary-phoenix-gen6) + original Phoenix (corpus entry sanctuary-phoenix). Carbon-fiber chassis variant.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> Sanctuary AI Phoenix Carbon / Gen 7 is the latest in the Sanctuary humanoid lineage (Vancouver, 2024+). 1.5-year-deep public-disclosure prior art. Successor to Phoenix Gen 6 (corpus). Brings Sanctuary Phoenix family to 3 corpus entries spanning the lineage.
+
+**Sources:**
+
+1. Sanctuary AI corporate site (sanctuary.ai).
+
+---
+
 ### 2024-05 — Unitree G1 *(draft)*
 
 - **id:** `unitree-g1`
@@ -3095,4 +3114,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*

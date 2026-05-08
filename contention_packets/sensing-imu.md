@@ -1,7 +1,7 @@
 ---
 title: "sensing-imu"
 parent: "Invalidity Contentions"
-nav_order: 147
+nav_order: 154
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `sensing-imu`  
-**Entries:** 76 (57 commons-grade, 19 draft)  
+**Entries:** 77 (58 commons-grade, 19 draft)  
 **Earliest disclosure:** 1989  
 **Most recent disclosure:** 2025-10
 
@@ -94,6 +94,28 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Hirose, M. and Ogawa, K. Phil. Trans. R. Soc. A 365, 11–19 (2007).
+
+---
+
+### 1991-01 — MEMS IMU foundational lineage (gyroscope + accelerometer)
+
+- **id:** `mems-imu-foundational-1990s`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Multi-vendor MEMS lineage; Analog Devices (US) + Bosch (Germany) + InvenSense (US, acquired by TDK 2017) + ST Microelectronics (Switzerland/Italy)
+- **disclosure citation:** Analog Devices ADXL50 first commercial MEMS accelerometer 1991. Bosch MEMS gyroscope SMG020 1995+. **Foundational MEMS IMU lineage**: Analog Devices ADXL series + InvenSense MPU-6050 (2010, founded 2003) + ST Microelectronics LSM-series + Bosch BMI/BMM-series. The MEMS IMU revolution drove the smartphone + drone + robot consumer-IMU era.
+- **disclosed subsystems:** `sensing-imu`, `sensing-mems`, `sensing-accelerometer`, `sensing-gyroscope`
+
+**Prior art notes:**
+
+> The MEMS IMU foundational lineage (Analog Devices 1991 + Bosch 1995 + InvenSense MPU-6050 2010 + modern multi-vendor 9-axis IMU) is the canonical robotic-grade IMU prior art. 34-year-deep public-disclosure prior art. The IMU stack running in essentially every robot + drone + smartphone. Direct shielding for any commercial humanoid claim using IMU sensing.
+
+**Sources:**
+
+1. Analog Devices ADXL50 product history (analog.com).
+2. Bosch Sensortec MEMS history.
+3. InvenSense MPU-6050 launch 2010.
+4. Wikipedia 'Microelectromechanical_systems'.
 
 ---
 
@@ -1582,4 +1604,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*

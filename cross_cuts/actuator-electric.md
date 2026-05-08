@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**22 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1979-01
 
@@ -159,6 +159,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Atlas Electric is Boston Dynamics' canonical 2024+ commercial all-electric humanoid (succeeding the 11-year hydraulic Atlas lineage). 1.5-year-deep public-disclosure prior art for: super-human range-of-motion humanoid joint design, all-electric humanoid form factor at compact mass. Public capability surface (viral demo videos) is fully covered by deeper academic prior art chains: HRP-2/HRP-4/HRP-5P (full-size humanoid lineage); Berkeley Humanoid + ToddlerBot (round-11, all-electric humanoid); the Hwangbo ANYmal sim-to-real lineage for the RL training substrate. **Specific super-human-ROM joint kinematics** are the architectural distinction; corpus has Salisbury / DLR / Pisa-IIT joint mechanism prior art back to 1982 for kinematic ranges that exceed standard anthropomorphic humanoids.
 
+## Sanctuary AI Phoenix Carbon (Gen 7) (2024-04)
+
+- **id**: `sanctuary-phoenix-carbon-2024`
+- **corpus**: private
+- **creator**: Sanctuary AI (Vancouver, Canada)
+- **disclosure**: Sanctuary AI (Vancouver, Canada). Phoenix Generation 7 reveal April 2024 via sanctuary.ai. Successor to Phoenix Gen 6 (corpus entry sanctuary-phoenix-gen6) + original Phoenix (corpus entry sanctuary-phoenix). Carbon-fiber chassis variant.
+- **ip status**: trade-secret
+- **prior art notes**: Sanctuary AI Phoenix Carbon / Gen 7 is the latest in the Sanctuary humanoid lineage (Vancouver, 2024+). 1.5-year-deep public-disclosure prior art. Successor to Phoenix Gen 6 (corpus). Brings Sanctuary Phoenix family to 3 corpus entries spanning the lineage.
+
 ## Galbot (2024-09)
 
 - **id**: `galbot-galaxy-robotics-2024`
@@ -167,6 +176,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Galaxy Robotics (Beijing, China). Galbot platform reveal 2024 via galaxy-robotics.com / WAIC 2024 demonstration. Wheeled humanoid with telescoping torso lift + dual 7-DoF arms. ~CNY 500k initial commercial price.
 - **ip status**: trade-secret
 - **prior art notes**: Galbot is the canonical 2024 Chinese wheeled-humanoid commercial platform (Galaxy Robotics). 1.5-year-deep public-disclosure prior art for: telescoping-torso wheeled humanoid commercial deployment, dual-arm wheeled mobile manipulator at the educational-to-commercial price tier. Architectural sibling of Hello Robot Stretch (round-17 entry) but with humanoid-form dual-arm + telescoping-torso vs. Stretch's single-arm + mast. Direct shielding for any commercial humanoid claim on wheeled-humanoid (non-bipedal) form factor with telescoping vertical adjustment. **Directly relevant to free-humanoid-wheeled** — Galbot is the closest commercial product to that morphology.
+
+## Galaxea G1 (2024-09)
+
+- **id**: `galaxea-g1-2024`
+- **corpus**: private
+- **creator**: Galaxea AI (Beijing, China)
+- **disclosure**: Galaxea AI (Beijing, China). G1 commercial humanoid product reveal September 2024 via galaxea.ai. Wheel-based mobile humanoid; ~165 cm tall.
+- **ip status**: trade-secret
+- **prior art notes**: Galaxea G1 (Galaxea AI Beijing 2024+) is one of the canonical Chinese wheeled-humanoid commercial platforms. ~1.5-year-deep public-disclosure prior art. Together with Galbot (round-22) and Promobot (round-22), establishes the wheeled-humanoid commercial-deployment landscape.
 
 ## Booster K1 (2025-03)
 

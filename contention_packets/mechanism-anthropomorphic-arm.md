@@ -1,7 +1,7 @@
 ---
 title: "mechanism-anthropomorphic-arm"
 parent: "Invalidity Contentions"
-nav_order: 103
+nav_order: 108
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-08  
 **Cross-cut tag:** `mechanism-anthropomorphic-arm`  
-**Entries:** 18 (15 commons-grade, 3 draft)  
+**Entries:** 20 (15 commons-grade, 5 draft)  
 **Earliest disclosure:** 1998-01  
 **Most recent disclosure:** 2025-02
 
@@ -381,6 +381,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-04 — Sanctuary AI Phoenix Carbon (Gen 7) *(draft)*
+
+- **id:** `sanctuary-phoenix-carbon-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Sanctuary AI (Vancouver, Canada)
+- **disclosure citation:** Sanctuary AI (Vancouver, Canada). Phoenix Generation 7 reveal April 2024 via sanctuary.ai. Successor to Phoenix Gen 6 (corpus entry sanctuary-phoenix-gen6) + original Phoenix (corpus entry sanctuary-phoenix). Carbon-fiber chassis variant.
+- **disclosed subsystems:** `mechanism-bipedal-locomotion`, `mechanism-anthropomorphic-arm`, `mechanism-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> Sanctuary AI Phoenix Carbon / Gen 7 is the latest in the Sanctuary humanoid lineage (Vancouver, 2024+). 1.5-year-deep public-disclosure prior art. Successor to Phoenix Gen 6 (corpus). Brings Sanctuary Phoenix family to 3 corpus entries spanning the lineage.
+
+**Sources:**
+
+1. Sanctuary AI corporate site (sanctuary.ai).
+
+---
+
 ### 2024-09 — Galbot *(draft)*
 
 - **id:** `galbot-galaxy-robotics-2024`
@@ -399,6 +418,25 @@ cite, copy, or redistribute these contentions.
 1. Galaxy Robotics corporate site (galaxy-robotics.com).
 2. WAIC 2024 demonstration coverage.
 3. Humanoid Press product database.
+
+---
+
+### 2024-09 — Galaxea G1 *(draft)*
+
+- **id:** `galaxea-g1-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Galaxea AI (Beijing, China)
+- **disclosure citation:** Galaxea AI (Beijing, China). G1 commercial humanoid product reveal September 2024 via galaxea.ai. Wheel-based mobile humanoid; ~165 cm tall.
+- **disclosed subsystems:** `mechanism-mobile-base`, `mechanism-anthropomorphic-arm`, `actuator-electric`
+
+**Prior art notes:**
+
+> Galaxea G1 (Galaxea AI Beijing 2024+) is one of the canonical Chinese wheeled-humanoid commercial platforms. ~1.5-year-deep public-disclosure prior art. Together with Galbot (round-22) and Promobot (round-22), establishes the wheeled-humanoid commercial-deployment landscape.
+
+**Sources:**
+
+1. Galaxea AI corporate site (galaxea.ai).
 
 ---
 
@@ -454,4 +492,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `35dc1dd`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `94b7a2a`.*

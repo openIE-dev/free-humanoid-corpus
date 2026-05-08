@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-mobile-base`
 
-**7 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2000-01
 
@@ -77,3 +77,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Galaxy Robotics (Beijing, China). Galbot platform reveal 2024 via galaxy-robotics.com / WAIC 2024 demonstration. Wheeled humanoid with telescoping torso lift + dual 7-DoF arms. ~CNY 500k initial commercial price.
 - **ip status**: trade-secret
 - **prior art notes**: Galbot is the canonical 2024 Chinese wheeled-humanoid commercial platform (Galaxy Robotics). 1.5-year-deep public-disclosure prior art for: telescoping-torso wheeled humanoid commercial deployment, dual-arm wheeled mobile manipulator at the educational-to-commercial price tier. Architectural sibling of Hello Robot Stretch (round-17 entry) but with humanoid-form dual-arm + telescoping-torso vs. Stretch's single-arm + mast. Direct shielding for any commercial humanoid claim on wheeled-humanoid (non-bipedal) form factor with telescoping vertical adjustment. **Directly relevant to free-humanoid-wheeled** — Galbot is the closest commercial product to that morphology.
+
+## Galaxea G1 (2024-09)
+
+- **id**: `galaxea-g1-2024`
+- **corpus**: private
+- **creator**: Galaxea AI (Beijing, China)
+- **disclosure**: Galaxea AI (Beijing, China). G1 commercial humanoid product reveal September 2024 via galaxea.ai. Wheel-based mobile humanoid; ~165 cm tall.
+- **ip status**: trade-secret
+- **prior art notes**: Galaxea G1 (Galaxea AI Beijing 2024+) is one of the canonical Chinese wheeled-humanoid commercial platforms. ~1.5-year-deep public-disclosure prior art. Together with Galbot (round-22) and Promobot (round-22), establishes the wheeled-humanoid commercial-deployment landscape.
