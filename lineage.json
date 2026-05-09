@@ -437,6 +437,14 @@
       "descendants": []
     },
     {
+      "id": "surveyor-scoop-arm-1966-1968",
+      "name": "Surveyor 3-7 surface scoop arm (first off-world manipulator)",
+      "year": "1966",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "cybermen",
       "name": "Cybermen",
       "year": "1966",
@@ -552,6 +560,22 @@
       "name": "Doraemon",
       "year": "1969",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "luna-16-sample-return-1970",
+      "name": "Luna 16 (first robotic sample return from another celestial body)",
+      "year": "1970",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "lunokhod-1-soviet-1970",
+      "name": "Lunokhod 1 + 2 (first extraterrestrial rovers)",
+      "year": "1970",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -845,6 +869,17 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "canadarm-srms-1981",
+      "name": "Canadarm (Shuttle Remote Manipulator System; foundational space arm)",
+      "year": "1981",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "canadarm2-dextre-csa-2001",
+        "esa-european-robotic-arm-2021"
+      ]
     },
     {
       "id": "heartbeeps-val-aqua",
@@ -1496,6 +1531,14 @@
       ]
     },
     {
+      "id": "general-atomics-predator-reaper-1995",
+      "name": "General Atomics MQ-1 Predator + MQ-9 Reaper",
+      "year": "1994",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "macross-plus-sharon-apple",
       "name": "Sharon Apple",
       "year": "1994",
@@ -1704,6 +1747,14 @@
       ]
     },
     {
+      "id": "nasa-sojourner-pathfinder-1997",
+      "name": "Sojourner (Mars Pathfinder; first successful Mars rover)",
+      "year": "1997",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "honda-p3",
       "name": "Honda P3",
       "year": "1997",
@@ -1749,6 +1800,14 @@
       "name": "KIT ARMAR humanoid lineage",
       "year": "1998",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "northrop-grumman-rq4-global-hawk-1998",
+      "name": "Northrop Grumman RQ-4 Global Hawk (HALE ISR)",
+      "year": "1998",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -2148,6 +2207,16 @@
       ]
     },
     {
+      "id": "canadarm2-dextre-csa-2001",
+      "name": "Canadarm2 (SSRMS) + Dextre (SPDM)",
+      "year": "2001",
+      "corpus": "academic",
+      "ancestors": [
+        "canadarm-srms-1981"
+      ],
+      "descendants": []
+    },
+    {
       "id": "pratt-virtual-model-control",
       "name": "Pratt Virtual Model Control",
       "year": "2001",
@@ -2317,6 +2386,14 @@
       ]
     },
     {
+      "id": "aerovironment-rq-11-raven-2003",
+      "name": "AeroVironment RQ-11 Raven (most-produced military UAV)",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "anybody-rasmussen-2003",
       "name": "AnyBody Modeling System",
       "year": "2003",
@@ -2335,6 +2412,14 @@
       "descendants": []
     },
     {
+      "id": "stanford-autonomous-helicopter-ng-2003",
+      "name": "Stanford Autonomous Helicopter (Ng / Abbeel)",
+      "year": "2003",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "triton-xlx-rov",
       "name": "Triton XLX work-class ROV",
       "year": "2003",
@@ -2347,6 +2432,22 @@
       "name": "Sony QRIO",
       "year": "2003",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nasa-spheres-astrobee-2003",
+      "name": "SPHERES + Astrobee (ISS free-flying robots)",
+      "year": "2003",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nasa-mer-spirit-opportunity-2003",
+      "name": "Spirit + Opportunity (Mars Exploration Rovers)",
+      "year": "2003",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -2690,6 +2791,14 @@
       ]
     },
     {
+      "id": "asctec-research-quadrotors-2007",
+      "name": "AscTec Pelican / Hummingbird / Firefly research quadrotors",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "biom-empower-herr-mit-2007",
       "name": "BiOM / iWalk / BionX → Empower Ankle (Hugh Herr)",
       "year": "2007",
@@ -2866,6 +2975,22 @@
       "descendants": [
         "pr2"
       ]
+    },
+    {
+      "id": "eth-flying-machine-arena-dandrea-2008",
+      "name": "ETH Flying Machine Arena (D'Andrea)",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pd-100-black-hornet-2008",
+      "name": "PD-100 Black Hornet Nano (16-gram pocket helicopter)",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "robotiq-adaptive-grippers-2008",
@@ -3385,8 +3510,40 @@
       "descendants": []
     },
     {
+      "id": "aerovironment-switchblade-2011",
+      "name": "AeroVironment Switchblade (loitering munition)",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "crazyflie-bitcraze-2011",
+      "name": "Crazyflie / Bitcraze (open-source nano-quadcopter)",
+      "year": "2011",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "grasp-lab-nano-swarm-kumar-2011",
+      "name": "GRASP Lab Nano Quadrotor Swarm (Kumar UPenn)",
+      "year": "2011",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mazor-renaissance-medtronic-2011",
       "name": "Mazor Renaissance / Stealth Spine guidance",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "northrop-grumman-x-47b-2011",
+      "name": "Northrop Grumman X-47B (carrier-based stealth UCAV)",
       "year": "2011",
       "corpus": "private",
       "ancestors": [],
@@ -3435,6 +3592,14 @@
       "name": "Skolkovo Institute of Science and Technology (Skoltech) robotics",
       "year": "2011",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "volocopter-vc1-2011",
+      "name": "Volocopter VC1 / VoloCity (first crewed multicopter flight)",
+      "year": "2011",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -3569,6 +3734,14 @@
     {
       "id": "mordatch-cio-2012",
       "name": "Contact-Invariant Optimization (Mordatch CIO)",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nasa-curiosity-msl-2012",
+      "name": "Curiosity (Mars Science Laboratory; first nuclear Mars rover)",
       "year": "2012",
       "corpus": "academic",
       "ancestors": [],
@@ -3758,6 +3931,14 @@
       "descendants": []
     },
     {
+      "id": "harvard-robobee-2013",
+      "name": "Harvard RoboBee (insect-scale flapping-wing flight)",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "iron-man-mark-xlii-distributed-2013",
       "name": "Iron Man Mark XLII (prehensile distributed-actuation armor)",
       "year": "2013",
@@ -3811,6 +3992,14 @@
       "descendants": []
     },
     {
+      "id": "kirobo-toyota-jaxa-2013",
+      "name": "Kirobo (first humanoid robot in space)",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "saildrone-explorer-2013",
       "name": "Saildrone Explorer / Voyager / Surveyor (wind+solar USV)",
       "year": "2013",
@@ -3833,6 +4022,14 @@
     {
       "id": "cheetah-cub-epfl",
       "name": "Cheetah-cub",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cnsa-change3-yutu-yutu2-2013",
+      "name": "Yutu / Yutu-2 (Chang'e-3 + Chang'e-4 lunar rovers)",
       "year": "2013",
       "corpus": "academic",
       "ancestors": [],
@@ -4044,6 +4241,14 @@
       "descendants": []
     },
     {
+      "id": "baykar-bayraktar-tb2-2014",
+      "name": "Baykar Bayraktar TB2 (Turkish combat-proven MALE UAV)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "bluerov2-blue-robotics-2016",
       "name": "Blue Robotics BlueROV2 (affordable open-hardware ROV)",
       "year": "2014",
@@ -4092,6 +4297,14 @@
       "descendants": []
     },
     {
+      "id": "zipline-medical-drone-2014",
+      "name": "Zipline (most-deployed medical drone delivery)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ex-machina-ava",
       "name": "Ava (Ex Machina)",
       "year": "2014",
@@ -4100,6 +4313,14 @@
       "descendants": [
         "openai-rt-2"
       ]
+    },
+    {
+      "id": "esa-philae-comet-2014",
+      "name": "Philae (first soft landing on a comet)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "pisa-iit-softhand",
@@ -4147,6 +4368,14 @@
       "descendants": []
     },
     {
+      "id": "jaxa-hayabusa2-minerva-2014",
+      "name": "Hayabusa-2 + MINERVA-II (first asteroid hopping rovers)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "talos-principle-robots",
       "name": "Talos Principle Robots",
       "year": "2014",
@@ -4162,6 +4391,14 @@
       "ancestors": [
         "kinect-microsoft-2010"
       ],
+      "descendants": []
+    },
+    {
+      "id": "joby-aviation-s4-2009",
+      "name": "Joby Aviation S4 (5-seat tiltrotor eVTOL)",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -4428,6 +4665,14 @@
       ]
     },
     {
+      "id": "ehang-184-2016",
+      "name": "EHang 184 / 216 (first autonomous passenger drone)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "inovance-shenzhen-2003",
       "name": "Inovance Technology industrial robots ('Little Huawei')",
       "year": "2016",
@@ -4526,6 +4771,14 @@
       "descendants": []
     },
     {
+      "id": "nasa-osiris-rex-2016",
+      "name": "OSIRIS-REx (Bennu sample return; first US asteroid sample)",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "schunk-coact-jl1-2016",
       "name": "SCHUNK Co-act JL1 collaborative gripper",
       "year": "2016",
@@ -4533,6 +4786,14 @@
       "ancestors": [
         "schunk-svh-german-2013"
       ],
+      "descendants": []
+    },
+    {
+      "id": "darpa-perdix-swarm-2016",
+      "name": "DARPA Perdix Swarm (103-drone test)",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -5154,6 +5415,14 @@
       "descendants": []
     },
     {
+      "id": "cimon-airbus-ibm-dlr-2018",
+      "name": "CIMON (first AI-powered free-floating astronaut assistant)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "dynaslam-bescos-2018",
       "name": "DynaSLAM",
       "year": "2018",
@@ -5372,6 +5641,14 @@
       "descendants": []
     },
     {
+      "id": "kratos-xq-58-valkyrie-2019",
+      "name": "Kratos XQ-58 Valkyrie (attritable Loyal Wingman)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "fair-habitat-sim-2019",
       "name": "Habitat-Sim (Facebook AI Research)",
       "year": "2019",
@@ -5440,6 +5717,14 @@
       "descendants": []
     },
     {
+      "id": "roscosmos-fedor-2019",
+      "name": "Skybot F-850 / FEDOR (Russian humanoid in space)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "synchron-stentrode-endovascular-bci-2019",
       "name": "Synchron Stentrode endovascular brain-computer interface",
       "year": "2019",
@@ -5499,6 +5784,14 @@
         "robocasa-nasiriany-2024",
         "robomimic-mandlekar-2021"
       ]
+    },
+    {
+      "id": "mev-1-northrop-orbital-servicing-2019",
+      "name": "MEV-1 / MEV-2 (first commercial satellite-life-extension servicer)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "persona-5-sophia",
@@ -5709,6 +6002,22 @@
       "descendants": []
     },
     {
+      "id": "boeing-mq-28-ghost-bat-2021",
+      "name": "Boeing MQ-28 Ghost Bat (Loyal Wingman / CCA)",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nasa-perseverance-ingenuity-2021",
+      "name": "Perseverance + Ingenuity (Mars 2020; first powered flight off Earth)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "radford-clip-2021",
       "name": "CLIP (Contrastive Language-Image Pretraining)",
       "year": "2021",
@@ -5720,6 +6029,14 @@
         "openvla",
         "palm-e"
       ]
+    },
+    {
+      "id": "astroscale-elsa-d-2021",
+      "name": "Astroscale ELSA-d (first commercial debris-removal demo)",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "beihang-hadal-soft-robot-2021",
@@ -5776,6 +6093,14 @@
       ]
     },
     {
+      "id": "cnsa-tianwen1-zhurong-2021",
+      "name": "Zhurong (Tianwen-1; first Chinese Mars rover)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "decision-transformer-chen-2021",
       "name": "Decision Transformer",
       "year": "2021",
@@ -5804,6 +6129,16 @@
       "year": "2021",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "esa-european-robotic-arm-2021",
+      "name": "European Robotic Arm (ERA; ESA Russian segment ISS arm)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [
+        "canadarm-srms-1981"
+      ],
       "descendants": []
     },
     {
@@ -5877,6 +6212,14 @@
       "ancestors": [
         "csiro-data61-australia-robotics"
       ],
+      "descendants": []
+    },
+    {
+      "id": "hesa-shahed-136-2021",
+      "name": "HESA Shahed-136 / Geran-2 (one-way attack drone)",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -6479,6 +6822,14 @@
       "descendants": []
     },
     {
+      "id": "isro-chandrayaan3-pragyan-2023",
+      "name": "Pragyan (Chandrayaan-3; first lunar south pole rover)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "kerbl-3d-gaussian-splatting-siggraph-2023",
       "name": "3D Gaussian Splatting (Kerbl et al.)",
       "year": "2023",
@@ -6627,6 +6978,14 @@
       "descendants": []
     },
     {
+      "id": "anduril-roadrunner-2023",
+      "name": "Anduril Roadrunner (counter-UAS interceptor)",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "dust3r-naver-cvpr-2024",
       "name": "DUSt3R",
       "year": "2023",
@@ -6717,6 +7076,14 @@
       "name": "Fourier GR1",
       "year": "2024",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "jaxa-slim-lev-2024",
+      "name": "JAXA SLIM + LEV-1/LEV-2 (pinpoint lunar landing)",
+      "year": "2024",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -6887,6 +7254,14 @@
       "ancestors": [
         "sanctuary-phoenix-gen6"
       ],
+      "descendants": []
+    },
+    {
+      "id": "cnsa-change6-far-side-2024",
+      "name": "Chang'e-6 (first lunar far-side sample return)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -7324,6 +7699,14 @@
     {
       "id": "booster-k1-2025",
       "name": "Booster K1",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "firefly-blue-ghost-2025",
+      "name": "Firefly Aerospace Blue Ghost (first fully successful commercial lunar landing)",
       "year": "2025",
       "corpus": "private",
       "ancestors": [],

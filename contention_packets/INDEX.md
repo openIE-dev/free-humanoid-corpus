@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-09  
-**Packets:** 233  
-**Corpus revision:** `2b483e9`
+**Packets:** 247  
+**Corpus revision:** `88b8beb`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -90,7 +90,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-grasp-planning`](control-grasp-planning.md) | 6 | 5 | 1 | 1989-06 | 2023-01 |
 | [`control-grasp-taxonomy`](control-grasp-taxonomy.md) | 4 | 4 | 0 | 1919-01 | 1989-06 |
 | [`control-haptic-rendering`](control-haptic-rendering.md) | 4 | 3 | 1 | 1994-09 | 2023-09 |
-| [`control-imitation-learning`](control-imitation-learning.md) | 24 | 23 | 1 | 2018-04 | 2025-11 |
+| [`control-imitation-learning`](control-imitation-learning.md) | 25 | 24 | 1 | 2003-01 | 2025-11 |
 | [`control-impedance-control`](control-impedance-control.md) | 2 | 2 | 0 | 1994-09 | 2008-12 |
 | [`control-implicit-scene-representation`](control-implicit-scene-representation.md) | 2 | 2 | 0 | 2020-03 | 2023-02 |
 | [`control-inverse-kinematics`](control-inverse-kinematics.md) | 2 | 2 | 0 | 1955-06 | 1969-06 |
@@ -121,6 +121,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-novel-view-synthesis`](control-novel-view-synthesis.md) | 6 | 5 | 1 | 2020-03 | 2025-04 |
 | [`control-object-detection`](control-object-detection.md) | 2 | 2 | 0 | 2015-06 | 2015-06 |
 | [`control-open-loop-gait`](control-open-loop-gait.md) | 2 | 2 | 0 | 2013-05 | 2026-01 |
+| [`control-open-source`](control-open-source.md) | 2 | 2 | 0 | 2011-01 | 2014-08 |
 | [`control-open-vocabulary`](control-open-vocabulary.md) | 4 | 3 | 1 | 2023-03 | 2026-04 |
 | [`control-operational-space`](control-operational-space.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
 | [`control-optimal-control`](control-optimal-control.md) | 3 | 3 | 0 | 1960-03 | 2017-04 |
@@ -147,6 +148,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-station-keeping`](control-station-keeping.md) | 6 | 6 | 0 | 1964-06 | 2022-07 |
 | [`control-stored-program`](control-stored-program.md) | 2 | 2 | 0 | 1954-12 | 1961-01 |
 | [`control-supervised-autonomy`](control-supervised-autonomy.md) | 3 | 2 | 1 | 2015-06 | 2020-01 |
+| [`control-swarm`](control-swarm.md) | 2 | 2 | 0 | 2011-01 | 2016-10 |
 | [`control-teleoperation`](control-teleoperation.md) | 33 | 28 | 5 | 1956-07 | 2024-07 |
 | [`control-tethered`](control-tethered.md) | 4 | 4 | 0 | 1965-01 | 2003-01 |
 | [`control-tethered-teleoperation`](control-tethered-teleoperation.md) | 5 | 5 | 0 | 1989-04 | 2008-05 |
@@ -171,6 +173,9 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`exoskeleton-programmable-matter`](exoskeleton-programmable-matter.md) | 2 | 2 | 0 | 2010-04 | 2018-04 |
 | [`exoskeleton-upper-limb`](exoskeleton-upper-limb.md) | 4 | 4 | 0 | 2012-02 | 2018-01 |
 | [`hov`](hov.md) | 8 | 8 | 0 | 1984-12 | 2020-11 |
+| [`lander-asteroid`](lander-asteroid.md) | 2 | 2 | 0 | 2014-11 | 2016-09 |
+| [`lander-lunar`](lander-lunar.md) | 2 | 2 | 0 | 2024-01 | 2025-03 |
+| [`lander-sample-return`](lander-sample-return.md) | 2 | 2 | 0 | 1970-09 | 2024-05 |
 | [`manipulator-arm`](manipulator-arm.md) | 35 | 35 | 0 | 1954-12 | 2021-09 |
 | [`manipulator-cobot`](manipulator-cobot.md) | 12 | 12 | 0 | 1991-01 | 2017-09 |
 | [`manipulator-delta`](manipulator-delta.md) | 2 | 2 | 0 | 1985-01 | 1998-01 |
@@ -178,6 +183,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`manipulator-modular`](manipulator-modular.md) | 2 | 2 | 0 | 2019-09 | 2021-09 |
 | [`manipulator-parallel`](manipulator-parallel.md) | 2 | 2 | 0 | 1985-01 | 2011-01 |
 | [`manipulator-scara`](manipulator-scara.md) | 2 | 2 | 0 | 1978-01 | 1983-01 |
+| [`manipulator-space`](manipulator-space.md) | 4 | 4 | 0 | 1966-04 | 2021-07 |
 | [`manipulator-surgical`](manipulator-surgical.md) | 4 | 4 | 0 | 2006-09 | 2021-09 |
 | [`mechanism-3d-printed-platform`](mechanism-3d-printed-platform.md) | 4 | 4 | 0 | 2019-04 | 2026-01 |
 | [`mechanism-aerial-thruster`](mechanism-aerial-thruster.md) | 4 | 2 | 2 | 2010-01 | 2021-07 |
@@ -231,6 +237,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`power-pressure-balanced-li-ion`](power-pressure-balanced-li-ion.md) | 3 | 2 | 1 | 2003-09 | 2018-04 |
 | [`power-tethered`](power-tethered.md) | 13 | 11 | 2 | 1973 | 2017-11 |
 | [`rov`](rov.md) | 6 | 6 | 0 | 1965-01 | 2019-04 |
+| [`rover-planetary`](rover-planetary.md) | 9 | 9 | 0 | 1970-11 | 2024-01 |
 | [`safety-emergency-stop`](safety-emergency-stop.md) | 5 | 5 | 0 | 1982-12 | 2017-05 |
 | [`safety-hard-constraint`](safety-hard-constraint.md) | 58 | 57 | 1 | -0250 | 2024-05-24 |
 | [`safety-simplex-supervisor`](safety-simplex-supervisor.md) | 8 | 8 | 0 | 1940-09 | 2019-05 |
@@ -259,4 +266,11 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`software-mjbots-stack`](software-mjbots-stack.md) | 2 | 2 | 0 | 2019 | 2022 |
 | [`software-ros1`](software-ros1.md) | 18 | 18 | 0 | 2002 | 2019-09 |
 | [`software-ros2`](software-ros2.md) | 4 | 4 | 0 | 2017-09 | 2023-10 |
+| [`space-free-flyer`](space-free-flyer.md) | 2 | 2 | 0 | 2003-05 | 2018-06 |
+| [`space-servicer`](space-servicer.md) | 2 | 2 | 0 | 2019-10 | 2021-03 |
+| [`uav-cca`](uav-cca.md) | 2 | 2 | 0 | 2019-03 | 2021-02 |
+| [`uav-evtol`](uav-evtol.md) | 3 | 3 | 0 | 2011-10 | 2016-01 |
+| [`uav-loitering-munition`](uav-loitering-munition.md) | 2 | 2 | 0 | 2011-01 | 2021-09 |
+| [`uav-male`](uav-male.md) | 2 | 2 | 0 | 1994-07 | 2014-08 |
+| [`uav-quadrotor`](uav-quadrotor.md) | 4 | 4 | 0 | 2007-01 | 2011-01 |
 | [`usv`](usv.md) | 4 | 4 | 0 | 2007-01 | 2017-06 |

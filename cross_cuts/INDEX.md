@@ -33,6 +33,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-hydraulic` | 33 | -0250 |
 | `actuator-hydraulic-damper` | 1 | 1997-09 |
 | `actuator-microfluidic` | 1 | 2022-10 |
+| `actuator-piezoelectric` | 1 | 2013-05 |
 | `actuator-pneumatic` | 6 | 2005-04 |
 | `actuator-pneumatic-bellows` | 1 | 2017-04 |
 | `actuator-pneumatic-chemical` | 1 | 2016-08 |
@@ -68,6 +69,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-adversarial-style-distillation` | 1 | 2021-04 |
 | `control-adversarial-training` | 1 | 2014-06 |
 | `control-affective-computing` | 1 | 1998-09 |
+| `control-aggressive-maneuvers` | 1 | 2008-01 |
 | `control-agricultural-autonomy` | 3 | 2010-01 |
 | `control-ai-copilot` | 1 | 2008-05 |
 | `control-ai-nanobot-swarm` | 1 | 2018-04 |
@@ -89,6 +91,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-bipedal-locomotion` | 1 | 2018-09 |
 | `control-bone-registration` | 2 | 1992-01 |
 | `control-bundle-adjustment` | 5 | 2021-04 |
+| `control-bvlos-teleop` | 1 | 1994-07 |
 | `control-cabin-environment` | 1 | 2014-04 |
 | `control-capture-point` | 2 | 2006-12 |
 | `control-catastrophic-forgetting-mitigation` | 1 | 2025-09 |
@@ -97,6 +100,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-co-manipulation` | 1 | 2008-08 |
 | `control-co-training` | 1 | 2025-04 |
 | `control-collaborative-safety` | 1 | 2016-09 |
+| `control-conversational-ai` | 1 | 2018-06 |
 | `control-cooperative-control` | 1 | 1989-01 |
 | `control-cross-embodiment` | 6 | 2023-10 |
 | `control-cv-autonomous-flight` | 1 | 2018-02 |
@@ -153,7 +157,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-humanoid-shadowing` | 1 | 2024-06 |
 | `control-hybrid-zero-dynamics` | 1 | 2018-09 |
 | `control-image-segmentation` | 1 | 2015-05 |
-| `control-imitation-learning` | 24 | 2018-04 |
+| `control-imitation-learning` | 25 | 2003-01 |
 | `control-immersive-pov` | 1 | 2024-07 |
 | `control-impedance-control` | 2 | 1994-09 |
 | `control-implicit-scene-representation` | 2 | 2020-03 |
@@ -215,7 +219,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-off-policy-rl` | 1 | 2018-01 |
 | `control-omnidirectional` | 1 | 2019-04 |
 | `control-open-loop-gait` | 2 | 2013-05 |
-| `control-open-source` | 1 | 2014-08 |
+| `control-open-source` | 2 | 2011-01 |
 | `control-open-vocabulary` | 4 | 2023-03 |
 | `control-operational-space` | 2 | 2016-04 |
 | `control-optimal-control` | 3 | 1960-03 |
@@ -280,6 +284,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-subject-tracking` | 1 | 2018-02 |
 | `control-subterranean-autonomy` | 1 | 2021-09 |
 | `control-supervised-autonomy` | 3 | 2015-06 |
+| `control-swarm` | 2 | 2011-01 |
 | `control-teleoperation` | 33 | 1956-07 |
 | `control-tethered` | 4 | 1965-01 |
 | `control-tethered-teleoperation` | 5 | 1989-04 |
@@ -338,10 +343,15 @@ the working prior art search tool when assessing patent claims in the area.
 | `fictional-weapons` | 1 | 2008-05 |
 | `hov` | 8 | 1984-12 |
 | `hov-bathyscaphe` | 1 | 1953-08 |
+| `humanoid-bipedal` | 1 | 2019-08 |
+| `humanoid-companion-space` | 1 | 2013-08 |
 | `ip-cross-licensing` | 1 | 2005-11 |
 | `ip-defensive-pool` | 1 | 2005-11 |
 | `ip-defensive-publication` | 1 | 2000-01 |
 | `ip-prior-art-database` | 1 | 2000-01 |
+| `lander-asteroid` | 2 | 2014-11 |
+| `lander-lunar` | 2 | 2024-01 |
+| `lander-sample-return` | 2 | 1970-09 |
 | `manipulator-arm` | 35 | 1954-12 |
 | `manipulator-cobot` | 12 | 1991-01 |
 | `manipulator-delta` | 2 | 1985-01 |
@@ -353,6 +363,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `manipulator-parallel` | 2 | 1985-01 |
 | `manipulator-precision` | 1 | 2015-09 |
 | `manipulator-scara` | 2 | 1978-01 |
+| `manipulator-space` | 4 | 1966-04 |
 | `manipulator-surgical` | 4 | 2006-09 |
 | `mechanism-3d-printed-hand` | 1 | 2024-06 |
 | `mechanism-3d-printed-platform` | 4 | 2019-04 |
@@ -419,6 +430,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-quadrupedal-locomotion` | 25 | 1968-09-27 |
 | `mechanism-realistic-face` | 1 | 2015-03 |
 | `mechanism-reconfigurable` | 6 | 2018-05 |
+| `mechanism-rocker-bogie` | 1 | 1997-07 |
 | `mechanism-sealed-enclosure` | 1 | 2023-05 |
 | `mechanism-selective-compliance` | 1 | 1979-01 |
 | `mechanism-single-port-deploying` | 1 | 2014-01 |
@@ -461,6 +473,8 @@ the working prior art search tool when assessing patent claims in the area.
 | `power-pressure-balanced-li-ion` | 3 | 2003-09 |
 | `power-tethered` | 13 | 1973 |
 | `rov` | 6 | 1965-01 |
+| `rover-asteroid` | 1 | 2014-12 |
+| `rover-planetary` | 9 | 1970-11 |
 | `safety-emergency-stop` | 5 | 1982-12 |
 | `safety-hard-constraint` | 58 | -0250 |
 | `safety-simplex-supervisor` | 8 | 1940-09 |
@@ -513,6 +527,23 @@ the working prior art search tool when assessing patent claims in the area.
 | `software-ros1` | 18 | 2002 |
 | `software-ros2` | 4 | 2017-09 |
 | `software-yarp` | 1 | 2008 |
+| `space-free-flyer` | 2 | 2003-05 |
+| `space-servicer` | 2 | 2019-10 |
 | `surgical-nerve-redirection` | 1 | 2002-09 |
+| `uav-cca` | 2 | 2019-03 |
+| `uav-counter-uas` | 1 | 2023-12 |
+| `uav-delivery` | 1 | 2014-09 |
+| `uav-evtol` | 3 | 2011-10 |
+| `uav-hale` | 1 | 1998-02 |
+| `uav-helicopter` | 1 | 2003-01 |
+| `uav-insect-scale` | 1 | 2013-05 |
+| `uav-loitering-munition` | 2 | 2011-01 |
+| `uav-male` | 2 | 1994-07 |
+| `uav-nano` | 1 | 2008-01 |
+| `uav-planetary` | 1 | 2021-02 |
+| `uav-quadrotor` | 4 | 2007-01 |
+| `uav-small` | 1 | 2003-01 |
+| `uav-swarm` | 1 | 2016-10 |
+| `uav-ucav` | 1 | 2011-02 |
 | `usv` | 4 | 2007-01 |
 | `usv-mdusv` | 1 | 2016-04 |

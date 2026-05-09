@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `control-imitation-learning`  
-**Entries:** 24 (23 commons-grade, 1 draft)  
-**Earliest disclosure:** 2018-04  
+**Entries:** 25 (24 commons-grade, 1 draft)  
+**Earliest disclosure:** 2003-01  
 **Most recent disclosure:** 2025-11
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2003-01 — Stanford Autonomous Helicopter (Ng / Abbeel)
+
+- **id:** `stanford-autonomous-helicopter-ng-2003`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Stanford AI Laboratory; Andrew Ng + Pieter Abbeel + Adam Coates
+- **disclosure citation:** Ng, A., Coates, A., Diel, M., Ganapathi, V., Schulte, J., Tse, B., Berger, E., Liang, E. 'Inverted Autonomous Helicopter Flight via Reinforcement Learning'. ISER 2004. Subsequent: Abbeel, P. PhD thesis 2008; aerobatic helicopter via apprenticeship learning. Stanford AI Lab.
+- **disclosed subsystems:** `uav-helicopter`, `control-imitation-learning`
+
+**Prior art notes:**
+
+> Stanford Autonomous Helicopter (Ng/Abbeel/Coates 2003-2010) is foundational for autonomous aerobatic flight + apprenticeship learning. 22-year-deep academic-publication prior art.
+
+**Sources:**
+
+1. heli.stanford.edu/
+2. robotics.stanford.edu/~ang/papers/ijrr10-HelicopterAerobatics.pdf
+
+---
 
 ### 2018-04 — DeepMimic
 
@@ -577,4 +597,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `88b8beb`.*

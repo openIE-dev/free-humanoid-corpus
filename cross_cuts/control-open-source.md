@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-open-source`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2014-08
+Earliest disclosure: 2011-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Crazyflie / Bitcraze (open-source nano-quadcopter) (2011-01)
+
+- **id**: `crazyflie-bitcraze-2011`
+- **corpus**: open
+- **creator**: Bitcraze AB (Malmö, Sweden); Eliasson + Taffanel + Antonsson
+- **disclosure**: Bitcraze AB (Sweden); Marcus Eliasson + Arnaud Taffanel + Tobias Antonsson. Project 2009; company 2011; Crazyflie 2.0 2013. Open-source open-hardware.
+- **ip status**: open-permissive
+- **prior art notes**: Crazyflie / Bitcraze (Malmö 2011+) is the de-facto research/education swarm platform. 14-year-deep open-permissive prior art.
 
 ## Blue Robotics BlueROV2 (affordable open-hardware ROV) (2014-08)
 
