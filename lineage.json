@@ -5014,6 +5014,14 @@
       ]
     },
     {
+      "id": "pliant-energy-velox-cray-2019",
+      "name": "Pliant Energy Velox / C-Ray (multi-gait undulating-fin amphibious robot)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "fair-habitat-sim-2019",
       "name": "Habitat-Sim (Facebook AI Research)",
       "year": "2019",

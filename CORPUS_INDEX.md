@@ -1,6 +1,6 @@
 # Corpus Index
 
-704 entries total. Generated from corpus.jsonl.
+705 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | Pisa-IIT SoftHand | `pisa-iit-softhand` | 2014 | academic | open-permissive |  |
 | Pisa-IIT SoftHand 2 | `pisa-iit-softhand-2` | 2018 | academic | open-permissive |  |
 | Plastic Memories (Giftia humanoids with explicit lifecycle) | `plastic-memories-2015` | 2015 | fictional | fictional |  |
+| Pliant Energy Velox / C-Ray (multi-gait undulating-fin amphibious robot) | `pliant-energy-velox-cray-2019` | 2019 | private | trade-secret (commercial; with patents on hyperbolic-fin mechanism) |  |
 | Pluto (Naoki Urasawa reimagining) | `urasawa-pluto` | 2003 | fictional | fictional |  |
 | PointNet | `pointnet-qi-cvpr-2017` | 2016 | academic | public-domain |  |
 | Poppy Humanoid | `poppy-humanoid` | 2014 | open | open-permissive |  |

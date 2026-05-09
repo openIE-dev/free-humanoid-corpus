@@ -18,7 +18,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-biological` | 13 | 1973-11-21 |
 | `actuator-bldc-controller` | 11 | 1929-07 |
 | `actuator-compliant` | 3 | 1957-01 |
-| `actuator-electric` | 79 | 1956-01 |
+| `actuator-electric` | 80 | 1956-01 |
 | `actuator-electric-cycloidal` | 5 | 1937 |
 | `actuator-electric-direct-drive` | 69 | 1886 |
 | `actuator-electric-harmonic-drive` | 22 | 1986 |
@@ -39,6 +39,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-soft-elastomeric` | 3 | 2014-09 |
 | `actuator-spherical-multi-dof` | 2 | 2020 |
 | `actuator-variable-stiffness` | 2 | 2005-04 |
+| `auv-amphibious` | 1 | 2019-02 |
 | `bci-cortical` | 1 | 1991-01 |
 | `bci-cortical-motor-decoding` | 1 | 2019-08 |
 | `bci-endovascular` | 1 | 2019-08 |
@@ -62,6 +63,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-autonomous-cutting` | 1 | 1992-01 |
 | `control-autonomous-driving` | 2 | 2009-01 |
 | `control-autonomous-homing` | 1 | 2012-05 |
+| `control-autonomy-stack` | 1 | 2019-02 |
 | `control-bci` | 3 | 2002-07 |
 | `control-behavior-based` | 1 | 2007-07 |
 | `control-behavior-tree` | 12 | 1772 |
@@ -376,6 +378,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-mobile-base` | 15 | 2000-01 |
 | `mechanism-modular-finger` | 1 | 2012-08 |
 | `mechanism-multi-articulated-finger` | 1 | 2007-07 |
+| `mechanism-multi-gait-single-actuator` | 1 | 2019-02 |
 | `mechanism-parallel-jaw-gripper` | 5 | 2008-01 |
 | `mechanism-parallel-kinematic` | 1 | 1965-06 |
 | `mechanism-parallel-kinematic-haptic` | 2 | 1994-09 |
@@ -414,6 +417,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-underactuated-finger` | 2 | 1963-01 |
 | `mechanism-underactuated-grasping` | 9 | 1986 |
 | `mechanism-underactuated-hand` | 1 | 1988-01 |
+| `mechanism-undulating-fin` | 1 | 2019-02 |
 | `mechanism-vacuum-gripper` | 1 | 2015-01 |
 | `mechanism-variable-ballast-trim` | 1 | 1964-06 |
 | `mechanism-variable-buoyancy-glider` | 2 | 1989-01 |
