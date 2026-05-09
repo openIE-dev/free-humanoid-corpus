@@ -1,7 +1,7 @@
 ---
 title: "mechanism-surgical-robot"
 parent: "Invalidity Contentions"
-nav_order: 191
+nav_order: 197
 layout: default
 ---
 
@@ -193,4 +193,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `88b8beb`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*

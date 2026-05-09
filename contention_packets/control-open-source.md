@@ -1,7 +1,7 @@
 ---
 title: "control-open-source"
 parent: "Invalidity Contentions"
-nav_order: 95
+nav_order: 99
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `control-open-source`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-01  
-**Most recent disclosure:** 2014-08
+**Most recent disclosure:** 2015-09
 
 ---
 
@@ -80,6 +80,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2015-09 — Comma.ai openpilot (open-source aftermarket ADAS)
+
+- **id:** `comma-ai-george-hotz-2015`
+- **corpus:** open
+- **ip status:** open-permissive (MIT)
+- **creator:** Comma.ai (San Diego, CA, USA); George Hotz founder
+- **disclosure citation:** Comma.ai (San Diego, CA, USA; founded September 2015 by George Hotz). Open-source openpilot ADAS aftermarket retrofit.
+- **disclosed subsystems:** `autonomous-vehicle`, `control-open-source`
+
+**Prior art notes:**
+
+> Comma.ai openpilot (San Diego 2015+) is the open-source aftermarket ADAS alternative. 10-year-deep open-permissive prior art.
+
+**Sources:**
+
+1. comma.ai
+2. github.com/commaai/openpilot
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -110,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `88b8beb`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*

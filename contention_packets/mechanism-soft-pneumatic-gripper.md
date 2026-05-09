@@ -1,7 +1,7 @@
 ---
 title: "mechanism-soft-pneumatic-gripper"
 parent: "Invalidity Contentions"
-nav_order: 187
+nav_order: 193
 layout: default
 ---
 
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `88b8beb`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*

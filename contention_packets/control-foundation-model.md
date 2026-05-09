@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model"
 parent: "Invalidity Contentions"
-nav_order: 53
+nav_order: 57
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `control-foundation-model`  
-**Entries:** 14 (12 commons-grade, 2 draft)  
+**Entries:** 15 (13 commons-grade, 2 draft)  
 **Earliest disclosure:** 1997-11  
 **Most recent disclosure:** 2025-06
 
@@ -114,6 +114,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Vaswani et al. arXiv:1706.03762 NeurIPS 2017.
+
+---
+
+### 2017-10 — Covariant.ai (robotic foundation model for grasping)
+
+- **id:** `covariant-ai-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Covariant Inc. (Berkeley, CA, USA); Pieter Abbeel + Peter Chen + Rocky Duan + Tianhao Zhang
+- **disclosure citation:** Covariant Inc. (Berkeley, CA, USA; founded 2017 by Pieter Abbeel + Peter Chen + Rocky Duan + Tianhao Zhang). Covariant Brain → RFM-1 robotic foundation model 2024.
+- **disclosed subsystems:** `warehouse-robot`, `control-foundation-model`
+
+**Prior art notes:**
+
+> Covariant.ai (Berkeley 2017+; RFM-1 2024) is the robotic foundation model for grasping. 8-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Covariant_(company)
 
 ---
 
@@ -344,4 +363,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `88b8beb`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*

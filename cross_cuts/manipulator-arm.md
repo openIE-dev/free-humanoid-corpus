@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `manipulator-arm`
 
-**35 corpus entries disclose this subsystem.**
+**39 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1954-12
 
@@ -123,6 +123,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: academic-publication
 - **prior art notes**: DLR Lightweight Robot LWR (DLR Hirzinger group 1991-2007) is the seminal torque-sensor 7-DoF lightweight research arm. 34-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from torque-sensor 7-DoF cobots. Anchors the entire 7-DoF cobot category via KUKA LBR iiwa (round-45) and Franka Panda (round-45) descendants.
 
+## Lely Astronaut (FIRST commercial robotic milking parlor) (1992-08)
+
+- **id**: `lely-astronaut-1992`
+- **corpus**: private
+- **creator**: Lely Industries N.V. (Maassluis, Netherlands); Karel van den Berg
+- **disclosure**: Lely Industries N.V. (Maassluis, Netherlands). Karel van den Berg + team. Astronaut first commercial milking August 18, 1992. The first commercial-scale robotic milking system. 35,000+ units worldwide by 2017.
+- **ip status**: trade-secret
+- **prior art notes**: Lely Astronaut (Maassluis 1992+) is the single most-deployed ag robot in history. 33-year-deep public-disclosure prior art.
+
 ## ABB FlexPicker IRB 360 (dominant industrial delta robot) (1998-01)
 
 - **id**: `abb-flexpicker-irb-360-1998`
@@ -194,6 +203,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mazor Robotics Ltd. (Caesarea, Israel; founded 2000 by Moshe Shoham, Technion). SpineAssist FDA-cleared 2004; Renaissance FDA-cleared 2011 (1.5 mm accuracy bone-mounted spine guidance). Mazor X 2017. Acquired by Medtronic 2018 for USD 1.6B.
 - **ip status**: trade-secret
 - **prior art notes**: Mazor Robotics SpineAssist + Renaissance + Mazor X (Caesarea Israel 2004-2017+; Medtronic 2018) is the bone-mounted spine surgical guidance system. 21-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from bone-mounted parallel-mechanism surgical guidance arms.
+
+## Mujin (first humanless warehouse; JD.com 2018) (2011-07)
+
+- **id**: `mujin-2011`
+- **corpus**: private
+- **creator**: Mujin Inc. (Tokyo, Japan); Issei Takino + Rosen Diankov
+- **disclosure**: Mujin Inc. (Tokyo, Japan; founded July 2011 by Issei Takino + Rosen Diankov). MujinOS no-code motion-planning controller. JD.com humanless warehouse 2018.
+- **ip status**: trade-secret
+- **prior art notes**: Mujin (Tokyo 2011+) is the canonical no-code motion-planning controller + first humanless warehouse. 14-year-deep public-disclosure prior art.
 
 ## Estun Automation industrial robots (CN #1 by shipments) (2012-01)
 
@@ -276,6 +294,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Techman Robot TM5 (Taoyuan Taiwan 2016+; Quanta spinout) is the first cobot with built-in vision system. 9-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from vision-integrated cobots or Taiwanese-OEM cobots.
 
+## Miso Robotics Flippy (first national-QSR kitchen robot) (2017-03)
+
+- **id**: `miso-robotics-flippy-2017`
+- **corpus**: private
+- **creator**: Miso Robotics (Pasadena, CA, USA)
+- **disclosure**: Miso Robotics (Pasadena, CA, USA; founded 2016). Flippy demo at CaliBurger March 2017. White Castle nationwide deployment September 2020.
+- **ip status**: trade-secret
+- **prior art notes**: Miso Flippy (Pasadena 2017-2020+) is the first national-QSR-deployed kitchen robot. 8-year-deep public-disclosure prior art.
+
 ## Franka Emika Panda 7-DoF research cobot (2017-04)
 
 - **id**: `franka-emika-panda-2017`
@@ -311,6 +338,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yaskawa Electric Corporation (Kitakyushu, Japan; founded 1915). Motoman HC10 commercial reveal September 2017. Yaskawa's first cobot. Yaskawa is the largest Japanese industrial-robot OEM by revenue.
 - **ip status**: trade-secret
 - **prior art notes**: Yaskawa Motoman HC10 (Kitakyushu 2017+) is Yaskawa's first cobot and the Japanese cobot answer to Universal Robots. 8-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from Japanese-OEM cobots.
+
+## Octinion Rubion (first commercial strawberry-picking robot) (2019-02)
+
+- **id**: `octinion-rubion-2019`
+- **corpus**: private
+- **creator**: Octinion (Belgium)
+- **disclosure**: Octinion (Belgium; founded ~2014). Rubion commercial launch February 2019. World's first commercially-launched strawberry-picking robot.
+- **ip status**: trade-secret
+- **prior art notes**: Octinion Rubion (Belgium 2019+) is the world's first commercial strawberry-picking robot. 6-year-deep public-disclosure prior art.
 
 ## CMR Surgical Versius modular soft-tissue surgical robot (2019-09)
 

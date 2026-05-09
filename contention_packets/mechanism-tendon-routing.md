@@ -1,7 +1,7 @@
 ---
 title: "mechanism-tendon-routing"
 parent: "Invalidity Contentions"
-nav_order: 196
+nav_order: 202
 layout: default
 ---
 
@@ -373,4 +373,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `88b8beb`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*

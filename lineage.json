@@ -1505,6 +1505,14 @@
       "descendants": []
     },
     {
+      "id": "lely-astronaut-1992",
+      "name": "Lely Astronaut (FIRST commercial robotic milking parlor)",
+      "year": "1992",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "honda-e6",
       "name": "Honda E6",
       "year": "1993",
@@ -1581,6 +1589,14 @@
         "runtime-assurance-rta",
         "shielding-rl"
       ]
+    },
+    {
+      "id": "husqvarna-automower-1995",
+      "name": "Husqvarna Automower (FIRST commercial robotic lawnmower)",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "kongsberg-remus-100-auv",
@@ -1707,6 +1723,14 @@
       ]
     },
     {
+      "id": "autostore-norway-1996",
+      "name": "AutoStore (foundational grid-cube storage)",
+      "year": "1996",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hugin-kongsberg-ffi-1996",
       "name": "Hugin AUV (Kongsberg/FFI dominant European commercial)",
       "year": "1996",
@@ -1820,6 +1844,14 @@
       "descendants": []
     },
     {
+      "id": "furby-tiger-1998",
+      "name": "Furby (first viral consumer robotic pet)",
+      "year": "1998",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mit-kismet-breazeal-1998",
       "name": "MIT Kismet (sociable robot)",
       "year": "1998",
@@ -1846,8 +1878,24 @@
       "descendants": []
     },
     {
+      "id": "mobileye-intel-acquisition-1999",
+      "name": "Mobileye (monocular-camera ADAS pioneer; Intel acquired)",
+      "year": "1999",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "videoray-pro-1999",
       "name": "VideoRay Pro / Mission Specialist (microROV market leader)",
+      "year": "1999",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sony-aibo-1999",
+      "name": "Sony AIBO (first mass-market robot pet)",
       "year": "1999",
       "corpus": "private",
       "ancestors": [],
@@ -1866,6 +1914,14 @@
       "name": "B1 Battle Droid",
       "year": "1999",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ibot-deka-kamen-1999",
+      "name": "iBOT (DEKA Dean Kamen gyroscopic balancing wheelchair)",
+      "year": "1999",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -2324,6 +2380,14 @@
       "descendants": []
     },
     {
+      "id": "ocado-smart-platform-2002",
+      "name": "Ocado Smart Platform / Hummingbird (3D-grid grocery)",
+      "year": "2002",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "kragic-christensen-visual-servoing-2002",
       "name": "Kragic-Christensen visual servoing for grasping",
       "year": "2002",
@@ -2352,6 +2416,14 @@
       "descendants": [
         "synchron-stentrode-endovascular-bci-2019"
       ]
+    },
+    {
+      "id": "irobot-roomba-2002",
+      "name": "iRobot Roomba (foundational autonomous home robot)",
+      "year": "2002",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "kuiken-tmr-targeted-muscle-reinnervation-2002",
@@ -2409,6 +2481,22 @@
       "ancestors": [
         "jason-rov-1989"
       ],
+      "descendants": []
+    },
+    {
+      "id": "kiva-systems-amazon-robotics-2003",
+      "name": "Kiva Systems (foundational AGV; → Amazon Robotics 2012)",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "paro-aist-2003",
+      "name": "PARO (first FDA-cleared therapeutic robot; baby-harp-seal)",
+      "year": "2003",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2547,6 +2635,14 @@
       "descendants": [
         "rainbow-robotics-rb-y1"
       ]
+    },
+    {
+      "id": "aethon-tug-2004",
+      "name": "Aethon TUG (foundational hospital logistics robot)",
+      "year": "2004",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "bokurano-2004",
@@ -2733,6 +2829,14 @@
       "descendants": []
     },
     {
+      "id": "ecovacs-deebot-2006",
+      "name": "Ecovacs Deebot (first major Chinese consumer vacuum brand)",
+      "year": "2006",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ergo-proxy-2006",
       "name": "Ergo Proxy (Autoreivs and Proxies)",
       "year": "2006",
@@ -2819,6 +2923,14 @@
     {
       "id": "liquid-robotics-wave-glider-2007",
       "name": "Liquid Robotics Wave Glider (wave+solar persistent USV)",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "symbotic-walmart-2007",
+      "name": "Symbotic (Walmart distribution-center transformation)",
       "year": "2007",
       "corpus": "private",
       "ancestors": [],
@@ -2981,6 +3093,14 @@
       "name": "ETH Flying Machine Arena (D'Andrea)",
       "year": "2008",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "komatsu-frontrunner-ahs-2008",
+      "name": "Komatsu FrontRunner AHS (first commercial autonomous mining truck)",
+      "year": "2008",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -3375,6 +3495,14 @@
       ]
     },
     {
+      "id": "xenex-lightstrike-2010",
+      "name": "Xenex LightStrike (germ-zapping UV-C disinfection robot)",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mass-effect-edi",
       "name": "EDI (Mass Effect)",
       "year": "2010",
@@ -3418,6 +3546,14 @@
       "descendants": [
         "iron-man-mark-l-bleeding-edge-2018"
       ]
+    },
+    {
+      "id": "neato-xv11-2010",
+      "name": "Neato XV-11 (first consumer LIDAR-SLAM vacuum)",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "willow-garage-pr2-2010",
@@ -3518,6 +3654,16 @@
       "descendants": []
     },
     {
+      "id": "blue-river-see-spray-2011",
+      "name": "Blue River Technology See & Spray (precision-ag CV)",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "john-deere-8r-autonomous-tractor-2022"
+      ]
+    },
+    {
       "id": "crazyflie-bitcraze-2011",
       "name": "Crazyflie / Bitcraze (open-source nano-quadcopter)",
       "year": "2011",
@@ -3585,6 +3731,14 @@
       "ancestors": [
         "stewart-platform-gough-1965"
       ],
+      "descendants": []
+    },
+    {
+      "id": "mujin-2011",
+      "name": "Mujin (first humanless warehouse; JD.com 2018)",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -3950,6 +4104,14 @@
       "descendants": []
     },
     {
+      "id": "mir-mobile-industrial-2013",
+      "name": "MiR (Mobile Industrial Robots; Danish collaborative AMR)",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "star-fearing-2013",
       "name": "STAR (Sprawl-Tuned Autonomous Robot)",
       "year": "2013",
@@ -4000,6 +4162,14 @@
       "descendants": []
     },
     {
+      "id": "naio-oz-2013",
+      "name": "Naïo Oz (first commercially-marketed in-field ag robot)",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "saildrone-explorer-2013",
       "name": "Saildrone Explorer / Voyager / Surveyor (wind+solar USV)",
       "year": "2013",
@@ -4018,6 +4188,14 @@
       "descendants": [
         "schunk-coact-jl1-2016"
       ]
+    },
+    {
+      "id": "cruise-gm-acquisition-2013",
+      "name": "Cruise (GM-acquired robotaxi; 2024 controversy)",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "cheetah-cub-epfl",
@@ -4241,6 +4419,22 @@
       "descendants": []
     },
     {
+      "id": "starship-technologies-2014",
+      "name": "Starship Technologies (global sidewalk-robot leader)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "zoox-amazon-acquisition-2014",
+      "name": "Zoox (purpose-built bidirectional robotaxi; Amazon)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "baykar-bayraktar-tb2-2014",
       "name": "Baykar Bayraktar TB2 (Turkish combat-proven MALE UAV)",
       "year": "2014",
@@ -4277,6 +4471,14 @@
       ]
     },
     {
+      "id": "locus-robotics-2014",
+      "name": "Locus Robotics (collaborative AMR after Amazon-Kiva exclusivity)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sutskever-seq2seq-nips-2014",
       "name": "Sequence to Sequence Learning",
       "year": "2014",
@@ -4287,6 +4489,14 @@
       "descendants": [
         "transformer-vaswani-neurips-2017"
       ]
+    },
+    {
+      "id": "tesla-autopilot-fsd-2014",
+      "name": "Tesla Autopilot / FSD (vision-only end-to-end neural network)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "unetstack-subnero-2014",
@@ -4420,6 +4630,14 @@
       "descendants": []
     },
     {
+      "id": "geek-plus-2015",
+      "name": "Geek+ / Geekplus (largest AMR vendor by deployment count)",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hyundai-boston-dynamics-spot",
       "name": "Boston Dynamics Spot",
       "year": "2015",
@@ -4468,6 +4686,14 @@
       "ancestors": [
         "asea-irb6-1973"
       ],
+      "descendants": []
+    },
+    {
+      "id": "knightscope-k5-2015",
+      "name": "Knightscope K5 (first outdoor autonomous security robot at scale)",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -4587,10 +4813,26 @@
       "descendants": []
     },
     {
+      "id": "henn-na-hotel-2015",
+      "name": "Henn-na Hotel (Guinness first-hotel-staffed-by-robots)",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "aubo-robotics-i5-2015",
       "name": "AUBO Robotics i5 / i3 / i7 / i10 cobots",
       "year": "2015",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "comma-ai-george-hotz-2015",
+      "name": "Comma.ai openpilot (open-source aftermarket ADAS)",
+      "year": "2015",
+      "corpus": "open",
       "ancestors": [],
       "descendants": []
     },
@@ -4605,6 +4847,14 @@
     {
       "id": "mecademic-meca500-2015",
       "name": "Mecademic Meca500 micro-cobot (5-µm precision)",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tusimple-2015",
+      "name": "TuSimple (first publicly-traded autonomous-trucking company)",
       "year": "2015",
       "corpus": "private",
       "ancestors": [],
@@ -4689,6 +4939,14 @@
       "descendants": []
     },
     {
+      "id": "saga-thorvald-2016",
+      "name": "Saga Robotics Thorvald (modular Norwegian agbot)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "indego-vanderbilt-parker-2016",
       "name": "Indego modular powered lower-limb exoskeleton",
       "year": "2016",
@@ -4739,6 +4997,14 @@
       "descendants": []
     },
     {
+      "id": "nuro-2016",
+      "name": "Nuro (cabin-less delivery pod; first NHTSA exemption)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "gail-ho-ermon",
       "name": "Generative Adversarial Imitation Learning (GAIL)",
       "year": "2016",
@@ -4768,6 +5034,14 @@
       "ancestors": [
         "opensim-delp-stanford-2007"
       ],
+      "descendants": []
+    },
+    {
+      "id": "built-robotics-excavator-2016",
+      "name": "Built Robotics (autonomous excavator retrofit)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -4861,6 +5135,14 @@
       "descendants": []
     },
     {
+      "id": "aurora-innovation-2017",
+      "name": "Aurora Innovation (consolidator of Waymo + Tesla + Uber AV alums)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "edan-bechar-agritech-survey-2017",
       "name": "Edan-Bechar agricultural robotics survey",
       "year": "2017",
@@ -4877,6 +5159,16 @@
         "honda-walking-assist-2009"
       ],
       "descendants": []
+    },
+    {
+      "id": "boston-dynamics-handle-pick-2017",
+      "name": "Boston Dynamics Handle + Pick (warehouse retrofits)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "boston-dynamics-stretch-warehouse-2022"
+      ]
     },
     {
       "id": "nier-automata-2b",
@@ -4916,6 +5208,14 @@
       "name": "JANUS underwater acoustic communications standard",
       "year": "2017",
       "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "miso-robotics-flippy-2017",
+      "name": "Miso Robotics Flippy (first national-QSR kitchen robot)",
+      "year": "2017",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -5144,6 +5444,14 @@
       ]
     },
     {
+      "id": "roborock-s5-2017",
+      "name": "Roborock S-series (Xiaomi-affiliated mid-price LIDAR vacuum)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "saska-cvut-multi-mav-2017",
       "name": "Saska multi-MAV systems (CTU Prague MRS group)",
       "year": "2017",
@@ -5166,6 +5474,22 @@
     {
       "id": "yaskawa-motoman-hc10-2017",
       "name": "Yaskawa Motoman HC10 cobot",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "covariant-ai-2017",
+      "name": "Covariant.ai (robotic foundation model for grasping)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "jibo-anki-defunct-social-robots-2017",
+      "name": "Defunct social robots (Jibo + Anki Cozmo + Anki Vector)",
       "year": "2017",
       "corpus": "private",
       "ancestors": [],
@@ -5307,6 +5631,14 @@
       "descendants": []
     },
     {
+      "id": "icon-vulcan-3d-printed-houses-2018",
+      "name": "ICON Vulcan (first permitted 3D-printed home in US)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sofi-mit-csail-rus-2018",
       "name": "SoFi soft robotic fish (MIT CSAIL Rus)",
       "year": "2018",
@@ -5355,6 +5687,14 @@
         "iron-man-bleeding-edge-comics-2010",
         "iron-man-extremis-armor-comics-2005"
       ],
+      "descendants": []
+    },
+    {
+      "id": "kodiak-robotics-2018",
+      "name": "Kodiak Robotics (focused-deployment trucking)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -5537,6 +5877,14 @@
       "descendants": []
     },
     {
+      "id": "lovot-groove-x-2018",
+      "name": "Lovot (Groove X affection-only companion)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "oceangate-titan-2018-2023",
       "name": "OceanGate Titan (carbon-fiber experimental HOV; 2023 loss)",
       "year": "2018",
@@ -5606,6 +5954,14 @@
       "descendants": []
     },
     {
+      "id": "pudu-bellabot-2019",
+      "name": "Pudu BellaBot (cat-faced restaurant delivery robot)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hwangbo-anymal-sim2real",
       "name": "Hwangbo ANYmal Sim-to-Real Locomotion",
       "year": "2019",
@@ -5619,6 +5975,14 @@
         "miki-perceptive-anymal-science-2022",
         "mit-cheetah-3"
       ]
+    },
+    {
+      "id": "octinion-rubion-2019",
+      "name": "Octinion Rubion (first commercial strawberry-picking robot)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "orca-xluuv-boeing-2019",
@@ -5774,6 +6138,14 @@
       "descendants": []
     },
     {
+      "id": "picnic-pizza-2019",
+      "name": "Picnic (pizza-making robot; 300 pies/hour)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "rlbench-james-2019",
       "name": "RLBench",
       "year": "2019",
@@ -5788,6 +6160,14 @@
     {
       "id": "mev-1-northrop-orbital-servicing-2019",
       "name": "MEV-1 / MEV-2 (first commercial satellite-life-extension servicer)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "piaggio-gita-2019",
+      "name": "Piaggio Gita (cargo-following pedestrian companion)",
       "year": "2019",
       "corpus": "private",
       "ancestors": [],
@@ -6342,7 +6722,19 @@
       "name": "Boston Dynamics Stretch (warehouse robot)",
       "year": "2022",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "boston-dynamics-handle-pick-2017"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "john-deere-8r-autonomous-tractor-2022",
+      "name": "John Deere 8R (first fully-autonomous production tractor)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [
+        "blue-river-see-spray-2011"
+      ],
       "descendants": []
     },
     {
@@ -6358,6 +6750,14 @@
     {
       "id": "anduril-dive-ld-2022",
       "name": "Anduril Dive-LD (affordable LDUUV)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "carbon-robotics-laserweeder-2022",
+      "name": "Carbon Robotics LaserWeeder (laser-eradication ag robot)",
       "year": "2022",
       "corpus": "private",
       "ancestors": [],
@@ -6478,6 +6878,14 @@
         "openvla",
         "robocat"
       ]
+    },
+    {
+      "id": "monarch-tractor-mk-v-2022",
+      "name": "Monarch MK-V (first electric driver-optional smart tractor)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "rt-1",

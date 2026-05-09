@@ -1,7 +1,7 @@
 ---
 title: "manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 150
+nav_order: 156
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `manipulator-arm`  
-**Entries:** 35 (35 commons-grade, 0 draft)  
+**Entries:** 39 (39 commons-grade, 0 draft)  
 **Earliest disclosure:** 1954-12  
 **Most recent disclosure:** 2021-09
 
@@ -273,6 +273,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1992-08 — Lely Astronaut (FIRST commercial robotic milking parlor)
+
+- **id:** `lely-astronaut-1992`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Lely Industries N.V. (Maassluis, Netherlands); Karel van den Berg
+- **disclosure citation:** Lely Industries N.V. (Maassluis, Netherlands). Karel van den Berg + team. Astronaut first commercial milking August 18, 1992. The first commercial-scale robotic milking system. 35,000+ units worldwide by 2017.
+- **disclosed subsystems:** `agriculture-robot`, `manipulator-arm`
+
+**Prior art notes:**
+
+> Lely Astronaut (Maassluis 1992+) is the single most-deployed ag robot in history. 33-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. lely.com/gb/farming-insights/history-milking-robot/
+
+---
+
 ### 1998-01 — ABB FlexPicker IRB 360 (dominant industrial delta robot)
 
 - **id:** `abb-flexpicker-irb-360-1998`
@@ -422,6 +441,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. en.wikipedia.org/wiki/Mazor_Robotics
+
+---
+
+### 2011-07 — Mujin (first humanless warehouse; JD.com 2018)
+
+- **id:** `mujin-2011`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Mujin Inc. (Tokyo, Japan); Issei Takino + Rosen Diankov
+- **disclosure citation:** Mujin Inc. (Tokyo, Japan; founded July 2011 by Issei Takino + Rosen Diankov). MujinOS no-code motion-planning controller. JD.com humanless warehouse 2018.
+- **disclosed subsystems:** `warehouse-robot`, `manipulator-arm`
+
+**Prior art notes:**
+
+> Mujin (Tokyo 2011+) is the canonical no-code motion-planning controller + first humanless warehouse. 14-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. mujin-corp.com/
 
 ---
 
@@ -596,6 +634,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-03 — Miso Robotics Flippy (first national-QSR kitchen robot)
+
+- **id:** `miso-robotics-flippy-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Miso Robotics (Pasadena, CA, USA)
+- **disclosure citation:** Miso Robotics (Pasadena, CA, USA; founded 2016). Flippy demo at CaliBurger March 2017. White Castle nationwide deployment September 2020.
+- **disclosed subsystems:** `food-prep-robot`, `manipulator-arm`
+
+**Prior art notes:**
+
+> Miso Flippy (Pasadena 2017-2020+) is the first national-QSR-deployed kitchen robot. 8-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. techcrunch.com/2020/07/14/white-castle-becomes-the-first-fast-food-chain-to-test-out-the-robot-fry-cook-flippy-from-miso-robotics/
+
+---
+
 ### 2017-04 — Franka Emika Panda 7-DoF research cobot
 
 - **id:** `franka-emika-panda-2017`
@@ -672,6 +729,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-02 — Octinion Rubion (first commercial strawberry-picking robot)
+
+- **id:** `octinion-rubion-2019`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Octinion (Belgium)
+- **disclosure citation:** Octinion (Belgium; founded ~2014). Rubion commercial launch February 2019. World's first commercially-launched strawberry-picking robot.
+- **disclosed subsystems:** `agriculture-robot`, `manipulator-arm`
+
+**Prior art notes:**
+
+> Octinion Rubion (Belgium 2019+) is the world's first commercial strawberry-picking robot. 6-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. freshfruitportal.com/news/2019/02/01/octinions-strawberry-picking-robot-in-commercial-launch/
+
+---
+
 ### 2019-09 — CMR Surgical Versius modular soft-tissue surgical robot
 
 - **id:** `cmr-versius-2019`
@@ -740,4 +816,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `88b8beb`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*

@@ -1,7 +1,7 @@
 ---
 title: "control-loco-manipulation"
 parent: "Invalidity Contentions"
-nav_order: 70
+nav_order: 74
 layout: default
 ---
 
@@ -157,4 +157,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `88b8beb`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*

@@ -47,6 +47,8 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-variable-stiffness` | 2 | 2005-04 |
 | `actuator-wave-power` | 1 | 2007-01 |
 | `actuator-wind-solar` | 1 | 2013-09 |
+| `agriculture-robot` | 8 | 1992-08 |
+| `autonomous-vehicle` | 10 | 1999-01 |
 | `auv` | 11 | 1957-08 |
 | `auv-amphibious` | 1 | 2019-02 |
 | `auv-glider` | 2 | 2001-01 |
@@ -60,6 +62,8 @@ the working prior art search tool when assessing patent claims in the area.
 | `bci-fictional-extremis` | 2 | 2005-12 |
 | `bci-microelectrode-array` | 1 | 1991-01 |
 | `biomimetic-aquatic` | 6 | 1994-09 |
+| `companion-robot` | 5 | 1998-09 |
+| `construction-robot` | 2 | 2016-09 |
 | `control-3d-perception` | 4 | 2016-12 |
 | `control-3d-reconstruction` | 3 | 2023-12 |
 | `control-6d-pose-estimation` | 1 | 2024-03 |
@@ -80,6 +84,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-autonomous-driving` | 2 | 2009-01 |
 | `control-autonomous-homing` | 1 | 2012-05 |
 | `control-autonomy-stack` | 3 | 2016-04 |
+| `control-balancing` | 1 | 1999-06 |
 | `control-bci` | 3 | 2002-07 |
 | `control-behavior-based` | 1 | 2007-07 |
 | `control-behavior-tree` | 12 | 1772 |
@@ -122,6 +127,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-elevator-integration` | 1 | 2014-08 |
 | `control-embodied-reasoning` | 1 | 2025-04 |
 | `control-encoder-decoder` | 2 | 2014-09 |
+| `control-end-to-end-neural-network` | 1 | 2014-09 |
 | `control-ensemble-method` | 1 | 2001-10 |
 | `control-eod-robotics` | 1 | 2000-01 |
 | `control-expressive-humanoid` | 1 | 2024-02 |
@@ -134,7 +140,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-forestry-autonomy` | 1 | 2000-01 |
 | `control-formal-verification` | 1 | 2019-01 |
 | `control-forward-kinematics` | 1 | 1955-06 |
-| `control-foundation-model` | 14 | 1997-11 |
+| `control-foundation-model` | 15 | 1997-11 |
 | `control-foundation-model-perception` | 30 | 2009-06 |
 | `control-foundation-model-policy` | 20 | 2021-06 |
 | `control-gait-active-push-off` | 1 | 2007-01 |
@@ -171,6 +177,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-language-model` | 4 | 2018-10 |
 | `control-latent-skill-embedding` | 1 | 2022-04 |
 | `control-latent-space` | 1 | 2013-12 |
+| `control-lidar-slam` | 1 | 2010-04 |
 | `control-lifelong-learning` | 1 | 2023-06 |
 | `control-load-carrier` | 1 | 2009-02 |
 | `control-loco-manipulation` | 4 | 2023-10 |
@@ -219,7 +226,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-off-policy-rl` | 1 | 2018-01 |
 | `control-omnidirectional` | 1 | 2019-04 |
 | `control-open-loop-gait` | 2 | 2013-05 |
-| `control-open-source` | 2 | 2011-01 |
+| `control-open-source` | 3 | 2011-01 |
 | `control-open-vocabulary` | 4 | 2023-03 |
 | `control-operational-space` | 2 | 2016-04 |
 | `control-optimal-control` | 3 | 1960-03 |
@@ -317,6 +324,9 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-word-embedding` | 1 | 2013-01 |
 | `control-world-model` | 1 | 2025-01 |
 | `control-zmp-balancing` | 25 | 1969 |
+| `delivery-robot` | 1 | 2014-07 |
+| `domestic-mower` | 1 | 1995-01 |
+| `domestic-vacuum` | 4 | 2002-09 |
 | `end-effector-anthropomorphic-hand` | 4 | 2010-03 |
 | `end-effector-prosthetic` | 3 | 1997-09 |
 | `exoskeleton` | 25 | 1942-04 |
@@ -341,6 +351,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `exoskeleton-soft-pneumatic` | 1 | 2014-01 |
 | `exoskeleton-upper-limb` | 4 | 2012-02 |
 | `fictional-weapons` | 1 | 2008-05 |
+| `food-prep-robot` | 2 | 2017-03 |
 | `hov` | 8 | 1984-12 |
 | `hov-bathyscaphe` | 1 | 1953-08 |
 | `humanoid-bipedal` | 1 | 2019-08 |
@@ -352,7 +363,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `lander-asteroid` | 2 | 2014-11 |
 | `lander-lunar` | 2 | 2024-01 |
 | `lander-sample-return` | 2 | 1970-09 |
-| `manipulator-arm` | 35 | 1954-12 |
+| `manipulator-arm` | 39 | 1954-12 |
 | `manipulator-cobot` | 12 | 1991-01 |
 | `manipulator-delta` | 2 | 1985-01 |
 | `manipulator-desktop` | 1 | 2017-05 |
@@ -466,18 +477,21 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-wheeled-balancing` | 7 | 1963-12-21 |
 | `mechanism-whegs` | 1 | 2000-04 |
 | `mechanism-wristed-instrument` | 1 | 2000-07 |
+| `personal-mobility` | 2 | 1999-06 |
 | `power-fuel-cell` | 1 | 2020 |
 | `power-hot-swap` | 3 | 2015-02 |
 | `power-li-ion` | 61 | 1886 |
 | `power-li-po` | 3 | 2010 |
 | `power-pressure-balanced-li-ion` | 3 | 2003-09 |
 | `power-tethered` | 13 | 1973 |
+| `quadruped-robot` | 1 | 1999-05 |
 | `rov` | 6 | 1965-01 |
 | `rover-asteroid` | 1 | 2014-12 |
 | `rover-planetary` | 9 | 1970-11 |
 | `safety-emergency-stop` | 5 | 1982-12 |
 | `safety-hard-constraint` | 58 | -0250 |
 | `safety-simplex-supervisor` | 8 | 1940-09 |
+| `security-robot` | 1 | 2015-04 |
 | `sensing-3axis-magnetic-tactile` | 1 | 2017-09 |
 | `sensing-3d-perception` | 4 | 2007-01 |
 | `sensing-6axis-ft` | 1 | 1990-01 |
@@ -522,6 +536,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `sensing-tactile-whole-body` | 7 | 1989-05 |
 | `sensing-time-of-flight` | 1 | 2010-11 |
 | `sensing-vision-tactile` | 1 | 2025-11 |
+| `service-robot` | 4 | 2004-01 |
 | `software-mjbots-stack` | 2 | 2019 |
 | `software-openhrp` | 1 | 2002 |
 | `software-ros1` | 18 | 2002 |
@@ -530,6 +545,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `space-free-flyer` | 2 | 2003-05 |
 | `space-servicer` | 2 | 2019-10 |
 | `surgical-nerve-redirection` | 1 | 2002-09 |
+| `therapeutic-robot` | 1 | 2003-01 |
 | `uav-cca` | 2 | 2019-03 |
 | `uav-counter-uas` | 1 | 2023-12 |
 | `uav-delivery` | 1 | 2014-09 |
@@ -547,3 +563,5 @@ the working prior art search tool when assessing patent claims in the area.
 | `uav-ucav` | 1 | 2011-02 |
 | `usv` | 4 | 2007-01 |
 | `usv-mdusv` | 1 | 2016-04 |
+| `uv-disinfection` | 1 | 2010-01 |
+| `warehouse-robot` | 10 | 1996-01 |
