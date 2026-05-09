@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-agricultural-autonomy`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `control-agricultural-autonomy`  
 **Entries:** 3 (1 commons-grade, 2 draft)  
 **Earliest disclosure:** 2010-01  
@@ -133,4 +133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

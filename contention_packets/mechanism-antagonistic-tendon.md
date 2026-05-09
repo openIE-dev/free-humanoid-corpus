@@ -1,13 +1,13 @@
 ---
 title: "mechanism-antagonistic-tendon"
 parent: "Invalidity Contentions"
-nav_order: 132
+nav_order: 133
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-antagonistic-tendon`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `mechanism-antagonistic-tendon`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2024-06  
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

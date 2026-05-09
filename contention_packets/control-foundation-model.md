@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-foundation-model`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `control-foundation-model`  
 **Entries:** 14 (12 commons-grade, 2 draft)  
 **Earliest disclosure:** 1997-11  
@@ -344,4 +344,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

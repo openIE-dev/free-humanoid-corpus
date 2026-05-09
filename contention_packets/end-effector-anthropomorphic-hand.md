@@ -1,16 +1,16 @@
 ---
-title: "mechanism-tendon-drive"
+title: "end-effector-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 163
+nav_order: 121
 layout: default
 ---
 
-# Invalidity Contention Packet — `mechanism-tendon-drive`
+# Invalidity Contention Packet — `end-effector-anthropomorphic-hand`
 
 **Generated:** 2026-05-09  
-**Cross-cut tag:** `mechanism-tendon-drive`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
-**Earliest disclosure:** 1984-12  
+**Cross-cut tag:** `end-effector-anthropomorphic-hand`  
+**Entries:** 2 (2 commons-grade, 0 draft)  
+**Earliest disclosure:** 2014-05  
 **Most recent disclosure:** 2023-01
 
 ---
@@ -19,7 +19,7 @@ layout: default
 
 This document is an invalidity-contention packet — a chronologically-ordered
 list of every disclosed prior art reference in the Free Humanoid Corpus that
-bears on the subsystem `mechanism-tendon-drive`.
+bears on the subsystem `end-effector-anthropomorphic-hand`.
 
 To use it:
 
@@ -40,43 +40,23 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
-### 1984-12 — Utah/MIT Dextrous Hand (Jacobsen)
+### 2014-05 — DEKA / Mobius Bionics LUKE Arm
 
-- **id:** `utah-mit-jacobsen-hand-1984`
-- **corpus:** academic
-- **ip status:** public-domain
-- **creator:** University of Utah Center for Engineering Design + MIT AI Lab; Stephen Jacobsen, John Wood, David Knutti, Klaus Biggers
-- **disclosure citation:** Jacobsen, S.C., Wood, J.E., Knutti, D.F., Biggers, K.B. 'The Utah/MIT Dextrous Hand: Work in Progress'. International Journal of Robotics Research 3(4), Winter 1984. Joint project Center for Engineering Design (University of Utah) + MIT Artificial Intelligence Laboratory.
-- **disclosed subsystems:** `mechanism-anthropomorphic-hand`, `mechanism-tendon-drive`, `actuator-pneumatic-piston`
-
-**Prior art notes:**
-
-> Utah/MIT Dextrous Hand (Jacobsen et al. IJRR 1984) is the foundational dexterous robotic hand. 41-year-deep public-domain prior art. Co-foundational with Salisbury Stanford-JPL Hand (corpus salisbury-stanford-jpl-hand) of the entire dexterous-hand research field. Direct shielding for any commercial humanoid claim deriving from multi-finger tendon-driven anthropomorphic hands. Stephen Jacobsen lineage continues through Sarcos (corpus sarcos-guardian-xo-2018).
-
-**Sources:**
-
-1. Jacobsen, S.C. et al. 'The Utah/MIT Dextrous Hand'. IJRR 3(4), 1984.
-2. people.csail.mit.edu/edsinger/raw/jacobsen_design_utah_hand.pdf
-
----
-
-### 2015-05 — Stanford gecko-adhesive gripper (Cutkosky BDML)
-
-- **id:** `stanford-gecko-cutkosky-2015`
-- **corpus:** academic
-- **ip status:** academic-publication
-- **creator:** Stanford University Biomimetics and Dexterous Manipulation Lab (BDML); Elliot Hawkes, David Christensen, Mark Cutkosky
-- **disclosure citation:** Hawkes, E.W., Christensen, D.L., Cutkosky, M.R. 'Vertical dry adhesion climbing with a 100× body-weight payload'. IEEE International Conference on Robotics and Automation (ICRA) 2015. Stanford University Biomimetics and Dexterous Manipulation Lab (BDML) under Mark Cutkosky.
-- **disclosed subsystems:** `mechanism-gecko-microhair-adhesion`, `mechanism-dry-adhesive-gripper`, `mechanism-tendon-drive`
+- **id:** `deka-mobius-luke-arm-2014`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** DEKA Research and Development Corporation (Manchester, NH, USA); Dean Kamen; DARPA Revolutionizing Prosthetics; commercialized as Mobius Bionics
+- **disclosure citation:** DEKA Research and Development Corporation (Manchester, NH, USA; Dean Kamen). DARPA Revolutionizing Prosthetics program 2006-2014. FDA clearance May 2014. Mobius Bionics commercial launch July 2016. Named 'LUKE' after Star Wars (Luke Skywalker's prosthetic arm).
+- **disclosed subsystems:** `end-effector-anthropomorphic-hand`, `exoskeleton-upper-limb`, `actuator-electric`, `control-multi-modal-user-input`
 
 **Prior art notes:**
 
-> Stanford gecko-adhesive gripper (Hawkes / Christensen / Cutkosky BDML ICRA 2015) is the foundational directional dry-adhesive (gecko-microhair) gripper. 10-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from gecko-microhair / dry-adhesive grippers. Sister to NASA JPL space-rated gecko gripper (Parness 2014-2017); commercialized via OnRobot Gecko Gripper (round-42).
+> DEKA / Mobius Bionics LUKE Arm (DEKA Manchester NH 2014; Mobius Bionics 2016) is the first FDA-cleared integrated multi-joint upper-extremity prosthesis. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from integrated multi-joint upper-extremity prostheses. DARPA RP outcome; sister to APL MPL (corpus apl-mpl-revolutionizing-prosthetics-2009).
 
 **Sources:**
 
-1. news.stanford.edu/news/2015/may/grabber-robot-gecko-052715.html
-2. Hawkes, E.W., Christensen, D.L., Cutkosky, M.R. ICRA 2015.
+1. darpa.mil/news/2016/mobius-bionics-luke-arms-walter-reed
+2. darpa.mil/about/innovation-timeline/revolutionizing-prosthetics
 
 ---
 

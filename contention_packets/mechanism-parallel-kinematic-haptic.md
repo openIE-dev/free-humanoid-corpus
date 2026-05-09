@@ -1,13 +1,13 @@
 ---
 title: "mechanism-parallel-kinematic-haptic"
 parent: "Invalidity Contentions"
-nav_order: 148
+nav_order: 149
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-parallel-kinematic-haptic`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `mechanism-parallel-kinematic-haptic`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1994-09  
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

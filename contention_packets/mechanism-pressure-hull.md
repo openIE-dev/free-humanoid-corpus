@@ -1,13 +1,13 @@
 ---
 title: "mechanism-pressure-hull"
 parent: "Invalidity Contentions"
-nav_order: 152
+nav_order: 153
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-pressure-hull`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `mechanism-pressure-hull`  
 **Entries:** 7 (6 commons-grade, 1 draft)  
 **Earliest disclosure:** 1964-06  
@@ -221,4 +221,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

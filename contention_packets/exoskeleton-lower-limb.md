@@ -1,13 +1,13 @@
 ---
 title: "exoskeleton-lower-limb"
 parent: "Invalidity Contentions"
-nav_order: 126
+nav_order: 127
 layout: default
 ---
 
 # Invalidity Contention Packet — `exoskeleton-lower-limb`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `exoskeleton-lower-limb`  
 **Entries:** 10 (10 commons-grade, 0 draft)  
 **Earliest disclosure:** 1999-01  
@@ -262,4 +262,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

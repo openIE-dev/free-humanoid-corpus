@@ -1,13 +1,13 @@
 ---
 title: "safety-hard-constraint"
 parent: "Invalidity Contentions"
-nav_order: 178
+nav_order: 179
 layout: default
 ---
 
 # Invalidity Contention Packet — `safety-hard-constraint`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `safety-hard-constraint`  
 **Entries:** 58 (57 commons-grade, 1 draft)  
 **Earliest disclosure:** -0250  
@@ -1242,4 +1242,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

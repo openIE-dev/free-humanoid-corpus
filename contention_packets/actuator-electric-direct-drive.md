@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-electric-direct-drive`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `actuator-electric-direct-drive`  
 **Entries:** 69 (51 commons-grade, 18 draft)  
 **Earliest disclosure:** 1886  
@@ -1439,4 +1439,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

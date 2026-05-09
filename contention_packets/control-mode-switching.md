@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-mode-switching`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `control-mode-switching`  
 **Entries:** 8 (4 commons-grade, 4 draft)  
 **Earliest disclosure:** 2008-05  
@@ -234,4 +234,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

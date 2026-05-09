@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-pathfinding`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `control-pathfinding`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1968-07  
@@ -110,4 +110,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

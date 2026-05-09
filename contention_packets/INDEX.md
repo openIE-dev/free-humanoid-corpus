@@ -8,9 +8,9 @@ layout: default
 
 # Invalidity Contention Packets
 
-**Generated:** 2026-05-08  
-**Packets:** 203  
-**Corpus revision:** `46b6329`
+**Generated:** 2026-05-09  
+**Packets:** 204  
+**Corpus revision:** `0f95e9a`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -30,7 +30,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-biological`](actuator-biological.md) | 13 | 12 | 1 | 1973-11-21 | 2020-01-23 |
 | [`actuator-bldc-controller`](actuator-bldc-controller.md) | 11 | 11 | 0 | 1929-07 | 2022 |
 | [`actuator-compliant`](actuator-compliant.md) | 3 | 3 | 0 | 1957-01 | 2017-04 |
-| [`actuator-electric`](actuator-electric.md) | 48 | 41 | 7 | 1956-01 | 2025-10 |
+| [`actuator-electric`](actuator-electric.md) | 49 | 42 | 7 | 1956-01 | 2025-10 |
 | [`actuator-electric-cycloidal`](actuator-electric-cycloidal.md) | 5 | 2 | 3 | 1937 | 2025-04 |
 | [`actuator-electric-direct-drive`](actuator-electric-direct-drive.md) | 69 | 51 | 18 | 1886 | 2024-11 |
 | [`actuator-electric-harmonic-drive`](actuator-electric-harmonic-drive.md) | 22 | 19 | 3 | 1986 | 2025-10 |
@@ -147,6 +147,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-vr-headset-teleoperation`](control-vr-headset-teleoperation.md) | 3 | 2 | 1 | 2014-01 | 2025-06 |
 | [`control-whole-body-qp`](control-whole-body-qp.md) | 3 | 3 | 0 | 2003-09 | 2017-09 |
 | [`control-zmp-balancing`](control-zmp-balancing.md) | 25 | 24 | 1 | 1969 | 2023-08 |
+| [`end-effector-anthropomorphic-hand`](end-effector-anthropomorphic-hand.md) | 2 | 2 | 0 | 2014-05 | 2023-01 |
 | [`end-effector-prosthetic`](end-effector-prosthetic.md) | 3 | 3 | 0 | 1997-09 | 2019-09 |
 | [`exoskeleton`](exoskeleton.md) | 25 | 24 | 1 | 1942-04 | 2024-05-24 |
 | [`exoskeleton-fictional`](exoskeleton-fictional.md) | 9 | 9 | 0 | 2005-12 | 2018-04 |
@@ -188,7 +189,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`mechanism-surgical-robot`](mechanism-surgical-robot.md) | 6 | 5 | 1 | 1989-01 | 2017-08 |
 | [`mechanism-syntactic-foam-ballast`](mechanism-syntactic-foam-ballast.md) | 2 | 2 | 0 | 1964-06 | 2008-05 |
 | [`mechanism-telescoping-mast`](mechanism-telescoping-mast.md) | 6 | 5 | 1 | 2014-05 | 2024-09 |
-| [`mechanism-tendon-drive`](mechanism-tendon-drive.md) | 2 | 2 | 0 | 1984-12 | 2015-05 |
+| [`mechanism-tendon-drive`](mechanism-tendon-drive.md) | 3 | 3 | 0 | 1984-12 | 2023-01 |
 | [`mechanism-tendon-driven`](mechanism-tendon-driven.md) | 5 | 4 | 1 | 1988-01 | 2025-10 |
 | [`mechanism-tendon-routing`](mechanism-tendon-routing.md) | 15 | 12 | 3 | 1495 | 2024 |
 | [`mechanism-thruster-axial`](mechanism-thruster-axial.md) | 2 | 2 | 0 | 1995-01 | 2003-09 |

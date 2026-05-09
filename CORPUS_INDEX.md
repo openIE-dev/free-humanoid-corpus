@@ -1,6 +1,6 @@
 # Corpus Index
 
-669 entries total. Generated from corpus.jsonl.
+670 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | LIBERO (Lifelong Robot Learning Benchmark) | `libero-liu-neurips-2023` | 2023 | academic | open-permissive |  |
 | Liberty Prime | `fallout-liberty-prime` | 2008 | fictional | fictional |  |
 | LimX Dynamics CL-1 | `limx-cl1` | 2023 | private | patented | ✓ |
+| Linkerbot Linker Hand (Beijing) | `linkerbot-linker-hand-beijing-2023` | 2023 | private | trade-secret |  |
 | LLaMA 2 | `meta-llama-2-2023` | 2023 | academic | open-permissive |  |
 | Lockheed Martin HULC (Human Universal Load Carrier) | `lockheed-martin-hulc-2009` | 2009 | private | trade-secret |  |
 | Long Short-Term Memory (LSTM) | `lstm-hochreiter-schmidhuber-1997` | 1997 | academic | public-domain |  |

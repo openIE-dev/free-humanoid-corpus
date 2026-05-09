@@ -1,13 +1,13 @@
 ---
 title: "mechanism-thruster-vectored"
 parent: "Invalidity Contentions"
-nav_order: 166
+nav_order: 167
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-thruster-vectored`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `mechanism-thruster-vectored`  
 **Entries:** 9 (8 commons-grade, 1 draft)  
 **Earliest disclosure:** 1964-06  
@@ -259,4 +259,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

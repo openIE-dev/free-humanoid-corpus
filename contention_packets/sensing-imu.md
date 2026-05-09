@@ -1,13 +1,13 @@
 ---
 title: "sensing-imu"
 parent: "Invalidity Contentions"
-nav_order: 189
+nav_order: 190
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-imu`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `sensing-imu`  
 **Entries:** 77 (58 commons-grade, 19 draft)  
 **Earliest disclosure:** 1989  
@@ -1604,4 +1604,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-electric`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 48 (41 commons-grade, 7 draft)  
+**Entries:** 49 (42 commons-grade, 7 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2025-10
 
@@ -787,6 +787,29 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-01 — Linkerbot Linker Hand (Beijing)
+
+- **id:** `linkerbot-linker-hand-beijing-2023`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Linkerbot Co., Ltd. (Beijing, China); Alex Zhou Yong (周永) founder
+- **disclosure citation:** Linkerbot Co., Ltd. (Beijing, China). Founded 2023 by Alex Zhou Yong (周永). Linker Hand product family ranges 6-42 DoF across all three mainstream dexterous-hand actuation technologies (linkage transmission, tendon drive, direct drive). Series B+ closed early May 2026 at USD 3B valuation; next round targeting USD 6B (May 2026). Early backers: Ant Group, HongShan Group. Latest investors: Zhongguancun Science Park Fund, Bank of China Asset Management, Fosun Capital.
+- **disclosed subsystems:** `end-effector-anthropomorphic-hand`, `mechanism-tendon-drive`, `mechanism-linkage-drive`, `mechanism-direct-drive`, `actuator-electric`
+
+**Prior art notes:**
+
+> Linkerbot Linker Hand (Beijing 2023+) is the global volume-leader in high-DoF dexterous hands per Reuters (>80% market share by volume). 2-3-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from high-DoF anthropomorphic hand product families spanning linkage / tendon / direct-drive actuation, or from dedicated-hand supplier business models. The Chinese hand-specialist complement to corpus humanoid-platform entries (Unitree, Fourier, AgiBot, Astribot, Galbot, etc.). Lineage descends from foundational anthropomorphic-hand prior art: Belgrade-USC Hand (round-42 belgrade-usc-tomovic-bekey-hand-1963), Shadow Dexterous Hand (corpus shadow-dexterous-hand), Allegro Hand (corpus allegro-hand-wonik-simlab-2014), DLR Hand II (corpus dlr-hand-ii).
+
+**Sources:**
+
+1. linkerbot.cn/index (corporate site).
+2. thenextweb.com/news/linkerbot-china-robot-hand-6-billion-valuation
+3. scmp.com/tech/tech-trends/article/3344242 (South China Morning Post).
+4. interestingengineering.com/ai-robotics/china-linkerbot-robotic-hands-human-skills
+5. Reuters market-share reporting (cited in TNW and SCMP).
+
+---
+
 ### 2024-04 — Astribot S1
 
 - **id:** `astribot-s1-stardust-2025`
@@ -1043,4 +1066,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

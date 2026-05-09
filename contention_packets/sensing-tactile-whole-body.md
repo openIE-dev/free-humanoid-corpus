@@ -1,13 +1,13 @@
 ---
 title: "sensing-tactile-whole-body"
 parent: "Invalidity Contentions"
-nav_order: 200
+nav_order: 201
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-tactile-whole-body`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `sensing-tactile-whole-body`  
 **Entries:** 7 (7 commons-grade, 0 draft)  
 **Earliest disclosure:** 1989-05  
@@ -216,4 +216,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

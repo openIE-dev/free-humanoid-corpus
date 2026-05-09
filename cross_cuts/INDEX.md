@@ -18,7 +18,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-biological` | 13 | 1973-11-21 |
 | `actuator-bldc-controller` | 11 | 1929-07 |
 | `actuator-compliant` | 3 | 1957-01 |
-| `actuator-electric` | 48 | 1956-01 |
+| `actuator-electric` | 49 | 1956-01 |
 | `actuator-electric-cycloidal` | 5 | 1937 |
 | `actuator-electric-direct-drive` | 69 | 1886 |
 | `actuator-electric-harmonic-drive` | 22 | 1986 |
@@ -285,7 +285,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-word-embedding` | 1 | 2013-01 |
 | `control-world-model` | 1 | 2025-01 |
 | `control-zmp-balancing` | 25 | 1969 |
-| `end-effector-anthropomorphic-hand` | 1 | 2014-05 |
+| `end-effector-anthropomorphic-hand` | 2 | 2014-05 |
 | `end-effector-prosthetic` | 3 | 1997-09 |
 | `exoskeleton` | 25 | 1942-04 |
 | `exoskeleton-auto-deploy` | 1 | 2012-05 |
@@ -331,6 +331,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-continuum-manipulator` | 3 | 2005-04 |
 | `mechanism-control-fin` | 2 | 1995-01 |
 | `mechanism-differential-synergy` | 1 | 2025-10 |
+| `mechanism-direct-drive` | 1 | 2023-01 |
 | `mechanism-dry-adhesive-gripper` | 1 | 2015-05 |
 | `mechanism-dynamic-legged-locomotion` | 2 | 1981-01 |
 | `mechanism-educational-platform` | 1 | 2025-10 |
@@ -349,6 +350,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-hydraulic-actuator` | 3 | 2004-03 |
 | `mechanism-implantable-medical-device` | 1 | 2017-04 |
 | `mechanism-jamming-gripper` | 1 | 2012-01 |
+| `mechanism-linkage-drive` | 1 | 2023-01 |
 | `mechanism-manipulator-arm` | 25 | 1956-01 |
 | `mechanism-mckibben-actuator` | 1 | 2005-04 |
 | `mechanism-mobile-base` | 15 | 2000-01 |
@@ -381,7 +383,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-surgical-robot` | 6 | 1989-01 |
 | `mechanism-syntactic-foam-ballast` | 2 | 1964-06 |
 | `mechanism-telescoping-mast` | 6 | 2014-05 |
-| `mechanism-tendon-drive` | 2 | 1984-12 |
+| `mechanism-tendon-drive` | 3 | 1984-12 |
 | `mechanism-tendon-driven` | 5 | 1988-01 |
 | `mechanism-tendon-routing` | 15 | 1495 |
 | `mechanism-thrust-reversal` | 1 | 2021-07 |

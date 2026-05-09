@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-semantic-slam`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `control-semantic-slam`  
 **Entries:** 4 (1 commons-grade, 3 draft)  
 **Earliest disclosure:** 2024-03  
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*

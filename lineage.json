@@ -255,6 +255,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "linkerbot-linker-hand-beijing-2023",
         "modern-multiarticulated-prosthetic-hands-2007-2012"
       ]
     },
@@ -1923,7 +1924,8 @@
         "salisbury-stanford-jpl-hand"
       ],
       "descendants": [
-        "dlr-hand-ii"
+        "dlr-hand-ii",
+        "linkerbot-linker-hand-beijing-2023"
       ]
     },
     {
@@ -2097,6 +2099,7 @@
         "dlr-hand-arm-system-2011",
         "dlr-justin",
         "icub",
+        "linkerbot-linker-hand-beijing-2023",
         "robonaut-2"
       ]
     },
@@ -3432,7 +3435,9 @@
       "ancestors": [
         "barrett-hand-1988"
       ],
-      "descendants": []
+      "descendants": [
+        "linkerbot-linker-hand-beijing-2023"
+      ]
     },
     {
       "id": "skybot-fedor-russia-2019",
@@ -5423,6 +5428,19 @@
       "ancestors": [
         "dex-net-goldberg-berkeley-2017",
         "graspnet-1billion-fang-sjtu-2020"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "linkerbot-linker-hand-beijing-2023",
+      "name": "Linkerbot Linker Hand (Beijing)",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "allegro-hand-wonik-simlab-2014",
+        "belgrade-usc-tomovic-bekey-hand-1963",
+        "dlr-hand-ii",
+        "shadow-dexterous-hand"
       ],
       "descendants": []
     },

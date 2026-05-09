@@ -1,13 +1,13 @@
 ---
 title: "mechanism-thruster-axial"
 parent: "Invalidity Contentions"
-nav_order: 165
+nav_order: 166
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-thruster-axial`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `mechanism-thruster-axial`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1995-01  
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `46b6329`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*
