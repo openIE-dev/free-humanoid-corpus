@@ -1,7 +1,7 @@
 ---
 title: "sensing-joint-torque"
 parent: "Invalidity Contentions"
-nav_order: 202
+nav_order: 218
 layout: default
 ---
 
@@ -166,4 +166,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bd98079`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*

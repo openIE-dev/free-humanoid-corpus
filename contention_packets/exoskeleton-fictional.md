@@ -1,7 +1,7 @@
 ---
 title: "exoskeleton-fictional"
 parent: "Invalidity Contentions"
-nav_order: 126
+nav_order: 137
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `exoskeleton-fictional`  
-**Entries:** 9 (9 commons-grade, 0 draft)  
+**Entries:** 10 (10 commons-grade, 0 draft)  
 **Earliest disclosure:** 2005-12  
-**Most recent disclosure:** 2018-04
+**Most recent disclosure:** 2018-12
 
 ---
 
@@ -220,6 +220,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-12 — OceanGate Titan (carbon-fiber experimental HOV; 2023 loss)
+
+- **id:** `oceangate-titan-2018-2023`
+- **corpus:** private
+- **ip status:** trade-secret (OceanGate dissolved 2023)
+- **creator:** OceanGate Inc. (Everett, WA, USA); Stockton Rush founder
+- **disclosure citation:** OceanGate Inc. / Stockton Rush (Everett, WA, USA). Titan uncrewed test June 2018; first crewed 4,000 m dive December 10, 2018. Imploded near RMS Titanic wreck on June 18, 2023, killing all 5 aboard. Tragic but pivotal prior-art event for carbon-fiber-hull experimental HOV / full-ocean-depth tourism.
+- **disclosed subsystems:** `hov`, `exoskeleton-fictional`, `actuator-electric`
+
+**Prior art notes:**
+
+> OceanGate Titan (Everett WA 2018-2023) is the carbon-fiber experimental HOV that tragically imploded June 2023 near the RMS Titanic wreck. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from carbon-fiber composite pressure hulls — the canonical 'what not to do' for deep-pressure-cycling design.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Titan_(submersible)
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -250,4 +269,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bd98079`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*

@@ -1,7 +1,7 @@
 ---
 title: "actuator-electric"
 parent: "Invalidity Contentions"
-nav_order: 4
+nav_order: 6
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 80 (73 commons-grade, 7 draft)  
+**Entries:** 105 (98 commons-grade, 7 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2025-10
 
@@ -61,6 +61,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1957-08 — SPURV (Self-Propelled Underwater Research Vehicle; the FIRST AUV)
+
+- **id:** `spurv-uw-apl-1957`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** University of Washington Applied Physics Laboratory; Bob Van Wagennen + Wayne Nodland; ONR-funded
+- **disclosure citation:** Van Wagennen, R. + Nodland, W. / University of Washington Applied Physics Laboratory; ONR-funded. First cruise to Cobb Seamount August 1957. The FIRST autonomous underwater vehicle. 3,000 m torpedo-form.
+- **disclosed subsystems:** `auv`, `actuator-electric`
+
+**Prior art notes:**
+
+> SPURV (UW APL 1957) is the FIRST autonomous underwater vehicle. 68-year-deep public-domain prior art. Direct shielding for any commercial humanoid or AUV claim deriving from autonomous underwater vehicles. Foundational predicate for every commercial AUV downstream.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/SPURV
+
+---
+
 ### 1963-01 — Belgrade / Belgrade-USC Hand (Tomović + Bekey)
 
 - **id:** `belgrade-usc-tomovic-bekey-hand-1963`
@@ -79,6 +98,25 @@ cite, copy, or redistribute these contentions.
 1. Tomović, R. + Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962.
 2. en.techfokus.rs/belgrade-hand-first-bionic-prosthetic-robotics/
 3. en.wikipedia.org/wiki/Rajko_Tomović
+
+---
+
+### 1965-01 — CURV (Cable-controlled Underwater Recovery Vehicle)
+
+- **id:** `curv-us-navy-1965`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** US Navy Naval Ocean Systems Center (NOSC); Jack L. Sayer Jr.
+- **disclosure citation:** US Navy Naval Ocean Systems Center (NOSC) (USA); Jack L. Sayer Jr. CURV-I 1965 — Cable-controlled Underwater Recovery Vehicle, recovered the 1966 Palomares H-bomb. Successor CURV-III 1972 (7,200 ft depth) recovered Pisces III crew 1973.
+- **disclosed subsystems:** `rov`, `actuator-electric`, `control-tethered`
+
+**Prior art notes:**
+
+> CURV (US Navy NOSC 1965+) is the foundational tethered-ROV architecture. 60-year-deep public-domain prior art. Direct shielding for any commercial humanoid or ROV claim deriving from cable-controlled underwater recovery vehicles. Predicate for every tethered ROV downstream.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/CURV
 
 ---
 
@@ -200,6 +238,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1984-12 — Nautile (IFREMER 6000 m HOV)
+
+- **id:** `nautile-ifremer-1984`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** IFREMER / Genavir (France)
+- **disclosure citation:** IFREMER (Institut français de recherche pour l'exploitation de la mer) / Genavir (France). Nautile commissioned 1984; first 6,000 m dive April 3, 1985.
+- **disclosed subsystems:** `hov`, `actuator-electric`
+
+**Prior art notes:**
+
+> Nautile (IFREMER France 1984+) is Europe's flagship operational scientific 6,000 m HOV. 41-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from titanium-pressure-sphere 6,000 m crewed vehicles.
+
+**Sources:**
+
+1. ifremer.fr/en/Nautile40ans
+
+---
+
 ### 1985-01 — Clavel Delta Robot (EPFL 1985 patent)
 
 - **id:** `clavel-delta-epfl-1985`
@@ -216,6 +273,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. en.wikipedia.org/wiki/Reymond_Clavel
+
+---
+
+### 1987-12 — Mir-1 + Mir-2 deep submergence vehicles
+
+- **id:** `mir-1-and-mir-2-rauma-repola-1987`
+- **corpus:** private
+- **ip status:** trade-secret (Cold War origin)
+- **creator:** Rauma-Repola Oceanics (Finland) / USSR Shirshov Institute of Oceanology
+- **disclosure citation:** Rauma-Repola Oceanics (Finland) for the USSR Academy of Sciences Shirshov Institute of Oceanology. Mir-1 + Mir-2 twin 6,000 m HOVs delivered December 1987. Cold War Finnish-Soviet co-build. Used at Titanic + Komsomolets wrecks; filming Cameron's 'Titanic' (1997).
+- **disclosed subsystems:** `hov`, `actuator-electric`
+
+**Prior art notes:**
+
+> Mir-1 + Mir-2 (Rauma-Repola Finland for Shirshov Institute 1987+) are twin 6,000 m steel-alloy HOVs. 38-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from twin-HOV simultaneous-dive operations.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Mir_(submersible)
 
 ---
 
@@ -259,6 +335,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1990-01 — Shinkai 6500 (JAMSTEC 6500 m HOV)
+
+- **id:** `shinkai-6500-jamstec-1990`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** JAMSTEC / Mitsubishi Heavy Industries (Japan)
+- **disclosure citation:** JAMSTEC (Japan Agency for Marine-Earth Science and Technology) / Mitsubishi Heavy Industries (Japan). Shinkai 6500 completed 1990; operational from 1991. 6,500 m operational depth.
+- **disclosed subsystems:** `hov`, `actuator-electric`
+
+**Prior art notes:**
+
+> Shinkai 6500 (JAMSTEC Japan 1990+) is Japan's flagship 6,500 m HOV. 35-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from titanium-pressure-sphere Japanese deep HOVs.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/DSV_Shinkai_6500
+
+---
+
 ### 1991-01 — Stäubli TX/RX series high-precision sealed arms
 
 - **id:** `staubli-tx-rx-series-1991`
@@ -294,6 +389,121 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. DLR Institute of Robotics and Mechatronics LWR documentation.
+
+---
+
+### 1994-09 — RoboTuna (MIT first robot fish; biomimetic propulsion)
+
+- **id:** `robotuna-mit-triantafyllou-1994`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** MIT Department of Ocean Engineering; Michael Triantafyllou + George Triantafyllou + David Barrett
+- **disclosure citation:** Triantafyllou, M.S., Triantafyllou, G.S., Barrett, D.S. / MIT Department of Ocean Engineering (USA). RoboTuna ('Charlie I') maiden swim 1994/1995. The first robot fish. Defined the biomimetic underwater propulsion research field.
+- **disclosed subsystems:** `biomimetic-aquatic`, `mechanism-undulating-tail`, `actuator-electric`
+
+**Prior art notes:**
+
+> RoboTuna (MIT Triantafyllou 1994) is the first robot fish — defined the biomimetic underwater propulsion research field. 31-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from biomimetic undulating-tail propulsion. Foundational to every subsequent biomimetic underwater robot.
+
+**Sources:**
+
+1. news.mit.edu/1994/robotuna-0921
+
+---
+
+### 1995-03 — Kaiko ROV (first ROV to Challenger Deep)
+
+- **id:** `kaiko-jamstec-1995`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** JAMSTEC (Japan)
+- **disclosure citation:** JAMSTEC (Japan). Kaiko first dive to Challenger Deep March 1995. ~296 dives to 1999 servicing. Lost May 29, 2003 in typhoon. Successor: ABISMO (round-47 lineage).
+- **disclosed subsystems:** `rov`, `actuator-electric`, `control-tethered`
+
+**Prior art notes:**
+
+> Kaiko (JAMSTEC 1995-2003) is the first ROV ever to reach Challenger Deep. 30-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or ROV claim deriving from full-ocean-depth tethered ROVs.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Kaikō_ROV
+
+---
+
+### 1995-06 — Autonomous Benthic Explorer (ABE; WHOI 1995)
+
+- **id:** `abe-whoi-1995`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Woods Hole Oceanographic Institution; Dana Yoerger group
+- **disclosure citation:** Yoerger, D. et al. / Woods Hole Oceanographic Institution (USA). ABE developed 1994; first mission 1995-1996. Lost at sea March 5, 2010 off Chile. 222 missions before loss.
+- **disclosed subsystems:** `auv`, `auv-hovering`, `actuator-electric`
+
+**Prior art notes:**
+
+> ABE (WHOI 1995-2010) is the pioneering hovering AUV. 30-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or AUV claim deriving from hovering AUV architectures. Direct ancestor of Sentry (round-47).
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Autonomous_Benthic_Explorer
+
+---
+
+### 1995-08 — Theseus AUV (long-range Arctic under-ice cable-layer)
+
+- **id:** `theseus-ise-canada-1995`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** International Submarine Engineering Ltd. (Port Coquitlam, BC, Canada)
+- **disclosure citation:** International Submarine Engineering Ltd. (ISE; Port Coquitlam, BC, Canada). Theseus construction 1993-1994; first Arctic deployment 1995; full mission 1996. Long-range under-ice fiber-optic cable-laying AUV.
+- **disclosed subsystems:** `auv`, `actuator-electric`
+
+**Prior art notes:**
+
+> Theseus (ISE Canada 1995-1996) is the foundational long-range under-ice cable-laying AUV. 30-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or AUV claim deriving from ultra-long-range polar under-ice autonomous operations.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Theseus_(AUV)
+
+---
+
+### 1996-06 — Hugin AUV (Kongsberg/FFI dominant European commercial)
+
+- **id:** `hugin-kongsberg-ffi-1996`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Norwegian Defence Research Establishment (FFI) + Kongsberg Simrad + Statoil (Norway)
+- **disclosure citation:** Norwegian Defence Research Establishment (FFI) + Kongsberg Simrad + Statoil (Norway). Hugin 1 first sea trial summer 1996; first commercial survey 1997. Hugin Endurance 2024 (8,000 km range).
+- **disclosed subsystems:** `auv`, `actuator-electric`
+
+**Prior art notes:**
+
+> Hugin AUV (FFI + Kongsberg + Statoil Norway 1996+) is the dominant European commercial survey AUV. 29-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or AUV claim deriving from offshore-survey commercial AUVs.
+
+**Sources:**
+
+1. ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle
+2. kongsberg.com/discovery/autonomous-and-uncrewed-solutions/auv/hugin/
+
+---
+
+### 1996-09 — Autosub family (NOC Southampton UK; Boaty McBoatface)
+
+- **id:** `autosub-noc-southampton-1996`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** National Oceanography Centre Southampton (UK)
+- **disclosure citation:** National Oceanography Centre Southampton (UK). Autosub-1 1996; Autosub-6000 2007; Autosub Long Range ('Boaty McBoatface') 2017. UK academic + scientific AUV lineage focused on polar + under-ice missions.
+- **disclosed subsystems:** `auv`, `actuator-electric`
+
+**Prior art notes:**
+
+> Autosub family (NOC Southampton UK 1996+; Boaty McBoatface 2017) is the UK academic AUV lineage with polar + under-ice focus. 29-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or AUV claim deriving from UK polar + Antarctic under-ice AUV operations.
+
+**Sources:**
+
+1. noc.ac.uk/technology/technology-development/autosub-long-range-boaty-mcboatface
 
 ---
 
@@ -356,6 +566,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1999-01 — VideoRay Pro / Mission Specialist (microROV market leader)
+
+- **id:** `videoray-pro-1999`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** VideoRay LLC (Pottstown, PA, USA); Scott Bentley founder
+- **disclosure citation:** VideoRay LLC (Pottstown, PA, USA; founded 1999). VideoRay Pro (1999) → Pro 4 → Mission Specialist (2017+) → Defender (US Navy EOD 2017+). Global volume leader in microROV; >3,000 units delivered.
+- **disclosed subsystems:** `rov`, `actuator-electric`, `control-tethered`
+
+**Prior art notes:**
+
+> VideoRay Pro / Mission Specialist (Pottstown PA 1999+) is the global volume leader in microROV. 26-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or ROV claim deriving from small-class portable observation/inspection ROVs.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/VideoRay_UROVs
+2. videoray.com
+
+---
+
 ### 2000-04 — Siasun Robotics (Chinese Academy of Sciences spinout)
 
 - **id:** `siasun-robotics-cas-2000`
@@ -372,6 +602,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. en.wikipedia.org/wiki/Siasun_Robotics
+
+---
+
+### 2003-01 — Hercules + Argus (Ballard deep-archaeology two-body ROV)
+
+- **id:** `hercules-argus-ballard-2003`
+- **corpus:** private
+- **ip status:** trade-secret (academic-publication for some systems)
+- **creator:** Institute for Exploration + Inner Space Center + Ocean Exploration Trust (Bob Ballard); USA
+- **disclosure citation:** Institute for Exploration / Inner Space Center / Ocean Exploration Trust (Bob Ballard) (USA). Hercules + Argus two-body deep-archaeology ROV system 2003+. Pair operates tethered: Argus (tow-sled providing lighting + 2nd-camera perspective) + Hercules (work-class ROV with manipulator + sample collection).
+- **disclosed subsystems:** `rov`, `actuator-electric`, `control-tethered`
+
+**Prior art notes:**
+
+> Hercules + Argus (Ballard 2003+) is the canonical deep-archaeology two-body ROV system. 22-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or ROV claim deriving from two-body cultural-heritage ROV operations.
+
+**Sources:**
+
+1. Ocean Exploration Trust + E/V Nautilus documentation.
 
 ---
 
@@ -392,6 +641,25 @@ cite, copy, or redistribute these contentions.
 
 1. Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
 2. Jun-Ho Oh group publications (KAIST Humanoid Robot Research Center).
+
+---
+
+### 2006-04 — Sentry AUV (WHOI ABE successor; deep-search workhorse)
+
+- **id:** `sentry-auv-whoi-2006`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Woods Hole Oceanographic Institution; Dana Yoerger group
+- **disclosure citation:** Yoerger, D. et al. / Woods Hole Oceanographic Institution (USA). Sentry first deep-sea trials April 2006. Direct ABE successor; National Deep Submergence Facility workhorse for Deepwater Horizon (2010), hydrothermal-vent mapping, and deep-ocean exploration.
+- **disclosed subsystems:** `auv`, `auv-hovering`, `actuator-electric`
+
+**Prior art notes:**
+
+> Sentry (WHOI 2006+) is the deep-search workhorse AUV — ABE successor. 19-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or AUV claim deriving from twin-hull hovering deep-search AUVs.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Sentry_(AUV)
 
 ---
 
@@ -535,6 +803,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2010-03 — TRIDENT (first major EU autonomous underwater intervention)
+
+- **id:** `trident-eu-fp7-iauv-2010`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** UJI Spain (lead) + multi-EU consortium; EU FP7-funded
+- **disclosure citation:** TRIDENT consortium (UJI Spain coordinated; multi-EU partners). EU FP7 project launched March 1, 2010; ended 2013. First major EU autonomous underwater intervention I-AUV with dexterous hand+arm system.
+- **disclosed subsystems:** `auv`, `auv-iauv`, `manipulator-arm`, `end-effector-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> TRIDENT (EU FP7 / UJI Spain 2010-2013) is the first major EU autonomous underwater intervention I-AUV. 15-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from autonomous underwater intervention with manipulator arm + dexterous hand.
+
+**Sources:**
+
+1. cordis.europa.eu/project/id/248497
+
+---
+
 ### 2010-04 — Willow Garage PR2 (defining ROS mobile-manipulation platform)
 
 - **id:** `willow-garage-pr2-2010`
@@ -570,6 +857,44 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. rexbionics.com/
+
+---
+
+### 2010-08 — Jiaolong (China 7000 m HOV)
+
+- **id:** `jiaolong-china-2010`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** China Ship Scientific Research Center / CSSRC (Wuxi, China)
+- **disclosure citation:** China Ship Scientific Research Center (CSSRC) (Wuxi, China). Jiaolong first sea trial 2010; reached 7,062 m on June 27, 2012 in Mariana Trench. The first Chinese 7,000 m HOV; made China the fifth nation with deep-HOV capability.
+- **disclosed subsystems:** `hov`, `actuator-electric`
+
+**Prior art notes:**
+
+> Jiaolong (CSSRC China 2010+) is the first Chinese 7,000 m HOV. 15-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from Chinese deep HOVs. Lineage: Jiaolong (7,000 m) → Shenhai Yongshi (4,500 m, 2017) → Fendouzhe (full-ocean-depth, 2020 round-47).
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Jiaolong_(submersible)
+
+---
+
+### 2010-09 — Girona 500 I-AUV (UdG/IRSLab reconfigurable)
+
+- **id:** `girona-500-uji-iauv-2010`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** University of Girona (UdG) IRSLab (Spain); Pere Ridao group
+- **disclosure citation:** Ribas, D., Palomeras, N., Ridao, P., Carreras, M., Mallios, A. / University of Girona (UdG) IRSLab (Spain). Girona 500 first trial 2010. Reconfigurable intervention AUV with arm; backbone of TRIDENT/MERBOTS/TWINBOT EU manipulation projects.
+- **disclosed subsystems:** `auv`, `auv-iauv`, `manipulator-arm`, `actuator-electric`
+
+**Prior art notes:**
+
+> Girona 500 (UdG IRSLab Spain 2010+) is the reconfigurable intervention AUV — backbone of EU manipulation projects. 15-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from reconfigurable hovering intervention AUVs.
+
+**Sources:**
+
+1. iqua.cat/products/sparus-ii-auv/
 
 ---
 
@@ -628,6 +953,25 @@ cite, copy, or redistribute these contentions.
 
 1. en.wikipedia.org/wiki/Ekso_Bionics
 2. ir.eksobionics.com/press-releases/detail/689/ekso-bionics-receives-fda-clearance-to-market-its
+
+---
+
+### 2012-03 — Deepsea Challenger (Cameron solo Challenger Deep)
+
+- **id:** `deepsea-challenger-cameron-2012`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** James Cameron / Acheron Project Pty Ltd (Australia/USA)
+- **disclosure citation:** James Cameron / Acheron Project Pty Ltd (Australia/USA). Solo Challenger Deep dive March 26, 2012 (10,908 m). First solo human descent to Challenger Deep; vertical 'torpedo' HOV architecture.
+- **disclosed subsystems:** `hov`, `actuator-electric`
+
+**Prior art notes:**
+
+> Deepsea Challenger (Cameron / Acheron 2012) is the first solo human descent to Challenger Deep + the vertical 'torpedo' HOV architecture. 13-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from single-person vertical-configuration HOVs.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Deepsea_Challenger
 
 ---
 
@@ -751,6 +1095,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-08 — Blue Robotics BlueROV2 (affordable open-hardware ROV)
+
+- **id:** `bluerov2-blue-robotics-2016`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Blue Robotics Inc. (Torrance, CA, USA); Rusty Jordan + Erin Riley
+- **disclosure citation:** Blue Robotics Inc. (Torrance, CA, USA; founded 2014 by Rusty Jordan + Erin Riley). BlueROV1 Kickstarter 2014; BlueROV2 production 2016. ArduSub-based open-source firmware ecosystem.
+- **disclosed subsystems:** `rov`, `actuator-electric`, `control-open-source`
+
+**Prior art notes:**
+
+> Blue Robotics BlueROV1/2 (Torrance CA 2014/2016+) is the democratized affordable open-hardware ROV. 11-year-deep open-permissive prior art. Direct shielding for any commercial humanoid or ROV claim deriving from open-source-ArduSub-firmware ROVs or BlueRobotics-component ecosystems.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/BlueROV2
+2. bluerobotics.com
+
+---
+
 ### 2015-01 — OnRobot RG2 / RG6 / VGC10 cobot grippers
 
 - **id:** `onrobot-rg-grippers-2015`
@@ -847,6 +1211,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. mecademic.com/products/meca500-industrial-robot-arm/
+
+---
+
+### 2015-09 — Eelume snake robot (NTNU AMOS spinout)
+
+- **id:** `eelume-ntnu-2015`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Eelume AS (Trondheim, Norway); NTNU AMOS spinout; Pål Liljebäck + Kristin Pettersen lineage
+- **disclosure citation:** Eelume AS (Trondheim, Norway; NTNU AMOS spinout founded 2015). NTNU snake-robot research from 2004 (Pål Liljebäck, Kristin Pettersen). Eelume vehicle for IMR (Inspection-Maintenance-Repair) in confined offshore structures.
+- **disclosed subsystems:** `biomimetic-aquatic`, `mechanism-articulated-snake`, `actuator-electric`
+
+**Prior art notes:**
+
+> Eelume (NTNU AMOS spinout Trondheim 2015+) is the canonical articulated subsea snake robot for IMR. 10-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from articulated subsea snake robots or resident-vehicle IMR architectures.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Eelume
 
 ---
 
@@ -1182,6 +1565,44 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-12 — DSV Limiting Factor (Triton 36000/2 full-ocean-depth HOV)
+
+- **id:** `dsv-limiting-factor-vescovo-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Triton Submarines (Sebastian, FL, USA) for Caladan Oceanic / Victor Vescovo
+- **disclosure citation:** Triton Submarines (Sebastian, FL, USA) for Caladan Oceanic / Victor Vescovo. Limiting Factor first dive December 19 2018; Challenger Deep April 28 2019. First commercial repeatable full-ocean-depth HOV (Triton 36000/2 design certified by DNV-GL).
+- **disclosed subsystems:** `hov`, `actuator-electric`
+
+**Prior art notes:**
+
+> DSV Limiting Factor (Triton Submarines + Caladan Oceanic / Vescovo 2018+) is the first commercial repeatable full-ocean-depth HOV. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from commercially-certified full-ocean-depth crewed vehicles.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/DSV_Limiting_Factor
+
+---
+
+### 2018-12 — OceanGate Titan (carbon-fiber experimental HOV; 2023 loss)
+
+- **id:** `oceangate-titan-2018-2023`
+- **corpus:** private
+- **ip status:** trade-secret (OceanGate dissolved 2023)
+- **creator:** OceanGate Inc. (Everett, WA, USA); Stockton Rush founder
+- **disclosure citation:** OceanGate Inc. / Stockton Rush (Everett, WA, USA). Titan uncrewed test June 2018; first crewed 4,000 m dive December 10, 2018. Imploded near RMS Titanic wreck on June 18, 2023, killing all 5 aboard. Tragic but pivotal prior-art event for carbon-fiber-hull experimental HOV / full-ocean-depth tourism.
+- **disclosed subsystems:** `hov`, `exoskeleton-fictional`, `actuator-electric`
+
+**Prior art notes:**
+
+> OceanGate Titan (Everett WA 2018-2023) is the carbon-fiber experimental HOV that tragically imploded June 2023 near the RMS Titanic wreck. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from carbon-fiber composite pressure hulls — the canonical 'what not to do' for deep-pressure-cycling design.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Titan_(submersible)
+
+---
+
 ### 2019-02 — Pliant Energy Velox / C-Ray (multi-gait undulating-fin amphibious robot)
 
 - **id:** `pliant-energy-velox-cray-2019`
@@ -1223,6 +1644,25 @@ cite, copy, or redistribute these contentions.
 1. Stanford Student Robotics (stanfordstudentrobotics.org).
 2. Hands-on-Robotics Stanford (hands-on-robotics.stanford.edu).
 3. GitHub: github.com/Nate711/StanfordDoggoProject.
+
+---
+
+### 2019-04 — QYSEA FIFISH V6 (omnidirectional consumer ROV pioneer)
+
+- **id:** `qysea-fifish-v6-2019`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** QYSEA Technology Co., Ltd. (Shenzhen, China); Belinda Zhang founder
+- **disclosure citation:** QYSEA Technology Co., Ltd. / Belinda Zhang (Shenzhen, China). FIFISH V6 mass production April 2019 (debut CES 2016). First omnidirectional consumer underwater drone. Chinese consumer ROV pioneer.
+- **disclosed subsystems:** `rov`, `actuator-electric`, `control-omnidirectional`
+
+**Prior art notes:**
+
+> QYSEA FIFISH V6 (Shenzhen 2019+) is the first omnidirectional consumer underwater drone. 6-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or ROV claim deriving from omnidirectional consumer underwater drones or VR-headset-teleoperated ROVs.
+
+**Sources:**
+
+1. qysea.com/about-us/company-profile/
 
 ---
 
@@ -1304,6 +1744,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-11 — Fendouzhe / Striver (China full-ocean-depth HOV)
+
+- **id:** `fendouzhe-china-2020`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** CSSRC + Institute of Deep-sea Science and Engineering (China)
+- **disclosure citation:** China Ship Scientific Research Center (CSSRC) + Institute of Deep-sea Science and Engineering (CAS) (China). Fendouzhe 10,909 m dive November 2020 in Mariana Trench. China's full-ocean-depth HOV; second nation-state (after USA via DSV Limiting Factor round-47) to repeatedly reach Challenger Deep.
+- **disclosed subsystems:** `hov`, `actuator-electric`
+
+**Prior art notes:**
+
+> Fendouzhe / Striver (CSSRC + CAS IDSSE China 2020+) is China's full-ocean-depth HOV. 5-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from Chinese full-ocean-depth HOVs. Lineage descends from Jiaolong (round-47).
+
+**Sources:**
+
+1. english.cas.cn/Special_Reports/Highlights_of_2020_Top_12_Achievements_in_CAS/Submersible_Fendouzhe_Completing_10000_meter_Deep_diving_Trial/
+
+---
+
 ### 2021-07 — UBTech Walker X
 
 - **id:** `ubtech-walker-x-2021`
@@ -1360,6 +1819,25 @@ cite, copy, or redistribute these contentions.
 
 1. Boston Dynamics Stretch product page (bostondynamics.com/products/stretch).
 2. DHL Supply Chain announcement 2022.
+
+---
+
+### 2022-02 — Anduril Dive-LD (affordable LDUUV)
+
+- **id:** `anduril-dive-ld-2022`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Anduril Industries (Costa Mesa, CA, USA); Dive Technologies acquisition Feb 2022
+- **disclosure citation:** Anduril Industries (Costa Mesa, CA, USA). Acquired Dive Technologies February 2022. Dive-LD large-displacement UUV with affordability thesis (tenth-the-cost-of-competitors). Subsequent Dive-XL Ghost Shark for Royal Australian Navy (prototype delivered April 2024 under AUKUS Pillar 2).
+- **disclosed subsystems:** `auv`, `auv-lduuv`, `actuator-electric`
+
+**Prior art notes:**
+
+> Anduril Dive-LD + Ghost Shark (Anduril 2022+; AUKUS Pillar 2 2024) are the affordable LDUUV market disruptor. 3-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or AUV claim deriving from affordable modular Anduril-class LDUUVs.
+
+**Sources:**
+
+1. defensenews.com/industry/2022/02/02/autonomy-specialist-anduril-buys-underwater-drone-maker-dive-technologies/
 
 ---
 
@@ -1662,4 +2140,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bd98079`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*

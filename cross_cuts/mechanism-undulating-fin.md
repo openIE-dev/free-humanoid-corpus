@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-undulating-fin`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2019-02
+Earliest disclosure: 2007-04
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Festo Aquatic Bionic Suite (AquaJelly / AquaPenguin / AquaRay / AirJelly / BionicFinWave) (2007-04)
+
+- **id**: `festo-aquatic-bionic-suite-2007`
+- **corpus**: private
+- **creator**: Festo AG & Co. KG Bionic Learning Network (Esslingen, Germany)
+- **disclosure**: Festo AG & Co. KG Bionic Learning Network (Esslingen, Germany). Aquatic biomimetic suite 2007-2024: AquaRay (2007), AirJelly (2008), AquaJelly (2008), AquaPenguin (2009), BionicFinWave (June 2018 ACHEMA), recent BionicFish (2024). Multi-platform aquatic + aerial biomimetic research showpiece.
+- **ip status**: trade-secret
+- **prior art notes**: Festo Aquatic Bionic Suite (Festo Esslingen 2007-2024) is the comprehensive biomimetic aquatic research showcase. 18-year-deep public-disclosure prior art across multiple platforms. Direct shielding for any commercial humanoid or biomimetic-aquatic claim deriving from manta-ray / jellyfish / penguin / cuttlefish / tuna biomimetic gait synthesis.
 
 ## Pliant Energy Velox / C-Ray (multi-gait undulating-fin amphibious robot) (2019-02)
 

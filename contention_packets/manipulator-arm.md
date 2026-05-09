@@ -1,7 +1,7 @@
 ---
 title: "manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 133
+nav_order: 145
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `manipulator-arm`  
-**Entries:** 33 (33 commons-grade, 0 draft)  
+**Entries:** 35 (35 commons-grade, 0 draft)  
 **Earliest disclosure:** 1954-12  
 **Most recent disclosure:** 2021-09
 
@@ -349,6 +349,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2010-03 — TRIDENT (first major EU autonomous underwater intervention)
+
+- **id:** `trident-eu-fp7-iauv-2010`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** UJI Spain (lead) + multi-EU consortium; EU FP7-funded
+- **disclosure citation:** TRIDENT consortium (UJI Spain coordinated; multi-EU partners). EU FP7 project launched March 1, 2010; ended 2013. First major EU autonomous underwater intervention I-AUV with dexterous hand+arm system.
+- **disclosed subsystems:** `auv`, `auv-iauv`, `manipulator-arm`, `end-effector-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> TRIDENT (EU FP7 / UJI Spain 2010-2013) is the first major EU autonomous underwater intervention I-AUV. 15-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from autonomous underwater intervention with manipulator arm + dexterous hand.
+
+**Sources:**
+
+1. cordis.europa.eu/project/id/248497
+
+---
+
 ### 2010-04 — Willow Garage PR2 (defining ROS mobile-manipulation platform)
 
 - **id:** `willow-garage-pr2-2010`
@@ -365,6 +384,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Willow Garage PR2 documentation (historical).
+
+---
+
+### 2010-09 — Girona 500 I-AUV (UdG/IRSLab reconfigurable)
+
+- **id:** `girona-500-uji-iauv-2010`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** University of Girona (UdG) IRSLab (Spain); Pere Ridao group
+- **disclosure citation:** Ribas, D., Palomeras, N., Ridao, P., Carreras, M., Mallios, A. / University of Girona (UdG) IRSLab (Spain). Girona 500 first trial 2010. Reconfigurable intervention AUV with arm; backbone of TRIDENT/MERBOTS/TWINBOT EU manipulation projects.
+- **disclosed subsystems:** `auv`, `auv-iauv`, `manipulator-arm`, `actuator-electric`
+
+**Prior art notes:**
+
+> Girona 500 (UdG IRSLab Spain 2010+) is the reconfigurable intervention AUV — backbone of EU manipulation projects. 15-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from reconfigurable hovering intervention AUVs.
+
+**Sources:**
+
+1. iqua.cat/products/sparus-ii-auv/
 
 ---
 
@@ -702,4 +740,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bd98079`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*

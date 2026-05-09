@@ -1,7 +1,7 @@
 ---
 title: "actuator-hydraulic"
 parent: "Invalidity Contentions"
-nav_order: 13
+nav_order: 15
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `actuator-hydraulic`  
-**Entries:** 32 (26 commons-grade, 6 draft)  
+**Entries:** 33 (27 commons-grade, 6 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2024-05-24
 
@@ -643,6 +643,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-03 — SoFi soft robotic fish (MIT CSAIL Rus)
+
+- **id:** `sofi-mit-csail-rus-2018`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** MIT CSAIL Distributed Robotics Lab; Robert Katzschmann + Daniela Rus
+- **disclosure citation:** Katzschmann, R., DelPreto, J., MacCurdy, R., Rus, D. 'Exploration of underwater life with an acoustically controlled soft robotic fish'. Science Robotics 3(16), March 21 2018. MIT CSAIL Distributed Robotics Lab. Coral-reef field deployment in Fiji.
+- **disclosed subsystems:** `biomimetic-aquatic`, `mechanism-soft-actuator`, `actuator-hydraulic`
+
+**Prior art notes:**
+
+> SoFi (MIT CSAIL Rus + Katzschmann Science Robotics 2018) is the first untethered acoustically-controlled soft robotic fish. 7-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or biomimetic-aquatic claim deriving from untethered soft-elastomer fish robots.
+
+**Sources:**
+
+1. csail.mit.edu/research/sofi-soft-robotic-fish
+2. news.mit.edu/2018/soft-robotic-fish-swims-alongside-real-ones-coral-reefs-0321
+
+---
+
 ### 2022 — Sanctuary Phoenix Gen 6 *(draft)*
 
 - **id:** `sanctuary-phoenix-gen6`
@@ -711,4 +731,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bd98079`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*

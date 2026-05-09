@@ -1,7 +1,7 @@
 ---
 title: "control-network-protocol"
 parent: "Invalidity Contentions"
-nav_order: 80
+nav_order: 89
 layout: default
 ---
 
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bd98079`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**80 corpus entries disclose this subsystem.**
+**105 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -24,6 +24,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: FANUC (founded 1956 as Fujitsu spinout; FANUC Ltd 1972) is the world's largest industrial robot company by deployed units. 70-year-deep public-disclosure prior art across multi-product industrial-arm + cobot lineage. ~750,000 units cumulative. Direct shielding for any commercial humanoid claim that includes industrial-arm derivative applications. Together with SCARA (round-32), Universal Robots (round-24), Doosan (round-22), KUKA, ABB, Yaskawa, establishes the industrial-robot prior-art chain spanning 1956-2026.
 
+## SPURV (Self-Propelled Underwater Research Vehicle; the FIRST AUV) (1957-08)
+
+- **id**: `spurv-uw-apl-1957`
+- **corpus**: academic
+- **creator**: University of Washington Applied Physics Laboratory; Bob Van Wagennen + Wayne Nodland; ONR-funded
+- **disclosure**: Van Wagennen, R. + Nodland, W. / University of Washington Applied Physics Laboratory; ONR-funded. First cruise to Cobb Seamount August 1957. The FIRST autonomous underwater vehicle. 3,000 m torpedo-form.
+- **ip status**: public-domain
+- **prior art notes**: SPURV (UW APL 1957) is the FIRST autonomous underwater vehicle. 68-year-deep public-domain prior art. Direct shielding for any commercial humanoid or AUV claim deriving from autonomous underwater vehicles. Foundational predicate for every commercial AUV downstream.
+
 ## Belgrade / Belgrade-USC Hand (Tomović + Bekey) (1963-01)
 
 - **id**: `belgrade-usc-tomovic-bekey-hand-1963`
@@ -32,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tomović, R., Boni, G. 'An Adaptive Artificial Hand'. IRE Transactions on Automatic Control AC-7(3), 1962. Belgrade Hand developed at Mihailo Pupin Institute (Belgrade, Yugoslavia) 1961-1963. Subsequent Belgrade-USC Hand version with George Bekey at University of Southern California ~1988.
 - **ip status**: public-domain
 - **prior art notes**: Belgrade / Belgrade-USC Hand (Tomović + Rakić 1963; Bekey USC 1988) is the foundational anthropomorphic prosthetic hand and the world's first externally-powered five-finger myoelectric prosthetic. 62-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from five-finger anthropomorphic hands, underactuated finger mechanisms, or myoelectric prosthetic control. Foundational to every modern anthropomorphic hand including Robotiq (round-42), Shadow Dexterous Hand (corpus), Salisbury Stanford-JPL Hand (corpus), Utah/MIT Hand (round-42), and the entire dexterous-hand research lineage.
+
+## CURV (Cable-controlled Underwater Recovery Vehicle) (1965-01)
+
+- **id**: `curv-us-navy-1965`
+- **corpus**: academic
+- **creator**: US Navy Naval Ocean Systems Center (NOSC); Jack L. Sayer Jr.
+- **disclosure**: US Navy Naval Ocean Systems Center (NOSC) (USA); Jack L. Sayer Jr. CURV-I 1965 — Cable-controlled Underwater Recovery Vehicle, recovered the 1966 Palomares H-bomb. Successor CURV-III 1972 (7,200 ft depth) recovered Pisces III crew 1973.
+- **ip status**: public-domain
+- **prior art notes**: CURV (US Navy NOSC 1965+) is the foundational tethered-ROV architecture. 60-year-deep public-domain prior art. Direct shielding for any commercial humanoid or ROV claim deriving from cable-controlled underwater recovery vehicles. Predicate for every tethered ROV downstream.
 
 ## Stanford Arm (Scheinman 1969) (1969-06)
 
@@ -87,6 +105,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Epson SCARA (Seiko Epson Suwa 1983+) is the global SCARA-arm volume leader. 42-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from SCARA-architecture assembly arms. Lineage descends from Makino SCARA (round-45).
 
+## Nautile (IFREMER 6000 m HOV) (1984-12)
+
+- **id**: `nautile-ifremer-1984`
+- **corpus**: private
+- **creator**: IFREMER / Genavir (France)
+- **disclosure**: IFREMER (Institut français de recherche pour l'exploitation de la mer) / Genavir (France). Nautile commissioned 1984; first 6,000 m dive April 3, 1985.
+- **ip status**: trade-secret
+- **prior art notes**: Nautile (IFREMER France 1984+) is Europe's flagship operational scientific 6,000 m HOV. 41-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from titanium-pressure-sphere 6,000 m crewed vehicles.
+
 ## Clavel Delta Robot (EPFL 1985 patent) (1985-01)
 
 - **id**: `clavel-delta-epfl-1985`
@@ -95,6 +122,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Clavel, R., Demaurex, M.-O. 'Delta, A Fast Robot with Parallel Geometry'. 18th International Symposium on Industrial Robots 1988; original patent 1985 (EP 0250470, expired 2007). EPFL (École Polytechnique Fédérale de Lausanne, Switzerland). Commercialized 1987 via Demaurex SA (Romont, Switzerland; acquired by Bosch 1999, then to ABB ecosystem).
 - **ip status**: public-domain (EPFL patent expired 2007)
 - **prior art notes**: Clavel Delta Robot (EPFL 1985 patent; expired 2007) is the first parallel pick-and-place delta robot. 40-year-deep public-domain prior art (patent expired 2007). Direct shielding for any commercial humanoid claim deriving from parallel delta-mechanism arms. Ancestor of ABB FlexPicker (round-45), Adept Quattro, and every commercial delta robot.
+
+## Mir-1 + Mir-2 deep submergence vehicles (1987-12)
+
+- **id**: `mir-1-and-mir-2-rauma-repola-1987`
+- **corpus**: private
+- **creator**: Rauma-Repola Oceanics (Finland) / USSR Shirshov Institute of Oceanology
+- **disclosure**: Rauma-Repola Oceanics (Finland) for the USSR Academy of Sciences Shirshov Institute of Oceanology. Mir-1 + Mir-2 twin 6,000 m HOVs delivered December 1987. Cold War Finnish-Soviet co-build. Used at Titanic + Komsomolets wrecks; filming Cameron's 'Titanic' (1997).
+- **ip status**: trade-secret (Cold War origin)
+- **prior art notes**: Mir-1 + Mir-2 (Rauma-Repola Finland for Shirshov Institute 1987+) are twin 6,000 m steel-alloy HOVs. 38-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from twin-HOV simultaneous-dive operations.
 
 ## BarrettHand BH8-280 / BH8-282 (1988-01)
 
@@ -114,6 +150,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: academic-publication
 - **prior art notes**: Barrett WAM Arm (Townsend MIT 1988 → Barrett Technology 1990) is the canonical cable-driven backdrivable research arm. 35-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from cable-driven backdrivable manipulator arms. Licensed into MAKO RIO surgical platform (round-45). Sister to Barrett Hand (corpus barrett-hand-1988).
 
+## Shinkai 6500 (JAMSTEC 6500 m HOV) (1990-01)
+
+- **id**: `shinkai-6500-jamstec-1990`
+- **corpus**: private
+- **creator**: JAMSTEC / Mitsubishi Heavy Industries (Japan)
+- **disclosure**: JAMSTEC (Japan Agency for Marine-Earth Science and Technology) / Mitsubishi Heavy Industries (Japan). Shinkai 6500 completed 1990; operational from 1991. 6,500 m operational depth.
+- **ip status**: trade-secret
+- **prior art notes**: Shinkai 6500 (JAMSTEC Japan 1990+) is Japan's flagship 6,500 m HOV. 35-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from titanium-pressure-sphere Japanese deep HOVs.
+
 ## Stäubli TX/RX series high-precision sealed arms (1991-01)
 
 - **id**: `staubli-tx-rx-series-1991`
@@ -131,6 +176,60 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hirzinger, G. et al. DLR (German Aerospace Center) Institute of Robotics and Mechatronics. LWR I (1991), LWR II (1998), LWR III (2003), LWR IV (~2007). The seminal torque-sensor 7-DoF lightweight arm; basis for KUKA LBR iiwa (round-45) via license.
 - **ip status**: academic-publication
 - **prior art notes**: DLR Lightweight Robot LWR (DLR Hirzinger group 1991-2007) is the seminal torque-sensor 7-DoF lightweight research arm. 34-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from torque-sensor 7-DoF cobots. Anchors the entire 7-DoF cobot category via KUKA LBR iiwa (round-45) and Franka Panda (round-45) descendants.
+
+## RoboTuna (MIT first robot fish; biomimetic propulsion) (1994-09)
+
+- **id**: `robotuna-mit-triantafyllou-1994`
+- **corpus**: academic
+- **creator**: MIT Department of Ocean Engineering; Michael Triantafyllou + George Triantafyllou + David Barrett
+- **disclosure**: Triantafyllou, M.S., Triantafyllou, G.S., Barrett, D.S. / MIT Department of Ocean Engineering (USA). RoboTuna ('Charlie I') maiden swim 1994/1995. The first robot fish. Defined the biomimetic underwater propulsion research field.
+- **ip status**: academic-publication
+- **prior art notes**: RoboTuna (MIT Triantafyllou 1994) is the first robot fish — defined the biomimetic underwater propulsion research field. 31-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from biomimetic undulating-tail propulsion. Foundational to every subsequent biomimetic underwater robot.
+
+## Kaiko ROV (first ROV to Challenger Deep) (1995-03)
+
+- **id**: `kaiko-jamstec-1995`
+- **corpus**: private
+- **creator**: JAMSTEC (Japan)
+- **disclosure**: JAMSTEC (Japan). Kaiko first dive to Challenger Deep March 1995. ~296 dives to 1999 servicing. Lost May 29, 2003 in typhoon. Successor: ABISMO (round-47 lineage).
+- **ip status**: trade-secret
+- **prior art notes**: Kaiko (JAMSTEC 1995-2003) is the first ROV ever to reach Challenger Deep. 30-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or ROV claim deriving from full-ocean-depth tethered ROVs.
+
+## Autonomous Benthic Explorer (ABE; WHOI 1995) (1995-06)
+
+- **id**: `abe-whoi-1995`
+- **corpus**: academic
+- **creator**: Woods Hole Oceanographic Institution; Dana Yoerger group
+- **disclosure**: Yoerger, D. et al. / Woods Hole Oceanographic Institution (USA). ABE developed 1994; first mission 1995-1996. Lost at sea March 5, 2010 off Chile. 222 missions before loss.
+- **ip status**: academic-publication
+- **prior art notes**: ABE (WHOI 1995-2010) is the pioneering hovering AUV. 30-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or AUV claim deriving from hovering AUV architectures. Direct ancestor of Sentry (round-47).
+
+## Theseus AUV (long-range Arctic under-ice cable-layer) (1995-08)
+
+- **id**: `theseus-ise-canada-1995`
+- **corpus**: private
+- **creator**: International Submarine Engineering Ltd. (Port Coquitlam, BC, Canada)
+- **disclosure**: International Submarine Engineering Ltd. (ISE; Port Coquitlam, BC, Canada). Theseus construction 1993-1994; first Arctic deployment 1995; full mission 1996. Long-range under-ice fiber-optic cable-laying AUV.
+- **ip status**: trade-secret
+- **prior art notes**: Theseus (ISE Canada 1995-1996) is the foundational long-range under-ice cable-laying AUV. 30-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or AUV claim deriving from ultra-long-range polar under-ice autonomous operations.
+
+## Hugin AUV (Kongsberg/FFI dominant European commercial) (1996-06)
+
+- **id**: `hugin-kongsberg-ffi-1996`
+- **corpus**: private
+- **creator**: Norwegian Defence Research Establishment (FFI) + Kongsberg Simrad + Statoil (Norway)
+- **disclosure**: Norwegian Defence Research Establishment (FFI) + Kongsberg Simrad + Statoil (Norway). Hugin 1 first sea trial summer 1996; first commercial survey 1997. Hugin Endurance 2024 (8,000 km range).
+- **ip status**: trade-secret
+- **prior art notes**: Hugin AUV (FFI + Kongsberg + Statoil Norway 1996+) is the dominant European commercial survey AUV. 29-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or AUV claim deriving from offshore-survey commercial AUVs.
+
+## Autosub family (NOC Southampton UK; Boaty McBoatface) (1996-09)
+
+- **id**: `autosub-noc-southampton-1996`
+- **corpus**: academic
+- **creator**: National Oceanography Centre Southampton (UK)
+- **disclosure**: National Oceanography Centre Southampton (UK). Autosub-1 1996; Autosub-6000 2007; Autosub Long Range ('Boaty McBoatface') 2017. UK academic + scientific AUV lineage focused on polar + under-ice missions.
+- **ip status**: academic-publication
+- **prior art notes**: Autosub family (NOC Southampton UK 1996+; Boaty McBoatface 2017) is the UK academic AUV lineage with polar + under-ice focus. 29-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or AUV claim deriving from UK polar + Antarctic under-ice AUV operations.
 
 ## KIT ARMAR humanoid lineage (1998-01)
 
@@ -159,6 +258,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Hocoma Lokomat (Hocoma AG Volketswil 1999+) is the foundational treadmill-mounted robotic gait-rehab orthosis. 26-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from treadmill-mounted lower-limb rehabilitation orthoses or robotic gait-rehabilitation. The Swiss anchor of medical exoskeletons.
 
+## VideoRay Pro / Mission Specialist (microROV market leader) (1999-01)
+
+- **id**: `videoray-pro-1999`
+- **corpus**: private
+- **creator**: VideoRay LLC (Pottstown, PA, USA); Scott Bentley founder
+- **disclosure**: VideoRay LLC (Pottstown, PA, USA; founded 1999). VideoRay Pro (1999) → Pro 4 → Mission Specialist (2017+) → Defender (US Navy EOD 2017+). Global volume leader in microROV; >3,000 units delivered.
+- **ip status**: trade-secret
+- **prior art notes**: VideoRay Pro / Mission Specialist (Pottstown PA 1999+) is the global volume leader in microROV. 26-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or ROV claim deriving from small-class portable observation/inspection ROVs.
+
 ## Siasun Robotics (Chinese Academy of Sciences spinout) (2000-04)
 
 - **id**: `siasun-robotics-cas-2000`
@@ -168,6 +276,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Siasun Robotics (Shenyang 2000+; CAS spinout) is the Chinese Academy of Sciences industrial-robot spinout. 25-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from CAS-affiliated industrial arms or specialty Chinese semiconductor / vacuum robotics.
 
+## Hercules + Argus (Ballard deep-archaeology two-body ROV) (2003-01)
+
+- **id**: `hercules-argus-ballard-2003`
+- **corpus**: private
+- **creator**: Institute for Exploration + Inner Space Center + Ocean Exploration Trust (Bob Ballard); USA
+- **disclosure**: Institute for Exploration / Inner Space Center / Ocean Exploration Trust (Bob Ballard) (USA). Hercules + Argus two-body deep-archaeology ROV system 2003+. Pair operates tethered: Argus (tow-sled providing lighting + 2nd-camera perspective) + Hercules (work-class ROV with manipulator + sample collection).
+- **ip status**: trade-secret (academic-publication for some systems)
+- **prior art notes**: Hercules + Argus (Ballard 2003+) is the canonical deep-archaeology two-body ROV system. 22-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or ROV claim deriving from two-body cultural-heritage ROV operations.
+
 ## KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO) (2003-12)
 
 - **id**: `kaist-fx-2-1995`
@@ -176,6 +293,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Korea Advanced Institute of Science and Technology (KAIST). KHR series of humanoids 1990s-2000s under Jun-Ho Oh group. KHR-1 (2002), KHR-2 (2003), KHR-3 / **HUBO** (2004) — the pre-HUBO lineage. Documented in: Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
 - **ip status**: public-domain
 - **prior art notes**: The KAIST KHR series (1995-2004) is the foundational Korean academic humanoid lineage that produced HUBO. 22-year-deep public-domain prior art. Direct ancestor chain: KHR-1 → KHR-2 → KHR-3/HUBO → DRC-HUBO+. Together with HUBO (corpus entry) and DRC-HUBO+ (round-22), establishes the Korean humanoid academic lineage spanning 22+ years. Brings Korean entries to 8.
+
+## Sentry AUV (WHOI ABE successor; deep-search workhorse) (2006-04)
+
+- **id**: `sentry-auv-whoi-2006`
+- **corpus**: academic
+- **creator**: Woods Hole Oceanographic Institution; Dana Yoerger group
+- **disclosure**: Yoerger, D. et al. / Woods Hole Oceanographic Institution (USA). Sentry first deep-sea trials April 2006. Direct ABE successor; National Deep Submergence Facility workhorse for Deepwater Horizon (2010), hydrothermal-vent mapping, and deep-ocean exploration.
+- **ip status**: academic-publication
+- **prior art notes**: Sentry (WHOI 2006+) is the deep-search workhorse AUV — ABE successor. 19-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or AUV claim deriving from twin-hull hovering deep-search AUVs.
 
 ## MAKO RIO orthopedic robot-arm-assisted surgery (2006-09)
 
@@ -240,6 +366,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Kinova Jaco / Gen3 (Montreal 2009+) is the Canadian assistive + research arm family. 16-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from wheelchair-mounted assistive arms or low-cost research-grade 7-DoF cobots.
 
+## TRIDENT (first major EU autonomous underwater intervention) (2010-03)
+
+- **id**: `trident-eu-fp7-iauv-2010`
+- **corpus**: academic
+- **creator**: UJI Spain (lead) + multi-EU consortium; EU FP7-funded
+- **disclosure**: TRIDENT consortium (UJI Spain coordinated; multi-EU partners). EU FP7 project launched March 1, 2010; ended 2013. First major EU autonomous underwater intervention I-AUV with dexterous hand+arm system.
+- **ip status**: academic-publication
+- **prior art notes**: TRIDENT (EU FP7 / UJI Spain 2010-2013) is the first major EU autonomous underwater intervention I-AUV. 15-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from autonomous underwater intervention with manipulator arm + dexterous hand.
+
 ## Willow Garage PR2 (defining ROS mobile-manipulation platform) (2010-04)
 
 - **id**: `willow-garage-pr2-2010`
@@ -257,6 +392,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Rex Bionics Ltd. (Auckland, New Zealand; founded 2007 by Robert Irving + Richard Little). REX commercial reveal July 2010. First commercial self-supporting hands-free powered exoskeleton — the user is hands-free, no crutches, the exo balances itself.
 - **ip status**: trade-secret
 - **prior art notes**: Rex Bionics REX (Auckland NZ 2010+) is the first commercial self-supporting hands-free powered exoskeleton. 15-year-deep public-disclosure prior art. Pre-dates Wandercraft Atalante (round-43) by 8 years for hands-free walking, though REX uses quasi-static-stable gait rather than dynamic-walking. Direct shielding for any commercial humanoid or Iron Man-class claim deriving from hands-free powered exoskeletons.
+
+## Jiaolong (China 7000 m HOV) (2010-08)
+
+- **id**: `jiaolong-china-2010`
+- **corpus**: private
+- **creator**: China Ship Scientific Research Center / CSSRC (Wuxi, China)
+- **disclosure**: China Ship Scientific Research Center (CSSRC) (Wuxi, China). Jiaolong first sea trial 2010; reached 7,062 m on June 27, 2012 in Mariana Trench. The first Chinese 7,000 m HOV; made China the fifth nation with deep-HOV capability.
+- **ip status**: trade-secret
+- **prior art notes**: Jiaolong (CSSRC China 2010+) is the first Chinese 7,000 m HOV. 15-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from Chinese deep HOVs. Lineage: Jiaolong (7,000 m) → Shenhai Yongshi (4,500 m, 2017) → Fendouzhe (full-ocean-depth, 2020 round-47).
+
+## Girona 500 I-AUV (UdG/IRSLab reconfigurable) (2010-09)
+
+- **id**: `girona-500-uji-iauv-2010`
+- **corpus**: academic
+- **creator**: University of Girona (UdG) IRSLab (Spain); Pere Ridao group
+- **disclosure**: Ribas, D., Palomeras, N., Ridao, P., Carreras, M., Mallios, A. / University of Girona (UdG) IRSLab (Spain). Girona 500 first trial 2010. Reconfigurable intervention AUV with arm; backbone of TRIDENT/MERBOTS/TWINBOT EU manipulation projects.
+- **ip status**: academic-publication
+- **prior art notes**: Girona 500 (UdG IRSLab Spain 2010+) is the reconfigurable intervention AUV — backbone of EU manipulation projects. 15-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from reconfigurable hovering intervention AUVs.
 
 ## Mazor Renaissance / Stealth Spine guidance (2011-01)
 
@@ -284,6 +437,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ekso Bionics Holdings, Inc. (Richmond, CA, USA; founded 2005 by Homayoon Kazerooni's group at Berkeley Bionics, renamed Ekso Bionics 2011). Ekso commercial reveal February 2012. EksoNR (Neural Rehabilitation) 2019; FDA clearance for stroke + spinal-cord-injury 2016, brain-injury 2020, multiple sclerosis 2021.
 - **ip status**: trade-secret
 - **prior art notes**: Ekso Bionics Ekso / EksoNR (Richmond CA 2012+) is the first broadly FDA-cleared overground rehabilitation exoskeleton. 13-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from FDA-cleared overground lower-limb rehab exos. Together with Hocoma Lokomat (round-43; treadmill-mounted) and Wandercraft Atalante (round-43; self-balancing), establishes the medical-exoskeleton prior-art chain. Lineage descends from BLEEX (corpus).
+
+## Deepsea Challenger (Cameron solo Challenger Deep) (2012-03)
+
+- **id**: `deepsea-challenger-cameron-2012`
+- **corpus**: private
+- **creator**: James Cameron / Acheron Project Pty Ltd (Australia/USA)
+- **disclosure**: James Cameron / Acheron Project Pty Ltd (Australia/USA). Solo Challenger Deep dive March 26, 2012 (10,908 m). First solo human descent to Challenger Deep; vertical 'torpedo' HOV architecture.
+- **ip status**: trade-secret
+- **prior art notes**: Deepsea Challenger (Cameron / Acheron 2012) is the first solo human descent to Challenger Deep + the vertical 'torpedo' HOV architecture. 13-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from single-person vertical-configuration HOVs.
 
 ## Sandia Hand modular 12-DoF gripper (2012-08)
 
@@ -339,6 +501,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: DEKA / Mobius Bionics LUKE Arm (DEKA Manchester NH 2014; Mobius Bionics 2016) is the first FDA-cleared integrated multi-joint upper-extremity prosthesis. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from integrated multi-joint upper-extremity prostheses. DARPA RP outcome; sister to APL MPL (corpus apl-mpl-revolutionizing-prosthetics-2009).
 
+## Blue Robotics BlueROV2 (affordable open-hardware ROV) (2014-08)
+
+- **id**: `bluerov2-blue-robotics-2016`
+- **corpus**: open
+- **creator**: Blue Robotics Inc. (Torrance, CA, USA); Rusty Jordan + Erin Riley
+- **disclosure**: Blue Robotics Inc. (Torrance, CA, USA; founded 2014 by Rusty Jordan + Erin Riley). BlueROV1 Kickstarter 2014; BlueROV2 production 2016. ArduSub-based open-source firmware ecosystem.
+- **ip status**: open-permissive
+- **prior art notes**: Blue Robotics BlueROV1/2 (Torrance CA 2014/2016+) is the democratized affordable open-hardware ROV. 11-year-deep open-permissive prior art. Direct shielding for any commercial humanoid or ROV claim deriving from open-source-ArduSub-firmware ROVs or BlueRobotics-component ecosystems.
+
 ## OnRobot RG2 / RG6 / VGC10 cobot grippers (2015-01)
 
 - **id**: `onrobot-rg-grippers-2015`
@@ -383,6 +554,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mecademic Inc. (Montreal, Quebec, Canada; founded 2013 by Ilian Bonev, ÉTS Montreal). Meca500 reveal September 2015. Smallest 6-axis industrial arm in the world (5 µm repeatability).
 - **ip status**: trade-secret
 - **prior art notes**: Mecademic Meca500 (Montreal 2015+) is the smallest 6-axis industrial arm in the world (5-µm repeatability). 10-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from precision micro-cobot arms.
+
+## Eelume snake robot (NTNU AMOS spinout) (2015-09)
+
+- **id**: `eelume-ntnu-2015`
+- **corpus**: private
+- **creator**: Eelume AS (Trondheim, Norway); NTNU AMOS spinout; Pål Liljebäck + Kristin Pettersen lineage
+- **disclosure**: Eelume AS (Trondheim, Norway; NTNU AMOS spinout founded 2015). NTNU snake-robot research from 2004 (Pål Liljebäck, Kristin Pettersen). Eelume vehicle for IMR (Inspection-Maintenance-Repair) in confined offshore structures.
+- **ip status**: trade-secret
+- **prior art notes**: Eelume (NTNU AMOS spinout Trondheim 2015+) is the canonical articulated subsea snake robot for IMR. 10-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from articulated subsea snake robots or resident-vehicle IMR architectures.
 
 ## Inovance Technology industrial robots ('Little Huawei') (2016-01)
 
@@ -537,6 +717,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Wandercraft Atalante / Atalante X (Wandercraft Paris 2018+; FDA-cleared 2024) is the world's first self-balancing dynamic-walking exoskeleton — the most architecturally important entry in the human-augmented-robotics chain. 7-year-deep public-disclosure prior art. **Direct shielding for any commercial humanoid or fictional Iron Man-class claim deriving from self-balancing powered armor / autonomous-walking wearable robotics.** The Wandercraft formal-dynamic-locomotion control architecture (Hybrid Zero Dynamics + capture-point) is the Ames-school lineage that anchors all 'powered armor that walks by itself' claims.
 
+## DSV Limiting Factor (Triton 36000/2 full-ocean-depth HOV) (2018-12)
+
+- **id**: `dsv-limiting-factor-vescovo-2018`
+- **corpus**: private
+- **creator**: Triton Submarines (Sebastian, FL, USA) for Caladan Oceanic / Victor Vescovo
+- **disclosure**: Triton Submarines (Sebastian, FL, USA) for Caladan Oceanic / Victor Vescovo. Limiting Factor first dive December 19 2018; Challenger Deep April 28 2019. First commercial repeatable full-ocean-depth HOV (Triton 36000/2 design certified by DNV-GL).
+- **ip status**: trade-secret
+- **prior art notes**: DSV Limiting Factor (Triton Submarines + Caladan Oceanic / Vescovo 2018+) is the first commercial repeatable full-ocean-depth HOV. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from commercially-certified full-ocean-depth crewed vehicles.
+
+## OceanGate Titan (carbon-fiber experimental HOV; 2023 loss) (2018-12)
+
+- **id**: `oceangate-titan-2018-2023`
+- **corpus**: private
+- **creator**: OceanGate Inc. (Everett, WA, USA); Stockton Rush founder
+- **disclosure**: OceanGate Inc. / Stockton Rush (Everett, WA, USA). Titan uncrewed test June 2018; first crewed 4,000 m dive December 10, 2018. Imploded near RMS Titanic wreck on June 18, 2023, killing all 5 aboard. Tragic but pivotal prior-art event for carbon-fiber-hull experimental HOV / full-ocean-depth tourism.
+- **ip status**: trade-secret (OceanGate dissolved 2023)
+- **prior art notes**: OceanGate Titan (Everett WA 2018-2023) is the carbon-fiber experimental HOV that tragically imploded June 2023 near the RMS Titanic wreck. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from carbon-fiber composite pressure hulls — the canonical 'what not to do' for deep-pressure-cycling design.
+
 ## Pliant Energy Velox / C-Ray (multi-gait undulating-fin amphibious robot) (2019-02)
 
 - **id**: `pliant-energy-velox-cray-2019`
@@ -554,6 +752,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Stanford Student Robotics. Stanford Doggo open-source quadruped reveal April 2019. Subsequent: Stanford Pupper (smaller variant). stanfordstudentrobotics.org / hands-on-robotics.stanford.edu. Open-hardware design under MIT license.
 - **ip status**: open-permissive
 - **prior art notes**: Stanford Pupper / Doggo (Stanford Student Robotics 2019+) is the canonical Stanford educational open-source quadruped. 6-year-deep open-permissive prior art. The Stanford academic counterpart to Unitree Go1/Go2 (corpus) for educational quadruped robotics. Direct shielding for any commercial quadruped claim deriving from low-cost open-hardware educational platforms.
+
+## QYSEA FIFISH V6 (omnidirectional consumer ROV pioneer) (2019-04)
+
+- **id**: `qysea-fifish-v6-2019`
+- **corpus**: private
+- **creator**: QYSEA Technology Co., Ltd. (Shenzhen, China); Belinda Zhang founder
+- **disclosure**: QYSEA Technology Co., Ltd. / Belinda Zhang (Shenzhen, China). FIFISH V6 mass production April 2019 (debut CES 2016). First omnidirectional consumer underwater drone. Chinese consumer ROV pioneer.
+- **ip status**: trade-secret
+- **prior art notes**: QYSEA FIFISH V6 (Shenzhen 2019+) is the first omnidirectional consumer underwater drone. 6-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or ROV claim deriving from omnidirectional consumer underwater drones or VR-headset-teleoperated ROVs.
 
 ## FANUC CRX collaborative robot family (2019-09)
 
@@ -591,6 +798,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Hello Robot Stretch is the canonical sub-\$25k educational mobile manipulator (2020). 5-year-deep public-disclosure prior art with 100+ academic publications using Stretch as the deployment platform. Direct shielding for any commercial mobile-manipulator claim at the educational price point or with the telescoping-mast architectural pattern. Notably **the Berkeley LEGS round-15 entry deployed on Stretch** — the round-15 entry's prior_art_notes implicitly reference Stretch as the platform; round-17 now resolves that reference. Architecturally distinct from humanoid-form mobile manipulators (Apptronik, Figure, Optimus): Stretch is single-arm + mast + wheels, not bipedal + bimanual.
 
+## Fendouzhe / Striver (China full-ocean-depth HOV) (2020-11)
+
+- **id**: `fendouzhe-china-2020`
+- **corpus**: private
+- **creator**: CSSRC + Institute of Deep-sea Science and Engineering (China)
+- **disclosure**: China Ship Scientific Research Center (CSSRC) + Institute of Deep-sea Science and Engineering (CAS) (China). Fendouzhe 10,909 m dive November 2020 in Mariana Trench. China's full-ocean-depth HOV; second nation-state (after USA via DSV Limiting Factor round-47) to repeatedly reach Challenger Deep.
+- **ip status**: trade-secret
+- **prior art notes**: Fendouzhe / Striver (CSSRC + CAS IDSSE China 2020+) is China's full-ocean-depth HOV. 5-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or deep-submergence claim deriving from Chinese full-ocean-depth HOVs. Lineage descends from Jiaolong (round-47).
+
 ## UBTech Walker X (2021-07)
 
 - **id**: `ubtech-walker-x-2021`
@@ -617,6 +833,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boston Dynamics. Stretch warehouse robot commercial reveal January 2022 via boston-dynamics.com. Distinct from Hello Robot Stretch (corpus entry hello-robot-stretch-2020). DHL Supply Chain partnership announced 2022 for case-handling deployment.
 - **ip status**: trade-secret
 - **prior art notes**: Boston Dynamics Stretch (BD warehouse robot, 2022+) is a canonical industrial warehouse case-handling robot. 3-year-deep public-disclosure prior art. **Distinct from Hello Robot Stretch (round-17 entry hello-robot-stretch-2020)** — BD Stretch is industrial warehouse-deployment focused, Hello Robot Stretch is educational mobile-manipulator focused. Both use telescoping form factors. Direct shielding for any commercial humanoid claim on warehouse case-handling derivative applications.
+
+## Anduril Dive-LD (affordable LDUUV) (2022-02)
+
+- **id**: `anduril-dive-ld-2022`
+- **corpus**: private
+- **creator**: Anduril Industries (Costa Mesa, CA, USA); Dive Technologies acquisition Feb 2022
+- **disclosure**: Anduril Industries (Costa Mesa, CA, USA). Acquired Dive Technologies February 2022. Dive-LD large-displacement UUV with affordability thesis (tenth-the-cost-of-competitors). Subsequent Dive-XL Ghost Shark for Royal Australian Navy (prototype delivered April 2024 under AUKUS Pillar 2).
+- **ip status**: trade-secret
+- **prior art notes**: Anduril Dive-LD + Ghost Shark (Anduril 2022+; AUKUS Pillar 2 2024) are the affordable LDUUV market disruptor. 3-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or AUV claim deriving from affordable modular Anduril-class LDUUVs.
 
 ## Xiaomi CyberOne (2022-08)
 

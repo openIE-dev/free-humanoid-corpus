@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**32 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -284,6 +284,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kuindersma, Scott; Permenter, Frank; Tedrake, Russ. 'An efficiently solvable quadratic program for stabilizing dynamic locomotion.' IEEE International Conference on Robotics and Automation (ICRA), Hong Kong, June 2014, pp. 2589-2594. DOI: 10.1109/ICRA.2014.6907230. Consolidated Atlas-on-DRC paper: Kuindersma, S.; Deits, R.; Fallon, M.; Valenzuela, A.; Dai, H.; Permenter, F.; Koolen, T.; Marion, P.; Tedrake, R. 'Optimization-based locomotion planning, estimation, and control design for the Atlas humanoid robot.' Autonomous Robots 40(3): 429-455, March 2016. DOI: 10.1007/s10514-015-9479-3.
 - **ip status**: public-domain
 - **prior art notes**: The MIT DRC Atlas academic publication trail (Kuindersma-Tedrake et al. 2014-2016) is distinct from the Boston Dynamics Atlas product entry (atlas-boston-dynamics) and from the Sentis-Khatib WBOSC entry: it is the canonical academic disclosure of the actually-deployed Atlas controller stack as fielded at the DARPA Robotics Challenge Finals (June 2015). Anticipates with element-by-element specificity: (1) whole-body QP-based inverse-dynamics control on a hydraulically-actuated humanoid platform — directly relevant to commercial claims on QP-based humanoid IP (every modern humanoid runs a derivative); (2) the IRIS-regions mixed-integer convex footstep planner — relevant to claims on footstep-planning humanoid IP; (3) iterative SQP trajectory optimization with contact schedule — anticipates claims overlapping Crocoddyl (mastalli-crocoddyl-2020) and DDP approaches; (4) the consolidated end-to-end stack documentation in AURO 2016 — the most complete public disclosure of a working DRC-class humanoid control architecture. Drake source code accompanies the publications under BSD license. Modern QP-IDC-based humanoid IP filings face this 12-year-deep academic anchor with full implementation disclosure.
+
+## SoFi soft robotic fish (MIT CSAIL Rus) (2018-03)
+
+- **id**: `sofi-mit-csail-rus-2018`
+- **corpus**: academic
+- **creator**: MIT CSAIL Distributed Robotics Lab; Robert Katzschmann + Daniela Rus
+- **disclosure**: Katzschmann, R., DelPreto, J., MacCurdy, R., Rus, D. 'Exploration of underwater life with an acoustically controlled soft robotic fish'. Science Robotics 3(16), March 21 2018. MIT CSAIL Distributed Robotics Lab. Coral-reef field deployment in Fiji.
+- **ip status**: academic-publication
+- **prior art notes**: SoFi (MIT CSAIL Rus + Katzschmann Science Robotics 2018) is the first untethered acoustically-controlled soft robotic fish. 7-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or biomimetic-aquatic claim deriving from untethered soft-elastomer fish robots.
 
 ## Sanctuary Phoenix Gen 6 (2022)
 

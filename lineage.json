@@ -171,6 +171,23 @@
       "descendants": []
     },
     {
+      "id": "trieste-bathyscaphe-piccard-1953",
+      "name": "Trieste bathyscaphe (first crewed Challenger Deep dive)",
+      "year": "1953",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "alvin-hov-1964",
+        "deepsea-challenger-cameron-2012",
+        "dsv-limiting-factor-vescovo-2018",
+        "fendouzhe-china-2020",
+        "jiaolong-china-2010",
+        "mir-1-and-mir-2-rauma-repola-1987",
+        "nautile-ifremer-1984",
+        "shinkai-6500-jamstec-1990"
+      ]
+    },
+    {
       "id": "asimov-caves-of-steel-daneel",
       "name": "R. Daneel Olivaw",
       "year": "1953",
@@ -240,6 +257,22 @@
         "octarm-walker-clemson-2005",
         "rbo-hand-2-brock-tu-berlin-2014",
         "soft-robotics-mgrip-2014"
+      ]
+    },
+    {
+      "id": "spurv-uw-apl-1957",
+      "name": "SPURV (Self-Propelled Underwater Research Vehicle; the FIRST AUV)",
+      "year": "1957",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "abe-whoi-1995",
+        "autosub-noc-southampton-1996",
+        "bluefin-21-auv",
+        "boeing-echo-voyager-2017",
+        "hugin-kongsberg-ffi-1996",
+        "kongsberg-remus-100-auv",
+        "theseus-ise-canada-1995"
       ]
     },
     {
@@ -324,7 +357,9 @@
       "name": "DSV Alvin",
       "year": "1964",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "trieste-bathyscaphe-piccard-1953"
+      ],
       "descendants": []
     },
     {
@@ -352,6 +387,17 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "curv-us-navy-1965",
+      "name": "CURV (Cable-controlled Underwater Recovery Vehicle)",
+      "year": "1965",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "jason-rov-1989",
+        "kaiko-jamstec-1995"
+      ]
     },
     {
       "id": "stewart-platform-gough-1965",
@@ -891,6 +937,16 @@
       "descendants": []
     },
     {
+      "id": "nautile-ifremer-1984",
+      "name": "Nautile (IFREMER 6000 m HOV)",
+      "year": "1984",
+      "corpus": "private",
+      "ancestors": [
+        "trieste-bathyscaphe-piccard-1953"
+      ],
+      "descendants": []
+    },
+    {
       "id": "utah-mit-jacobsen-hand-1984",
       "name": "Utah/MIT Dextrous Hand (Jacobsen)",
       "year": "1984",
@@ -1085,6 +1141,16 @@
       "descendants": []
     },
     {
+      "id": "mir-1-and-mir-2-rauma-repola-1987",
+      "name": "Mir-1 + Mir-2 deep submergence vehicles",
+      "year": "1987",
+      "corpus": "private",
+      "ancestors": [
+        "trieste-bathyscaphe-piccard-1953"
+      ],
+      "descendants": []
+    },
+    {
       "id": "barrett-hand-1988",
       "name": "BarrettHand BH8-280 / BH8-282",
       "year": "1988",
@@ -1168,8 +1234,12 @@
       "name": "Jason ROV",
       "year": "1989",
       "corpus": "academic",
-      "ancestors": [],
-      "descendants": []
+      "ancestors": [
+        "curv-us-navy-1965"
+      ],
+      "descendants": [
+        "hercules-argus-ballard-2003"
+      ]
     },
     {
       "id": "borg-tng-1989",
@@ -1252,6 +1322,16 @@
       "descendants": [
         "mako-rio-stryker-2006"
       ]
+    },
+    {
+      "id": "shinkai-6500-jamstec-1990",
+      "name": "Shinkai 6500 (JAMSTEC 6500 m HOV)",
+      "year": "1990",
+      "corpus": "private",
+      "ancestors": [
+        "trieste-bathyscaphe-piccard-1953"
+      ],
+      "descendants": []
     },
     {
       "id": "battle-angel-alita",
@@ -1424,6 +1504,18 @@
       "descendants": []
     },
     {
+      "id": "robotuna-mit-triantafyllou-1994",
+      "name": "RoboTuna (MIT first robot fish; biomimetic propulsion)",
+      "year": "1994",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "festo-aquatic-bionic-suite-2007",
+        "pliant-energy-velox-cray-2019",
+        "sofi-mit-csail-rus-2018"
+      ]
+    },
+    {
       "id": "sensable-phantom-1994",
       "name": "SensAble Phantom haptic device",
       "year": "1994",
@@ -1452,7 +1544,9 @@
       "name": "REMUS 100 AUV",
       "year": "1995",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "spurv-uw-apl-1957"
+      ],
       "descendants": []
     },
     {
@@ -1469,6 +1563,16 @@
       "year": "1995",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kaiko-jamstec-1995",
+      "name": "Kaiko ROV (first ROV to Challenger Deep)",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [
+        "curv-us-navy-1965"
+      ],
       "descendants": []
     },
     {
@@ -1490,6 +1594,18 @@
       "descendants": []
     },
     {
+      "id": "abe-whoi-1995",
+      "name": "Autonomous Benthic Explorer (ABE; WHOI 1995)",
+      "year": "1995",
+      "corpus": "academic",
+      "ancestors": [
+        "spurv-uw-apl-1957"
+      ],
+      "descendants": [
+        "sentry-auv-whoi-2006"
+      ]
+    },
+    {
       "id": "pratt-williamson-sea",
       "name": "Pratt-Williamson Series Elastic Actuator",
       "year": "1995",
@@ -1507,6 +1623,16 @@
         "rethink-baxter-sawyer-2012",
         "tonietti-vsa-pisa-iit-2005"
       ]
+    },
+    {
+      "id": "theseus-ise-canada-1995",
+      "name": "Theseus AUV (long-range Arctic under-ice cable-layer)",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [
+        "spurv-uw-apl-1957"
+      ],
+      "descendants": []
     },
     {
       "id": "svm-cortes-vapnik-1995",
@@ -1536,6 +1662,26 @@
       "descendants": [
         "robonaut-2"
       ]
+    },
+    {
+      "id": "hugin-kongsberg-ffi-1996",
+      "name": "Hugin AUV (Kongsberg/FFI dominant European commercial)",
+      "year": "1996",
+      "corpus": "private",
+      "ancestors": [
+        "spurv-uw-apl-1957"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "autosub-noc-southampton-1996",
+      "name": "Autosub family (NOC Southampton UK; Boaty McBoatface)",
+      "year": "1996",
+      "corpus": "academic",
+      "ancestors": [
+        "spurv-uw-apl-1957"
+      ],
+      "descendants": []
     },
     {
       "id": "honda-asimo-patent-cluster",
@@ -1635,6 +1781,14 @@
     {
       "id": "hocoma-lokomat-1999",
       "name": "Hocoma Lokomat treadmill-mounted gait orthosis",
+      "year": "1999",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "videoray-pro-1999",
+      "name": "VideoRay Pro / Mission Specialist (microROV market leader)",
       "year": "1999",
       "corpus": "private",
       "ancestors": [],
@@ -1984,6 +2138,16 @@
       ]
     },
     {
+      "id": "spray-glider-scripps-2001",
+      "name": "Spray underwater glider (Scripps + WHOI)",
+      "year": "2001",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "petrel-x-tianjin-china-2020"
+      ]
+    },
+    {
       "id": "pratt-virtual-model-control",
       "name": "Pratt Virtual Model Control",
       "year": "2001",
@@ -2161,6 +2325,16 @@
       "descendants": []
     },
     {
+      "id": "hercules-argus-ballard-2003",
+      "name": "Hercules + Argus (Ballard deep-archaeology two-body ROV)",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [
+        "jason-rov-1989"
+      ],
+      "descendants": []
+    },
+    {
       "id": "triton-xlx-rov",
       "name": "Triton XLX work-class ROV",
       "year": "2003",
@@ -2189,7 +2363,9 @@
       "name": "Bluefin-21 AUV",
       "year": "2003",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "spurv-uw-apl-1957"
+      ],
       "descendants": []
     },
     {
@@ -2464,6 +2640,16 @@
       "descendants": []
     },
     {
+      "id": "sentry-auv-whoi-2006",
+      "name": "Sentry AUV (WHOI ABE successor; deep-search workhorse)",
+      "year": "2006",
+      "corpus": "academic",
+      "ancestors": [
+        "abe-whoi-1995"
+      ],
+      "descendants": []
+    },
+    {
       "id": "mako-rio-stryker-2006",
       "name": "MAKO RIO orthopedic robot-arm-assisted surgery",
       "year": "2006",
@@ -2522,6 +2708,14 @@
       "descendants": []
     },
     {
+      "id": "liquid-robotics-wave-glider-2007",
+      "name": "Liquid Robotics Wave Glider (wave+solar persistent USV)",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "velodyne-hdl-64-lidar-2007",
       "name": "Velodyne HDL-64E LIDAR",
       "year": "2007",
@@ -2535,6 +2729,16 @@
       "year": "2007",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "festo-aquatic-bionic-suite-2007",
+      "name": "Festo Aquatic Bionic Suite (AquaJelly / AquaPenguin / AquaRay / AirJelly / BionicFinWave)",
+      "year": "2007",
+      "corpus": "private",
+      "ancestors": [
+        "robotuna-mit-triantafyllou-1994"
+      ],
       "descendants": []
     },
     {
@@ -3069,6 +3273,16 @@
       ]
     },
     {
+      "id": "trident-eu-fp7-iauv-2010",
+      "name": "TRIDENT (first major EU autonomous underwater intervention)",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [
+        "girona-500-uji-iauv-2010"
+      ],
+      "descendants": []
+    },
+    {
       "id": "iron-man-bleeding-edge-comics-2010",
       "name": "Iron Man Bleeding Edge Armor (comics; Fraction + Larroca 2010)",
       "year": "2010",
@@ -3117,6 +3331,28 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "jiaolong-china-2010",
+      "name": "Jiaolong (China 7000 m HOV)",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [
+        "trieste-bathyscaphe-piccard-1953"
+      ],
+      "descendants": [
+        "fendouzhe-china-2020"
+      ]
+    },
+    {
+      "id": "girona-500-uji-iauv-2010",
+      "name": "Girona 500 I-AUV (UdG/IRSLab reconfigurable)",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "trident-eu-fp7-iauv-2010"
+      ]
     },
     {
       "id": "cornell-jamming-gripper",
@@ -3277,6 +3513,16 @@
       "corpus": "private",
       "ancestors": [
         "berkeley-bleex-kazerooni-2004"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "deepsea-challenger-cameron-2012",
+      "name": "Deepsea Challenger (Cameron solo Challenger Deep)",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [
+        "trieste-bathyscaphe-piccard-1953"
       ],
       "descendants": []
     },
@@ -3565,6 +3811,14 @@
       "descendants": []
     },
     {
+      "id": "saildrone-explorer-2013",
+      "name": "Saildrone Explorer / Voyager / Surveyor (wind+solar USV)",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "schunk-svh-german-2013",
       "name": "Schunk SVH 5-finger dexterous hand",
       "year": "2013",
@@ -3787,6 +4041,14 @@
         "mckibben-pneumatic-muscle-1957",
         "pisa-iit-softhand"
       ],
+      "descendants": []
+    },
+    {
+      "id": "bluerov2-blue-robotics-2016",
+      "name": "Blue Robotics BlueROV2 (affordable open-hardware ROV)",
+      "year": "2014",
+      "corpus": "open",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -4096,6 +4358,14 @@
       "descendants": []
     },
     {
+      "id": "eelume-ntnu-2015",
+      "name": "Eelume snake robot (NTNU AMOS spinout)",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mecademic-meca500-2015",
       "name": "Mecademic Meca500 micro-cobot (5-µm precision)",
       "year": "2015",
@@ -4200,6 +4470,14 @@
       "descendants": []
     },
     {
+      "id": "sea-hunter-actuv-leidos-2016",
+      "name": "Sea Hunter ACTUV (DARPA + US Navy MDUSV)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "wild-robot-rozzum-7134-brown-2016",
       "name": "The Wild Robot — ROZZUM unit 7134",
       "year": "2016",
@@ -4226,6 +4504,16 @@
         "ziebart-maxent-irl-2008"
       ],
       "descendants": []
+    },
+    {
+      "id": "octobot-harvard-2016",
+      "name": "Octobot (first autonomous entirely-soft robot)",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "beihang-hadal-soft-robot-2021"
+      ]
     },
     {
       "id": "rajagopal-opensim-full-body-2016",
@@ -4340,6 +4628,18 @@
       "descendants": []
     },
     {
+      "id": "boeing-echo-voyager-2017",
+      "name": "Boeing Echo Voyager XLUUV demonstrator",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "spurv-uw-apl-1957"
+      ],
+      "descendants": [
+        "orca-xluuv-boeing-2019"
+      ]
+    },
+    {
       "id": "dex-net-goldberg-berkeley-2017",
       "name": "Dex-Net 2.0 (Mahler Goldberg Berkeley)",
       "year": "2017",
@@ -4448,6 +4748,14 @@
       "name": "Murderbot Diaries — SecUnit with hacked governor module",
       "year": "2017",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ixblue-drix-2017",
+      "name": "iXblue / Exail DriX hydrographic USV",
+      "year": "2017",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -4738,6 +5046,18 @@
       "descendants": []
     },
     {
+      "id": "sofi-mit-csail-rus-2018",
+      "name": "SoFi soft robotic fish (MIT CSAIL Rus)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "robotuna-mit-triantafyllou-1994"
+      ],
+      "descendants": [
+        "beihang-hadal-soft-robot-2021"
+      ]
+    },
+    {
       "id": "aquanaut-houston-2017",
       "name": "Aquanaut hybrid AUV/ROV",
       "year": "2018",
@@ -4938,6 +5258,24 @@
       "descendants": []
     },
     {
+      "id": "dsv-limiting-factor-vescovo-2018",
+      "name": "DSV Limiting Factor (Triton 36000/2 full-ocean-depth HOV)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "trieste-bathyscaphe-piccard-1953"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "oceangate-titan-2018-2023",
+      "name": "OceanGate Titan (carbon-fiber experimental HOV; 2023 loss)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ascento",
       "name": "Ascento",
       "year": "2019",
@@ -5014,11 +5352,23 @@
       ]
     },
     {
+      "id": "orca-xluuv-boeing-2019",
+      "name": "Orca XLUUV (Boeing US Navy XLUUV production)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "boeing-echo-voyager-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "pliant-energy-velox-cray-2019",
       "name": "Pliant Energy Velox / C-Ray (multi-gait undulating-fin amphibious robot)",
       "year": "2019",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "robotuna-mit-triantafyllou-1994"
+      ],
       "descendants": []
     },
     {
@@ -5030,6 +5380,14 @@
       "descendants": [
         "fair-habitat-3-puig-2024"
       ]
+    },
+    {
+      "id": "qysea-fifish-v6-2019",
+      "name": "QYSEA FIFISH V6 (omnidirectional consumer ROV pioneer)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "stanford-pupper-doggo-2019",
@@ -5288,6 +5646,16 @@
       "descendants": []
     },
     {
+      "id": "petrel-x-tianjin-china-2020",
+      "name": "Petrel-X glider (China full-ocean-depth glider)",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [
+        "spray-glider-scripps-2001"
+      ],
+      "descendants": []
+    },
+    {
       "id": "prophesee-evk4-event-camera-2020",
       "name": "Prophesee EVK4 event camera",
       "year": "2020",
@@ -5309,6 +5677,17 @@
       "descendants": [
         "mae-he-cvpr-2022"
       ]
+    },
+    {
+      "id": "fendouzhe-china-2020",
+      "name": "Fendouzhe / Striver (China full-ocean-depth HOV)",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [
+        "jiaolong-china-2010",
+        "trieste-bathyscaphe-piccard-1953"
+      ],
+      "descendants": []
     },
     {
       "id": "digit-meta",
@@ -5341,6 +5720,17 @@
         "openvla",
         "palm-e"
       ]
+    },
+    {
+      "id": "beihang-hadal-soft-robot-2021",
+      "name": "Beihang hadal-zone pressure-tolerant soft robot (Nature 2021)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [
+        "octobot-harvard-2016",
+        "sofi-mit-csail-rus-2018"
+      ],
+      "descendants": []
     },
     {
       "id": "ishiguro-klara-and-the-sun-2021",
@@ -5620,6 +6010,14 @@
       "ancestors": [
         "hwangbo-anymal-sim2real"
       ],
+      "descendants": []
+    },
+    {
+      "id": "anduril-dive-ld-2022",
+      "name": "Anduril Dive-LD (affordable LDUUV)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {

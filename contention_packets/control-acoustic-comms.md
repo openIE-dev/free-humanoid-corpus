@@ -1,7 +1,7 @@
 ---
 title: "control-acoustic-comms"
 parent: "Invalidity Contentions"
-nav_order: 22
+nav_order: 30
 layout: default
 ---
 
@@ -284,4 +284,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bd98079`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*

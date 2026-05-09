@@ -1,7 +1,7 @@
 ---
 title: "end-effector-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 123
+nav_order: 134
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `end-effector-anthropomorphic-hand`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
-**Earliest disclosure:** 2014-05  
+**Entries:** 4 (4 commons-grade, 0 draft)  
+**Earliest disclosure:** 2010-03  
 **Most recent disclosure:** 2023-01
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2010-03 — TRIDENT (first major EU autonomous underwater intervention)
+
+- **id:** `trident-eu-fp7-iauv-2010`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** UJI Spain (lead) + multi-EU consortium; EU FP7-funded
+- **disclosure citation:** TRIDENT consortium (UJI Spain coordinated; multi-EU partners). EU FP7 project launched March 1, 2010; ended 2013. First major EU autonomous underwater intervention I-AUV with dexterous hand+arm system.
+- **disclosed subsystems:** `auv`, `auv-iauv`, `manipulator-arm`, `end-effector-anthropomorphic-hand`, `actuator-electric`
+
+**Prior art notes:**
+
+> TRIDENT (EU FP7 / UJI Spain 2010-2013) is the first major EU autonomous underwater intervention I-AUV. 15-year-deep academic-publication prior art. Direct shielding for any commercial humanoid or aquatic-robot claim deriving from autonomous underwater intervention with manipulator arm + dexterous hand.
+
+**Sources:**
+
+1. cordis.europa.eu/project/id/248497
+
+---
 
 ### 2014-05 — DEKA / Mobius Bionics LUKE Arm
 
@@ -132,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bd98079`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*

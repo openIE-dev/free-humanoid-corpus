@@ -1,7 +1,7 @@
 ---
 title: "control-raibert-decomposition"
 parent: "Invalidity Contentions"
-nav_order: 96
+nav_order: 106
 layout: default
 ---
 
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `bd98079`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2b483e9`.*
