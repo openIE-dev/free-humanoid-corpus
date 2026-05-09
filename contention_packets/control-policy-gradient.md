@@ -1,7 +1,7 @@
 ---
 title: "control-policy-gradient"
 parent: "Invalidity Contentions"
-nav_order: 106
+nav_order: 107
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `control-policy-gradient`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2015-02  
-**Most recent disclosure:** 2017-07
+**Entries:** 7 (7 commons-grade, 0 draft)  
+**Earliest disclosure:** 1992-05  
+**Most recent disclosure:** 2018-01
 
 ---
 
@@ -40,6 +40,63 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 1992-05 — REINFORCE (Williams 1992; foundational policy-gradient)
+
+- **id:** `williams-reinforce-1992`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Northeastern University; Ronald J. Williams
+- **disclosure citation:** Williams, R.J. 'Simple statistical gradient-following algorithms for connectionist reinforcement learning'. Machine Learning 8(3-4):229-256, May 1992. Northeastern University. The foundational policy-gradient algorithm.
+- **disclosed subsystems:** `control-policy-gradient`
+
+**Prior art notes:**
+
+> REINFORCE (Williams Northeastern 1992) is the foundational policy-gradient algorithm. 33-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from policy-gradient RL.
+
+**Sources:**
+
+1. Williams, R.J. Machine Learning 8(3-4):229-256, 1992.
+
+---
+
+### 1999-12 — Policy Gradient Theorem (Sutton et al. 1999)
+
+- **id:** `sutton-policy-gradient-theorem-1999`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** AT&T Labs Research + UMass; Richard Sutton + David McAllester + Satinder Singh + Yishay Mansour
+- **disclosure citation:** Sutton, R.S., McAllester, D., Singh, S., Mansour, Y. 'Policy Gradient Methods for Reinforcement Learning with Function Approximation'. NIPS 1999. AT&T Labs Research + University of Massachusetts.
+- **disclosed subsystems:** `control-policy-gradient`
+
+**Prior art notes:**
+
+> Policy Gradient Theorem (Sutton et al. NIPS 1999) is the foundational theoretical result for policy-gradient + function approximation. 26-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Sutton, R.S. et al. NIPS 1999.
+
+---
+
+### 2014-06 — Deterministic Policy Gradient (Silver et al. 2014)
+
+- **id:** `silver-deterministic-policy-gradient-2014`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** DeepMind + INRIA; David Silver + Guy Lever + Nicolas Heess + Thomas Degris + Daan Wierstra + Martin Riedmiller
+- **disclosure citation:** Silver, D., Lever, G., Heess, N., Degris, T., Wierstra, D., Riedmiller, M. 'Deterministic Policy Gradient Algorithms'. ICML 2014. DeepMind + INRIA.
+- **disclosed subsystems:** `control-policy-gradient`
+
+**Prior art notes:**
+
+> Deterministic Policy Gradient (Silver et al. DeepMind ICML 2014) is the direct ancestor of DDPG. 11-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Silver, D. et al. ICML 2014.
+
+---
+
 ### 2015-02 — Trust Region Policy Optimization (TRPO)
 
 - **id:** `trpo-schulman-icml-2015`
@@ -56,6 +113,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Schulman et al. arXiv:1502.05477 ICML 2015.
+
+---
+
+### 2015-09 — DDPG (Deep Deterministic Policy Gradient; Lillicrap et al. 2015)
+
+- **id:** `lillicrap-ddpg-2015`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** DeepMind; Lillicrap + Hunt + Pritzel + Heess + Erez + Tassa + Silver + Wierstra
+- **disclosure citation:** Lillicrap, T.P., Hunt, J.J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D., Wierstra, D. 'Continuous control with deep reinforcement learning'. arXiv:1509.02971, ICLR 2016. DeepMind.
+- **disclosed subsystems:** `control-policy-gradient`, `control-deep-rl`
+
+**Prior art notes:**
+
+> DDPG (Lillicrap et al. DeepMind 2015) is the foundational deep-network continuous-control RL algorithm. 10-year-deep public-domain prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1509.02971
 
 ---
 
@@ -76,6 +152,25 @@ cite, copy, or redistribute these contentions.
 
 1. Schulman et al. arXiv:1707.06347 July 2017.
 2. OpenAI Spinning Up implementation (spinningup.openai.com).
+
+---
+
+### 2018-01 — Soft Actor-Critic (SAC; Haarnoja et al. 2018)
+
+- **id:** `haarnoja-soft-actor-critic-2018`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** UC Berkeley; Tuomas Haarnoja + Aurick Zhou + Pieter Abbeel + Sergey Levine
+- **disclosure citation:** Haarnoja, T., Zhou, A., Abbeel, P., Levine, S. 'Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor'. ICML 2018, arXiv:1801.01290. UC Berkeley.
+- **disclosed subsystems:** `control-policy-gradient`, `control-deep-rl`
+
+**Prior art notes:**
+
+> SAC (Haarnoja et al. UC Berkeley ICML 2018) is the canonical maximum-entropy off-policy actor-critic. 7-year-deep public-domain prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1801.01290
 
 ---
 
@@ -109,4 +204,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*

@@ -111,7 +111,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-cv-autonomous-flight` | 1 | 2018-02 |
 | `control-deep-cnn` | 2 | 2012-12 |
 | `control-deep-learning-policy` | 3 | 2017-03 |
-| `control-deep-rl` | 1 | 2013-12 |
+| `control-deep-rl` | 3 | 2013-12 |
 | `control-defensive-drone` | 1 | 2000-01 |
 | `control-differentiable-slam` | 1 | 2021-12 |
 | `control-diffusion-policy` | 4 | 2020-06 |
@@ -191,6 +191,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-master-slave` | 1 | 2008-05 |
 | `control-master-slave-teleoperation` | 6 | 1989-01 |
 | `control-mav-flight` | 2 | 2000-01 |
+| `control-meta-learning` | 1 | 2017-03 |
 | `control-microprocessor` | 1 | 1973-09 |
 | `control-microprocessor-damping` | 1 | 1997-09 |
 | `control-middleware` | 4 | 2009-05 |
@@ -242,7 +243,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-place-recognition` | 1 | 2021-04 |
 | `control-point-cloud` | 1 | 2016-12 |
 | `control-policy-evaluation` | 1 | 2024-05 |
-| `control-policy-gradient` | 2 | 2015-02 |
+| `control-policy-gradient` | 7 | 1992-05 |
 | `control-pose-free-reconstruction` | 2 | 2023-12 |
 | `control-pre-op-planning` | 2 | 1992-01 |
 | `control-predictive-planning` | 1 | 2009-01 |
@@ -262,6 +263,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-reduced-order-model` | 28 | 1979-04-07 |
 | `control-regularization` | 1 | 2014-06 |
 | `control-rehabilitation` | 1 | 2000-01 |
+| `control-replay-buffer` | 1 | 2015-11 |
 | `control-research-cluster` | 40 | 2000-01 |
 | `control-restaurant-service` | 1 | 2017-08 |
 | `control-rigid-body-dynamics` | 1 | 2017-09 |
@@ -477,6 +479,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-wheeled-balancing` | 7 | 1963-12-21 |
 | `mechanism-whegs` | 1 | 2000-04 |
 | `mechanism-wristed-instrument` | 1 | 2000-07 |
+| `meta-corpus` | 1 | 2017-06 |
 | `personal-mobility` | 2 | 1999-06 |
 | `power-fuel-cell` | 1 | 2020 |
 | `power-hot-swap` | 3 | 2015-02 |
@@ -485,6 +488,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `power-pressure-balanced-li-ion` | 3 | 2003-09 |
 | `power-tethered` | 13 | 1973 |
 | `quadruped-robot` | 1 | 1999-05 |
+| `rl-infrastructure` | 4 | 2004-01 |
 | `rov` | 6 | 1965-01 |
 | `rover-asteroid` | 1 | 2014-12 |
 | `rover-planetary` | 9 | 1970-11 |
@@ -537,6 +541,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `sensing-time-of-flight` | 1 | 2010-11 |
 | `sensing-vision-tactile` | 1 | 2025-11 |
 | `service-robot` | 4 | 2004-01 |
+| `simulator` | 2 | 2004-01 |
 | `software-mjbots-stack` | 2 | 2019 |
 | `software-openhrp` | 1 | 2002 |
 | `software-ros1` | 18 | 2002 |

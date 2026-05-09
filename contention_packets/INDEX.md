@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-09  
-**Packets:** 256  
-**Corpus revision:** `073503d`
+**Packets:** 259  
+**Corpus revision:** `2fbde5f`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -76,6 +76,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-cross-embodiment`](control-cross-embodiment.md) | 6 | 5 | 1 | 2023-10 | 2025-03 |
 | [`control-deep-cnn`](control-deep-cnn.md) | 2 | 2 | 0 | 2012-12 | 2015-12 |
 | [`control-deep-learning-policy`](control-deep-learning-policy.md) | 3 | 3 | 0 | 2017-03 | 2023-01 |
+| [`control-deep-rl`](control-deep-rl.md) | 3 | 3 | 0 | 2013-12 | 2018-01 |
 | [`control-diffusion-policy`](control-diffusion-policy.md) | 4 | 4 | 0 | 2020-06 | 2024-10 |
 | [`control-dual-system-architecture`](control-dual-system-architecture.md) | 2 | 2 | 0 | 2025-02 | 2025-03 |
 | [`control-dvl-positioning`](control-dvl-positioning.md) | 8 | 7 | 1 | 1989-04 | 2018-04 |
@@ -132,7 +133,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-pathfinding`](control-pathfinding.md) | 2 | 2 | 0 | 1968-07 | 1995-05 |
 | [`control-persistent-autonomy`](control-persistent-autonomy.md) | 2 | 2 | 0 | 2007-01 | 2013-09 |
 | [`control-physics-simulation`](control-physics-simulation.md) | 11 | 10 | 1 | 2003-01 | 2024-06 |
-| [`control-policy-gradient`](control-policy-gradient.md) | 2 | 2 | 0 | 2015-02 | 2017-07 |
+| [`control-policy-gradient`](control-policy-gradient.md) | 7 | 7 | 0 | 1992-05 | 2018-01 |
 | [`control-pose-free-reconstruction`](control-pose-free-reconstruction.md) | 2 | 2 | 0 | 2023-12 | 2025-03 |
 | [`control-pre-op-planning`](control-pre-op-planning.md) | 2 | 2 | 0 | 1992-01 | 2017-08 |
 | [`control-prosthetic-control`](control-prosthetic-control.md) | 2 | 2 | 0 | 2002-07 | 2009-12 |
@@ -243,6 +244,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`power-li-po`](power-li-po.md) | 3 | 3 | 0 | 2010 | 2022 |
 | [`power-pressure-balanced-li-ion`](power-pressure-balanced-li-ion.md) | 3 | 2 | 1 | 2003-09 | 2018-04 |
 | [`power-tethered`](power-tethered.md) | 13 | 11 | 2 | 1973 | 2017-11 |
+| [`rl-infrastructure`](rl-infrastructure.md) | 4 | 4 | 0 | 2004-01 | 2017-05 |
 | [`rov`](rov.md) | 6 | 6 | 0 | 1965-01 | 2019-04 |
 | [`rover-planetary`](rover-planetary.md) | 9 | 9 | 0 | 1970-11 | 2024-01 |
 | [`safety-emergency-stop`](safety-emergency-stop.md) | 5 | 5 | 0 | 1982-12 | 2017-05 |
@@ -271,6 +273,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`sensing-tactile-vision-based`](sensing-tactile-vision-based.md) | 5 | 4 | 1 | 2017-04 | 2024-11 |
 | [`sensing-tactile-whole-body`](sensing-tactile-whole-body.md) | 7 | 7 | 0 | 1989-05 | 2015-04 |
 | [`service-robot`](service-robot.md) | 4 | 4 | 0 | 2004-01 | 2019-01 |
+| [`simulator`](simulator.md) | 2 | 2 | 0 | 2004-01 | 2013-11 |
 | [`software-mjbots-stack`](software-mjbots-stack.md) | 2 | 2 | 0 | 2019 | 2022 |
 | [`software-ros1`](software-ros1.md) | 18 | 18 | 0 | 2002 | 2019-09 |
 | [`software-ros2`](software-ros2.md) | 4 | 4 | 0 | 2017-09 | 2023-10 |

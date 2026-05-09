@@ -1497,6 +1497,19 @@
       ]
     },
     {
+      "id": "williams-reinforce-1992",
+      "name": "REINFORCE (Williams 1992; foundational policy-gradient)",
+      "year": "1992",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "lillicrap-ddpg-2015",
+        "ppo-schulman-openai-2017",
+        "sutton-policy-gradient-theorem-1999",
+        "trpo-schulman-icml-2015"
+      ]
+    },
+    {
       "id": "dbz-cell-android-21",
       "name": "Cell",
       "year": "1992",
@@ -1977,6 +1990,18 @@
       "descendants": [
         "hrp-2",
         "hrp-3"
+      ]
+    },
+    {
+      "id": "sutton-policy-gradient-theorem-1999",
+      "name": "Policy Gradient Theorem (Sutton et al. 1999)",
+      "year": "1999",
+      "corpus": "academic",
+      "ancestors": [
+        "williams-reinforce-1992"
+      ],
+      "descendants": [
+        "silver-deterministic-policy-gradient-2014"
       ]
     },
     {
@@ -2649,6 +2674,14 @@
       "name": "Bokurano (Zearth, child-piloted consent-architecture mecha)",
       "year": "2004",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "gazebo-koenig-howard-2004",
+      "name": "Gazebo (foundational ROS-integrated robotics simulator)",
+      "year": "2004",
+      "corpus": "open",
       "ancestors": [],
       "descendants": []
     },
@@ -4198,6 +4231,14 @@
       "descendants": []
     },
     {
+      "id": "coppeliasim-vrep-rohmer-2013",
+      "name": "CoppeliaSim (formerly V-REP; Rohmer Coppelia 2013)",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "cheetah-cub-epfl",
       "name": "Cheetah-cub",
       "year": "2013",
@@ -4220,7 +4261,9 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "lillicrap-ddpg-2015",
         "ppo-schulman-openai-2017",
+        "schaul-prioritized-experience-replay-2015",
         "soft-actor-critic-haarnoja-2018",
         "trpo-schulman-icml-2015"
       ]
@@ -4391,6 +4434,18 @@
         "nao"
       ],
       "descendants": []
+    },
+    {
+      "id": "silver-deterministic-policy-gradient-2014",
+      "name": "Deterministic Policy Gradient (Silver et al. 2014)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [
+        "sutton-policy-gradient-theorem-1999"
+      ],
+      "descendants": [
+        "lillicrap-ddpg-2015"
+      ]
     },
     {
       "id": "dlr-toro",
@@ -4656,7 +4711,8 @@
       "year": "2015",
       "corpus": "academic",
       "ancestors": [
-        "dqn-mnih-deepmind-2013"
+        "dqn-mnih-deepmind-2013",
+        "williams-reinforce-1992"
       ],
       "descendants": [
         "ppo-schulman-openai-2017"
@@ -4845,6 +4901,20 @@
       "descendants": []
     },
     {
+      "id": "lillicrap-ddpg-2015",
+      "name": "DDPG (Deep Deterministic Policy Gradient; Lillicrap et al. 2015)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [
+        "dqn-mnih-deepmind-2013",
+        "silver-deterministic-policy-gradient-2014",
+        "williams-reinforce-1992"
+      ],
+      "descendants": [
+        "haarnoja-soft-actor-critic-2018"
+      ]
+    },
+    {
       "id": "mecademic-meca500-2015",
       "name": "Mecademic Meca500 micro-cobot (5-µm precision)",
       "year": "2015",
@@ -4858,6 +4928,16 @@
       "year": "2015",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "schaul-prioritized-experience-replay-2015",
+      "name": "Prioritized Experience Replay (Schaul et al. 2015)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [
+        "dqn-mnih-deepmind-2013"
+      ],
       "descendants": []
     },
     {
@@ -4971,6 +5051,16 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "openai-gym-brockman-2016",
+      "name": "OpenAI Gym (foundational RL benchmark library)",
+      "year": "2016",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": [
+        "openai-baselines-2017"
+      ]
     },
     {
       "id": "sea-hunter-actuv-leidos-2016",
@@ -5204,6 +5294,14 @@
       ]
     },
     {
+      "id": "finn-maml-2017",
+      "name": "MAML (Model-Agnostic Meta-Learning; Finn et al. 2017)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "janus-stanag-4748-2017",
       "name": "JANUS underwater acoustic communications standard",
       "year": "2017",
@@ -5313,10 +5411,28 @@
       "descendants": []
     },
     {
+      "id": "openai-baselines-2017",
+      "name": "OpenAI Baselines (reference RL algorithm implementations)",
+      "year": "2017",
+      "corpus": "open",
+      "ancestors": [
+        "openai-gym-brockman-2016"
+      ],
+      "descendants": []
+    },
+    {
       "id": "ixblue-drix-2017",
       "name": "iXblue / Exail DriX hydrographic USV",
       "year": "2017",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "phylliade-awesome-ml-robotics-2017",
+      "name": "awesome-machine-learning-robotics (Phylliade curated meta-list)",
+      "year": "2017",
+      "corpus": "open",
       "ancestors": [],
       "descendants": []
     },
@@ -5353,7 +5469,8 @@
       "corpus": "academic",
       "ancestors": [
         "dqn-mnih-deepmind-2013",
-        "trpo-schulman-icml-2015"
+        "trpo-schulman-icml-2015",
+        "williams-reinforce-1992"
       ],
       "descendants": []
     },
@@ -5590,6 +5707,16 @@
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "haarnoja-soft-actor-critic-2018",
+      "name": "Soft Actor-Critic (SAC; Haarnoja et al. 2018)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "lillicrap-ddpg-2015"
+      ],
       "descendants": []
     },
     {

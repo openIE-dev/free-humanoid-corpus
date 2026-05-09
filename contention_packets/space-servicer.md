@@ -1,7 +1,7 @@
 ---
 title: "space-servicer"
 parent: "Invalidity Contentions"
-nav_order: 249
+nav_order: 252
 layout: default
 ---
 
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*

@@ -1,7 +1,7 @@
 ---
 title: "mechanism-continuum-manipulator"
 parent: "Invalidity Contentions"
-nav_order: 174
+nav_order: 175
 layout: default
 ---
 
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*

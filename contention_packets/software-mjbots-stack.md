@@ -1,7 +1,7 @@
 ---
 title: "software-mjbots-stack"
 parent: "Invalidity Contentions"
-nav_order: 245
+nav_order: 248
 layout: default
 ---
 
@@ -110,4 +110,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `073503d`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*

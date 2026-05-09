@@ -1,6 +1,6 @@
 # Corpus Index
 
-840 entries total. Generated from corpus.jsonl.
+852 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | Autosub family (NOC Southampton UK; Boaty McBoatface) | `autosub-noc-southampton-1996` | 1996 | academic | academic-publication |  |
 | AV-98 Ingram | `patlabor-av-98` | 1988 | fictional | fictional |  |
 | Ava (Ex Machina) | `ex-machina-ava` | 2014 | fictional | fictional |  |
+| awesome-machine-learning-robotics (Phylliade curated meta-list) | `phylliade-awesome-ml-robotics-2017` | 2017 | open | open-permissive |  |
 | B-9 (Lost in Space) | `b-9-lost-in-space` | 1965 | fictional | fictional |  |
 | B1 Battle Droid | `b1-battle-droid` | 1999 | fictional | fictional |  |
 | Backpropagation | `backpropagation-rumelhart-hinton-1986` | 1986 | academic | public-domain |  |
@@ -153,6 +154,7 @@
 | Comma.ai openpilot (open-source aftermarket ADAS) | `comma-ai-george-hotz-2015` | 2015 | open | open-permissive (MIT) |  |
 | Contact-Invariant Optimization (Mordatch CIO) | `mordatch-cio-2012` | 2012 | academic | public-domain |  |
 | Control Barrier Functions | `control-barrier-functions` | 2007 | academic | public-domain |  |
+| CoppeliaSim (formerly V-REP; Rohmer Coppelia 2013) | `coppeliasim-vrep-rohmer-2013` | 2013 | private | trade-secret (commercial; free educational) |  |
 | Cornell Universal Jamming Gripper | `cornell-jamming-gripper` | 2010 | academic | open-permissive |  |
 | CorPath GRX (Corindus / Siemens Healthineers) | `corpath-grx-corindus-2014` | 2012 | private | trade-secret |  |
 | Covariant RFM-1 | `covariant-rfm` | 2024 | private | trade-secret | ✓ |
@@ -183,6 +185,7 @@
 | DARwIn-OP | `darwin-op` | 2010 | open | open-permissive |  |
 | Data | `data-tng` | 1987 | fictional | fictional |  |
 | David and Walter (Alien franchise synthetics) | `david-prometheus-walter-covenant` | 2012 | fictional | fictional |  |
+| DDPG (Deep Deterministic Policy Gradient; Lillicrap et al. 2015) | `lillicrap-ddpg-2015` | 2015 | academic | public-domain |  |
 | Decision Transformer | `decision-transformer-chen-2021` | 2021 | academic | public-domain |  |
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
 | Deep Q-Network (DQN) | `dqn-mnih-deepmind-2013` | 2013 | academic | public-domain |  |
@@ -196,6 +199,7 @@
 | Denoising Diffusion Probabilistic Models (DDPM) | `ddpm-ho-neurips-2020` | 2020 | academic | public-domain |  |
 | Denso COBOTTA compact desktop cobot | `denso-cobotta-2017` | 2017 | private | trade-secret |  |
 | Depth Anything V2 | `bytedance-depth-anything-v2-2024` | 2024 | academic | open-permissive |  |
+| Deterministic Policy Gradient (Silver et al. 2014) | `silver-deterministic-policy-gradient-2014` | 2014 | academic | public-domain |  |
 | Detroit: Become Human androids (RT600/RK800/RK900 series) | `detroit-become-human` | 2018 | fictional | fictional |  |
 | Devol Programmed Article Transfer (foundational arm patent) | `devol-programmed-article-transfer-1954` | 1954 | academic | public-domain (expired) |  |
 | Dex-Net 2.0 (Mahler Goldberg Berkeley) | `dex-net-goldberg-berkeley-2017` | 2017 | academic | open-permissive |  |
@@ -280,6 +284,7 @@
 | Galaxea G1 | `galaxea-g1-2024` | 2024 | private | trade-secret | ✓ |
 | Galbot | `galbot-galaxy-robotics-2024` | 2024 | private | trade-secret | ✓ |
 | Gato (DeepMind generalist agent) | `gato-deepmind` | 2022 | academic | open-permissive |  |
+| Gazebo (foundational ROS-integrated robotics simulator) | `gazebo-koenig-howard-2004` | 2004 | open | open-permissive (Apache 2.0) |  |
 | GE Quadruped Transporter (Walking Truck) | `ge-walking-truck` | 1968 | academic | public-domain |  |
 | Geek+ / Geekplus (largest AMR vendor by deployment count) | `geek-plus-2015` | 2015 | private | trade-secret |  |
 | GelSight | `gelsight` | 2009 | academic | open-permissive |  |
@@ -454,6 +459,7 @@
 | Makino SCARA (Selective Compliance Assembly Robot Arm) | `makino-scara-yamanashi-1978` | 1978 | academic | public-domain |  |
 | MAKO RIO orthopedic robot-arm-assisted surgery | `mako-rio-stryker-2006` | 2006 | private | trade-secret |  |
 | Mamba (Selective State-Space Model) | `mamba-state-space-model-gu-dao-2023` | 2023 | academic | public-domain |  |
+| MAML (Model-Agnostic Meta-Learning; Finn et al. 2017) | `finn-maml-2017` | 2017 | academic | public-domain |  |
 | Manus Quantum Metagloves | `manus-quantum-metagloves-2023` | 2023 | private | trade-secret | ✓ |
 | Maschinenmensch | `metropolis-maschinenmensch` | 1927 | fictional | public-domain |  |
 | Masked Autoencoders (MAE) | `mae-he-cvpr-2022` | 2021 | academic | public-domain |  |
@@ -542,7 +548,9 @@
 | Open Source Leg (Rouse Michigan) | `open-source-leg-rouse-2019` | 2019 | open | open-permissive |  |
 | Open X-Embodiment | `open-x-embodiment` | 2023 | academic | open-permissive |  |
 | Open-TeleVision | `opentelevision-cheng-corl-2024` | 2024 | academic | open-permissive |  |
+| OpenAI Baselines (reference RL algorithm implementations) | `openai-baselines-2017` | 2017 | open | open-permissive (MIT) |  |
 | OpenAI Dactyl | `openai-dactyl` | 2018 | academic | open-permissive |  |
+| OpenAI Gym (foundational RL benchmark library) | `openai-gym-brockman-2016` | 2016 | open | open-permissive (MIT) |  |
 | OpenSim biomechanics framework | `opensim-delp-stanford-2007` | 2007 | academic | open-permissive |  |
 | OpenVLA | `openvla-stanford-2024` | 2024 | academic | open-permissive |  |
 | OpenVLA (Open-Source Vision-Language-Action Model) | `openvla` | 2024 | academic | open-permissive |  |
@@ -576,11 +584,13 @@
 | Pliant Energy Velox / C-Ray (multi-gait undulating-fin amphibious robot) | `pliant-energy-velox-cray-2019` | 2019 | private | trade-secret (commercial; with patents on hyperbolic-fin mechanism) |  |
 | Pluto (Naoki Urasawa reimagining) | `urasawa-pluto` | 2003 | fictional | fictional |  |
 | PointNet | `pointnet-qi-cvpr-2017` | 2016 | academic | public-domain |  |
+| Policy Gradient Theorem (Sutton et al. 1999) | `sutton-policy-gradient-theorem-1999` | 1999 | academic | public-domain |  |
 | Poppy Humanoid | `poppy-humanoid` | 2014 | open | open-permissive |  |
 | PR2 | `pr2` | 2010 | open | open-permissive |  |
 | Pragyan (Chandrayaan-3; first lunar south pole rover) | `isro-chandrayaan3-pragyan-2023` | 2023 | academic | public-domain |  |
 | Pratt Virtual Model Control | `pratt-virtual-model-control` | 2001 | academic | public-domain |  |
 | Pratt-Williamson Series Elastic Actuator | `pratt-williamson-sea` | 1995 | academic | public-domain |  |
+| Prioritized Experience Replay (Schaul et al. 2015) | `schaul-prioritized-experience-replay-2015` | 2015 | academic | public-domain |  |
 | Promobot | `promobot-russia-2015` | 2015 | private | trade-secret |  |
 | Prophesee EVK4 event camera | `prophesee-evk4-event-camera-2020` | 2020 | private | trade-secret |  |
 | Proximal Policy Optimization (PPO) | `ppo-schulman-openai-2017` | 2017 | academic | public-domain |  |
@@ -605,6 +615,7 @@
 | Real Humans / Äkta människor — Hubot household humanoids | `akta-manniskor-real-humans-2012` | 2012 | fictional | public-domain |  |
 | Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) | `real-steel-boxers` | 2011 | fictional | fictional |  |
 | REEM-C | `reem-c` | 2013 | private | patented |  |
+| REINFORCE (Williams 1992; foundational policy-gradient) | `williams-reinforce-1992` | 1992 | academic | public-domain |  |
 | REMUS 100 AUV | `kongsberg-remus-100-auv` | 1995 | private | trade-secret |  |
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
 | Rescue Armor (Pepper Potts; comics 2009 / MCU 2019) | `rescue-pepper-potts-armor-2009` | 2009 | fictional | copyright-marvel |  |
@@ -700,6 +711,7 @@
 | Smith (Atlas 2024) | `atlas-2024-film` | 2024 | fictional | fictional |  |
 | SoFi soft robotic fish (MIT CSAIL Rus) | `sofi-mit-csail-rus-2018` | 2018 | academic | academic-publication |  |
 | Soft Actor-Critic (SAC) | `soft-actor-critic-haarnoja-2018` | 2018 | academic | public-domain |  |
+| Soft Actor-Critic (SAC; Haarnoja et al. 2018) | `haarnoja-soft-actor-critic-2018` | 2018 | academic | public-domain |  |
 | Soft Robotics Inc mGrip food-handling gripper | `soft-robotics-mgrip-2014` | 2014 | private | trade-secret |  |
 | Sojourner (Mars Pathfinder; first successful Mars rover) | `nasa-sojourner-pathfinder-1997` | 1997 | academic | public-domain |  |
 | Sony AIBO | `sony-aibo` | 1999 | private | patented |  |
