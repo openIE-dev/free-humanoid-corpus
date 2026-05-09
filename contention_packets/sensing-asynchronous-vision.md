@@ -1,7 +1,7 @@
 ---
 title: "sensing-asynchronous-vision"
 parent: "Invalidity Contentions"
-nav_order: 182
+nav_order: 193
 layout: default
 ---
 
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d6a964d`.*

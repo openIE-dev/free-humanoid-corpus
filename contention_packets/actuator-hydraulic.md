@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `actuator-hydraulic`  
-**Entries:** 30 (24 commons-grade, 6 draft)  
+**Entries:** 32 (26 commons-grade, 6 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2024-05-24
 
@@ -58,6 +58,26 @@ cite, copy, or redistribute these contentions.
 1. Apollonius of Rhodes, Argonautica, Book IV (Loeb Classical Library translation, R.C. Seaton 1912)
 2. Pseudo-Apollodorus, Bibliotheca 1.9.26
 3. Mayor, Adrienne. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018.
+
+---
+
+### 1961-01 — Unimate (the first industrial robot arm)
+
+- **id:** `unimate-unimation-1961`
+- **corpus:** private
+- **ip status:** public-domain
+- **creator:** Unimation Inc. (Danbury, CT, USA); George Devol + Joseph Engelberger
+- **disclosure citation:** Devol, G.C. + Engelberger, J.F. / Unimation Inc. (Danbury, CT, USA; founded 1956). Unimate first deployed at GM Inland Fisher Guide plant, Ewing Township NJ, 1961. The first industrial robot arm. Robot Hall of Fame inductee 2003.
+- **disclosed subsystems:** `manipulator-arm`, `actuator-hydraulic`, `control-stored-program`
+
+**Prior art notes:**
+
+> Unimate (Unimation Danbury CT 1961) is the first industrial robot arm. 64-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from industrial articulated robot arms. The Kawasaki 1968 license seeded the entire Japanese arm-OEM industry; the Stäubli 1989 acquisition transferred the lineage to Europe.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Unimate
+2. automate.org/robotics/engelberger/joseph-engelberger-unimate
 
 ---
 
@@ -179,6 +199,25 @@ cite, copy, or redistribute these contentions.
 
 1. Kato, I. et al. 1973 CISM-IFToMM Symposium proceedings.
 2. Waseda University Humanoid Robotics Institute archives.
+
+---
+
+### 1973-04 — Cincinnati Milacron T³ (first US revolute computer-controlled arm)
+
+- **id:** `cincinnati-milacron-t3-1973`
+- **corpus:** private
+- **ip status:** public-domain
+- **creator:** Cincinnati Milacron Inc. (Cincinnati, OH, USA); Richard Hohn
+- **disclosure citation:** Cincinnati Milacron Inc. (Cincinnati, OH, USA). T³ ('The Tomorrow Tool') commercial reveal April 1973. First commercially available minicomputer-controlled industrial robot. Developed by Richard Hohn.
+- **disclosed subsystems:** `manipulator-arm`, `actuator-hydraulic`, `control-numerical`
+
+**Prior art notes:**
+
+> Cincinnati Milacron T³ (Cincinnati 1973) is the first commercially available minicomputer-controlled industrial robot and first US revolute-config arm. 52-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from minicomputer-controlled anthropomorphic arms.
+
+**Sources:**
+
+1. collection.powerhouse.com.au/object/574553
 
 ---
 
@@ -672,4 +711,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d6a964d`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**49 corpus entries disclose this subsystem.**
+**79 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -33,6 +33,42 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Belgrade / Belgrade-USC Hand (Tomović + Rakić 1963; Bekey USC 1988) is the foundational anthropomorphic prosthetic hand and the world's first externally-powered five-finger myoelectric prosthetic. 62-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from five-finger anthropomorphic hands, underactuated finger mechanisms, or myoelectric prosthetic control. Foundational to every modern anthropomorphic hand including Robotiq (round-42), Shadow Dexterous Hand (corpus), Salisbury Stanford-JPL Hand (corpus), Utah/MIT Hand (round-42), and the entire dexterous-hand research lineage.
 
+## Stanford Arm (Scheinman 1969) (1969-06)
+
+- **id**: `stanford-arm-scheinman-1969`
+- **corpus**: academic
+- **creator**: Stanford AI Laboratory; Victor Scheinman
+- **disclosure**: Scheinman, V.D. 'Design of a Computer Controlled Manipulator'. Stanford AI Memo 92, June 1969. Stanford Artificial Intelligence Laboratory. Subsequently commercialized as Vicarm (Scheinman's company), then sold to Unimation.
+- **ip status**: public-domain
+- **prior art notes**: Stanford Arm (Scheinman Stanford AI Lab 1969) is the foundational all-electric 6-axis arm with closed-form kinematics. 56-year-deep public-domain prior art. The Scheinman spherical wrist became the industrial standard. Direct shielding for any commercial humanoid claim deriving from 6-DoF anthropomorphic arm geometry. Direct ancestor of PUMA (round-45) and every modern 6-DoF industrial arm.
+
+## ASEA IRB-6 (first microprocessor-controlled all-electric robot) (1973-09)
+
+- **id**: `asea-irb6-1973`
+- **corpus**: private
+- **creator**: ASEA AB (Västerås, Sweden; → ABB 1988); Björn Weichbrodt et al.
+- **disclosure**: ASEA AB (Västerås, Sweden; merged with Brown Boveri 1988 → ABB). IRB-6 commercial reveal September 1973. World's first microprocessor-controlled (Intel 8008) all-electric industrial robot. Developed by Björn Weichbrodt et al.
+- **ip status**: public-domain
+- **prior art notes**: ASEA IRB-6 (Västerås Sweden 1973) is the world's first microprocessor-controlled all-electric industrial robot. 52-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from all-electric microprocessor-controlled industrial arms. Ancestor of the entire ABB IRB product line including YuMi (round-45) and FlexPicker (round-45).
+
+## Makino SCARA (Selective Compliance Assembly Robot Arm) (1978-01)
+
+- **id**: `makino-scara-yamanashi-1978`
+- **corpus**: academic
+- **creator**: University of Yamanashi (Japan); Hiroshi Makino + 13-company consortium; productized by Sankyo Seiki, Pentel, NEC
+- **disclosure**: Makino, H. et al. SCARA architecture developed at University of Yamanashi 1978-1981 in consortium with 13 Japanese companies. Productized by Sankyo Seiki, Pentel, and NEC starting 1981. Hiroshi Makino (Yamanashi University) is the inventor.
+- **ip status**: public-domain
+- **prior art notes**: Makino SCARA (Yamanashi University + 13-company consortium 1978-1981) is the foundational SCARA architecture. 47-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from SCARA-architecture assembly arms. The dominant assembly-arm architecture worldwide; productized by every major arm OEM.
+
+## PUMA (Programmable Universal Machine for Assembly) (1978-05)
+
+- **id**: `puma-unimation-1978`
+- **corpus**: private
+- **creator**: Unimation Inc. (Danbury, CT, USA); Victor Scheinman; GM-funded contract
+- **disclosure**: Unimation Inc. (Danbury, CT, USA). PUMA reveal 1978; GM-funded design contract. Designed by Victor Scheinman based on his Stanford Arm (round-45). PUMA 560 became the canonical 6-DoF research arm of the 1980s-1990s. Unimation → Westinghouse 1983 → Stäubli 1989.
+- **ip status**: public-domain
+- **prior art notes**: PUMA (Unimation 1978; Scheinman) is the canonical 6-DoF anthropomorphic arm geometry. 47-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from 6-DoF revolute anthropomorphic arms. Ancestor of UR (corpus universal-robots-denmark-2008) and most modern industrial arms.
+
 ## SCARA (Selective Compliance Articulated Robot Arm) (1979-01)
 
 - **id**: `scara-makino-1979`
@@ -41,6 +77,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Makino, H. 'SCARA Robot' development at Yamanashi University, Japan, 1978-1981. Initial commercial SCARA robots from Sankyo Seiki + Yamaha + others early 1980s. SCARA stands for Selective Compliance Articulated Robot Arm.
 - **ip status**: public-domain
 - **prior art notes**: SCARA (Makino Yamanashi University 1979) is the foundational selective-compliance manipulator architecture. 46-year-deep public-domain prior art. The dominant industrial-arm class for electronics assembly. Direct shielding for any commercial humanoid claim that includes SCARA-class arm derivatives or selective-compliance manipulation.
+
+## Epson SCARA (global SCARA volume leader) (1983-01)
+
+- **id**: `epson-scara-1983`
+- **corpus**: private
+- **creator**: Seiko Epson Corporation (Suwa, Japan)
+- **disclosure**: Seiko Epson Corporation (Suwa, Japan; Suwa Seikosha). First Epson SCARA reveal 1983 (originally for in-house quartz-watch assembly automation). Now #1 SCARA-arm maker worldwide. Modern G-series (2000s+), LS-series, N-series 6-axis.
+- **ip status**: trade-secret
+- **prior art notes**: Epson SCARA (Seiko Epson Suwa 1983+) is the global SCARA-arm volume leader. 42-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from SCARA-architecture assembly arms. Lineage descends from Makino SCARA (round-45).
+
+## Clavel Delta Robot (EPFL 1985 patent) (1985-01)
+
+- **id**: `clavel-delta-epfl-1985`
+- **corpus**: academic
+- **creator**: EPFL (Lausanne, Switzerland); Reymond Clavel + Marc-Olivier Demaurex
+- **disclosure**: Clavel, R., Demaurex, M.-O. 'Delta, A Fast Robot with Parallel Geometry'. 18th International Symposium on Industrial Robots 1988; original patent 1985 (EP 0250470, expired 2007). EPFL (École Polytechnique Fédérale de Lausanne, Switzerland). Commercialized 1987 via Demaurex SA (Romont, Switzerland; acquired by Bosch 1999, then to ABB ecosystem).
+- **ip status**: public-domain (EPFL patent expired 2007)
+- **prior art notes**: Clavel Delta Robot (EPFL 1985 patent; expired 2007) is the first parallel pick-and-place delta robot. 40-year-deep public-domain prior art (patent expired 2007). Direct shielding for any commercial humanoid claim deriving from parallel delta-mechanism arms. Ancestor of ABB FlexPicker (round-45), Adept Quattro, and every commercial delta robot.
 
 ## BarrettHand BH8-280 / BH8-282 (1988-01)
 
@@ -51,6 +105,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: BarrettHand is **the first commercial multi-fingered dexterous hand** (Barrett Technology MIT spinout 1988+). 37-year-deep public-disclosure prior art. The architectural ancestor of every subsequent commercial dexterous hand: Shadow (corpus), Allegro (round-27), Schunk SVH (round-27), Pisa-IIT SoftHand (corpus). Direct shielding for any commercial humanoid claim on multi-fingered dexterous hand commercial deployment.
 
+## Barrett WAM Arm (cable-driven backdrivable research arm) (1990-01)
+
+- **id**: `barrett-wam-arm-1990`
+- **corpus**: academic
+- **creator**: MIT AI Lab + Barrett Technology Inc. (Cambridge, MA, USA); William Townsend
+- **disclosure**: Townsend, W. PhD thesis 'The Effect of Transmission Design on Force-Controlled Manipulator Performance'. MIT 1988. Barrett Technology Inc. founded 1990 in Cambridge MA. WAM (Whole-Arm Manipulator) commercial reveal 1990. The canonical compliant-research-arm; licensed into MAKO/RIO surgical platform (round-45).
+- **ip status**: academic-publication
+- **prior art notes**: Barrett WAM Arm (Townsend MIT 1988 → Barrett Technology 1990) is the canonical cable-driven backdrivable research arm. 35-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from cable-driven backdrivable manipulator arms. Licensed into MAKO RIO surgical platform (round-45). Sister to Barrett Hand (corpus barrett-hand-1988).
+
+## Stäubli TX/RX series high-precision sealed arms (1991-01)
+
+- **id**: `staubli-tx-rx-series-1991`
+- **corpus**: private
+- **creator**: Stäubli AG (Pfäffikon, Switzerland + Faverges, France); Unimation acquisition 1989
+- **disclosure**: Stäubli AG (Pfäffikon, Switzerland + Faverges, France; founded 1892). RX-series industrial arm reveal 1991, following Stäubli's 1989 acquisition of Unimation's robot business (transferring the PUMA / Stanford Arm IP lineage to Europe). TX2-series 2017 with safety-rated SIL3/PLe controller.
+- **ip status**: trade-secret
+- **prior art notes**: Stäubli TX/RX series (Stäubli Switzerland + France 1991+) are the high-precision sealed-arm reference for pharma + clean-room. 34-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from clean-room-rated industrial arms. Lineage descends from PUMA (round-45 puma-unimation-1978) via Unimation's 1989 sale to Stäubli.
+
+## DLR Lightweight Robot LWR I/II/III (foundational torque-sensor arm) (1991-01)
+
+- **id**: `dlr-lwr-1991-2003`
+- **corpus**: academic
+- **creator**: DLR (German Aerospace Center) Institute of Robotics and Mechatronics; Gerd Hirzinger group
+- **disclosure**: Hirzinger, G. et al. DLR (German Aerospace Center) Institute of Robotics and Mechatronics. LWR I (1991), LWR II (1998), LWR III (2003), LWR IV (~2007). The seminal torque-sensor 7-DoF lightweight arm; basis for KUKA LBR iiwa (round-45) via license.
+- **ip status**: academic-publication
+- **prior art notes**: DLR Lightweight Robot LWR (DLR Hirzinger group 1991-2007) is the seminal torque-sensor 7-DoF lightweight research arm. 34-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from torque-sensor 7-DoF cobots. Anchors the entire 7-DoF cobot category via KUKA LBR iiwa (round-45) and Franka Panda (round-45) descendants.
+
 ## KIT ARMAR humanoid lineage (1998-01)
 
 - **id**: `kit-armar-humanoid-2000-2020`
@@ -59,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Karlsruhe Institute of Technology (KIT, formerly Universität Karlsruhe). ARMAR humanoid lineage 1998-2020+: ARMAR-I (1998), ARMAR-II (2002), ARMAR-III (2005), ARMAR-IV (2013), ARMAR-VI (2018), ARMAR-7 (2024). Albers + Asfour + Dillmann group (now led by Tamim Asfour). The foundational German academic humanoid lineage.
 - **ip status**: public-domain
 - **prior art notes**: The KIT ARMAR humanoid lineage is the foundational German academic humanoid program (Asfour + Dillmann at KIT, 1998-2020+). 27-year-deep public-domain prior art across 7 generations of ARMAR humanoid. Together with DLR Justin (corpus entry justin / dlr-justin), DLR Hand-II (corpus), DLR Hand-Arm System (corpus round-8), establishes the German academic humanoid + manipulator prior-art baseline. Direct shielding for any commercial humanoid claim that descends architecturally from German academic humanoid lineages.
+
+## ABB FlexPicker IRB 360 (dominant industrial delta robot) (1998-01)
+
+- **id**: `abb-flexpicker-irb-360-1998`
+- **corpus**: private
+- **creator**: ABB Asea Brown Boveri (Zurich + Västerås); Clavel-EPFL patent licensee
+- **disclosure**: ABB Asea Brown Boveri (Zurich, Switzerland + Västerås, Sweden). FlexPicker IRB 360 commercial reveal 1998. The first commercially dominant industrial delta robot; Clavel-EPFL-patent-derived (round-45 clavel-delta-epfl-1985).
+- **ip status**: trade-secret
+- **prior art notes**: ABB FlexPicker IRB 360 (ABB 1998+) is the dominant industrial delta robot. 27-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from delta-mechanism pick-and-place arms. Lineage descends from Clavel-EPFL patent (round-45 clavel-delta-epfl-1985).
 
 ## Hocoma Lokomat treadmill-mounted gait orthosis (1999-01)
 
@@ -69,6 +159,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Hocoma Lokomat (Hocoma AG Volketswil 1999+) is the foundational treadmill-mounted robotic gait-rehab orthosis. 26-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from treadmill-mounted lower-limb rehabilitation orthoses or robotic gait-rehabilitation. The Swiss anchor of medical exoskeletons.
 
+## Siasun Robotics (Chinese Academy of Sciences spinout) (2000-04)
+
+- **id**: `siasun-robotics-cas-2000`
+- **corpus**: private
+- **creator**: Siasun Robot & Automation Co., Ltd. (Shenyang, China; CAS Shenyang Institute of Automation spinout); Qu Daokui founder
+- **disclosure**: Siasun Robot & Automation Co., Ltd. (Shenyang, China; founded 2000 from Shenyang Institute of Automation, Chinese Academy of Sciences). First China-based RIA (Robotic Industries Association) member. 100+ industry firsts in Chinese robotics.
+- **ip status**: trade-secret
+- **prior art notes**: Siasun Robotics (Shenyang 2000+; CAS spinout) is the Chinese Academy of Sciences industrial-robot spinout. 25-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from CAS-affiliated industrial arms or specialty Chinese semiconductor / vacuum robotics.
+
 ## KAIST KHR-2 / FX-2 humanoid (predecessor to HUBO) (2003-12)
 
 - **id**: `kaist-fx-2-1995`
@@ -77,6 +176,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Korea Advanced Institute of Science and Technology (KAIST). KHR series of humanoids 1990s-2000s under Jun-Ho Oh group. KHR-1 (2002), KHR-2 (2003), KHR-3 / **HUBO** (2004) — the pre-HUBO lineage. Documented in: Park et al. 'Mechanical Design of the Humanoid Robot Platform, HUBO' Advanced Robotics 21(11) 2007.
 - **ip status**: public-domain
 - **prior art notes**: The KAIST KHR series (1995-2004) is the foundational Korean academic humanoid lineage that produced HUBO. 22-year-deep public-domain prior art. Direct ancestor chain: KHR-1 → KHR-2 → KHR-3/HUBO → DRC-HUBO+. Together with HUBO (corpus entry) and DRC-HUBO+ (round-22), establishes the Korean humanoid academic lineage spanning 22+ years. Brings Korean entries to 8.
+
+## MAKO RIO orthopedic robot-arm-assisted surgery (2006-09)
+
+- **id**: `mako-rio-stryker-2006`
+- **corpus**: private
+- **creator**: MAKO Surgical Corp. (Fort Lauderdale, FL, USA) → Stryker Corporation 2013
+- **disclosure**: MAKO Surgical Corp. (Fort Lauderdale, FL, USA; founded 2004). RIO (Robotic-Arm Interactive Orthopedic) system FDA-cleared 2006 for partial knee. Acquired by Stryker Corporation December 2013 for USD 1.65B. Subsequent MAKO Total Knee 2017; MAKO 4 2025.
+- **ip status**: trade-secret
+- **prior art notes**: MAKO RIO (MAKO Surgical Fort Lauderdale 2006 → Stryker 2013) is the canonical robotic-arm-assisted orthopedic surgery system. 19-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from haptic-boundary-constrained surgical arms. Lineage descends from Barrett WAM Arm (round-45).
 
 ## Modern multi-articulated prosthetic hands (i-LIMB / BeBionic / Michelangelo) (2007-07)
 
@@ -123,6 +231,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Honda Walking Assist Device (Honda Tokyo 2009+; R&D 1999+) is the foundational hip-only motor-on-belt walking-assist exo. 16-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from hip-only powered-belt exoskeletons. Lineage descends from Honda ASIMO (corpus asimo) bipedal-locomotion research.
 
+## Kinova Jaco / Gen3 (Canadian assistive 7-DoF arm) (2009-09)
+
+- **id**: `kinova-jaco-2009`
+- **corpus**: private
+- **creator**: Kinova Inc. (Montreal, Quebec, Canada); Charles Deguire founder
+- **disclosure**: Kinova Inc. (Montreal, Quebec, Canada; founded 2006 by Charles Deguire). Jaco assistive arm reveal 2009 (originally for wheelchair-mounted disability use). Subsequent: Jaco2 (2014), Gen3 (2018) 7-DoF research-grade, Gen3 Lite (2020).
+- **ip status**: trade-secret
+- **prior art notes**: Kinova Jaco / Gen3 (Montreal 2009+) is the Canadian assistive + research arm family. 16-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from wheelchair-mounted assistive arms or low-cost research-grade 7-DoF cobots.
+
+## Willow Garage PR2 (defining ROS mobile-manipulation platform) (2010-04)
+
+- **id**: `willow-garage-pr2-2010`
+- **corpus**: academic
+- **creator**: Willow Garage Inc. (Menlo Park, CA, USA); Scott Hassan + Steve Cousins
+- **disclosure**: Willow Garage Inc. (Menlo Park, CA, USA; founded 2006 by Scott Hassan + Steve Cousins). PR2 (Personal Robot 2) commercial reveal 2010 ('PR2 Beta Program'). Mobile manipulator with two 7-DoF arms on omnidirectional base. Defining open-source ROS mobile-manipulation platform.
+- **ip status**: open-permissive (ROS-integrated; hardware open-spec)
+- **prior art notes**: Willow Garage PR2 (Menlo Park 2010-2014) is the defining open-source ROS mobile-manipulation platform. 15-year-deep open-permissive prior art. Direct shielding for any commercial humanoid claim deriving from dual-arm mobile manipulators or ROS-integrated platforms. Steve Cousins lineage continues to Savioke (corpus savioke-relay-2014).
+
 ## Rex Bionics REX self-supporting exoskeleton (2010-07)
 
 - **id**: `rex-bionics-rex-2010`
@@ -131,6 +257,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Rex Bionics Ltd. (Auckland, New Zealand; founded 2007 by Robert Irving + Richard Little). REX commercial reveal July 2010. First commercial self-supporting hands-free powered exoskeleton — the user is hands-free, no crutches, the exo balances itself.
 - **ip status**: trade-secret
 - **prior art notes**: Rex Bionics REX (Auckland NZ 2010+) is the first commercial self-supporting hands-free powered exoskeleton. 15-year-deep public-disclosure prior art. Pre-dates Wandercraft Atalante (round-43) by 8 years for hands-free walking, though REX uses quasi-static-stable gait rather than dynamic-walking. Direct shielding for any commercial humanoid or Iron Man-class claim deriving from hands-free powered exoskeletons.
+
+## Mazor Renaissance / Stealth Spine guidance (2011-01)
+
+- **id**: `mazor-renaissance-medtronic-2011`
+- **corpus**: private
+- **creator**: Mazor Robotics Ltd. (Caesarea, Israel; Moshe Shoham Technion); → Medtronic 2018
+- **disclosure**: Mazor Robotics Ltd. (Caesarea, Israel; founded 2000 by Moshe Shoham, Technion). SpineAssist FDA-cleared 2004; Renaissance FDA-cleared 2011 (1.5 mm accuracy bone-mounted spine guidance). Mazor X 2017. Acquired by Medtronic 2018 for USD 1.6B.
+- **ip status**: trade-secret
+- **prior art notes**: Mazor Robotics SpineAssist + Renaissance + Mazor X (Caesarea Israel 2004-2017+; Medtronic 2018) is the bone-mounted spine surgical guidance system. 21-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from bone-mounted parallel-mechanism surgical guidance arms.
+
+## Estun Automation industrial robots (CN #1 by shipments) (2012-01)
+
+- **id**: `estun-automation-1993`
+- **corpus**: private
+- **creator**: Estun Automation Co., Ltd. (Nanjing, China); Wu Bo founder
+- **disclosure**: Estun Automation Co., Ltd. (Nanjing, China; founded 1993 by Wu Bo). Industrial robotics product line launched 2012. The #1 domestic Chinese industrial-arm maker by shipments. Listed on Shenzhen Stock Exchange 2015.
+- **ip status**: trade-secret
+- **prior art notes**: Estun Automation (Nanjing 1993; robotics 2012+) is the #1 Chinese domestic industrial-arm maker by shipments. 13-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from Chinese-OEM industrial arms.
 
 ## Ekso Bionics Ekso / EksoNR overground rehab exoskeleton (2012-02)
 
@@ -149,6 +293,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Quigley, M., Salisbury, C., Ng, A.Y., Salisbury, J.K. 'Mechatronic design of an integrated robotic hand'. International Journal of Robotics Research 33(5), 2014. Sandia National Laboratories (Albuquerque, NM, USA) DARPA Autonomous Robotic Manipulation (ARM-H) program. Reveal August 2012; ~$10K modular hand target.
 - **ip status**: academic-publication
 - **prior art notes**: Sandia Hand (Sandia National Laboratories 2012, IJRR 2014) is the canonical cost-reduced modular anthropomorphic hand. 13-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from modular-interchangeable-finger architectures or low-cost (\$10k-class) anthropomorphic hands. DARPA ARM-H program lineage.
+
+## KUKA LBR iiwa (intelligent industrial work assistant) (2013-04)
+
+- **id**: `kuka-lbr-iiwa-2013`
+- **corpus**: private
+- **creator**: KUKA AG (Augsburg, Germany); DLR LWR licensee
+- **disclosure**: KUKA AG (Augsburg, Germany; founded 1898). LBR iiwa commercial reveal Hannover Messe April 2013. World's first series-produced HRC-compatible 7-DoF cobot with joint torque sensors. Direct descendant of DLR LWR III (round-45 dlr-lwr-1991-2003) via licensing agreement.
+- **ip status**: trade-secret
+- **prior art notes**: KUKA LBR iiwa (KUKA Augsburg 2013+) is the world's first series-produced HRC 7-DoF cobot with joint torque sensors. 12-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from 7-DoF cobots with joint torque sensing. Lineage descends from DLR LWR III (round-45 dlr-lwr-1991-2003).
+
+## JAKA Robotics Zu cobots (wireless-teach) (2014-01)
+
+- **id**: `jaka-robotics-zu-2014`
+- **corpus**: private
+- **creator**: JAKA Robotics Co., Ltd. (Shanghai, China)
+- **disclosure**: JAKA Robotics Co., Ltd. (Shanghai, China; founded 2014). Zu5 cobot launch ~2017; Zu7 / Zu12 / Pro variants subsequent. First commercially deployed wireless-teach cobot.
+- **ip status**: trade-secret
+- **prior art notes**: JAKA Robotics Zu (Shanghai 2014+) is the first commercially deployed wireless-teach cobot. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from wireless-teach cobots or Shanghai-based Chinese cobot specialists.
 
 ## Allegro Hand (Wonik / SimLab) (2014-04)
 
@@ -186,6 +348,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: OnRobot RG-line and VGC-line grippers (Odense Denmark 2015+) are the canonical 'cable-free cobot tool' commercial category. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from plug-and-play electric parallel grippers, compressor-free electric vacuum grippers, or gecko-microhair dry-adhesion grippers. Together with Robotiq (round-42) and SCHUNK Co-act (round-42), establishes the global cobot-gripper prior-art chain across CA / DK / DE.
 
+## ABB YuMi IRB 14000 dual-arm cobot (2015-04)
+
+- **id**: `abb-yumi-irb-14000-2015`
+- **corpus**: private
+- **creator**: ABB Asea Brown Boveri (Zurich + Västerås)
+- **disclosure**: ABB Asea Brown Boveri (Zurich, Switzerland + Västerås, Sweden). YuMi IRB 14000 commercial reveal Hannover Fair April 2015. World's first truly collaborative dual-arm 7-DoF cobot.
+- **ip status**: trade-secret
+- **prior art notes**: ABB YuMi IRB 14000 (ABB Zurich + Västerås 2015+) is the world's first truly collaborative dual-arm 7-DoF cobot. 10-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from collaborative dual-arm 7-DoF cobots. Lineage descends from ASEA IRB-6 (round-45).
+
 ## DRC-HUBO+ (DARPA Robotics Challenge winner) (2015-06)
 
 - **id**: `kaist-drc-hubo-2015`
@@ -194,6 +365,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: KAIST + Rainbow Robotics. 'DRC-HUBO+: A robotic platform for the DARPA Robotics Challenge'. Lim, J., Lee, I., Shim, I., et al. International Journal of Robotics Research / Journal of Field Robotics 2017. Won 1st place at DARPA Robotics Challenge Finals Pomona June 2015 — completing all 8 disaster-response tasks in 44m28s. The follow-on commercial version was Rainbow Robotics' first product (corpus has rainbow-robotics-rb-y1 as the modern commercial successor).
 - **ip status**: public-domain
 - **prior art notes**: DRC-HUBO+ (KAIST + Rainbow Robotics, DRC 2015) is the canonical Korean academic humanoid milestone — 1st place winner of the DARPA Robotics Challenge Finals June 2015. 10-year-deep public-domain prior art for: wheel-leg hybrid transformable bipedal humanoid (knee-rolling for stability + bipedal for stairs), operator-supervised whole-body autonomy under intermittent comm. Direct shielding for any commercial humanoid claim on transformable lower-body morphology or DRC-class disaster-response capability set. Established Rainbow Robotics' commercial humanoid lineage (corpus entry rainbow-robotics-rb-y1).
+
+## AUBO Robotics i5 / i3 / i7 / i10 cobots (2015-09)
+
+- **id**: `aubo-robotics-i5-2015`
+- **corpus**: private
+- **creator**: AUBO Robotics (Beijing, China; Smokie Robotics origins)
+- **disclosure**: AUBO Robotics (Beijing, China; founded 2015 from Smokie Robotics origins). i5 cobot launch September 2015. Subsequent i3 / i7 / i10 cobots 2017. Open-architecture cobot widely cloned.
+- **ip status**: trade-secret
+- **prior art notes**: AUBO Robotics i5 (Beijing 2015+) is the open-architecture Chinese cobot reference design. 10-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from open-architecture ROS-integrated Chinese cobots.
+
+## Mecademic Meca500 micro-cobot (5-µm precision) (2015-09)
+
+- **id**: `mecademic-meca500-2015`
+- **corpus**: private
+- **creator**: Mecademic Inc. (Montreal, Quebec, Canada); Ilian Bonev (ÉTS Montreal)
+- **disclosure**: Mecademic Inc. (Montreal, Quebec, Canada; founded 2013 by Ilian Bonev, ÉTS Montreal). Meca500 reveal September 2015. Smallest 6-axis industrial arm in the world (5 µm repeatability).
+- **ip status**: trade-secret
+- **prior art notes**: Mecademic Meca500 (Montreal 2015+) is the smallest 6-axis industrial arm in the world (5-µm repeatability). 10-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from precision micro-cobot arms.
+
+## Inovance Technology industrial robots ('Little Huawei') (2016-01)
+
+- **id**: `inovance-shenzhen-2003`
+- **corpus**: private
+- **creator**: Shenzhen Inovance Technology Co., Ltd. (Shenzhen, China); Zhu Xingming + ex-Huawei colleagues
+- **disclosure**: Shenzhen Inovance Technology Co., Ltd. (Shenzhen, China; founded 2003 by Zhu Xingming + ex-Huawei colleagues, hence 'Little Huawei'). Entered industrial robotics 2016. #2 Chinese domestic robot maker by shipments after Estun (round-45).
+- **ip status**: trade-secret
+- **prior art notes**: Inovance Technology (Shenzhen 2003; robotics 2016+) is the 'Little Huawei' #2 Chinese domestic industrial-robot maker. 9-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from vertically-integrated Chinese-OEM industrial arms.
 
 ## Indego modular powered lower-limb exoskeleton (2016-03)
 
@@ -213,6 +411,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: SpotMini is the architectural predecessor to commercial Spot. ~9-year-deep public-disclosure prior art for: all-electric quadruped morphology (distinct from hydraulic BigDog/Spot ancestors), dorsal-mount manipulator on quadruped base, Velodyne+depth-camera quadruped sensor stack. Trade-secret control software, public capability surface. Direct shielding for any commercial humanoid-quadruped or quadruped-manipulator claim. Cited in cheetah-cub-epfl and black-mirror-metalhead-2017 prior_art_notes; round-14 backfill closes those citation chains.
 
+## Techman Robot TM5 (first cobot with built-in vision) (2016-12)
+
+- **id**: `techman-robot-tm5-2016`
+- **corpus**: private
+- **creator**: Techman Robot Inc. (Taoyuan, Taiwan; Quanta Computer spinout)
+- **disclosure**: Techman Robot Inc. (Taoyuan, Taiwan; founded 2015 as Quanta Computer spinout). TM5 cobot iREX 2015 debut → first commercial shipments end-2016. First cobot with built-in vision system. OMRON co-distribution partnership.
+- **ip status**: trade-secret
+- **prior art notes**: Techman Robot TM5 (Taoyuan Taiwan 2016+; Quanta spinout) is the first cobot with built-in vision system. 9-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from vision-integrated cobots or Taiwanese-OEM cobots.
+
 ## Samsung GEMS Hip + Korean industrial wearables (2017-01)
 
 - **id**: `samsung-gems-hip-2019`
@@ -221,6 +428,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hyundai Motor Group (Seoul, South Korea). H-MEX paraplegic medical exo CES January 2017; CEX chairless 1.6 kg passive sit-stand 2018; Vex upper-body overhead industrial vest 2018; X-ble MEX medical rehab 2024. Samsung Electronics GEMS Hip powered hip assist 2019.
 - **ip status**: trade-secret
 - **prior art notes**: Samsung GEMS Hip + Hyundai H-MEX / CEX / Vex / X-ble (Seoul South Korea 2017+) establish the Korean industrial-conglomerate wearable-robotics product family. 9-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or Iron Man-class claim deriving from Korean OEM wearable-robotics. Lineage descends from Honda Walking Assist (round-43) for Samsung GEMS Hip, and from BLEEX/HULC for Hyundai H-MEX. Geographic balance with Japanese (Honda, Cyberdyne HAL corpus) and US (Ekso, Indego) wearable-robotics OEMs.
+
+## Franka Emika Panda 7-DoF research cobot (2017-04)
+
+- **id**: `franka-emika-panda-2017`
+- **corpus**: private
+- **creator**: Franka Emika GmbH (Munich, Germany); Sami Haddadin (ex-DLR)
+- **disclosure**: Franka Emika GmbH (Munich, Germany; founded 2016 by Sami Haddadin + colleagues, ex-DLR). Panda commercial reveal 2017. Successor: Franka Research 3 (2022 post-restructure as Franka Robotics).
+- **ip status**: trade-secret
+- **prior art notes**: Franka Emika Panda (Munich 2017+; Franka Research 3 2022) is the canonical sub-€10K research-grade torque-sensor 7-DoF cobot. 8-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from low-cost 7-DoF research cobots with joint torque sensing. Lineage descends from DLR LWR III (round-45 dlr-lwr-1991-2003).
+
+## Denso COBOTTA compact desktop cobot (2017-05)
+
+- **id**: `denso-cobotta-2017`
+- **corpus**: private
+- **creator**: Denso Wave Inc. (Aichi, Japan; Toyota Group)
+- **disclosure**: Denso Wave Inc. (Aichi, Japan; Toyota Group). COBOTTA prototype reveal May 2017; productized 2018. Sub-1 kg desktop cobot prototype. Subsequent: COBOTTA Pro (2022) higher-payload industrial-grade variant.
+- **ip status**: trade-secret
+- **prior art notes**: Denso COBOTTA (Denso Wave Aichi 2017+; COBOTTA Pro 2022) is the sub-1 kg desktop cobot reference. 8-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from sub-1-kg desktop-form-factor cobots.
 
 ## Robotis OP3 (2017-08)
 
@@ -231,6 +456,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Robotis OP3 is the canonical Korean educational/research humanoid platform (Robotis 2017+). 8-year-deep public-disclosure prior art. **The platform DeepMind humanoid soccer (round-18 entry) ran on** — round-26 closes that hardware-platform citation. Direct shielding for any commercial humanoid claim on small-form-factor (Kid-Size) educational humanoid. Brings Korean entries to 7.
 
+## Han's Robot Elfin / EX / SCR cobot family (2017-08)
+
+- **id**: `hans-robot-elfin-2017`
+- **corpus**: private
+- **creator**: Han's Robot Co., Ltd. (Shenzhen, China; subsidiary of Han's Laser Technology)
+- **disclosure**: Han's Robot Co., Ltd. (Shenzhen, China; founded August 2017 as subsidiary of Han's Laser Technology). Elfin cobot series launch 2017. EX heavy-payload variant + SCR series. 30,000 cobots/year capacity in Foshan.
+- **ip status**: trade-secret
+- **prior art notes**: Han's Robot Elfin (Shenzhen 2017+) is one of the largest Chinese cobot makers by volume. 8-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from large-volume Chinese-OEM cobots.
+
 ## Doosan Robotics M-series cobots (2017-09)
 
 - **id**: `doosan-robotics-cobots-2017`
@@ -240,6 +474,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Doosan Robotics M-series is the canonical Korean commercial collaborative-robot arm family (2017+). 8-year-deep public-disclosure prior art for: 6-axis joint-torque-sensing cobot, ISO 10218 + ISO/TS 15066 compliant collaborative robot. The Korean commercial cobot leader (vs. Universal Robots Denmark / Franka Emika Germany / Kuka Germany). Direct shielding for any commercial humanoid claim on collaborative-robot-arm derivative applications, particularly anthropomorphic-arm joint-torque sensing as deployed in Optimus Gen 3 / Apptronik Apollo.
 
+## Yaskawa Motoman HC10 cobot (2017-09)
+
+- **id**: `yaskawa-motoman-hc10-2017`
+- **corpus**: private
+- **creator**: Yaskawa Electric Corporation (Kitakyushu, Japan)
+- **disclosure**: Yaskawa Electric Corporation (Kitakyushu, Japan; founded 1915). Motoman HC10 commercial reveal September 2017. Yaskawa's first cobot. Yaskawa is the largest Japanese industrial-robot OEM by revenue.
+- **ip status**: trade-secret
+- **prior art notes**: Yaskawa Motoman HC10 (Kitakyushu 2017+) is Yaskawa's first cobot and the Japanese cobot answer to Universal Robots. 8-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from Japanese-OEM cobots.
+
 ## German Bionic Cray X IoT-connected industrial exoskeleton (2018-01)
 
 - **id**: `german-bionic-cray-x-2018`
@@ -248,6 +491,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: German Bionic Systems GmbH (Augsburg, Germany; founded 2017 by Armin Schmidt + Eric Eitel + Norma Steller). Cray X first generation 2018; v5 launch 2021. First TÜV-certified powered industrial exo. First IoT-connected powered exo with cloud telemetry.
 - **ip status**: trade-secret
 - **prior art notes**: German Bionic Cray X (Augsburg 2018+) is the first IoT-connected powered industrial exo with cloud telemetry. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from cloud-connected wearable robotics or Industry-4.0 data-loop exoskeletons.
+
+## Inspire-Robots RH56 5-finger 6-DoF dexterous hand (2018-01)
+
+- **id**: `inspire-robots-rh56-2018`
+- **corpus**: private
+- **creator**: Inspire-Robots Co., Ltd. (Beijing, China)
+- **disclosure**: Inspire-Robots Co., Ltd. (Beijing, China). RH56 series 5-finger 6-DoF dexterous hand commercial reveal ~2018. Used by Unitree G1 / H2, Fourier GR-1, and many other Chinese commercial humanoids.
+- **ip status**: trade-secret
+- **prior art notes**: Inspire-Robots RH56 (Beijing 2018+) is the widely-deployed Chinese 5-finger 6-DoF anthropomorphic hand used by Unitree, Fourier, and many other Chinese commercial humanoids. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from 5-finger 6-DoF Chinese commercial dexterous hands. Together with Linkerbot Linker Hand (round-44), establishes the Chinese hand-supplier prior-art chain.
 
 ## NAVER LABS AMBIDEX (2018-04)
 
@@ -312,6 +564,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Open Source Leg (Rouse Michigan + Shirley Ryan AbilityLab 2019+) is the canonical open-hardware powered knee+ankle prosthesis platform. 6-year-deep open-permissive prior art (CC-BY / MIT). Direct shielding for any commercial humanoid claim deriving from open-source powered prosthesis platforms or quasi-direct-drive brushless-DC + ball-screw lower-limb actuators.
 
+## CMR Surgical Versius modular soft-tissue surgical robot (2019-09)
+
+- **id**: `cmr-versius-2019`
+- **corpus**: private
+- **creator**: CMR Surgical Ltd. (Cambridge, UK)
+- **disclosure**: Cambridge Medical Robotics Surgical Ltd. (Cambridge, UK; founded 2014). Versius commercial reveal September 2019. CE-mark 2019. FDA Versius Plus 510(k) clearance 2025. Modular small-footprint per-arm soft-tissue surgical robot.
+- **ip status**: trade-secret
+- **prior art notes**: CMR Surgical Versius (Cambridge UK 2019+) is the canonical modular small-footprint soft-tissue surgical robot. 6-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from modular per-arm surgical robotics.
+
 ## Hello Robot Stretch (2020-07)
 
 - **id**: `hello-robot-stretch-2020`
@@ -329,6 +590,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: UBTech Robotics (Shenzhen, China). Walker X humanoid reveal July 2021. Successor variant to original Walker (corpus entry ubtech-walker). ubtrobot.com. UBTech IPO Hong Kong 2023.
 - **ip status**: trade-secret
 - **prior art notes**: UBTech Walker X (UBTech Shenzhen 2021+) is UBTech's adult-class successor humanoid. 4-year-deep public-disclosure prior art. Brings UBTech entries to 2 (with original ubtech-walker) tracking the multi-generation Chinese commercial humanoid lineage.
+
+## Medtronic Hugo RAS modular surgical platform (2021-09)
+
+- **id**: `medtronic-hugo-ras-2021`
+- **corpus**: private
+- **creator**: Medtronic plc (Dublin, Ireland; HQ Galway / Minneapolis)
+- **disclosure**: Medtronic plc (Dublin, Ireland; HQ Galway / Minneapolis). Hugo RAS (Robotic-Assisted Surgery) commercial reveal September 2021. CE-mark 2021. FDA urology 510(k) clearance December 2025. Modular multi-arm soft-tissue surgical platform — Medtronic's answer to da Vinci.
+- **ip status**: trade-secret
+- **prior art notes**: Medtronic Hugo RAS (Medtronic Dublin 2021+) is Medtronic's modular multi-arm soft-tissue surgical platform — the answer to da Vinci. 4-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from modular multi-arm surgical robotics.
 
 ## Boston Dynamics Stretch (warehouse robot) (2022-01)
 

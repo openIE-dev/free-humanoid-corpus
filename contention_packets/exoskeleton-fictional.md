@@ -1,7 +1,7 @@
 ---
 title: "exoskeleton-fictional"
 parent: "Invalidity Contentions"
-nav_order: 124
+nav_order: 126
 layout: default
 ---
 
@@ -250,4 +250,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d6a964d`.*

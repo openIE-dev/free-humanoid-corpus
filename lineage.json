@@ -185,6 +185,16 @@
       ]
     },
     {
+      "id": "devol-programmed-article-transfer-1954",
+      "name": "Devol Programmed Article Transfer (foundational arm patent)",
+      "year": "1954",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "unimate-unimation-1961"
+      ]
+    },
+    {
       "id": "denavit-hartenberg-parameters-1955",
       "name": "Denavit-Hartenberg parameters",
       "year": "1955",
@@ -249,12 +259,26 @@
       "descendants": []
     },
     {
+      "id": "unimate-unimation-1961",
+      "name": "Unimate (the first industrial robot arm)",
+      "year": "1961",
+      "corpus": "private",
+      "ancestors": [
+        "devol-programmed-article-transfer-1954"
+      ],
+      "descendants": [
+        "cincinnati-milacron-t3-1973",
+        "puma-unimation-1978"
+      ]
+    },
+    {
       "id": "belgrade-usc-tomovic-bekey-hand-1963",
       "name": "Belgrade / Belgrade-USC Hand (Tomović + Bekey)",
       "year": "1963",
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "inspire-robots-rh56-2018",
         "linkerbot-linker-hand-beijing-2023",
         "modern-multiarticulated-prosthetic-hands-2007-2012"
       ]
@@ -468,6 +492,16 @@
       ]
     },
     {
+      "id": "stanford-arm-scheinman-1969",
+      "name": "Stanford Arm (Scheinman 1969)",
+      "year": "1969",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "puma-unimation-1978"
+      ]
+    },
+    {
       "id": "doraemon",
       "name": "Doraemon",
       "year": "1969",
@@ -517,6 +551,27 @@
         "hrp-2",
         "hubo",
         "wabian-2"
+      ]
+    },
+    {
+      "id": "cincinnati-milacron-t3-1973",
+      "name": "Cincinnati Milacron T³ (first US revolute computer-controlled arm)",
+      "year": "1973",
+      "corpus": "private",
+      "ancestors": [
+        "unimate-unimation-1961"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "asea-irb6-1973",
+      "name": "ASEA IRB-6 (first microprocessor-controlled all-electric robot)",
+      "year": "1973",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "abb-flexpicker-irb-360-1998",
+        "abb-yumi-irb-14000-2015"
       ]
     },
     {
@@ -586,6 +641,30 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "makino-scara-yamanashi-1978",
+      "name": "Makino SCARA (Selective Compliance Assembly Robot Arm)",
+      "year": "1978",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "epson-scara-1983"
+      ]
+    },
+    {
+      "id": "puma-unimation-1978",
+      "name": "PUMA (Programmable Universal Machine for Assembly)",
+      "year": "1978",
+      "corpus": "private",
+      "ancestors": [
+        "stanford-arm-scheinman-1969",
+        "unimate-unimation-1961"
+      ],
+      "descendants": [
+        "staubli-tx-rx-series-1991",
+        "universal-robots-denmark-2008"
+      ]
     },
     {
       "id": "cylon-centurion-1978",
@@ -772,6 +851,16 @@
       ]
     },
     {
+      "id": "epson-scara-1983",
+      "name": "Epson SCARA (global SCARA volume leader)",
+      "year": "1983",
+      "corpus": "private",
+      "ancestors": [
+        "makino-scara-yamanashi-1978"
+      ],
+      "descendants": []
+    },
+    {
       "id": "vicon-mocap-1984",
       "name": "Vicon optical motion capture",
       "year": "1984",
@@ -823,6 +912,16 @@
         "williamson-folded-hands"
       ],
       "descendants": []
+    },
+    {
+      "id": "clavel-delta-epfl-1985",
+      "name": "Clavel Delta Robot (EPFL 1985 patent)",
+      "year": "1985",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "abb-flexpicker-irb-360-1998"
+      ]
     },
     {
       "id": "yoshikawa-manipulability",
@@ -1145,6 +1244,16 @@
       "descendants": []
     },
     {
+      "id": "barrett-wam-arm-1990",
+      "name": "Barrett WAM Arm (cable-driven backdrivable research arm)",
+      "year": "1990",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "mako-rio-stryker-2006"
+      ]
+    },
+    {
       "id": "battle-angel-alita",
       "name": "Alita / Gally (Battle Angel Alita / Gunnm)",
       "year": "1990",
@@ -1192,11 +1301,33 @@
       ]
     },
     {
+      "id": "dlr-lwr-1991-2003",
+      "name": "DLR Lightweight Robot LWR I/II/III (foundational torque-sensor arm)",
+      "year": "1991",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "dlr-hand-arm-system-2011",
+        "franka-emika-panda-2017",
+        "kuka-lbr-iiwa-2013"
+      ]
+    },
+    {
       "id": "mems-imu-foundational-1990s",
       "name": "MEMS IMU foundational lineage (gyroscope + accelerometer)",
       "year": "1991",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "staubli-tx-rx-series-1991",
+      "name": "Stäubli TX/RX series high-precision sealed arms",
+      "year": "1991",
+      "corpus": "private",
+      "ancestors": [
+        "puma-unimation-1978"
+      ],
       "descendants": []
     },
     {
@@ -1373,6 +1504,7 @@
         "iit-walk-man-r1-italy-2015",
         "nasa-valkyrie",
         "pratt-virtual-model-control",
+        "rethink-baxter-sawyer-2012",
         "tonietti-vsa-pisa-iit-2005"
       ]
     },
@@ -1454,6 +1586,17 @@
       "descendants": [
         "sutskever-seq2seq-nips-2014"
       ]
+    },
+    {
+      "id": "abb-flexpicker-irb-360-1998",
+      "name": "ABB FlexPicker IRB 360 (dominant industrial delta robot)",
+      "year": "1998",
+      "corpus": "private",
+      "ancestors": [
+        "asea-irb6-1973",
+        "clavel-delta-epfl-1985"
+      ],
+      "descendants": []
     },
     {
       "id": "kit-armar-humanoid-2000-2020",
@@ -1803,12 +1946,23 @@
       ]
     },
     {
+      "id": "siasun-robotics-cas-2000",
+      "name": "Siasun Robotics (Chinese Academy of Sciences spinout)",
+      "year": "2000",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "intuitive-surgical-da-vinci-2000",
       "name": "Intuitive Surgical da Vinci",
       "year": "2000",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "cmr-versius-2019",
+        "medtronic-hugo-ras-2021"
+      ]
     },
     {
       "id": "asimo",
@@ -2310,6 +2464,16 @@
       "descendants": []
     },
     {
+      "id": "mako-rio-stryker-2006",
+      "name": "MAKO RIO orthopedic robot-arm-assisted surgery",
+      "year": "2006",
+      "corpus": "private",
+      "ancestors": [
+        "barrett-wam-arm-1990"
+      ],
+      "descendants": []
+    },
+    {
       "id": "pratt-capture-point-2007",
       "name": "Capture Point (Pratt humanoid balance)",
       "year": "2006",
@@ -2625,7 +2789,9 @@
       "name": "Universal Robots (Odense, Denmark)",
       "year": "2008",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "puma-unimation-1978"
+      ],
       "descendants": [
         "fanuc-crx-collaborative-2019",
         "robotiq-adaptive-grippers-2008"
@@ -2785,6 +2951,14 @@
       "descendants": []
     },
     {
+      "id": "kinova-jaco-2009",
+      "name": "Kinova Jaco / Gen3 (Canadian assistive 7-DoF arm)",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "apl-mpl-revolutionizing-prosthetics-2009",
       "name": "Modular Prosthetic Limb (MPL)",
       "year": "2009",
@@ -2907,6 +3081,16 @@
       ]
     },
     {
+      "id": "willow-garage-pr2-2010",
+      "name": "Willow Garage PR2 (defining ROS mobile-manipulation platform)",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "savioke-relay-2014"
+      ]
+    },
+    {
       "id": "iron-man-mark-v-briefcase-2010",
       "name": "Iron Man Mark V (briefcase / foldable armor)",
       "year": "2010",
@@ -2965,6 +3149,14 @@
       "descendants": []
     },
     {
+      "id": "mazor-renaissance-medtronic-2011",
+      "name": "Mazor Renaissance / Stealth Spine guidance",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "rewalk-goffer-2011",
       "name": "ReWalk medical exoskeleton",
       "year": "2011",
@@ -2987,6 +3179,7 @@
       "corpus": "academic",
       "ancestors": [
         "dlr-hand-ii",
+        "dlr-lwr-1991-2003",
         "tonietti-vsa-pisa-iit-2005"
       ],
       "descendants": []
@@ -3059,6 +3252,14 @@
       "ancestors": [
         "cornell-jamming-gripper"
       ],
+      "descendants": []
+    },
+    {
+      "id": "estun-automation-1993",
+      "name": "Estun Automation industrial robots (CN #1 by shipments)",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -3146,6 +3347,16 @@
       "descendants": [
         "hyundai-boston-dynamics-spot"
       ]
+    },
+    {
+      "id": "rethink-baxter-sawyer-2012",
+      "name": "Rethink Robotics Baxter (2012) + Sawyer (2015)",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [
+        "pratt-williamson-sea"
+      ],
+      "descendants": []
     },
     {
       "id": "mujoco-todorov-2012",
@@ -3291,6 +3502,16 @@
       "descendants": []
     },
     {
+      "id": "kuka-lbr-iiwa-2013",
+      "name": "KUKA LBR iiwa (intelligent industrial work assistant)",
+      "year": "2013",
+      "corpus": "private",
+      "ancestors": [
+        "dlr-lwr-1991-2003"
+      ],
+      "descendants": []
+    },
+    {
       "id": "iron-man-mark-xlii-distributed-2013",
       "name": "Iron Man Mark XLII (prehensile distributed-actuation armor)",
       "year": "2013",
@@ -3410,6 +3631,14 @@
         "k-scale-os",
         "reachy-1-pollen-2017"
       ]
+    },
+    {
+      "id": "jaka-robotics-zu-2014",
+      "name": "JAKA Robotics Zu cobots (wireless-teach)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "roam-robotics-soft-exo-2014",
@@ -3565,7 +3794,9 @@
       "name": "Savioke Relay (hotel delivery)",
       "year": "2014",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "willow-garage-pr2-2010"
+      ],
       "descendants": []
     },
     {
@@ -3731,6 +3962,16 @@
       "descendants": []
     },
     {
+      "id": "abb-yumi-irb-14000-2015",
+      "name": "ABB YuMi IRB 14000 dual-arm cobot",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [
+        "asea-irb6-1973"
+      ],
+      "descendants": []
+    },
+    {
       "id": "levine-gps-pr2-2016",
       "name": "Levine Guided Policy Search end-to-end manipulation on PR2/BRETT",
       "year": "2015",
@@ -3847,6 +4088,22 @@
       "descendants": []
     },
     {
+      "id": "aubo-robotics-i5-2015",
+      "name": "AUBO Robotics i5 / i3 / i7 / i10 cobots",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mecademic-meca500-2015",
+      "name": "Mecademic Meca500 micro-cobot (5-µm precision)",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "fallout-gen-3-synths",
       "name": "Generation-3 Synths (Institute Synths)",
       "year": "2015",
@@ -3899,6 +4156,14 @@
       "descendants": [
         "deepmind-humanoid-soccer-haarnoja-2024"
       ]
+    },
+    {
+      "id": "inovance-shenzhen-2003",
+      "name": "Inovance Technology industrial robots ('Little Huawei')",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "pybullet-coumans-2017",
@@ -3999,6 +4264,14 @@
       "descendants": [
         "dp3-ze-rss-2024"
       ]
+    },
+    {
+      "id": "techman-robot-tm5-2016",
+      "name": "Techman Robot TM5 (first cobot with built-in vision)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "cassie-osu",
@@ -4137,6 +4410,16 @@
       "descendants": []
     },
     {
+      "id": "franka-emika-panda-2017",
+      "name": "Franka Emika Panda 7-DoF research cobot",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "dlr-lwr-1991-2003"
+      ],
+      "descendants": []
+    },
+    {
       "id": "neuralink-2017",
       "name": "Neuralink",
       "year": "2017",
@@ -4149,6 +4432,14 @@
       "name": "OCS2 (Optimal Control for Switched Systems)",
       "year": "2017",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "denso-cobotta-2017",
+      "name": "Denso COBOTTA compact desktop cobot",
+      "year": "2017",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -4232,6 +4523,14 @@
       "descendants": []
     },
     {
+      "id": "hans-robot-elfin-2017",
+      "name": "Han's Robot Elfin / EX / SCR cobot family",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "robotis-op3-2017",
       "name": "Robotis OP3",
       "year": "2017",
@@ -4293,6 +4592,14 @@
       "ancestors": [
         "twendy-one-sugano-waseda-2007"
       ],
+      "descendants": []
+    },
+    {
+      "id": "yaskawa-motoman-hc10-2017",
+      "name": "Yaskawa Motoman HC10 cobot",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -4390,6 +4697,16 @@
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "inspire-robots-rh56-2018",
+      "name": "Inspire-Robots RH56 5-finger 6-DoF dexterous hand",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "belgrade-usc-tomovic-bekey-hand-1963"
+      ],
       "descendants": []
     },
     {
@@ -4763,6 +5080,16 @@
       "corpus": "private",
       "ancestors": [
         "braingate-donoghue-2002"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "cmr-versius-2019",
+      "name": "CMR Surgical Versius modular soft-tissue surgical robot",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "intuitive-surgical-da-vinci-2000"
       ],
       "descendants": []
     },
@@ -5151,6 +5478,16 @@
       "corpus": "academic",
       "ancestors": [
         "csiro-data61-australia-robotics"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "medtronic-hugo-ras-2021",
+      "name": "Medtronic Hugo RAS modular surgical platform",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "intuitive-surgical-da-vinci-2000"
       ],
       "descendants": []
     },

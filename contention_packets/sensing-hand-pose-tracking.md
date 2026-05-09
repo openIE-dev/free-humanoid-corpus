@@ -1,7 +1,7 @@
 ---
 title: "sensing-hand-pose-tracking"
 parent: "Invalidity Contentions"
-nav_order: 189
+nav_order: 200
 layout: default
 ---
 
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d6a964d`.*

@@ -1,7 +1,7 @@
 ---
 title: "end-effector-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 121
+nav_order: 123
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `end-effector-anthropomorphic-hand`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2014-05  
 **Most recent disclosure:** 2023-01
 
@@ -57,6 +57,25 @@ cite, copy, or redistribute these contentions.
 
 1. darpa.mil/news/2016/mobius-bionics-luke-arms-walter-reed
 2. darpa.mil/about/innovation-timeline/revolutionizing-prosthetics
+
+---
+
+### 2018-01 — Inspire-Robots RH56 5-finger 6-DoF dexterous hand
+
+- **id:** `inspire-robots-rh56-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Inspire-Robots Co., Ltd. (Beijing, China)
+- **disclosure citation:** Inspire-Robots Co., Ltd. (Beijing, China). RH56 series 5-finger 6-DoF dexterous hand commercial reveal ~2018. Used by Unitree G1 / H2, Fourier GR-1, and many other Chinese commercial humanoids.
+- **disclosed subsystems:** `end-effector-anthropomorphic-hand`, `actuator-electric`, `sensing-tactile-distributed`
+
+**Prior art notes:**
+
+> Inspire-Robots RH56 (Beijing 2018+) is the widely-deployed Chinese 5-finger 6-DoF anthropomorphic hand used by Unitree, Fourier, and many other Chinese commercial humanoids. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from 5-finger 6-DoF Chinese commercial dexterous hands. Together with Linkerbot Linker Hand (round-44), establishes the Chinese hand-supplier prior-art chain.
+
+**Sources:**
+
+1. en.inspire-robots.com/wp-content/uploads/2024/02/INSPIRE-ROBOTS-THE-DEXTEROUS-HAND-RH56-SERIES-USER-MANUAL.pdf
 
 ---
 
@@ -113,4 +132,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d6a964d`.*

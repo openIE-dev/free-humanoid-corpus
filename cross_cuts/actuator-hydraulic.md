@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**30 corpus entries disclose this subsystem.**
+**32 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Apollonius of Rhodes. Argonautica, Book IV, lines 1638-1693. ~250 BCE. Earlier mention in Pseudo-Apollodorus, Bibliotheca 1.9.26 and lost works of Sophocles (Daedalus).
 - **ip status**: fictional
 - **prior art notes**: Anticipates two patent-relevant elements with surprising specificity for ~250 BCE. (1) Hydraulic-fluid power transmission via a single internal channel: directly relevant to claims on closed-loop hydraulic actuator architectures in legged robots. (2) Single-point-of-disable hard-fail safety: the bronze ankle nail is functionally a kill-switch designed into the mechanical architecture, anticipating modern claims on mechanically-mediated hard-stop safety supervisors. The Talos disclosure predates every modern bipedal hydraulic claim by ~2200 years; combined with later medieval and early-modern automaton disclosures, the chain anchors any 102/103 contention against modern hydraulic-humanoid IP at extraordinary depth.
+
+## Unimate (the first industrial robot arm) (1961-01)
+
+- **id**: `unimate-unimation-1961`
+- **corpus**: private
+- **creator**: Unimation Inc. (Danbury, CT, USA); George Devol + Joseph Engelberger
+- **disclosure**: Devol, G.C. + Engelberger, J.F. / Unimation Inc. (Danbury, CT, USA; founded 1956). Unimate first deployed at GM Inland Fisher Guide plant, Ewing Township NJ, 1961. The first industrial robot arm. Robot Hall of Fame inductee 2003.
+- **ip status**: public-domain
+- **prior art notes**: Unimate (Unimation Danbury CT 1961) is the first industrial robot arm. 64-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from industrial articulated robot arms. The Kawasaki 1968 license seeded the entire Japanese arm-OEM industry; the Stäubli 1989 acquisition transferred the lineage to Europe.
 
 ## The Greatest Robot on Earth (eight mecha disclosures) (1964-06)
 
@@ -77,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kato, Ichiro et al. 'Information-Power Machine with Senses and Limbs (WABOT-1).' Proceedings of First CISM-IFToMM Symposium on Theory and Practice of Robots and Manipulators, 1973.
 - **ip status**: public-domain
 - **prior art notes**: First full-scale humanoid in academic record. Anticipates virtually every subsystem of modern humanoids at concept level: bipedal locomotion, bimanual manipulation, multimodal sensing, natural language interface. Specific implementations are crude by modern standards but the architectural decomposition is foundational.
+
+## Cincinnati Milacron T³ (first US revolute computer-controlled arm) (1973-04)
+
+- **id**: `cincinnati-milacron-t3-1973`
+- **corpus**: private
+- **creator**: Cincinnati Milacron Inc. (Cincinnati, OH, USA); Richard Hohn
+- **disclosure**: Cincinnati Milacron Inc. (Cincinnati, OH, USA). T³ ('The Tomorrow Tool') commercial reveal April 1973. First commercially available minicomputer-controlled industrial robot. Developed by Richard Hohn.
+- **ip status**: public-domain
+- **prior art notes**: Cincinnati Milacron T³ (Cincinnati 1973) is the first commercially available minicomputer-controlled industrial robot and first US revolute-config arm. 52-year-deep public-domain prior art. Direct shielding for any commercial humanoid claim deriving from minicomputer-controlled anthropomorphic arms.
 
 ## War Machine (James Rhodes) (1979-01)
 

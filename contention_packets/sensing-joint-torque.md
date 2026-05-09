@@ -1,7 +1,7 @@
 ---
 title: "sensing-joint-torque"
 parent: "Invalidity Contentions"
-nav_order: 191
+nav_order: 202
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `sensing-joint-torque`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2017-09  
+**Entries:** 5 (5 commons-grade, 0 draft)  
+**Earliest disclosure:** 1991-01  
 **Most recent disclosure:** 2019-09
 
 ---
@@ -39,6 +39,63 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1991-01 — DLR Lightweight Robot LWR I/II/III (foundational torque-sensor arm)
+
+- **id:** `dlr-lwr-1991-2003`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** DLR (German Aerospace Center) Institute of Robotics and Mechatronics; Gerd Hirzinger group
+- **disclosure citation:** Hirzinger, G. et al. DLR (German Aerospace Center) Institute of Robotics and Mechatronics. LWR I (1991), LWR II (1998), LWR III (2003), LWR IV (~2007). The seminal torque-sensor 7-DoF lightweight arm; basis for KUKA LBR iiwa (round-45) via license.
+- **disclosed subsystems:** `manipulator-arm`, `manipulator-cobot`, `actuator-electric`, `sensing-joint-torque`
+
+**Prior art notes:**
+
+> DLR Lightweight Robot LWR (DLR Hirzinger group 1991-2007) is the seminal torque-sensor 7-DoF lightweight research arm. 34-year-deep academic-publication prior art. Direct shielding for any commercial humanoid claim deriving from torque-sensor 7-DoF cobots. Anchors the entire 7-DoF cobot category via KUKA LBR iiwa (round-45) and Franka Panda (round-45) descendants.
+
+**Sources:**
+
+1. DLR Institute of Robotics and Mechatronics LWR documentation.
+
+---
+
+### 2013-04 — KUKA LBR iiwa (intelligent industrial work assistant)
+
+- **id:** `kuka-lbr-iiwa-2013`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** KUKA AG (Augsburg, Germany); DLR LWR licensee
+- **disclosure citation:** KUKA AG (Augsburg, Germany; founded 1898). LBR iiwa commercial reveal Hannover Messe April 2013. World's first series-produced HRC-compatible 7-DoF cobot with joint torque sensors. Direct descendant of DLR LWR III (round-45 dlr-lwr-1991-2003) via licensing agreement.
+- **disclosed subsystems:** `manipulator-arm`, `manipulator-cobot`, `actuator-electric`, `sensing-joint-torque`
+
+**Prior art notes:**
+
+> KUKA LBR iiwa (KUKA Augsburg 2013+) is the world's first series-produced HRC 7-DoF cobot with joint torque sensors. 12-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from 7-DoF cobots with joint torque sensing. Lineage descends from DLR LWR III (round-45 dlr-lwr-1991-2003).
+
+**Sources:**
+
+1. kuka.com/en-us/products/robotics-systems/industrial-robots/lbr-iiwa
+
+---
+
+### 2017-04 — Franka Emika Panda 7-DoF research cobot
+
+- **id:** `franka-emika-panda-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Franka Emika GmbH (Munich, Germany); Sami Haddadin (ex-DLR)
+- **disclosure citation:** Franka Emika GmbH (Munich, Germany; founded 2016 by Sami Haddadin + colleagues, ex-DLR). Panda commercial reveal 2017. Successor: Franka Research 3 (2022 post-restructure as Franka Robotics).
+- **disclosed subsystems:** `manipulator-arm`, `manipulator-cobot`, `actuator-electric`, `sensing-joint-torque`
+
+**Prior art notes:**
+
+> Franka Emika Panda (Munich 2017+; Franka Research 3 2022) is the canonical sub-€10K research-grade torque-sensor 7-DoF cobot. 8-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from low-cost 7-DoF research cobots with joint torque sensing. Lineage descends from DLR LWR III (round-45 dlr-lwr-1991-2003).
+
+**Sources:**
+
+1. franka.de/
+
+---
 
 ### 2017-09 — Doosan Robotics M-series cobots
 
@@ -109,4 +166,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d6a964d`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-series-elastic`
 
-**18 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995-08
 
@@ -77,6 +77,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Diftler, M.A. et al. 'Robonaut 2 — The First Humanoid Robot in Space.' ICRA 2011.
 - **ip status**: patented
 - **prior art notes**: Robonaut 2's hand design, with 12 DoF per hand and tendon routing through the forearm, is foundational prior art for high-DoF tendon-driven humanoid hands. The NASA-GM patent portfolio has been extensively cited.
+
+## Rethink Robotics Baxter (2012) + Sawyer (2015) (2012-09)
+
+- **id**: `rethink-baxter-sawyer-2012`
+- **corpus**: private
+- **creator**: Rethink Robotics Inc. (Boston, MA, USA); Rodney Brooks founder
+- **disclosure**: Rethink Robotics Inc. (Boston, MA, USA; founded 2008 by Rodney Brooks as Heartland Robotics). Baxter dual-arm cobot reveal September 2012. Sawyer single-arm 7-DoF cobot 2015. Company shut down 2018; IP acquired by Hahn Group (Germany).
+- **ip status**: trade-secret
+- **prior art notes**: Rethink Robotics Baxter (2012) + Sawyer (2015) are the first inherently-safe dual-arm + single-arm cobots. 13-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from inherently-safe dual-arm cobots or series-elastic-actuator-based force-limited-motion cobots. Lineage descends from Pratt-Williamson SEA (corpus pratt-williamson-sea). Failed-company status reinforces public-disclosure posture.
 
 ## NASA Valkyrie (2013)
 

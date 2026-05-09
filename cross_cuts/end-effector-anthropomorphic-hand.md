@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `end-effector-anthropomorphic-hand`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014-05
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DEKA Research and Development Corporation (Manchester, NH, USA; Dean Kamen). DARPA Revolutionizing Prosthetics program 2006-2014. FDA clearance May 2014. Mobius Bionics commercial launch July 2016. Named 'LUKE' after Star Wars (Luke Skywalker's prosthetic arm).
 - **ip status**: trade-secret
 - **prior art notes**: DEKA / Mobius Bionics LUKE Arm (DEKA Manchester NH 2014; Mobius Bionics 2016) is the first FDA-cleared integrated multi-joint upper-extremity prosthesis. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from integrated multi-joint upper-extremity prostheses. DARPA RP outcome; sister to APL MPL (corpus apl-mpl-revolutionizing-prosthetics-2009).
+
+## Inspire-Robots RH56 5-finger 6-DoF dexterous hand (2018-01)
+
+- **id**: `inspire-robots-rh56-2018`
+- **corpus**: private
+- **creator**: Inspire-Robots Co., Ltd. (Beijing, China)
+- **disclosure**: Inspire-Robots Co., Ltd. (Beijing, China). RH56 series 5-finger 6-DoF dexterous hand commercial reveal ~2018. Used by Unitree G1 / H2, Fourier GR-1, and many other Chinese commercial humanoids.
+- **ip status**: trade-secret
+- **prior art notes**: Inspire-Robots RH56 (Beijing 2018+) is the widely-deployed Chinese 5-finger 6-DoF anthropomorphic hand used by Unitree, Fourier, and many other Chinese commercial humanoids. 7-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from 5-finger 6-DoF Chinese commercial dexterous hands. Together with Linkerbot Linker Hand (round-44), establishes the Chinese hand-supplier prior-art chain.
 
 ## Linkerbot Linker Hand (Beijing) (2023-01)
 

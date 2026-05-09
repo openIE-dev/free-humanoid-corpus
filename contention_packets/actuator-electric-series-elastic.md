@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-09  
 **Cross-cut tag:** `actuator-electric-series-elastic`  
-**Entries:** 18 (18 commons-grade, 0 draft)  
+**Entries:** 19 (19 commons-grade, 0 draft)  
 **Earliest disclosure:** 1995-08  
 **Most recent disclosure:** 2023-08
 
@@ -178,6 +178,25 @@ cite, copy, or redistribute these contentions.
 
 1. Diftler, M.A. et al. ICRA 2011.
 2. Bridgwater, L.B. et al. 'The Robonaut 2 Hand — Designed To Do Work With Tools.' ICRA 2012.
+
+---
+
+### 2012-09 — Rethink Robotics Baxter (2012) + Sawyer (2015)
+
+- **id:** `rethink-baxter-sawyer-2012`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Rethink Robotics Inc. (Boston, MA, USA); Rodney Brooks founder
+- **disclosure citation:** Rethink Robotics Inc. (Boston, MA, USA; founded 2008 by Rodney Brooks as Heartland Robotics). Baxter dual-arm cobot reveal September 2012. Sawyer single-arm 7-DoF cobot 2015. Company shut down 2018; IP acquired by Hahn Group (Germany).
+- **disclosed subsystems:** `manipulator-arm`, `manipulator-dual-arm`, `manipulator-cobot`, `actuator-electric-series-elastic`
+
+**Prior art notes:**
+
+> Rethink Robotics Baxter (2012) + Sawyer (2015) are the first inherently-safe dual-arm + single-arm cobots. 13-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from inherently-safe dual-arm cobots or series-elastic-actuator-based force-limited-motion cobots. Lineage descends from Pratt-Williamson SEA (corpus pratt-williamson-sea). Failed-company status reinforces public-disclosure posture.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Rethink_Robotics
 
 ---
 
@@ -436,4 +455,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d6a964d`.*

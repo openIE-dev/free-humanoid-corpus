@@ -1,7 +1,7 @@
 ---
 title: "control-prosthetic-control"
 parent: "Invalidity Contentions"
-nav_order: 93
+nav_order: 94
 layout: default
 ---
 
@@ -114,4 +114,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0f95e9a`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `d6a964d`.*
