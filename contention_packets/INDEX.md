@@ -10,7 +10,7 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Packets:** 261  
-**Corpus revision:** `7ee2634`
+**Corpus revision:** `2aee416`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -86,7 +86,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-egocentric-video-pretraining`](control-egocentric-video-pretraining.md) | 3 | 3 | 0 | 2021-08 | 2025-03 |
 | [`control-encoder-decoder`](control-encoder-decoder.md) | 2 | 2 | 0 | 2014-09 | 2015-05 |
 | [`control-feature-matching`](control-feature-matching.md) | 2 | 2 | 0 | 2024-05 | 2024-06 |
-| [`control-foundation-model`](control-foundation-model.md) | 15 | 13 | 2 | 1997-11 | 2025-06 |
+| [`control-foundation-model`](control-foundation-model.md) | 17 | 15 | 2 | 1997-11 | 2025-11 |
 | [`control-foundation-model-perception`](control-foundation-model-perception.md) | 30 | 27 | 3 | 2009-06 | 2026-04 |
 | [`control-foundation-model-policy`](control-foundation-model-policy.md) | 20 | 15 | 5 | 2021-06 | 2025-10 |
 | [`control-gait-rehabilitation`](control-gait-rehabilitation.md) | 2 | 2 | 0 | 1999-01 | 2012-02 |
@@ -97,7 +97,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-grasp-planning`](control-grasp-planning.md) | 6 | 5 | 1 | 1989-06 | 2023-01 |
 | [`control-grasp-taxonomy`](control-grasp-taxonomy.md) | 4 | 4 | 0 | 1919-01 | 1989-06 |
 | [`control-haptic-rendering`](control-haptic-rendering.md) | 4 | 3 | 1 | 1994-09 | 2023-09 |
-| [`control-imitation-learning`](control-imitation-learning.md) | 25 | 24 | 1 | 2003-01 | 2025-11 |
+| [`control-imitation-learning`](control-imitation-learning.md) | 26 | 25 | 1 | 2003-01 | 2025-11 |
 | [`control-impedance-control`](control-impedance-control.md) | 2 | 2 | 0 | 1994-09 | 2008-12 |
 | [`control-implicit-scene-representation`](control-implicit-scene-representation.md) | 2 | 2 | 0 | 2020-03 | 2023-02 |
 | [`control-inverse-kinematics`](control-inverse-kinematics.md) | 2 | 2 | 0 | 1955-06 | 1969-06 |

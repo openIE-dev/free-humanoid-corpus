@@ -1,6 +1,6 @@
 # Corpus Index
 
-860 entries total. Generated from corpus.jsonl.
+862 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | Stryker Mako RIO orthopedic surgical robot | `mako-rio-stryker-2016` | 2008 | private | trade-secret |  |
 | Stäubli TX/RX series high-precision sealed arms | `staubli-tx-rx-series-1991` | 1991 | private | trade-secret |  |
 | Sumitomo CYCLO Speed Reducer | `sumitomo-cyclo` | 1937 | academic | public-domain |  |
+| Sunday Robotics Memo (household humanoid; Tony Zhao + Cheng Chi) | `sunday-robotics-memo-2025` | 2025 | private | trade-secret |  |
 | Support Vector Machines (SVM) | `svm-cortes-vapnik-1995` | 1995 | academic | public-domain |  |
 | Surena humanoid (Tehran University) | `surena-tehran-university-2008` | 2008 | academic | public-domain |  |
 | Surveyor 3-7 surface scoop arm (first off-world manipulator) | `surveyor-scoop-arm-1966-1968` | 1966 | academic | public-domain |  |
@@ -856,6 +857,7 @@
 | YoRHa No.2 Type B (2B) and Pod 042 (NieR: Automata) | `nier-automata-2b` | 2017 | fictional | fictional |  |
 | Yoshikawa Manipulability Ellipsoid | `yoshikawa-manipulability` | 1985 | academic | public-domain |  |
 | Yutu / Yutu-2 (Chang'e-3 + Chang'e-4 lunar rovers) | `cnsa-change3-yutu-yutu2-2013` | 2013 | academic | trade-secret |  |
+| Zeon Systems (AI-powered robotics for lab automation; Y Combinator) | `zeon-systems-yc-2025` | 2025 | private | trade-secret |  |
 | Zewail City of Science and Technology (Egypt) | `zewail-city-egypt-2011` | 2011 | academic | open-permissive | ✓ |
 | Zhurong (Tianwen-1; first Chinese Mars rover) | `cnsa-tianwen1-zhurong-2021` | 2021 | academic | trade-secret |  |
 | Ziebart Maximum Entropy Inverse Reinforcement Learning | `ziebart-maxent-irl-2008` | 2008 | academic | public-domain |  |

@@ -7208,6 +7208,7 @@
         "dp3-ze-rss-2024",
         "leflexitac-columbia-2025",
         "octo-policy",
+        "sunday-robotics-memo-2025",
         "umi-stanford"
       ]
     },
@@ -7244,6 +7245,7 @@
         "aloha-2-aldaco-2024",
         "leflexitac-columbia-2025",
         "mobile-aloha",
+        "sunday-robotics-memo-2025",
         "umi-stanford"
       ]
     },
@@ -8401,6 +8403,14 @@
       "descendants": []
     },
     {
+      "id": "zeon-systems-yc-2025",
+      "name": "Zeon Systems (AI-powered robotics for lab automation; Y Combinator)",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "apple-vla-research-2025",
       "name": "Apple Intelligence + Apple Robotics research (2025)",
       "year": "2025",
@@ -8524,6 +8534,17 @@
       "corpus": "academic",
       "ancestors": [
         "kerbl-3d-gaussian-splatting-siggraph-2023"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "sunday-robotics-memo-2025",
+      "name": "Sunday Robotics Memo (household humanoid; Tony Zhao + Cheng Chi)",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [
+        "act-aloha",
+        "diffusion-policy"
       ],
       "descendants": []
     },

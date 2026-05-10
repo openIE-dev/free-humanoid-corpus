@@ -147,7 +147,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-forestry-autonomy` | 1 | 2000-01 |
 | `control-formal-verification` | 1 | 2019-01 |
 | `control-forward-kinematics` | 1 | 1955-06 |
-| `control-foundation-model` | 15 | 1997-11 |
+| `control-foundation-model` | 17 | 1997-11 |
 | `control-foundation-model-perception` | 30 | 2009-06 |
 | `control-foundation-model-policy` | 20 | 2021-06 |
 | `control-gait-active-push-off` | 1 | 2007-01 |
@@ -170,7 +170,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-humanoid-shadowing` | 1 | 2024-06 |
 | `control-hybrid-zero-dynamics` | 1 | 2018-09 |
 | `control-image-segmentation` | 1 | 2015-05 |
-| `control-imitation-learning` | 25 | 2003-01 |
+| `control-imitation-learning` | 26 | 2003-01 |
 | `control-immersive-pov` | 1 | 2024-07 |
 | `control-impedance-control` | 2 | 1994-09 |
 | `control-implicit-scene-representation` | 2 | 2020-03 |
@@ -222,6 +222,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-multimodal-sensor-fusion` | 2 | 2009-01 |
 | `control-musculoskeletal-modeling` | 3 | 2003-01 |
 | `control-myoelectric` | 3 | 1963-01 |
+| `control-natural-language-instruction` | 1 | 2025-04 |
 | `control-network-protocol` | 2 | 2014-09 |
 | `control-neural-decoding` | 2 | 2002-07 |
 | `control-neural-network-training` | 3 | 1986-10 |
@@ -365,10 +366,12 @@ the working prior art search tool when assessing patent claims in the area.
 | `hov-bathyscaphe` | 1 | 1953-08 |
 | `humanoid-bipedal` | 1 | 2019-08 |
 | `humanoid-companion-space` | 1 | 2013-08 |
+| `humanoid-wheeled` | 1 | 2025-11 |
 | `ip-cross-licensing` | 1 | 2005-11 |
 | `ip-defensive-pool` | 1 | 2005-11 |
 | `ip-defensive-publication` | 1 | 2000-01 |
 | `ip-prior-art-database` | 1 | 2000-01 |
+| `lab-automation-robot` | 1 | 2025-04 |
 | `lander-asteroid` | 2 | 2014-11 |
 | `lander-lunar` | 2 | 2024-01 |
 | `lander-sample-return` | 2 | 1970-09 |
@@ -456,6 +459,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-sealed-fluidic-loop` | 1 | 2025-12 |
 | `mechanism-selective-compliance` | 1 | 1979-01 |
 | `mechanism-single-port-deploying` | 1 | 2014-01 |
+| `mechanism-skill-capture-glove` | 1 | 2025-11 |
 | `mechanism-soft-actuator` | 4 | 2007-04 |
 | `mechanism-soft-fiber-muscle` | 1 | 2025-12 |
 | `mechanism-soft-pneumatic-gripper` | 3 | 2014-04 |

@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `control-foundation-model`  
-**Entries:** 15 (13 commons-grade, 2 draft)  
+**Entries:** 17 (15 commons-grade, 2 draft)  
 **Earliest disclosure:** 1997-11  
-**Most recent disclosure:** 2025-06
+**Most recent disclosure:** 2025-11
 
 ---
 
@@ -311,6 +311,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-04 — Zeon Systems (AI-powered robotics for lab automation; Y Combinator)
+
+- **id:** `zeon-systems-yc-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Zeon Systems (San Francisco, CA, USA); Brontë + Tahir D'Mello co-founders
+- **disclosure citation:** Zeon Systems (San Francisco, CA, USA; founded 2025 by Brontë + Tahir D'Mello). Y Combinator Spring 2025 batch. Backed by Y Combinator + FCVC + A* Capital. Stanford + UCSF lab partnerships.
+- **disclosed subsystems:** `lab-automation-robot`, `control-natural-language-instruction`, `control-foundation-model`
+
+**Prior art notes:**
+
+> Zeon Systems (San Francisco 2025+; YC Spring 2025) is the canonical natural-language-driven scientific lab automation platform. <1-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or lab-automation claim deriving from natural-language experiment description → code generation → robotic-arm execution with world-model-grounded perception + closed-loop execution.
+
+**Sources:**
+
+1. zeonsystems.ai (corporate site).
+2. ycombinator.com/companies/zeon-systems
+3. ycombinator.com/launches/NOp-zeon-systems-ai-powered-robotics-for-lab-automation
+
+---
+
 ### 2025-06 — Apple Intelligence + Apple Robotics research (2025) *(draft)*
 
 - **id:** `apple-vla-research-2025`
@@ -330,6 +351,29 @@ cite, copy, or redistribute these contentions.
 2. Apple Intelligence WWDC 2024 announcement.
 3. Apple Machine Learning Research (machinelearning.apple.com).
 4. Open-TeleVision (round-16 corpus entry) deploys on Apple Vision Pro.
+
+---
+
+### 2025-11 — Sunday Robotics Memo (household humanoid; Tony Zhao + Cheng Chi)
+
+- **id:** `sunday-robotics-memo-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Sunday Robotics (USA); Tony Zhao + Cheng Chi (Stanford ALOHA + Diffusion Policy lineage)
+- **disclosure citation:** Sunday Robotics (USA; founded 2024 by Tony Zhao + Cheng Chi). Memo household humanoid unveiled November 19, 2025. Founding Family Beta launching late 2026; 50 households. $1.15B valuation March 2026. $35M Series B Benchmark + Conviction-led. Tony Zhao = Stanford CS PhD ALOHA + ACT (corpus act-aloha); Cheng Chi = Columbia CS PhD + Stanford Diffusion Policy (corpus diffusion-policy).
+- **disclosed subsystems:** `humanoid-wheeled`, `control-foundation-model`, `control-imitation-learning`, `mechanism-skill-capture-glove`
+
+**Prior art notes:**
+
+> Sunday Robotics Memo (Tony Zhao + Cheng Chi 2024-2025+) is the canonical household humanoid trained on 'zero robot data' via Skill Capture Glove human demonstrations. <1-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from: (1) household-chore humanoids; (2) human-glove-based training methodologies for robot foundation models; (3) ACT-1-class transformer VLA trained without robot demonstration data. Lineage descends from ALOHA (corpus act-aloha; Tony Zhao Stanford 2023) and Diffusion Policy (corpus diffusion-policy; Cheng Chi Columbia/Stanford 2023). The Tony Zhao + Cheng Chi commercial spinout.
+
+**Sources:**
+
+1. sunday.ai (corporate site).
+2. techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/
+3. eweek.com/news/sunday-memo-home-robot/
+4. siliconangle.com/2025/11/20/sunday-wants-put-robot-every-home-beginning-launch-memo/
+5. founded.com/sunday-memo-robot-chores-founders/
 
 ---
 
@@ -363,4 +407,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*

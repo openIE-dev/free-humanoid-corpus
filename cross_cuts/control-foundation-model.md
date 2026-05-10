@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-foundation-model`
 
-**15 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1997-11
 
@@ -141,6 +141,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Anthropic Claude robotics applications (Oct 2024+) — speculative prior art for tool-use language model + downstream robotic integration. Direct shielding is limited (this is not a robot-specific VLA), but the tool-use abstraction is referenced in modern hierarchical-VLA architectures (SayCan-style).
 
+## Zeon Systems (AI-powered robotics for lab automation; Y Combinator) (2025-04)
+
+- **id**: `zeon-systems-yc-2025`
+- **corpus**: private
+- **creator**: Zeon Systems (San Francisco, CA, USA); Brontë + Tahir D'Mello co-founders
+- **disclosure**: Zeon Systems (San Francisco, CA, USA; founded 2025 by Brontë + Tahir D'Mello). Y Combinator Spring 2025 batch. Backed by Y Combinator + FCVC + A* Capital. Stanford + UCSF lab partnerships.
+- **ip status**: trade-secret
+- **prior art notes**: Zeon Systems (San Francisco 2025+; YC Spring 2025) is the canonical natural-language-driven scientific lab automation platform. <1-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid or lab-automation claim deriving from natural-language experiment description → code generation → robotic-arm execution with world-model-grounded perception + closed-loop execution.
+
 ## Apple Intelligence + Apple Robotics research (2025) (2025-06)
 
 - **id**: `apple-vla-research-2025`
@@ -149,3 +158,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Apple Inc. Apple Intelligence stack (announced June 2024 WWDC); Apple Vision Pro hardware (released February 2024) increasingly deployed as teleop interface for academic humanoid robots (Open-TeleVision round-16); Apple Machine Learning Research publishing robotics-adjacent work 2024-2025.
 - **ip status**: trade-secret
 - **prior art notes**: Apple's emerging robotics research (2024-2025) is documented primarily through hardware deployment (Apple Vision Pro in Open-TeleVision round-16) and Apple Machine Learning Research publications. Specific internal Apple robotics products are not publicly disclosed. The existence of Apple-platform academic deployments establishes prior-art shielding against any commercial humanoid claim that integrates Apple Vision Pro / Apple Intelligence as a teleop or perception interface.
+
+## Sunday Robotics Memo (household humanoid; Tony Zhao + Cheng Chi) (2025-11)
+
+- **id**: `sunday-robotics-memo-2025`
+- **corpus**: private
+- **creator**: Sunday Robotics (USA); Tony Zhao + Cheng Chi (Stanford ALOHA + Diffusion Policy lineage)
+- **disclosure**: Sunday Robotics (USA; founded 2024 by Tony Zhao + Cheng Chi). Memo household humanoid unveiled November 19, 2025. Founding Family Beta launching late 2026; 50 households. $1.15B valuation March 2026. $35M Series B Benchmark + Conviction-led. Tony Zhao = Stanford CS PhD ALOHA + ACT (corpus act-aloha); Cheng Chi = Columbia CS PhD + Stanford Diffusion Policy (corpus diffusion-policy).
+- **ip status**: trade-secret
+- **prior art notes**: Sunday Robotics Memo (Tony Zhao + Cheng Chi 2024-2025+) is the canonical household humanoid trained on 'zero robot data' via Skill Capture Glove human demonstrations. <1-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from: (1) household-chore humanoids; (2) human-glove-based training methodologies for robot foundation models; (3) ACT-1-class transformer VLA trained without robot demonstration data. Lineage descends from ALOHA (corpus act-aloha; Tony Zhao Stanford 2023) and Diffusion Policy (corpus diffusion-policy; Cheng Chi Columbia/Stanford 2023). The Tony Zhao + Cheng Chi commercial spinout.

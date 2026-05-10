@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-imitation-learning`
 
-**25 corpus entries disclose this subsystem.**
+**26 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2003-01
 
@@ -239,3 +239,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Tao, N., He, Y., Maa, W., Huang, B., Li, Y. 'LeFlexiTac: Giving Robots a Sense of Touch'. Columbia University RoboPIL Blog, May 2026. Public GitHub fork of HuggingFace LeRobot at github.com/TNA001-AI/lerobot_tactile, repo created 2025-11-14, Apache License 2.0. Project page: tna001-ai.github.io/LeFlexiTac/.
 - **ip status**: open-permissive
 - **prior art notes**: LeFlexiTac (Columbia RoboPIL November 2025+; blog disclosure May 2026) is the canonical open-source tactile-augmented LeRobot extension demonstrating tactile sensing as an additive modality across four distinct policy architectures (ACT, Diffusion Policy, Pi0.5, SmolVLA). Apache 2.0 open-permissive prior art. Direct shielding for any commercial humanoid claim deriving from: (1) tactile observation channels in VLA / imitation-learning policy frameworks; (2) tactile-augmented LeRobot / SO-ARM platforms; (3) the architectural pattern of feeding a single tactile stream into multiple policy backbones. Lineage descends from GelSight (corpus gelsight, MIT 2009) for vision-tactile sensing and from HuggingFace LeRobot (corpus huggingface-lerobot-2024) for the framework substrate.
+
+## Sunday Robotics Memo (household humanoid; Tony Zhao + Cheng Chi) (2025-11)
+
+- **id**: `sunday-robotics-memo-2025`
+- **corpus**: private
+- **creator**: Sunday Robotics (USA); Tony Zhao + Cheng Chi (Stanford ALOHA + Diffusion Policy lineage)
+- **disclosure**: Sunday Robotics (USA; founded 2024 by Tony Zhao + Cheng Chi). Memo household humanoid unveiled November 19, 2025. Founding Family Beta launching late 2026; 50 households. $1.15B valuation March 2026. $35M Series B Benchmark + Conviction-led. Tony Zhao = Stanford CS PhD ALOHA + ACT (corpus act-aloha); Cheng Chi = Columbia CS PhD + Stanford Diffusion Policy (corpus diffusion-policy).
+- **ip status**: trade-secret
+- **prior art notes**: Sunday Robotics Memo (Tony Zhao + Cheng Chi 2024-2025+) is the canonical household humanoid trained on 'zero robot data' via Skill Capture Glove human demonstrations. <1-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from: (1) household-chore humanoids; (2) human-glove-based training methodologies for robot foundation models; (3) ACT-1-class transformer VLA trained without robot demonstration data. Lineage descends from ALOHA (corpus act-aloha; Tony Zhao Stanford 2023) and Diffusion Policy (corpus diffusion-policy; Cheng Chi Columbia/Stanford 2023). The Tony Zhao + Cheng Chi commercial spinout.

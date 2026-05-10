@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `control-imitation-learning`  
-**Entries:** 25 (24 commons-grade, 1 draft)  
+**Entries:** 26 (25 commons-grade, 1 draft)  
 **Earliest disclosure:** 2003-01  
 **Most recent disclosure:** 2025-11
 
@@ -567,6 +567,29 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-11 — Sunday Robotics Memo (household humanoid; Tony Zhao + Cheng Chi)
+
+- **id:** `sunday-robotics-memo-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Sunday Robotics (USA); Tony Zhao + Cheng Chi (Stanford ALOHA + Diffusion Policy lineage)
+- **disclosure citation:** Sunday Robotics (USA; founded 2024 by Tony Zhao + Cheng Chi). Memo household humanoid unveiled November 19, 2025. Founding Family Beta launching late 2026; 50 households. $1.15B valuation March 2026. $35M Series B Benchmark + Conviction-led. Tony Zhao = Stanford CS PhD ALOHA + ACT (corpus act-aloha); Cheng Chi = Columbia CS PhD + Stanford Diffusion Policy (corpus diffusion-policy).
+- **disclosed subsystems:** `humanoid-wheeled`, `control-foundation-model`, `control-imitation-learning`, `mechanism-skill-capture-glove`
+
+**Prior art notes:**
+
+> Sunday Robotics Memo (Tony Zhao + Cheng Chi 2024-2025+) is the canonical household humanoid trained on 'zero robot data' via Skill Capture Glove human demonstrations. <1-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from: (1) household-chore humanoids; (2) human-glove-based training methodologies for robot foundation models; (3) ACT-1-class transformer VLA trained without robot demonstration data. Lineage descends from ALOHA (corpus act-aloha; Tony Zhao Stanford 2023) and Diffusion Policy (corpus diffusion-policy; Cheng Chi Columbia/Stanford 2023). The Tony Zhao + Cheng Chi commercial spinout.
+
+**Sources:**
+
+1. sunday.ai (corporate site).
+2. techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/
+3. eweek.com/news/sunday-memo-home-robot/
+4. siliconangle.com/2025/11/20/sunday-wants-put-robot-every-home-beginning-launch-memo/
+5. founded.com/sunday-memo-robot-chores-founders/
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -597,4 +620,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
