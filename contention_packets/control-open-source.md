@@ -1,7 +1,7 @@
 ---
 title: "control-open-source"
 parent: "Invalidity Contentions"
-nav_order: 102
+nav_order: 104
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `control-open-source`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-01  
-**Most recent disclosure:** 2015-09
+**Most recent disclosure:** 2016-01
 
 ---
 
@@ -100,6 +100,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-01 — Pollen Robotics Reachy (HuggingFace open-source humanoid hardware)
+
+- **id:** `pollen-robotics-huggingface-2016`
+- **corpus:** private
+- **ip status:** open-permissive
+- **creator:** Pollen Robotics (Bordeaux, France); Matthieu Lapeyre + Pierre Rouanet (ex-Inria Flowers)
+- **disclosure citation:** Pollen Robotics (Bordeaux, France; founded 2016 by Matthieu Lapeyre + Pierre Rouanet, ex-Inria Flowers Lab). Acquired by Hugging Face April 2025.
+- **disclosed subsystems:** `humanoid-bipedal`, `control-open-source`
+
+**Prior art notes:**
+
+> Pollen Robotics Reachy (Bordeaux 2016+; → Hugging Face 2025) is the open-source Reachy humanoid + Hugging Face LeRobot hardware arm. 9-year-deep open-permissive prior art.
+
+**Sources:**
+
+1. huggingface.co/blog/hugging-face-pollen-robotics-acquisition
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -130,4 +149,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

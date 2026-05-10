@@ -1,7 +1,7 @@
 ---
 title: "rl-infrastructure"
 parent: "Invalidity Contentions"
-nav_order: 220
+nav_order: 226
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `rl-infrastructure`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 7 (7 commons-grade, 0 draft)  
 **Earliest disclosure:** 2004-01  
-**Most recent disclosure:** 2017-05
+**Most recent disclosure:** 2023-10
 
 ---
 
@@ -100,6 +100,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-01 — Wandelbots Tracepen ('Windows for Robots')
+
+- **id:** `wandelbots-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Wandelbots (Dresden, Germany); TU Dresden 7-co-founder team
+- **disclosure citation:** Wandelbots (Dresden, Germany; founded 2017 by Christian Piacht + Maria Piacht + Georg Püschel + Sebastian Werner + Jan Falkenberg + Giang Nguyen + Christoph Biering, TU Dresden). ~$123M raised from Insight + Microsoft + Next47.
+- **disclosed subsystems:** `rl-infrastructure`, `control-no-code-programming`
+
+**Prior art notes:**
+
+> Wandelbots (Dresden 2017+) is the Tracepen no-code robot programming category-definer. 8-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. xpert.digital/en/robotics-start-up/
+
+---
+
 ### 2017-05 — OpenAI Baselines (reference RL algorithm implementations)
 
 - **id:** `openai-baselines-2017`
@@ -117,6 +136,44 @@ cite, copy, or redistribute these contentions.
 
 1. github.com/openai/baselines
 2. github.com/DLR-RM/stable-baselines3
+
+---
+
+### 2021-06 — Waabi (Urtasun generative-AI neural simulator AV)
+
+- **id:** `waabi-urtasun-2021`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Waabi Innovation Inc. (Toronto, Canada); Raquel Urtasun (ex-Uber ATG; U-Toronto faculty)
+- **disclosure citation:** Waabi Innovation Inc. (Toronto, Canada; founded 2021 by Raquel Urtasun, ex-Uber ATG Toronto head + University of Toronto faculty). $750M+$250M milestone funding (combined ~$1B by 2025).
+- **disclosed subsystems:** `autonomous-vehicle`, `rl-infrastructure`
+
+**Prior art notes:**
+
+> Waabi (Toronto 2021+; ~$1B raised) is the most architecturally-distinct AV company (generative-AI simulation-first). 4-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. utoronto.ca/news/self-driving-startup-waabi-makes-global-headlines
+
+---
+
+### 2023-10 — Meta FAIR robotics (Habitat 3.0 + Spot studies)
+
+- **id:** `meta-fair-robotics-2023`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Meta FAIR (Menlo Park, CA, USA); Dhruv Batra + Yann LeCun advisor
+- **disclosure citation:** Meta FAIR (Menlo Park, CA, USA; Dhruv Batra + Yann LeCun advisor). Habitat 3.0 simulator (humans + humanoids + robots together) 2023. Spot-based real-world retrieval studies 2024-2025. Open-source tools release 2025.
+- **disclosed subsystems:** `ai-foundation-model`, `rl-infrastructure`
+
+**Prior art notes:**
+
+> Meta FAIR robotics (Menlo Park 2023+) is the Meta robotics research + open-source tooling push. 2-year-deep open-permissive prior art.
+
+**Sources:**
+
+1. therobotreport.com/metas-fair-team-releases-3-tools-for-robotics-researchers/
 
 ---
 
@@ -150,4 +207,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

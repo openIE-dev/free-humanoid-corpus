@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `warehouse-robot`
 
-**10 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1996-01
 
@@ -87,6 +87,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Geek+ (Beijing 2015+) is the world's largest AMR vendor by deployment count. 10-year-deep public-disclosure prior art.
 
+## Mech-Mind Robotics (3D vision + AI for industrial manipulation) (2016-01)
+
+- **id**: `mech-mind-robotics-2016`
+- **corpus**: private
+- **creator**: Mech-Mind Robotics (Beijing, China); Shao Tianlan
+- **disclosure**: Mech-Mind Robotics (Beijing, China; founded 2016 by Shao Tianlan). 15,000+ installations in 50+ countries.
+- **ip status**: trade-secret
+- **prior art notes**: Mech-Mind Robotics (Beijing 2016+) is the dominant Chinese industrial-vision software stack. 9-year-deep public-disclosure prior art.
+
+## Apera AI 4D Vision (Canadian bin-pick vision software) (2016-01)
+
+- **id**: `apera-ai-4d-vision-2016`
+- **corpus**: private
+- **creator**: Apera AI (Vancouver, Canada); Sina Afrooze (ex-AWS Alexa + Avigilon) + Armin Khatoonabadi
+- **disclosure**: Apera AI (Vancouver, Canada; founded 2016 by Sina Afrooze, ex-AWS Alexa voice + Avigilon, + Armin Khatoonabadi). Patented '4D Vision' for bin-pick / assembly / packaging.
+- **ip status**: trade-secret
+- **prior art notes**: Apera AI 4D Vision (Vancouver 2016+) is the Canadian industrial-vision-software player. 9-year-deep public-disclosure prior art.
+
 ## Boston Dynamics Handle + Pick (warehouse retrofits) (2017-02)
 
 - **id**: `boston-dynamics-handle-pick-2017`
@@ -104,3 +122,21 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Covariant Inc. (Berkeley, CA, USA; founded 2017 by Pieter Abbeel + Peter Chen + Rocky Duan + Tianhao Zhang). Covariant Brain → RFM-1 robotic foundation model 2024.
 - **ip status**: trade-secret
 - **prior art notes**: Covariant.ai (Berkeley 2017+; RFM-1 2024) is the robotic foundation model for grasping. 8-year-deep public-disclosure prior art.
+
+## Sereact PickGPT (first commercial robotics transformer) (2021-01)
+
+- **id**: `sereact-pickgpt-2021`
+- **corpus**: private
+- **creator**: Sereact (Stuttgart, Germany); Ralf Gulde + Marc Tuscher (ex-Univ. Stuttgart AI)
+- **disclosure**: Sereact (Stuttgart, Germany; founded 2021 by Ralf Gulde + Marc Tuscher, ex-Univ. Stuttgart AI). $140M+ total funding. BMW + Daimler + Bol customers.
+- **ip status**: trade-secret
+- **prior art notes**: Sereact PickGPT (Stuttgart 2021+) is the canonical European warehouse-AI transformer foundation model. 4-year-deep public-disclosure prior art.
+
+## Mytra (3D-grid warehouse storage; ex-Tesla Optimus head) (2022-01)
+
+- **id**: `mytra-walti-2022`
+- **corpus**: private
+- **creator**: Mytra (Bay Area, USA); Chris Walti (ex-Tesla Optimus head) + Ahmad Baitalmal
+- **disclosure**: Mytra (Bay Area, USA; founded 2022 by Chris Walti, ex-Tesla Optimus head + Tesla warehouse logistics, + Ahmad Baitalmal, ex-Tesla/Rivian factory software). $78M Series B launch.
+- **ip status**: trade-secret
+- **prior art notes**: Mytra (Bay Area 2022+) is the ex-Tesla-Optimus-head 3D-grid warehouse play. 3-year-deep public-disclosure prior art.

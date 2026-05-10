@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-natural-language-instruction`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2025-04
+Earliest disclosure: 2022-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Mentee Robotics MenteeBot (Shashua Israeli humanoid; Mobileye acquisition) (2022-01)
+
+- **id**: `mentee-robotics-shashua-2022`
+- **corpus**: private
+- **creator**: Mentee Robotics (Tel Aviv, Israel); Amnon Shashua + Lior Wolf + Shai Shalev-Shwartz
+- **disclosure**: Mentee Robotics (Tel Aviv, Israel; founded 2022 by Amnon Shashua (chair, ex-Mobileye co-founder) + Lior Wolf (CEO) + Shai Shalev-Shwartz). MenteeBot V3 February 2025. Acquired by Mobileye for $900M January 2026 — Israel's first humanoid exit.
+- **ip status**: trade-secret
+- **prior art notes**: Mentee Robotics MenteeBot (Tel Aviv 2022+; Mobileye acquisition Jan 2026) is Israel's first humanoid exit. 3-year-deep public-disclosure prior art.
 
 ## Zeon Systems (AI-powered robotics for lab automation; Y Combinator) (2025-04)
 

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `agriculture-robot`  
-**Entries:** 8 (8 commons-grade, 0 draft)  
+**Entries:** 9 (9 commons-grade, 0 draft)  
 **Earliest disclosure:** 1992-08  
 **Most recent disclosure:** 2022-12
 
@@ -113,6 +113,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. sagarobotics.com/about
+
+---
+
+### 2016-01 — Tevel Aerobotics (Israeli autonomous fruit-picking drones)
+
+- **id:** `tevel-aerobotics-2016`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Tevel Aerobotics Technologies (Israel); Yaniv Maor founder
+- **disclosure citation:** Tevel Aerobotics Technologies (Israel; founded 2016 by Yaniv Maor). Active deployments in Italy / US / Chile / Israel.
+- **disclosed subsystems:** `agriculture-robot`, `uav-aerial-manipulation`
+
+**Prior art notes:**
+
+> Tevel Aerobotics (Israel 2016+) is the autonomous-aerial-fruit-picking niche specialist. 9-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. futurefarming.com/tech-in-focus/fruit-picking-drones-by-tevel-aerobotics-technologies/
 
 ---
 
@@ -222,4 +241,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

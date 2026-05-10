@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `rl-infrastructure`
 
-**4 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2004-01
 
@@ -42,6 +42,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive (MIT)
 - **prior art notes**: OpenAI Gym (OpenAI 2016+; Gymnasium 2022 fork) is the foundational RL benchmark library. 9-year-deep open-permissive prior art.
 
+## Wandelbots Tracepen ('Windows for Robots') (2017-01)
+
+- **id**: `wandelbots-2017`
+- **corpus**: private
+- **creator**: Wandelbots (Dresden, Germany); TU Dresden 7-co-founder team
+- **disclosure**: Wandelbots (Dresden, Germany; founded 2017 by Christian Piacht + Maria Piacht + Georg Püschel + Sebastian Werner + Jan Falkenberg + Giang Nguyen + Christoph Biering, TU Dresden). ~$123M raised from Insight + Microsoft + Next47.
+- **ip status**: trade-secret
+- **prior art notes**: Wandelbots (Dresden 2017+) is the Tracepen no-code robot programming category-definer. 8-year-deep public-disclosure prior art.
+
 ## OpenAI Baselines (reference RL algorithm implementations) (2017-05)
 
 - **id**: `openai-baselines-2017`
@@ -50,3 +59,21 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: OpenAI. Baselines repository launched May 2017. Reference implementations of DQN + PPO + TRPO + DDPG + A2C + ACKTR + GAIL by experts. Subsequent: Stable Baselines (Antonin Raffin 2018+) and Stable Baselines3 (2020+).
 - **ip status**: open-permissive (MIT)
 - **prior art notes**: OpenAI Baselines + Stable Baselines3 (OpenAI 2017+; Raffin 2018+) are the canonical RL reference implementations. 8-year-deep open-permissive prior art.
+
+## Waabi (Urtasun generative-AI neural simulator AV) (2021-06)
+
+- **id**: `waabi-urtasun-2021`
+- **corpus**: private
+- **creator**: Waabi Innovation Inc. (Toronto, Canada); Raquel Urtasun (ex-Uber ATG; U-Toronto faculty)
+- **disclosure**: Waabi Innovation Inc. (Toronto, Canada; founded 2021 by Raquel Urtasun, ex-Uber ATG Toronto head + University of Toronto faculty). $750M+$250M milestone funding (combined ~$1B by 2025).
+- **ip status**: trade-secret
+- **prior art notes**: Waabi (Toronto 2021+; ~$1B raised) is the most architecturally-distinct AV company (generative-AI simulation-first). 4-year-deep public-disclosure prior art.
+
+## Meta FAIR robotics (Habitat 3.0 + Spot studies) (2023-10)
+
+- **id**: `meta-fair-robotics-2023`
+- **corpus**: academic
+- **creator**: Meta FAIR (Menlo Park, CA, USA); Dhruv Batra + Yann LeCun advisor
+- **disclosure**: Meta FAIR (Menlo Park, CA, USA; Dhruv Batra + Yann LeCun advisor). Habitat 3.0 simulator (humans + humanoids + robots together) 2023. Spot-based real-world retrieval studies 2024-2025. Open-source tools release 2025.
+- **ip status**: open-permissive
+- **prior art notes**: Meta FAIR robotics (Menlo Park 2023+) is the Meta robotics research + open-source tooling push. 2-year-deep open-permissive prior art.

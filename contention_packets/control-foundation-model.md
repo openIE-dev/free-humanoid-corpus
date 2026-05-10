@@ -1,7 +1,7 @@
 ---
 title: "control-foundation-model"
 parent: "Invalidity Contentions"
-nav_order: 60
+nav_order: 61
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `control-foundation-model`  
-**Entries:** 17 (15 commons-grade, 2 draft)  
+**Entries:** 20 (18 commons-grade, 2 draft)  
 **Earliest disclosure:** 1997-11  
 **Most recent disclosure:** 2025-11
 
@@ -194,6 +194,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-01 — Sereact PickGPT (first commercial robotics transformer)
+
+- **id:** `sereact-pickgpt-2021`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Sereact (Stuttgart, Germany); Ralf Gulde + Marc Tuscher (ex-Univ. Stuttgart AI)
+- **disclosure citation:** Sereact (Stuttgart, Germany; founded 2021 by Ralf Gulde + Marc Tuscher, ex-Univ. Stuttgart AI). $140M+ total funding. BMW + Daimler + Bol customers.
+- **disclosed subsystems:** `warehouse-robot`, `control-foundation-model`
+
+**Prior art notes:**
+
+> Sereact PickGPT (Stuttgart 2021+) is the canonical European warehouse-AI transformer foundation model. 4-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. eu-startups.com/2025/01/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/
+
+---
+
 ### 2021-07 — AlphaFold 2
 
 - **id:** `alphafold2-jumper-deepmind-2021`
@@ -233,6 +252,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-01 — Skild AI (OmniBrain robotics foundation model)
+
+- **id:** `skild-ai-pathak-gupta-2023`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Skild AI (USA); Deepak Pathak + Abhinav Gupta (ex-CMU faculty)
+- **disclosure citation:** Skild AI (Pittsburgh + SF Bay, USA; founded 2023 by Deepak Pathak + Abhinav Gupta, ex-CMU faculty). $300M Series A 2024 at $1.5B valuation; $1.4B Series C Jan 2026 at $14B+ valuation.
+- **disclosed subsystems:** `ai-foundation-model`, `control-foundation-model`
+
+**Prior art notes:**
+
+> Skild AI (Pittsburgh + SF 2023+) is a top-3 robotics foundation model company by capitalization. 2-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. businesswire.com/news/home/20240709306400/en/Skild-AI-Raises-$300M-Series-A
+
+---
+
 ### 2023-07 — LLaMA 2
 
 - **id:** `meta-llama-2-2023`
@@ -269,6 +307,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Sun et al. arXiv:2307.08621 July 2023.
+
+---
+
+### 2023-07 — DeepMind RT-2 + AutoRT + SARA-RT + RT-Trajectory
+
+- **id:** `deepmind-rt-2-autort-2023`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Google DeepMind robotics team
+- **disclosure citation:** Google DeepMind robotics team. RT-2 released July 2023. AutoRT + SARA-RT + RT-Trajectory January 2024.
+- **disclosed subsystems:** `ai-foundation-model`, `control-foundation-model`
+
+**Prior art notes:**
+
+> DeepMind RT-2 + AutoRT + SARA-RT + RT-Trajectory (Google DeepMind 2023-2024) is the foundational DeepMind VLA lineage. 2-year-deep academic-publication prior art.
+
+**Sources:**
+
+1. deepmind.google/blog/rt-2-new-model-translates-vision-and-language-into-action/
 
 ---
 
@@ -407,4 +464,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

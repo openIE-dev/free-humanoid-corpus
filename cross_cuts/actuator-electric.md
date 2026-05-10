@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**105 corpus entries disclose this subsystem.**
+**106 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -572,6 +572,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Shenzhen Inovance Technology Co., Ltd. (Shenzhen, China; founded 2003 by Zhu Xingming + ex-Huawei colleagues, hence 'Little Huawei'). Entered industrial robotics 2016. #2 Chinese domestic robot maker by shipments after Estun (round-45).
 - **ip status**: trade-secret
 - **prior art notes**: Inovance Technology (Shenzhen 2003; robotics 2016+) is the 'Little Huawei' #2 Chinese domestic industrial-robot maker. 9-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from vertically-integrated Chinese-OEM industrial arms.
+
+## ZeroErr eRob (Chinese joint actuators for humanoids) (2016-01)
+
+- **id**: `zeroerr-erob-2016`
+- **corpus**: private
+- **creator**: ZeroErr (Guangdong, China)
+- **disclosure**: ZeroErr (Guangdong, China; founded ~2016). Joint actuator + magnetic-encoder specialist for harmonic-reducer-based humanoid joints.
+- **ip status**: trade-secret
+- **prior art notes**: ZeroErr eRob (Guangdong 2016+) is the Chinese joint-actuator + magnetic-encoder component supplier for humanoid OEMs. 9-year-deep public-disclosure prior art.
 
 ## Indego modular powered lower-limb exoskeleton (2016-03)
 

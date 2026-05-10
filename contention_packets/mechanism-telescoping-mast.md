@@ -1,7 +1,7 @@
 ---
 title: "mechanism-telescoping-mast"
 parent: "Invalidity Contentions"
-nav_order: 202
+nav_order: 207
 layout: default
 ---
 
@@ -191,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

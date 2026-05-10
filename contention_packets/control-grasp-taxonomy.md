@@ -1,7 +1,7 @@
 ---
 title: "control-grasp-taxonomy"
 parent: "Invalidity Contentions"
-nav_order: 69
+nav_order: 70
 layout: default
 ---
 
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

@@ -1,7 +1,7 @@
 ---
 title: "manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 159
+nav_order: 163
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `manipulator-arm`  
-**Entries:** 39 (39 commons-grade, 0 draft)  
+**Entries:** 44 (44 commons-grade, 0 draft)  
 **Earliest disclosure:** 1954-12  
 **Most recent disclosure:** 2021-09
 
@@ -444,6 +444,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2011-01 — Standard Bots (US industrial cobot leader)
+
+- **id:** `standard-bots-2011`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Standard Bots (Glen Cove, NY, USA); Evan Beard + David Golden
+- **disclosure citation:** Standard Bots (Glen Cove, NY, USA; founded 2011 by Evan Beard + David Golden). Self-described largest US industrial-robotics company by units shipped.
+- **disclosed subsystems:** `manipulator-arm`, `manipulator-cobot`
+
+**Prior art notes:**
+
+> Standard Bots (Glen Cove 2011+) is the self-described largest US industrial-robotics company by units. 14-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. magazine.wharton.upenn.edu/issues/spring-summer-2025/standard-bots/
+
+---
+
 ### 2011-07 — Mujin (first humanless warehouse; JD.com 2018)
 
 - **id:** `mujin-2011`
@@ -536,6 +555,44 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. hannovermesse.de/apollo/hannover_messe_2022/obs/Binary/A1142167/Welcome%20to%20JAKA%20Robotics.pdf
+
+---
+
+### 2015-01 — Dobot / Yuejiang (largest Chinese cobot maker; first HKEx cobot IPO)
+
+- **id:** `dobot-yuejiang-2015`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Yuejiang Technology / Dobot (Shenzhen, China)
+- **disclosure citation:** Yuejiang Technology / Dobot (Shenzhen, China; founded 2015). Largest Chinese cobot maker (~13% global cobot share). First Chinese cobot maker to IPO (HKEX December 2024, $87M).
+- **disclosed subsystems:** `manipulator-arm`, `manipulator-cobot`
+
+**Prior art notes:**
+
+> Dobot / Yuejiang (Shenzhen 2015+) is the largest Chinese cobot maker + first Chinese cobot HKEx IPO. 10-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. robotauto.co.uk/2025/08/06/chinas-industrial-robotics-landscape
+
+---
+
+### 2015-01 — Rokae Robotics (Chinese collaborative + industrial robots)
+
+- **id:** `rokae-robotics-2015`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Rokae Robotics (Beijing, China)
+- **disclosure citation:** Rokae Robotics (Beijing, China; founded 2015). ~$210M raised including $69M Series E (April 2024). Near-unicorn status.
+- **disclosed subsystems:** `manipulator-arm`, `manipulator-cobot`
+
+**Prior art notes:**
+
+> Rokae Robotics (Beijing 2015+) is a top-3 Chinese cobot maker by valuation. 10-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. robotauto.co.uk/2025/08/06/chinas-industrial-robotics-landscape
 
 ---
 
@@ -729,6 +786,44 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-01 — Path Robotics (autonomous welding-specific perception)
+
+- **id:** `path-robotics-lonsberry-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Path Robotics (Columbus, OH, USA); Andy + Alex Lonsberry brothers
+- **disclosure citation:** Path Robotics (Columbus, OH, USA; founded 2018 by Andy Lonsberry + Alex Lonsberry, brothers).
+- **disclosed subsystems:** `manipulator-arm`, `vertical-skill-automation`
+
+**Prior art notes:**
+
+> Path Robotics (Columbus 2018+) is the autonomous-welding vertical specialist. 7-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. therobotreport.com/path-robotics-raises-100m-to-automate-welding/
+
+---
+
+### 2018-01 — Agile Robots (DLR spinout; first claimed robotics unicorn)
+
+- **id:** `agile-robots-chen-2018`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Agile Robots (Munich, Germany); Zhaopeng Chen (ex-DLR Modular Dexterous Lab) + Peter Meusel
+- **disclosure citation:** Agile Robots (Munich, Germany + Chinese ops; founded 2018 by Zhaopeng Chen, ex-DLR Modular Dexterous Lab deputy director, + Peter Meusel). First claimed robotics unicorn (2021 Series C $220M SoftBank Vision Fund 2-led). Agile ONE industrial humanoid planned 2026.
+- **disclosed subsystems:** `manipulator-arm`, `manipulator-cobot`
+
+**Prior art notes:**
+
+> Agile Robots (Munich 2018+) is the DLR-spinout first claimed robotics unicorn. 7-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. munich-startup.de/en/75799/agile-robots-series-c/
+
+---
+
 ### 2019-02 — Octinion Rubion (first commercial strawberry-picking robot)
 
 - **id:** `octinion-rubion-2019`
@@ -816,4 +911,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

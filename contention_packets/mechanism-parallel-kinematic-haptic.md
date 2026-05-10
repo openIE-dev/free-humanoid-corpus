@@ -1,7 +1,7 @@
 ---
 title: "mechanism-parallel-kinematic-haptic"
 parent: "Invalidity Contentions"
-nav_order: 187
+nav_order: 192
 layout: default
 ---
 
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

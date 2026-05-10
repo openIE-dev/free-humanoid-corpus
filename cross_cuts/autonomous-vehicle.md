@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `autonomous-vehicle`
 
-**10 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1999-01
 
@@ -104,3 +104,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kodiak Robotics (Mountain View, CA, USA; founded April 2018 by Don Burnette + Paz Eshel). First customer-owned driverless RoboTrucks delivered to Atlas Energy December 2024.
 - **ip status**: trade-secret
 - **prior art notes**: Kodiak Robotics (Mountain View 2018+; first customer delivery Dec 2024) is the first commercial autonomous trucking deployment. 7-year-deep public-disclosure prior art.
+
+## Waabi (Urtasun generative-AI neural simulator AV) (2021-06)
+
+- **id**: `waabi-urtasun-2021`
+- **corpus**: private
+- **creator**: Waabi Innovation Inc. (Toronto, Canada); Raquel Urtasun (ex-Uber ATG; U-Toronto faculty)
+- **disclosure**: Waabi Innovation Inc. (Toronto, Canada; founded 2021 by Raquel Urtasun, ex-Uber ATG Toronto head + University of Toronto faculty). $750M+$250M milestone funding (combined ~$1B by 2025).
+- **ip status**: trade-secret
+- **prior art notes**: Waabi (Toronto 2021+; ~$1B raised) is the most architecturally-distinct AV company (generative-AI simulation-first). 4-year-deep public-disclosure prior art.

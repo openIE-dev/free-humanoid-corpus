@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 105 (98 commons-grade, 7 draft)  
+**Entries:** 106 (99 commons-grade, 7 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2025-10
 
@@ -1252,6 +1252,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-01 — ZeroErr eRob (Chinese joint actuators for humanoids)
+
+- **id:** `zeroerr-erob-2016`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** ZeroErr (Guangdong, China)
+- **disclosure citation:** ZeroErr (Guangdong, China; founded ~2016). Joint actuator + magnetic-encoder specialist for harmonic-reducer-based humanoid joints.
+- **disclosed subsystems:** `actuator-component`, `actuator-electric`
+
+**Prior art notes:**
+
+> ZeroErr eRob (Guangdong 2016+) is the Chinese joint-actuator + magnetic-encoder component supplier for humanoid OEMs. 9-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. kr-asia.com/behind-the-robotics-boom-zeroerr-raises-funds-to-build-the-parts-that-power-it
+
+---
+
 ### 2016-03 — Indego modular powered lower-limb exoskeleton
 
 - **id:** `indego-vanderbilt-parker-2016`
@@ -2140,4 +2159,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

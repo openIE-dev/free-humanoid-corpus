@@ -1,7 +1,7 @@
 ---
 title: "mechanism-3d-printed-platform"
 parent: "Invalidity Contentions"
-nav_order: 168
+nav_order: 173
 layout: default
 ---
 
@@ -156,4 +156,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

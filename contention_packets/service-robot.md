@@ -1,7 +1,7 @@
 ---
 title: "service-robot"
 parent: "Invalidity Contentions"
-nav_order: 248
+nav_order: 254
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `service-robot`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 2004-01  
 **Most recent disclosure:** 2019-01
 
@@ -97,6 +97,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-01 — Telexistence TX Inc. (Japan retail / convenience-store humanoid)
+
+- **id:** `telexistence-tx-inc-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Telexistence Inc. (Tokyo, Japan); Susumu Tachi research lineage; Jin Tomioka CEO
+- **disclosure citation:** Telexistence Inc. (Tokyo, Japan; founded 2017 by Jin Tomioka with research lineage from Susumu Tachi's TELESAR 1988). TX GHOST drink-restocker deployed in 300+ FamilyMart/Lawson stores since 2022. TX Astra VLA-powered humanoid in joint dev with Seven-Eleven for 2029.
+- **disclosed subsystems:** `service-robot`, `control-teleoperation`
+
+**Prior art notes:**
+
+> Telexistence TX Inc. (Tokyo 2017+) is the most commercially-deployed Japanese retail robot. 8-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. businesswire.com/news/home/20250929797616/en/Seven-Eleven-Japan-and-Telexistence-Partner-to-Pioneer-Humanoid-Robots
+
+---
+
 ### 2019-01 — Pudu BellaBot (cat-faced restaurant delivery robot)
 
 - **id:** `pudu-bellabot-2019`
@@ -146,4 +165,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

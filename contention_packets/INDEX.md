@@ -9,8 +9,8 @@ layout: default
 # Invalidity Contention Packets
 
 **Generated:** 2026-05-10  
-**Packets:** 261  
-**Corpus revision:** `2aee416`
+**Packets:** 267  
+**Corpus revision:** `b980619`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -33,7 +33,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-compliant`](actuator-compliant.md) | 3 | 3 | 0 | 1957-01 | 2017-04 |
 | [`actuator-diesel`](actuator-diesel.md) | 2 | 2 | 0 | 2016-04 | 2017-06 |
 | [`actuator-diesel-electric-hybrid`](actuator-diesel-electric-hybrid.md) | 2 | 2 | 0 | 2017-03 | 2019-02 |
-| [`actuator-electric`](actuator-electric.md) | 105 | 98 | 7 | 1956-01 | 2025-10 |
+| [`actuator-electric`](actuator-electric.md) | 106 | 99 | 7 | 1956-01 | 2025-10 |
 | [`actuator-electric-cycloidal`](actuator-electric-cycloidal.md) | 5 | 2 | 3 | 1937 | 2025-04 |
 | [`actuator-electric-direct-drive`](actuator-electric-direct-drive.md) | 69 | 51 | 18 | 1886 | 2024-11 |
 | [`actuator-electric-harmonic-drive`](actuator-electric-harmonic-drive.md) | 22 | 19 | 3 | 1986 | 2025-10 |
@@ -49,8 +49,9 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-soft-elastomeric`](actuator-soft-elastomeric.md) | 3 | 3 | 0 | 2014-09 | 2021-11 |
 | [`actuator-spherical-multi-dof`](actuator-spherical-multi-dof.md) | 2 | 2 | 0 | 2020 | 2023-10 |
 | [`actuator-variable-stiffness`](actuator-variable-stiffness.md) | 2 | 2 | 0 | 2005-04 | 2015-06 |
-| [`agriculture-robot`](agriculture-robot.md) | 8 | 8 | 0 | 1992-08 | 2022-12 |
-| [`autonomous-vehicle`](autonomous-vehicle.md) | 10 | 10 | 0 | 1999-01 | 2018-04 |
+| [`agriculture-robot`](agriculture-robot.md) | 9 | 9 | 0 | 1992-08 | 2022-12 |
+| [`ai-foundation-model`](ai-foundation-model.md) | 6 | 6 | 0 | 2014-03 | 2024-01 |
+| [`autonomous-vehicle`](autonomous-vehicle.md) | 11 | 11 | 0 | 1999-01 | 2021-06 |
 | [`auv`](auv.md) | 11 | 11 | 0 | 1957-08 | 2022-02 |
 | [`auv-glider`](auv-glider.md) | 2 | 2 | 0 | 2001-01 | 2020-07 |
 | [`auv-hovering`](auv-hovering.md) | 2 | 2 | 0 | 1995-06 | 2006-04 |
@@ -86,7 +87,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-egocentric-video-pretraining`](control-egocentric-video-pretraining.md) | 3 | 3 | 0 | 2021-08 | 2025-03 |
 | [`control-encoder-decoder`](control-encoder-decoder.md) | 2 | 2 | 0 | 2014-09 | 2015-05 |
 | [`control-feature-matching`](control-feature-matching.md) | 2 | 2 | 0 | 2024-05 | 2024-06 |
-| [`control-foundation-model`](control-foundation-model.md) | 17 | 15 | 2 | 1997-11 | 2025-11 |
+| [`control-foundation-model`](control-foundation-model.md) | 20 | 18 | 2 | 1997-11 | 2025-11 |
 | [`control-foundation-model-perception`](control-foundation-model-perception.md) | 30 | 27 | 3 | 2009-06 | 2026-04 |
 | [`control-foundation-model-policy`](control-foundation-model-policy.md) | 20 | 15 | 5 | 2021-06 | 2025-10 |
 | [`control-gait-rehabilitation`](control-gait-rehabilitation.md) | 2 | 2 | 0 | 1999-01 | 2012-02 |
@@ -122,13 +123,14 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-multimodal-sensor-fusion`](control-multimodal-sensor-fusion.md) | 2 | 2 | 0 | 2009-01 | 2017-04 |
 | [`control-musculoskeletal-modeling`](control-musculoskeletal-modeling.md) | 3 | 2 | 1 | 2003-01 | 2016-08 |
 | [`control-myoelectric`](control-myoelectric.md) | 3 | 3 | 0 | 1963-01 | 2007-07 |
+| [`control-natural-language-instruction`](control-natural-language-instruction.md) | 2 | 2 | 0 | 2022-01 | 2025-04 |
 | [`control-network-protocol`](control-network-protocol.md) | 2 | 2 | 0 | 2014-09 | 2017-03 |
 | [`control-neural-decoding`](control-neural-decoding.md) | 2 | 2 | 0 | 2002-07 | 2017-04 |
 | [`control-neural-network-training`](control-neural-network-training.md) | 3 | 3 | 0 | 1986-10 | 2015-02 |
 | [`control-novel-view-synthesis`](control-novel-view-synthesis.md) | 6 | 5 | 1 | 2020-03 | 2025-04 |
 | [`control-object-detection`](control-object-detection.md) | 2 | 2 | 0 | 2015-06 | 2015-06 |
 | [`control-open-loop-gait`](control-open-loop-gait.md) | 2 | 2 | 0 | 2013-05 | 2026-01 |
-| [`control-open-source`](control-open-source.md) | 3 | 3 | 0 | 2011-01 | 2015-09 |
+| [`control-open-source`](control-open-source.md) | 4 | 4 | 0 | 2011-01 | 2016-01 |
 | [`control-open-vocabulary`](control-open-vocabulary.md) | 4 | 3 | 1 | 2023-03 | 2026-04 |
 | [`control-operational-space`](control-operational-space.md) | 2 | 2 | 0 | 2016-04 | 2022-07 |
 | [`control-optimal-control`](control-optimal-control.md) | 3 | 3 | 0 | 1960-03 | 2017-04 |
@@ -156,7 +158,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-stored-program`](control-stored-program.md) | 2 | 2 | 0 | 1954-12 | 1961-01 |
 | [`control-supervised-autonomy`](control-supervised-autonomy.md) | 3 | 2 | 1 | 2015-06 | 2020-01 |
 | [`control-swarm`](control-swarm.md) | 2 | 2 | 0 | 2011-01 | 2016-10 |
-| [`control-teleoperation`](control-teleoperation.md) | 33 | 28 | 5 | 1956-07 | 2024-07 |
+| [`control-teleoperation`](control-teleoperation.md) | 34 | 29 | 5 | 1956-07 | 2024-07 |
 | [`control-tethered`](control-tethered.md) | 4 | 4 | 0 | 1965-01 | 2003-01 |
 | [`control-tethered-teleoperation`](control-tethered-teleoperation.md) | 5 | 5 | 0 | 1989-04 | 2008-05 |
 | [`control-trajectory-optimization`](control-trajectory-optimization.md) | 4 | 4 | 0 | 2012-10 | 2025-03 |
@@ -182,13 +184,16 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`exoskeleton-upper-limb`](exoskeleton-upper-limb.md) | 4 | 4 | 0 | 2012-02 | 2018-01 |
 | [`food-prep-robot`](food-prep-robot.md) | 2 | 2 | 0 | 2017-03 | 2019-09 |
 | [`hov`](hov.md) | 8 | 8 | 0 | 1984-12 | 2020-11 |
+| [`humanoid-bipedal`](humanoid-bipedal.md) | 7 | 7 | 0 | 2014-01 | 2023-01 |
+| [`humanoid-wheeled`](humanoid-wheeled.md) | 2 | 2 | 0 | 2022-01 | 2025-11 |
 | [`lander-asteroid`](lander-asteroid.md) | 2 | 2 | 0 | 2014-11 | 2016-09 |
 | [`lander-lunar`](lander-lunar.md) | 2 | 2 | 0 | 2024-01 | 2025-03 |
 | [`lander-sample-return`](lander-sample-return.md) | 2 | 2 | 0 | 1970-09 | 2024-05 |
-| [`manipulator-arm`](manipulator-arm.md) | 39 | 39 | 0 | 1954-12 | 2021-09 |
-| [`manipulator-cobot`](manipulator-cobot.md) | 12 | 12 | 0 | 1991-01 | 2017-09 |
+| [`manipulator-arm`](manipulator-arm.md) | 44 | 44 | 0 | 1954-12 | 2021-09 |
+| [`manipulator-cobot`](manipulator-cobot.md) | 16 | 16 | 0 | 1991-01 | 2018-01 |
 | [`manipulator-delta`](manipulator-delta.md) | 2 | 2 | 0 | 1985-01 | 1998-01 |
 | [`manipulator-dual-arm`](manipulator-dual-arm.md) | 3 | 3 | 0 | 2010-04 | 2015-04 |
+| [`manipulator-mobile`](manipulator-mobile.md) | 2 | 2 | 0 | 2010-04 | 2022-04 |
 | [`manipulator-modular`](manipulator-modular.md) | 2 | 2 | 0 | 2019-09 | 2021-09 |
 | [`manipulator-parallel`](manipulator-parallel.md) | 2 | 2 | 0 | 1985-01 | 2011-01 |
 | [`manipulator-scara`](manipulator-scara.md) | 2 | 2 | 0 | 1978-01 | 1983-01 |
@@ -246,13 +251,14 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`power-li-po`](power-li-po.md) | 3 | 3 | 0 | 2010 | 2022 |
 | [`power-pressure-balanced-li-ion`](power-pressure-balanced-li-ion.md) | 3 | 2 | 1 | 2003-09 | 2018-04 |
 | [`power-tethered`](power-tethered.md) | 13 | 11 | 2 | 1973 | 2017-11 |
-| [`rl-infrastructure`](rl-infrastructure.md) | 4 | 4 | 0 | 2004-01 | 2017-05 |
+| [`quadruped-robot`](quadruped-robot.md) | 3 | 3 | 0 | 1999-05 | 2017-08 |
+| [`rl-infrastructure`](rl-infrastructure.md) | 7 | 7 | 0 | 2004-01 | 2023-10 |
 | [`rov`](rov.md) | 6 | 6 | 0 | 1965-01 | 2019-04 |
 | [`rover-planetary`](rover-planetary.md) | 9 | 9 | 0 | 1970-11 | 2024-01 |
 | [`safety-emergency-stop`](safety-emergency-stop.md) | 5 | 5 | 0 | 1982-12 | 2017-05 |
 | [`safety-hard-constraint`](safety-hard-constraint.md) | 58 | 57 | 1 | -0250 | 2024-05-24 |
 | [`safety-simplex-supervisor`](safety-simplex-supervisor.md) | 8 | 8 | 0 | 1940-09 | 2019-05 |
-| [`sensing-3d-perception`](sensing-3d-perception.md) | 4 | 4 | 0 | 2007-01 | 2023-01 |
+| [`sensing-3d-perception`](sensing-3d-perception.md) | 6 | 6 | 0 | 2007-01 | 2023-01 |
 | [`sensing-asynchronous-vision`](sensing-asynchronous-vision.md) | 2 | 2 | 0 | 2008-02 | 2020-09 |
 | [`sensing-cortical-implant`](sensing-cortical-implant.md) | 2 | 2 | 0 | 2002-07 | 2017-04 |
 | [`sensing-depth-camera`](sensing-depth-camera.md) | 2 | 2 | 0 | 2010-11 | 2015-01 |
@@ -274,7 +280,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`sensing-tactile-fingertip`](sensing-tactile-fingertip.md) | 16 | 16 | 0 | 1973 | 2025-11 |
 | [`sensing-tactile-vision-based`](sensing-tactile-vision-based.md) | 5 | 4 | 1 | 2017-04 | 2024-11 |
 | [`sensing-tactile-whole-body`](sensing-tactile-whole-body.md) | 7 | 7 | 0 | 1989-05 | 2015-04 |
-| [`service-robot`](service-robot.md) | 4 | 4 | 0 | 2004-01 | 2019-01 |
+| [`service-robot`](service-robot.md) | 5 | 5 | 0 | 2004-01 | 2019-01 |
 | [`simulator`](simulator.md) | 2 | 2 | 0 | 2004-01 | 2013-11 |
 | [`software-mjbots-stack`](software-mjbots-stack.md) | 2 | 2 | 0 | 2019 | 2022 |
 | [`software-ros1`](software-ros1.md) | 18 | 18 | 0 | 2002 | 2019-09 |
@@ -287,4 +293,4 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`uav-male`](uav-male.md) | 2 | 2 | 0 | 1994-07 | 2014-08 |
 | [`uav-quadrotor`](uav-quadrotor.md) | 4 | 4 | 0 | 2007-01 | 2011-01 |
 | [`usv`](usv.md) | 4 | 4 | 0 | 2007-01 | 2017-06 |
-| [`warehouse-robot`](warehouse-robot.md) | 10 | 10 | 0 | 1996-01 | 2017-10 |
+| [`warehouse-robot`](warehouse-robot.md) | 14 | 14 | 0 | 1996-01 | 2022-01 |

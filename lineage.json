@@ -1431,6 +1431,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "agile-robots-chen-2018",
         "dlr-hand-arm-system-2011",
         "franka-emika-panda-2017",
         "kuka-lbr-iiwa-2013"
@@ -1913,7 +1914,9 @@
       "year": "1999",
       "corpus": "private",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "mentee-robotics-shashua-2022"
+      ]
     },
     {
       "id": "videoray-pro-1999",
@@ -3748,6 +3751,14 @@
       "descendants": []
     },
     {
+      "id": "standard-bots-2011",
+      "name": "Standard Bots (US industrial cobot leader)",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "northrop-grumman-x-47b-2011",
       "name": "Northrop Grumman X-47B (carrier-based stealth UCAV)",
       "year": "2011",
@@ -4332,6 +4343,16 @@
       ]
     },
     {
+      "id": "halodi-robotics-1x-precursor-2014",
+      "name": "Halodi Robotics EVE (Norwegian 1X predecessor)",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "1x-neo"
+      ]
+    },
+    {
       "id": "jaka-robotics-zu-2014",
       "name": "JAKA Robotics Zu cobots (wireless-teach)",
       "year": "2014",
@@ -4360,6 +4381,14 @@
       "name": "TCP Twisted-and-Coiled Polymer Muscle (Haines/Baughman Science 2014)",
       "year": "2014",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "preferred-networks-pfn-2014",
+      "name": "Preferred Networks (Japan AI lab; Toyota-backed)",
+      "year": "2014",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -4684,6 +4713,14 @@
       "descendants": []
     },
     {
+      "id": "dobot-yuejiang-2015",
+      "name": "Dobot / Yuejiang (largest Chinese cobot maker; first HKEx cobot IPO)",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "intel-realsense-2015",
       "name": "Intel RealSense depth camera lineage",
       "year": "2015",
@@ -4709,6 +4746,14 @@
       "ancestors": [
         "stanford-gecko-cutkosky-2015"
       ],
+      "descendants": []
+    },
+    {
+      "id": "rokae-robotics-2015",
+      "name": "Rokae Robotics (Chinese collaborative + industrial robots)",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -5030,6 +5075,22 @@
       ]
     },
     {
+      "id": "anybotics-anymal-eth-2016",
+      "name": "ANYbotics ANYmal (ETH Zurich industrial quadruped)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "apera-ai-4d-vision-2016",
+      "name": "Apera AI 4D Vision (Canadian bin-pick vision software)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ehang-184-2016",
       "name": "EHang 184 / 216 (first autonomous passenger drone)",
       "year": "2016",
@@ -5046,6 +5107,34 @@
       "descendants": []
     },
     {
+      "id": "leju-kuavo-2016",
+      "name": "Leju Robotics Kuavo (Chinese state-aligned humanoid)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mech-mind-robotics-2016",
+      "name": "Mech-Mind Robotics (3D vision + AI for industrial manipulation)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pollen-robotics-huggingface-2016",
+      "name": "Pollen Robotics Reachy (HuggingFace open-source humanoid hardware)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [
+        "huggingface-lerobot-2024",
+        "reachy-1-pollen-2017",
+        "reachy-2-pollen-2023"
+      ],
+      "descendants": []
+    },
+    {
       "id": "pybullet-coumans-2017",
       "name": "PyBullet",
       "year": "2016",
@@ -5056,6 +5145,22 @@
     {
       "id": "saga-thorvald-2016",
       "name": "Saga Robotics Thorvald (modular Norwegian agbot)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tevel-aerobotics-2016",
+      "name": "Tevel Aerobotics (Israeli autonomous fruit-picking drones)",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "zeroerr-erob-2016",
+      "name": "ZeroErr eRob (Chinese joint actuators for humanoids)",
       "year": "2016",
       "corpus": "private",
       "ancestors": [],
@@ -5283,6 +5388,22 @@
       "ancestors": [
         "honda-walking-assist-2009"
       ],
+      "descendants": []
+    },
+    {
+      "id": "telexistence-tx-inc-2017",
+      "name": "Telexistence TX Inc. (Japan retail / convenience-store humanoid)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wandelbots-2017",
+      "name": "Wandelbots Tracepen ('Windows for Robots')",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -5536,6 +5657,14 @@
       "descendants": []
     },
     {
+      "id": "deep-robotics-yunshenchu-2017",
+      "name": "DEEP Robotics (Yunshenchu Hangzhou industrial quadruped)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "globus-excelsius-gps-spine-2017",
       "name": "Globus Medical ExcelsiusGPS spine surgical robot",
       "year": "2017",
@@ -5591,6 +5720,7 @@
         "poppy-humanoid"
       ],
       "descendants": [
+        "pollen-robotics-huggingface-2016",
         "reachy",
         "reachy-2-pollen-2023"
       ]
@@ -5727,6 +5857,24 @@
       "descendants": []
     },
     {
+      "id": "agile-robots-chen-2018",
+      "name": "Agile Robots (DLR spinout; first claimed robotics unicorn)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "dlr-lwr-1991-2003"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "beyond-imagination-beomni-2018",
+      "name": "Beyond Imagination Beomni (Kurzweil/Kamen-advised teleoperation humanoid)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "dm-control-suite-tassa-2018",
       "name": "DeepMind Control Suite",
       "year": "2018",
@@ -5772,6 +5920,14 @@
       "ancestors": [
         "belgrade-usc-tomovic-bekey-hand-1963"
       ],
+      "descendants": []
+    },
+    {
+      "id": "path-robotics-lonsberry-2018",
+      "name": "Path Robotics (autonomous welding-specific perception)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -6191,7 +6347,8 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
-        "fair-habitat-3-puig-2024"
+        "fair-habitat-3-puig-2024",
+        "meta-fair-robotics-2023"
       ]
     },
     {
@@ -6565,6 +6722,14 @@
       "descendants": []
     },
     {
+      "id": "sereact-pickgpt-2021",
+      "name": "Sereact PickGPT (first commercial robotics transformer)",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "boeing-mq-28-ghost-bat-2021",
       "name": "Boeing MQ-28 Ghost Bat (Loyal Wingman / CCA)",
       "year": "2021",
@@ -6685,6 +6850,14 @@
         "unitree-go2-2023",
         "unitree-h1"
       ]
+    },
+    {
+      "id": "waabi-urtasun-2021",
+      "name": "Waabi (Urtasun generative-AI neural simulator AV)",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "alphafold2-jumper-deepmind-2021",
@@ -6921,6 +7094,16 @@
       "descendants": []
     },
     {
+      "id": "mentee-robotics-shashua-2022",
+      "name": "Mentee Robotics MenteeBot (Shashua Israeli humanoid; Mobileye acquisition)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [
+        "mobileye-intel-acquisition-1999"
+      ],
+      "descendants": []
+    },
+    {
       "id": "miki-perceptive-anymal-science-2022",
       "name": "Perceptive ANYmal locomotion (Miki Science Robotics 2022)",
       "year": "2022",
@@ -6928,6 +7111,22 @@
       "ancestors": [
         "hwangbo-anymal-sim2real"
       ],
+      "descendants": []
+    },
+    {
+      "id": "mytra-walti-2022",
+      "name": "Mytra (3D-grid warehouse storage; ex-Tesla Optimus head)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "reflex-robotics-mentese-2022",
+      "name": "Reflex Robotics (NYC wheeled humanoid)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -6962,6 +7161,14 @@
         "humanplus-stanford-2024",
         "maskedmimic-tessler-stanford-2024"
       ]
+    },
+    {
+      "id": "cobot-collaborative-porter-2022",
+      "name": "Cobot / Collaborative Robotics (Proxie wheeled-arm cobot)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "flamingo-alayrac-deepmind-2022",
@@ -7082,6 +7289,7 @@
       ],
       "descendants": [
         "bridgedata-v2-walke-2023",
+        "deepmind-rt-2-autort-2023",
         "octo-policy",
         "open-x-embodiment",
         "openai-rt-2",
@@ -7109,6 +7317,22 @@
       "descendants": []
     },
     {
+      "id": "field-ai-agha-2023",
+      "name": "Field AI (outdoor / risk-aware foundation models)",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "foundation-robotics-phantom-2023",
+      "name": "Foundation Robotics Labs Phantom (defense humanoid; rolling-contact gearboxes)",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "linkerbot-linker-hand-beijing-2023",
       "name": "Linkerbot Linker Hand (Beijing)",
       "year": "2023",
@@ -7124,6 +7348,14 @@
     {
       "id": "manus-quantum-metagloves-2023",
       "name": "Manus Quantum Metagloves",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "skild-ai-pathak-gupta-2023",
+      "name": "Skild AI (OmniBrain robotics foundation model)",
       "year": "2023",
       "corpus": "private",
       "ancestors": [],
@@ -7307,6 +7539,16 @@
         "octo-policy",
         "openvla"
       ]
+    },
+    {
+      "id": "deepmind-rt-2-autort-2023",
+      "name": "DeepMind RT-2 + AutoRT + SARA-RT + RT-Trajectory",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "rt-1"
+      ],
+      "descendants": []
     },
     {
       "id": "fourier-gr1",
@@ -7511,7 +7753,9 @@
       "ancestors": [
         "fair-habitat-sim-2019"
       ],
-      "descendants": []
+      "descendants": [
+        "meta-fair-robotics-2023"
+      ]
     },
     {
       "id": "figure-01",
@@ -7525,6 +7769,17 @@
       "descendants": [
         "figure-02"
       ]
+    },
+    {
+      "id": "meta-fair-robotics-2023",
+      "name": "Meta FAIR robotics (Habitat 3.0 + Spot studies)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "fair-habitat-3-puig-2024",
+        "fair-habitat-sim-2019"
+      ],
+      "descendants": []
     },
     {
       "id": "open-x-embodiment",
@@ -7556,7 +7811,9 @@
       "ancestors": [
         "reachy-1-pollen-2017"
       ],
-      "descendants": []
+      "descendants": [
+        "pollen-robotics-huggingface-2016"
+      ]
     },
     {
       "id": "rt-x-collaboration-2023",
@@ -7640,6 +7897,7 @@
       "corpus": "private",
       "ancestors": [
         "asimo",
+        "halodi-robotics-1x-precursor-2014",
         "icub"
       ],
       "descendants": []
@@ -7679,6 +7937,14 @@
     {
       "id": "fourier-gr1-2024",
       "name": "Fourier GR1",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "generalist-ai-zeng-florence-barry-2024",
+      "name": "Generalist AI (Zeng/Florence/Barry robotics-FM)",
       "year": "2024",
       "corpus": "private",
       "ancestors": [],
@@ -7776,7 +8042,8 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
-        "leflexitac-columbia-2025"
+        "leflexitac-columbia-2025",
+        "pollen-robotics-huggingface-2016"
       ]
     },
     {

@@ -1,7 +1,7 @@
 ---
 title: "control-vision-language"
 parent: "Invalidity Contentions"
-nav_order: 137
+nav_order: 139
 layout: default
 ---
 
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

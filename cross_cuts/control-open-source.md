@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-open-source`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2011-01
 
@@ -41,3 +41,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Comma.ai (San Diego, CA, USA; founded September 2015 by George Hotz). Open-source openpilot ADAS aftermarket retrofit.
 - **ip status**: open-permissive (MIT)
 - **prior art notes**: Comma.ai openpilot (San Diego 2015+) is the open-source aftermarket ADAS alternative. 10-year-deep open-permissive prior art.
+
+## Pollen Robotics Reachy (HuggingFace open-source humanoid hardware) (2016-01)
+
+- **id**: `pollen-robotics-huggingface-2016`
+- **corpus**: private
+- **creator**: Pollen Robotics (Bordeaux, France); Matthieu Lapeyre + Pierre Rouanet (ex-Inria Flowers)
+- **disclosure**: Pollen Robotics (Bordeaux, France; founded 2016 by Matthieu Lapeyre + Pierre Rouanet, ex-Inria Flowers Lab). Acquired by Hugging Face April 2025.
+- **ip status**: open-permissive
+- **prior art notes**: Pollen Robotics Reachy (Bordeaux 2016+; → Hugging Face 2025) is the open-source Reachy humanoid + Hugging Face LeRobot hardware arm. 9-year-deep open-permissive prior art.

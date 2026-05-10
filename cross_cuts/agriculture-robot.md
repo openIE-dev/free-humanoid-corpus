@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `agriculture-robot`
 
-**8 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1992-08
 
@@ -50,6 +50,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Saga Robotics (Oslo, Norway; founded 2016 from NMBU thesis). Thorvald modular field robot. UV-C mildew control on strawberries + grapevines.
 - **ip status**: trade-secret
 - **prior art notes**: Saga Robotics Thorvald (Oslo 2016+) is the modular Norwegian agbot for UV-C mildew control. 9-year-deep public-disclosure prior art.
+
+## Tevel Aerobotics (Israeli autonomous fruit-picking drones) (2016-01)
+
+- **id**: `tevel-aerobotics-2016`
+- **corpus**: private
+- **creator**: Tevel Aerobotics Technologies (Israel); Yaniv Maor founder
+- **disclosure**: Tevel Aerobotics Technologies (Israel; founded 2016 by Yaniv Maor). Active deployments in Italy / US / Chile / Israel.
+- **ip status**: trade-secret
+- **prior art notes**: Tevel Aerobotics (Israel 2016+) is the autonomous-aerial-fruit-picking niche specialist. 9-year-deep public-disclosure prior art.
 
 ## Octinion Rubion (first commercial strawberry-picking robot) (2019-02)
 

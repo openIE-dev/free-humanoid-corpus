@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `manipulator-arm`
 
-**39 corpus entries disclose this subsystem.**
+**44 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1954-12
 
@@ -204,6 +204,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Mazor Robotics SpineAssist + Renaissance + Mazor X (Caesarea Israel 2004-2017+; Medtronic 2018) is the bone-mounted spine surgical guidance system. 21-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from bone-mounted parallel-mechanism surgical guidance arms.
 
+## Standard Bots (US industrial cobot leader) (2011-01)
+
+- **id**: `standard-bots-2011`
+- **corpus**: private
+- **creator**: Standard Bots (Glen Cove, NY, USA); Evan Beard + David Golden
+- **disclosure**: Standard Bots (Glen Cove, NY, USA; founded 2011 by Evan Beard + David Golden). Self-described largest US industrial-robotics company by units shipped.
+- **ip status**: trade-secret
+- **prior art notes**: Standard Bots (Glen Cove 2011+) is the self-described largest US industrial-robotics company by units. 14-year-deep public-disclosure prior art.
+
 ## Mujin (first humanless warehouse; JD.com 2018) (2011-07)
 
 - **id**: `mujin-2011`
@@ -248,6 +257,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: JAKA Robotics Co., Ltd. (Shanghai, China; founded 2014). Zu5 cobot launch ~2017; Zu7 / Zu12 / Pro variants subsequent. First commercially deployed wireless-teach cobot.
 - **ip status**: trade-secret
 - **prior art notes**: JAKA Robotics Zu (Shanghai 2014+) is the first commercially deployed wireless-teach cobot. 11-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from wireless-teach cobots or Shanghai-based Chinese cobot specialists.
+
+## Dobot / Yuejiang (largest Chinese cobot maker; first HKEx cobot IPO) (2015-01)
+
+- **id**: `dobot-yuejiang-2015`
+- **corpus**: private
+- **creator**: Yuejiang Technology / Dobot (Shenzhen, China)
+- **disclosure**: Yuejiang Technology / Dobot (Shenzhen, China; founded 2015). Largest Chinese cobot maker (~13% global cobot share). First Chinese cobot maker to IPO (HKEX December 2024, $87M).
+- **ip status**: trade-secret
+- **prior art notes**: Dobot / Yuejiang (Shenzhen 2015+) is the largest Chinese cobot maker + first Chinese cobot HKEx IPO. 10-year-deep public-disclosure prior art.
+
+## Rokae Robotics (Chinese collaborative + industrial robots) (2015-01)
+
+- **id**: `rokae-robotics-2015`
+- **corpus**: private
+- **creator**: Rokae Robotics (Beijing, China)
+- **disclosure**: Rokae Robotics (Beijing, China; founded 2015). ~$210M raised including $69M Series E (April 2024). Near-unicorn status.
+- **ip status**: trade-secret
+- **prior art notes**: Rokae Robotics (Beijing 2015+) is a top-3 Chinese cobot maker by valuation. 10-year-deep public-disclosure prior art.
 
 ## ABB YuMi IRB 14000 dual-arm cobot (2015-04)
 
@@ -338,6 +365,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yaskawa Electric Corporation (Kitakyushu, Japan; founded 1915). Motoman HC10 commercial reveal September 2017. Yaskawa's first cobot. Yaskawa is the largest Japanese industrial-robot OEM by revenue.
 - **ip status**: trade-secret
 - **prior art notes**: Yaskawa Motoman HC10 (Kitakyushu 2017+) is Yaskawa's first cobot and the Japanese cobot answer to Universal Robots. 8-year-deep public-disclosure prior art. Direct shielding for any commercial humanoid claim deriving from Japanese-OEM cobots.
+
+## Path Robotics (autonomous welding-specific perception) (2018-01)
+
+- **id**: `path-robotics-lonsberry-2018`
+- **corpus**: private
+- **creator**: Path Robotics (Columbus, OH, USA); Andy + Alex Lonsberry brothers
+- **disclosure**: Path Robotics (Columbus, OH, USA; founded 2018 by Andy Lonsberry + Alex Lonsberry, brothers).
+- **ip status**: trade-secret
+- **prior art notes**: Path Robotics (Columbus 2018+) is the autonomous-welding vertical specialist. 7-year-deep public-disclosure prior art.
+
+## Agile Robots (DLR spinout; first claimed robotics unicorn) (2018-01)
+
+- **id**: `agile-robots-chen-2018`
+- **corpus**: private
+- **creator**: Agile Robots (Munich, Germany); Zhaopeng Chen (ex-DLR Modular Dexterous Lab) + Peter Meusel
+- **disclosure**: Agile Robots (Munich, Germany + Chinese ops; founded 2018 by Zhaopeng Chen, ex-DLR Modular Dexterous Lab deputy director, + Peter Meusel). First claimed robotics unicorn (2021 Series C $220M SoftBank Vision Fund 2-led). Agile ONE industrial humanoid planned 2026.
+- **ip status**: trade-secret
+- **prior art notes**: Agile Robots (Munich 2018+) is the DLR-spinout first claimed robotics unicorn. 7-year-deep public-disclosure prior art.
 
 ## Octinion Rubion (first commercial strawberry-picking robot) (2019-02)
 

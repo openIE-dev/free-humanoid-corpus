@@ -1,7 +1,7 @@
 ---
 title: "control-capture-point"
 parent: "Invalidity Contentions"
-nav_order: 47
+nav_order: 48
 layout: default
 ---
 
@@ -110,4 +110,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `humanoid-wheeled`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2025-11
+Earliest disclosure: 2022-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Reflex Robotics (NYC wheeled humanoid) (2022-01)
+
+- **id**: `reflex-robotics-mentese-2022`
+- **corpus**: private
+- **creator**: Reflex Robotics (Brooklyn, NY, USA); Enes Mentese (ex-MIT/Boston Dynamics/Tesla)
+- **disclosure**: Reflex Robotics (Brooklyn, NY, USA; founded 2022 by Enes Mentese, ex-MIT/Boston Dynamics/Tesla).
+- **ip status**: trade-secret
+- **prior art notes**: Reflex Robotics (Brooklyn 2022+) is the NYC-native low-cost wheeled humanoid. 3-year-deep public-disclosure prior art.
 
 ## Sunday Robotics Memo (household humanoid; Tony Zhao + Cheng Chi) (2025-11)
 

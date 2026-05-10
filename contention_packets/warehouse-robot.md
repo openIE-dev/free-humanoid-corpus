@@ -1,7 +1,7 @@
 ---
 title: "warehouse-robot"
 parent: "Invalidity Contentions"
-nav_order: 261
+nav_order: 267
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `warehouse-robot`  
-**Entries:** 10 (10 commons-grade, 0 draft)  
+**Entries:** 14 (14 commons-grade, 0 draft)  
 **Earliest disclosure:** 1996-01  
-**Most recent disclosure:** 2017-10
+**Most recent disclosure:** 2022-01
 
 ---
 
@@ -192,6 +192,44 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-01 — Mech-Mind Robotics (3D vision + AI for industrial manipulation)
+
+- **id:** `mech-mind-robotics-2016`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Mech-Mind Robotics (Beijing, China); Shao Tianlan
+- **disclosure citation:** Mech-Mind Robotics (Beijing, China; founded 2016 by Shao Tianlan). 15,000+ installations in 50+ countries.
+- **disclosed subsystems:** `sensing-3d-perception`, `warehouse-robot`
+
+**Prior art notes:**
+
+> Mech-Mind Robotics (Beijing 2016+) is the dominant Chinese industrial-vision software stack. 9-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Mech-Mind_Robotics
+
+---
+
+### 2016-01 — Apera AI 4D Vision (Canadian bin-pick vision software)
+
+- **id:** `apera-ai-4d-vision-2016`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Apera AI (Vancouver, Canada); Sina Afrooze (ex-AWS Alexa + Avigilon) + Armin Khatoonabadi
+- **disclosure citation:** Apera AI (Vancouver, Canada; founded 2016 by Sina Afrooze, ex-AWS Alexa voice + Avigilon, + Armin Khatoonabadi). Patented '4D Vision' for bin-pick / assembly / packaging.
+- **disclosed subsystems:** `warehouse-robot`, `sensing-3d-perception`
+
+**Prior art notes:**
+
+> Apera AI 4D Vision (Vancouver 2016+) is the Canadian industrial-vision-software player. 9-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. apera.ai/about-apera-ai/
+
+---
+
 ### 2017-02 — Boston Dynamics Handle + Pick (warehouse retrofits)
 
 - **id:** `boston-dynamics-handle-pick-2017`
@@ -230,6 +268,44 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-01 — Sereact PickGPT (first commercial robotics transformer)
+
+- **id:** `sereact-pickgpt-2021`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Sereact (Stuttgart, Germany); Ralf Gulde + Marc Tuscher (ex-Univ. Stuttgart AI)
+- **disclosure citation:** Sereact (Stuttgart, Germany; founded 2021 by Ralf Gulde + Marc Tuscher, ex-Univ. Stuttgart AI). $140M+ total funding. BMW + Daimler + Bol customers.
+- **disclosed subsystems:** `warehouse-robot`, `control-foundation-model`
+
+**Prior art notes:**
+
+> Sereact PickGPT (Stuttgart 2021+) is the canonical European warehouse-AI transformer foundation model. 4-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. eu-startups.com/2025/01/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/
+
+---
+
+### 2022-01 — Mytra (3D-grid warehouse storage; ex-Tesla Optimus head)
+
+- **id:** `mytra-walti-2022`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Mytra (Bay Area, USA); Chris Walti (ex-Tesla Optimus head) + Ahmad Baitalmal
+- **disclosure citation:** Mytra (Bay Area, USA; founded 2022 by Chris Walti, ex-Tesla Optimus head + Tesla warehouse logistics, + Ahmad Baitalmal, ex-Tesla/Rivian factory software). $78M Series B launch.
+- **disclosed subsystems:** `warehouse-robot`
+
+**Prior art notes:**
+
+> Mytra (Bay Area 2022+) is the ex-Tesla-Optimus-head 3D-grid warehouse play. 3-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. robotics247.com/article/mytra_founded_by_ex_tesla_and_rivian_robotics_leaders_launches_with_78_million_series_b
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -260,4 +336,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

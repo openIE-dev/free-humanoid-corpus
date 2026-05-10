@@ -1,7 +1,7 @@
 ---
 title: "autonomous-vehicle"
 parent: "Invalidity Contentions"
-nav_order: 24
+nav_order: 25
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `autonomous-vehicle`  
-**Entries:** 10 (10 commons-grade, 0 draft)  
+**Entries:** 11 (11 commons-grade, 0 draft)  
 **Earliest disclosure:** 1999-01  
-**Most recent disclosure:** 2018-04
+**Most recent disclosure:** 2021-06
 
 ---
 
@@ -231,6 +231,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-06 — Waabi (Urtasun generative-AI neural simulator AV)
+
+- **id:** `waabi-urtasun-2021`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Waabi Innovation Inc. (Toronto, Canada); Raquel Urtasun (ex-Uber ATG; U-Toronto faculty)
+- **disclosure citation:** Waabi Innovation Inc. (Toronto, Canada; founded 2021 by Raquel Urtasun, ex-Uber ATG Toronto head + University of Toronto faculty). $750M+$250M milestone funding (combined ~$1B by 2025).
+- **disclosed subsystems:** `autonomous-vehicle`, `rl-infrastructure`
+
+**Prior art notes:**
+
+> Waabi (Toronto 2021+; ~$1B raised) is the most architecturally-distinct AV company (generative-AI simulation-first). 4-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. utoronto.ca/news/self-driving-startup-waabi-makes-global-headlines
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -261,4 +280,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*

@@ -1,6 +1,6 @@
 # Corpus Index
 
-862 entries total. Generated from corpus.jsonl.
+892 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | Aethon TUG (foundational hospital logistics robot) | `aethon-tug-2004` | 2004 | private | trade-secret |  |
 | AgiBot A1 | `agibot-a1` | 2023 | private | patented | ✓ |
 | AgiBot X1 | `agibot-x1-2024` | 2024 | private | trade-secret | ✓ |
+| Agile Robots (DLR spinout; first claimed robotics unicorn) | `agile-robots-chen-2018` | 2018 | private | trade-secret |  |
 | Akira (Tetsuo cyborg-mutation, Akira containment) | `akira-tetsuo-1988` | 1982 | fictional | fictional |  |
 | AlexNet | `alexnet-krizhevsky-nips-2012` | 2012 | academic | public-domain |  |
 | Alita / Gally (Battle Angel Alita / Gunnm) | `battle-angel-alita` | 1990 | fictional | fictional |  |
@@ -40,9 +41,11 @@
 | Anduril Roadrunner (counter-UAS interceptor) | `anduril-roadrunner-2023` | 2023 | private | trade-secret |  |
 | Anthropic Claude robotics applications | `anthropic-claude-robotics-2025` | 2024 | private | trade-secret | ✓ |
 | AnyBody Modeling System | `anybody-rasmussen-2003` | 2003 | private | trade-secret | ✓ |
+| ANYbotics ANYmal (ETH Zurich industrial quadruped) | `anybotics-anymal-eth-2016` | 2016 | private | trade-secret |  |
 | AnyGrasp (Fang Lu SJTU 2023) | `anygrasp-fang-sjtu-2023` | 2023 | academic | open-permissive |  |
 | ANYmal | `anymal` | 2016 | private | patented |  |
 | ANYmal-D industrial quadruped (ETH RSL / ANYbotics) | `anymal-d-eth-rsl-2022` | 2022 | academic | public-domain |  |
+| Apera AI 4D Vision (Canadian bin-pick vision software) | `apera-ai-4d-vision-2016` | 2016 | private | trade-secret |  |
 | Apple Intelligence + Apple Robotics research (2025) | `apple-vla-research-2025` | 2025 | private | trade-secret | ✓ |
 | Apptronik Apollo | `apptronik-apollo` | 2023 | private | patented | ✓ |
 | Apptronik Apollo academic and technical disclosures (2023-2024) | `apptronik-apollo-publications-2024` | 2023 | academic | public-domain |  |
@@ -93,6 +96,7 @@
 | Berkeley Humanoid | `berkeley-humanoid-2024` | 2024 | academic | open-permissive |  |
 | Berkeley Humanoid Lite | `berkeley-humanoid-lite-2025` | 2025 | academic | open-permissive |  |
 | BERT (Bidirectional Encoder Representations from Transformers) | `bert-devlin-google-2018` | 2018 | academic | public-domain |  |
+| Beyond Imagination Beomni (Kurzweil/Kamen-advised teleoperation humanoid) | `beyond-imagination-beomni-2018` | 2018 | private | trade-secret |  |
 | Big Daddy (Bouncer / Rosie) | `bioshock-big-daddy` | 2007 | fictional | fictional |  |
 | Big O (The Big O) | `big-o-megadeus` | 1999 | fictional | fictional |  |
 | BiOM / iWalk / BionX → Empower Ankle (Hugh Herr) | `biom-empower-herr-mit-2007` | 2007 | private | trade-secret |  |
@@ -151,6 +155,7 @@
 | CMR Surgical Versius modular soft-tissue surgical robot | `cmr-versius-2019` | 2019 | private | trade-secret |  |
 | CMU HERB (Home Exploring Robotic Butler) | `cmu-herb-srinivasa-2012` | 2012 | academic | public-domain |  |
 | CMU Personal Robotics Lab Andy / HERB-2 follow-on platform | `cmu-andy-herb2-srinivasa-2014` | 2014 | academic | public-domain |  |
+| Cobot / Collaborative Robotics (Proxie wheeled-arm cobot) | `cobot-collaborative-porter-2022` | 2022 | private | trade-secret |  |
 | Collins-Ruina-Tedrake-Wisse passive-dynamic walker | `collins-ruina-tedrake-wisse-passive-walker-2005` | 2005 | academic | public-domain |  |
 | Comma.ai openpilot (open-source aftermarket ADAS) | `comma-ai-george-hotz-2015` | 2015 | open | open-permissive (MIT) |  |
 | Contact-Invariant Optimization (Mordatch CIO) | `mordatch-cio-2012` | 2012 | academic | public-domain |  |
@@ -190,9 +195,11 @@
 | Decision Transformer | `decision-transformer-chen-2021` | 2021 | academic | public-domain |  |
 | Decoupled STAR (DSTAR) | `dstar-zarrouk-2026` | 2026 | academic | open-permissive |  |
 | Deep Q-Network (DQN) | `dqn-mnih-deepmind-2013` | 2013 | academic | public-domain |  |
+| DEEP Robotics (Yunshenchu Hangzhou industrial quadruped) | `deep-robotics-yunshenchu-2017` | 2017 | private | trade-secret |  |
 | DeepMimic | `deepmimic-peng-siggraph-2018` | 2018 | academic | open-permissive |  |
 | DeepMind Control Suite | `dm-control-suite-tassa-2018` | 2018 | academic | open-permissive |  |
 | DeepMind humanoid soccer (Haarnoja et al.) | `deepmind-humanoid-soccer-haarnoja-2024` | 2024 | academic | open-permissive |  |
+| DeepMind RT-2 + AutoRT + SARA-RT + RT-Trajectory | `deepmind-rt-2-autort-2023` | 2023 | academic | academic-publication |  |
 | Deepsea Challenger (Cameron solo Challenger Deep) | `deepsea-challenger-cameron-2012` | 2012 | private | trade-secret |  |
 | Defunct social robots (Jibo + Anki Cozmo + Anki Vector) | `jibo-anki-defunct-social-robots-2017` | 2017 | private | trade-secret |  |
 | DEKA / Mobius Bionics LUKE Arm | `deka-mobius-luke-arm-2014` | 2014 | private | trade-secret |  |
@@ -221,6 +228,7 @@
 | DLR Justin (Rollin' Justin) | `dlr-justin` | 2009 | academic | open-permissive |  |
 | DLR Lightweight Robot LWR I/II/III (foundational torque-sensor arm) | `dlr-lwr-1991-2003` | 1991 | academic | academic-publication |  |
 | DLR TORO | `dlr-toro` | 2014 | academic | open-permissive |  |
+| Dobot / Yuejiang (largest Chinese cobot maker; first HKEx cobot IPO) | `dobot-yuejiang-2015` | 2015 | private | trade-secret |  |
 | Domain Randomization | `tobin-domain-randomization-2017` | 2017 | academic | public-domain |  |
 | Doosan Robotics M-series cobots | `doosan-robotics-cobots-2017` | 2017 | private | trade-secret |  |
 | Doraemon | `doraemon` | 1969 | fictional | fictional |  |
@@ -269,6 +277,7 @@
 | Festo FinGripper / Adaptive Bionic Gripper (Fin Ray Effect) | `festo-finray-fingripper-2009` | 2009 | private | trade-secret |  |
 | Festo OctopusGripper continuum bionic gripper | `festo-octopus-gripper-2017` | 2017 | private | trade-secret |  |
 | Fetch & Freight (Fetch Robotics) | `fetch-freight-fetchrobotics-2014` | 2014 | private | trade-secret |  |
+| Field AI (outdoor / risk-aware foundation models) | `field-ai-agha-2023` | 2023 | private | trade-secret |  |
 | Figure 01 | `figure-01` | 2023 | private | patented | ✓ |
 | Figure 02 | `figure-02` | 2024 | private | patented | ✓ |
 | Figure Helix | `figure-helix-2025` | 2025 | private | trade-secret |  |
@@ -276,6 +285,7 @@
 | Flamingo (DeepMind multimodal VLM) | `flamingo-alayrac-deepmind-2022` | 2022 | academic | trade-secret |  |
 | FLORES wheel-legged robot | `flores-wheel-legged-2025` | 2025 | academic | open-permissive | ✓ |
 | Force Dimension Sigma.7 | `force-dimension-sigma7-2010s` | 2011 | private | trade-secret |  |
+| Foundation Robotics Labs Phantom (defense humanoid; rolling-contact gearboxes) | `foundation-robotics-phantom-2023` | 2023 | private | trade-secret |  |
 | FoundationPose (NVIDIA) | `foundationpose-nvidia-cvpr-2024` | 2024 | academic | open-permissive |  |
 | Fourier GR-1 | `fourier-gr1` | 2023 | private | patented | ✓ |
 | Fourier GR1 | `fourier-gr1-2024` | 2024 | private | trade-secret |  |
@@ -294,6 +304,7 @@
 | GelSight | `gelsight` | 2009 | academic | open-permissive |  |
 | GelSight Mini | `gelsight-mini-2022` | 2022 | private | trade-secret |  |
 | General Atomics MQ-1 Predator + MQ-9 Reaper | `general-atomics-predator-reaper-1995` | 1994 | private | trade-secret |  |
+| Generalist AI (Zeng/Florence/Barry robotics-FM) | `generalist-ai-zeng-florence-barry-2024` | 2024 | private | trade-secret |  |
 | Generation-3 Synths (Institute Synths) | `fallout-gen-3-synths` | 2015 | fictional | fictional |  |
 | Generative Adversarial Imitation Learning (GAIL) | `gail-ho-ermon` | 2016 | academic | open-permissive |  |
 | Generative Adversarial Networks (GAN) | `gan-goodfellow-nips-2014` | 2014 | academic | public-domain |  |
@@ -314,6 +325,7 @@
 | Habitat-Sim (Facebook AI Research) | `fair-habitat-sim-2019` | 2019 | academic | open-permissive |  |
 | Hadaly (L'Ève future) | `l-eve-future` | 1886 | fictional | fictional |  |
 | HAL 9000 | `hal-9000` | 1968 | fictional | fictional |  |
+| Halodi Robotics EVE (Norwegian 1X predecessor) | `halodi-robotics-1x-precursor-2014` | 2014 | private | trade-secret |  |
 | Hamilton-Jacobi Reachability for Safe Control | `reachability-analysis-safe-control` | 2005 | academic | public-domain |  |
 | Han's Robot Elfin / EX / SCR cobot family | `hans-robot-elfin-2017` | 2017 | private | trade-secret |  |
 | Hansen Medical Sensei catheter robotic system | `sensei-hansen-medical-2009` | 2007 | private | trade-secret |  |
@@ -438,6 +450,7 @@
 | LEG-SLAM | `leg-slam-2025` | 2025 | academic | open-permissive | ✓ |
 | LEGO-SLAM | `lego-slam-2025` | 2025 | academic | open-permissive | ✓ |
 | LEGS (Language-Embedded Gaussian Splats) | `legs-berkeley-2024` | 2024 | academic | open-permissive |  |
+| Leju Robotics Kuavo (Chinese state-aligned humanoid) | `leju-kuavo-2016` | 2016 | private | trade-secret |  |
 | Lely Astronaut (FIRST commercial robotic milking parlor) | `lely-astronaut-1992` | 1992 | private | trade-secret |  |
 | Leonardo's Mechanical Knight | `da-vinci-knight` | 1495 | fictional | public-domain |  |
 | LERF (Language Embedded Radiance Fields) | `lerf-kerr-2023` | 2023 | academic | open-permissive |  |
@@ -477,11 +490,14 @@
 | McGeer Passive Dynamic Walker | `mcgeer-passive-walker` | 1990 | academic | public-domain |  |
 | McKibben pneumatic artificial muscle | `mckibben-pneumatic-muscle-1957` | 1957 | academic | public-domain |  |
 | Mecademic Meca500 micro-cobot (5-µm precision) | `mecademic-meca500-2015` | 2015 | private | trade-secret |  |
+| Mech-Mind Robotics (3D vision + AI for industrial manipulation) | `mech-mind-robotics-2016` | 2016 | private | trade-secret |  |
 | MediaPipe (Google on-device perception) | `mediapipe-google-2019` | 2019 | academic | open-permissive |  |
 | Medtronic Hugo RAS modular surgical platform | `medtronic-hugo-ras-2021` | 2021 | private | trade-secret |  |
 | MegaSaM | `megasam-google-2024` | 2024 | academic | open-permissive | ✓ |
 | Memic Hominis | `memic-hominis-2020` | 2021 | private | trade-secret |  |
 | MEMS IMU foundational lineage (gyroscope + accelerometer) | `mems-imu-foundational-1990s` | 1991 | private | trade-secret |  |
+| Mentee Robotics MenteeBot (Shashua Israeli humanoid; Mobileye acquisition) | `mentee-robotics-shashua-2022` | 2022 | private | trade-secret |  |
+| Meta FAIR robotics (Habitat 3.0 + Spot studies) | `meta-fair-robotics-2023` | 2023 | academic | open-permissive |  |
 | METU Ankara robotics (Middle East Technical University) | `metu-ankara-turkey-robotics` | 2000 | academic | open-permissive | ✓ |
 | MEV-1 / MEV-2 (first commercial satellite-life-extension servicer) | `mev-1-northrop-orbital-servicing-2019` | 2019 | private | trade-secret |  |
 | Microsoft Kinect | `kinect-microsoft-2010` | 2010 | private | trade-secret |  |
@@ -512,6 +528,7 @@
 | MuJoCo MJX | `deepmind-mujoco-mjx-2023` | 2023 | academic | open-permissive |  |
 | MuJoCo MPC (Howell-Tassa) | `howell-tassa-mujoco-mpc-2025` | 2025 | academic | open-permissive |  |
 | Murderbot Diaries — SecUnit with hacked governor module | `murderbot-diaries-wells-2017` | 2017 | fictional | public-domain |  |
+| Mytra (3D-grid warehouse storage; ex-Tesla Optimus head) | `mytra-walti-2022` | 2022 | private | trade-secret |  |
 | NAO | `nao` | 2006 | private | patented |  |
 | NASA Valkyrie | `nasa-valkyrie` | 2013 | academic | open-permissive |  |
 | Nautile (IFREMER 6000 m HOV) | `nautile-ifremer-1984` | 1984 | private | trade-secret |  |
@@ -574,6 +591,7 @@
 | Park's Transformation (dq0 transformation) | `park-transformation-1929` | 1929 | academic | public-domain |  |
 | PARO (first FDA-cleared therapeutic robot; baby-harp-seal) | `paro-aist-2003` | 2003 | academic | trade-secret |  |
 | Parrot AR.Drone | `parrot-ar-drone-2010` | 2010 | private | trade-secret |  |
+| Path Robotics (autonomous welding-specific perception) | `path-robotics-lonsberry-2018` | 2018 | private | trade-secret |  |
 | PD-100 Black Hornet Nano (16-gram pocket helicopter) | `pd-100-black-hornet-2008` | 2008 | private | trade-secret |  |
 | Pepper | `pepper-softbank` | 2014 | private | patented |  |
 | Perceptive ANYmal locomotion (Miki Science Robotics 2022) | `miki-perceptive-anymal-science-2022` | 2022 | academic | open-permissive |  |
@@ -592,11 +610,13 @@
 | Pluto (Naoki Urasawa reimagining) | `urasawa-pluto` | 2003 | fictional | fictional |  |
 | PointNet | `pointnet-qi-cvpr-2017` | 2016 | academic | public-domain |  |
 | Policy Gradient Theorem (Sutton et al. 1999) | `sutton-policy-gradient-theorem-1999` | 1999 | academic | public-domain |  |
+| Pollen Robotics Reachy (HuggingFace open-source humanoid hardware) | `pollen-robotics-huggingface-2016` | 2016 | private | open-permissive |  |
 | Poppy Humanoid | `poppy-humanoid` | 2014 | open | open-permissive |  |
 | PR2 | `pr2` | 2010 | open | open-permissive |  |
 | Pragyan (Chandrayaan-3; first lunar south pole rover) | `isro-chandrayaan3-pragyan-2023` | 2023 | academic | public-domain |  |
 | Pratt Virtual Model Control | `pratt-virtual-model-control` | 2001 | academic | public-domain |  |
 | Pratt-Williamson Series Elastic Actuator | `pratt-williamson-sea` | 1995 | academic | public-domain |  |
+| Preferred Networks (Japan AI lab; Toyota-backed) | `preferred-networks-pfn-2014` | 2014 | private | trade-secret |  |
 | Prioritized Experience Replay (Schaul et al. 2015) | `schaul-prioritized-experience-replay-2015` | 2015 | academic | public-domain |  |
 | Promobot | `promobot-russia-2015` | 2015 | private | trade-secret |  |
 | Prophesee EVK4 event camera | `prophesee-evk4-event-camera-2020` | 2020 | private | trade-secret |  |
@@ -622,6 +642,7 @@
 | Real Humans / Äkta människor — Hubot household humanoids | `akta-manniskor-real-humans-2012` | 2012 | fictional | public-domain |  |
 | Real Steel Boxing Robots (Atom, Zeus, Twin Cities, Noisy Boy) | `real-steel-boxers` | 2011 | fictional | fictional |  |
 | REEM-C | `reem-c` | 2013 | private | patented |  |
+| Reflex Robotics (NYC wheeled humanoid) | `reflex-robotics-mentese-2022` | 2022 | private | trade-secret |  |
 | REINFORCE (Williams 1992; foundational policy-gradient) | `williams-reinforce-1992` | 1992 | academic | public-domain |  |
 | REMUS 100 AUV | `kongsberg-remus-100-auv` | 1995 | private | trade-secret |  |
 | Replicants | `replicants-blade-runner` | 1968 | fictional | fictional |  |
@@ -656,6 +677,7 @@
 | RoboTuna (MIT first robot fish; biomimetic propulsion) | `robotuna-mit-triantafyllou-1994` | 1994 | academic | academic-publication |  |
 | RoDyn-SLAM | `rodyn-slam-jiang-2024` | 2024 | academic | open-permissive |  |
 | Roetenberg Inertial Motion Capture (Xsens MVN) | `roetenberg-xsens-imu` | 2009 | academic | open-permissive |  |
+| Rokae Robotics (Chinese collaborative + industrial robots) | `rokae-robotics-2015` | 2015 | private | trade-secret |  |
 | RoMa (Robust Dense Feature Matching) | `roma-edstedt-cvpr-2024` | 2024 | academic | open-permissive |  |
 | ROS (Robot Operating System) | `ros-quigley-2009` | 2009 | academic | open-permissive |  |
 | ROS 2 | `ros-2-2017` | 2017 | academic | open-permissive |  |
@@ -697,6 +719,7 @@
 | Sentis-Khatib Whole-Body Prioritized Task Control | `sentis-khatib-whole-body` | 2005 | academic | public-domain |  |
 | Sentry AUV (WHOI ABE successor; deep-search workhorse) | `sentry-auv-whoi-2006` | 2006 | academic | academic-publication |  |
 | Sequence to Sequence Learning | `sutskever-seq2seq-nips-2014` | 2014 | academic | public-domain |  |
+| Sereact PickGPT (first commercial robotics transformer) | `sereact-pickgpt-2021` | 2021 | private | trade-secret |  |
 | Shadow Dexterous Hand | `shadow-hand` | 2003 | private | patented |  |
 | Shadow Dexterous Hand | `shadow-dexterous-hand` | 2002 | academic | open-permissive |  |
 | Shanghai Jiao Tong University (SJTU) robotics | `sjtu-shanghai-china-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
@@ -709,6 +732,7 @@
 | SimpleFOC | `simplefoc` | 2020 | open | open-permissive |  |
 | SimplerEnv | `simpler-env-li-corl-2024` | 2024 | academic | open-permissive |  |
 | Simplex Architecture | `sherman-simplex-architecture` | 1995 | academic | public-domain |  |
+| Skild AI (OmniBrain robotics foundation model) | `skild-ai-pathak-gupta-2023` | 2023 | private | trade-secret |  |
 | Skild AI foundation model | `skild-foundation-model` | 2024 | private | trade-secret | ✓ |
 | Skolkovo Institute of Science and Technology (Skoltech) robotics | `skoltech-russia-academic` | 2011 | academic | open-permissive | ✓ |
 | Skybot F-850 / FEDOR | `skybot-fedor-russia-2019` | 2014 | private | trade-secret |  |
@@ -730,6 +754,7 @@
 | Spirit + Opportunity (Mars Exploration Rovers) | `nasa-mer-spirit-opportunity-2003` | 2003 | academic | public-domain |  |
 | Spray underwater glider (Scripps + WHOI) | `spray-glider-scripps-2001` | 2001 | academic | academic-publication |  |
 | SPURV (Self-Propelled Underwater Research Vehicle; the FIRST AUV) | `spurv-uw-apl-1957` | 1957 | academic | public-domain |  |
+| Standard Bots (US industrial cobot leader) | `standard-bots-2011` | 2011 | private | trade-secret |  |
 | Stanford Arm (Scheinman 1969) | `stanford-arm-scheinman-1969` | 1969 | academic | public-domain |  |
 | Stanford Autonomous Helicopter (Ng / Abbeel) | `stanford-autonomous-helicopter-ng-2003` | 2003 | academic | academic-publication |  |
 | Stanford gecko-adhesive gripper (Cutkosky BDML) | `stanford-gecko-cutkosky-2015` | 2015 | academic | academic-publication |  |
@@ -763,11 +788,13 @@
 | Taylor JHU surgical robotics (foundational) | `taylor-jhu-surgical-robotics-1990s` | 1989 | academic | public-domain | ✓ |
 | TCP Twisted-and-Coiled Polymer Muscle (Haines/Baughman Science 2014) | `tcp-twisted-coiled-polymer-haines-baughman-2014` | 2014 | academic | academic-publication |  |
 | Techman Robot TM5 (first cobot with built-in vision) | `techman-robot-tm5-2016` | 2016 | private | trade-secret |  |
+| Telexistence TX Inc. (Japan retail / convenience-store humanoid) | `telexistence-tx-inc-2017` | 2017 | private | trade-secret |  |
 | Tencent Robotics X Lab | `tencent-robotics-x-lab-2018` | 2018 | private | trade-secret | ✓ |
 | Tesla Autopilot / FSD (vision-only end-to-end neural network) | `tesla-autopilot-fsd-2014` | 2014 | private | trade-secret |  |
 | Tesla Optimus | `tesla-optimus` | 2021 | private | patented | ✓ |
 | Tesla Optimus Gen 3 | `tesla-optimus-gen3-2025` | 2025 | private | trade-secret | ✓ |
 | Tetsujin 28 | `tetsujin-28` | 1956 | fictional | fictional |  |
+| Tevel Aerobotics (Israeli autonomous fruit-picking drones) | `tevel-aerobotics-2016` | 2016 | private | trade-secret |  |
 | The Doctor (Emergency Medical Hologram Mark I) | `emh-mark-i-voyager` | 1995 | fictional | fictional |  |
 | The Greatest Robot on Earth (eight mecha disclosures) | `astro-boy-greatest-robot` | 1964 | fictional | fictional |  |
 | The Iron Giant | `iron-giant` | 1968 | fictional | fictional |  |
@@ -834,9 +861,11 @@
 | Volocopter VC1 / VoloCity (first crewed multicopter flight) | `volocopter-vc1-2011` | 2011 | private | trade-secret |  |
 | VTT Technical Research Centre of Finland robotics | `vtt-finland-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Vukobratović Zero Moment Point | `vukobratovic-zmp` | 1969 | academic | public-domain |  |
+| Waabi (Urtasun generative-AI neural simulator AV) | `waabi-urtasun-2021` | 2021 | private | trade-secret |  |
 | WABIAN-2 | `wabian-2` | 2006 | academic | open-permissive |  |
 | WABOT-1 | `wabot-1` | 1973 | academic | public-domain |  |
 | WALL-E and EVE (Pixar 2008) | `wall-e-eve-pixar` | 2008 | fictional | fictional |  |
+| Wandelbots Tracepen ('Windows for Robots') | `wandelbots-2017` | 2017 | private | trade-secret |  |
 | Wandercraft Atalante / Atalante X self-balancing exoskeleton | `wandercraft-atalante-2018` | 2018 | private | trade-secret |  |
 | War Machine (James Rhodes) | `marvel-war-machine` | 1979 | fictional | fictional |  |
 | Warsaw University of Technology (PW) robotics | `warsaw-poland-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
@@ -858,6 +887,7 @@
 | Yoshikawa Manipulability Ellipsoid | `yoshikawa-manipulability` | 1985 | academic | public-domain |  |
 | Yutu / Yutu-2 (Chang'e-3 + Chang'e-4 lunar rovers) | `cnsa-change3-yutu-yutu2-2013` | 2013 | academic | trade-secret |  |
 | Zeon Systems (AI-powered robotics for lab automation; Y Combinator) | `zeon-systems-yc-2025` | 2025 | private | trade-secret |  |
+| ZeroErr eRob (Chinese joint actuators for humanoids) | `zeroerr-erob-2016` | 2016 | private | trade-secret |  |
 | Zewail City of Science and Technology (Egypt) | `zewail-city-egypt-2011` | 2011 | academic | open-permissive | ✓ |
 | Zhurong (Tianwen-1; first Chinese Mars rover) | `cnsa-tianwen1-zhurong-2021` | 2021 | academic | trade-secret |  |
 | Ziebart Maximum Entropy Inverse Reinforcement Learning | `ziebart-maxent-irl-2008` | 2008 | academic | public-domain |  |

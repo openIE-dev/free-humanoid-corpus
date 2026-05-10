@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `service-robot`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2004-01
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: H.I.S. Hotel Holdings (Nagasaki, Japan). Henn-na Hotel opened July 17, 2015 at Huis Ten Bosch theme park, Nagasaki. Guinness World Record: first hotel staffed by robots. Dinosaur-receptionist + 82-robot fleet.
 - **ip status**: trade-secret
 - **prior art notes**: Henn-na Hotel (H.I.S. Nagasaki 2015+) is the Guinness first-hotel-staffed-by-robots. 10-year-deep public-disclosure prior art.
+
+## Telexistence TX Inc. (Japan retail / convenience-store humanoid) (2017-01)
+
+- **id**: `telexistence-tx-inc-2017`
+- **corpus**: private
+- **creator**: Telexistence Inc. (Tokyo, Japan); Susumu Tachi research lineage; Jin Tomioka CEO
+- **disclosure**: Telexistence Inc. (Tokyo, Japan; founded 2017 by Jin Tomioka with research lineage from Susumu Tachi's TELESAR 1988). TX GHOST drink-restocker deployed in 300+ FamilyMart/Lawson stores since 2022. TX Astra VLA-powered humanoid in joint dev with Seven-Eleven for 2029.
+- **ip status**: trade-secret
+- **prior art notes**: Telexistence TX Inc. (Tokyo 2017+) is the most commercially-deployed Japanese retail robot. 8-year-deep public-disclosure prior art.
 
 ## Pudu BellaBot (cat-faced restaurant delivery robot) (2019-01)
 

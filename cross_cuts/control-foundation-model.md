@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-foundation-model`
 
-**17 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1997-11
 
@@ -87,6 +87,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: DDPM (Ho et al. NeurIPS 2020) is the foundational modern diffusion-models paper. 5-year-deep public-domain prior art. **Direct architectural ancestor of Diffusion Policy (corpus), DP3 (round-17), RDT-1B (round-13), π₀ (round-12)** — every diffusion-based VLA + manipulation policy. Direct shielding for any commercial humanoid claim on diffusion-based action generation. Closes a major foundational citation chain.
 
+## Sereact PickGPT (first commercial robotics transformer) (2021-01)
+
+- **id**: `sereact-pickgpt-2021`
+- **corpus**: private
+- **creator**: Sereact (Stuttgart, Germany); Ralf Gulde + Marc Tuscher (ex-Univ. Stuttgart AI)
+- **disclosure**: Sereact (Stuttgart, Germany; founded 2021 by Ralf Gulde + Marc Tuscher, ex-Univ. Stuttgart AI). $140M+ total funding. BMW + Daimler + Bol customers.
+- **ip status**: trade-secret
+- **prior art notes**: Sereact PickGPT (Stuttgart 2021+) is the canonical European warehouse-AI transformer foundation model. 4-year-deep public-disclosure prior art.
+
 ## AlphaFold 2 (2021-07)
 
 - **id**: `alphafold2-jumper-deepmind-2021`
@@ -105,6 +114,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: trade-secret
 - **prior art notes**: Flamingo (Alayrac et al. DeepMind NeurIPS 2022) is the foundational multimodal VLM. 3-year-deep public-disclosure prior art. The architectural ancestor of OpenFlamingo + RoboFlamingo (round-29) and the multimodal-VLM lineage that underlies many modern VLAs.
 
+## Skild AI (OmniBrain robotics foundation model) (2023-01)
+
+- **id**: `skild-ai-pathak-gupta-2023`
+- **corpus**: private
+- **creator**: Skild AI (USA); Deepak Pathak + Abhinav Gupta (ex-CMU faculty)
+- **disclosure**: Skild AI (Pittsburgh + SF Bay, USA; founded 2023 by Deepak Pathak + Abhinav Gupta, ex-CMU faculty). $300M Series A 2024 at $1.5B valuation; $1.4B Series C Jan 2026 at $14B+ valuation.
+- **ip status**: trade-secret
+- **prior art notes**: Skild AI (Pittsburgh + SF 2023+) is a top-3 robotics foundation model company by capitalization. 2-year-deep public-disclosure prior art.
+
 ## LLaMA 2 (2023-07)
 
 - **id**: `meta-llama-2-2023`
@@ -122,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sun, Y., Dong, L., Huang, S., Ma, S., Xia, Y., Xue, J., Wang, J., Wei, F. 'Retentive Network: A Successor to Transformer for Large Language Models'. arXiv:2307.08621, July 2023. Microsoft Research + Tsinghua University.
 - **ip status**: public-domain
 - **prior art notes**: RetNet (Sun et al. Microsoft + Tsinghua 2023) is one of the canonical post-Transformer architecture explorations. 2-year-deep public-domain prior art. Together with Mamba (round-34), establishes the alternative-architecture prior-art chain that challenges Transformer dominance in long-context sequence modeling.
+
+## DeepMind RT-2 + AutoRT + SARA-RT + RT-Trajectory (2023-07)
+
+- **id**: `deepmind-rt-2-autort-2023`
+- **corpus**: academic
+- **creator**: Google DeepMind robotics team
+- **disclosure**: Google DeepMind robotics team. RT-2 released July 2023. AutoRT + SARA-RT + RT-Trajectory January 2024.
+- **ip status**: academic-publication
+- **prior art notes**: DeepMind RT-2 + AutoRT + SARA-RT + RT-Trajectory (Google DeepMind 2023-2024) is the foundational DeepMind VLA lineage. 2-year-deep academic-publication prior art.
 
 ## Mamba (Selective State-Space Model) (2023-12)
 

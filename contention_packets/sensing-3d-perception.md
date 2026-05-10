@@ -1,7 +1,7 @@
 ---
 title: "sensing-3d-perception"
 parent: "Invalidity Contentions"
-nav_order: 226
+nav_order: 232
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-10  
 **Cross-cut tag:** `sensing-3d-perception`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 2007-01  
 **Most recent disclosure:** 2023-01
 
@@ -57,6 +57,44 @@ cite, copy, or redistribute these contentions.
 
 1. Velodyne LIDAR corporate site (velodynelidar.com).
 2. DARPA Urban Challenge 2007 results.
+
+---
+
+### 2016-01 — Mech-Mind Robotics (3D vision + AI for industrial manipulation)
+
+- **id:** `mech-mind-robotics-2016`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Mech-Mind Robotics (Beijing, China); Shao Tianlan
+- **disclosure citation:** Mech-Mind Robotics (Beijing, China; founded 2016 by Shao Tianlan). 15,000+ installations in 50+ countries.
+- **disclosed subsystems:** `sensing-3d-perception`, `warehouse-robot`
+
+**Prior art notes:**
+
+> Mech-Mind Robotics (Beijing 2016+) is the dominant Chinese industrial-vision software stack. 9-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. en.wikipedia.org/wiki/Mech-Mind_Robotics
+
+---
+
+### 2016-01 — Apera AI 4D Vision (Canadian bin-pick vision software)
+
+- **id:** `apera-ai-4d-vision-2016`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Apera AI (Vancouver, Canada); Sina Afrooze (ex-AWS Alexa + Avigilon) + Armin Khatoonabadi
+- **disclosure citation:** Apera AI (Vancouver, Canada; founded 2016 by Sina Afrooze, ex-AWS Alexa voice + Avigilon, + Armin Khatoonabadi). Patented '4D Vision' for bin-pick / assembly / packaging.
+- **disclosed subsystems:** `warehouse-robot`, `sensing-3d-perception`
+
+**Prior art notes:**
+
+> Apera AI 4D Vision (Vancouver 2016+) is the Canadian industrial-vision-software player. 9-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. apera.ai/about-apera-ai/
 
 ---
 
@@ -148,4 +186,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2aee416`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
