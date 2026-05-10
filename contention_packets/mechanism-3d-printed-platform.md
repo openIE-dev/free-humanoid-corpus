@@ -1,13 +1,13 @@
 ---
 title: "mechanism-3d-printed-platform"
 parent: "Invalidity Contentions"
-nav_order: 166
+nav_order: 168
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-3d-printed-platform`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `mechanism-3d-printed-platform`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2019-04  
@@ -156,4 +156,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

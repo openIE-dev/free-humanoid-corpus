@@ -1,13 +1,13 @@
 ---
 title: "control-gaussian-splatting-slam"
 parent: "Invalidity Contentions"
-nav_order: 62
+nav_order: 64
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-gaussian-splatting-slam`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-gaussian-splatting-slam`  
 **Entries:** 6 (2 commons-grade, 4 draft)  
 **Earliest disclosure:** 2024-03  
@@ -190,4 +190,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

@@ -1,13 +1,13 @@
 ---
 title: "actuator-electric"
 parent: "Invalidity Contentions"
-nav_order: 6
+nav_order: 7
 layout: default
 ---
 
 # Invalidity Contention Packet — `actuator-electric`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `actuator-electric`  
 **Entries:** 105 (98 commons-grade, 7 draft)  
 **Earliest disclosure:** 1956-01  
@@ -2140,4 +2140,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

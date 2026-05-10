@@ -1,13 +1,13 @@
 ---
 title: "control-foundation-model-perception"
 parent: "Invalidity Contentions"
-nav_order: 59
+nav_order: 61
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-foundation-model-perception`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-foundation-model-perception`  
 **Entries:** 30 (27 commons-grade, 3 draft)  
 **Earliest disclosure:** 2009-06  
@@ -677,4 +677,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

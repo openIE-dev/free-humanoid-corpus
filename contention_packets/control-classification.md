@@ -1,13 +1,13 @@
 ---
 title: "control-classification"
 parent: "Invalidity Contentions"
-nav_order: 46
+nav_order: 48
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-classification`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-classification`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1995-09  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

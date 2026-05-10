@@ -1,13 +1,13 @@
 ---
 title: "control-rough-terrain-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 116
+nav_order: 118
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-rough-terrain-locomotion`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-rough-terrain-locomotion`  
 **Entries:** 7 (7 commons-grade, 0 draft)  
 **Earliest disclosure:** 2000-04  
@@ -214,4 +214,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

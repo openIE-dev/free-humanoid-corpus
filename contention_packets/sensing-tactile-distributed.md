@@ -1,13 +1,13 @@
 ---
 title: "sensing-tactile-distributed"
 parent: "Invalidity Contentions"
-nav_order: 242
+nav_order: 244
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-tactile-distributed`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `sensing-tactile-distributed`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2007-11  
@@ -109,4 +109,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

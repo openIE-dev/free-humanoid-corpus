@@ -1,13 +1,13 @@
 ---
 title: "actuator-diesel"
 parent: "Invalidity Contentions"
-nav_order: 4
+nav_order: 5
 layout: default
 ---
 
 # Invalidity Contention Packet — `actuator-diesel`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `actuator-diesel`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2016-04  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

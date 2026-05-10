@@ -1,13 +1,13 @@
 ---
 title: "auv"
 parent: "Invalidity Contentions"
-nav_order: 23
+nav_order: 25
 layout: default
 ---
 
 # Invalidity Contention Packet — `auv`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `auv`  
 **Entries:** 11 (11 commons-grade, 0 draft)  
 **Earliest disclosure:** 1957-08  
@@ -281,4 +281,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

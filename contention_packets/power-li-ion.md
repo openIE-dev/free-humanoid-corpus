@@ -1,13 +1,13 @@
 ---
 title: "power-li-ion"
 parent: "Invalidity Contentions"
-nav_order: 214
+nav_order: 216
 layout: default
 ---
 
 # Invalidity Contention Packet — `power-li-ion`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `power-li-ion`  
 **Entries:** 61 (41 commons-grade, 20 draft)  
 **Earliest disclosure:** 1886  
@@ -1274,4 +1274,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

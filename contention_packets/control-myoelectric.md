@@ -1,13 +1,13 @@
 ---
 title: "control-myoelectric"
 parent: "Invalidity Contentions"
-nav_order: 93
+nav_order: 95
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-myoelectric`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-myoelectric`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1963-01  
@@ -130,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

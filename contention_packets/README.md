@@ -16,7 +16,7 @@ Corpus (`corpus.jsonl`) by grouping entries on their `disclosed_subsystems`
 tags, and reproducing each entry's `prior_art_notes` verbatim alongside the
 citation-ready metadata an attorney needs to cite it.
 
-This generation produced **259 packets** covering **2572 entry
+This generation produced **261 packets** covering **2581 entry
 references** in total (entries appear in multiple packets when they disclose
 multiple subsystems).
 
@@ -78,11 +78,11 @@ python3 tools/contention_packets.py
 
 from the repository root. The tool wipes the `contention_packets/` directory
 before writing, so every regeneration is a clean slate. The corpus revision
-that produced this set is recorded in each packet's footer (`2fbde5f`).
+that produced this set is recorded in each packet's footer (`7ee2634`).
 
 ## Provenance
 
-- **Generated:** 2026-05-09
+- **Generated:** 2026-05-10
 - **Source:** <https://github.com/openIE-dev/free-humanoid-corpus>
 - **Release tarball SHA-256:** `aa9430c6e785a409e3dbb10042b16e0e5677752c85eeffcba2c6b5605cde27ce`
 - **Zenodo DOI:** <https://doi.org/10.5281/zenodo.20049531>

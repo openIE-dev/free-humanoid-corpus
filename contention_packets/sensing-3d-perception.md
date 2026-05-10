@@ -1,13 +1,13 @@
 ---
 title: "sensing-3d-perception"
 parent: "Invalidity Contentions"
-nav_order: 224
+nav_order: 226
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-3d-perception`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `sensing-3d-perception`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2007-01  
@@ -148,4 +148,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

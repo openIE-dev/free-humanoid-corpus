@@ -1,13 +1,13 @@
 ---
 title: "control-dvl-positioning"
 parent: "Invalidity Contentions"
-nav_order: 53
+nav_order: 55
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-dvl-positioning`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-dvl-positioning`  
 **Entries:** 8 (7 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-04  
@@ -238,4 +238,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

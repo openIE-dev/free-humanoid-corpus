@@ -1,13 +1,13 @@
 ---
 title: "auv-hovering"
 parent: "Invalidity Contentions"
-nav_order: 25
+nav_order: 27
 layout: default
 ---
 
 # Invalidity Contention Packet — `auv-hovering`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `auv-hovering`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1995-06  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

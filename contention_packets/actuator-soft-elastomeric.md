@@ -1,13 +1,13 @@
 ---
 title: "actuator-soft-elastomeric"
 parent: "Invalidity Contentions"
-nav_order: 18
+nav_order: 20
 layout: default
 ---
 
 # Invalidity Contention Packet — `actuator-soft-elastomeric`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `actuator-soft-elastomeric`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2014-09  
@@ -133,4 +133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

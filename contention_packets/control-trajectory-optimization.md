@@ -1,13 +1,13 @@
 ---
 title: "control-trajectory-optimization"
 parent: "Invalidity Contentions"
-nav_order: 131
+nav_order: 133
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-trajectory-optimization`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-trajectory-optimization`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012-10  
@@ -153,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

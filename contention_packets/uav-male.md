@@ -1,13 +1,13 @@
 ---
 title: "uav-male"
 parent: "Invalidity Contentions"
-nav_order: 256
+nav_order: 258
 layout: default
 ---
 
 # Invalidity Contention Packet — `uav-male`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `uav-male`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1994-07  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

@@ -1,13 +1,13 @@
 ---
 title: "end-effector-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 142
+nav_order: 144
 layout: default
 ---
 
 # Invalidity Contention Packet — `end-effector-anthropomorphic-hand`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `end-effector-anthropomorphic-hand`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2010-03  
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

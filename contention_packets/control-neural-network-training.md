@@ -1,13 +1,13 @@
 ---
 title: "control-neural-network-training"
 parent: "Invalidity Contentions"
-nav_order: 96
+nav_order: 98
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-neural-network-training`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-neural-network-training`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1986-10  
@@ -129,4 +129,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

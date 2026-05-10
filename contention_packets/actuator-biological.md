@@ -1,13 +1,13 @@
 ---
 title: "actuator-biological"
 parent: "Invalidity Contentions"
-nav_order: 1
+nav_order: 2
 layout: default
 ---
 
 # Invalidity Contention Packet — `actuator-biological`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `actuator-biological`  
 **Entries:** 13 (12 commons-grade, 1 draft)  
 **Earliest disclosure:** 1973-11-21  
@@ -330,4 +330,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

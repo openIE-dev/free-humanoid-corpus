@@ -1,13 +1,13 @@
 ---
 title: "control-self-play"
 parent: "Invalidity Contentions"
-nav_order: 117
+nav_order: 119
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-self-play`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-self-play`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2016-01  
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

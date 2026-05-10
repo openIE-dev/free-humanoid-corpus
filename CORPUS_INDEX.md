@@ -1,6 +1,6 @@
 # Corpus Index
 
-852 entries total. Generated from corpus.jsonl.
+860 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | Brockett's Necessary Condition for Stabilizability | `brockett-condition-1983` | 1983 | academic | public-domain |  |
 | Budapest University of Technology and Economics (BME) robotics | `bme-budapest-hungary-robotics` | 2000 | academic | open-permissive | ✓ |
 | Built Robotics (autonomous excavator retrofit) | `built-robotics-excavator-2016` | 2016 | private | trade-secret |  |
+| Cacucciolo Stretchable EHD Pump (Nature 2019) | `cacucciolo-stretchable-ehd-pump-2019` | 2019 | academic | academic-publication |  |
 | Caltech CAST Hank bipedal platform | `caltech-hank-cast-2019` | 2019 | academic | public-domain |  |
 | Caltech LEONARDO | `caltech-leonardo-2021` | 2021 | academic | public-domain |  |
 | CALVIN | `calvin-mees-2022` | 2021 | academic | open-permissive |  |
@@ -205,6 +206,7 @@
 | Dex-Net 2.0 (Mahler Goldberg Berkeley) | `dex-net-goldberg-berkeley-2017` | 2017 | academic | open-permissive |  |
 | DexMV (Dexterous Manipulation from Videos) | `dexmv-qin-cvpr-2022` | 2021 | academic | open-permissive |  |
 | DGS-SLAM | `dgs-slam-kong-2024` | 2024 | academic | open-permissive | ✓ |
+| Dielectric Elastomer Actuators (DEA; Pelrine SRI 2000) | `dielectric-elastomer-actuators-pelrine-2000` | 2000 | academic | academic-publication |  |
 | Diffusion Policy | `diffusion-policy` | 2023 | academic | open-permissive |  |
 | Digit | `agility-digit` | 2019 | private | patented |  |
 | DIGIT | `digit-meta` | 2020 | academic | open-permissive |  |
@@ -240,7 +242,9 @@
 | Educational SoftHand-A | `educational-softhand-a-2025` | 2025 | academic | open-permissive |  |
 | Eelume snake robot (NTNU AMOS spinout) | `eelume-ntnu-2015` | 2015 | private | trade-secret |  |
 | EHang 184 / 216 (first autonomous passenger drone) | `ehang-184-2016` | 2016 | private | trade-secret |  |
+| EHD Fiber Pump (Smith et al. Science 2023) | `smith-ehd-fiber-pump-science-2023` | 2023 | academic | academic-publication |  |
 | Ekso Bionics Ekso / EksoNR overground rehab exoskeleton | `ekso-bionics-eksonr-2012` | 2012 | private | trade-secret |  |
+| Electrofluidic Fiber Muscles (EFM) — MIT Media Lab + Politecnico di Bari | `electrofluidic-fiber-muscles-mit-iit-2025` | 2025 | academic | academic-publication |  |
 | Embrapa Brazilian agritech robotics | `embrapa-brazil-agritech-robotics` | 2010 | academic | public-domain | ✓ |
 | Empire Robotics VERSABALL universal jamming gripper | `empire-robotics-versaball-2012` | 2012 | private | trade-secret |  |
 | EngineAI PM01 | `engineai-pm01` | 2024 | private | patented | ✓ |
@@ -316,6 +320,7 @@
 | HaptX Gloves G1 | `haptx-gloves-g1-2022` | 2022 | private | trade-secret |  |
 | Harvard RoboBee (insect-scale flapping-wing flight) | `harvard-robobee-2013` | 2013 | academic | academic-publication |  |
 | Harvard Soft Robotics Toolkit | `harvard-soft-robotics-toolkit-2017` | 2014 | academic | open-copyleft |  |
+| HASEL Actuators (Keplinger CU Boulder 2018) | `hasel-actuators-keplinger-2018` | 2018 | academic | academic-publication |  |
 | Hayabusa-2 + MINERVA-II (first asteroid hopping rovers) | `jaxa-hayabusa2-minerva-2014` | 2014 | academic | public-domain |  |
 | HCMUT Ho Chi Minh City University of Technology robotics | `hcmut-vietnam-ho-chi-minh-robotics` | 2000 | academic | open-permissive | ✓ |
 | Hector (Saturn 3) | `saturn-3-hector` | 1980 | fictional | fictional |  |
@@ -370,6 +375,7 @@
 | Inspire-Robots RH56 5-finger 6-DoF dexterous hand | `inspire-robots-rh56-2018` | 2018 | private | trade-secret |  |
 | Intel RealSense depth camera lineage | `intel-realsense-2015` | 2015 | private | trade-secret |  |
 | Intuitive Surgical da Vinci | `intuitive-surgical-da-vinci-2000` | 2000 | private | trade-secret |  |
+| Ionic Polymer-Metal Composite (IPMC; Shahinpoor 1992) | `ionic-polymer-metal-composite-shahinpoor-1992` | 1992 | academic | academic-publication |  |
 | IP.com Prior Art Database | `ip-com-prior-art-database` | 2000 | open | open-permissive |  |
 | IPN CIC Mexico robotics (Instituto Politécnico Nacional) | `ipn-cic-mexico-robotics` | 2000 | academic | open-permissive | ✓ |
 | iRobot Roomba (foundational autonomous home robot) | `irobot-roomba-2002` | 2002 | private | trade-secret |  |
@@ -518,6 +524,7 @@
 | Neura 4NE-1 | `neura-4ne1` | 2024 | private | patented | ✓ |
 | Neuralink | `neuralink-2017` | 2017 | private | trade-secret |  |
 | Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline) | `gibson-neuromancer-constructs` | 1984 | fictional | fictional |  |
+| Nitinol / Shape Memory Alloy (Buehler Naval Ordnance Lab 1962) | `shape-memory-alloy-nitinol-buehler-1962` | 1962 | academic | public-domain |  |
 | Northrop Grumman RQ-4 Global Hawk (HALE ISR) | `northrop-grumman-rq4-global-hawk-1998` | 1998 | private | trade-secret |  |
 | Northrop Grumman X-47B (carrier-based stealth UCAV) | `northrop-grumman-x-47b-2011` | 2011 | private | trade-secret |  |
 | NTU Singapore robotics cluster | `ntu-singapore-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
@@ -753,6 +760,7 @@
 | Targeted Muscle Reinnervation (TMR) — Kuiken RIC | `kuiken-tmr-targeted-muscle-reinnervation-2002` | 2002 | academic | academic-publication |  |
 | Tassa iLQG / Synthesis and Stabilization of Complex Behaviors | `tassa-ilqg-2012` | 2012 | academic | public-domain |  |
 | Taylor JHU surgical robotics (foundational) | `taylor-jhu-surgical-robotics-1990s` | 1989 | academic | public-domain | ✓ |
+| TCP Twisted-and-Coiled Polymer Muscle (Haines/Baughman Science 2014) | `tcp-twisted-coiled-polymer-haines-baughman-2014` | 2014 | academic | academic-publication |  |
 | Techman Robot TM5 (first cobot with built-in vision) | `techman-robot-tm5-2016` | 2016 | private | trade-secret |  |
 | Tencent Robotics X Lab | `tencent-robotics-x-lab-2018` | 2018 | private | trade-secret | ✓ |
 | Tesla Autopilot / FSD (vision-only end-to-end neural network) | `tesla-autopilot-fsd-2014` | 2014 | private | trade-secret |  |

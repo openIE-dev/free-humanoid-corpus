@@ -1,13 +1,13 @@
 ---
 title: "control-agricultural-autonomy"
 parent: "Invalidity Contentions"
-nav_order: 35
+nav_order: 37
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-agricultural-autonomy`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-agricultural-autonomy`  
 **Entries:** 3 (1 commons-grade, 2 draft)  
 **Earliest disclosure:** 2010-01  
@@ -133,4 +133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

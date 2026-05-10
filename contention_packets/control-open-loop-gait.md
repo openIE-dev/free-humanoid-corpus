@@ -1,13 +1,13 @@
 ---
 title: "control-open-loop-gait"
 parent: "Invalidity Contentions"
-nav_order: 99
+nav_order: 101
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-open-loop-gait`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-open-loop-gait`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2013-05  
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

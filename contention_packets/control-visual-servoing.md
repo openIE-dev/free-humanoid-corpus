@@ -1,13 +1,13 @@
 ---
 title: "control-visual-servoing"
 parent: "Invalidity Contentions"
-nav_order: 136
+nav_order: 138
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-visual-servoing`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-visual-servoing`  
 **Entries:** 2 (1 commons-grade, 1 draft)  
 **Earliest disclosure:** 2000-01  
@@ -110,4 +110,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

@@ -1,13 +1,13 @@
 ---
 title: "actuator-electric-quasi-direct-drive"
 parent: "Invalidity Contentions"
-nav_order: 11
+nav_order: 12
 layout: default
 ---
 
 # Invalidity Contention Packet — `actuator-electric-quasi-direct-drive`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `actuator-electric-quasi-direct-drive`  
 **Entries:** 21 (15 commons-grade, 6 draft)  
 **Earliest disclosure:** 2014  
@@ -491,4 +491,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

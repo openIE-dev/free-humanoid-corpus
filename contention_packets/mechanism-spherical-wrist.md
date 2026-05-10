@@ -1,13 +1,13 @@
 ---
 title: "mechanism-spherical-wrist"
 parent: "Invalidity Contentions"
-nav_order: 196
+nav_order: 198
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-spherical-wrist`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `mechanism-spherical-wrist`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1969-06  
@@ -109,4 +109,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

@@ -1,13 +1,13 @@
 ---
 title: "manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 157
+nav_order: 159
 layout: default
 ---
 
 # Invalidity Contention Packet — `manipulator-arm`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `manipulator-arm`  
 **Entries:** 39 (39 commons-grade, 0 draft)  
 **Earliest disclosure:** 1954-12  
@@ -816,4 +816,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

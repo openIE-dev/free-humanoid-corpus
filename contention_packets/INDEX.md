@@ -8,9 +8,9 @@ layout: default
 
 # Invalidity Contention Packets
 
-**Generated:** 2026-05-09  
-**Packets:** 259  
-**Corpus revision:** `2fbde5f`
+**Generated:** 2026-05-10  
+**Packets:** 261  
+**Corpus revision:** `7ee2634`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -27,6 +27,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 
 | Packet | Entries | Commons | Draft | Earliest | Most recent |
 |---|---|---|---|---|---|
+| [`actuator-artificial-muscle`](actuator-artificial-muscle.md) | 6 | 6 | 0 | 1962-01 | 2025-12 |
 | [`actuator-biological`](actuator-biological.md) | 13 | 12 | 1 | 1973-11-21 | 2020-01-23 |
 | [`actuator-bldc-controller`](actuator-bldc-controller.md) | 11 | 11 | 0 | 1929-07 | 2022 |
 | [`actuator-compliant`](actuator-compliant.md) | 3 | 3 | 0 | 1957-01 | 2017-04 |
@@ -40,6 +41,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-electric-quasi-direct-drive`](actuator-electric-quasi-direct-drive.md) | 21 | 15 | 6 | 2014 | 2025-10 |
 | [`actuator-electric-series-elastic`](actuator-electric-series-elastic.md) | 19 | 19 | 0 | 1995-08 | 2023-08 |
 | [`actuator-electric-tendon-driven`](actuator-electric-tendon-driven.md) | 25 | 24 | 1 | 1495 | 2024 |
+| [`actuator-electrohydrodynamic`](actuator-electrohydrodynamic.md) | 3 | 3 | 0 | 2019-09 | 2025-12 |
 | [`actuator-foc-controller`](actuator-foc-controller.md) | 6 | 6 | 0 | 1929-07 | 2025-03 |
 | [`actuator-hydraulic`](actuator-hydraulic.md) | 33 | 27 | 6 | -0250 | 2024-05-24 |
 | [`actuator-pneumatic`](actuator-pneumatic.md) | 6 | 6 | 0 | 2005-04 | 2017-04 |

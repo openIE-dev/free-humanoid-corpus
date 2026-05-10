@@ -1,13 +1,13 @@
 ---
 title: "control-cross-embodiment"
 parent: "Invalidity Contentions"
-nav_order: 47
+nav_order: 49
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-cross-embodiment`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-cross-embodiment`  
 **Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 2023-10  
@@ -199,4 +199,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

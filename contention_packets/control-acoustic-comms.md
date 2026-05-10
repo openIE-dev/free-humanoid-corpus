@@ -1,13 +1,13 @@
 ---
 title: "control-acoustic-comms"
 parent: "Invalidity Contentions"
-nav_order: 34
+nav_order: 36
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-acoustic-comms`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-acoustic-comms`  
 **Entries:** 10 (9 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-01  
@@ -284,4 +284,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

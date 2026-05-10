@@ -15,6 +15,7 @@ the working prior art search tool when assessing patent claims in the area.
 |---|---|---|
 | `actuator-3d-printed-reducer` | 1 | 2025-04 |
 | `actuator-active-brake` | 1 | 2023-09 |
+| `actuator-artificial-muscle` | 6 | 1962-01 |
 | `actuator-biological` | 13 | 1973-11-21 |
 | `actuator-bldc-controller` | 11 | 1929-07 |
 | `actuator-compliant` | 3 | 1957-01 |
@@ -29,9 +30,13 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-electric-quasi-direct-drive` | 21 | 2014 |
 | `actuator-electric-series-elastic` | 19 | 1995-08 |
 | `actuator-electric-tendon-driven` | 25 | 1495 |
+| `actuator-electroactive-polymer` | 1 | 2000-02 |
+| `actuator-electrohydraulic` | 1 | 2018-01 |
+| `actuator-electrohydrodynamic` | 3 | 2019-09 |
 | `actuator-foc-controller` | 6 | 1929-07 |
 | `actuator-hydraulic` | 33 | -0250 |
 | `actuator-hydraulic-damper` | 1 | 1997-09 |
+| `actuator-ionic-electroactive` | 1 | 1992-01 |
 | `actuator-microfluidic` | 1 | 2022-10 |
 | `actuator-piezoelectric` | 1 | 2013-05 |
 | `actuator-pneumatic` | 6 | 2005-04 |
@@ -41,9 +46,11 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-pneumatic-piston` | 1 | 1984-12 |
 | `actuator-pneumatic-vacuum` | 1 | 2012-01 |
 | `actuator-quasi-direct-drive` | 1 | 2019-09 |
+| `actuator-shape-memory` | 1 | 1962-01 |
 | `actuator-soft-elastomeric` | 3 | 2014-09 |
 | `actuator-solar` | 1 | 2007-01 |
 | `actuator-spherical-multi-dof` | 2 | 2020 |
+| `actuator-thermal` | 1 | 2014-02 |
 | `actuator-variable-stiffness` | 2 | 2005-04 |
 | `actuator-wave-power` | 1 | 2007-01 |
 | `actuator-wind-solar` | 1 | 2013-09 |
@@ -408,6 +415,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-elastomer-finger` | 1 | 2014-04 |
 | `mechanism-exoskeleton` | 6 | 2000-01 |
 | `mechanism-extensible-body` | 1 | 2019-05 |
+| `mechanism-fiber-pump` | 1 | 2023-04 |
 | `mechanism-fin-ray-finger` | 1 | 2009-01 |
 | `mechanism-four-bar-extension` | 1 | 2026-01 |
 | `mechanism-free-buoyancy` | 1 | 1953-08 |
@@ -445,9 +453,11 @@ the working prior art search tool when assessing patent claims in the area.
 | `mechanism-reconfigurable` | 6 | 2018-05 |
 | `mechanism-rocker-bogie` | 1 | 1997-07 |
 | `mechanism-sealed-enclosure` | 1 | 2023-05 |
+| `mechanism-sealed-fluidic-loop` | 1 | 2025-12 |
 | `mechanism-selective-compliance` | 1 | 1979-01 |
 | `mechanism-single-port-deploying` | 1 | 2014-01 |
 | `mechanism-soft-actuator` | 4 | 2007-04 |
+| `mechanism-soft-fiber-muscle` | 1 | 2025-12 |
 | `mechanism-soft-pneumatic-gripper` | 3 | 2014-04 |
 | `mechanism-soft-robotics` | 3 | 2000-01 |
 | `mechanism-soft-synergy` | 1 | 2025-10 |

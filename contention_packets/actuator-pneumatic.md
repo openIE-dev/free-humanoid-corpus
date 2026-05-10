@@ -1,13 +1,13 @@
 ---
 title: "actuator-pneumatic"
 parent: "Invalidity Contentions"
-nav_order: 16
+nav_order: 18
 layout: default
 ---
 
 # Invalidity Contention Packet — `actuator-pneumatic`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `actuator-pneumatic`  
 **Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 2005-04  
@@ -191,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

@@ -1,13 +1,13 @@
 ---
 title: "control-language-model"
 parent: "Invalidity Contentions"
-nav_order: 74
+nav_order: 76
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-language-model`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-language-model`  
 **Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 2018-10  
@@ -147,4 +147,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

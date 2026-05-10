@@ -1,13 +1,13 @@
 ---
 title: "mechanism-sprawl-tunable"
 parent: "Invalidity Contentions"
-nav_order: 197
+nav_order: 199
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-sprawl-tunable`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `mechanism-sprawl-tunable`  
 **Entries:** 6 (3 commons-grade, 3 draft)  
 **Earliest disclosure:** 2013-05  
@@ -193,4 +193,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

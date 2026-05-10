@@ -1,13 +1,13 @@
 ---
 title: "control-egocentric-video-pretraining"
 parent: "Invalidity Contentions"
-nav_order: 55
+nav_order: 57
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-egocentric-video-pretraining`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-egocentric-video-pretraining`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2021-08  
@@ -133,4 +133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

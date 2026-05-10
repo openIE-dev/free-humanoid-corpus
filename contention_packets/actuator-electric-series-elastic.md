@@ -1,13 +1,13 @@
 ---
 title: "actuator-electric-series-elastic"
 parent: "Invalidity Contentions"
-nav_order: 12
+nav_order: 13
 layout: default
 ---
 
 # Invalidity Contention Packet — `actuator-electric-series-elastic`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `actuator-electric-series-elastic`  
 **Entries:** 19 (19 commons-grade, 0 draft)  
 **Earliest disclosure:** 1995-08  
@@ -455,4 +455,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

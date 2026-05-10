@@ -1,13 +1,13 @@
 ---
 title: "sensing-monocular-depth"
 parent: "Invalidity Contentions"
-nav_order: 236
+nav_order: 238
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-monocular-depth`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `sensing-monocular-depth`  
 **Entries:** 13 (10 commons-grade, 3 draft)  
 **Earliest disclosure:** 1981-08  
@@ -337,4 +337,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

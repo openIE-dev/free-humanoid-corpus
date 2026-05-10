@@ -1,13 +1,13 @@
 ---
 title: "control-persistent-autonomy"
 parent: "Invalidity Contentions"
-nav_order: 105
+nav_order: 107
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-persistent-autonomy`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-persistent-autonomy`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2007-01  
@@ -109,4 +109,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

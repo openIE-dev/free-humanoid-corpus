@@ -1,13 +1,13 @@
 ---
 title: "end-effector-prosthetic"
 parent: "Invalidity Contentions"
-nav_order: 143
+nav_order: 145
 layout: default
 ---
 
 # Invalidity Contention Packet — `end-effector-prosthetic`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `end-effector-prosthetic`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1997-09  
@@ -128,4 +128,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

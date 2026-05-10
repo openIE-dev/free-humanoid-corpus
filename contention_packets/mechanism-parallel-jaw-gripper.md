@@ -1,13 +1,13 @@
 ---
 title: "mechanism-parallel-jaw-gripper"
 parent: "Invalidity Contentions"
-nav_order: 184
+nav_order: 186
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-parallel-jaw-gripper`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `mechanism-parallel-jaw-gripper`  
 **Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 2008-01  
@@ -172,4 +172,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

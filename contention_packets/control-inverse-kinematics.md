@@ -1,13 +1,13 @@
 ---
 title: "control-inverse-kinematics"
 parent: "Invalidity Contentions"
-nav_order: 72
+nav_order: 74
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-inverse-kinematics`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-inverse-kinematics`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1955-06  
@@ -110,4 +110,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

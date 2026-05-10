@@ -1,13 +1,13 @@
 ---
 title: "software-mjbots-stack"
 parent: "Invalidity Contentions"
-nav_order: 248
+nav_order: 250
 layout: default
 ---
 
 # Invalidity Contention Packet — `software-mjbots-stack`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `software-mjbots-stack`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2019  
@@ -110,4 +110,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

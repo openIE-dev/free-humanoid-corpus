@@ -1,13 +1,13 @@
 ---
 title: "sensing-lidar"
 parent: "Invalidity Contentions"
-nav_order: 235
+nav_order: 237
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-lidar`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `sensing-lidar`  
 **Entries:** 17 (15 commons-grade, 2 draft)  
 **Earliest disclosure:** 2004  
@@ -411,4 +411,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

@@ -1,13 +1,13 @@
 ---
 title: "lander-sample-return"
 parent: "Invalidity Contentions"
-nav_order: 156
+nav_order: 158
 layout: default
 ---
 
 # Invalidity Contention Packet — `lander-sample-return`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `lander-sample-return`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1970-09  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

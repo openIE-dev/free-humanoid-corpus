@@ -1,13 +1,13 @@
 ---
 title: "mechanism-variable-buoyancy-glider"
 parent: "Invalidity Contentions"
-nav_order: 209
+nav_order: 211
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-variable-buoyancy-glider`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `mechanism-variable-buoyancy-glider`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1989-01  
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

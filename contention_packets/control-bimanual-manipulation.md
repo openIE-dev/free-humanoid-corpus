@@ -1,13 +1,13 @@
 ---
 title: "control-bimanual-manipulation"
 parent: "Invalidity Contentions"
-nav_order: 42
+nav_order: 44
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-bimanual-manipulation`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-bimanual-manipulation`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2024-10  
@@ -114,4 +114,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

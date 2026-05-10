@@ -1,13 +1,13 @@
 ---
 title: "mechanism-soft-pneumatic-gripper"
 parent: "Invalidity Contentions"
-nav_order: 194
+nav_order: 196
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-soft-pneumatic-gripper`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `mechanism-soft-pneumatic-gripper`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2014-04  
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*

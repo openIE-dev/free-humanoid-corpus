@@ -1,13 +1,13 @@
 ---
 title: "control-physics-simulation"
 parent: "Invalidity Contentions"
-nav_order: 106
+nav_order: 108
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-physics-simulation`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-10  
 **Cross-cut tag:** `control-physics-simulation`  
 **Entries:** 11 (10 commons-grade, 1 draft)  
 **Earliest disclosure:** 2003-01  
@@ -297,4 +297,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `2fbde5f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `7ee2634`.*
