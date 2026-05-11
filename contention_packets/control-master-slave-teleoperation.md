@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-master-slave-teleoperation`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `control-master-slave-teleoperation`  
 **Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-01  
@@ -194,4 +194,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

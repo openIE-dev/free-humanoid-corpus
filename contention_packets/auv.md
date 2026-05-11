@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `auv`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `auv`  
 **Entries:** 11 (11 commons-grade, 0 draft)  
 **Earliest disclosure:** 1957-08  
@@ -281,4 +281,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

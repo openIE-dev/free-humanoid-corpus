@@ -1,13 +1,13 @@
 ---
 title: "sensing-stereoscopic-camera"
 parent: "Invalidity Contentions"
-nav_order: 248
+nav_order: 249
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-stereoscopic-camera`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `sensing-stereoscopic-camera`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2000-07  
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

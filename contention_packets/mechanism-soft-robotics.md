@@ -1,13 +1,13 @@
 ---
 title: "mechanism-soft-robotics"
 parent: "Invalidity Contentions"
-nav_order: 202
+nav_order: 203
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-soft-robotics`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `mechanism-soft-robotics`  
 **Entries:** 3 (1 commons-grade, 2 draft)  
 **Earliest disclosure:** 2000-01  
@@ -132,4 +132,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-mpc`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `control-mpc`  
 **Entries:** 42 (39 commons-grade, 3 draft)  
 **Earliest disclosure:** 1980-11  
@@ -921,4 +921,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

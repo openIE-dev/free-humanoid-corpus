@@ -1,13 +1,13 @@
 ---
 title: "exoskeleton-full-body"
 parent: "Invalidity Contentions"
-nav_order: 150
+nav_order: 151
 layout: default
 ---
 
 # Invalidity Contention Packet — `exoskeleton-full-body`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `exoskeleton-full-body`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2008-05  
@@ -130,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

@@ -1,13 +1,13 @@
 ---
 title: "power-pressure-balanced-li-ion"
 parent: "Invalidity Contentions"
-nav_order: 223
+nav_order: 224
 layout: default
 ---
 
 # Invalidity Contention Packet — `power-pressure-balanced-li-ion`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `power-pressure-balanced-li-ion`  
 **Entries:** 3 (2 commons-grade, 1 draft)  
 **Earliest disclosure:** 2003-09  
@@ -134,4 +134,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

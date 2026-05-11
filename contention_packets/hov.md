@@ -1,13 +1,13 @@
 ---
 title: "hov"
 parent: "Invalidity Contentions"
-nav_order: 157
+nav_order: 158
 layout: default
 ---
 
 # Invalidity Contention Packet — `hov`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `hov`  
 **Entries:** 8 (8 commons-grade, 0 draft)  
 **Earliest disclosure:** 1984-12  
@@ -222,4 +222,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

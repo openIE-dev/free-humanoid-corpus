@@ -1,13 +1,13 @@
 ---
 title: "sensing-fingertip-tactile"
 parent: "Invalidity Contentions"
-nav_order: 238
+nav_order: 239
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-fingertip-tactile`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `sensing-fingertip-tactile`  
 **Entries:** 7 (5 commons-grade, 2 draft)  
 **Earliest disclosure:** 2009-12  
@@ -221,4 +221,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

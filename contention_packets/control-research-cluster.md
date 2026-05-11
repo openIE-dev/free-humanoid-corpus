@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-research-cluster`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `control-research-cluster`  
 **Entries:** 40 (4 commons-grade, 36 draft)  
 **Earliest disclosure:** 2000-01  
@@ -867,4 +867,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

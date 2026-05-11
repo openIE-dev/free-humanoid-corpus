@@ -1,13 +1,13 @@
 ---
 title: "power-tethered"
 parent: "Invalidity Contentions"
-nav_order: 224
+nav_order: 225
 layout: default
 ---
 
 # Invalidity Contention Packet — `power-tethered`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `power-tethered`  
 **Entries:** 13 (11 commons-grade, 2 draft)  
 **Earliest disclosure:** 1973  
@@ -325,4 +325,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

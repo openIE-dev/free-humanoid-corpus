@@ -1,13 +1,13 @@
 ---
 title: "service-robot"
 parent: "Invalidity Contentions"
-nav_order: 254
+nav_order: 255
 layout: default
 ---
 
 # Invalidity Contention Packet — `service-robot`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `service-robot`  
 **Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 2004-01  
@@ -165,4 +165,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

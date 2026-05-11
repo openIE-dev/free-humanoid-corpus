@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-station-keeping`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `control-station-keeping`  
 **Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 1964-06  
@@ -196,4 +196,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

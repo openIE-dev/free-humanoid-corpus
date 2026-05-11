@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-foundation-model-perception`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `control-foundation-model-perception`  
 **Entries:** 30 (27 commons-grade, 3 draft)  
 **Earliest disclosure:** 2009-06  
@@ -677,4 +677,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

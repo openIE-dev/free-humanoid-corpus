@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-hydraulic`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `actuator-hydraulic`  
 **Entries:** 33 (27 commons-grade, 6 draft)  
 **Earliest disclosure:** -0250  
@@ -731,4 +731,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

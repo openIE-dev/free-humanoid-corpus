@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-novel-view-synthesis`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `control-novel-view-synthesis`  
 **Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 2020-03  
@@ -195,4 +195,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

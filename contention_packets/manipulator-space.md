@@ -1,13 +1,13 @@
 ---
 title: "manipulator-space"
 parent: "Invalidity Contentions"
-nav_order: 171
+nav_order: 172
 layout: default
 ---
 
 # Invalidity Contention Packet — `manipulator-space`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `manipulator-space`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 1966-04  
@@ -146,4 +146,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

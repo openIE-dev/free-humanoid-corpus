@@ -1,13 +1,13 @@
 ---
 title: "mechanism-underactuated-grasping"
 parent: "Invalidity Contentions"
-nav_order: 214
+nav_order: 215
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-underactuated-grasping`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `mechanism-underactuated-grasping`  
 **Entries:** 9 (9 commons-grade, 0 draft)  
 **Earliest disclosure:** 1986  
@@ -256,4 +256,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

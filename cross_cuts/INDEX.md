@@ -56,7 +56,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-wave-power` | 1 | 2007-01 |
 | `actuator-wind-solar` | 1 | 2013-09 |
 | `agriculture-robot` | 9 | 1992-08 |
-| `ai-foundation-model` | 6 | 2014-03 |
+| `ai-foundation-model` | 30 | 1981-06 |
 | `autonomous-vehicle` | 11 | 1999-01 |
 | `auv` | 11 | 1957-08 |
 | `auv-amphibious` | 1 | 2019-02 |
@@ -119,6 +119,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-cross-embodiment` | 6 | 2023-10 |
 | `control-cv-autonomous-flight` | 1 | 2018-02 |
 | `control-deep-cnn` | 2 | 2012-12 |
+| `control-deep-learning` | 1 | 2012-09 |
 | `control-deep-learning-policy` | 3 | 2017-03 |
 | `control-deep-rl` | 3 | 2013-12 |
 | `control-defensive-drone` | 1 | 2000-01 |
@@ -284,7 +285,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-safety-rated` | 1 | 1991-01 |
 | `control-sampling-based-planning` | 1 | 1998-10 |
 | `control-scientific-ml` | 1 | 2021-07 |
-| `control-self-play` | 2 | 2016-01 |
+| `control-self-play` | 3 | 2016-01 |
 | `control-self-supervised-language` | 1 | 2018-10 |
 | `control-self-supervised-vision` | 3 | 2021-11 |
 | `control-semantic-slam` | 4 | 2024-03 |
@@ -294,6 +295,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-sequence-modeling` | 1 | 2021-06 |
 | `control-set-of-mark-grounding` | 1 | 2025-02 |
 | `control-sim-to-real` | 35 | 2014-12-11 |
+| `control-slam` | 1 | 2016-05 |
 | `control-slip-model` | 2 | 1981-01 |
 | `control-social-robot` | 1 | 1998-09 |
 | `control-soft-microfluidic` | 1 | 2016-08 |
@@ -311,6 +313,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-tilt-triggered-gait` | 1 | 2011-03 |
 | `control-tool-use` | 1 | 2024-10 |
 | `control-trajectory-optimization` | 4 | 2012-10 |
+| `control-tree-search` | 2 | 2016-01 |
 | `control-tremor-filtering` | 1 | 2000-07 |
 | `control-tripod-gait` | 1 | 2000-04 |
 | `control-tubular-guide-positioning` | 1 | 2017-08 |

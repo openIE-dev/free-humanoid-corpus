@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-gaussian-splatting-slam`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `control-gaussian-splatting-slam`  
 **Entries:** 6 (2 commons-grade, 4 draft)  
 **Earliest disclosure:** 2024-03  
@@ -190,4 +190,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

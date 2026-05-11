@@ -1,13 +1,13 @@
 ---
 title: "mechanism-anthropomorphic-hand"
 parent: "Invalidity Contentions"
-nav_order: 177
+nav_order: 178
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-anthropomorphic-hand`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `mechanism-anthropomorphic-hand`  
 **Entries:** 141 (117 commons-grade, 24 draft)  
 **Earliest disclosure:** 1495  
@@ -2920,4 +2920,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

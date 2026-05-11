@@ -1,13 +1,13 @@
 ---
 title: "mechanism-dynamic-legged-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 184
+nav_order: 185
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-dynamic-legged-locomotion`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `mechanism-dynamic-legged-locomotion`  
 **Entries:** 2 (1 commons-grade, 1 draft)  
 **Earliest disclosure:** 1981-01  
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

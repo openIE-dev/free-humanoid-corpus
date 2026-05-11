@@ -1,13 +1,13 @@
 ---
 title: "quadruped-robot"
 parent: "Invalidity Contentions"
-nav_order: 225
+nav_order: 226
 layout: default
 ---
 
 # Invalidity Contention Packet — `quadruped-robot`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `quadruped-robot`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1999-05  
@@ -127,4 +127,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

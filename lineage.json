@@ -872,6 +872,14 @@
       ]
     },
     {
+      "id": "ransac-fischler-bolles-1981",
+      "name": "RANSAC (Random Sample Consensus; Fischler & Bolles 1981)",
+      "year": "1981",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "lucas-kanade-1981",
       "name": "Lucas-Kanade Optical Flow",
       "year": "1981",
@@ -1990,6 +1998,14 @@
       "descendants": [
         "orb-slam-mur-artal-2015"
       ]
+    },
+    {
+      "id": "sift-lowe-1999",
+      "name": "SIFT (Scale-Invariant Feature Transform; Lowe 1999)",
+      "year": "1999",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "big-o-megadeus",
@@ -3981,6 +3997,14 @@
       "descendants": []
     },
     {
+      "id": "alexnet-krizhevsky-2012",
+      "name": "AlexNet (Krizhevsky/Sutskever/Hinton 2012)",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "boston-dynamics-ls3-alphadog-2012",
       "name": "Boston Dynamics LS3 (AlphaDog)",
       "year": "2012",
@@ -4479,6 +4503,14 @@
       "descendants": []
     },
     {
+      "id": "gan-goodfellow-2014",
+      "name": "Generative Adversarial Networks (Goodfellow et al. 2014)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "gan-goodfellow-nips-2014",
       "name": "Generative Adversarial Networks (GAN)",
       "year": "2014",
@@ -4884,6 +4916,16 @@
       ]
     },
     {
+      "id": "u-net-ronneberger-2015",
+      "name": "U-Net (Ronneberger et al. 2015; medical image segmentation)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "stable-diffusion-rombach-2022"
+      ]
+    },
+    {
       "id": "u-net-ronneberger-miccai-2015",
       "name": "U-Net",
       "year": "2015",
@@ -4939,6 +4981,14 @@
       "descendants": [
         "rainbow-robotics-rb-y1"
       ]
+    },
+    {
+      "id": "yolo-redmon-2015",
+      "name": "YOLO (You Only Look Once; Redmon et al. 2015)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "yolo-redmon-cvpr-2016",
@@ -5029,6 +5079,14 @@
       "descendants": []
     },
     {
+      "id": "resnet-he-2015",
+      "name": "ResNet (He et al. MSRA 2015; residual connections)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "resnet-he-cvpr-2016",
       "name": "ResNet (Residual Networks)",
       "year": "2015",
@@ -5062,6 +5120,16 @@
       "ancestors": [],
       "descendants": [
         "anymal-d-eth-rsl-2022"
+      ]
+    },
+    {
+      "id": "alphago-deepmind-2016",
+      "name": "AlphaGo (DeepMind Silver et al. 2016)",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "alphazero-deepmind-2017"
       ]
     },
     {
@@ -5215,6 +5283,14 @@
       "name": "The Wild Robot — ROZZUM unit 7134",
       "year": "2016",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cartographer-google-hess-2016",
+      "name": "Cartographer (Google Hess et al. 2016; LIDAR SLAM)",
+      "year": "2016",
+      "corpus": "open",
       "ancestors": [],
       "descendants": []
     },
@@ -5593,6 +5669,24 @@
       "descendants": []
     },
     {
+      "id": "transformer-vaswani-2017",
+      "name": "Transformer (Vaswani et al. Google 2017; 'Attention Is All You Need')",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "bert-devlin-2018",
+        "clip-radford-openai-2021",
+        "dalle-openai-2021",
+        "detr-carion-fb-2020",
+        "diffusion-transformers-dit-peebles-2022",
+        "gpt-lineage-openai-2018-2024",
+        "llama-meta-2023",
+        "vision-transformer-vit-dosovitskiy-2020",
+        "whisper-openai-2022"
+      ]
+    },
+    {
       "id": "transformer-vaswani-neurips-2017",
       "name": "Transformer (Attention Is All You Need)",
       "year": "2017",
@@ -5802,6 +5896,16 @@
       "corpus": "private",
       "ancestors": [
         "toyota-partner-robot-violin"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "alphazero-deepmind-2017",
+      "name": "AlphaZero (DeepMind 2017; tabula-rasa self-play)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [
+        "alphago-deepmind-2016"
       ],
       "descendants": []
     },
@@ -6099,6 +6203,16 @@
       "descendants": []
     },
     {
+      "id": "gpt-lineage-openai-2018-2024",
+      "name": "GPT lineage (GPT-1 / GPT-2 / GPT-3 / GPT-4 / GPT-5; OpenAI)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "transformer-vaswani-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "openai-dactyl",
       "name": "OpenAI Dactyl",
       "year": "2018",
@@ -6161,6 +6275,16 @@
       "descendants": []
     },
     {
+      "id": "bert-devlin-2018",
+      "name": "BERT (Devlin et al. Google 2018; bidirectional encoder)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "transformer-vaswani-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "bert-devlin-google-2018",
       "name": "BERT (Bidirectional Encoder Representations from Transformers)",
       "year": "2018",
@@ -6189,6 +6313,14 @@
     {
       "id": "sutton-barto-rl-2nd-edition-2018",
       "name": "Sutton & Barto, Reinforcement Learning: An Introduction (2nd edition)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "alphafold-deepmind-2018-2022",
+      "name": "AlphaFold (DeepMind 2018-2022; protein structure prediction)",
       "year": "2018",
       "corpus": "academic",
       "ancestors": [],
@@ -6588,6 +6720,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "gaussian-splatting-kerbl-2023",
         "kerbl-3d-gaussian-splatting-siggraph-2023",
         "lerf-kerr-2023",
         "nerfstudio-berkeley-2023",
@@ -6600,6 +6733,16 @@
       "year": "2020",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "detr-carion-fb-2020",
+      "name": "DETR (DEtection TRansformer; Carion FAIR 2020)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [
+        "transformer-vaswani-2017"
+      ],
       "descendants": []
     },
     {
@@ -6643,9 +6786,11 @@
       "ancestors": [],
       "descendants": [
         "diffusion-policy",
+        "diffusion-transformers-dit-peebles-2022",
         "dp3-ze-rss-2024",
         "physical-intelligence-pi0-2024",
-        "rdt-1b-thu-2024"
+        "rdt-1b-thu-2024",
+        "stable-diffusion-rombach-2022"
       ]
     },
     {
@@ -6677,6 +6822,18 @@
         "lichtsteiner-dvs-event-camera-2008"
       ],
       "descendants": []
+    },
+    {
+      "id": "vision-transformer-vit-dosovitskiy-2020",
+      "name": "Vision Transformer (ViT; Dosovitskiy et al. Google 2020)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [
+        "transformer-vaswani-2017"
+      ],
+      "descendants": [
+        "segment-anything-sam-meta-2023"
+      ]
     },
     {
       "id": "vit-dosovitskiy-iclr-2021",
@@ -6722,6 +6879,17 @@
       "descendants": []
     },
     {
+      "id": "dalle-openai-2021",
+      "name": "DALL-E (OpenAI 2021; first foundational text-to-image)",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "clip-radford-openai-2021",
+        "transformer-vaswani-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "sereact-pickgpt-2021",
       "name": "Sereact PickGPT (first commercial robotics transformer)",
       "year": "2021",
@@ -6736,6 +6904,19 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "clip-radford-openai-2021",
+      "name": "CLIP (Contrastive Language-Image Pre-training; Radford OpenAI 2021)",
+      "year": "2021",
+      "corpus": "academic",
+      "ancestors": [
+        "transformer-vaswani-2017"
+      ],
+      "descendants": [
+        "dalle-openai-2021",
+        "stable-diffusion-rombach-2022"
+      ]
     },
     {
       "id": "nasa-perseverance-ingenuity-2021",
@@ -7233,6 +7414,18 @@
       "descendants": []
     },
     {
+      "id": "stable-diffusion-rombach-2022",
+      "name": "Stable Diffusion (Rombach et al. Stability AI 2022; open-source text-to-image)",
+      "year": "2022",
+      "corpus": "open",
+      "ancestors": [
+        "clip-radford-openai-2021",
+        "ddpm-ho-neurips-2020",
+        "u-net-ronneberger-2015"
+      ],
+      "descendants": []
+    },
+    {
       "id": "xiaomi-cyberone-2022",
       "name": "Xiaomi CyberOne",
       "year": "2022",
@@ -7247,6 +7440,16 @@
       "corpus": "academic",
       "ancestors": [
         "anymal"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "whisper-openai-2022",
+      "name": "Whisper (OpenAI 2022; open-source speech recognition)",
+      "year": "2022",
+      "corpus": "open",
+      "ancestors": [
+        "transformer-vaswani-2017"
       ],
       "descendants": []
     },
@@ -7268,6 +7471,17 @@
         "openvla",
         "robocat"
       ]
+    },
+    {
+      "id": "diffusion-transformers-dit-peebles-2022",
+      "name": "Diffusion Transformers (DiT; Peebles & Xie 2022)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [
+        "ddpm-ho-neurips-2020",
+        "transformer-vaswani-2017"
+      ],
+      "descendants": []
     },
     {
       "id": "monarch-tractor-mk-v-2022",
@@ -7370,6 +7584,16 @@
       "descendants": []
     },
     {
+      "id": "llama-meta-2023",
+      "name": "LLaMA (Meta open-weight LLM lineage; 2023-2025)",
+      "year": "2023",
+      "corpus": "open",
+      "ancestors": [
+        "transformer-vaswani-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "nerfstudio-berkeley-2023",
       "name": "Nerfstudio + Nerfacto",
       "year": "2023",
@@ -7450,6 +7674,16 @@
       "year": "2023",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "segment-anything-sam-meta-2023",
+      "name": "Segment Anything (SAM; Meta FAIR 2023)",
+      "year": "2023",
+      "corpus": "open",
+      "ancestors": [
+        "vision-transformer-vit-dosovitskiy-2020"
+      ],
       "descendants": []
     },
     {
@@ -7665,6 +7899,16 @@
       "corpus": "academic",
       "ancestors": [
         "mujoco-todorov-2012"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "gaussian-splatting-kerbl-2023",
+      "name": "3D Gaussian Splatting (Kerbl Inria 2023)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "nerf-mildenhall-eccv-2020"
       ],
       "descendants": []
     },

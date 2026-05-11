@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `control-self-play`
 
-**Generated:** 2026-05-10  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `control-self-play`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2016-01  
 **Most recent disclosure:** 2024-04
 
@@ -58,6 +58,25 @@ cite, copy, or redistribute these contentions.
 1. Silver et al. Nature 529 2016 (AlphaGo).
 2. Silver et al. Nature 550 2017 (AlphaGo Zero).
 3. Silver et al. arXiv:1712.01815 (AlphaZero).
+
+---
+
+### 2017-12 — AlphaZero (DeepMind 2017; tabula-rasa self-play)
+
+- **id:** `alphazero-deepmind-2017`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** DeepMind (London)
+- **disclosure citation:** Silver, D., Hubert, T., Schrittwieser, J., et al. 'Mastering chess and shogi by self-play with a general reinforcement learning algorithm'. arXiv:1712.01815, December 2017. Published Science 362(6419):1140-1144, December 2018. DeepMind.
+- **disclosed subsystems:** `ai-foundation-model`, `control-tree-search`, `control-self-play`
+
+**Prior art notes:**
+
+> AlphaZero (DeepMind Silver et al. arXiv 1712.01815, Science 2018) is the tabula-rasa self-play foundational result. 8-year-deep academic-publication prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1712.01815
 
 ---
 
@@ -111,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `b980619`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*

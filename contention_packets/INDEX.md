@@ -8,9 +8,9 @@ layout: default
 
 # Invalidity Contention Packets
 
-**Generated:** 2026-05-10  
-**Packets:** 267  
-**Corpus revision:** `b980619`
+**Generated:** 2026-05-11  
+**Packets:** 268  
+**Corpus revision:** `934776f`
 
 Each packet below is an attorney-ready invalidity-contention reference for a
 specific subsystem. Packets are generated from `corpus.jsonl` and are
@@ -50,7 +50,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`actuator-spherical-multi-dof`](actuator-spherical-multi-dof.md) | 2 | 2 | 0 | 2020 | 2023-10 |
 | [`actuator-variable-stiffness`](actuator-variable-stiffness.md) | 2 | 2 | 0 | 2005-04 | 2015-06 |
 | [`agriculture-robot`](agriculture-robot.md) | 9 | 9 | 0 | 1992-08 | 2022-12 |
-| [`ai-foundation-model`](ai-foundation-model.md) | 6 | 6 | 0 | 2014-03 | 2024-01 |
+| [`ai-foundation-model`](ai-foundation-model.md) | 30 | 30 | 0 | 1981-06 | 2024-01 |
 | [`autonomous-vehicle`](autonomous-vehicle.md) | 11 | 11 | 0 | 1999-01 | 2021-06 |
 | [`auv`](auv.md) | 11 | 11 | 0 | 1957-08 | 2022-02 |
 | [`auv-glider`](auv-glider.md) | 2 | 2 | 0 | 2001-01 | 2020-07 |
@@ -147,7 +147,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-research-cluster`](control-research-cluster.md) | 40 | 4 | 36 | 2000-01 | 2018-09 |
 | [`control-rl-policy`](control-rl-policy.md) | 151 | 123 | 28 | 1818 | 2026-04 |
 | [`control-rough-terrain-locomotion`](control-rough-terrain-locomotion.md) | 7 | 7 | 0 | 2000-04 | 2024-09 |
-| [`control-self-play`](control-self-play.md) | 2 | 2 | 0 | 2016-01 | 2024-04 |
+| [`control-self-play`](control-self-play.md) | 3 | 3 | 0 | 2016-01 | 2024-04 |
 | [`control-self-supervised-vision`](control-self-supervised-vision.md) | 3 | 3 | 0 | 2021-11 | 2023-04 |
 | [`control-semantic-slam`](control-semantic-slam.md) | 4 | 1 | 3 | 2024-03 | 2026-04 |
 | [`control-sensitivity-amplification`](control-sensitivity-amplification.md) | 2 | 2 | 0 | 2004-03 | 2018-09 |
@@ -162,6 +162,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-tethered`](control-tethered.md) | 4 | 4 | 0 | 1965-01 | 2003-01 |
 | [`control-tethered-teleoperation`](control-tethered-teleoperation.md) | 5 | 5 | 0 | 1989-04 | 2008-05 |
 | [`control-trajectory-optimization`](control-trajectory-optimization.md) | 4 | 4 | 0 | 2012-10 | 2025-03 |
+| [`control-tree-search`](control-tree-search.md) | 2 | 2 | 0 | 2016-01 | 2017-12 |
 | [`control-uncalibrated-video-perception`](control-uncalibrated-video-perception.md) | 2 | 2 | 0 | 2023-12 | 2025-08 |
 | [`control-vibrotactile-feedback`](control-vibrotactile-feedback.md) | 2 | 0 | 2 | 2023-01 | 2023-09 |
 | [`control-vio-slam`](control-vio-slam.md) | 16 | 10 | 6 | 2010-07 | 2026-04 |
