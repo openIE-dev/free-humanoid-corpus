@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-foundation-model`
 
-**21 corpus entries disclose this subsystem.**
+**22 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1997-11
 
@@ -194,6 +194,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Apple Inc. Apple Intelligence stack (announced June 2024 WWDC); Apple Vision Pro hardware (released February 2024) increasingly deployed as teleop interface for academic humanoid robots (Open-TeleVision round-16); Apple Machine Learning Research publishing robotics-adjacent work 2024-2025.
 - **ip status**: trade-secret
 - **prior art notes**: Apple's emerging robotics research (2024-2025) is documented primarily through hardware deployment (Apple Vision Pro in Open-TeleVision round-16) and Apple Machine Learning Research publications. Specific internal Apple robotics products are not publicly disclosed. The existence of Apple-platform academic deployments establishes prior-art shielding against any commercial humanoid claim that integrates Apple Vision Pro / Apple Intelligence as a teleop or perception interface.
+
+## Apptronik Apollo (Gen 2 + Catalyst; 2025-2026) (2025-08)
+
+- **id**: `apptronik-apollo-gen2-2025`
+- **corpus**: private
+- **creator**: Apptronik Inc. (Austin, TX, USA); Jeff Cardenas + Nick Paine + Luis Sentis (UT Austin Human Centered Robotics Lab / NASA Valkyrie lineage)
+- **disclosure**: Apptronik Inc. (Austin, TX, USA; founded 2016, NASA Valkyrie lineage). Apollo Gen 1 revealed 2023. Apollo Gen 2 (2025) — substantially revised design with improved actuators, dexterity, and runtime. 'Catalyst' embodied-AI software platform (with Google DeepMind Gemini Robotics, 2025). Production-intent partnerships with Mercedes-Benz, GXO Logistics, and others. $350M+ Series A (Feb 2025).
+- **ip status**: trade-secret
+- **prior art notes**: Apptronik Apollo Gen 2 + Catalyst (Apptronik Austin 2025-2026) is the NASA-Valkyrie-lineage commercial humanoid's next-generation evolution. <1-year-deep public-disclosure prior art (Gen 1 from 2023). Lineage descends from NASA Valkyrie (corpus nasa-valkyrie) + the corpus apptronik-apollo Gen 1 entry; Catalyst uses Google DeepMind Gemini Robotics (corpus gemini-google-deepmind-2023). One of the leading US commercial-humanoid players (with Figure/Optimus/1X/Atlas corpus).
 
 ## Sunday Robotics Memo (household humanoid; Tony Zhao + Cheng Chi) (2025-11)
 

@@ -1,7 +1,7 @@
 ---
 title: "control-tree-search"
 parent: "Invalidity Contentions"
-nav_order: 144
+nav_order: 147
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `control-tree-search`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2016-01  
-**Most recent disclosure:** 2019-11
+**Most recent disclosure:** 2022-10
 
 ---
 
@@ -97,6 +97,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-10 — AlphaTensor + AlphaDev (DeepMind 2022-2023; RL discovers faster algorithms)
+
+- **id:** `alphatensor-alphadev-deepmind-2022`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Google DeepMind; Alhussein Fawzi + Matej Balog (AlphaTensor); Daniel Mankowitz + team (AlphaDev)
+- **disclosure citation:** Fawzi, A., Balog, M., Huang, A., et al. 'Discovering faster matrix multiplication algorithms with reinforcement learning'. Nature 610:47-53, October 2022 (AlphaTensor). Mankowitz, D.J., Michi, A., Zhernov, A., et al. 'Faster sorting algorithms discovered using deep reinforcement learning'. Nature 618:257-263, June 2023 (AlphaDev). DeepMind.
+- **disclosed subsystems:** `ai-foundation-model`, `control-tree-search`
+
+**Prior art notes:**
+
+> AlphaTensor + AlphaDev (DeepMind Nature 2022 + Nature 2023) are RL agents that discover novel faster fundamental algorithms. 3-year-deep academic-publication prior art. AlphaZero (corpus) applied to math + computer science; part of DeepMind's AlphaX-for-science lineage.
+
+**Sources:**
+
+1. Nature 610:47-53, October 2022 (AlphaTensor); Nature 618:257-263, June 2023 (AlphaDev).
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -127,4 +146,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

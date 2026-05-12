@@ -1,7 +1,7 @@
 ---
 title: "mechanism-cam-driven"
 parent: "Invalidity Contentions"
-nav_order: 193
+nav_order: 197
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `mechanism-cam-driven`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
-**Earliest disclosure:** 1206-01  
+**Entries:** 5 (5 commons-grade, 0 draft)  
+**Earliest disclosure:** 0850-01  
 **Most recent disclosure:** 1800-01
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 0850-01 — Banu Musa's Book of Ingenious Devices (~850 CE; the al-Jazari predecessor)
+
+- **id:** `banu-musa-ingenious-devices-850`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Banu Musa brothers (Muhammad + Ahmad + al-Hasan ibn Musa ibn Shakir); Baghdad House of Wisdom, ~850 CE
+- **disclosure citation:** Banu Musa brothers (Muhammad, Ahmad, and al-Hasan ibn Musa ibn Shakir). 'Kitab al-Hiyal' ('The Book of Ingenious Devices'). ~850 CE (compiled under the patronage of the Abbasid caliph al-Ma'mun). Baghdad, House of Wisdom (Bayt al-Hikma). ~100 devices described.
+- **disclosed subsystems:** `automaton-historical`, `mechanism-cam-driven`
+
+**Prior art notes:**
+
+> Banu Musa's Book of Ingenious Devices (Baghdad House of Wisdom ~850 CE) is the foundational Islamic-Golden-Age automata + mechanism treatise — the predecessor of al-Jazari (corpus al-jazari-ingenious-devices-1206). 1,175-year-deep public-domain prior art. Built on Hero of Alexandria (corpus); the programmable flute player prefigures pinned-cylinder programming + the Jacquard loom (corpus).
+
+**Sources:**
+
+1. Banu Musa, 'The Book of Ingenious Devices' (Kitab al-Hiyal), ~850 CE; trans. Donald R. Hill, 1979.
+
+---
 
 ### 1206-01 — Al-Jazari's Book of Ingenious Mechanical Devices (1206)
 
@@ -146,4 +165,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

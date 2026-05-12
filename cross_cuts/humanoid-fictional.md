@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `humanoid-fictional`
 
-**12 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495-01
 
@@ -59,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: The Day the Earth Stood Still (1951 film). 20th Century Fox; directed by Robert Wise; screenplay by Edmund H. North, based on Harry Bates's short story 'Farewell to the Master' (Astounding Science Fiction, October 1940, where the robot is named 'Gnut'). 'Klaatu barada nikto.'
 - **ip status**: copyright-fox (1951 film); public-domain (Bates 1940 story)
 - **prior art notes**: Gort (The Day the Earth Stood Still 1951; based on Harry Bates's 'Gnut' 1940) is the archetypal silent, immensely powerful guardian robot — the 'autonomous-enforcer / robot peacekeeper' trope. 74-year-deep fictional-disclosure prior art (85-year for the Bates story). Ancestor of the Iron Giant (corpus) + Sentinels (corpus) + Terminator-as-inverse (corpus). Relevant to autonomous lethal robots + 'AI given enforcement authority' discourse.
+
+## Rosie the Robot (The Jetsons; 1962) (1962-09)
+
+- **id**: `rosie-jetsons-1962`
+- **corpus**: fictional
+- **creator**: Hanna-Barbera (The Jetsons, 1962); Jean Vander Pyl (voice)
+- **disclosure**: The Jetsons (Hanna-Barbera, ABC). First aired September 1962. Rosie (also spelled 'Rosey') the Robot — the Jetson family's robotic housekeeper. Voiced by Jean Vander Pyl. An XB-500 model from 'U-Rent A Maid'.
+- **ip status**: copyright-warner-bros
+- **prior art notes**: Rosie the Robot (The Jetsons, Hanna-Barbera 1962) is the archetypal household robot servant — the cultural ancestor of the entire 'home helper robot' product category. 63-year-deep fictional-disclosure prior art. The implicit benchmark the commercial home-humanoid wave (Roomba/HSR/NEO/Sunday Memo corpus) is racing to meet.
 
 ## Mechagodzilla (Toho 1974; the giant mecha kaiju) (1974-03)
 

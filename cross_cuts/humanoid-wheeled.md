@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `humanoid-wheeled`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2022-01
+Earliest disclosure: 1962-09
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Rosie the Robot (The Jetsons; 1962) (1962-09)
+
+- **id**: `rosie-jetsons-1962`
+- **corpus**: fictional
+- **creator**: Hanna-Barbera (The Jetsons, 1962); Jean Vander Pyl (voice)
+- **disclosure**: The Jetsons (Hanna-Barbera, ABC). First aired September 1962. Rosie (also spelled 'Rosey') the Robot — the Jetson family's robotic housekeeper. Voiced by Jean Vander Pyl. An XB-500 model from 'U-Rent A Maid'.
+- **ip status**: copyright-warner-bros
+- **prior art notes**: Rosie the Robot (The Jetsons, Hanna-Barbera 1962) is the archetypal household robot servant — the cultural ancestor of the entire 'home helper robot' product category. 63-year-deep fictional-disclosure prior art. The implicit benchmark the commercial home-humanoid wave (Roomba/HSR/NEO/Sunday Memo corpus) is racing to meet.
 
 ## Reflex Robotics (NYC wheeled humanoid) (2022-01)
 

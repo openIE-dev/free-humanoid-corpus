@@ -1,7 +1,7 @@
 ---
 title: "mechanism-underactuated-finger"
 parent: "Invalidity Contentions"
-nav_order: 229
+nav_order: 233
 layout: default
 ---
 
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

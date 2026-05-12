@@ -1,7 +1,7 @@
 ---
 title: "control-supervised-autonomy"
 parent: "Invalidity Contentions"
-nav_order: 138
+nav_order: 141
 layout: default
 ---
 
@@ -136,4 +136,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

@@ -16,14 +16,30 @@
       "year": "0070",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "banu-musa-ingenious-devices-850"
+      ]
+    },
+    {
+      "id": "banu-musa-ingenious-devices-850",
+      "name": "Banu Musa's Book of Ingenious Devices (~850 CE; the al-Jazari predecessor)",
+      "year": "0850",
+      "corpus": "academic",
+      "ancestors": [
+        "hero-of-alexandria-automata-1c"
+      ],
+      "descendants": [
+        "al-jazari-ingenious-devices-1206"
+      ]
     },
     {
       "id": "al-jazari-ingenious-devices-1206",
       "name": "Al-Jazari's Book of Ingenious Mechanical Devices (1206)",
       "year": "1206",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "banu-musa-ingenious-devices-850"
+      ],
       "descendants": []
     },
     {
@@ -190,6 +206,14 @@
       ]
     },
     {
+      "id": "lyapunov-stability-1892",
+      "name": "Lyapunov Stability Theory (Aleksandr Lyapunov 1892)",
+      "year": "1892",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "schlesinger-grasp-classification-1919",
       "name": "Schlesinger 6-grasp classification",
       "year": "1919",
@@ -220,7 +244,9 @@
       "year": "1922",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "ziegler-nichols-pid-tuning-1942"
+      ]
     },
     {
       "id": "metropolis-maschinenmensch",
@@ -291,6 +317,16 @@
       "year": "1942",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ziegler-nichols-pid-tuning-1942",
+      "name": "Ziegler-Nichols PID Tuning Rules (1942)",
+      "year": "1942",
+      "corpus": "academic",
+      "ancestors": [
+        "minorsky-pid-control-1922"
+      ],
       "descendants": []
     },
     {
@@ -482,6 +518,16 @@
       "descendants": []
     },
     {
+      "id": "lqr-kalman-1960",
+      "name": "Linear Quadratic Regulator / LQR + LQG (Kalman 1960)",
+      "year": "1960",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "tassa-ilqg-2012"
+      ]
+    },
+    {
       "id": "kalman-filter-1960",
       "name": "Kalman Filter (Rudolf Kalman 1960; optimal state estimation)",
       "year": "1960",
@@ -528,6 +574,18 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "rosie-jetsons-1962",
+      "name": "Rosie the Robot (The Jetsons; 1962)",
+      "year": "1962",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "1x-neo",
+        "irobot-roomba-2002",
+        "sunday-robotics-memo-2025"
+      ]
     },
     {
       "id": "belgrade-usc-tomovic-bekey-hand-1963",
@@ -1616,7 +1674,8 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
-        "sift-lowe-1999"
+        "sift-lowe-1999",
+        "superglue-sarlin-2020"
       ]
     },
     {
@@ -2245,6 +2304,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "openai-five-dota2-2018",
         "sutskever-seq2seq-nips-2014"
       ]
     },
@@ -2409,6 +2469,17 @@
       "descendants": []
     },
     {
+      "id": "bundle-adjustment-triggs-1999",
+      "name": "Bundle Adjustment (Triggs et al. 1999; the SfM optimization backbone)",
+      "year": "1999",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "colmap-schoenberger-frahm-2016",
+        "orb-slam-mur-artal-2015"
+      ]
+    },
+    {
       "id": "lowe-sift-1999",
       "name": "SIFT (Scale-Invariant Feature Transform)",
       "year": "1999",
@@ -2426,7 +2497,9 @@
       "ancestors": [
         "harris-corner-detector-1988"
       ],
-      "descendants": []
+      "descendants": [
+        "superglue-sarlin-2020"
+      ]
     },
     {
       "id": "big-o-megadeus",
@@ -2930,7 +3003,9 @@
       "name": "iRobot Roomba (foundational autonomous home robot)",
       "year": "2002",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "rosie-jetsons-1962"
+      ],
       "descendants": []
     },
     {
@@ -3865,6 +3940,14 @@
       "descendants": []
     },
     {
+      "id": "gerty-moon-2009",
+      "name": "GERTY (Moon; 2009)",
+      "year": "2009",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "waymo-google-self-driving-car-2009",
       "name": "Waymo / Google Self-Driving Car",
       "year": "2009",
@@ -4567,7 +4650,9 @@
       "name": "Tassa iLQG / Synthesis and Stabilization of Complex Behaviors",
       "year": "2012",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "lqr-kalman-1960"
+      ],
       "descendants": [
         "howell-tassa-mujoco-mpc-2025",
         "mastalli-crocoddyl-2020"
@@ -4633,6 +4718,7 @@
       ],
       "descendants": [
         "apptronik-apollo",
+        "apptronik-apollo-gen2-2025",
         "apptronik-apollo-publications-2024"
       ]
     },
@@ -4832,6 +4918,14 @@
       "name": "Cruise (GM-acquired robotaxi; 2024 controversy)",
       "year": "2013",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "samantha-her-2013",
+      "name": "Samantha (Her; 2013)",
+      "year": "2013",
+      "corpus": "fictional",
       "ancestors": [],
       "descendants": []
     },
@@ -5241,6 +5335,14 @@
       "descendants": []
     },
     {
+      "id": "tars-case-interstellar-2014",
+      "name": "TARS + CASE (Interstellar; 2014)",
+      "year": "2014",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "pisa-iit-softhand",
       "name": "Pisa-IIT SoftHand",
       "year": "2014",
@@ -5460,6 +5562,7 @@
       "year": "2015",
       "corpus": "academic",
       "ancestors": [
+        "bundle-adjustment-triggs-1999",
         "lowe-sift-1999"
       ],
       "descendants": []
@@ -5884,6 +5987,19 @@
       "descendants": []
     },
     {
+      "id": "colmap-schoenberger-frahm-2016",
+      "name": "COLMAP (Schönberger & Frahm 2016; foundational structure-from-motion)",
+      "year": "2016",
+      "corpus": "open",
+      "ancestors": [
+        "bundle-adjustment-triggs-1999"
+      ],
+      "descendants": [
+        "gaussian-splatting-kerbl-2023",
+        "nerf-mildenhall-eccv-2020"
+      ]
+    },
+    {
       "id": "nuro-2016",
       "name": "Nuro (cabin-less delivery pod; first NHTSA exemption)",
       "year": "2016",
@@ -6045,6 +6161,8 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "deepseek-v3-r1-2024-2025",
+        "gemini-google-deepmind-2023",
         "llama-meta-2023"
       ]
     },
@@ -6270,11 +6388,14 @@
       "ancestors": [],
       "descendants": [
         "bert-devlin-2018",
+        "claude-anthropic-2021",
         "clip-radford-openai-2021",
         "dalle-openai-2021",
+        "deepseek-v3-r1-2024-2025",
         "detr-carion-fb-2020",
         "diffusion-transformers-dit-peebles-2022",
         "flashattention-dao-2022",
+        "gemini-google-deepmind-2023",
         "gpt-lineage-openai-2018-2024",
         "llama-meta-2023",
         "vision-transformer-vit-dosovitskiy-2020",
@@ -6306,6 +6427,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "claude-anthropic-2021",
         "instructgpt-ouyang-openai-2022"
       ]
     },
@@ -6320,7 +6442,8 @@
         "williams-reinforce-1992"
       ],
       "descendants": [
-        "instructgpt-ouyang-openai-2022"
+        "instructgpt-ouyang-openai-2022",
+        "openai-five-dota2-2018"
       ]
     },
     {
@@ -6508,6 +6631,8 @@
         "alphago-deepmind-2016"
       ],
       "descendants": [
+        "alphaproof-alphageometry-deepmind-2024",
+        "alphatensor-alphadev-deepmind-2022",
         "muzero-deepmind-2019"
       ]
     },
@@ -6815,6 +6940,17 @@
       "descendants": [
         "instructgpt-ouyang-openai-2022"
       ]
+    },
+    {
+      "id": "openai-five-dota2-2018",
+      "name": "OpenAI Five (2018-2019; Dota 2 world-champion-defeating RL agent)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "lstm-hochreiter-schmidhuber-1997",
+        "ppo-schulman-openai-2017"
+      ],
+      "descendants": []
     },
     {
       "id": "openai-dactyl",
@@ -7344,7 +7480,9 @@
       "name": "NeRF (Neural Radiance Fields)",
       "year": "2020",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "colmap-schoenberger-frahm-2016"
+      ],
       "descendants": [
         "gaussian-splatting-kerbl-2023",
         "kerbl-3d-gaussian-splatting-siggraph-2023",
@@ -7426,6 +7564,17 @@
         "rdt-1b-thu-2024",
         "stable-diffusion-rombach-2022"
       ]
+    },
+    {
+      "id": "superglue-sarlin-2020",
+      "name": "SuperGlue + SuperPoint + LightGlue (learned feature matching; 2018-2023)",
+      "year": "2020",
+      "corpus": "open",
+      "ancestors": [
+        "harris-corner-detector-1988",
+        "sift-lowe-1999"
+      ],
+      "descendants": []
     },
     {
       "id": "hello-robot-stretch-2020",
@@ -7912,7 +8061,9 @@
       "year": "2022",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "deepseek-v3-r1-2024-2025"
+      ]
     },
     {
       "id": "instructgpt-ouyang-openai-2022",
@@ -7924,7 +8075,9 @@
         "gpt-lineage-openai-2018-2024",
         "ppo-schulman-openai-2017"
       ],
-      "descendants": []
+      "descendants": [
+        "claude-anthropic-2021"
+      ]
     },
     {
       "id": "john-deere-8r-autonomous-tractor-2022",
@@ -8134,6 +8287,16 @@
       "descendants": []
     },
     {
+      "id": "alphatensor-alphadev-deepmind-2022",
+      "name": "AlphaTensor + AlphaDev (DeepMind 2022-2023; RL discovers faster algorithms)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [
+        "alphazero-deepmind-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "haptx-gloves-g1-2022",
       "name": "HaptX Gloves G1",
       "year": "2022",
@@ -8153,6 +8316,18 @@
       ]
     },
     {
+      "id": "claude-anthropic-2021",
+      "name": "Claude (Anthropic; Constitutional-AI-aligned LLM lineage 2022-2026)",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [
+        "christiano-rlhf-2017",
+        "instructgpt-ouyang-openai-2022",
+        "transformer-vaswani-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "diffusion-transformers-dit-peebles-2022",
       "name": "Diffusion Transformers (DiT; Peebles & Xie 2022)",
       "year": "2022",
@@ -8161,7 +8336,9 @@
         "ddpm-ho-neurips-2020",
         "transformer-vaswani-2017"
       ],
-      "descendants": []
+      "descendants": [
+        "sora-openai-2024"
+      ]
     },
     {
       "id": "monarch-tractor-mk-v-2022",
@@ -8328,6 +8505,7 @@
         "saycan-google"
       ],
       "descendants": [
+        "gemini-google-deepmind-2023",
         "openai-rt-2",
         "openvla"
       ]
@@ -8550,6 +8728,7 @@
         "sumitomo-cyclo"
       ],
       "descendants": [
+        "apptronik-apollo-gen2-2025",
         "apptronik-apollo-publications-2024"
       ]
     },
@@ -8594,6 +8773,7 @@
       "year": "2023",
       "corpus": "academic",
       "ancestors": [
+        "colmap-schoenberger-frahm-2016",
         "nerf-mildenhall-eccv-2020"
       ],
       "descendants": []
@@ -8807,6 +8987,21 @@
       ]
     },
     {
+      "id": "gemini-google-deepmind-2023",
+      "name": "Gemini (Google DeepMind; natively-multimodal frontier model 2023-2026)",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "mixture-of-experts-shazeer-2017",
+        "palm-e",
+        "transformer-vaswani-2017"
+      ],
+      "descendants": [
+        "alphaproof-alphageometry-deepmind-2024",
+        "apptronik-apollo-gen2-2025"
+      ]
+    },
+    {
       "id": "limx-cl1",
       "name": "LimX Dynamics CL-1",
       "year": "2023",
@@ -8851,7 +9046,8 @@
       "ancestors": [
         "asimo",
         "halodi-robotics-1x-precursor-2014",
-        "icub"
+        "icub",
+        "rosie-jetsons-1962"
       ],
       "descendants": []
     },
@@ -8885,6 +9081,17 @@
       "year": "2024",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "alphaproof-alphageometry-deepmind-2024",
+      "name": "AlphaProof + AlphaGeometry (DeepMind 2024; AI at IMO silver-medal level)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [
+        "alphazero-deepmind-2017",
+        "gemini-google-deepmind-2023"
+      ],
       "descendants": []
     },
     {
@@ -8944,6 +9151,24 @@
       "ancestors": [
         "amp-peng-siggraph-2021",
         "ase-peng-stanford-2022"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "genie-deepmind-2024",
+      "name": "Genie (Google DeepMind 2024; foundation world model from video)",
+      "year": "2024",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sora-openai-2024",
+      "name": "Sora (OpenAI 2024; text-to-video diffusion-transformer)",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "diffusion-transformers-dit-peebles-2022"
       ],
       "descendants": []
     },
@@ -9087,6 +9312,18 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "deepseek-v3-r1-2024-2025",
+      "name": "DeepSeek (DeepSeek-V3 / R1; open-weight frontier LLM 2024-2025)",
+      "year": "2024",
+      "corpus": "open",
+      "ancestors": [
+        "chain-of-thought-wei-google-2022",
+        "mixture-of-experts-shazeer-2017",
+        "transformer-vaswani-2017"
+      ],
       "descendants": []
     },
     {
@@ -9667,6 +9904,18 @@
       "descendants": []
     },
     {
+      "id": "apptronik-apollo-gen2-2025",
+      "name": "Apptronik Apollo (Gen 2 + Catalyst; 2025-2026)",
+      "year": "2025",
+      "corpus": "private",
+      "ancestors": [
+        "apptronik-apollo",
+        "gemini-google-deepmind-2023",
+        "nasa-valkyrie"
+      ],
+      "descendants": []
+    },
+    {
       "id": "nvidia-vipe-2025",
       "name": "ViPE (Video Pose Engine)",
       "year": "2025",
@@ -9766,7 +10015,8 @@
       "corpus": "private",
       "ancestors": [
         "act-aloha",
-        "diffusion-policy"
+        "diffusion-policy",
+        "rosie-jetsons-1962"
       ],
       "descendants": []
     },

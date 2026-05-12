@@ -1,7 +1,7 @@
 ---
 title: "control-optimal-control"
 parent: "Invalidity Contentions"
-nav_order: 113
+nav_order: 114
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `control-optimal-control`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
+**Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2017-04
 
@@ -75,6 +75,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Bellman, R. 'Dynamic Programming'. Princeton University Press 1957.
+
+---
+
+### 1960-01 — Linear Quadratic Regulator / LQR + LQG (Kalman 1960)
+
+- **id:** `lqr-kalman-1960`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Research Institute for Advanced Study (RIAS), Baltimore; Rudolf E. Kálmán
+- **disclosure citation:** Kalman, R.E. 'Contributions to the Theory of Optimal Control'. Boletín de la Sociedad Matemática Mexicana 5:102-119, 1960. (And related 1960-1964 papers establishing LQR, the algebraic Riccati equation, and — with the Kalman filter, corpus kalman-filter-1960 — the LQG combination.)
+- **disclosed subsystems:** `control-optimal-control`
+
+**Prior art notes:**
+
+> LQR / LQG (Rudolf Kalman RIAS 1960-1964) is the foundational optimal-control solution for linear systems — the workhorse of robot control. 65-year-deep public-domain prior art. Foundational to iLQR/iLQG/DDP (corpus tassa-ilqg-2012); LQG combines with the Kalman filter (corpus).
+
+**Sources:**
+
+1. Kalman, R.E. Boletín de la Sociedad Matemática Mexicana 5:102-119, 1960.
 
 ---
 
@@ -167,4 +186,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `ai-foundation-model`  
-**Entries:** 51 (51 commons-grade, 0 draft)  
+**Entries:** 64 (64 commons-grade, 0 draft)  
 **Earliest disclosure:** 1981-06  
-**Most recent disclosure:** 2024-01
+**Most recent disclosure:** 2024-05
 
 ---
 
@@ -154,6 +154,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1999-09 — Bundle Adjustment (Triggs et al. 1999; the SfM optimization backbone)
+
+- **id:** `bundle-adjustment-triggs-1999`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** INRIA Rhône-Alpes + Univ. of Surrey + ANU + Oxford; Bill Triggs + Philip McLauchlan + Richard Hartley + Andrew Fitzgibbon
+- **disclosure citation:** Triggs, B., McLauchlan, P.F., Hartley, R.I., Fitzgibbon, A.W. 'Bundle Adjustment — A Modern Synthesis'. In 'Vision Algorithms: Theory and Practice' (ICCV '99 workshop), Springer LNCS 1883, 2000. INRIA Rhône-Alpes + others. (The underlying technique dates to photogrammetry in the 1950s-1960s; this paper is the definitive computer-vision synthesis.)
+- **disclosed subsystems:** `ai-foundation-model`, `control-slam`
+
+**Prior art notes:**
+
+> Bundle Adjustment (Triggs et al. 'A Modern Synthesis', ICCV '99 workshop; technique from 1950s-60s photogrammetry) is the foundational nonlinear-least-squares optimization at the heart of all geometric vision. 26-year-deep public-domain prior art (70+-year for the underlying technique). Foundational to COLMAP (corpus) + ORB-SLAM back-end (corpus).
+
+**Sources:**
+
+1. Triggs, B. et al. 'Bundle Adjustment — A Modern Synthesis'. Springer LNCS 1883, 2000.
+
+---
+
 ### 2005-06 — HOG (Histogram of Oriented Gradients; Dalal & Triggs 2005)
 
 - **id:** `hog-dalal-triggs-2005`
@@ -189,6 +208,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Portal (Valve 2007); Portal 2 (Valve 2011).
+
+---
+
+### 2009-01 — GERTY (Moon; 2009)
+
+- **id:** `gerty-moon-2009`
+- **corpus:** fictional
+- **ip status:** copyright-sony-liberty-films
+- **creator:** Sony Pictures Classics / Liberty Films; Duncan Jones; Kevin Spacey (voice)
+- **disclosure citation:** Moon (2009 film). Sony Pictures Classics / Liberty Films; directed by Duncan Jones; GERTY voiced by Kevin Spacey. The AI of the Sarang lunar mining base (Lunar Industries).
+- **disclosed subsystems:** `ai-foundation-model`, `robot-other`
+
+**Prior art notes:**
+
+> GERTY (Moon 2009) is the deliberate inversion of HAL 9000 (corpus hal-9000) — the station AI that turns out to be the most trustworthy character. 16-year-deep fictional-disclosure prior art. Relevant to the trustworthy-AI-assistant trope + minimal emoticon-based emotional HRI displays (cf. CIMON/Cozmo/Sunday Memo corpus).
+
+**Sources:**
+
+1. Moon (2009 film).
 
 ---
 
@@ -247,6 +285,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. arxiv.org/abs/1301.3781
+
+---
+
+### 2013-10 — Samantha (Her; 2013)
+
+- **id:** `samantha-her-2013`
+- **corpus:** fictional
+- **ip status:** copyright-warner-bros-annapurna
+- **creator:** Warner Bros. / Annapurna Pictures; Spike Jonze; Scarlett Johansson (voice)
+- **disclosure citation:** Her (2013 film). Warner Bros. / Annapurna Pictures; written + directed by Spike Jonze; Samantha voiced by Scarlett Johansson. Samantha is an 'OS1' — an artificially intelligent operating system. Won the Academy Award for Best Original Screenplay (2014).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Samantha (Her, Spike Jonze 2013) is the archetypal disembodied conversational AI companion — the purest exploration of the 'does an AI need a body?' question. 12-year-deep fictional-disclosure prior art. The cultural touchstone for voice-first AI assistants + the canonical counterpoint to embodied-social-robot bets (Lovot/Jibo corpus); relevant to the embodiment question haunting the commercial humanoid wave.
+
+**Sources:**
+
+1. Her (2013 film).
 
 ---
 
@@ -422,6 +479,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-06 — COLMAP (Schönberger & Frahm 2016; foundational structure-from-motion)
+
+- **id:** `colmap-schoenberger-frahm-2016`
+- **corpus:** open
+- **ip status:** open-permissive (BSD)
+- **creator:** UNC Chapel Hill + ETH Zurich; Johannes L. Schönberger + Jan-Michael Frahm
+- **disclosure citation:** Schönberger, J.L., Frahm, J.-M. 'Structure-from-Motion Revisited'. IEEE CVPR 2016. University of North Carolina at Chapel Hill + ETH Zurich. Open-source (BSD license). Also: Schönberger et al. 'Pixelwise View Selection for Unstructured Multi-View Stereo'. ECCV 2016 (the MVS component).
+- **disclosed subsystems:** `ai-foundation-model`, `control-slam`
+
+**Prior art notes:**
+
+> COLMAP (Schönberger & Frahm UNC + ETH CVPR 2016) is the de-facto open-source structure-from-motion + multi-view-stereo pipeline. 9-year-deep open-permissive prior art. The standard tool for NeRF (corpus) + Gaussian Splatting (corpus) camera-pose estimation; uses bundle adjustment (corpus).
+
+**Sources:**
+
+1. IEEE CVPR 2016 (Structure-from-Motion Revisited).
+
+---
+
 ### 2017-01 — Mixture-of-Experts (Sparsely-Gated MoE; Shazeer et al. Google 2017)
 
 - **id:** `mixture-of-experts-shazeer-2017`
@@ -496,6 +572,25 @@ cite, copy, or redistribute these contentions.
 
 1. openai.com (corporate site).
 2. arxiv.org/abs/2005.14165 (GPT-3 paper).
+
+---
+
+### 2018-06 — OpenAI Five (2018-2019; Dota 2 world-champion-defeating RL agent)
+
+- **id:** `openai-five-dota2-2018`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** OpenAI; OpenAI Five team (Greg Brockman + Christopher Berner + Szymon Sidor + Ilya Sutskever et al.)
+- **disclosure citation:** OpenAI. OpenAI Five — a team of 5 RL agents playing Dota 2. First public demo June 2018; lost to pro teams at The International 2018; defeated the world-champion team OG in April 2019 (best-of-three). Technical report: Berner et al. 'Dota 2 with Large Scale Deep Reinforcement Learning'. arXiv:1912.06680, December 2019.
+- **disclosed subsystems:** `ai-foundation-model`, `control-multi-agent-rl`
+
+**Prior art notes:**
+
+> OpenAI Five (OpenAI 2018-2019; arXiv 1912.06680) is the deep-RL agent team that mastered Dota 2 — long-horizon, partial-information, real-time team play. 7-year-deep academic-publication prior art. Partner result to DeepMind AlphaStar (corpus); uses LSTM (corpus) + PPO (corpus).
+
+**Sources:**
+
+1. arxiv.org/abs/1912.06680
 
 ---
 
@@ -610,6 +705,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. arxiv.org/abs/2005.11401
+
+---
+
+### 2020-06 — SuperGlue + SuperPoint + LightGlue (learned feature matching; 2018-2023)
+
+- **id:** `superglue-sarlin-2020`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Magic Leap + ETH Zurich; Paul-Edouard Sarlin + Daniel DeTone + Tomasz Malisiewicz + Andrew Rabinovich (SuperGlue/SuperPoint); Philipp Lindenberger + Marc Pollefeys (LightGlue)
+- **disclosure citation:** Sarlin, P.-E., DeTone, D., Malisiewicz, T., Rabinovich, A. 'SuperGlue: Learning Feature Matching with Graph Neural Networks'. IEEE CVPR 2020. Magic Leap + ETH Zurich. Predecessor: DeTone et al. 'SuperPoint: Self-Supervised Interest Point Detection and Description'. CVPRW 2018. Successor: Lindenberger et al. 'LightGlue'. ICCV 2023. Open-source.
+- **disclosed subsystems:** `ai-foundation-model`, `control-slam`
+
+**Prior art notes:**
+
+> SuperGlue + SuperPoint + LightGlue (Magic Leap + ETH 2018-2023) are the learned replacement for hand-crafted feature detection + matching. 7-year-deep open-permissive prior art (5-year for SuperGlue). The modern successor to Harris corner detector (corpus) + SIFT (corpus) + nearest-neighbor matching.
+
+**Sources:**
+
+1. IEEE CVPR 2020 (SuperGlue); CVPRW 2018 (SuperPoint); ICCV 2023 (LightGlue).
 
 ---
 
@@ -803,6 +917,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-10 — AlphaTensor + AlphaDev (DeepMind 2022-2023; RL discovers faster algorithms)
+
+- **id:** `alphatensor-alphadev-deepmind-2022`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Google DeepMind; Alhussein Fawzi + Matej Balog (AlphaTensor); Daniel Mankowitz + team (AlphaDev)
+- **disclosure citation:** Fawzi, A., Balog, M., Huang, A., et al. 'Discovering faster matrix multiplication algorithms with reinforcement learning'. Nature 610:47-53, October 2022 (AlphaTensor). Mankowitz, D.J., Michi, A., Zhernov, A., et al. 'Faster sorting algorithms discovered using deep reinforcement learning'. Nature 618:257-263, June 2023 (AlphaDev). DeepMind.
+- **disclosed subsystems:** `ai-foundation-model`, `control-tree-search`
+
+**Prior art notes:**
+
+> AlphaTensor + AlphaDev (DeepMind Nature 2022 + Nature 2023) are RL agents that discover novel faster fundamental algorithms. 3-year-deep academic-publication prior art. AlphaZero (corpus) applied to math + computer science; part of DeepMind's AlphaX-for-science lineage.
+
+**Sources:**
+
+1. Nature 610:47-53, October 2022 (AlphaTensor); Nature 618:257-263, June 2023 (AlphaDev).
+
+---
+
 ### 2022-12 — Diffusion Transformers (DiT; Peebles & Xie 2022)
 
 - **id:** `diffusion-transformers-dit-peebles-2022`
@@ -819,6 +952,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. arxiv.org/abs/2212.09748
+
+---
+
+### 2022-12 — Claude (Anthropic; Constitutional-AI-aligned LLM lineage 2022-2026)
+
+- **id:** `claude-anthropic-2021`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Anthropic PBC (San Francisco, CA, USA); Dario Amodei + Daniela Amodei + ex-OpenAI safety/scaling team
+- **disclosure citation:** Anthropic PBC (San Francisco, CA, USA; founded 2021 by Dario Amodei + Daniela Amodei + ex-OpenAI researchers). Claude assistant launched 2022; Claude 2 (2023); Claude 3 family Opus/Sonnet/Haiku (March 2024); Claude 3.5 (2024); Claude 4 / Opus 4 family (2025-2026). Constitutional AI: Bai et al. arXiv:2212.08073, December 2022. Also: 'Training a Helpful and Harmless Assistant with RLHF' (2022); the RSP (Responsible Scaling Policy) framework; mechanistic interpretability research.
+- **disclosed subsystems:** `ai-foundation-model`, `control-rlhf`
+
+**Prior art notes:**
+
+> Claude (Anthropic San Francisco 2021/2022+) is the Constitutional-AI-aligned frontier LLM lineage. 3-year-deep public-disclosure prior art. Constitutional AI (CAI/RLAIF) extends Christiano RLHF (corpus) + InstructGPT (corpus). One of the three closed-frontier-LLM labs.
+
+**Sources:**
+
+1. anthropic.com (corporate site).
+2. arxiv.org/abs/2212.08073 (Constitutional AI paper).
 
 ---
 
@@ -993,6 +1146,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-12 — Gemini (Google DeepMind; natively-multimodal frontier model 2023-2026)
+
+- **id:** `gemini-google-deepmind-2023`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Google DeepMind (Mountain View + London); merger of Google Brain + DeepMind (April 2023); Demis Hassabis + Jeff Dean + Oriol Vinyals leadership
+- **disclosure citation:** Google DeepMind (Mountain View + London). Gemini 1.0 (Ultra/Pro/Nano) announced December 2023. Gemini 1.5 (Feb 2024, 1M+ token context via MoE). Gemini 2.0 / 2.5 (2024-2025). Successor to PaLM/PaLM-2 + the Google Brain + DeepMind merger (April 2023). Powers the Bard → Gemini assistant. Gemini Robotics + Gemini Robotics-ER (2025) extend it to robot control.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Gemini (Google DeepMind 2023+) is Google's natively-multimodal frontier model + the consolidation of Google Brain + DeepMind. 2-year-deep public-disclosure prior art. Successor to PaLM (corpus palm-e); uses MoE (corpus); Gemini Robotics (2025) is a VLA extension. One of the three closed-frontier-LLM labs.
+
+**Sources:**
+
+1. deepmind.google/technologies/gemini/
+
+---
+
 ### 2024-01 — Generalist AI (Zeng/Florence/Barry robotics-FM)
 
 - **id:** `generalist-ai-zeng-florence-barry-2024`
@@ -1010,6 +1182,83 @@ cite, copy, or redistribute these contentions.
 
 1. boldstart.vc/companies/generalist/
 2. andyzeng.github.io
+
+---
+
+### 2024-01 — AlphaProof + AlphaGeometry (DeepMind 2024; AI at IMO silver-medal level)
+
+- **id:** `alphaproof-alphageometry-deepmind-2024`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Google DeepMind; Trieu H. Trinh + Yuhuai Wu + Quoc Le (AlphaGeometry); + AlphaProof team
+- **disclosure citation:** Trinh, T.H., Wu, Y., Le, Q.V., He, H., Luong, T. 'Solving olympiad geometry without human demonstrations'. Nature 625:476-482, January 2024 (AlphaGeometry). AlphaProof + AlphaGeometry 2 announced July 2024 — together solved 4 of 6 problems at the 2024 International Mathematical Olympiad, equivalent to a silver medal. Google DeepMind.
+- **disclosed subsystems:** `ai-foundation-model`, `control-llm-reasoning`
+
+**Prior art notes:**
+
+> AlphaProof + AlphaGeometry (DeepMind 2024; Nature 2024) are AI systems solving olympiad-level mathematics at IMO silver-medal level. 1-2-year-deep academic-publication prior art. AlphaZero (corpus) + Gemini (corpus) applied to formal mathematics; part of DeepMind's AlphaX-for-science lineage.
+
+**Sources:**
+
+1. Nature 625:476-482, January 2024 (AlphaGeometry).
+
+---
+
+### 2024-02 — Sora (OpenAI 2024; text-to-video diffusion-transformer)
+
+- **id:** `sora-openai-2024`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** OpenAI; William Peebles + Tim Brooks (Sora co-leads; Peebles also DiT co-author)
+- **disclosure citation:** OpenAI. Sora text-to-video model announced February 2024; public access December 2024 (Sora) and Sora 2 (2025). Built on the Diffusion Transformer (corpus diffusion-transformers-dit-peebles-2022) — William Peebles (DiT co-author) co-led Sora.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Sora (OpenAI 2024) is the foundational text-to-video generative model + an implicit world model. 2-year-deep public-disclosure prior art. Built on the Diffusion Transformer (corpus); connects video-generation to robot world models (Genie/Cosmos/RoboCat corpus).
+
+**Sources:**
+
+1. openai.com/sora
+
+---
+
+### 2024-02 — Genie (Google DeepMind 2024; foundation world model from video)
+
+- **id:** `genie-deepmind-2024`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Google DeepMind; Jake Bruce + Michael Dennis + Ashley Edwards + team
+- **disclosure citation:** Bruce, J., Dennis, M., Edwards, A., et al. 'Genie: Generative Interactive Environments'. arXiv:2402.15391, February 2024 (ICML 2024 best paper). Google DeepMind. Genie 2 (December 2024, 3D worlds); Genie 3 (2025, real-time interactive).
+- **disclosed subsystems:** `ai-foundation-model`, `control-world-model`
+
+**Prior art notes:**
+
+> Genie (Google DeepMind arXiv 2402.15391, ICML 2024 best paper) is the foundational world model trained from unlabeled video. 1-year-deep academic-publication prior art. Directly relevant to robot world models (NVIDIA Cosmos corpus, RoboCat corpus, Sora corpus as 'world simulator').
+
+**Sources:**
+
+1. arxiv.org/abs/2402.15391
+
+---
+
+### 2024-05 — DeepSeek (DeepSeek-V3 / R1; open-weight frontier LLM 2024-2025)
+
+- **id:** `deepseek-v3-r1-2024-2025`
+- **corpus:** open
+- **ip status:** open-permissive (MIT)
+- **creator:** DeepSeek AI (Hangzhou, China); Liang Wenfeng (also founder of High-Flyer quant fund)
+- **disclosure citation:** DeepSeek AI (Hangzhou, China; founded 2023 by Liang Wenfeng, spun out of the quant hedge fund High-Flyer). DeepSeek-V2 (May 2024, MoE). DeepSeek-V3 (December 2024, 671B-param MoE, ~$5.6M training cost claim). DeepSeek-R1 (January 2025, open-weight reasoning model trained via RL — the 'DeepSeek moment' that triggered a ~$1T market reaction).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> DeepSeek (DeepSeek-V3 Dec 2024 / R1 Jan 2025) is the open-weight frontier LLM lineage + the first open-weight reasoning model. <2-year-deep open-permissive prior art. Uses MoE (corpus) + chain-of-thought (corpus); the 'DeepSeek moment' reframed open-vs-closed + US-vs-China AI competition. Anchor of the open-weight ecosystem with LLaMA (corpus).
+
+**Sources:**
+
+1. deepseek.com (corporate site).
+2. DeepSeek-V3 + DeepSeek-R1 technical reports (2024-2025).
 
 ---
 
@@ -1043,4 +1292,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

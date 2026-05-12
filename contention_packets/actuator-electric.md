@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `actuator-electric`  
-**Entries:** 106 (99 commons-grade, 7 draft)  
+**Entries:** 107 (100 commons-grade, 7 draft)  
 **Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2025-10
 
@@ -2068,6 +2068,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2025-08 — Apptronik Apollo (Gen 2 + Catalyst; 2025-2026)
+
+- **id:** `apptronik-apollo-gen2-2025`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Apptronik Inc. (Austin, TX, USA); Jeff Cardenas + Nick Paine + Luis Sentis (UT Austin Human Centered Robotics Lab / NASA Valkyrie lineage)
+- **disclosure citation:** Apptronik Inc. (Austin, TX, USA; founded 2016, NASA Valkyrie lineage). Apollo Gen 1 revealed 2023. Apollo Gen 2 (2025) — substantially revised design with improved actuators, dexterity, and runtime. 'Catalyst' embodied-AI software platform (with Google DeepMind Gemini Robotics, 2025). Production-intent partnerships with Mercedes-Benz, GXO Logistics, and others. $350M+ Series A (Feb 2025).
+- **disclosed subsystems:** `humanoid-bipedal`, `actuator-electric`, `control-foundation-model`
+
+**Prior art notes:**
+
+> Apptronik Apollo Gen 2 + Catalyst (Apptronik Austin 2025-2026) is the NASA-Valkyrie-lineage commercial humanoid's next-generation evolution. <1-year-deep public-disclosure prior art (Gen 1 from 2023). Lineage descends from NASA Valkyrie (corpus nasa-valkyrie) + the corpus apptronik-apollo Gen 1 entry; Catalyst uses Google DeepMind Gemini Robotics (corpus gemini-google-deepmind-2023). One of the leading US commercial-humanoid players (with Figure/Optimus/1X/Atlas corpus).
+
+**Sources:**
+
+1. apptronik.com (corporate site).
+2. Apptronik Apollo Gen 2 + Catalyst announcements (2025).
+
+---
+
 ### 2025-09 — Booster T1 *(draft)*
 
 - **id:** `booster-t1-2025`
@@ -2159,4 +2179,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

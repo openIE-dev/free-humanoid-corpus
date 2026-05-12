@@ -1,7 +1,7 @@
 ---
 title: "control-slam"
 parent: "Invalidity Contentions"
-nav_order: 133
+nav_order: 136
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `control-slam`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 1992-02  
-**Most recent disclosure:** 2016-05
+**Most recent disclosure:** 2020-06
 
 ---
 
@@ -59,6 +59,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1999-09 — Bundle Adjustment (Triggs et al. 1999; the SfM optimization backbone)
+
+- **id:** `bundle-adjustment-triggs-1999`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** INRIA Rhône-Alpes + Univ. of Surrey + ANU + Oxford; Bill Triggs + Philip McLauchlan + Richard Hartley + Andrew Fitzgibbon
+- **disclosure citation:** Triggs, B., McLauchlan, P.F., Hartley, R.I., Fitzgibbon, A.W. 'Bundle Adjustment — A Modern Synthesis'. In 'Vision Algorithms: Theory and Practice' (ICCV '99 workshop), Springer LNCS 1883, 2000. INRIA Rhône-Alpes + others. (The underlying technique dates to photogrammetry in the 1950s-1960s; this paper is the definitive computer-vision synthesis.)
+- **disclosed subsystems:** `ai-foundation-model`, `control-slam`
+
+**Prior art notes:**
+
+> Bundle Adjustment (Triggs et al. 'A Modern Synthesis', ICCV '99 workshop; technique from 1950s-60s photogrammetry) is the foundational nonlinear-least-squares optimization at the heart of all geometric vision. 26-year-deep public-domain prior art (70+-year for the underlying technique). Foundational to COLMAP (corpus) + ORB-SLAM back-end (corpus).
+
+**Sources:**
+
+1. Triggs, B. et al. 'Bundle Adjustment — A Modern Synthesis'. Springer LNCS 1883, 2000.
+
+---
+
 ### 2014-07 — LOAM (LIDAR Odometry and Mapping; Zhang & Singh 2014)
 
 - **id:** `loam-zhang-singh-2014`
@@ -98,6 +117,44 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-06 — COLMAP (Schönberger & Frahm 2016; foundational structure-from-motion)
+
+- **id:** `colmap-schoenberger-frahm-2016`
+- **corpus:** open
+- **ip status:** open-permissive (BSD)
+- **creator:** UNC Chapel Hill + ETH Zurich; Johannes L. Schönberger + Jan-Michael Frahm
+- **disclosure citation:** Schönberger, J.L., Frahm, J.-M. 'Structure-from-Motion Revisited'. IEEE CVPR 2016. University of North Carolina at Chapel Hill + ETH Zurich. Open-source (BSD license). Also: Schönberger et al. 'Pixelwise View Selection for Unstructured Multi-View Stereo'. ECCV 2016 (the MVS component).
+- **disclosed subsystems:** `ai-foundation-model`, `control-slam`
+
+**Prior art notes:**
+
+> COLMAP (Schönberger & Frahm UNC + ETH CVPR 2016) is the de-facto open-source structure-from-motion + multi-view-stereo pipeline. 9-year-deep open-permissive prior art. The standard tool for NeRF (corpus) + Gaussian Splatting (corpus) camera-pose estimation; uses bundle adjustment (corpus).
+
+**Sources:**
+
+1. IEEE CVPR 2016 (Structure-from-Motion Revisited).
+
+---
+
+### 2020-06 — SuperGlue + SuperPoint + LightGlue (learned feature matching; 2018-2023)
+
+- **id:** `superglue-sarlin-2020`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Magic Leap + ETH Zurich; Paul-Edouard Sarlin + Daniel DeTone + Tomasz Malisiewicz + Andrew Rabinovich (SuperGlue/SuperPoint); Philipp Lindenberger + Marc Pollefeys (LightGlue)
+- **disclosure citation:** Sarlin, P.-E., DeTone, D., Malisiewicz, T., Rabinovich, A. 'SuperGlue: Learning Feature Matching with Graph Neural Networks'. IEEE CVPR 2020. Magic Leap + ETH Zurich. Predecessor: DeTone et al. 'SuperPoint: Self-Supervised Interest Point Detection and Description'. CVPRW 2018. Successor: Lindenberger et al. 'LightGlue'. ICCV 2023. Open-source.
+- **disclosed subsystems:** `ai-foundation-model`, `control-slam`
+
+**Prior art notes:**
+
+> SuperGlue + SuperPoint + LightGlue (Magic Leap + ETH 2018-2023) are the learned replacement for hand-crafted feature detection + matching. 7-year-deep open-permissive prior art (5-year for SuperGlue). The modern successor to Harris corner detector (corpus) + SIFT (corpus) + nearest-neighbor matching.
+
+**Sources:**
+
+1. IEEE CVPR 2020 (SuperGlue); CVPRW 2018 (SuperPoint); ICCV 2023 (LightGlue).
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -128,4 +185,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

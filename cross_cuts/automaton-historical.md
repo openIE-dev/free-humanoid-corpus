@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `automaton-historical`
 
-**10 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 0070-01
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hero (Heron) of Alexandria. 'Pneumatica' and 'Automata' (Περὶ αὐτοματοποιητικῆς), ~1st century CE (c. 60-70 CE). Alexandria, Roman Egypt. Earliest surviving treatises on automaton-building.
 - **ip status**: public-domain
 - **prior art notes**: Hero of Alexandria's Automata (~1st century CE) are the earliest surviving treatises on automaton-building. 1,950+-year-deep public-domain prior art.
+
+## Banu Musa's Book of Ingenious Devices (~850 CE; the al-Jazari predecessor) (0850-01)
+
+- **id**: `banu-musa-ingenious-devices-850`
+- **corpus**: academic
+- **creator**: Banu Musa brothers (Muhammad + Ahmad + al-Hasan ibn Musa ibn Shakir); Baghdad House of Wisdom, ~850 CE
+- **disclosure**: Banu Musa brothers (Muhammad, Ahmad, and al-Hasan ibn Musa ibn Shakir). 'Kitab al-Hiyal' ('The Book of Ingenious Devices'). ~850 CE (compiled under the patronage of the Abbasid caliph al-Ma'mun). Baghdad, House of Wisdom (Bayt al-Hikma). ~100 devices described.
+- **ip status**: public-domain
+- **prior art notes**: Banu Musa's Book of Ingenious Devices (Baghdad House of Wisdom ~850 CE) is the foundational Islamic-Golden-Age automata + mechanism treatise — the predecessor of al-Jazari (corpus al-jazari-ingenious-devices-1206). 1,175-year-deep public-domain prior art. Built on Hero of Alexandria (corpus); the programmable flute player prefigures pinned-cylinder programming + the Jacquard loom (corpus).
 
 ## Al-Jazari's Book of Ingenious Mechanical Devices (1206) (1206-01)
 

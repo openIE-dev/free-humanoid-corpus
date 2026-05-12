@@ -1,7 +1,7 @@
 ---
 title: "control-multi-agent-rl"
 parent: "Invalidity Contentions"
-nav_order: 96
+nav_order: 97
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `control-multi-agent-rl`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2019-01  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 2018-06  
 **Most recent disclosure:** 2024-04
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2018-06 — OpenAI Five (2018-2019; Dota 2 world-champion-defeating RL agent)
+
+- **id:** `openai-five-dota2-2018`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** OpenAI; OpenAI Five team (Greg Brockman + Christopher Berner + Szymon Sidor + Ilya Sutskever et al.)
+- **disclosure citation:** OpenAI. OpenAI Five — a team of 5 RL agents playing Dota 2. First public demo June 2018; lost to pro teams at The International 2018; defeated the world-champion team OG in April 2019 (best-of-three). Technical report: Berner et al. 'Dota 2 with Large Scale Deep Reinforcement Learning'. arXiv:1912.06680, December 2019.
+- **disclosed subsystems:** `ai-foundation-model`, `control-multi-agent-rl`
+
+**Prior art notes:**
+
+> OpenAI Five (OpenAI 2018-2019; arXiv 1912.06680) is the deep-RL agent team that mastered Dota 2 — long-horizon, partial-information, real-time team play. 7-year-deep academic-publication prior art. Partner result to DeepMind AlphaStar (corpus); uses LSTM (corpus) + PPO (corpus).
+
+**Sources:**
+
+1. arxiv.org/abs/1912.06680
+
+---
 
 ### 2019-01 — AlphaStar (DeepMind 2019; StarCraft II grandmaster)
 
@@ -109,4 +128,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

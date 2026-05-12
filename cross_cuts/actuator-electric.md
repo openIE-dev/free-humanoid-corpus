@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric`
 
-**106 corpus entries disclose this subsystem.**
+**107 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -941,6 +941,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Unitree Robotics (Hangzhou, China). R1 product reveal July 2025; global launch April 2026 via shop.unitree.com / AliExpress. unitree.com/R1. Multi-tier product line: R1 Air \$4.9k, R1 Basic \$5.9k-\$8.99k, R1 EDU Standard \$10-12k, R1 EDU Smart \$15-19k, R1 EDU Pro \$20-35k.
 - **ip status**: trade-secret
 - **prior art notes**: Unitree R1 is the canonical 2025+ low-cost consumer humanoid (Unitree Robotics, China). ~10-month-deep public-disclosure prior art at time of corpus entry. **Significantly disrupts the humanoid pricing claim space** — drops the entry price from Boston Dynamics Atlas (>\$1M) / Figure 02 (\$15k+) / Optimus Gen 3 (\$20-30k target) to \$4,900. Establishes 9 km/h running + cartwheels as commercially-deployed-not-academic capabilities. Direct shielding for any commercial humanoid claim on consumer-tier pricing or low-cost humanoid morphology.
+
+## Apptronik Apollo (Gen 2 + Catalyst; 2025-2026) (2025-08)
+
+- **id**: `apptronik-apollo-gen2-2025`
+- **corpus**: private
+- **creator**: Apptronik Inc. (Austin, TX, USA); Jeff Cardenas + Nick Paine + Luis Sentis (UT Austin Human Centered Robotics Lab / NASA Valkyrie lineage)
+- **disclosure**: Apptronik Inc. (Austin, TX, USA; founded 2016, NASA Valkyrie lineage). Apollo Gen 1 revealed 2023. Apollo Gen 2 (2025) — substantially revised design with improved actuators, dexterity, and runtime. 'Catalyst' embodied-AI software platform (with Google DeepMind Gemini Robotics, 2025). Production-intent partnerships with Mercedes-Benz, GXO Logistics, and others. $350M+ Series A (Feb 2025).
+- **ip status**: trade-secret
+- **prior art notes**: Apptronik Apollo Gen 2 + Catalyst (Apptronik Austin 2025-2026) is the NASA-Valkyrie-lineage commercial humanoid's next-generation evolution. <1-year-deep public-disclosure prior art (Gen 1 from 2023). Lineage descends from NASA Valkyrie (corpus nasa-valkyrie) + the corpus apptronik-apollo Gen 1 entry; Catalyst uses Google DeepMind Gemini Robotics (corpus gemini-google-deepmind-2023). One of the leading US commercial-humanoid players (with Figure/Optimus/1X/Atlas corpus).
 
 ## Booster T1 (2025-09)
 

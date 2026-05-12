@@ -1,7 +1,7 @@
 ---
 title: "mechanism-reconfigurable-morphology"
 parent: "Invalidity Contentions"
-nav_order: 214
+nav_order: 218
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `mechanism-reconfigurable-morphology`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1981-03  
-**Most recent disclosure:** 1984-09
+**Most recent disclosure:** 2014-11
 
 ---
 
@@ -78,6 +78,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-11 — TARS + CASE (Interstellar; 2014)
+
+- **id:** `tars-case-interstellar-2014`
+- **corpus:** fictional
+- **ip status:** copyright-warner-bros-paramount
+- **creator:** Paramount / Warner Bros.; Christopher Nolan; Nathan Crowley design; Bill Irwin (TARS voice + puppeteer)
+- **disclosure citation:** Interstellar (2014 film). Paramount / Warner Bros.; directed by Christopher Nolan; production design by Nathan Crowley; TARS/CASE puppeteered practically (operated by Bill Irwin, who also voiced TARS). Former US Marine Corps tactical robots.
+- **disclosed subsystems:** `robot-other`, `mechanism-reconfigurable-morphology`
+
+**Prior art notes:**
+
+> TARS + CASE (Interstellar 2014) are the radically-non-anthropomorphic-yet-fully-personable robots — function-first form + adjustable personality settings. 11-year-deep fictional-disclosure prior art. The non-humanoid-design counter-thesis to the commercial humanoid wave; reconfigurable form factors (cf. Transformers/Voltron corpus) + the 'tunable personality parameters' concept.
+
+**Sources:**
+
+1. Interstellar (2014 film).
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -108,4 +127,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

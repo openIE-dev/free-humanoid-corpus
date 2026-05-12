@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `mechanism-reconfigurable-morphology`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1981-03
 
@@ -32,3 +32,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hasbro / Takara. 'The Transformers' toy line + animated series + Marvel comic launched September 1984 (toys based on Takara's Diaclone + Microman lines). Michael Bay live-action film series 2007-2023. 'More than meets the eye.'
 - **ip status**: copyright-hasbro
 - **prior art notes**: The Transformers (Hasbro + Takara 1984+) are the defining fictional transforming/morphing robots. 41-year-deep fictional-disclosure prior art. Direct fictional shielding for any commercial humanoid or robotics claim deriving from reconfigurable-morphology platforms.
+
+## TARS + CASE (Interstellar; 2014) (2014-11)
+
+- **id**: `tars-case-interstellar-2014`
+- **corpus**: fictional
+- **creator**: Paramount / Warner Bros.; Christopher Nolan; Nathan Crowley design; Bill Irwin (TARS voice + puppeteer)
+- **disclosure**: Interstellar (2014 film). Paramount / Warner Bros.; directed by Christopher Nolan; production design by Nathan Crowley; TARS/CASE puppeteered practically (operated by Bill Irwin, who also voiced TARS). Former US Marine Corps tactical robots.
+- **ip status**: copyright-warner-bros-paramount
+- **prior art notes**: TARS + CASE (Interstellar 2014) are the radically-non-anthropomorphic-yet-fully-personable robots — function-first form + adjustable personality settings. 11-year-deep fictional-disclosure prior art. The non-humanoid-design counter-thesis to the commercial humanoid wave; reconfigurable form factors (cf. Transformers/Voltron corpus) + the 'tunable personality parameters' concept.

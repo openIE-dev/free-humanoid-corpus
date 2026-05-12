@@ -1,7 +1,7 @@
 ---
 title: "fictional-weapons"
 parent: "Invalidity Contentions"
-nav_order: 166
+nav_order: 170
 layout: default
 ---
 
@@ -128,4 +128,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

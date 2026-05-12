@@ -1,7 +1,7 @@
 ---
 title: "humanoid-fictional"
 parent: "Invalidity Contentions"
-nav_order: 170
+nav_order: 174
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `humanoid-fictional`  
-**Entries:** 12 (12 commons-grade, 0 draft)  
+**Entries:** 13 (13 commons-grade, 0 draft)  
 **Earliest disclosure:** 1495-01  
 **Most recent disclosure:** 2004-07
 
@@ -133,6 +133,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. The Day the Earth Stood Still (1951 film); Bates, H. 'Farewell to the Master' (1940).
+
+---
+
+### 1962-09 — Rosie the Robot (The Jetsons; 1962)
+
+- **id:** `rosie-jetsons-1962`
+- **corpus:** fictional
+- **ip status:** copyright-warner-bros
+- **creator:** Hanna-Barbera (The Jetsons, 1962); Jean Vander Pyl (voice)
+- **disclosure citation:** The Jetsons (Hanna-Barbera, ABC). First aired September 1962. Rosie (also spelled 'Rosey') the Robot — the Jetson family's robotic housekeeper. Voiced by Jean Vander Pyl. An XB-500 model from 'U-Rent A Maid'.
+- **disclosed subsystems:** `humanoid-fictional`, `humanoid-wheeled`
+
+**Prior art notes:**
+
+> Rosie the Robot (The Jetsons, Hanna-Barbera 1962) is the archetypal household robot servant — the cultural ancestor of the entire 'home helper robot' product category. 63-year-deep fictional-disclosure prior art. The implicit benchmark the commercial home-humanoid wave (Roomba/HSR/NEO/Sunday Memo corpus) is racing to meet.
+
+**Sources:**
+
+1. The Jetsons (Hanna-Barbera, ABC, 1962).
 
 ---
 
@@ -299,4 +318,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*

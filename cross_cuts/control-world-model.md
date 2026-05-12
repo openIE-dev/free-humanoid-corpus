@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-world-model`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2025-01
+Earliest disclosure: 2024-02
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Genie (Google DeepMind 2024; foundation world model from video) (2024-02)
+
+- **id**: `genie-deepmind-2024`
+- **corpus**: academic
+- **creator**: Google DeepMind; Jake Bruce + Michael Dennis + Ashley Edwards + team
+- **disclosure**: Bruce, J., Dennis, M., Edwards, A., et al. 'Genie: Generative Interactive Environments'. arXiv:2402.15391, February 2024 (ICML 2024 best paper). Google DeepMind. Genie 2 (December 2024, 3D worlds); Genie 3 (2025, real-time interactive).
+- **ip status**: academic-publication
+- **prior art notes**: Genie (Google DeepMind arXiv 2402.15391, ICML 2024 best paper) is the foundational world model trained from unlabeled video. 1-year-deep academic-publication prior art. Directly relevant to robot world models (NVIDIA Cosmos corpus, RoboCat corpus, Sora corpus as 'world simulator').
 
 ## NVIDIA Cosmos (2025-01)
 

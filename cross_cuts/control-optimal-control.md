@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-optimal-control`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1956-01
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bellman, R. 'Dynamic Programming'. Princeton University Press, 1957. RAND Corporation. Earlier papers from 1953-1956. The Bellman equation + the principle of optimality.
 - **ip status**: public-domain
 - **prior art notes**: Dynamic Programming + the Bellman Equation (Richard Bellman RAND 1957) is the foundational mathematics of sequential decision-making. 68-year-deep public-domain prior art. The basis of all reinforcement learning + optimal control.
+
+## Linear Quadratic Regulator / LQR + LQG (Kalman 1960) (1960-01)
+
+- **id**: `lqr-kalman-1960`
+- **corpus**: academic
+- **creator**: Research Institute for Advanced Study (RIAS), Baltimore; Rudolf E. Kálmán
+- **disclosure**: Kalman, R.E. 'Contributions to the Theory of Optimal Control'. Boletín de la Sociedad Matemática Mexicana 5:102-119, 1960. (And related 1960-1964 papers establishing LQR, the algebraic Riccati equation, and — with the Kalman filter, corpus kalman-filter-1960 — the LQG combination.)
+- **ip status**: public-domain
+- **prior art notes**: LQR / LQG (Rudolf Kalman RIAS 1960-1964) is the foundational optimal-control solution for linear systems — the workhorse of robot control. 65-year-deep public-domain prior art. Foundational to iLQR/iLQG/DDP (corpus tassa-ilqg-2012); LQG combines with the Kalman filter (corpus).
 
 ## Kalman filter + LQR (Linear-Quadratic Regulator) (1960-03)
 

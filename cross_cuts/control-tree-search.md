@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-tree-search`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2016-01
 
@@ -41,3 +41,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Schrittwieser, J., Antonoglou, I., Hubert, T., Simonyan, K., Sifre, L., Schmitt, S., Guez, A., Lockhart, E., Hassabis, D., Graepel, T., Lillicrap, T., Silver, D. 'Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model'. arXiv:1911.08265, November 2019. Published Nature 588:604-609, December 2020. DeepMind.
 - **ip status**: academic-publication
 - **prior art notes**: MuZero (DeepMind Schrittwieser et al. arXiv 1911.08265, Nature 2020) is the foundational model-based RL with learned model. 6-year-deep academic-publication prior art.
+
+## AlphaTensor + AlphaDev (DeepMind 2022-2023; RL discovers faster algorithms) (2022-10)
+
+- **id**: `alphatensor-alphadev-deepmind-2022`
+- **corpus**: academic
+- **creator**: Google DeepMind; Alhussein Fawzi + Matej Balog (AlphaTensor); Daniel Mankowitz + team (AlphaDev)
+- **disclosure**: Fawzi, A., Balog, M., Huang, A., et al. 'Discovering faster matrix multiplication algorithms with reinforcement learning'. Nature 610:47-53, October 2022 (AlphaTensor). Mankowitz, D.J., Michi, A., Zhernov, A., et al. 'Faster sorting algorithms discovered using deep reinforcement learning'. Nature 618:257-263, June 2023 (AlphaDev). DeepMind.
+- **ip status**: academic-publication
+- **prior art notes**: AlphaTensor + AlphaDev (DeepMind Nature 2022 + Nature 2023) are RL agents that discover novel faster fundamental algorithms. 3-year-deep academic-publication prior art. AlphaZero (corpus) applied to math + computer science; part of DeepMind's AlphaX-for-science lineage.
