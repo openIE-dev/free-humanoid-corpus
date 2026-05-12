@@ -1,13 +1,13 @@
 ---
 title: "control-diffusion-policy"
 parent: "Invalidity Contentions"
-nav_order: 54
+nav_order: 55
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-diffusion-policy`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-diffusion-policy`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2020-06  
@@ -155,4 +155,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

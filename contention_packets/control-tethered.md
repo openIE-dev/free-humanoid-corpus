@@ -1,13 +1,13 @@
 ---
 title: "control-tethered"
 parent: "Invalidity Contentions"
-nav_order: 137
+nav_order: 141
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-tethered`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-tethered`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 1965-01  
@@ -147,4 +147,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

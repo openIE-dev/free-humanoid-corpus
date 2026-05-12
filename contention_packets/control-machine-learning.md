@@ -1,13 +1,13 @@
 ---
 title: "control-machine-learning"
 parent: "Invalidity Contentions"
-nav_order: 81
+nav_order: 83
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-machine-learning`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-machine-learning`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1995-09  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

@@ -1,16 +1,16 @@
 ---
 title: "companion-robot"
 parent: "Invalidity Contentions"
-nav_order: 33
+nav_order: 34
 layout: default
 ---
 
 # Invalidity Contention Packet — `companion-robot`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `companion-robot`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
-**Earliest disclosure:** 1998-09  
+**Entries:** 6 (6 commons-grade, 0 draft)  
+**Earliest disclosure:** 1977-10  
 **Most recent disclosure:** 2018-12
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1977-10 — K-9 (Doctor Who; 1977)
+
+- **id:** `k9-doctor-who-1977`
+- **corpus:** fictional
+- **ip status:** copyright-bbc
+- **creator:** BBC; Bob Baker + Dave Martin (Doctor Who, 1977)
+- **disclosure citation:** Doctor Who (BBC). K-9 first appeared in 'The Invisible Enemy' (October 1977), created by Bob Baker + Dave Martin. Spin-off series 'K-9 and Company' (1981) + 'K9' (2009-2010). Multiple K-9 units (Mark I-IV).
+- **disclosed subsystems:** `companion-robot`
+
+**Prior art notes:**
+
+> K-9 (Doctor Who BBC 1977+) is the canonical fictional robot dog companion. 48-year-deep fictional-disclosure prior art. Fictional ancestor of Sony Aibo (corpus) + Boston Dynamics Spot (corpus) + every consumer robot dog.
+
+**Sources:**
+
+1. Doctor Who, 'The Invisible Enemy' (BBC 1977).
+
+---
 
 ### 1998-09 — Furby (first viral consumer robotic pet)
 
@@ -166,4 +185,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

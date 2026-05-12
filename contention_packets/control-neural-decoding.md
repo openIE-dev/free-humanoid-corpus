@@ -1,13 +1,13 @@
 ---
 title: "control-neural-decoding"
 parent: "Invalidity Contentions"
-nav_order: 102
+nav_order: 104
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-neural-decoding`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-neural-decoding`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2002-07  
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

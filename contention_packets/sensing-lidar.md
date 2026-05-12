@@ -1,16 +1,16 @@
 ---
 title: "sensing-lidar"
 parent: "Invalidity Contentions"
-nav_order: 252
+nav_order: 260
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-lidar`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `sensing-lidar`  
-**Entries:** 17 (15 commons-grade, 2 draft)  
-**Earliest disclosure:** 2004  
+**Entries:** 18 (16 commons-grade, 2 draft)  
+**Earliest disclosure:** 1961-01  
 **Most recent disclosure:** 2023-08
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1961-01 — LIDAR (Hughes Aircraft Colidar 1961; foundational laser ranging)
+
+- **id:** `lidar-hughes-aircraft-1961`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Hughes Aircraft Company (Malibu/Culver City, CA, USA); building on Maiman's 1960 ruby laser
+- **disclosure citation:** Hughes Aircraft Company. 'Colidar' (COherent Light Detecting And Ranging) — first laser rangefinder, ~1961, shortly after Theodore Maiman demonstrated the ruby laser at Hughes (1960). Term 'lidar' (LIght Detection And Ranging) appeared in the early 1960s; widely used after the 1971 Apollo 15 lunar laser altimeter.
+- **disclosed subsystems:** `sensing-lidar`
+
+**Prior art notes:**
+
+> LIDAR (Hughes Aircraft Colidar 1961; building on Maiman's 1960 laser) is the foundational laser-ranging sensor. 64-year-deep public-domain prior art. The eye of autonomous vehicles + robot perception. Predecessor of Velodyne HDL-64 (corpus).
+
+**Sources:**
+
+1. Hughes Aircraft Company Colidar documentation, ~1961.
+
+---
 
 ### 2004 — HUBO
 
@@ -411,4 +430,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `ai-foundation-model`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `ai-foundation-model`  
-**Entries:** 44 (44 commons-grade, 0 draft)  
+**Entries:** 51 (51 commons-grade, 0 draft)  
 **Earliest disclosure:** 1981-06  
 **Most recent disclosure:** 2024-01
 
@@ -170,6 +170,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. IEEE CVPR 2005.
+
+---
+
+### 2007-10 — GLaDOS + Wheatley (Portal / Portal 2; Valve 2007/2011)
+
+- **id:** `glados-wheatley-portal-2007`
+- **corpus:** fictional
+- **ip status:** copyright-valve
+- **creator:** Valve Corporation (Bellevue, WA, USA); Erik Wolpaw + Jay Pinkerton writing; Ellen McLain (GLaDOS) + Stephen Merchant (Wheatley)
+- **disclosure citation:** Valve Corporation. Portal (2007) + Portal 2 (2011). GLaDOS (Genetic Lifeform and Disk Operating System) voiced by Ellen McLain; Wheatley voiced by Stephen Merchant. Aperture Science Enrichment Center.
+- **disclosed subsystems:** `ai-foundation-model`, `control-modular-cognitive-architecture`
+
+**Prior art notes:**
+
+> GLaDOS + Wheatley (Valve Portal 2007 / Portal 2 2011) are the archetypal malevolent-comedic facility AI + the modular-personality-core concept. 18-year-deep fictional-disclosure prior art. Relevant fictional prior art for modular cognitive architectures + facility-scale AI control. Related to ATLAS + P-Body (corpus atlas-p-body-portal-2).
+
+**Sources:**
+
+1. Portal (Valve 2007); Portal 2 (Valve 2011).
 
 ---
 
@@ -575,6 +594,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-05 — RAG (Retrieval-Augmented Generation; Lewis et al. FAIR 2020)
+
+- **id:** `rag-lewis-meta-2020`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Facebook AI Research + UCL + NYU; Patrick Lewis + Ethan Perez + 10 co-authors incl. Douwe Kiela + Sebastian Riedel
+- **disclosure citation:** Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W., Rocktäschel, T., Riedel, S., Kiela, D. 'Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks'. arXiv:2005.11401, NeurIPS 2020. Facebook AI Research + UCL + NYU.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> RAG (Lewis et al. FAIR + UCL + NYU arXiv 2005.11401) is the foundational retrieval-augmented generation architecture. 5-year-deep public-domain prior art. The single most-deployed LLM-application pattern of the 2020s.
+
+**Sources:**
+
+1. arxiv.org/abs/2005.11401
+
+---
+
 ### 2020-10 — Vision Transformer (ViT; Dosovitskiy et al. Google 2020)
 
 - **id:** `vision-transformer-vit-dosovitskiy-2020`
@@ -632,6 +670,63 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-06 — LoRA (Low-Rank Adaptation; Hu et al. Microsoft 2021)
+
+- **id:** `lora-hu-microsoft-2021`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Microsoft Research; Edward J. Hu + Yelong Shen + Phillip Wallis + Zeyuan Allen-Zhu + Yuanzhi Li + Shean Wang + Lu Wang + Weizhu Chen
+- **disclosure citation:** Hu, E.J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., Chen, W. 'LoRA: Low-Rank Adaptation of Large Language Models'. arXiv:2106.09685, ICLR 2022. Microsoft Research. QLoRA (Dettmers et al. 2023) extends to quantized models.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> LoRA (Hu et al. Microsoft Research arXiv 2106.09685) is the foundational parameter-efficient fine-tuning method. 4-year-deep open-permissive prior art. Foundational to VLA robot-policy adaptation (Pi-0.5/OpenVLA corpus) + the open-source fine-tune ecosystem.
+
+**Sources:**
+
+1. arxiv.org/abs/2106.09685
+
+---
+
+### 2022-01 — Chain-of-Thought Prompting (Wei et al. Google 2022)
+
+- **id:** `chain-of-thought-wei-google-2022`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Google Research / Google Brain; Jason Wei + Xuezhi Wang + Dale Schuurmans + Maarten Bosma + Brian Ichter + Fei Xia + Ed Chi + Quoc Le + Denny Zhou
+- **disclosure citation:** Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E., Le, Q., Zhou, D. 'Chain-of-Thought Prompting Elicits Reasoning in Large Language Models'. arXiv:2201.11903, NeurIPS 2022. Google Research / Google Brain. Related: Kojima et al. 'Large Language Models are Zero-Shot Reasoners' ('Let's think step by step', 2022).
+- **disclosed subsystems:** `ai-foundation-model`, `control-llm-reasoning`
+
+**Prior art notes:**
+
+> Chain-of-Thought Prompting (Wei et al. Google arXiv 2201.11903) is the discovery that prompting an LLM to 'show its work' dramatically improves reasoning — the foundation of LLM reasoning + agentic workflows + inference-time-compute reasoning models. 3-year-deep public-domain prior art. Foundational to LLM-driven robot task planning (SayCan/PaLM-E/Eureka corpus).
+
+**Sources:**
+
+1. arxiv.org/abs/2201.11903
+
+---
+
+### 2022-01 — InstructGPT (Ouyang et al. OpenAI 2022; RLHF-aligned LLM)
+
+- **id:** `instructgpt-ouyang-openai-2022`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** OpenAI; Long Ouyang + Jeff Wu + Xu Jiang + Diogo Almeida + Carroll Wainwright + Pamela Mishkin + ... + Ryan Lowe + Jan Leike + Paul Christiano lineage
+- **disclosure citation:** Ouyang, L., Wu, J., Jiang, X., et al. 'Training language models to follow instructions with human feedback'. arXiv:2203.02155, March 2022. OpenAI. The technical predecessor of ChatGPT (released November 2022). Builds on Christiano et al. RLHF (corpus christiano-rlhf-2017).
+- **disclosed subsystems:** `ai-foundation-model`, `control-rlhf`
+
+**Prior art notes:**
+
+> InstructGPT (Ouyang et al. OpenAI arXiv 2203.02155) is the RLHF recipe that made LLMs follow instructions — the technical foundation of ChatGPT + every modern chatbot's post-training. 3-year-deep public-domain prior art. Builds on Christiano et al. RLHF (corpus christiano-rlhf-2017); uses PPO (corpus ppo-schulman-openai-2017); applied to GPT-3 (corpus gpt-lineage-openai-2018-2024).
+
+**Sources:**
+
+1. arxiv.org/abs/2203.02155
+
+---
+
 ### 2022-03 — Chinchilla Scaling Laws (Hoffmann et al. DeepMind 2022)
 
 - **id:** `chinchilla-scaling-laws-hoffmann-2022`
@@ -648,6 +743,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. arxiv.org/abs/2203.15556
+
+---
+
+### 2022-05 — FlashAttention (Dao et al. Stanford 2022; IO-aware exact attention)
+
+- **id:** `flashattention-dao-2022`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Stanford University; Tri Dao + Daniel Y. Fu + Stefano Ermon + Atri Rudra + Christopher Ré
+- **disclosure citation:** Dao, T., Fu, D.Y., Ermon, S., Rudra, A., Ré, C. 'FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness'. arXiv:2205.14135, NeurIPS 2022. Stanford University. FlashAttention-2 (2023), FlashAttention-3 (2024). Open-source.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> FlashAttention (Dao et al. Stanford arXiv 2205.14135) is the IO-aware exact-attention algorithm that made long-context Transformers practical. 3-year-deep open-permissive prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/2205.14135
 
 ---
 
@@ -860,6 +974,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-12 — Mamba / Selective State-Space Models (Gu & Dao 2023)
+
+- **id:** `mamba-state-space-gu-dao-2023`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Carnegie Mellon University + Princeton; Albert Gu + Tri Dao
+- **disclosure citation:** Gu, A., Dao, T. 'Mamba: Linear-Time Sequence Modeling with Selective State Spaces'. arXiv:2312.00752, December 2023. Carnegie Mellon University + Princeton. Builds on the S4 (Structured State Space) line (Gu et al. 2021-2022). Open-source.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Mamba / Selective State-Space Models (Gu & Dao CMU + Princeton arXiv 2312.00752; building on S4 2021-2022) is the leading Transformer-alternative architecture. 2-year-deep open-permissive prior art (4-year for the S4 line). The most prominent challenger to the Transformer's (corpus) dominance.
+
+**Sources:**
+
+1. arxiv.org/abs/2312.00752
+
+---
+
 ### 2024-01 — Generalist AI (Zeng/Florence/Barry robotics-FM)
 
 - **id:** `generalist-ai-zeng-florence-barry-2024`
@@ -910,4 +1043,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

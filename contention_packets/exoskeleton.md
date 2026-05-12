@@ -1,13 +1,13 @@
 ---
 title: "exoskeleton"
 parent: "Invalidity Contentions"
-nav_order: 154
+nav_order: 158
 layout: default
 ---
 
 # Invalidity Contention Packet — `exoskeleton`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `exoskeleton`  
 **Entries:** 25 (24 commons-grade, 1 draft)  
 **Earliest disclosure:** 1942-04  
@@ -577,4 +577,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

@@ -1,13 +1,13 @@
 ---
 title: "control-slip-model"
 parent: "Invalidity Contentions"
-nav_order: 131
+nav_order: 134
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-slip-model`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-slip-model`  
 **Entries:** 2 (0 commons-grade, 2 draft)  
 **Earliest disclosure:** 1981-01  
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

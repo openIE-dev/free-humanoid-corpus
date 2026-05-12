@@ -1,13 +1,13 @@
 ---
 title: "control-motion-planning"
 parent: "Invalidity Contentions"
-nav_order: 92
+nav_order: 94
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-motion-planning`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-motion-planning`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 1998-10  
@@ -152,4 +152,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

@@ -1,13 +1,13 @@
 ---
 title: "personal-mobility"
 parent: "Invalidity Contentions"
-nav_order: 228
+nav_order: 236
 layout: default
 ---
 
 # Invalidity Contention Packet — `personal-mobility`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `personal-mobility`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1999-06  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

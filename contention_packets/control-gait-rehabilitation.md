@@ -1,13 +1,13 @@
 ---
 title: "control-gait-rehabilitation"
 parent: "Invalidity Contentions"
-nav_order: 64
+nav_order: 66
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-gait-rehabilitation`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-gait-rehabilitation`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1999-01  
@@ -109,4 +109,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

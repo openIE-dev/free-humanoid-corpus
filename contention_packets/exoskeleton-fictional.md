@@ -1,13 +1,13 @@
 ---
 title: "exoskeleton-fictional"
 parent: "Invalidity Contentions"
-nav_order: 155
+nav_order: 159
 layout: default
 ---
 
 # Invalidity Contention Packet — `exoskeleton-fictional`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `exoskeleton-fictional`  
 **Entries:** 10 (10 commons-grade, 0 draft)  
 **Earliest disclosure:** 2005-12  
@@ -269,4 +269,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

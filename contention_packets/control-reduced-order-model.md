@@ -1,13 +1,13 @@
 ---
 title: "control-reduced-order-model"
 parent: "Invalidity Contentions"
-nav_order: 120
+nav_order: 123
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-reduced-order-model`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-reduced-order-model`  
 **Entries:** 28 (27 commons-grade, 1 draft)  
 **Earliest disclosure:** 1979-04-07  
@@ -642,4 +642,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

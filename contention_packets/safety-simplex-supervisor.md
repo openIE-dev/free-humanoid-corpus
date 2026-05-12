@@ -1,13 +1,13 @@
 ---
 title: "safety-simplex-supervisor"
 parent: "Invalidity Contentions"
-nav_order: 240
+nav_order: 248
 layout: default
 ---
 
 # Invalidity Contention Packet — `safety-simplex-supervisor`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `safety-simplex-supervisor`  
 **Entries:** 8 (8 commons-grade, 0 draft)  
 **Earliest disclosure:** 1940-09  
@@ -233,4 +233,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

@@ -1,13 +1,13 @@
 ---
 title: "control-haptic-rendering"
 parent: "Invalidity Contentions"
-nav_order: 71
+nav_order: 73
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-haptic-rendering`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-haptic-rendering`  
 **Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 1994-09  
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

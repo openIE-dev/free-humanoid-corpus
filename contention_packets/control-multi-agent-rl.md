@@ -1,13 +1,13 @@
 ---
 title: "control-multi-agent-rl"
 parent: "Invalidity Contentions"
-nav_order: 94
+nav_order: 96
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-multi-agent-rl`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-multi-agent-rl`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2019-01  
@@ -109,4 +109,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

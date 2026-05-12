@@ -1,13 +1,13 @@
 ---
 title: "control-bundle-adjustment"
 parent: "Invalidity Contentions"
-nav_order: 47
+nav_order: 48
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-bundle-adjustment`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-bundle-adjustment`  
 **Entries:** 5 (4 commons-grade, 1 draft)  
 **Earliest disclosure:** 2021-04  
@@ -175,4 +175,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

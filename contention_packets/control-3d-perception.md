@@ -1,13 +1,13 @@
 ---
 title: "control-3d-perception"
 parent: "Invalidity Contentions"
-nav_order: 35
+nav_order: 36
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-3d-perception`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-3d-perception`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2016-12  
@@ -153,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

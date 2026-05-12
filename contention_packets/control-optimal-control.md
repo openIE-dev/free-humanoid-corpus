@@ -1,16 +1,16 @@
 ---
 title: "control-optimal-control"
 parent: "Invalidity Contentions"
-nav_order: 110
+nav_order: 113
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-optimal-control`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-optimal-control`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
-**Earliest disclosure:** 1960-03  
+**Entries:** 5 (5 commons-grade, 0 draft)  
+**Earliest disclosure:** 1956-01  
 **Most recent disclosure:** 2017-04
 
 ---
@@ -39,6 +39,44 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1956-01 — Pontryagin's Maximum Principle (1956; optimal control)
+
+- **id:** `pontryagin-maximum-principle-1956`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Steklov Institute of Mathematics, Moscow; Lev Pontryagin + Vladimir Boltyanskii + Revaz Gamkrelidze + Evgenii Mishchenko
+- **disclosure citation:** Pontryagin, L.S., Boltyanskii, V.G., Gamkrelidze, R.V., Mishchenko, E.F. 'The Mathematical Theory of Optimal Processes'. Originally Russian, 1956-1961; English translation Interscience/Wiley, 1962. Steklov Institute of Mathematics, Moscow.
+- **disclosed subsystems:** `control-optimal-control`
+
+**Prior art notes:**
+
+> Pontryagin's Maximum Principle (Pontryagin et al. Steklov Institute 1956-1962) is the foundational necessary-conditions theorem for optimal control. 69-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Pontryagin, L.S. et al. 'The Mathematical Theory of Optimal Processes'. Wiley 1962.
+
+---
+
+### 1957-01 — Dynamic Programming + Bellman Equation (Richard Bellman 1957)
+
+- **id:** `bellman-dynamic-programming-1957`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** RAND Corporation; Richard E. Bellman
+- **disclosure citation:** Bellman, R. 'Dynamic Programming'. Princeton University Press, 1957. RAND Corporation. Earlier papers from 1953-1956. The Bellman equation + the principle of optimality.
+- **disclosed subsystems:** `control-optimal-control`, `control-mdp`
+
+**Prior art notes:**
+
+> Dynamic Programming + the Bellman Equation (Richard Bellman RAND 1957) is the foundational mathematics of sequential decision-making. 68-year-deep public-domain prior art. The basis of all reinforcement learning + optimal control.
+
+**Sources:**
+
+1. Bellman, R. 'Dynamic Programming'. Princeton University Press 1957.
+
+---
 
 ### 1960-03 — Kalman filter + LQR (Linear-Quadratic Regulator)
 
@@ -129,4 +167,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

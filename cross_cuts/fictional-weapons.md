@@ -6,14 +6,32 @@ layout: default
 
 # Cross-cut: `fictional-weapons`
 
-**1 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2008-05
+Earliest disclosure: 1951-09
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Gort (The Day the Earth Stood Still; 1951) (1951-09)
+
+- **id**: `gort-day-earth-stood-still-1951`
+- **corpus**: fictional
+- **creator**: 20th Century Fox; Robert Wise; Edmund H. North screenplay; based on Harry Bates's 'Farewell to the Master' (1940)
+- **disclosure**: The Day the Earth Stood Still (1951 film). 20th Century Fox; directed by Robert Wise; screenplay by Edmund H. North, based on Harry Bates's short story 'Farewell to the Master' (Astounding Science Fiction, October 1940, where the robot is named 'Gnut'). 'Klaatu barada nikto.'
+- **ip status**: copyright-fox (1951 film); public-domain (Bates 1940 story)
+- **prior art notes**: Gort (The Day the Earth Stood Still 1951; based on Harry Bates's 'Gnut' 1940) is the archetypal silent, immensely powerful guardian robot — the 'autonomous-enforcer / robot peacekeeper' trope. 74-year-deep fictional-disclosure prior art (85-year for the Bates story). Ancestor of the Iron Giant (corpus) + Sentinels (corpus) + Terminator-as-inverse (corpus). Relevant to autonomous lethal robots + 'AI given enforcement authority' discourse.
+
+## Mechagodzilla (Toho 1974; the giant mecha kaiju) (1974-03)
+
+- **id**: `mechagodzilla-1974`
+- **corpus**: fictional
+- **creator**: Toho Co., Ltd. (Japan, 1974+)
+- **disclosure**: Toho Co., Ltd. 'Godzilla vs. Mechagodzilla' (ゴジラ対メカゴジラ), March 1974, directed by Jun Fukuda. Subsequent versions: Showa Mechagodzilla (1974-1975), Heisei Mechagodzilla (1993-1994), Kiryu / Millennium Mechagodzilla (2002-2003), MonsterVerse Mechagodzilla (2021).
+- **ip status**: copyright-toho
+- **prior art notes**: Mechagodzilla (Toho 1974+) is the archetypal giant anti-kaiju mecha. 51-year-deep fictional-disclosure prior art. Part of the Japanese giant-mecha tradition (Tetsujin 28 / Mazinger Z / Gundam / Evangelion / Patlabor / Pacific Rim — all corpus).
 
 ## Iron Man Mark III (red-and-gold MCU production armor) (2008-05)
 

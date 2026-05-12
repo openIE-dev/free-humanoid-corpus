@@ -1,13 +1,13 @@
 ---
 title: "control-research-cluster"
 parent: "Invalidity Contentions"
-nav_order: 121
+nav_order: 124
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-research-cluster`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-research-cluster`  
 **Entries:** 40 (4 commons-grade, 36 draft)  
 **Earliest disclosure:** 2000-01  
@@ -867,4 +867,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

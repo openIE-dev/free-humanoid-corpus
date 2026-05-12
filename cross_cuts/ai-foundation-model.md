@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `ai-foundation-model`
 
-**44 corpus entries disclose this subsystem.**
+**51 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1981-06
 
@@ -77,6 +77,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Dalal, N., Triggs, B. 'Histograms of Oriented Gradients for Human Detection'. IEEE CVPR 2005. INRIA Rhône-Alpes (Grenoble, France).
 - **ip status**: public-domain
 - **prior art notes**: HOG (Dalal & Triggs INRIA CVPR 2005) is the foundational pre-CNN gradient-histogram object-detection descriptor. 20-year-deep public-domain prior art.
+
+## GLaDOS + Wheatley (Portal / Portal 2; Valve 2007/2011) (2007-10)
+
+- **id**: `glados-wheatley-portal-2007`
+- **corpus**: fictional
+- **creator**: Valve Corporation (Bellevue, WA, USA); Erik Wolpaw + Jay Pinkerton writing; Ellen McLain (GLaDOS) + Stephen Merchant (Wheatley)
+- **disclosure**: Valve Corporation. Portal (2007) + Portal 2 (2011). GLaDOS (Genetic Lifeform and Disk Operating System) voiced by Ellen McLain; Wheatley voiced by Stephen Merchant. Aperture Science Enrichment Center.
+- **ip status**: copyright-valve
+- **prior art notes**: GLaDOS + Wheatley (Valve Portal 2007 / Portal 2 2011) are the archetypal malevolent-comedic facility AI + the modular-personality-core concept. 18-year-deep fictional-disclosure prior art. Relevant fictional prior art for modular cognitive architectures + facility-scale AI control. Related to ATLAS + P-Body (corpus atlas-p-body-portal-2).
 
 ## Dropout (Srivastava/Hinton et al. 2014) (2012-07)
 
@@ -267,6 +276,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: academic-publication
 - **prior art notes**: DETR (Carion et al. FAIR ECCV 2020, arXiv 2005.12872) is the foundational transformer-based object detection model. 5-year-deep academic-publication prior art.
 
+## RAG (Retrieval-Augmented Generation; Lewis et al. FAIR 2020) (2020-05)
+
+- **id**: `rag-lewis-meta-2020`
+- **corpus**: academic
+- **creator**: Facebook AI Research + UCL + NYU; Patrick Lewis + Ethan Perez + 10 co-authors incl. Douwe Kiela + Sebastian Riedel
+- **disclosure**: Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W., Rocktäschel, T., Riedel, S., Kiela, D. 'Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks'. arXiv:2005.11401, NeurIPS 2020. Facebook AI Research + UCL + NYU.
+- **ip status**: public-domain
+- **prior art notes**: RAG (Lewis et al. FAIR + UCL + NYU arXiv 2005.11401) is the foundational retrieval-augmented generation architecture. 5-year-deep public-domain prior art. The single most-deployed LLM-application pattern of the 2020s.
+
 ## Vision Transformer (ViT; Dosovitskiy et al. Google 2020) (2020-10)
 
 - **id**: `vision-transformer-vit-dosovitskiy-2020`
@@ -294,6 +312,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: CLIP (Radford et al. OpenAI ICML 2021, arXiv 2103.00020) is the foundational vision-language contrastive learning model. 4-year-deep academic-publication prior art.
 
+## LoRA (Low-Rank Adaptation; Hu et al. Microsoft 2021) (2021-06)
+
+- **id**: `lora-hu-microsoft-2021`
+- **corpus**: open
+- **creator**: Microsoft Research; Edward J. Hu + Yelong Shen + Phillip Wallis + Zeyuan Allen-Zhu + Yuanzhi Li + Shean Wang + Lu Wang + Weizhu Chen
+- **disclosure**: Hu, E.J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., Chen, W. 'LoRA: Low-Rank Adaptation of Large Language Models'. arXiv:2106.09685, ICLR 2022. Microsoft Research. QLoRA (Dettmers et al. 2023) extends to quantized models.
+- **ip status**: open-permissive
+- **prior art notes**: LoRA (Hu et al. Microsoft Research arXiv 2106.09685) is the foundational parameter-efficient fine-tuning method. 4-year-deep open-permissive prior art. Foundational to VLA robot-policy adaptation (Pi-0.5/OpenVLA corpus) + the open-source fine-tune ecosystem.
+
+## Chain-of-Thought Prompting (Wei et al. Google 2022) (2022-01)
+
+- **id**: `chain-of-thought-wei-google-2022`
+- **corpus**: academic
+- **creator**: Google Research / Google Brain; Jason Wei + Xuezhi Wang + Dale Schuurmans + Maarten Bosma + Brian Ichter + Fei Xia + Ed Chi + Quoc Le + Denny Zhou
+- **disclosure**: Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E., Le, Q., Zhou, D. 'Chain-of-Thought Prompting Elicits Reasoning in Large Language Models'. arXiv:2201.11903, NeurIPS 2022. Google Research / Google Brain. Related: Kojima et al. 'Large Language Models are Zero-Shot Reasoners' ('Let's think step by step', 2022).
+- **ip status**: public-domain
+- **prior art notes**: Chain-of-Thought Prompting (Wei et al. Google arXiv 2201.11903) is the discovery that prompting an LLM to 'show its work' dramatically improves reasoning — the foundation of LLM reasoning + agentic workflows + inference-time-compute reasoning models. 3-year-deep public-domain prior art. Foundational to LLM-driven robot task planning (SayCan/PaLM-E/Eureka corpus).
+
+## InstructGPT (Ouyang et al. OpenAI 2022; RLHF-aligned LLM) (2022-01)
+
+- **id**: `instructgpt-ouyang-openai-2022`
+- **corpus**: academic
+- **creator**: OpenAI; Long Ouyang + Jeff Wu + Xu Jiang + Diogo Almeida + Carroll Wainwright + Pamela Mishkin + ... + Ryan Lowe + Jan Leike + Paul Christiano lineage
+- **disclosure**: Ouyang, L., Wu, J., Jiang, X., et al. 'Training language models to follow instructions with human feedback'. arXiv:2203.02155, March 2022. OpenAI. The technical predecessor of ChatGPT (released November 2022). Builds on Christiano et al. RLHF (corpus christiano-rlhf-2017).
+- **ip status**: public-domain
+- **prior art notes**: InstructGPT (Ouyang et al. OpenAI arXiv 2203.02155) is the RLHF recipe that made LLMs follow instructions — the technical foundation of ChatGPT + every modern chatbot's post-training. 3-year-deep public-domain prior art. Builds on Christiano et al. RLHF (corpus christiano-rlhf-2017); uses PPO (corpus ppo-schulman-openai-2017); applied to GPT-3 (corpus gpt-lineage-openai-2018-2024).
+
 ## Chinchilla Scaling Laws (Hoffmann et al. DeepMind 2022) (2022-03)
 
 - **id**: `chinchilla-scaling-laws-hoffmann-2022`
@@ -302,6 +347,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hoffmann, J., Borgeaud, S., Mensch, A., et al. 'Training Compute-Optimal Large Language Models'. arXiv:2203.15556, March 2022. DeepMind. Earlier: Kaplan et al. (OpenAI 2020) original scaling laws.
 - **ip status**: academic-publication
 - **prior art notes**: Chinchilla Scaling Laws (Hoffmann et al. DeepMind arXiv 2203.15556) is the foundational compute-optimal LLM scaling-law result. 3-year-deep academic-publication prior art.
+
+## FlashAttention (Dao et al. Stanford 2022; IO-aware exact attention) (2022-05)
+
+- **id**: `flashattention-dao-2022`
+- **corpus**: open
+- **creator**: Stanford University; Tri Dao + Daniel Y. Fu + Stefano Ermon + Atri Rudra + Christopher Ré
+- **disclosure**: Dao, T., Fu, D.Y., Ermon, S., Rudra, A., Ré, C. 'FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness'. arXiv:2205.14135, NeurIPS 2022. Stanford University. FlashAttention-2 (2023), FlashAttention-3 (2024). Open-source.
+- **ip status**: open-permissive
+- **prior art notes**: FlashAttention (Dao et al. Stanford arXiv 2205.14135) is the IO-aware exact-attention algorithm that made long-context Transformers practical. 3-year-deep open-permissive prior art.
 
 ## Stable Diffusion (Rombach et al. Stability AI 2022; open-source text-to-image) (2022-08)
 
@@ -401,6 +455,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Open X-Embodiment Collaboration (Padalkar, A., et al. — 200+ authors from 30+ institutions including Google DeepMind, Stanford, UC Berkeley, MIT, CMU). 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models'. arXiv:2310.08864, October 2023. ICRA 2024 best-paper award.
 - **ip status**: open-permissive
 - **prior art notes**: Open X-Embodiment / RT-X (200+ author collaboration arXiv 2310.08864, ICRA 2024 best paper) is the foundational cross-embodiment robot-learning dataset — the 'ImageNet of robot learning'. 2-year-deep open-permissive prior art. Foundational to Skild AI (corpus), Octo (corpus), OpenVLA (corpus), Pi-0.5 (corpus).
+
+## Mamba / Selective State-Space Models (Gu & Dao 2023) (2023-12)
+
+- **id**: `mamba-state-space-gu-dao-2023`
+- **corpus**: open
+- **creator**: Carnegie Mellon University + Princeton; Albert Gu + Tri Dao
+- **disclosure**: Gu, A., Dao, T. 'Mamba: Linear-Time Sequence Modeling with Selective State Spaces'. arXiv:2312.00752, December 2023. Carnegie Mellon University + Princeton. Builds on the S4 (Structured State Space) line (Gu et al. 2021-2022). Open-source.
+- **ip status**: open-permissive
+- **prior art notes**: Mamba / Selective State-Space Models (Gu & Dao CMU + Princeton arXiv 2312.00752; building on S4 2021-2022) is the leading Transformer-alternative architecture. 2-year-deep open-permissive prior art (4-year for the S4 line). The most prominent challenger to the Transformer's (corpus) dominance.
 
 ## Generalist AI (Zeng/Florence/Barry robotics-FM) (2024-01)
 

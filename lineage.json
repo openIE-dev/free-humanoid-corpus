@@ -11,6 +11,22 @@
       ]
     },
     {
+      "id": "hero-of-alexandria-automata-1c",
+      "name": "Hero of Alexandria's Automata (~1st century CE)",
+      "year": "0070",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "al-jazari-ingenious-devices-1206",
+      "name": "Al-Jazari's Book of Ingenious Mechanical Devices (1206)",
+      "year": "1206",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "da-vinci-knight",
       "name": "Leonardo's Mechanical Knight",
       "year": "1495",
@@ -23,6 +39,40 @@
       ]
     },
     {
+      "id": "leonardo-mechanical-knight-1495",
+      "name": "Leonardo da Vinci's Mechanical Knight (~1495)",
+      "year": "1495",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "karakuri-ningyo-edo-period",
+      "name": "Karakuri Ningyō (Japanese mechanical dolls; Edo period 17th-19th c.)",
+      "year": "1662",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "vaucanson-digesting-duck-1739",
+      "name": "Vaucanson's Digesting Duck + Flute Player (1738-1739)",
+      "year": "1738",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "jacquard-loom-1804"
+      ]
+    },
+    {
+      "id": "von-kempelen-mechanical-turk-1770",
+      "name": "The Mechanical Turk (von Kempelen 1770; chess-playing automaton)",
+      "year": "1770",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "jaquet-droz-writer",
       "name": "Jaquet-Droz The Writer",
       "year": "1772",
@@ -31,7 +81,55 @@
         "da-vinci-knight"
       ],
       "descendants": [
-        "l-eve-future"
+        "l-eve-future",
+        "maillardet-automaton-1800"
+      ]
+    },
+    {
+      "id": "maillardet-automaton-1800",
+      "name": "Maillardet's Automaton (~1800; drawing-and-writing machine)",
+      "year": "1800",
+      "corpus": "academic",
+      "ancestors": [
+        "jaquet-droz-writer"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "jacquard-loom-1804",
+      "name": "Jacquard Loom (Joseph Marie Jacquard 1804; punch-card programmable machine)",
+      "year": "1804",
+      "corpus": "academic",
+      "ancestors": [
+        "vaucanson-digesting-duck-1739"
+      ],
+      "descendants": [
+        "mit-numerical-control-1952",
+        "modicon-plc-morley-1968"
+      ]
+    },
+    {
+      "id": "golem-of-prague-folklore",
+      "name": "The Golem of Prague (Jewish folklore; the artificial servant of clay)",
+      "year": "1808",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "frankenstein",
+        "metropolis-maschinenmensch",
+        "rur-rossums-robots"
+      ]
+    },
+    {
+      "id": "olimpia-hoffmann-sandman-1816",
+      "name": "Olimpia (E.T.A. Hoffmann's 'The Sandman'; 1816)",
+      "year": "1816",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "ex-machina-ava",
+        "metropolis-maschinenmensch",
+        "westworld-hosts"
       ]
     },
     {
@@ -39,7 +137,9 @@
       "name": "Frankenstein's Creature",
       "year": "1818",
       "corpus": "fictional",
-      "ancestors": [],
+      "ancestors": [
+        "golem-of-prague-folklore"
+      ],
       "descendants": [
         "westworld-hosts"
       ]
@@ -52,6 +152,28 @@
       "ancestors": [],
       "descendants": [
         "scara-makino-1979"
+      ]
+    },
+    {
+      "id": "hall-effect-sensor-1879",
+      "name": "Hall Effect (Edwin Hall 1879) + Hall sensors",
+      "year": "1879",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "xela-robotics-uskin-2017"
+      ]
+    },
+    {
+      "id": "pinocchio-collodi-1883",
+      "name": "Pinocchio (Carlo Collodi 1883; the artificial being who wants to be real)",
+      "year": "1883",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "asimov-bicentennial-man",
+        "astro-boy",
+        "data-tng"
       ]
     },
     {
@@ -83,6 +205,7 @@
       "year": "1920",
       "corpus": "fictional",
       "ancestors": [
+        "golem-of-prague-folklore",
         "l-eve-future"
       ],
       "descendants": [
@@ -92,12 +215,22 @@
       ]
     },
     {
+      "id": "minorsky-pid-control-1922",
+      "name": "PID Control (Nicolas Minorsky 1922; ship autopilot)",
+      "year": "1922",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "metropolis-maschinenmensch",
       "name": "Maschinenmensch",
       "year": "1927",
       "corpus": "fictional",
       "ancestors": [
+        "golem-of-prague-folklore",
         "l-eve-future",
+        "olimpia-hoffmann-sandman-1816",
         "rur-rossums-robots"
       ],
       "descendants": [
@@ -173,11 +306,45 @@
       ]
     },
     {
+      "id": "wiener-cybernetics-1948",
+      "name": "Cybernetics (Norbert Wiener 1948)",
+      "year": "1948",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "gort-day-earth-stood-still-1951",
+      "name": "Gort (The Day the Earth Stood Still; 1951)",
+      "year": "1951",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "iron-giant",
+        "sentinels-marvel"
+      ]
+    },
+    {
+      "id": "mit-numerical-control-1952",
+      "name": "MIT Numerical Control (NC machine tool; 1952)",
+      "year": "1952",
+      "corpus": "academic",
+      "ancestors": [
+        "jacquard-loom-1804"
+      ],
+      "descendants": [
+        "cincinnati-milacron-t3-1973",
+        "unimate-unimation-1961"
+      ]
+    },
+    {
       "id": "astro-boy",
       "name": "Astro Boy",
       "year": "1952",
       "corpus": "fictional",
-      "ancestors": [],
+      "ancestors": [
+        "pinocchio-collodi-1883"
+      ],
       "descendants": []
     },
     {
@@ -208,7 +375,8 @@
       ],
       "descendants": [
         "asimov-bicentennial-man",
-        "asimovs-zeroth-law"
+        "asimovs-zeroth-law",
+        "sonny-ns5-i-robot-2004"
       ]
     },
     {
@@ -240,6 +408,14 @@
       ]
     },
     {
+      "id": "pontryagin-maximum-principle-1956",
+      "name": "Pontryagin's Maximum Principle (1956; optimal control)",
+      "year": "1956",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "forbidden-planet-robby",
       "name": "Robby the Robot (Forbidden Planet)",
       "year": "1956",
@@ -255,6 +431,17 @@
       "ancestors": [],
       "descendants": [
         "gundam-rx-78-2"
+      ]
+    },
+    {
+      "id": "bellman-dynamic-programming-1957",
+      "name": "Dynamic Programming + Bellman Equation (Richard Bellman 1957)",
+      "year": "1957",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "dqn-mnih-deepmind-2013",
+        "sutton-barto-rl-2nd-edition-2018"
       ]
     },
     {
@@ -295,6 +482,14 @@
       "descendants": []
     },
     {
+      "id": "kalman-filter-1960",
+      "name": "Kalman Filter (Rudolf Kalman 1960; optimal state estimation)",
+      "year": "1960",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "kalman-filter-lqr-1960",
       "name": "Kalman filter + LQR (Linear-Quadratic Regulator)",
       "year": "1960",
@@ -303,12 +498,23 @@
       "descendants": []
     },
     {
+      "id": "lidar-hughes-aircraft-1961",
+      "name": "LIDAR (Hughes Aircraft Colidar 1961; foundational laser ranging)",
+      "year": "1961",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "velodyne-hdl-64-lidar-2007"
+      ]
+    },
+    {
       "id": "unimate-unimation-1961",
       "name": "Unimate (the first industrial robot arm)",
       "year": "1961",
       "corpus": "private",
       "ancestors": [
-        "devol-programmed-article-transfer-1954"
+        "devol-programmed-article-transfer-1954",
+        "mit-numerical-control-1952"
       ],
       "descendants": [
         "cincinnati-milacron-t3-1973",
@@ -442,7 +648,9 @@
       "name": "Sentinels (X-Men)",
       "year": "1965",
       "corpus": "fictional",
-      "ancestors": [],
+      "ancestors": [
+        "gort-day-earth-stood-still-1951"
+      ],
       "descendants": [
         "ultron-marvel"
       ]
@@ -496,6 +704,16 @@
       ]
     },
     {
+      "id": "modicon-plc-morley-1968",
+      "name": "Modicon 084 PLC (Dick Morley 1968; the first Programmable Logic Controller)",
+      "year": "1968",
+      "corpus": "private",
+      "ancestors": [
+        "jacquard-loom-1804"
+      ],
+      "descendants": []
+    },
+    {
       "id": "hal-9000",
       "name": "HAL 9000",
       "year": "1968",
@@ -546,7 +764,9 @@
       "name": "The Iron Giant",
       "year": "1968",
       "corpus": "fictional",
-      "ancestors": [],
+      "ancestors": [
+        "gort-day-earth-stood-still-1951"
+      ],
       "descendants": []
     },
     {
@@ -572,6 +792,17 @@
       "ancestors": [],
       "descendants": [
         "puma-unimation-1978"
+      ]
+    },
+    {
+      "id": "ccd-image-sensor-boyle-smith-1969",
+      "name": "CCD Image Sensor (Boyle & Smith Bell Labs 1969; Nobel Prize 2009)",
+      "year": "1969",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "intel-realsense-2015",
+        "kinect-microsoft-2010"
       ]
     },
     {
@@ -659,6 +890,7 @@
       "year": "1973",
       "corpus": "private",
       "ancestors": [
+        "mit-numerical-control-1952",
         "unimate-unimation-1961"
       ],
       "descendants": []
@@ -688,8 +920,17 @@
       "year": "1973",
       "corpus": "fictional",
       "ancestors": [
-        "frankenstein"
+        "frankenstein",
+        "olimpia-hoffmann-sandman-1816"
       ],
+      "descendants": []
+    },
+    {
+      "id": "mechagodzilla-1974",
+      "name": "Mechagodzilla (Toho 1974; the giant mecha kaiju)",
+      "year": "1974",
+      "corpus": "fictional",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -698,7 +939,8 @@
       "year": "1976",
       "corpus": "fictional",
       "ancestors": [
-        "asimov-caves-of-steel-daneel"
+        "asimov-caves-of-steel-daneel",
+        "pinocchio-collodi-1883"
       ],
       "descendants": []
     },
@@ -735,6 +977,17 @@
       "descendants": []
     },
     {
+      "id": "k9-doctor-who-1977",
+      "name": "K-9 (Doctor Who; 1977)",
+      "year": "1977",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "boston-dynamics-spotmini-2017",
+        "sony-aibo"
+      ]
+    },
+    {
       "id": "dr-who-k9",
       "name": "K9",
       "year": "1977",
@@ -751,6 +1004,22 @@
       "descendants": [
         "epson-scara-1983"
       ]
+    },
+    {
+      "id": "gps-navstar-1978",
+      "name": "GPS / NAVSTAR (US DoD 1978; satellite navigation)",
+      "year": "1978",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "marvin-paranoid-android-1978",
+      "name": "Marvin the Paranoid Android (Hitchhiker's Guide to the Galaxy; 1978)",
+      "year": "1978",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "puma-unimation-1978",
@@ -895,6 +1164,14 @@
       ]
     },
     {
+      "id": "voltron-go-lion-1981",
+      "name": "Voltron / Beast King GoLion (1981; the combining super-robot)",
+      "year": "1981",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ransac-fischler-bolles-1981",
       "name": "RANSAC (Random Sample Consensus; Fischler & Bolles 1981)",
       "year": "1981",
@@ -1023,6 +1300,14 @@
     {
       "id": "gibson-neuromancer-constructs",
       "name": "Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline)",
+      "year": "1984",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "transformers-optimus-megatron-1984",
+      "name": "The Transformers (Optimus Prime / Megatron / Autobots / Decepticons; 1984)",
       "year": "1984",
       "corpus": "fictional",
       "ancestors": [],
@@ -1264,8 +1549,17 @@
       "year": "1987",
       "corpus": "fictional",
       "ancestors": [
-        "asimov-positronic-robots"
+        "asimov-positronic-robots",
+        "pinocchio-collodi-1883"
       ],
+      "descendants": []
+    },
+    {
+      "id": "mega-man-rockman-1987",
+      "name": "Mega Man / Rockman (Capcom 1987; the robot hero who copies abilities)",
+      "year": "1987",
+      "corpus": "fictional",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2050,6 +2344,14 @@
       "descendants": []
     },
     {
+      "id": "bender-futurama-1999",
+      "name": "Bender Bending Rodríguez (Futurama; 1999)",
+      "year": "1999",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "sony-aibo-1999",
       "name": "Sony AIBO (first mass-market robot pet)",
       "year": "1999",
@@ -2062,7 +2364,9 @@
       "name": "Sony AIBO",
       "year": "1999",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "k9-doctor-who-1977"
+      ],
       "descendants": []
     },
     {
@@ -2640,6 +2944,14 @@
       ]
     },
     {
+      "id": "tachikoma-ghost-in-the-shell-2002",
+      "name": "Tachikoma (Ghost in the Shell: Stand Alone Complex; 2002)",
+      "year": "2002",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ghost-in-the-shell-tachikoma",
       "name": "Tachikoma",
       "year": "2002",
@@ -2895,6 +3207,16 @@
       ]
     },
     {
+      "id": "sonny-ns5-i-robot-2004",
+      "name": "Sonny / NS-5 (I, Robot 2004 film)",
+      "year": "2004",
+      "corpus": "fictional",
+      "ancestors": [
+        "asimov-caves-of-steel-daneel"
+      ],
+      "descendants": []
+    },
+    {
       "id": "wisse-tu-delft-passive-walker-2004",
       "name": "Wisse passive-dynamic walker thesis",
       "year": "2004",
@@ -3102,6 +3424,14 @@
       "descendants": []
     },
     {
+      "id": "antikythera-mechanism-150bce",
+      "name": "Antikythera Mechanism (~150-100 BCE; ancient analog computer)",
+      "year": "2006",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "pratt-capture-point-2007",
       "name": "Capture Point (Pratt humanoid balance)",
       "year": "2006",
@@ -3178,7 +3508,9 @@
       "name": "Velodyne HDL-64E LIDAR",
       "year": "2007",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "lidar-hughes-aircraft-1961"
+      ],
       "descendants": []
     },
     {
@@ -3235,6 +3567,16 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "glados-wheatley-portal-2007",
+      "name": "GLaDOS + Wheatley (Portal / Portal 2; Valve 2007/2011)",
+      "year": "2007",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "atlas-p-body-portal-2"
+      ]
     },
     {
       "id": "opensim-delp-stanford-2007",
@@ -3880,7 +4222,9 @@
       "name": "Microsoft Kinect",
       "year": "2010",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "ccd-image-sensor-boyle-smith-1969"
+      ],
       "descendants": [
         "intel-realsense-2015"
       ]
@@ -3966,7 +4310,9 @@
       "name": "Atlas and P-Body (Portal 2)",
       "year": "2011",
       "corpus": "fictional",
-      "ancestors": [],
+      "ancestors": [
+        "glados-wheatley-portal-2007"
+      ],
       "descendants": []
     },
     {
@@ -4518,7 +4864,9 @@
       "name": "Deep Q-Network (DQN)",
       "year": "2013",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "bellman-dynamic-programming-1957"
+      ],
       "descendants": [
         "lillicrap-ddpg-2015",
         "ppo-schulman-openai-2017",
@@ -4877,7 +5225,9 @@
       "name": "Ava (Ex Machina)",
       "year": "2014",
       "corpus": "fictional",
-      "ancestors": [],
+      "ancestors": [
+        "olimpia-hoffmann-sandman-1816"
+      ],
       "descendants": [
         "openai-rt-2"
       ]
@@ -4965,6 +5315,7 @@
       "year": "2015",
       "corpus": "private",
       "ancestors": [
+        "ccd-image-sensor-boyle-smith-1969",
         "kinect-microsoft-2010"
       ],
       "descendants": []
@@ -5527,7 +5878,9 @@
       "name": "Boston Dynamics SpotMini",
       "year": "2016",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "k9-doctor-who-1977"
+      ],
       "descendants": []
     },
     {
@@ -5921,6 +6274,7 @@
         "dalle-openai-2021",
         "detr-carion-fb-2020",
         "diffusion-transformers-dit-peebles-2022",
+        "flashattention-dao-2022",
         "gpt-lineage-openai-2018-2024",
         "llama-meta-2023",
         "vision-transformer-vit-dosovitskiy-2020",
@@ -5951,7 +6305,9 @@
       "year": "2017",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "instructgpt-ouyang-openai-2022"
+      ]
     },
     {
       "id": "ppo-schulman-openai-2017",
@@ -5963,7 +6319,9 @@
         "trpo-schulman-icml-2015",
         "williams-reinforce-1992"
       ],
-      "descendants": []
+      "descendants": [
+        "instructgpt-ouyang-openai-2022"
+      ]
     },
     {
       "id": "hindsight-experience-replay",
@@ -6084,6 +6442,7 @@
       "year": "2017",
       "corpus": "private",
       "ancestors": [
+        "hall-effect-sensor-1879",
         "twendy-one-sugano-waseda-2007"
       ],
       "descendants": []
@@ -6453,7 +6812,9 @@
       "ancestors": [
         "transformer-vaswani-2017"
       ],
-      "descendants": []
+      "descendants": [
+        "instructgpt-ouyang-openai-2022"
+      ]
     },
     {
       "id": "openai-dactyl",
@@ -6558,7 +6919,9 @@
       "name": "Sutton & Barto, Reinforcement Learning: An Introduction (2nd edition)",
       "year": "2018",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "bellman-dynamic-programming-1957"
+      ],
       "descendants": []
     },
     {
@@ -7042,6 +7405,14 @@
       ]
     },
     {
+      "id": "rag-lewis-meta-2020",
+      "name": "RAG (Retrieval-Augmented Generation; Lewis et al. FAIR 2020)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ddpm-ho-neurips-2020",
       "name": "Denoising Diffusion Probabilistic Models (DDPM)",
       "year": "2020",
@@ -7280,6 +7651,14 @@
       "ancestors": [
         "transformer-vaswani-neurips-2017"
       ],
+      "descendants": []
+    },
+    {
+      "id": "lora-hu-microsoft-2021",
+      "name": "LoRA (Low-Rank Adaptation; Hu et al. Microsoft 2021)",
+      "year": "2021",
+      "corpus": "open",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -7528,6 +7907,26 @@
       "descendants": []
     },
     {
+      "id": "chain-of-thought-wei-google-2022",
+      "name": "Chain-of-Thought Prompting (Wei et al. Google 2022)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "instructgpt-ouyang-openai-2022",
+      "name": "InstructGPT (Ouyang et al. OpenAI 2022; RLHF-aligned LLM)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [
+        "christiano-rlhf-2017",
+        "gpt-lineage-openai-2018-2024",
+        "ppo-schulman-openai-2017"
+      ],
+      "descendants": []
+    },
+    {
       "id": "john-deere-8r-autonomous-tractor-2022",
       "name": "John Deere 8R (first fully-autonomous production tractor)",
       "year": "2022",
@@ -7643,6 +8042,16 @@
         "palm-e",
         "rt-1"
       ]
+    },
+    {
+      "id": "flashattention-dao-2022",
+      "name": "FlashAttention (Dao et al. Stanford 2022; IO-aware exact attention)",
+      "year": "2022",
+      "corpus": "open",
+      "ancestors": [
+        "transformer-vaswani-2017"
+      ],
+      "descendants": []
     },
     {
       "id": "gelsight-mini-2022",
@@ -8406,6 +8815,14 @@
         "cassie-osu",
         "mini-cheetah"
       ],
+      "descendants": []
+    },
+    {
+      "id": "mamba-state-space-gu-dao-2023",
+      "name": "Mamba / Selective State-Space Models (Gu & Dao 2023)",
+      "year": "2023",
+      "corpus": "open",
+      "ancestors": [],
       "descendants": []
     },
     {

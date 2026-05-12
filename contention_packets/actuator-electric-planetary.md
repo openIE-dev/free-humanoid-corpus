@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-electric-planetary`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `actuator-electric-planetary`  
 **Entries:** 3 (1 commons-grade, 2 draft)  
 **Earliest disclosure:** 2023-08  
@@ -130,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

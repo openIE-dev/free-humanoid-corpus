@@ -1,13 +1,13 @@
 ---
 title: "mechanism-tendon-drive"
 parent: "Invalidity Contentions"
-nav_order: 215
+nav_order: 223
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-tendon-drive`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `mechanism-tendon-drive`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1984-12  
@@ -133,4 +133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

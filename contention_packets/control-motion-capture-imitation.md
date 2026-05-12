@@ -1,13 +1,13 @@
 ---
 title: "control-motion-capture-imitation"
 parent: "Invalidity Contentions"
-nav_order: 91
+nav_order: 93
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-motion-capture-imitation`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-motion-capture-imitation`  
 **Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 2018-04  
@@ -194,4 +194,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

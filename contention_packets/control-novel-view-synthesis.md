@@ -1,13 +1,13 @@
 ---
 title: "control-novel-view-synthesis"
 parent: "Invalidity Contentions"
-nav_order: 104
+nav_order: 106
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-novel-view-synthesis`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-novel-view-synthesis`  
 **Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 2020-03  
@@ -195,4 +195,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

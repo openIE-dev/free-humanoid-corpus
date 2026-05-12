@@ -1,13 +1,13 @@
 ---
 title: "control-tethered-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 138
+nav_order: 142
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-tethered-teleoperation`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-tethered-teleoperation`  
 **Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 1989-04  
@@ -173,4 +173,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

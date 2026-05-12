@@ -1,13 +1,13 @@
 ---
 title: "control-benchmarking"
 parent: "Invalidity Contentions"
-nav_order: 43
+nav_order: 44
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-benchmarking`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-benchmarking`  
 **Entries:** 7 (7 commons-grade, 0 draft)  
 **Earliest disclosure:** 2018-01  
@@ -216,4 +216,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

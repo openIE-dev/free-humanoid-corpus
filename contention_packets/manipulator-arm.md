@@ -1,16 +1,16 @@
 ---
 title: "manipulator-arm"
 parent: "Invalidity Contentions"
-nav_order: 169
+nav_order: 175
 layout: default
 ---
 
 # Invalidity Contention Packet — `manipulator-arm`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `manipulator-arm`  
-**Entries:** 44 (44 commons-grade, 0 draft)  
-**Earliest disclosure:** 1954-12  
+**Entries:** 45 (45 commons-grade, 0 draft)  
+**Earliest disclosure:** 1952-03  
 **Most recent disclosure:** 2021-09
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1952-03 — MIT Numerical Control (NC machine tool; 1952)
+
+- **id:** `mit-numerical-control-1952`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** MIT Servomechanisms Laboratory + John T. Parsons + US Air Force
+- **disclosure citation:** MIT Servomechanisms Laboratory (with John T. Parsons + US Air Force). First numerically-controlled milling machine demonstrated March 1952 (a modified Cincinnati Hydrotel). Parsons conceived the idea ~1948-1949; MIT built the prototype 1949-1952; the APT (Automatically Programmed Tool) language followed (Douglas T. Ross, 1956-1959).
+- **disclosed subsystems:** `manipulator-arm`, `control-numerical`, `control-stored-program`
+
+**Prior art notes:**
+
+> MIT Numerical Control (MIT Servomechanisms Lab + Parsons + USAF 1952; APT language 1956-1959) is the first numerically-controlled machine tool. 73-year-deep public-domain prior art. The bridge from Jacquard punch cards to modern CNC + industrial robots.
+
+**Sources:**
+
+1. MIT Servomechanisms Laboratory NC machine documentation, 1952.
+
+---
 
 ### 1954-12 — Devol Programmed Article Transfer (foundational arm patent)
 
@@ -911,4 +930,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

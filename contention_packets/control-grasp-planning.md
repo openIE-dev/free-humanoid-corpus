@@ -1,13 +1,13 @@
 ---
 title: "control-grasp-planning"
 parent: "Invalidity Contentions"
-nav_order: 69
+nav_order: 71
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-grasp-planning`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-grasp-planning`  
 **Entries:** 7 (6 commons-grade, 1 draft)  
 **Earliest disclosure:** 1982-01  
@@ -207,4 +207,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

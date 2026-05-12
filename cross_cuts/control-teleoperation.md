@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-teleoperation`
 
-**34 corpus entries disclose this subsystem.**
+**35 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1956-07
+Earliest disclosure: 1770-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## The Mechanical Turk (von Kempelen 1770; chess-playing automaton) (1770-01)
+
+- **id**: `von-kempelen-mechanical-turk-1770`
+- **corpus**: academic
+- **creator**: Wolfgang von Kempelen (Pressburg/Vienna, 1770); later Johann Nepomuk Mälzel
+- **disclosure**: Wolfgang von Kempelen. The Turk (Schachtürke / Automaton Chess Player), first exhibited 1770 at the court of Maria Theresa, Vienna. Later owned by Johann Nepomuk Mälzel. Destroyed in a fire 1854. Famously revealed as a hoax — a hidden human chess master operated it.
+- **ip status**: public-domain
+- **prior art notes**: The Mechanical Turk (von Kempelen Vienna 1770-1854) is the most famous fraudulent automaton + the namesake of crowdsourced human computation. 255-year-deep public-domain prior art. The enduring cautionary tale of 'autonomous' systems secretly requiring hidden human operators — directly relevant to teleoperation-disclosure ethics.
 
 ## Tetsujin 28 (1956-07)
 

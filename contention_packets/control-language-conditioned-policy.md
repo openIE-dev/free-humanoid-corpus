@@ -1,13 +1,13 @@
 ---
 title: "control-language-conditioned-policy"
 parent: "Invalidity Contentions"
-nav_order: 77
+nav_order: 79
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-language-conditioned-policy`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-language-conditioned-policy`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2021-12  
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

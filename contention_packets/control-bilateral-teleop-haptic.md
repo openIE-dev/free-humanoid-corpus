@@ -1,13 +1,13 @@
 ---
 title: "control-bilateral-teleop-haptic"
 parent: "Invalidity Contentions"
-nav_order: 44
+nav_order: 45
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-bilateral-teleop-haptic`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-bilateral-teleop-haptic`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-06  
@@ -153,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

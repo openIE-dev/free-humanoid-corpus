@@ -1,13 +1,13 @@
 ---
 title: "control-whole-body-qp"
 parent: "Invalidity Contentions"
-nav_order: 148
+nav_order: 152
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-whole-body-qp`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-whole-body-qp`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2003-09  
@@ -133,4 +133,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

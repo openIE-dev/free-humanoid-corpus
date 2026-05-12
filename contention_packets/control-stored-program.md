@@ -1,17 +1,17 @@
 ---
 title: "control-stored-program"
 parent: "Invalidity Contentions"
-nav_order: 133
+nav_order: 137
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-stored-program`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-stored-program`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 1954-12  
-**Most recent disclosure:** 1961-01
+**Entries:** 5 (5 commons-grade, 0 draft)  
+**Earliest disclosure:** 1804-01  
+**Most recent disclosure:** 1968-01
 
 ---
 
@@ -39,6 +39,44 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1804-01 — Jacquard Loom (Joseph Marie Jacquard 1804; punch-card programmable machine)
+
+- **id:** `jacquard-loom-1804`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Joseph Marie Jacquard (Lyon, France, 1804); building on Bouchon (1725) + Falcon (1728) + Vaucanson (1745)
+- **disclosure citation:** Joseph Marie Jacquard. The Jacquard machine (an attachment for the drawloom), patented 1804 in Lyon, France. Built on earlier punch-card / perforated-cylinder loom mechanisms by Basile Bouchon (1725), Jean-Baptiste Falcon (1728), and Jacques de Vaucanson (1745, corpus).
+- **disclosed subsystems:** `automaton-historical`, `control-stored-program`
+
+**Prior art notes:**
+
+> The Jacquard Loom (Joseph Marie Jacquard Lyon 1804) is the first practical large-scale programmable machine. 221-year-deep public-domain prior art. The conceptual ancestor of all programmable automation + stored-program computation.
+
+**Sources:**
+
+1. Jacquard, J.M. French Patent (1804).
+
+---
+
+### 1952-03 — MIT Numerical Control (NC machine tool; 1952)
+
+- **id:** `mit-numerical-control-1952`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** MIT Servomechanisms Laboratory + John T. Parsons + US Air Force
+- **disclosure citation:** MIT Servomechanisms Laboratory (with John T. Parsons + US Air Force). First numerically-controlled milling machine demonstrated March 1952 (a modified Cincinnati Hydrotel). Parsons conceived the idea ~1948-1949; MIT built the prototype 1949-1952; the APT (Automatically Programmed Tool) language followed (Douglas T. Ross, 1956-1959).
+- **disclosed subsystems:** `manipulator-arm`, `control-numerical`, `control-stored-program`
+
+**Prior art notes:**
+
+> MIT Numerical Control (MIT Servomechanisms Lab + Parsons + USAF 1952; APT language 1956-1959) is the first numerically-controlled machine tool. 73-year-deep public-domain prior art. The bridge from Jacquard punch cards to modern CNC + industrial robots.
+
+**Sources:**
+
+1. MIT Servomechanisms Laboratory NC machine documentation, 1952.
+
+---
 
 ### 1954-12 — Devol Programmed Article Transfer (foundational arm patent)
 
@@ -80,6 +118,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1968-01 — Modicon 084 PLC (Dick Morley 1968; the first Programmable Logic Controller)
+
+- **id:** `modicon-plc-morley-1968`
+- **corpus:** private
+- **ip status:** public-domain (foundational concept; Modicon now Schneider Electric)
+- **creator:** Bedford Associates → Modicon (Bedford, MA, USA); Richard 'Dick' Morley
+- **disclosure citation:** Bedford Associates (Bedford, MA, USA; Richard 'Dick' Morley + team). Modicon 084 — the first commercial Programmable Logic Controller — developed 1968-1969 in response to a 1968 GM Hydramatic Division request for a solid-state replacement for hard-wired relay logic. Modicon = MOdular DIgital CONtroller.
+- **disclosed subsystems:** `control-industrial`, `control-stored-program`
+
+**Prior art notes:**
+
+> The Modicon 084 PLC (Dick Morley / Bedford Associates 1968-1969) is the first Programmable Logic Controller. 57-year-deep public-disclosure prior art. The universal industrial controller — ancestor of every robot controller + automated factory.
+
+**Sources:**
+
+1. Modicon 084 Smithsonian documentation.
+2. Morley, R. 'The Technology Machine' interviews.
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -110,4 +168,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

@@ -1,16 +1,16 @@
 ---
 title: "control-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 136
+nav_order: 140
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-teleoperation`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-teleoperation`  
-**Entries:** 34 (29 commons-grade, 5 draft)  
-**Earliest disclosure:** 1956-07  
+**Entries:** 35 (30 commons-grade, 5 draft)  
+**Earliest disclosure:** 1770-01  
 **Most recent disclosure:** 2024-07
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1770-01 — The Mechanical Turk (von Kempelen 1770; chess-playing automaton)
+
+- **id:** `von-kempelen-mechanical-turk-1770`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Wolfgang von Kempelen (Pressburg/Vienna, 1770); later Johann Nepomuk Mälzel
+- **disclosure citation:** Wolfgang von Kempelen. The Turk (Schachtürke / Automaton Chess Player), first exhibited 1770 at the court of Maria Theresa, Vienna. Later owned by Johann Nepomuk Mälzel. Destroyed in a fire 1854. Famously revealed as a hoax — a hidden human chess master operated it.
+- **disclosed subsystems:** `automaton-historical`, `control-teleoperation`
+
+**Prior art notes:**
+
+> The Mechanical Turk (von Kempelen Vienna 1770-1854) is the most famous fraudulent automaton + the namesake of crowdsourced human computation. 255-year-deep public-domain prior art. The enduring cautionary tale of 'autonomous' systems secretly requiring hidden human operators — directly relevant to teleoperation-disclosure ethics.
+
+**Sources:**
+
+1. Poe, E.A. 'Maelzel's Chess-Player', Southern Literary Messenger, 1836.
+
+---
 
 ### 1956-07 — Tetsujin 28
 
@@ -761,4 +780,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

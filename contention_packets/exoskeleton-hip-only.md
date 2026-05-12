@@ -1,13 +1,13 @@
 ---
 title: "exoskeleton-hip-only"
 parent: "Invalidity Contentions"
-nav_order: 157
+nav_order: 161
 layout: default
 ---
 
 # Invalidity Contention Packet — `exoskeleton-hip-only`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `exoskeleton-hip-only`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2009-04  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

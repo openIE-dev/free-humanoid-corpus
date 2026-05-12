@@ -1,13 +1,13 @@
 ---
 title: "control-dynamic-scene-robust"
 parent: "Invalidity Contentions"
-nav_order: 57
+nav_order: 58
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-dynamic-scene-robust`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-dynamic-scene-robust`  
 **Entries:** 6 (4 commons-grade, 2 draft)  
 **Earliest disclosure:** 2018-06  
@@ -193,4 +193,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*

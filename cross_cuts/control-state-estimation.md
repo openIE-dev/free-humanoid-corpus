@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-state-estimation`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1960-03
 
@@ -23,3 +23,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kalman, R. E. 'A New Approach to Linear Filtering and Prediction Problems'. Journal of Basic Engineering 82(1) 1960. Kalman, R. E. 'Contributions to the Theory of Optimal Control'. Bol. Soc. Mat. Mexicana 5(2) 1960. Stanford University + RIAS.
 - **ip status**: public-domain
 - **prior art notes**: The Kalman filter + LQR (Kalman 1960) is the foundational state estimation + optimal control framework. 65-year-deep public-domain prior art. Used in essentially every robotic system. Direct shielding for any commercial humanoid claim involving state estimation, sensor fusion, or feedback control. **The underlying mathematics of every IMU-based attitude estimator** + every GPS-INS-DVL fusion stack in the corpus's submersible / wheeled / centaur entries.
+
+## Kalman Filter (Rudolf Kalman 1960; optimal state estimation) (1960-03)
+
+- **id**: `kalman-filter-1960`
+- **corpus**: academic
+- **creator**: Research Institute for Advanced Study (RIAS), Baltimore; Rudolf E. Kálmán
+- **disclosure**: Kalman, R.E. 'A New Approach to Linear Filtering and Prediction Problems'. Transactions of the ASME — Journal of Basic Engineering 82(1):35-45, March 1960. Research Institute for Advanced Study (RIAS), Baltimore. Kalman-Bucy filter (continuous-time version) 1961.
+- **ip status**: public-domain
+- **prior art notes**: The Kalman Filter (Rudolf Kalman RIAS 1960; Kalman-Bucy 1961) is the foundational recursive optimal state estimator. 65-year-deep public-domain prior art. The heart of every navigation + tracking + sensor-fusion system in robotics.

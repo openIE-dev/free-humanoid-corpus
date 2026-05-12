@@ -1,13 +1,13 @@
 ---
 title: "mechanism-passive-compliant-gripper"
 parent: "Invalidity Contentions"
-nav_order: 200
+nav_order: 207
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-passive-compliant-gripper`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `mechanism-passive-compliant-gripper`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1982-03  
@@ -129,4 +129,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4e68247`.*
