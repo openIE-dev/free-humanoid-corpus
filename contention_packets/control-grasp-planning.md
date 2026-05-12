@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `control-grasp-planning`  
-**Entries:** 6 (5 commons-grade, 1 draft)  
-**Earliest disclosure:** 1989-06  
+**Entries:** 7 (6 commons-grade, 1 draft)  
+**Earliest disclosure:** 1982-01  
 **Most recent disclosure:** 2023-01
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1982-01 — Grasp Analysis / Force Closure (Salisbury Stanford 1982)
+
+- **id:** `salisbury-grasp-analysis-1982`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Stanford University; J. Kenneth Salisbury + Bernard Roth
+- **disclosure citation:** Salisbury, J.K., Roth, B. 'Kinematic and Force Analysis of Articulated Mechanical Hands'. ASME Journal of Mechanisms, Transmissions, and Automation in Design 105(1):35-41, 1983. Earlier: Salisbury PhD thesis 'Kinematic and Force Analysis of Articulated Hands'. Stanford 1982.
+- **disclosed subsystems:** `control-grasp-planning`, `control-manipulation-theory`
+
+**Prior art notes:**
+
+> Grasp Analysis / Force Closure (Salisbury + Roth Stanford 1982-1983) is the foundational mathematical theory of grasping. 43-year-deep public-domain prior art. Foundational to Dex-Net (corpus), GraspNet (corpus), AnyGrasp (corpus).
+
+**Sources:**
+
+1. Salisbury, J.K., Roth, B. ASME J. Mech. Trans. Auto. Design 105(1):35-41, 1983.
+
+---
 
 ### 1989-06 — Cutkosky grasp taxonomy
 
@@ -188,4 +207,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*

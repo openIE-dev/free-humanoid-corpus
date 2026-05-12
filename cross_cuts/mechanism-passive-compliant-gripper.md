@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `mechanism-passive-compliant-gripper`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2007-11
+Earliest disclosure: 1982-03
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Remote Center Compliance / RCC (Whitney Draper Lab 1982) (1982-03)
+
+- **id**: `whitney-remote-center-compliance-1982`
+- **corpus**: academic
+- **creator**: Charles Stark Draper Laboratory (Cambridge, MA, USA); Daniel E. Whitney + Samuel Drake
+- **disclosure**: Whitney, D.E. 'Quasi-Static Assembly of Compliantly Supported Rigid Parts'. ASME Journal of Dynamic Systems, Measurement and Control 104(1):65-77, March 1982. Charles Stark Draper Laboratory (Cambridge, MA, USA). Earlier work: Drake et al. RCC device 1977.
+- **ip status**: public-domain
+- **prior art notes**: Remote Center Compliance / RCC (Whitney + Drake Draper Lab 1977-1982) is the foundational passive-compliance assembly device. 43-year-deep public-domain prior art.
 
 ## TWENDY-One Hand (Sugano Waseda) (2007-11)
 

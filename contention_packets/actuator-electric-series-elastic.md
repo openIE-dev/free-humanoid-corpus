@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `actuator-electric-series-elastic`  
-**Entries:** 19 (19 commons-grade, 0 draft)  
+**Entries:** 20 (20 commons-grade, 0 draft)  
 **Earliest disclosure:** 1995-08  
 **Most recent disclosure:** 2023-08
 
@@ -240,6 +240,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2015-01 — WALK-MAN (IIT 2015; disaster-response humanoid)
+
+- **id:** `walk-man-iit-2015`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Istituto Italiano di Tecnologia (Genoa, Italy); Nikos Tsagarakis + Darwin Caldwell + EU FP7 consortium
+- **disclosure citation:** Istituto Italiano di Tecnologia (IIT, Genoa, Italy) + collaborators. WALK-MAN EU FP7 project 2013-2017. DARPA Robotics Challenge Finals 2015 entrant. Tsagarakis et al.
+- **disclosed subsystems:** `humanoid-bipedal`, `actuator-electric-series-elastic`
+
+**Prior art notes:**
+
+> WALK-MAN (IIT Genoa + EU FP7 consortium 2013-2017) is the Italian disaster-response humanoid with series-elastic actuators throughout. 10-year-deep academic-publication prior art. Sister to Atlas (corpus), HUBO (corpus), RoboSimian (corpus) of the DARPA Robotics Challenge era.
+
+**Sources:**
+
+1. IIT WALK-MAN project publications.
+2. DARPA Robotics Challenge Finals 2015.
+
+---
+
 ### 2015-06 — IIT WALK-MAN + R1 personal humanoid (Italy)
 
 - **id:** `iit-walk-man-r1-italy-2015`
@@ -455,4 +475,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-foundation-model`
 
-**20 corpus entries disclose this subsystem.**
+**21 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1997-11
 
@@ -149,6 +149,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Google DeepMind robotics team. RT-2 released July 2023. AutoRT + SARA-RT + RT-Trajectory January 2024.
 - **ip status**: academic-publication
 - **prior art notes**: DeepMind RT-2 + AutoRT + SARA-RT + RT-Trajectory (Google DeepMind 2023-2024) is the foundational DeepMind VLA lineage. 2-year-deep academic-publication prior art.
+
+## Open X-Embodiment / RT-X (collaborative robot dataset 2023) (2023-10)
+
+- **id**: `open-x-embodiment-rt-x-2023`
+- **corpus**: open
+- **creator**: Open X-Embodiment Collaboration (200+ authors, 30+ institutions led by Google DeepMind + Stanford + Berkeley)
+- **disclosure**: Open X-Embodiment Collaboration (Padalkar, A., et al. — 200+ authors from 30+ institutions including Google DeepMind, Stanford, UC Berkeley, MIT, CMU). 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models'. arXiv:2310.08864, October 2023. ICRA 2024 best-paper award.
+- **ip status**: open-permissive
+- **prior art notes**: Open X-Embodiment / RT-X (200+ author collaboration arXiv 2310.08864, ICRA 2024 best paper) is the foundational cross-embodiment robot-learning dataset — the 'ImageNet of robot learning'. 2-year-deep open-permissive prior art. Foundational to Skild AI (corpus), Octo (corpus), OpenVLA (corpus), Pi-0.5 (corpus).
 
 ## Mamba (Selective State-Space Model) (2023-12)
 

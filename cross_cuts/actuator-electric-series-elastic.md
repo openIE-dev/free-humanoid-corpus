@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-electric-series-elastic`
 
-**19 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1995-08
 
@@ -104,6 +104,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hubicki, C. et al. 'ATRIAS: Design and validation of a tether-free 3D-capable spring-mass bipedal robot.' International Journal of Robotics Research 35(12), 2016.
 - **ip status**: open-permissive
 - **prior art notes**: ATRIAS is foundational prior art for spring-mass bipedal locomotion. The SLIP-based reduced-order control approach has become a dominant paradigm in dynamic bipedal walking, anticipating many subsequent commercial control claims.
+
+## WALK-MAN (IIT 2015; disaster-response humanoid) (2015-01)
+
+- **id**: `walk-man-iit-2015`
+- **corpus**: academic
+- **creator**: Istituto Italiano di Tecnologia (Genoa, Italy); Nikos Tsagarakis + Darwin Caldwell + EU FP7 consortium
+- **disclosure**: Istituto Italiano di Tecnologia (IIT, Genoa, Italy) + collaborators. WALK-MAN EU FP7 project 2013-2017. DARPA Robotics Challenge Finals 2015 entrant. Tsagarakis et al.
+- **ip status**: academic-publication
+- **prior art notes**: WALK-MAN (IIT Genoa + EU FP7 consortium 2013-2017) is the Italian disaster-response humanoid with series-elastic actuators throughout. 10-year-deep academic-publication prior art. Sister to Atlas (corpus), HUBO (corpus), RoboSimian (corpus) of the DARPA Robotics Challenge era.
 
 ## IIT WALK-MAN + R1 personal humanoid (Italy) (2015-06)
 

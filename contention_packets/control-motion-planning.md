@@ -1,7 +1,7 @@
 ---
 title: "control-motion-planning"
 parent: "Invalidity Contentions"
-nav_order: 90
+nav_order: 92
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `control-motion-planning`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 1998-10  
 **Most recent disclosure:** 2013-01
 
@@ -83,6 +83,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2006-05 — Planning Algorithms (LaValle 2006)
+
+- **id:** `lavalle-planning-algorithms-2006`
+- **corpus:** academic
+- **ip status:** public-domain (free online edition)
+- **creator:** University of Illinois at Urbana-Champaign; Steven M. LaValle
+- **disclosure citation:** LaValle, S.M. 'Planning Algorithms'. Cambridge University Press, 2006. University of Illinois at Urbana-Champaign. Free online edition at planning.cs.uiuc.edu. The foundational textbook of motion planning; LaValle also originated RRT (Rapidly-exploring Random Trees, 1998).
+- **disclosed subsystems:** `control-motion-planning`
+
+**Prior art notes:**
+
+> LaValle Planning Algorithms (UIUC Cambridge UP 2006; + RRT 1998) is the foundational motion-planning reference. 19-year-deep public-domain prior art (RRT 27-year).
+
+**Sources:**
+
+1. planning.cs.uiuc.edu
+
+---
+
 ### 2013-01 — MoveIt! motion-planning framework
 
 - **id:** `moveit-sucan-icra-2014`
@@ -133,4 +152,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*

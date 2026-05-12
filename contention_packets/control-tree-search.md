@@ -1,7 +1,7 @@
 ---
 title: "control-tree-search"
 parent: "Invalidity Contentions"
-nav_order: 136
+nav_order: 140
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `control-tree-search`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2016-01  
-**Most recent disclosure:** 2017-12
+**Most recent disclosure:** 2019-11
 
 ---
 
@@ -78,6 +78,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-11 — MuZero (DeepMind 2019; model-based RL with learned model)
+
+- **id:** `muzero-deepmind-2019`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** DeepMind (London); Julian Schrittwieser + David Silver + 10 co-authors
+- **disclosure citation:** Schrittwieser, J., Antonoglou, I., Hubert, T., Simonyan, K., Sifre, L., Schmitt, S., Guez, A., Lockhart, E., Hassabis, D., Graepel, T., Lillicrap, T., Silver, D. 'Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model'. arXiv:1911.08265, November 2019. Published Nature 588:604-609, December 2020. DeepMind.
+- **disclosed subsystems:** `ai-foundation-model`, `control-model-based-rl`, `control-tree-search`
+
+**Prior art notes:**
+
+> MuZero (DeepMind Schrittwieser et al. arXiv 1911.08265, Nature 2020) is the foundational model-based RL with learned model. 6-year-deep academic-publication prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1911.08265
+
+---
+
 ## Verification
 
 This packet's entries are anchored by the Free Humanoid Corpus 2026.Q2
@@ -108,4 +127,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*

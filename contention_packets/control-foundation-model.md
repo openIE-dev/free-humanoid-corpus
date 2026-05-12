@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `control-foundation-model`  
-**Entries:** 20 (18 commons-grade, 2 draft)  
+**Entries:** 21 (19 commons-grade, 2 draft)  
 **Earliest disclosure:** 1997-11  
 **Most recent disclosure:** 2025-11
 
@@ -329,6 +329,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-10 — Open X-Embodiment / RT-X (collaborative robot dataset 2023)
+
+- **id:** `open-x-embodiment-rt-x-2023`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Open X-Embodiment Collaboration (200+ authors, 30+ institutions led by Google DeepMind + Stanford + Berkeley)
+- **disclosure citation:** Open X-Embodiment Collaboration (Padalkar, A., et al. — 200+ authors from 30+ institutions including Google DeepMind, Stanford, UC Berkeley, MIT, CMU). 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models'. arXiv:2310.08864, October 2023. ICRA 2024 best-paper award.
+- **disclosed subsystems:** `ai-foundation-model`, `control-foundation-model`
+
+**Prior art notes:**
+
+> Open X-Embodiment / RT-X (200+ author collaboration arXiv 2310.08864, ICRA 2024 best paper) is the foundational cross-embodiment robot-learning dataset — the 'ImageNet of robot learning'. 2-year-deep open-permissive prior art. Foundational to Skild AI (corpus), Octo (corpus), OpenVLA (corpus), Pi-0.5 (corpus).
+
+**Sources:**
+
+1. arxiv.org/abs/2310.08864
+
+---
+
 ### 2023-12 — Mamba (Selective State-Space Model)
 
 - **id:** `mamba-state-space-model-gu-dao-2023`
@@ -464,4 +483,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*

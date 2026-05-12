@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-multi-agent-rl`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2024-04
+Earliest disclosure: 2019-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## AlphaStar (DeepMind 2019; StarCraft II grandmaster) (2019-01)
+
+- **id**: `alphastar-deepmind-2019`
+- **corpus**: academic
+- **creator**: DeepMind (London); Oriol Vinyals + Igor Babuschkin + David Silver team
+- **disclosure**: Vinyals, O., Babuschkin, I., Czarnecki, W.M., et al. 'Grandmaster level in StarCraft II using multi-agent reinforcement learning'. Nature 575:350-354, October 2019. DeepMind. Public demonstration January 2019.
+- **ip status**: academic-publication
+- **prior art notes**: AlphaStar (DeepMind Vinyals et al. Nature 2019) is the foundational grandmaster-level real-time-strategy RL agent. 6-year-deep academic-publication prior art.
 
 ## DeepMind humanoid soccer (Haarnoja et al.) (2024-04)
 

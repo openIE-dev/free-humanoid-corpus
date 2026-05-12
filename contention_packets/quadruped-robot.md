@@ -1,7 +1,7 @@
 ---
 title: "quadruped-robot"
 parent: "Invalidity Contentions"
-nav_order: 226
+nav_order: 234
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `quadruped-robot`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 1999-05  
 **Most recent disclosure:** 2017-08
 
@@ -56,6 +56,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. en.wikipedia.org/wiki/AIBO
+
+---
+
+### 2013-09 — MIT Cheetah (Sangbae Kim 2013; high-speed legged robot)
+
+- **id:** `mit-cheetah-sangbae-kim-2013`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** MIT Biomimetic Robotics Lab; Sangbae Kim
+- **disclosure citation:** MIT Biomimetic Robotics Lab (Sangbae Kim). MIT Cheetah 1 (2013), Cheetah 2 (2015, untethered running + jumping over obstacles), Cheetah 3 (2018, blind locomotion + stair climbing). MIT Mini Cheetah (2019, corpus mini-cheetah) is the small successor.
+- **disclosed subsystems:** `quadruped-robot`, `actuator-proprioceptive`
+
+**Prior art notes:**
+
+> MIT Cheetah (Sangbae Kim MIT Biomimetic Robotics Lab 2013-2018) is the foundational high-speed electric quadruped with proprioceptive actuators. 12-year-deep academic-publication prior art. Architectural predecessor of MIT Mini Cheetah (corpus mini-cheetah).
+
+**Sources:**
+
+1. MIT Biomimetic Robotics Lab publications.
 
 ---
 
@@ -127,4 +146,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*

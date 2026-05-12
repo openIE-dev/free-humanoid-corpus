@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-hybrid-zero-dynamics`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2018-09
+Earliest disclosure: 2008-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## MABEL (Grizzle Michigan 2008; foundational bipedal control) (2008-01)
+
+- **id**: `mabel-grizzle-michigan-2008`
+- **corpus**: academic
+- **creator**: University of Michigan; Jessy Grizzle (also RABBIT France/Michigan consortium)
+- **disclosure**: Grizzle, J.W. et al. University of Michigan. MABEL bipedal robot 2008-2012. Predecessor: RABBIT (France/Michigan 2001-2004). Foundational hybrid-zero-dynamics + virtual-constraints bipedal control.
+- **ip status**: academic-publication
+- **prior art notes**: MABEL / RABBIT (Grizzle Michigan + CNRS consortium 2001-2012) is the foundational Hybrid Zero Dynamics + virtual-constraints bipedal control framework. 24-year-deep academic-publication prior art. Foundational to Cassie/Digit (corpus) + Wandercraft Atalante (corpus).
 
 ## Wandercraft Atalante / Atalante X self-balancing exoskeleton (2018-09)
 

@@ -1,7 +1,7 @@
 ---
 title: "power-pressure-balanced-li-ion"
 parent: "Invalidity Contentions"
-nav_order: 224
+nav_order: 232
 layout: default
 ---
 
@@ -134,4 +134,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*

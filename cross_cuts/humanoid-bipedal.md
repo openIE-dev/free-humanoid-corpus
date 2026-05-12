@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `humanoid-bipedal`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2014-01
+Earliest disclosure: 2008-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## MABEL (Grizzle Michigan 2008; foundational bipedal control) (2008-01)
+
+- **id**: `mabel-grizzle-michigan-2008`
+- **corpus**: academic
+- **creator**: University of Michigan; Jessy Grizzle (also RABBIT France/Michigan consortium)
+- **disclosure**: Grizzle, J.W. et al. University of Michigan. MABEL bipedal robot 2008-2012. Predecessor: RABBIT (France/Michigan 2001-2004). Foundational hybrid-zero-dynamics + virtual-constraints bipedal control.
+- **ip status**: academic-publication
+- **prior art notes**: MABEL / RABBIT (Grizzle Michigan + CNRS consortium 2001-2012) is the foundational Hybrid Zero Dynamics + virtual-constraints bipedal control framework. 24-year-deep academic-publication prior art. Foundational to Cassie/Digit (corpus) + Wandercraft Atalante (corpus).
 
 ## Halodi Robotics EVE (Norwegian 1X predecessor) (2014-01)
 
@@ -23,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Halodi Robotics (Moss, Norway; founded 2014 by Bernt Børnich + Phuong Nguyen + Jørgen Sundell + Pål Løken). EVE humanoid 2018. Rebranded to 1X Technologies 2022. Now headquartered in Palo Alto.
 - **ip status**: trade-secret
 - **prior art notes**: Halodi Robotics EVE (Moss Norway 2014-2022) is the Norwegian predecessor lineage of 1X Technologies. 11-year-deep public-disclosure prior art.
+
+## WALK-MAN (IIT 2015; disaster-response humanoid) (2015-01)
+
+- **id**: `walk-man-iit-2015`
+- **corpus**: academic
+- **creator**: Istituto Italiano di Tecnologia (Genoa, Italy); Nikos Tsagarakis + Darwin Caldwell + EU FP7 consortium
+- **disclosure**: Istituto Italiano di Tecnologia (IIT, Genoa, Italy) + collaborators. WALK-MAN EU FP7 project 2013-2017. DARPA Robotics Challenge Finals 2015 entrant. Tsagarakis et al.
+- **ip status**: academic-publication
+- **prior art notes**: WALK-MAN (IIT Genoa + EU FP7 consortium 2013-2017) is the Italian disaster-response humanoid with series-elastic actuators throughout. 10-year-deep academic-publication prior art. Sister to Atlas (corpus), HUBO (corpus), RoboSimian (corpus) of the DARPA Robotics Challenge era.
 
 ## Leju Robotics Kuavo (Chinese state-aligned humanoid) (2016-01)
 

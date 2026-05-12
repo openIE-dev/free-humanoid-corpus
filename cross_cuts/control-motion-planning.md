@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-motion-planning`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1998-10
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Laboratoire d'Analyse et d'Architecture des Systèmes (LAAS-CNRS), Toulouse, France. Founded 1968; one of CNRS's largest joint research units. **HRP-2 humanoid deployed at LAAS 2003** as the first European HRP-2 unit (under joint Japanese-French research agreement). Subsequent: HRP-2 then HRP-4 deployments. Notable researchers: Jean-Paul Laumond (motion planning), Olivier Stasse (humanoid manipulation), Florent Lamiraux.
 - **ip status**: public-domain
 - **prior art notes**: LAAS-CNRS Toulouse is the foundational European humanoid research lab (HRP-2 deployment 2003+). 22-year-deep public-domain academic prior art. **The origin of the Pinocchio rigid-body dynamics library** that underlies OCS2 and Crocoddyl (corpus entry mastalli-crocoddyl-2020). Direct shielding for any commercial humanoid claim on whole-body dynamics computation or motion-planning theory. Brings French-academic robotics depth in the corpus from 13 to 14 entries.
+
+## Planning Algorithms (LaValle 2006) (2006-05)
+
+- **id**: `lavalle-planning-algorithms-2006`
+- **corpus**: academic
+- **creator**: University of Illinois at Urbana-Champaign; Steven M. LaValle
+- **disclosure**: LaValle, S.M. 'Planning Algorithms'. Cambridge University Press, 2006. University of Illinois at Urbana-Champaign. Free online edition at planning.cs.uiuc.edu. The foundational textbook of motion planning; LaValle also originated RRT (Rapidly-exploring Random Trees, 1998).
+- **ip status**: public-domain (free online edition)
+- **prior art notes**: LaValle Planning Algorithms (UIUC Cambridge UP 2006; + RRT 1998) is the foundational motion-planning reference. 19-year-deep public-domain prior art (RRT 27-year).
 
 ## MoveIt! motion-planning framework (2013-01)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `quadruped-robot`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1999-05
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sony Corporation (Tokyo, Japan). AIBO ERS-110 launched May 1999. Carnegie Mellon Robot Hall of Fame 2006. Modern AIBO ERS-1000 revival January 2018.
 - **ip status**: trade-secret
 - **prior art notes**: Sony AIBO (Tokyo 1999+) is the first mass-market robot pet. 26-year-deep public-disclosure prior art.
+
+## MIT Cheetah (Sangbae Kim 2013; high-speed legged robot) (2013-09)
+
+- **id**: `mit-cheetah-sangbae-kim-2013`
+- **corpus**: academic
+- **creator**: MIT Biomimetic Robotics Lab; Sangbae Kim
+- **disclosure**: MIT Biomimetic Robotics Lab (Sangbae Kim). MIT Cheetah 1 (2013), Cheetah 2 (2015, untethered running + jumping over obstacles), Cheetah 3 (2018, blind locomotion + stair climbing). MIT Mini Cheetah (2019, corpus mini-cheetah) is the small successor.
+- **ip status**: academic-publication
+- **prior art notes**: MIT Cheetah (Sangbae Kim MIT Biomimetic Robotics Lab 2013-2018) is the foundational high-speed electric quadruped with proprioceptive actuators. 12-year-deep academic-publication prior art. Architectural predecessor of MIT Mini Cheetah (corpus mini-cheetah).
 
 ## ANYbotics ANYmal (ETH Zurich industrial quadruped) (2016-01)
 

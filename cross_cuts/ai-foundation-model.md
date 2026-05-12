@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `ai-foundation-model`
 
-**30 corpus entries disclose this subsystem.**
+**44 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1981-06
 
@@ -24,6 +24,42 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: RANSAC (Fischler & Bolles SRI Communications of the ACM 1981) is the foundational robust model-fitting algorithm. 44-year-deep public-domain prior art.
 
+## Lucas-Kanade Optical Flow (1981) (1981-08)
+
+- **id**: `lucas-kanade-optical-flow-1981`
+- **corpus**: academic
+- **creator**: Carnegie Mellon University; Bruce D. Lucas + Takeo Kanade; later Carlo Tomasi
+- **disclosure**: Lucas, B.D., Kanade, T. 'An Iterative Image Registration Technique with an Application to Stereo Vision'. Proceedings of IJCAI 1981. Carnegie Mellon University. Extended: Tomasi & Kanade 1991 (KLT feature tracker).
+- **ip status**: public-domain
+- **prior art notes**: Lucas-Kanade Optical Flow (Lucas & Kanade CMU IJCAI 1981; KLT Tomasi & Kanade 1991) is the foundational differential optical-flow + feature-tracking method. 44-year-deep public-domain prior art.
+
+## Canny Edge Detector (Canny MIT 1986) (1986-11)
+
+- **id**: `canny-edge-detector-1986`
+- **corpus**: academic
+- **creator**: MIT Artificial Intelligence Laboratory; John Canny
+- **disclosure**: Canny, J. 'A Computational Approach to Edge Detection'. IEEE Transactions on Pattern Analysis and Machine Intelligence 8(6):679-698, November 1986. MIT Artificial Intelligence Laboratory.
+- **ip status**: public-domain
+- **prior art notes**: Canny Edge Detector (Canny MIT AI Lab IEEE PAMI 1986) is the foundational optimal edge-detection algorithm. 39-year-deep public-domain prior art.
+
+## Harris Corner Detector (Harris & Stephens 1988) (1988-09)
+
+- **id**: `harris-corner-detector-1988`
+- **corpus**: academic
+- **creator**: Plessey Research (Roke Manor, UK); Chris Harris + Mike Stephens
+- **disclosure**: Harris, C., Stephens, M. 'A Combined Corner and Edge Detector'. Proceedings of the Alvey Vision Conference 1988. Plessey Research (Roke Manor, UK).
+- **ip status**: public-domain
+- **prior art notes**: Harris Corner Detector (Harris & Stephens Plessey Alvey Vision Conference 1988) is the foundational corner/interest-point detector. 37-year-deep public-domain prior art. Predecessor of SIFT (corpus).
+
+## ICP (Iterative Closest Point; Besl & McKay 1992) (1992-02)
+
+- **id**: `icp-besl-mckay-1992`
+- **corpus**: academic
+- **creator**: General Motors Research Laboratories; Paul Besl + Neil McKay
+- **disclosure**: Besl, P.J., McKay, N.D. 'A Method for Registration of 3-D Shapes'. IEEE Transactions on Pattern Analysis and Machine Intelligence 14(2):239-256, February 1992. General Motors Research Laboratories. (Independent near-simultaneous: Chen & Medioni 1991.)
+- **ip status**: public-domain
+- **prior art notes**: ICP (Besl & McKay GM Research IEEE PAMI 1992) is the foundational 3D point-cloud registration algorithm. 33-year-deep public-domain prior art.
+
 ## SIFT (Scale-Invariant Feature Transform; Lowe 1999) (1999-09)
 
 - **id**: `sift-lowe-1999`
@@ -33,6 +69,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain (patent expired 2020)
 - **prior art notes**: SIFT (Lowe UBC ICCV 1999, IJCV 2004) is the foundational classical computer-vision feature detector. 26-year-deep prior art (patent expired 2020 → public-domain).
 
+## HOG (Histogram of Oriented Gradients; Dalal & Triggs 2005) (2005-06)
+
+- **id**: `hog-dalal-triggs-2005`
+- **corpus**: academic
+- **creator**: INRIA Rhône-Alpes (Grenoble, France); Navneet Dalal + Bill Triggs
+- **disclosure**: Dalal, N., Triggs, B. 'Histograms of Oriented Gradients for Human Detection'. IEEE CVPR 2005. INRIA Rhône-Alpes (Grenoble, France).
+- **ip status**: public-domain
+- **prior art notes**: HOG (Dalal & Triggs INRIA CVPR 2005) is the foundational pre-CNN gradient-histogram object-detection descriptor. 20-year-deep public-domain prior art.
+
+## Dropout (Srivastava/Hinton et al. 2014) (2012-07)
+
+- **id**: `dropout-srivastava-hinton-2014`
+- **corpus**: academic
+- **creator**: University of Toronto; Nitish Srivastava + Geoffrey Hinton + Alex Krizhevsky + Ilya Sutskever + Ruslan Salakhutdinov
+- **disclosure**: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., Salakhutdinov, R. 'Dropout: A Simple Way to Prevent Neural Networks from Overfitting'. Journal of Machine Learning Research 15:1929-1958, 2014. Earlier: Hinton et al. arXiv:1207.0580 'Improving neural networks by preventing co-adaptation of feature detectors', July 2012. University of Toronto.
+- **ip status**: public-domain
+- **prior art notes**: Dropout (Srivastava/Hinton et al. Toronto JMLR 2014; arXiv 1207.0580 2012) is the foundational deep-network regularization technique. 13-year-deep public-domain prior art.
+
 ## AlexNet (Krizhevsky/Sutskever/Hinton 2012) (2012-09)
 
 - **id**: `alexnet-krizhevsky-2012`
@@ -41,6 +95,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Krizhevsky, A., Sutskever, I., Hinton, G.E. 'ImageNet Classification with Deep Convolutional Neural Networks'. NIPS 2012. University of Toronto. Won ImageNet ILSVRC-2012 by ~10% margin — the inflection point for the deep-learning revolution.
 - **ip status**: academic-publication
 - **prior art notes**: AlexNet (Krizhevsky/Sutskever/Hinton Toronto NIPS 2012) is the deep-learning inflection point. 13-year-deep academic-publication prior art.
+
+## Word2Vec (Mikolov et al. Google 2013; foundational word embeddings) (2013-01)
+
+- **id**: `word2vec-mikolov-google-2013`
+- **corpus**: academic
+- **creator**: Google; Tomáš Mikolov + Kai Chen + Greg Corrado + Jeff Dean
+- **disclosure**: Mikolov, T., Chen, K., Corrado, G., Dean, J. 'Efficient Estimation of Word Representations in Vector Space'. arXiv:1301.3781, January 2013. Also: Mikolov et al. 'Distributed Representations of Words and Phrases'. NIPS 2013. Google.
+- **ip status**: public-domain
+- **prior art notes**: Word2Vec (Mikolov et al. Google arXiv 1301.3781) is the foundational word-embedding model. 12-year-deep public-domain prior art.
 
 ## Preferred Networks (Japan AI lab; Toyota-backed) (2014-03)
 
@@ -59,6 +122,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Goodfellow, I.J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., Bengio, Y. 'Generative Adversarial Nets'. NIPS 2014, arXiv:1406.2661. Université de Montréal.
 - **ip status**: academic-publication
 - **prior art notes**: GAN (Goodfellow et al. Université de Montréal NIPS 2014, arXiv 1406.2661) is the foundational adversarial generative model. 11-year-deep academic-publication prior art.
+
+## LOAM (LIDAR Odometry and Mapping; Zhang & Singh 2014) (2014-07)
+
+- **id**: `loam-zhang-singh-2014`
+- **corpus**: academic
+- **creator**: Carnegie Mellon University; Ji Zhang + Sanjiv Singh
+- **disclosure**: Zhang, J., Singh, S. 'LOAM: Lidar Odometry and Mapping in Real-time'. Robotics: Science and Systems (RSS) 2014. Carnegie Mellon University. Won RSS 2014 best-paper-finalist; topped KITTI odometry leaderboard for years.
+- **ip status**: academic-publication
+- **prior art notes**: LOAM (Zhang & Singh CMU RSS 2014) is the foundational real-time LIDAR odometry + mapping system. 11-year-deep academic-publication prior art.
+
+## Batch Normalization (Ioffe & Szegedy Google 2015) (2015-02)
+
+- **id**: `batchnorm-ioffe-szegedy-2015`
+- **corpus**: academic
+- **creator**: Google; Sergey Ioffe + Christian Szegedy
+- **disclosure**: Ioffe, S., Szegedy, C. 'Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift'. arXiv:1502.03167, ICML 2015. Google.
+- **ip status**: public-domain
+- **prior art notes**: Batch Normalization (Ioffe & Szegedy Google arXiv 1502.03167) is the foundational normalization layer for deep networks. 10-year-deep public-domain prior art.
 
 ## U-Net (Ronneberger et al. 2015; medical image segmentation) (2015-05)
 
@@ -105,6 +186,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive (Apache 2.0)
 - **prior art notes**: Cartographer (Google Hess et al. ICRA 2016) is the foundational open-source LIDAR SLAM system. 9-year-deep open-permissive prior art.
 
+## Mixture-of-Experts (Sparsely-Gated MoE; Shazeer et al. Google 2017) (2017-01)
+
+- **id**: `mixture-of-experts-shazeer-2017`
+- **corpus**: academic
+- **creator**: Google Brain; Noam Shazeer + Azalia Mirhoseini + Krzysztof Maziarz + Andy Davis + Quoc Le + Geoffrey Hinton + Jeff Dean
+- **disclosure**: Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G., Dean, J. 'Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer'. arXiv:1701.06538, ICLR 2017. Google Brain. Successor: Switch Transformer (Fedus et al. 2021).
+- **ip status**: public-domain
+- **prior art notes**: Mixture-of-Experts / Sparsely-Gated MoE (Shazeer et al. Google Brain arXiv 1701.06538) is the foundational sparse-MoE architecture. 8-year-deep public-domain prior art.
+
 ## Transformer (Vaswani et al. Google 2017; 'Attention Is All You Need') (2017-06)
 
 - **id**: `transformer-vaswani-2017`
@@ -150,6 +240,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: academic-publication
 - **prior art notes**: AlphaFold (DeepMind 2018-2024) is the foundational protein-structure-prediction model + 2024 Nobel Prize in Chemistry. 7-year-deep academic-publication prior art.
 
+## AlphaStar (DeepMind 2019; StarCraft II grandmaster) (2019-01)
+
+- **id**: `alphastar-deepmind-2019`
+- **corpus**: academic
+- **creator**: DeepMind (London); Oriol Vinyals + Igor Babuschkin + David Silver team
+- **disclosure**: Vinyals, O., Babuschkin, I., Czarnecki, W.M., et al. 'Grandmaster level in StarCraft II using multi-agent reinforcement learning'. Nature 575:350-354, October 2019. DeepMind. Public demonstration January 2019.
+- **ip status**: academic-publication
+- **prior art notes**: AlphaStar (DeepMind Vinyals et al. Nature 2019) is the foundational grandmaster-level real-time-strategy RL agent. 6-year-deep academic-publication prior art.
+
+## MuZero (DeepMind 2019; model-based RL with learned model) (2019-11)
+
+- **id**: `muzero-deepmind-2019`
+- **corpus**: academic
+- **creator**: DeepMind (London); Julian Schrittwieser + David Silver + 10 co-authors
+- **disclosure**: Schrittwieser, J., Antonoglou, I., Hubert, T., Simonyan, K., Sifre, L., Schmitt, S., Guez, A., Lockhart, E., Hassabis, D., Graepel, T., Lillicrap, T., Silver, D. 'Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model'. arXiv:1911.08265, November 2019. Published Nature 588:604-609, December 2020. DeepMind.
+- **ip status**: academic-publication
+- **prior art notes**: MuZero (DeepMind Schrittwieser et al. arXiv 1911.08265, Nature 2020) is the foundational model-based RL with learned model. 6-year-deep academic-publication prior art.
+
 ## DETR (DEtection TRansformer; Carion FAIR 2020) (2020-05)
 
 - **id**: `detr-carion-fb-2020`
@@ -185,6 +293,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Radford, A., Kim, J.W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J., Krueger, G., Sutskever, I. 'Learning Transferable Visual Models From Natural Language Supervision'. arXiv:2103.00020, ICML 2021. OpenAI.
 - **ip status**: open-permissive
 - **prior art notes**: CLIP (Radford et al. OpenAI ICML 2021, arXiv 2103.00020) is the foundational vision-language contrastive learning model. 4-year-deep academic-publication prior art.
+
+## Chinchilla Scaling Laws (Hoffmann et al. DeepMind 2022) (2022-03)
+
+- **id**: `chinchilla-scaling-laws-hoffmann-2022`
+- **corpus**: academic
+- **creator**: DeepMind (London); Jordan Hoffmann + Sebastian Borgeaud + Arthur Mensch + team
+- **disclosure**: Hoffmann, J., Borgeaud, S., Mensch, A., et al. 'Training Compute-Optimal Large Language Models'. arXiv:2203.15556, March 2022. DeepMind. Earlier: Kaplan et al. (OpenAI 2020) original scaling laws.
+- **ip status**: academic-publication
+- **prior art notes**: Chinchilla Scaling Laws (Hoffmann et al. DeepMind arXiv 2203.15556) is the foundational compute-optimal LLM scaling-law result. 3-year-deep academic-publication prior art.
 
 ## Stable Diffusion (Rombach et al. Stability AI 2022; open-source text-to-image) (2022-08)
 
@@ -275,6 +392,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Meta FAIR (Menlo Park, CA, USA; Dhruv Batra + Yann LeCun advisor). Habitat 3.0 simulator (humans + humanoids + robots together) 2023. Spot-based real-world retrieval studies 2024-2025. Open-source tools release 2025.
 - **ip status**: open-permissive
 - **prior art notes**: Meta FAIR robotics (Menlo Park 2023+) is the Meta robotics research + open-source tooling push. 2-year-deep open-permissive prior art.
+
+## Open X-Embodiment / RT-X (collaborative robot dataset 2023) (2023-10)
+
+- **id**: `open-x-embodiment-rt-x-2023`
+- **corpus**: open
+- **creator**: Open X-Embodiment Collaboration (200+ authors, 30+ institutions led by Google DeepMind + Stanford + Berkeley)
+- **disclosure**: Open X-Embodiment Collaboration (Padalkar, A., et al. — 200+ authors from 30+ institutions including Google DeepMind, Stanford, UC Berkeley, MIT, CMU). 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models'. arXiv:2310.08864, October 2023. ICRA 2024 best-paper award.
+- **ip status**: open-permissive
+- **prior art notes**: Open X-Embodiment / RT-X (200+ author collaboration arXiv 2310.08864, ICRA 2024 best paper) is the foundational cross-embodiment robot-learning dataset — the 'ImageNet of robot learning'. 2-year-deep open-permissive prior art. Foundational to Skild AI (corpus), Octo (corpus), OpenVLA (corpus), Pi-0.5 (corpus).
 
 ## Generalist AI (Zeng/Florence/Barry robotics-FM) (2024-01)
 

@@ -45,6 +45,16 @@
       ]
     },
     {
+      "id": "reuleaux-kinematics-of-machinery-1875",
+      "name": "Kinematics of Machinery (Reuleaux 1875; foundational mechanism theory)",
+      "year": "1875",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "scara-makino-1979"
+      ]
+    },
+    {
       "id": "l-eve-future",
       "name": "Hadaly (L'Ève future)",
       "year": "1886",
@@ -597,6 +607,17 @@
       "descendants": []
     },
     {
+      "id": "hirose-snake-robots-tokyo-tech-1972",
+      "name": "Hirose Snake Robots (Tokyo Tech 1972; foundational serpentine robotics)",
+      "year": "1972",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "eelume-ntnu-2015",
+        "octarm-walker-clemson-2005"
+      ]
+    },
+    {
       "id": "silent-running-drones",
       "name": "Huey, Dewey, and Louie (Silent Running)",
       "year": "1972",
@@ -766,7 +787,9 @@
       "name": "SCARA (Selective Compliance Articulated Robot Arm)",
       "year": "1979",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "reuleaux-kinematics-of-machinery-1875"
+      ],
       "descendants": []
     },
     {
@@ -888,6 +911,14 @@
       "descendants": []
     },
     {
+      "id": "lucas-kanade-optical-flow-1981",
+      "name": "Lucas-Kanade Optical Flow (1981)",
+      "year": "1981",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "canadarm-srms-1981",
       "name": "Canadarm (Shuttle Remote Manipulator System; foundational space arm)",
       "year": "1981",
@@ -918,6 +949,25 @@
         "robonaut-2",
         "shadow-dexterous-hand"
       ]
+    },
+    {
+      "id": "salisbury-grasp-analysis-1982",
+      "name": "Grasp Analysis / Force Closure (Salisbury Stanford 1982)",
+      "year": "1982",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "dex-net-goldberg-berkeley-2017",
+        "ferrari-canny-grasp-quality"
+      ]
+    },
+    {
+      "id": "whitney-remote-center-compliance-1982",
+      "name": "Remote Center Compliance / RCC (Whitney Draper Lab 1982)",
+      "year": "1982",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "akira-tetsuo-1988",
@@ -1032,6 +1082,16 @@
       ]
     },
     {
+      "id": "hogan-impedance-control-1985",
+      "name": "Impedance Control (Hogan MIT 1985)",
+      "year": "1985",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "ott-impedance-control"
+      ]
+    },
+    {
       "id": "yoshikawa-manipulability",
       "name": "Yoshikawa Manipulability Ellipsoid",
       "year": "1985",
@@ -1117,6 +1177,14 @@
       "descendants": []
     },
     {
+      "id": "canny-edge-detector-1986",
+      "name": "Canny Edge Detector (Canny MIT 1986)",
+      "year": "1986",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "featherstone-rdf",
       "name": "Featherstone Robot Dynamics Algorithms",
       "year": "1987",
@@ -1141,6 +1209,14 @@
       "descendants": [
         "honda-e2"
       ]
+    },
+    {
+      "id": "featherstone-rigid-body-dynamics-1987",
+      "name": "Featherstone Rigid Body Dynamics Algorithms (1987)",
+      "year": "1987",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "khatib-operational-space",
@@ -1237,6 +1313,16 @@
       "ancestors": [],
       "descendants": [
         "picard-soji"
+      ]
+    },
+    {
+      "id": "harris-corner-detector-1988",
+      "name": "Harris Corner Detector (Harris & Stephens 1988)",
+      "year": "1988",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "sift-lowe-1999"
       ]
     },
     {
@@ -1497,6 +1583,16 @@
       ]
     },
     {
+      "id": "icp-besl-mckay-1992",
+      "name": "ICP (Iterative Closest Point; Besl & McKay 1992)",
+      "year": "1992",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "loam-zhang-singh-2014"
+      ]
+    },
+    {
       "id": "dbz-android-17",
       "name": "Android 17 (Lapis)",
       "year": "1992",
@@ -1517,7 +1613,9 @@
       "name": "Ferrari-Canny Grasp Quality Metrics",
       "year": "1992",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "salisbury-grasp-analysis-1982"
+      ],
       "descendants": [
         "openai-dactyl"
       ]
@@ -1576,6 +1674,14 @@
       "descendants": [
         "honda-p2"
       ]
+    },
+    {
+      "id": "murray-li-sastry-robotic-manipulation-1994",
+      "name": "A Mathematical Introduction to Robotic Manipulation (Murray/Li/Sastry 1994)",
+      "year": "1994",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "general-atomics-predator-reaper-1995",
@@ -1719,7 +1825,8 @@
         "nasa-valkyrie",
         "pratt-virtual-model-control",
         "rethink-baxter-sawyer-2012",
-        "tonietti-vsa-pisa-iit-2005"
+        "tonietti-vsa-pisa-iit-2005",
+        "walk-man-iit-2015"
       ]
     },
     {
@@ -1891,6 +1998,14 @@
       "descendants": []
     },
     {
+      "id": "lego-mindstorms-1998",
+      "name": "LEGO Mindstorms (foundational educational robotics kit)",
+      "year": "1998",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mit-kismet-breazeal-1998",
       "name": "MIT Kismet (sociable robot)",
       "year": "1998",
@@ -2004,7 +2119,9 @@
       "name": "SIFT (Scale-Invariant Feature Transform; Lowe 1999)",
       "year": "1999",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "harris-corner-detector-1988"
+      ],
       "descendants": []
     },
     {
@@ -2201,6 +2318,14 @@
       "name": "Shanghai Jiao Tong University (SJTU) robotics",
       "year": "2000",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "talon-foster-miller-2000",
+      "name": "Foster-Miller TALON / SWORDS (armed military robot)",
+      "year": "2000",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -2453,6 +2578,14 @@
     {
       "id": "ocado-smart-platform-2002",
       "name": "Ocado Smart Platform / Hummingbird (3D-grid grocery)",
+      "year": "2002",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "packbot-irobot-2002",
+      "name": "iRobot PackBot (military EOD / reconnaissance robot)",
       "year": "2002",
       "corpus": "private",
       "ancestors": [],
@@ -2825,6 +2958,7 @@
       "year": "2005",
       "corpus": "academic",
       "ancestors": [
+        "hirose-snake-robots-tokyo-tech-1972",
         "mckibben-pneumatic-muscle-1957"
       ],
       "descendants": [
@@ -2844,6 +2978,22 @@
         "dlr-hand-arm-system-2011",
         "iit-walk-man-r1-italy-2015"
       ]
+    },
+    {
+      "id": "hog-dalal-triggs-2005",
+      "name": "HOG (Histogram of Oriented Gradients; Dalal & Triggs 2005)",
+      "year": "2005",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "vex-robotics-2005",
+      "name": "VEX Robotics (educational competition robotics platform)",
+      "year": "2005",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "open-invention-network-2005",
@@ -2931,6 +3081,14 @@
       "ancestors": [
         "abe-whoi-1995"
       ],
+      "descendants": []
+    },
+    {
+      "id": "lavalle-planning-algorithms-2006",
+      "name": "Planning Algorithms (LaValle 2006)",
+      "year": "2006",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -3141,7 +3299,8 @@
       ],
       "descendants": [
         "1x-neo",
-        "sanctuary-phoenix"
+        "sanctuary-phoenix",
+        "walk-man-iit-2015"
       ]
     },
     {
@@ -3150,6 +3309,7 @@
       "year": "2008",
       "corpus": "academic",
       "ancestors": [
+        "hogan-impedance-control-1985",
         "khatib-operational-space"
       ],
       "descendants": [
@@ -3182,6 +3342,17 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "mabel-grizzle-michigan-2008",
+      "name": "MABEL (Grizzle Michigan 2008; foundational bipedal control)",
+      "year": "2008",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "agility-digit",
+        "cassie-osu"
+      ]
     },
     {
       "id": "pd-100-black-hornet-2008",
@@ -3973,6 +4144,14 @@
       "descendants": []
     },
     {
+      "id": "dropout-srivastava-hinton-2014",
+      "name": "Dropout (Srivastava/Hinton et al. 2014)",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "mordatch-cio-2012",
       "name": "Contact-Invariant Optimization (Mordatch CIO)",
       "year": "2012",
@@ -4151,6 +4330,14 @@
       "descendants": []
     },
     {
+      "id": "word2vec-mikolov-google-2013",
+      "name": "Word2Vec (Mikolov et al. Google 2013; foundational word embeddings)",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "black-mirror-be-right-back-2013",
       "name": "Black Mirror 'Be Right Back' bio-printed companion humanoid",
       "year": "2013",
@@ -4255,6 +4442,16 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "mit-cheetah-sangbae-kim-2013",
+      "name": "MIT Cheetah (Sangbae Kim 2013; high-speed legged robot)",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "mini-cheetah"
+      ]
     },
     {
       "id": "naio-oz-2013",
@@ -4559,6 +4756,16 @@
       "descendants": []
     },
     {
+      "id": "loam-zhang-singh-2014",
+      "name": "LOAM (LIDAR Odometry and Mapping; Zhang & Singh 2014)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [
+        "icp-besl-mckay-1992"
+      ],
+      "descendants": []
+    },
+    {
       "id": "rbo-hand-2-brock-tu-berlin-2014",
       "name": "RBO Hand 2 (TU Berlin Brock)",
       "year": "2014",
@@ -4785,6 +4992,25 @@
       "name": "Rokae Robotics (Chinese collaborative + industrial robots)",
       "year": "2015",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "walk-man-iit-2015",
+      "name": "WALK-MAN (IIT 2015; disaster-response humanoid)",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [
+        "icub",
+        "pratt-williamson-sea"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "batchnorm-ioffe-szegedy-2015",
+      "name": "Batch Normalization (Ioffe & Szegedy Google 2015)",
+      "year": "2015",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -5027,7 +5253,9 @@
       "name": "Eelume snake robot (NTNU AMOS spinout)",
       "year": "2015",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "hirose-snake-robots-tokyo-tech-1972"
+      ],
       "descendants": []
     },
     {
@@ -5409,6 +5637,7 @@
       "corpus": "academic",
       "ancestors": [
         "atrias",
+        "mabel-grizzle-michigan-2008",
         "mcgeer-passive-walker",
         "pratt-virtual-model-control",
         "pratt-williamson-sea",
@@ -5455,6 +5684,16 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "mixture-of-experts-shazeer-2017",
+      "name": "Mixture-of-Experts (Sparsely-Gated MoE; Shazeer et al. Google 2017)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "llama-meta-2023"
+      ]
     },
     {
       "id": "samsung-gems-hip-2019",
@@ -5519,7 +5758,9 @@
       "name": "Dex-Net 2.0 (Mahler Goldberg Berkeley)",
       "year": "2017",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "salisbury-grasp-analysis-1982"
+      ],
       "descendants": [
         "anygrasp-fang-sjtu-2023",
         "graspnet-1billion-fang-sjtu-2020"
@@ -5907,7 +6148,9 @@
       "ancestors": [
         "alphago-deepmind-2016"
       ],
-      "descendants": []
+      "descendants": [
+        "muzero-deepmind-2019"
+      ]
     },
     {
       "id": "black-mirror-metalhead-2017",
@@ -6371,6 +6614,7 @@
         "mit-cheetah",
         "mit-cheetah-2",
         "mit-cheetah-3",
+        "mit-cheetah-sangbae-kim-2013",
         "tan-quadruped-sim2real"
       ],
       "descendants": [
@@ -6401,8 +6645,17 @@
       "year": "2019",
       "corpus": "private",
       "ancestors": [
-        "cassie-osu"
+        "cassie-osu",
+        "mabel-grizzle-michigan-2008"
       ],
+      "descendants": []
+    },
+    {
+      "id": "alphastar-deepmind-2019",
+      "name": "AlphaStar (DeepMind 2019; StarCraft II grandmaster)",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -6651,6 +6904,16 @@
       "year": "2019",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "muzero-deepmind-2019",
+      "name": "MuZero (DeepMind 2019; model-based RL with learned model)",
+      "year": "2019",
+      "corpus": "academic",
+      "ancestors": [
+        "alphazero-deepmind-2017"
+      ],
       "descendants": []
     },
     {
@@ -7327,6 +7590,14 @@
       "descendants": []
     },
     {
+      "id": "chinchilla-scaling-laws-hoffmann-2022",
+      "name": "Chinchilla Scaling Laws (Hoffmann et al. DeepMind 2022)",
+      "year": "2022",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ase-peng-stanford-2022",
       "name": "Adversarial Skill Embeddings (ASE)",
       "year": "2022",
@@ -7506,6 +7777,7 @@
         "deepmind-rt-2-autort-2023",
         "octo-policy",
         "open-x-embodiment",
+        "open-x-embodiment-rt-x-2023",
         "openai-rt-2",
         "openvla",
         "robocat"
@@ -7572,7 +7844,9 @@
       "name": "Skild AI (OmniBrain robotics foundation model)",
       "year": "2023",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "open-x-embodiment-rt-x-2023"
+      ],
       "descendants": []
     },
     {
@@ -7589,6 +7863,7 @@
       "year": "2023",
       "corpus": "open",
       "ancestors": [
+        "mixture-of-experts-shazeer-2017",
         "transformer-vaswani-2017"
       ],
       "descendants": []
@@ -7782,7 +8057,9 @@
       "ancestors": [
         "rt-1"
       ],
-      "descendants": []
+      "descendants": [
+        "open-x-embodiment-rt-x-2023"
+      ]
     },
     {
       "id": "fourier-gr1",
@@ -8045,6 +8322,21 @@
         "openvla",
         "physical-intelligence-pi-zero",
         "rt-x-collaboration-2023"
+      ]
+    },
+    {
+      "id": "open-x-embodiment-rt-x-2023",
+      "name": "Open X-Embodiment / RT-X (collaborative robot dataset 2023)",
+      "year": "2023",
+      "corpus": "open",
+      "ancestors": [
+        "deepmind-rt-2-autort-2023",
+        "rt-1"
+      ],
+      "descendants": [
+        "octo-rss-2024",
+        "openvla",
+        "skild-ai-pathak-gupta-2023"
       ]
     },
     {
@@ -8394,6 +8686,7 @@
       "year": "2024",
       "corpus": "academic",
       "ancestors": [
+        "open-x-embodiment-rt-x-2023",
         "rt-x-collaboration-2023"
       ],
       "descendants": []
@@ -8525,6 +8818,7 @@
         "levine-gps-pr2-2016",
         "octo-policy",
         "open-x-embodiment",
+        "open-x-embodiment-rt-x-2023",
         "openai-rt-2",
         "palm-e",
         "radford-clip-2021",

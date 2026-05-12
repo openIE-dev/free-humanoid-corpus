@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `biomimetic-aquatic`  
-**Entries:** 6 (6 commons-grade, 0 draft)  
-**Earliest disclosure:** 1994-09  
+**Entries:** 7 (7 commons-grade, 0 draft)  
+**Earliest disclosure:** 1972-01  
 **Most recent disclosure:** 2021-03
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1972-01 — Hirose Snake Robots (Tokyo Tech 1972; foundational serpentine robotics)
+
+- **id:** `hirose-snake-robots-tokyo-tech-1972`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Tokyo Institute of Technology; Shigeo Hirose (Hirose-Fukushima Lab)
+- **disclosure citation:** Hirose, S. Active Cord Mechanism (ACM) — first snake robot ACM-III, Tokyo Institute of Technology, 1972. Hirose, S. 'Biologically Inspired Robots: Snake-Like Locomotors and Manipulators'. Oxford University Press, 1993. Tokyo Tech Hirose-Fukushima Lab.
+- **disclosed subsystems:** `biomimetic-aquatic`, `mechanism-articulated-snake`
+
+**Prior art notes:**
+
+> Hirose Snake Robots (Shigeo Hirose Tokyo Tech 1972+; 'Biologically Inspired Robots' OUP 1993) are the foundational serpentine/snake robotics lineage. 53-year-deep academic-publication prior art. Foundational to Eelume (corpus eelume-ntnu-2015) + all snake/hyper-redundant robots.
+
+**Sources:**
+
+1. Hirose, S. 'Biologically Inspired Robots'. Oxford University Press 1993.
+
+---
 
 ### 1994-09 — RoboTuna (MIT first robot fish; biomimetic propulsion)
 
@@ -185,4 +204,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*

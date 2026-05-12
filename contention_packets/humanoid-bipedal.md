@@ -1,7 +1,7 @@
 ---
 title: "humanoid-bipedal"
 parent: "Invalidity Contentions"
-nav_order: 159
+nav_order: 164
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `humanoid-bipedal`  
-**Entries:** 7 (7 commons-grade, 0 draft)  
-**Earliest disclosure:** 2014-01  
+**Entries:** 9 (9 commons-grade, 0 draft)  
+**Earliest disclosure:** 2008-01  
 **Most recent disclosure:** 2023-01
 
 ---
@@ -40,6 +40,25 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 2008-01 — MABEL (Grizzle Michigan 2008; foundational bipedal control)
+
+- **id:** `mabel-grizzle-michigan-2008`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** University of Michigan; Jessy Grizzle (also RABBIT France/Michigan consortium)
+- **disclosure citation:** Grizzle, J.W. et al. University of Michigan. MABEL bipedal robot 2008-2012. Predecessor: RABBIT (France/Michigan 2001-2004). Foundational hybrid-zero-dynamics + virtual-constraints bipedal control.
+- **disclosed subsystems:** `humanoid-bipedal`, `control-hybrid-zero-dynamics`
+
+**Prior art notes:**
+
+> MABEL / RABBIT (Grizzle Michigan + CNRS consortium 2001-2012) is the foundational Hybrid Zero Dynamics + virtual-constraints bipedal control framework. 24-year-deep academic-publication prior art. Foundational to Cassie/Digit (corpus) + Wandercraft Atalante (corpus).
+
+**Sources:**
+
+1. University of Michigan Grizzle Lab publications.
+
+---
+
 ### 2014-01 — Halodi Robotics EVE (Norwegian 1X predecessor)
 
 - **id:** `halodi-robotics-1x-precursor-2014`
@@ -56,6 +75,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. en.wikipedia.org/wiki/1X_Technologies
+
+---
+
+### 2015-01 — WALK-MAN (IIT 2015; disaster-response humanoid)
+
+- **id:** `walk-man-iit-2015`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Istituto Italiano di Tecnologia (Genoa, Italy); Nikos Tsagarakis + Darwin Caldwell + EU FP7 consortium
+- **disclosure citation:** Istituto Italiano di Tecnologia (IIT, Genoa, Italy) + collaborators. WALK-MAN EU FP7 project 2013-2017. DARPA Robotics Challenge Finals 2015 entrant. Tsagarakis et al.
+- **disclosed subsystems:** `humanoid-bipedal`, `actuator-electric-series-elastic`
+
+**Prior art notes:**
+
+> WALK-MAN (IIT Genoa + EU FP7 consortium 2013-2017) is the Italian disaster-response humanoid with series-elastic actuators throughout. 10-year-deep academic-publication prior art. Sister to Atlas (corpus), HUBO (corpus), RoboSimian (corpus) of the DARPA Robotics Challenge era.
+
+**Sources:**
+
+1. IIT WALK-MAN project publications.
+2. DARPA Robotics Challenge Finals 2015.
 
 ---
 
@@ -203,4 +242,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*

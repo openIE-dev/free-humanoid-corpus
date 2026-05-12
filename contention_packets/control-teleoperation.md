@@ -1,7 +1,7 @@
 ---
 title: "control-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 132
+nav_order: 136
 layout: default
 ---
 
@@ -761,4 +761,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `934776f`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `0e58219`.*
