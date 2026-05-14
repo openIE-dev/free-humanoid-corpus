@@ -35,7 +35,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-electrohydraulic` | 1 | 2018-01 |
 | `actuator-electrohydrodynamic` | 3 | 2019-09 |
 | `actuator-foc-controller` | 6 | 1929-07 |
-| `actuator-hydraulic` | 33 | -0250 |
+| `actuator-hydraulic` | 37 | -0250 |
 | `actuator-hydraulic-damper` | 1 | 1997-09 |
 | `actuator-ionic-electroactive` | 1 | 1992-01 |
 | `actuator-microfluidic` | 1 | 2022-10 |
@@ -57,7 +57,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-wave-power` | 1 | 2007-01 |
 | `actuator-wind-solar` | 1 | 2013-09 |
 | `agriculture-robot` | 9 | 1992-08 |
-| `ai-foundation-model` | 64 | 1981-06 |
+| `ai-foundation-model` | 75 | 1979-05 |
 | `automaton-historical` | 11 | 0070-01 |
 | `autonomous-vehicle` | 11 | 1999-01 |
 | `auv` | 11 | 1957-08 |
@@ -322,7 +322,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-stored-program` | 5 | 1804-01 |
 | `control-subject-tracking` | 1 | 2018-02 |
 | `control-subterranean-autonomy` | 1 | 2021-09 |
-| `control-supervised-autonomy` | 3 | 2015-06 |
+| `control-supervised-autonomy` | 4 | 2015-06 |
 | `control-swarm` | 2 | 2011-01 |
 | `control-teleoperation` | 35 | 1770-01 |
 | `control-tethered` | 4 | 1965-01 |
@@ -384,13 +384,13 @@ the working prior art search tool when assessing patent claims in the area.
 | `exoskeleton-self-supporting` | 1 | 2010-07 |
 | `exoskeleton-soft-pneumatic` | 1 | 2014-01 |
 | `exoskeleton-upper-limb` | 4 | 2012-02 |
-| `fictional-weapons` | 3 | 1951-09 |
+| `fictional-weapons` | 4 | 1951-09 |
 | `food-prep-robot` | 2 | 2017-03 |
 | `hov` | 8 | 1984-12 |
 | `hov-bathyscaphe` | 1 | 1953-08 |
-| `humanoid-bipedal` | 10 | 2008-01 |
+| `humanoid-bipedal` | 11 | 2006-07 |
 | `humanoid-companion-space` | 1 | 2013-08 |
-| `humanoid-fictional` | 13 | 1495-01 |
+| `humanoid-fictional` | 14 | 1495-01 |
 | `humanoid-wheeled` | 3 | 1962-09 |
 | `ip-cross-licensing` | 1 | 2005-11 |
 | `ip-defensive-pool` | 1 | 2005-11 |
@@ -400,7 +400,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `lander-asteroid` | 2 | 2014-11 |
 | `lander-lunar` | 2 | 2024-01 |
 | `lander-sample-return` | 2 | 1970-09 |
-| `manipulator-arm` | 45 | 1952-03 |
+| `manipulator-arm` | 46 | 1952-03 |
 | `manipulator-cobot` | 16 | 1991-01 |
 | `manipulator-delta` | 2 | 1985-01 |
 | `manipulator-desktop` | 1 | 2017-05 |
@@ -412,7 +412,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `manipulator-precision` | 1 | 2015-09 |
 | `manipulator-scara` | 2 | 1978-01 |
 | `manipulator-space` | 4 | 1966-04 |
-| `manipulator-surgical` | 4 | 2006-09 |
+| `manipulator-surgical` | 8 | 1968-01 |
 | `mechanism-3d-printed-hand` | 1 | 2024-06 |
 | `mechanism-3d-printed-platform` | 4 | 2019-04 |
 | `mechanism-active-tail` | 1 | 2018-05 |
@@ -531,7 +531,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `power-li-po` | 3 | 2010 |
 | `power-pressure-balanced-li-ion` | 3 | 2003-09 |
 | `power-tethered` | 13 | 1973 |
-| `quadruped-robot` | 4 | 1999-05 |
+| `quadruped-robot` | 8 | 1999-05 |
 | `rl-infrastructure` | 7 | 2004-01 |
 | `robot-other` | 3 | 2002-10 |
 | `rov` | 6 | 1965-01 |
@@ -564,8 +564,8 @@ the working prior art search tool when assessing patent claims in the area.
 | `sensing-integrated-vision` | 1 | 2016-12 |
 | `sensing-joint-torque` | 5 | 1991-01 |
 | `sensing-lidar` | 18 | 1961-01 |
-| `sensing-localization` | 1 | 1978-02 |
-| `sensing-magnetic` | 1 | 1879-01 |
+| `sensing-localization` | 2 | 1960-01 |
+| `sensing-magnetic` | 2 | 1879-01 |
 | `sensing-mems` | 1 | 1991-01 |
 | `sensing-monocular-depth` | 13 | 1981-08 |
 | `sensing-motion-capture` | 1 | 1984-01 |

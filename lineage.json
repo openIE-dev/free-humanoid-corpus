@@ -518,6 +518,16 @@
       "descendants": []
     },
     {
+      "id": "imu-strapdown-1960s",
+      "name": "Strapdown IMU + Inertial Navigation (1960s; mechanical → MEMS lineage)",
+      "year": "1960",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "mems-imu-foundational-1990s"
+      ]
+    },
+    {
       "id": "lqr-kalman-1960",
       "name": "Linear Quadratic Regulator / LQR + LQG (Kalman 1960)",
       "year": "1960",
@@ -620,6 +630,14 @@
     {
       "id": "8-man-hachiman",
       "name": "8 Man (Hachiman)",
+      "year": "1963",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "daleks-doctor-who-1963",
+      "name": "Daleks (Doctor Who; 1963)",
       "year": "1963",
       "corpus": "fictional",
       "ancestors": [],
@@ -759,6 +777,16 @@
       ],
       "descendants": [
         "blade-runner-2049"
+      ]
+    },
+    {
+      "id": "gamma-knife-leksell-1968",
+      "name": "Gamma Knife (Lars Leksell 1968; foundational stereotactic radiosurgery)",
+      "year": "1968",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "cyberknife-accuray-adler-1994"
       ]
     },
     {
@@ -1143,11 +1171,23 @@
       "descendants": []
     },
     {
+      "id": "mother-alien-1979",
+      "name": "Mother / MU-TH-UR 6000 (Alien; 1979)",
+      "year": "1979",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "ash-alien"
+      ]
+    },
+    {
       "id": "ash-alien",
       "name": "Ash (Alien)",
       "year": "1979",
       "corpus": "fictional",
-      "ancestors": [],
+      "ancestors": [
+        "mother-alien-1979"
+      ],
       "descendants": [
         "bishop-aliens",
         "david-prometheus-walter-covenant"
@@ -1328,6 +1368,7 @@
       "ancestors": [],
       "descendants": [
         "atlas-boston-dynamics",
+        "bigdog-boston-dynamics-raibert-2005",
         "cassie-osu",
         "mit-cheetah",
         "pratt-virtual-model-control"
@@ -1372,12 +1413,23 @@
       "descendants": []
     },
     {
+      "id": "skynet-terminator-1984",
+      "name": "Skynet (The Terminator; 1984)",
+      "year": "1984",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "t-800-terminator"
+      ]
+    },
+    {
       "id": "t-800-terminator",
       "name": "T-800",
       "year": "1984",
       "corpus": "fictional",
       "ancestors": [
-        "metropolis-maschinenmensch"
+        "metropolis-maschinenmensch",
+        "skynet-terminator-1984"
       ],
       "descendants": []
     },
@@ -1517,7 +1569,9 @@
       "year": "1986",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "lenet-lecun-1998"
+      ]
     },
     {
       "id": "canny-edge-detector-1986",
@@ -1783,6 +1837,19 @@
       "descendants": []
     },
     {
+      "id": "lenet-lecun-1998",
+      "name": "LeNet-5 (Yann LeCun 1998; foundational CNN for digit recognition)",
+      "year": "1989",
+      "corpus": "academic",
+      "ancestors": [
+        "backpropagation-rumelhart-hinton-1986"
+      ],
+      "descendants": [
+        "alexnet-krizhevsky-2012",
+        "resnet-he-2015"
+      ]
+    },
+    {
       "id": "mcgeer-passive-walker",
       "name": "McGeer Passive Dynamic Walker",
       "year": "1990",
@@ -1889,7 +1956,9 @@
       "name": "MEMS IMU foundational lineage (gyroscope + accelerometer)",
       "year": "1991",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "imu-strapdown-1960s"
+      ],
       "descendants": []
     },
     {
@@ -2027,6 +2096,16 @@
       "descendants": [
         "honda-p2"
       ]
+    },
+    {
+      "id": "cyberknife-accuray-adler-1994",
+      "name": "CyberKnife (John Adler + Accuray 1994; robotic-arm radiosurgery)",
+      "year": "1994",
+      "corpus": "private",
+      "ancestors": [
+        "gamma-knife-leksell-1968"
+      ],
+      "descendants": []
     },
     {
       "id": "murray-li-sastry-robotic-manipulation-1994",
@@ -2305,6 +2384,7 @@
       "ancestors": [],
       "descendants": [
         "openai-five-dota2-2018",
+        "seq2seq-sutskever-2014",
         "sutskever-seq2seq-nips-2014"
       ]
     },
@@ -2340,6 +2420,14 @@
       "name": "Cowboy Bebop (Pierrot Le Fou cyborg, MPU and AI antagonists)",
       "year": "1998",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pagerank-brin-page-1998",
+      "name": "PageRank (Brin & Page 1998; the algorithm that built Google)",
+      "year": "1998",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -2892,6 +2980,14 @@
       "descendants": []
     },
     {
+      "id": "cortana-halo-2001",
+      "name": "Cortana (Halo; 2001)",
+      "year": "2001",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "halo-mjolnir-master-chief",
       "name": "MJOLNIR Powered Assault Armor / Master Chief",
       "year": "2001",
@@ -3095,6 +3191,14 @@
       "name": "Stanford Autonomous Helicopter (Ng / Abbeel)",
       "year": "2003",
       "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "stereotaxis-niobe-2003",
+      "name": "Stereotaxis Niobe (magnetic catheter navigation; 2003)",
+      "year": "2003",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -3350,6 +3454,21 @@
       ]
     },
     {
+      "id": "bigdog-boston-dynamics-raibert-2005",
+      "name": "BigDog (Boston Dynamics 2005; foundational rough-terrain quadruped)",
+      "year": "2005",
+      "corpus": "academic",
+      "ancestors": [
+        "raibert-hopping-1leg"
+      ],
+      "descendants": [
+        "anybotics-anymal-eth-2016",
+        "bd-ls3-2012",
+        "bd-wildcat-cheetah-2012",
+        "boston-dynamics-spotmini-2017"
+      ]
+    },
+    {
       "id": "octarm-walker-clemson-2005",
       "name": "OctArm continuum manipulator (Walker Clemson)",
       "year": "2005",
@@ -3483,6 +3602,14 @@
     {
       "id": "lavalle-planning-algorithms-2006",
       "name": "Planning Algorithms (LaValle 2006)",
+      "year": "2006",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ishiguro-geminoid-2006",
+      "name": "Ishiguro Geminoid (2006; hyper-realistic android lineage)",
       "year": "2006",
       "corpus": "academic",
       "ancestors": [],
@@ -4052,6 +4179,16 @@
       "descendants": []
     },
     {
+      "id": "imagenet-fei-fei-li-2009",
+      "name": "ImageNet (Fei-Fei Li 2009; the dataset that enabled deep learning)",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "alexnet-krizhevsky-2012"
+      ]
+    },
+    {
       "id": "gelsight",
       "name": "GelSight",
       "year": "2009",
@@ -4291,6 +4428,16 @@
       ]
     },
     {
+      "id": "hyq-iit-hydraulic-quadruped-2010",
+      "name": "HyQ (IIT hydraulic quadruped; 2010)",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "anybotics-anymal-eth-2016"
+      ]
+    },
+    {
       "id": "cornell-jamming-gripper",
       "name": "Cornell Universal Jamming Gripper",
       "year": "2010",
@@ -4523,6 +4670,16 @@
       "descendants": []
     },
     {
+      "id": "bd-wildcat-cheetah-2012",
+      "name": "BD Cheetah + WildCat (2012-2013; fastest-running legged robots)",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [
+        "bigdog-boston-dynamics-raibert-2005"
+      ],
+      "descendants": []
+    },
+    {
       "id": "deepsea-challenger-cameron-2012",
       "name": "Deepsea Challenger (Cameron solo Challenger Deep)",
       "year": "2012",
@@ -4609,7 +4766,20 @@
       "name": "AlexNet (Krizhevsky/Sutskever/Hinton 2012)",
       "year": "2012",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "imagenet-fei-fei-li-2009",
+        "lenet-lecun-1998"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "bd-ls3-2012",
+      "name": "BD LS3 (Legged Squad Support System; 2012)",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [
+        "bigdog-boston-dynamics-raibert-2005"
+      ],
       "descendants": []
     },
     {
@@ -5147,7 +5317,9 @@
       "year": "2014",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "stylegan-karras-2018"
+      ]
     },
     {
       "id": "gan-goodfellow-nips-2014",
@@ -5261,6 +5433,18 @@
       "descendants": []
     },
     {
+      "id": "bahdanau-attention-2014",
+      "name": "Bahdanau Attention (Bahdanau et al. 2014; the attention mechanism)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [
+        "seq2seq-sutskever-2014"
+      ],
+      "descendants": [
+        "transformer-vaswani-2017"
+      ]
+    },
+    {
       "id": "harvard-soft-robotics-toolkit-2017",
       "name": "Harvard Soft Robotics Toolkit",
       "year": "2014",
@@ -5277,6 +5461,19 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "seq2seq-sutskever-2014",
+      "name": "Sequence-to-Sequence Learning (Sutskever 2014; seq2seq + encoder-decoder)",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [
+        "lstm-hochreiter-schmidhuber-1997"
+      ],
+      "descendants": [
+        "bahdanau-attention-2014",
+        "transformer-vaswani-2017"
+      ]
     },
     {
       "id": "sutskever-seq2seq-nips-2014",
@@ -5765,8 +5962,12 @@
       "name": "ResNet (He et al. MSRA 2015; residual connections)",
       "year": "2015",
       "corpus": "academic",
-      "ancestors": [],
-      "descendants": []
+      "ancestors": [
+        "lenet-lecun-1998"
+      ],
+      "descendants": [
+        "mask-rcnn-he-2017"
+      ]
     },
     {
       "id": "resnet-he-cvpr-2016",
@@ -5829,7 +6030,10 @@
       "name": "ANYbotics ANYmal (ETH Zurich industrial quadruped)",
       "year": "2016",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "bigdog-boston-dynamics-raibert-2005",
+        "hyq-iit-hydraulic-quadruped-2010"
+      ],
       "descendants": []
     },
     {
@@ -5982,6 +6186,7 @@
       "year": "2016",
       "corpus": "private",
       "ancestors": [
+        "bigdog-boston-dynamics-raibert-2005",
         "k9-doctor-who-1977"
       ],
       "descendants": []
@@ -6063,6 +6268,14 @@
       "ancestors": [
         "schunk-svh-german-2013"
       ],
+      "descendants": []
+    },
+    {
+      "id": "wavenet-van-den-oord-2016",
+      "name": "WaveNet (van den Oord DeepMind 2016; foundational neural audio generation)",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -6167,6 +6380,14 @@
       ]
     },
     {
+      "id": "procept-aquabeam-2017",
+      "name": "Procept BioRobotics AquaBeam (waterjet prostate surgery; 2017)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "samsung-gems-hip-2019",
       "name": "Samsung GEMS Hip + Korean industrial wearables",
       "year": "2017",
@@ -6252,6 +6473,18 @@
       "corpus": "open",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "mask-rcnn-he-2017",
+      "name": "Mask R-CNN (He Facebook AI 2017; foundational instance segmentation)",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [
+        "resnet-he-2015"
+      ],
+      "descendants": [
+        "segment-anything-sam-meta-2023"
+      ]
     },
     {
       "id": "miso-robotics-flippy-2017",
@@ -6385,7 +6618,10 @@
       "name": "Transformer (Vaswani et al. Google 2017; 'Attention Is All You Need')",
       "year": "2017",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "bahdanau-attention-2014",
+        "seq2seq-sutskever-2014"
+      ],
       "descendants": [
         "bert-devlin-2018",
         "claude-anthropic-2021",
@@ -7092,6 +7328,16 @@
       "year": "2018",
       "corpus": "private",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "stylegan-karras-2018",
+      "name": "StyleGAN (Karras Nvidia 2018; foundational style-based image GAN)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "gan-goodfellow-2014"
+      ],
       "descendants": []
     },
     {
@@ -8544,6 +8790,7 @@
       "year": "2023",
       "corpus": "open",
       "ancestors": [
+        "mask-rcnn-he-2017",
         "vision-transformer-vit-dosovitskiy-2020"
       ],
       "descendants": []

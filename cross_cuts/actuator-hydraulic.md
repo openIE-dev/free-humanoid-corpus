@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `actuator-hydraulic`
 
-**33 corpus entries disclose this subsystem.**
+**37 corpus entries disclose this subsystem.**
 
 Earliest disclosure: -0250
 
@@ -195,6 +195,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Big O introduces the explicit *consent-based humanoid* architecture: the Megadeus chooses to operate with its pilot, can refuse missions, has its own memory and identity. Anticipates: (1) consent-based human-AI partnership in pilot-operated humanoids — relevant to modern claims on autonomous-decision-making humanoid co-pilots; (2) memory-engine architecture with persistent operational history — relevant to fleet-management humanoid IP that maintains long-term episodic memory. Continuously available since 1999; widely cited in mecha-engineering discussions for the unusual cockpit ergonomics (foot-pedal-driven control sticks).
 
+## BigDog (Boston Dynamics 2005; foundational rough-terrain quadruped) (2005-03)
+
+- **id**: `bigdog-boston-dynamics-raibert-2005`
+- **corpus**: academic
+- **creator**: Boston Dynamics (Waltham, MA, USA); Marc Raibert (MIT Leg Lab → BD)
+- **disclosure**: Boston Dynamics + Marc Raibert. BigDog: DARPA-funded rough-terrain quadruped, first publicly demonstrated 2005. Raibert et al. 'BigDog, the Rough-Terrain Quadruped Robot'. IFAC Proceedings 41(2):10822-10825, 2008. Foundational successor to Raibert's MIT Leg Lab hopping monopod (corpus raibert-hopping-1leg).
+- **ip status**: trade-secret
+- **prior art notes**: BigDog (Boston Dynamics + Marc Raibert 2005-2015) is the foundational rough-terrain dynamic-balance quadruped. 20-year-deep public-disclosure prior art. Direct ancestor of every BD quadruped + every commercial industrial quadruped (Spot/ANYmal/DEEP Robotics corpus).
+
 ## Big Daddy (Bouncer / Rosie) (2007-08-21)
 
 - **id**: `bioshock-big-daddy`
@@ -257,6 +266,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Nihei, Tsutomu. Knights of Sidonia (Sidonia no Kishi). Afternoon, Kodansha, April 2009 - September 2015 (15 collected volumes). Anime: Polygon Pictures / Kodansha, April 2014 - June 2014 (Season 1) / April 2015 - June 2015 (Season 2).
 - **ip status**: fictional
 - **prior art notes**: Nihei's Knights of Sidonia (2009-2015 manga, 2014-2015 anime) provides one of the most engineering-detailed mecha disclosures in 21st-century manga. Anticipates with full specificity: (1) claims on humanoid combat platform version-succession architectures with documented capability progression (Type-17 > Type-18 > Type-19); (2) claims on cockpit-piloted neural-interface humanoid combat platforms with full-body harness — the Garde cockpit is panel-explicit across multiple chapters; (3) claims on modular weapon/manipulator/shield reconfiguration on a single humanoid airframe; (4) claims on fleet-scale formation-flight neural-interface mecha with chain-of-command coordination architecture. Nihei's signature engineering-realist art style provides far more mechanism specificity than typical mecha anime; the Polygon Pictures CG anime preserved this fidelity. Six-year manga serialization plus two-season anime (and 2021 sequel film) provide deep timestamped disclosure.
+
+## HyQ (IIT hydraulic quadruped; 2010) (2010-09)
+
+- **id**: `hyq-iit-hydraulic-quadruped-2010`
+- **corpus**: academic
+- **creator**: Istituto Italiano di Tecnologia (IIT) DLS Lab (Genoa, Italy); Claudio Semini + Darwin Caldwell + Jonas Buchli
+- **disclosure**: Istituto Italiano di Tecnologia (IIT) Dynamic Legged Systems (DLS) Lab. Semini, C. et al. 'Design of HyQ — A Hydraulically and Electrically Actuated Quadruped Robot'. Journal of Systems and Control Engineering 225(6):831-849, 2011. Subsequent: HyQ2Max (2014), HyQReal (2018, 1300 kg tow-test demo).
+- **ip status**: academic-publication
+- **prior art notes**: HyQ (IIT DLS Lab Genoa 2010+) is the European hydraulic-quadruped research platform — the IIT counterpart to BigDog. 15-year-deep academic-publication prior art.
+
+## BD Cheetah + WildCat (2012-2013; fastest-running legged robots) (2012-03)
+
+- **id**: `bd-wildcat-cheetah-2012`
+- **corpus**: academic
+- **creator**: Boston Dynamics (Waltham, MA, USA); DARPA M3 program
+- **disclosure**: Boston Dynamics + DARPA M3 (Maximum Mobility and Manipulation) program. BD Cheetah (tethered, March 2012): 28.3 mph treadmill — the fastest legged robot at the time. WildCat (untethered, October 2013): 19 mph off-tether outdoors.
+- **ip status**: academic-publication
+- **prior art notes**: BD Cheetah + WildCat (Boston Dynamics + DARPA M3 2012-2013) are the fastest-running legged robots of their era. 13-year-deep academic-publication prior art. Distinct from MIT Cheetah (corpus).
+
+## BD LS3 (Legged Squad Support System; 2012) (2012-09)
+
+- **id**: `bd-ls3-2012`
+- **corpus**: private
+- **creator**: Boston Dynamics (Waltham, MA, USA) for DARPA + USMC
+- **disclosure**: Boston Dynamics + DARPA + USMC. LS3 (Legged Squad Support System), also called AlphaDog. Public demonstration September 2012. Program cancelled by USMC 2015 over noise + repairability concerns.
+- **ip status**: trade-secret
+- **prior art notes**: BD LS3 / AlphaDog (Boston Dynamics + DARPA + USMC 2012-2015) is the scaled-up military BigDog successor + the cautionary tale that drove BD's hydraulic-to-electric pivot. 13-year-deep public-disclosure prior art.
 
 ## Atlas (2013-07)
 

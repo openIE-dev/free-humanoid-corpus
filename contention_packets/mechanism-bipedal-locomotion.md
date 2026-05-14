@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `mechanism-bipedal-locomotion`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
 **Entries:** 157 (122 commons-grade, 35 draft)  
 **Earliest disclosure:** -0250  
@@ -3232,4 +3232,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

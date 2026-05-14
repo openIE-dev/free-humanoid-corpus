@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `mechanism-wheel-leg-hybrid`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `mechanism-wheel-leg-hybrid`  
 **Entries:** 12 (8 commons-grade, 4 draft)  
 **Earliest disclosure:** 2002-10-01  
@@ -314,4 +314,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

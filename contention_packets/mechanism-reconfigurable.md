@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `mechanism-reconfigurable`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `mechanism-reconfigurable`  
 **Entries:** 6 (2 commons-grade, 4 draft)  
 **Earliest disclosure:** 2018-05  
@@ -191,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

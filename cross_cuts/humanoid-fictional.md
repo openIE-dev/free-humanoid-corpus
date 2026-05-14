@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `humanoid-fictional`
 
-**13 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1495-01
 
@@ -68,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: The Jetsons (Hanna-Barbera, ABC). First aired September 1962. Rosie (also spelled 'Rosey') the Robot — the Jetson family's robotic housekeeper. Voiced by Jean Vander Pyl. An XB-500 model from 'U-Rent A Maid'.
 - **ip status**: copyright-warner-bros
 - **prior art notes**: Rosie the Robot (The Jetsons, Hanna-Barbera 1962) is the archetypal household robot servant — the cultural ancestor of the entire 'home helper robot' product category. 63-year-deep fictional-disclosure prior art. The implicit benchmark the commercial home-humanoid wave (Roomba/HSR/NEO/Sunday Memo corpus) is racing to meet.
+
+## Daleks (Doctor Who; 1963) (1963-12)
+
+- **id**: `daleks-doctor-who-1963`
+- **corpus**: fictional
+- **creator**: BBC Doctor Who; Terry Nation (writer) + Raymond Cusick (designer); 1963
+- **disclosure**: Doctor Who, 'The Daleks' (BBC, December 21, 1963 - February 1, 1964). Created by Terry Nation (writer) + Raymond Cusick (designer). The Daleks are cyborgs — mutated Kaled organisms inside armored mechanical shells. Davros (creator of the Daleks) first appeared 1975.
+- **ip status**: copyright-bbc
+- **prior art notes**: Daleks (Doctor Who, Terry Nation + Raymond Cusick, BBC 1963+) are the archetypal genocidal cyborg robot. 62-year-deep fictional-disclosure prior art. The cultural shorthand for genocidal robots; Terry Nation's Nazi-ideology metaphor; the deepest fictional exploration of armor consuming its organic inhabitant.
 
 ## Mechagodzilla (Toho 1974; the giant mecha kaiju) (1974-03)
 

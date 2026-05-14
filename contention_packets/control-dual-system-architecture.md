@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-dual-system-architecture`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `control-dual-system-architecture`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2025-02  
@@ -115,4 +115,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

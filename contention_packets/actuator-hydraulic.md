@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-hydraulic`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `actuator-hydraulic`  
-**Entries:** 33 (27 commons-grade, 6 draft)  
+**Entries:** 37 (31 commons-grade, 6 draft)  
 **Earliest disclosure:** -0250  
 **Most recent disclosure:** 2024-05-24
 
@@ -442,6 +442,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2005-03 — BigDog (Boston Dynamics 2005; foundational rough-terrain quadruped)
+
+- **id:** `bigdog-boston-dynamics-raibert-2005`
+- **corpus:** academic
+- **ip status:** trade-secret
+- **creator:** Boston Dynamics (Waltham, MA, USA); Marc Raibert (MIT Leg Lab → BD)
+- **disclosure citation:** Boston Dynamics + Marc Raibert. BigDog: DARPA-funded rough-terrain quadruped, first publicly demonstrated 2005. Raibert et al. 'BigDog, the Rough-Terrain Quadruped Robot'. IFAC Proceedings 41(2):10822-10825, 2008. Foundational successor to Raibert's MIT Leg Lab hopping monopod (corpus raibert-hopping-1leg).
+- **disclosed subsystems:** `quadruped-robot`, `actuator-hydraulic`
+
+**Prior art notes:**
+
+> BigDog (Boston Dynamics + Marc Raibert 2005-2015) is the foundational rough-terrain dynamic-balance quadruped. 20-year-deep public-disclosure prior art. Direct ancestor of every BD quadruped + every commercial industrial quadruped (Spot/ANYmal/DEEP Robotics corpus).
+
+**Sources:**
+
+1. IFAC Proceedings 41(2):10822-10825, 2008.
+
+---
+
 ### 2007-08-21 — Big Daddy (Bouncer / Rosie)
 
 - **id:** `bioshock-big-daddy`
@@ -578,6 +597,63 @@ cite, copy, or redistribute these contentions.
 1. Nihei, T. Sidonia no Kishi. Kodansha Afternoon, 2009-2015 (15 volumes).
 2. Knights of Sidonia anime, Polygon Pictures, 2014-2015 (24 episodes).
 3. Knights of Sidonia: Love Woven in the Stars, Polygon Pictures, 2021.
+
+---
+
+### 2010-09 — HyQ (IIT hydraulic quadruped; 2010)
+
+- **id:** `hyq-iit-hydraulic-quadruped-2010`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Istituto Italiano di Tecnologia (IIT) DLS Lab (Genoa, Italy); Claudio Semini + Darwin Caldwell + Jonas Buchli
+- **disclosure citation:** Istituto Italiano di Tecnologia (IIT) Dynamic Legged Systems (DLS) Lab. Semini, C. et al. 'Design of HyQ — A Hydraulically and Electrically Actuated Quadruped Robot'. Journal of Systems and Control Engineering 225(6):831-849, 2011. Subsequent: HyQ2Max (2014), HyQReal (2018, 1300 kg tow-test demo).
+- **disclosed subsystems:** `quadruped-robot`, `actuator-hydraulic`
+
+**Prior art notes:**
+
+> HyQ (IIT DLS Lab Genoa 2010+) is the European hydraulic-quadruped research platform — the IIT counterpart to BigDog. 15-year-deep academic-publication prior art.
+
+**Sources:**
+
+1. Semini, C. et al. J. Systems and Control Engineering 225(6):831-849, 2011.
+
+---
+
+### 2012-03 — BD Cheetah + WildCat (2012-2013; fastest-running legged robots)
+
+- **id:** `bd-wildcat-cheetah-2012`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Boston Dynamics (Waltham, MA, USA); DARPA M3 program
+- **disclosure citation:** Boston Dynamics + DARPA M3 (Maximum Mobility and Manipulation) program. BD Cheetah (tethered, March 2012): 28.3 mph treadmill — the fastest legged robot at the time. WildCat (untethered, October 2013): 19 mph off-tether outdoors.
+- **disclosed subsystems:** `quadruped-robot`, `actuator-hydraulic`
+
+**Prior art notes:**
+
+> BD Cheetah + WildCat (Boston Dynamics + DARPA M3 2012-2013) are the fastest-running legged robots of their era. 13-year-deep academic-publication prior art. Distinct from MIT Cheetah (corpus).
+
+**Sources:**
+
+1. DARPA M3 program documentation 2012-2013.
+
+---
+
+### 2012-09 — BD LS3 (Legged Squad Support System; 2012)
+
+- **id:** `bd-ls3-2012`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Boston Dynamics (Waltham, MA, USA) for DARPA + USMC
+- **disclosure citation:** Boston Dynamics + DARPA + USMC. LS3 (Legged Squad Support System), also called AlphaDog. Public demonstration September 2012. Program cancelled by USMC 2015 over noise + repairability concerns.
+- **disclosed subsystems:** `quadruped-robot`, `actuator-hydraulic`
+
+**Prior art notes:**
+
+> BD LS3 / AlphaDog (Boston Dynamics + DARPA + USMC 2012-2015) is the scaled-up military BigDog successor + the cautionary tale that drove BD's hydraulic-to-electric pivot. 13-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. BD + DARPA LS3 program documentation 2012-2015.
 
 ---
 
@@ -731,4 +807,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

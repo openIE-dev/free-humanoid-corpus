@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `humanoid-bipedal`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `humanoid-bipedal`  
-**Entries:** 10 (10 commons-grade, 0 draft)  
-**Earliest disclosure:** 2008-01  
+**Entries:** 11 (11 commons-grade, 0 draft)  
+**Earliest disclosure:** 2006-07  
 **Most recent disclosure:** 2025-08
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2006-07 — Ishiguro Geminoid (2006; hyper-realistic android lineage)
+
+- **id:** `ishiguro-geminoid-2006`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** ATR Hiroshi Ishiguro Laboratories + Osaka University; Hiroshi Ishiguro
+- **disclosure citation:** Ishiguro, H. + ATR Hiroshi Ishiguro Laboratories + Osaka University. Geminoid HI-1 (2006, modeled on Ishiguro himself). Subsequent: Repliee Q (2003-2005 predecessor), Geminoid F (2010), Telenoid (2010), Erica (2014), the Otonaroid + Kodomoroid news-presenter androids (2014).
+- **disclosed subsystems:** `humanoid-bipedal`
+
+**Prior art notes:**
+
+> Ishiguro Geminoid (ATR + Osaka University 2006+; 25+ year research program) is the hyper-realistic android lineage. 19-year-deep academic-publication prior art. Direct prior art for the uncanny-valley humanoid wave (Ameca/Sophia/Mentee corpus).
+
+**Sources:**
+
+1. Hiroshi Ishiguro Laboratories ATR documentation.
+
+---
 
 ### 2008-01 — MABEL (Grizzle Michigan 2008; foundational bipedal control)
 
@@ -262,4 +281,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

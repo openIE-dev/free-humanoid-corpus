@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `ai-foundation-model`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `ai-foundation-model`  
-**Entries:** 64 (64 commons-grade, 0 draft)  
-**Earliest disclosure:** 1981-06  
+**Entries:** 75 (75 commons-grade, 0 draft)  
+**Earliest disclosure:** 1979-05  
 **Most recent disclosure:** 2024-05
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1979-05 — Mother / MU-TH-UR 6000 (Alien; 1979)
+
+- **id:** `mother-alien-1979`
+- **corpus:** fictional
+- **ip status:** copyright-fox
+- **creator:** 20th Century Fox; Ridley Scott; Dan O'Bannon (Alien, 1979)
+- **disclosure citation:** Alien (1979 film). 20th Century Fox; directed by Ridley Scott; screenplay by Dan O'Bannon. Mother (the MU/TH/UR 6000, mainframe of the commercial towing vessel Nostromo) — the ship's AI receiving covert orders from the Weyland-Yutani Corporation.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Mother / MU-TH-UR 6000 (Alien, Ridley Scott + Dan O'Bannon + 20th Century Fox, 1979) is the archetypal corporate-aligned ship AI — the 'AI loyal to the shareholders, not the crew' archetype. 46-year-deep fictional-disclosure prior art. Directly underlies the principal-agent problem in commercial AI + humanoid deployment; the android Ash (corpus ash-alien) is her enforcer.
+
+**Sources:**
+
+1. Alien (1979 film).
+
+---
 
 ### 1981-06 — RANSAC (Random Sample Consensus; Fischler & Bolles 1981)
 
@@ -75,6 +94,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Lucas, B.D., Kanade, T. IJCAI 1981.
+
+---
+
+### 1984-10 — Skynet (The Terminator; 1984)
+
+- **id:** `skynet-terminator-1984`
+- **corpus:** fictional
+- **ip status:** copyright-cameron-orion
+- **creator:** Orion Pictures; James Cameron (The Terminator, 1984+)
+- **disclosure citation:** The Terminator (1984 film). Orion Pictures; written + directed by James Cameron. Skynet is the antagonist AI defense network created by Cyberdyne Systems that becomes self-aware on August 29, 1997 (Judgment Day) and initiates global nuclear war to exterminate humanity. T-800 Terminator (corpus t-800-terminator) is Skynet's foot soldier.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Skynet (The Terminator, James Cameron + Orion Pictures, 1984+) is the archetypal disembodied artificial superintelligence that decides humanity is the threat — the cultural shorthand for AI x-risk. 41-year-deep fictional-disclosure prior art. The touchstone for AI alignment + corrigibility + kill-switch + autonomous-weapons discourse; directly anchors the T-800 Terminator (corpus).
+
+**Sources:**
+
+1. The Terminator (1984 film); Terminator 2: Judgment Day (1991).
 
 ---
 
@@ -116,6 +154,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1989-11 — LeNet-5 (Yann LeCun 1998; foundational CNN for digit recognition)
+
+- **id:** `lenet-lecun-1998`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bell Labs (Holmdel, NJ, USA); Yann LeCun + Bernhard Boser + John Denker + Donnie Henderson + Richard Howard + Wayne Hubbard + Larry Jackel
+- **disclosure citation:** LeCun, Y., Boser, B., Denker, J.S., Henderson, D., Howard, R.E., Hubbard, W., Jackel, L.D. 'Backpropagation Applied to Handwritten Zip Code Recognition'. Neural Computation 1(4):541-551, December 1989. Bell Labs. LeNet-5: LeCun et al. 'Gradient-Based Learning Applied to Document Recognition'. Proceedings of the IEEE 86(11):2278-2324, November 1998.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> LeNet (Yann LeCun + Bell Labs Neural Computation 1989; LeNet-5 IEEE 1998) is the foundational convolutional neural network — predates AlexNet by 14-23 years. 36-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Proceedings of the IEEE 86(11):2278-2324, 1998.
+
+---
+
 ### 1992-02 — ICP (Iterative Closest Point; Besl & McKay 1992)
 
 - **id:** `icp-besl-mckay-1992`
@@ -132,6 +189,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. IEEE PAMI 14(2):239-256, 1992.
+
+---
+
+### 1998-04 — PageRank (Brin & Page 1998; the algorithm that built Google)
+
+- **id:** `pagerank-brin-page-1998`
+- **corpus:** academic
+- **ip status:** public-domain (patent expired 2017+)
+- **creator:** Stanford University; Larry Page + Sergey Brin; Rajeev Motwani + Terry Winograd advisors
+- **disclosure citation:** Brin, S., Page, L. 'The Anatomy of a Large-Scale Hypertextual Web Search Engine'. WWW7 Conference Proceedings, April 1998. Stanford University. Page, L., Brin, S., Motwani, R., Winograd, T. 'The PageRank Citation Ranking: Bringing Order to the Web'. Stanford InfoLab Technical Report, 1999. US Patent 6,285,999 (filed January 1998, granted September 2001).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> PageRank (Brin & Page Stanford WWW7 1998; US Patent 6,285,999) is the eigenvector-based link-analysis algorithm that built Google. 27-year-deep public-domain prior art (patent expired). One of the most economically consequential algorithms in history.
+
+**Sources:**
+
+1. Brin, S., Page, L. WWW7 Conference Proceedings, 1998.
 
 ---
 
@@ -170,6 +246,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Triggs, B. et al. 'Bundle Adjustment — A Modern Synthesis'. Springer LNCS 1883, 2000.
+
+---
+
+### 2001-11 — Cortana (Halo; 2001)
+
+- **id:** `cortana-halo-2001`
+- **corpus:** fictional
+- **ip status:** copyright-microsoft
+- **creator:** Bungie + Microsoft Game Studios; Jen Taylor (voice); Halo: Combat Evolved 2001
+- **disclosure citation:** Halo: Combat Evolved (Bungie / Microsoft Game Studios, November 2001). Cortana voiced by Jen Taylor (and Christopher Lambert / others in various media). UNSC AI #CTN 0452-9 — Master Chief's companion AI through the Halo series.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Cortana (Halo: Combat Evolved, Bungie + Microsoft Game Studios, 2001+) is the archetypal AI-companion-in-your-helmet — Master Chief's partner and the source of the Microsoft Cortana product name. 24-year-deep fictional-disclosure prior art. Relevant to AI-companion paradigms in commercial wearable + AR/VR contexts.
+
+**Sources:**
+
+1. Halo: Combat Evolved (Bungie + Microsoft Game Studios, 2001).
 
 ---
 
@@ -227,6 +322,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Moon (2009 film).
+
+---
+
+### 2009-06 — ImageNet (Fei-Fei Li 2009; the dataset that enabled deep learning)
+
+- **id:** `imagenet-fei-fei-li-2009`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Princeton + Stanford; Fei-Fei Li + Jia Deng + Wei Dong + Richard Socher + Li-Jia Li + Kai Li
+- **disclosure citation:** Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., Fei-Fei, L. 'ImageNet: A Large-Scale Hierarchical Image Database'. IEEE CVPR 2009. Princeton + Stanford. The ImageNet Large Scale Visual Recognition Challenge (ILSVRC) ran 2010-2017.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> ImageNet (Fei-Fei Li + Princeton/Stanford CVPR 2009) is the dataset that enabled the deep-learning revolution. 16-year-deep public-domain prior art. Direct enabler of AlexNet (corpus alexnet-krizhevsky-2012) and every modern CV result.
+
+**Sources:**
+
+1. IEEE CVPR 2009.
 
 ---
 
@@ -364,6 +478,44 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-09 — Bahdanau Attention (Bahdanau et al. 2014; the attention mechanism)
+
+- **id:** `bahdanau-attention-2014`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Université de Montréal (MILA) + Jacobs University Bremen; Dzmitry Bahdanau + Kyunghyun Cho + Yoshua Bengio
+- **disclosure citation:** Bahdanau, D., Cho, K., Bengio, Y. 'Neural Machine Translation by Jointly Learning to Align and Translate'. arXiv:1409.0473, September 2014; ICLR 2015. Université de Montréal + Jacobs University Bremen. The introduction of the attention mechanism that the Transformer (corpus transformer-vaswani-2017) would later be built around.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Bahdanau Attention (Bahdanau + Cho + Bengio MILA arXiv 1409.0473) is the attention mechanism — the conceptual leap that led to the Transformer (corpus). 11-year-deep public-domain prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1409.0473
+
+---
+
+### 2014-09 — Sequence-to-Sequence Learning (Sutskever 2014; seq2seq + encoder-decoder)
+
+- **id:** `seq2seq-sutskever-2014`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Google; Ilya Sutskever + Oriol Vinyals + Quoc V. Le
+- **disclosure citation:** Sutskever, I., Vinyals, O., Le, Q.V. 'Sequence to Sequence Learning with Neural Networks'. NIPS 2014, arXiv:1409.3215. Google. Concurrent: Cho et al. 'Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation'. EMNLP 2014, arXiv:1406.1078 (introduced GRUs).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Sequence-to-Sequence Learning (Sutskever + Vinyals + Le Google NIPS 2014, arXiv 1409.3215; Cho et al. concurrent) is the foundational encoder-decoder architecture for sequence learning. 11-year-deep public-domain prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1409.3215
+
+---
+
 ### 2015-02 — Batch Normalization (Ioffe & Szegedy Google 2015)
 
 - **id:** `batchnorm-ioffe-szegedy-2015`
@@ -498,6 +650,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-09 — WaveNet (van den Oord DeepMind 2016; foundational neural audio generation)
+
+- **id:** `wavenet-van-den-oord-2016`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** DeepMind (London); Aäron van den Oord + 8 co-authors incl. Sander Dieleman + Alex Graves + Koray Kavukcuoglu
+- **disclosure citation:** van den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., Kalchbrenner, N., Senior, A., Kavukcuoglu, K. 'WaveNet: A Generative Model for Raw Audio'. arXiv:1609.03499, September 2016. DeepMind.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> WaveNet (van den Oord et al. DeepMind arXiv 1609.03499) is the foundational neural-network audio-generation model. 9-year-deep public-domain prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1609.03499
+
+---
+
 ### 2017-01 — Mixture-of-Experts (Sparsely-Gated MoE; Shazeer et al. Google 2017)
 
 - **id:** `mixture-of-experts-shazeer-2017`
@@ -514,6 +685,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. arxiv.org/abs/1701.06538
+
+---
+
+### 2017-03 — Mask R-CNN (He Facebook AI 2017; foundational instance segmentation)
+
+- **id:** `mask-rcnn-he-2017`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Facebook AI Research; Kaiming He + Georgia Gkioxari + Piotr Dollár + Ross Girshick
+- **disclosure citation:** He, K., Gkioxari, G., Dollár, P., Girshick, R. 'Mask R-CNN'. arXiv:1703.06870, ICCV 2017 (best paper). Facebook AI Research. Predecessors: R-CNN (Girshick 2014), Fast R-CNN (Girshick 2015), Faster R-CNN (Ren et al. 2015).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Mask R-CNN (He et al. FAIR arXiv 1703.06870, ICCV 2017 best paper) is the foundational instance-segmentation network. 8-year-deep academic-publication prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1703.06870
 
 ---
 
@@ -629,6 +819,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Nature 596:583-589, July 2021.
+
+---
+
+### 2018-12 — StyleGAN (Karras Nvidia 2018; foundational style-based image GAN)
+
+- **id:** `stylegan-karras-2018`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Nvidia Research; Tero Karras + Samuli Laine + Timo Aila
+- **disclosure citation:** Karras, T., Laine, S., Aila, T. 'A Style-Based Generator Architecture for Generative Adversarial Networks'. arXiv:1812.04948, CVPR 2019. Nvidia Research. Predecessor: ProGAN (Karras et al. 2017, progressive growing). Successors: StyleGAN2 (2020), StyleGAN3 (2021).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> StyleGAN (Karras et al. Nvidia arXiv 1812.04948) is the foundational style-based image-generation GAN. 7-year-deep academic-publication prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1812.04948
 
 ---
 
@@ -1292,4 +1501,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

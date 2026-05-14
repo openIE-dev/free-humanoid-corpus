@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-bilateral-teleop-haptic`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `control-bilateral-teleop-haptic`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-06  
@@ -153,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

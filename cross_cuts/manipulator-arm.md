@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `manipulator-arm`
 
-**45 corpus entries disclose this subsystem.**
+**46 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1952-03
 
@@ -140,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lely Industries N.V. (Maassluis, Netherlands). Karel van den Berg + team. Astronaut first commercial milking August 18, 1992. The first commercial-scale robotic milking system. 35,000+ units worldwide by 2017.
 - **ip status**: trade-secret
 - **prior art notes**: Lely Astronaut (Maassluis 1992+) is the single most-deployed ag robot in history. 33-year-deep public-disclosure prior art.
+
+## CyberKnife (John Adler + Accuray 1994; robotic-arm radiosurgery) (1994-01)
+
+- **id**: `cyberknife-accuray-adler-1994`
+- **corpus**: private
+- **creator**: Stanford University Medical Center; John R. Adler Jr.; → Accuray Incorporated 1990
+- **disclosure**: Adler, J.R. et al. CyberKnife — robotic-arm-mounted linear accelerator for stereotactic radiosurgery. First treatment 1994 at Stanford University Hospital. FDA-cleared for intracranial 1999; extracranial 2001. Commercialized by Accuray Incorporated (founded 1990 by Adler).
+- **ip status**: trade-secret
+- **prior art notes**: CyberKnife (John Adler + Stanford + Accuray 1994+) is the robotic-arm-mounted radiosurgery system — frame-free, whole-body, real-time-tracked stereotactic radiosurgery. 31-year-deep public-disclosure prior art. Conceptual descendant of Gamma Knife (corpus).
 
 ## ABB FlexPicker IRB 360 (dominant industrial delta robot) (1998-01)
 

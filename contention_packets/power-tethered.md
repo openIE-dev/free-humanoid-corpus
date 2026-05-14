@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `power-tethered`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `power-tethered`  
 **Entries:** 13 (11 commons-grade, 2 draft)  
 **Earliest disclosure:** 1973  
@@ -325,4 +325,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

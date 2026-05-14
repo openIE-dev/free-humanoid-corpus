@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `fictional-weapons`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `fictional-weapons`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 1951-09  
 **Most recent disclosure:** 2008-05
 
@@ -56,6 +56,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. The Day the Earth Stood Still (1951 film); Bates, H. 'Farewell to the Master' (1940).
+
+---
+
+### 1963-12 — Daleks (Doctor Who; 1963)
+
+- **id:** `daleks-doctor-who-1963`
+- **corpus:** fictional
+- **ip status:** copyright-bbc
+- **creator:** BBC Doctor Who; Terry Nation (writer) + Raymond Cusick (designer); 1963
+- **disclosure citation:** Doctor Who, 'The Daleks' (BBC, December 21, 1963 - February 1, 1964). Created by Terry Nation (writer) + Raymond Cusick (designer). The Daleks are cyborgs — mutated Kaled organisms inside armored mechanical shells. Davros (creator of the Daleks) first appeared 1975.
+- **disclosed subsystems:** `humanoid-fictional`, `fictional-weapons`
+
+**Prior art notes:**
+
+> Daleks (Doctor Who, Terry Nation + Raymond Cusick, BBC 1963+) are the archetypal genocidal cyborg robot. 62-year-deep fictional-disclosure prior art. The cultural shorthand for genocidal robots; Terry Nation's Nazi-ideology metaphor; the deepest fictional exploration of armor consuming its organic inhabitant.
+
+**Sources:**
+
+1. Doctor Who, 'The Daleks' (BBC, December 1963).
 
 ---
 
@@ -128,4 +147,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

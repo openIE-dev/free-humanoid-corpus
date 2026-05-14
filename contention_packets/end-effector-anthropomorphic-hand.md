@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `end-effector-anthropomorphic-hand`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `end-effector-anthropomorphic-hand`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2010-03  
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

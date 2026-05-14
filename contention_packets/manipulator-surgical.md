@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `manipulator-surgical`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `manipulator-surgical`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
-**Earliest disclosure:** 2006-09  
+**Entries:** 8 (8 commons-grade, 0 draft)  
+**Earliest disclosure:** 1968-01  
 **Most recent disclosure:** 2021-09
 
 ---
@@ -39,6 +39,63 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1968-01 — Gamma Knife (Lars Leksell 1968; foundational stereotactic radiosurgery)
+
+- **id:** `gamma-knife-leksell-1968`
+- **corpus:** academic
+- **ip status:** trade-secret
+- **creator:** Karolinska Institute (Stockholm, Sweden); Lars Leksell; → Elekta AB (1972)
+- **disclosure citation:** Leksell, L. The first Gamma Knife installed at the Karolinska Institute (Stockholm, Sweden) in 1968. Leksell, L. 'The Stereotaxic Method and Radiosurgery of the Brain'. Acta Chirurgica Scandinavica 102:316-319, 1951 (introduced the term 'radiosurgery' + the stereotactic frame). Commercialized by Elekta (founded 1972 by Leksell).
+- **disclosed subsystems:** `manipulator-surgical`
+
+**Prior art notes:**
+
+> Gamma Knife (Lars Leksell + Karolinska Institute 1968; concept 1951; Elekta AB 1972+) is the foundational stereotactic radiosurgery system. 57-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. Leksell, L. Acta Chirurgica Scandinavica 102:316-319, 1951.
+
+---
+
+### 1994-01 — CyberKnife (John Adler + Accuray 1994; robotic-arm radiosurgery)
+
+- **id:** `cyberknife-accuray-adler-1994`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Stanford University Medical Center; John R. Adler Jr.; → Accuray Incorporated 1990
+- **disclosure citation:** Adler, J.R. et al. CyberKnife — robotic-arm-mounted linear accelerator for stereotactic radiosurgery. First treatment 1994 at Stanford University Hospital. FDA-cleared for intracranial 1999; extracranial 2001. Commercialized by Accuray Incorporated (founded 1990 by Adler).
+- **disclosed subsystems:** `manipulator-surgical`, `manipulator-arm`
+
+**Prior art notes:**
+
+> CyberKnife (John Adler + Stanford + Accuray 1994+) is the robotic-arm-mounted radiosurgery system — frame-free, whole-body, real-time-tracked stereotactic radiosurgery. 31-year-deep public-disclosure prior art. Conceptual descendant of Gamma Knife (corpus).
+
+**Sources:**
+
+1. accuray.com (corporate site); Stanford CyberKnife history.
+
+---
+
+### 2003-01 — Stereotaxis Niobe (magnetic catheter navigation; 2003)
+
+- **id:** `stereotaxis-niobe-2003`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Stereotaxis Inc. (St. Louis, MO, USA); Bevil Hogg + Rogers Ritter founders
+- **disclosure citation:** Stereotaxis Inc. (St. Louis, MO, USA). Niobe magnetic-navigation system FDA-cleared 2003. Successor: Genesis RMN (2020). Founded 1990 by Bevil Hogg + Rogers Ritter (MIT/Washington University).
+- **disclosed subsystems:** `manipulator-surgical`
+
+**Prior art notes:**
+
+> Stereotaxis Niobe (St. Louis 2003+; Genesis RMN 2020) is the robotic magnetic navigation system for cardiac catheter ablation. 22-year-deep public-disclosure prior art. Architecturally distinct from arm-based surgical robots (da Vinci/MAKO/CMR corpus).
+
+**Sources:**
+
+1. stereotaxis.com (corporate site).
+
+---
 
 ### 2006-09 — MAKO RIO orthopedic robot-arm-assisted surgery
 
@@ -75,6 +132,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. en.wikipedia.org/wiki/Mazor_Robotics
+
+---
+
+### 2017-01 — Procept BioRobotics AquaBeam (waterjet prostate surgery; 2017)
+
+- **id:** `procept-aquabeam-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Procept BioRobotics (Redwood City, CA, USA); Nikolai Aljuri + Daniel Greenfield
+- **disclosure citation:** Procept BioRobotics (Redwood City, CA, USA; founded 2007 by Nikolai Aljuri + Daniel Greenfield). AquaBeam Robotic System FDA-cleared December 2017 for BPH (benign prostatic hyperplasia) treatment via 'Aquablation'. NASDAQ IPO September 2021.
+- **disclosed subsystems:** `manipulator-surgical`, `control-supervised-autonomy`
+
+**Prior art notes:**
+
+> Procept BioRobotics AquaBeam (Redwood City 2017+) is the robotic waterjet ablation system for prostate surgery — heat-free, image-guided, supervised-autonomous resection. 8-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. procept-biorobotics.com (corporate site).
 
 ---
 
@@ -146,4 +222,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

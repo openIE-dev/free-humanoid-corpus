@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `power-hot-swap`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `power-hot-swap`  
 **Entries:** 3 (2 commons-grade, 1 draft)  
 **Earliest disclosure:** 2015-02  
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

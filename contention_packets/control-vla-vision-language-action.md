@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-vla-vision-language-action`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `control-vla-vision-language-action`  
 **Entries:** 93 (81 commons-grade, 12 draft)  
 **Earliest disclosure:** 1886  
@@ -1954,4 +1954,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

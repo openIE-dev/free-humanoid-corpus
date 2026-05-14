@@ -1,17 +1,17 @@
 ---
-title: "control-classification"
+title: "sensing-magnetic"
 parent: "Invalidity Contentions"
-nav_order: 50
+nav_order: 267
 layout: default
 ---
 
-# Invalidity Contention Packet — `control-classification`
+# Invalidity Contention Packet — `sensing-magnetic`
 
 **Generated:** 2026-05-14  
-**Cross-cut tag:** `control-classification`  
+**Cross-cut tag:** `sensing-magnetic`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 1995-09  
-**Most recent disclosure:** 2001-10
+**Earliest disclosure:** 1879-01  
+**Most recent disclosure:** 1960-01
 
 ---
 
@@ -19,7 +19,7 @@ layout: default
 
 This document is an invalidity-contention packet — a chronologically-ordered
 list of every disclosed prior art reference in the Free Humanoid Corpus that
-bears on the subsystem `control-classification`.
+bears on the subsystem `sensing-magnetic`.
 
 To use it:
 
@@ -40,41 +40,41 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
-### 1995-09 — Support Vector Machines (SVM)
+### 1879-01 — Hall Effect (Edwin Hall 1879) + Hall sensors
 
-- **id:** `svm-cortes-vapnik-1995`
+- **id:** `hall-effect-sensor-1879`
 - **corpus:** academic
 - **ip status:** public-domain
-- **creator:** AT&T Bell Laboratories; Corinna Cortes, Vladimir Vapnik
-- **disclosure citation:** Cortes, C., Vapnik, V. 'Support-Vector Networks'. Machine Learning 20(3) 1995. AT&T Bell Laboratories.
-- **disclosed subsystems:** `control-machine-learning`, `control-classification`
+- **creator:** Johns Hopkins University; Edwin Herbert Hall (PhD student)
+- **disclosure citation:** Hall, E.H. 'On a New Action of the Magnet on Electric Currents'. American Journal of Mathematics 2(3):287-292, 1879. Johns Hopkins University (Hall was a PhD student). Practical Hall-effect sensors became feasible with semiconductors in the 1950s-1960s.
+- **disclosed subsystems:** `sensing-magnetic`
 
 **Prior art notes:**
 
-> SVM (Cortes-Vapnik Machine Learning 1995) is the foundational margin-maximizing classifier. 30-year-deep public-domain prior art. The dominant ML algorithm pre-2012. Used in many pre-deep-learning robotic-perception systems.
+> The Hall Effect (Edwin Hall Johns Hopkins 1879) + Hall sensors are the foundational magnetic-field sensing effect. 146-year-deep public-domain prior art. Ubiquitous in every motor + robot joint.
 
 **Sources:**
 
-1. Cortes, C., Vapnik, V. Machine Learning 20(3) 1995.
+1. Hall, E.H. American Journal of Mathematics 2(3):287-292, 1879.
 
 ---
 
-### 2001-10 — Random Forests
+### 1960-01 — Strapdown IMU + Inertial Navigation (1960s; mechanical → MEMS lineage)
 
-- **id:** `random-forest-breiman-2001`
+- **id:** `imu-strapdown-1960s`
 - **corpus:** academic
 - **ip status:** public-domain
-- **creator:** UC Berkeley; Leo Breiman
-- **disclosure citation:** Breiman, L. 'Random Forests'. Machine Learning 45(1) 2001. UC Berkeley.
-- **disclosed subsystems:** `control-machine-learning`, `control-classification`, `control-ensemble-method`
+- **creator:** MIT Instrumentation Laboratory (Charles Stark Draper Laboratory); Draper + collaborators
+- **disclosure citation:** Strapdown inertial navigation theory developed at MIT Instrumentation Laboratory (Charles Stark Draper) + others through the 1950s-1960s. First operational strapdown system: NASA SIRU (Strapdown Inertial Reference Unit), 1971. Subsequent: Boeing 757/767 strapdown INS (1980s); MEMS IMU revolution (corpus mems-imu-foundational-1990s) 1990s+.
+- **disclosed subsystems:** `sensing-magnetic`, `sensing-localization`
 
 **Prior art notes:**
 
-> Random Forests (Breiman Machine Learning 2001) is the foundational ensemble decision-tree algorithm. 24-year-deep public-domain prior art. Used in Microsoft Kinect (round-33) skeletal-tracking 2011 and many pre-deep-learning robotic-perception systems.
+> Strapdown IMU + Inertial Navigation (MIT Instrumentation Laboratory / Draper Lab 1960s; operational SIRU 1971) is the foundational concept of strapped-down inertial navigation. 60+-year-deep public-domain prior art. Directly underlies MEMS IMU (corpus mems-imu-foundational-1990s); fused with Kalman filter (corpus) + GPS (corpus) for every modern robot's navigation stack.
 
 **Sources:**
 
-1. Breiman, L. Machine Learning 45(1) 2001.
+1. Charles Stark Draper Laboratory inertial navigation documentation.
 
 ---
 

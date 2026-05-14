@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `fictional-weapons`
 
-**3 corpus entries disclose this subsystem.**
+**4 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1951-09
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: The Day the Earth Stood Still (1951 film). 20th Century Fox; directed by Robert Wise; screenplay by Edmund H. North, based on Harry Bates's short story 'Farewell to the Master' (Astounding Science Fiction, October 1940, where the robot is named 'Gnut'). 'Klaatu barada nikto.'
 - **ip status**: copyright-fox (1951 film); public-domain (Bates 1940 story)
 - **prior art notes**: Gort (The Day the Earth Stood Still 1951; based on Harry Bates's 'Gnut' 1940) is the archetypal silent, immensely powerful guardian robot — the 'autonomous-enforcer / robot peacekeeper' trope. 74-year-deep fictional-disclosure prior art (85-year for the Bates story). Ancestor of the Iron Giant (corpus) + Sentinels (corpus) + Terminator-as-inverse (corpus). Relevant to autonomous lethal robots + 'AI given enforcement authority' discourse.
+
+## Daleks (Doctor Who; 1963) (1963-12)
+
+- **id**: `daleks-doctor-who-1963`
+- **corpus**: fictional
+- **creator**: BBC Doctor Who; Terry Nation (writer) + Raymond Cusick (designer); 1963
+- **disclosure**: Doctor Who, 'The Daleks' (BBC, December 21, 1963 - February 1, 1964). Created by Terry Nation (writer) + Raymond Cusick (designer). The Daleks are cyborgs — mutated Kaled organisms inside armored mechanical shells. Davros (creator of the Daleks) first appeared 1975.
+- **ip status**: copyright-bbc
+- **prior art notes**: Daleks (Doctor Who, Terry Nation + Raymond Cusick, BBC 1963+) are the archetypal genocidal cyborg robot. 62-year-deep fictional-disclosure prior art. The cultural shorthand for genocidal robots; Terry Nation's Nazi-ideology metaphor; the deepest fictional exploration of armor consuming its organic inhabitant.
 
 ## Mechagodzilla (Toho 1974; the giant mecha kaiju) (1974-03)
 

@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `control-supervised-autonomy`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `control-supervised-autonomy`  
-**Entries:** 3 (2 commons-grade, 1 draft)  
+**Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 2015-06  
 **Most recent disclosure:** 2020-01
 
@@ -59,6 +59,25 @@ cite, copy, or redistribute these contentions.
 2. DARPA Robotics Challenge Finals 2015 Pomona results.
 3. KAIST Humanoid Robot Research Center publications.
 4. IEEE Spectrum coverage 'Korean Team Wins DARPA Robotics Challenge' 2015.
+
+---
+
+### 2017-01 — Procept BioRobotics AquaBeam (waterjet prostate surgery; 2017)
+
+- **id:** `procept-aquabeam-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Procept BioRobotics (Redwood City, CA, USA); Nikolai Aljuri + Daniel Greenfield
+- **disclosure citation:** Procept BioRobotics (Redwood City, CA, USA; founded 2007 by Nikolai Aljuri + Daniel Greenfield). AquaBeam Robotic System FDA-cleared December 2017 for BPH (benign prostatic hyperplasia) treatment via 'Aquablation'. NASDAQ IPO September 2021.
+- **disclosed subsystems:** `manipulator-surgical`, `control-supervised-autonomy`
+
+**Prior art notes:**
+
+> Procept BioRobotics AquaBeam (Redwood City 2017+) is the robotic waterjet ablation system for prostate surgery — heat-free, image-guided, supervised-autonomous resection. 8-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. procept-biorobotics.com (corporate site).
 
 ---
 
@@ -136,4 +155,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

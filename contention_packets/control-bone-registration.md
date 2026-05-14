@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-bone-registration`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `control-bone-registration`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1992-01  
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

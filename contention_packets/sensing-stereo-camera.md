@@ -1,13 +1,13 @@
 ---
 title: "sensing-stereo-camera"
 parent: "Invalidity Contentions"
-nav_order: 269
+nav_order: 271
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-stereo-camera`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `sensing-stereo-camera`  
 **Entries:** 83 (63 commons-grade, 20 draft)  
 **Earliest disclosure:** 1973  
@@ -1739,4 +1739,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

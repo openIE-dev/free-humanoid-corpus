@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `hov`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `hov`  
 **Entries:** 8 (8 commons-grade, 0 draft)  
 **Earliest disclosure:** 1984-12  
@@ -222,4 +222,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

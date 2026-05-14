@@ -1,17 +1,17 @@
 ---
-title: "control-classification"
+title: "sensing-localization"
 parent: "Invalidity Contentions"
-nav_order: 50
+nav_order: 266
 layout: default
 ---
 
-# Invalidity Contention Packet — `control-classification`
+# Invalidity Contention Packet — `sensing-localization`
 
 **Generated:** 2026-05-14  
-**Cross-cut tag:** `control-classification`  
+**Cross-cut tag:** `sensing-localization`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 1995-09  
-**Most recent disclosure:** 2001-10
+**Earliest disclosure:** 1960-01  
+**Most recent disclosure:** 1978-02
 
 ---
 
@@ -19,7 +19,7 @@ layout: default
 
 This document is an invalidity-contention packet — a chronologically-ordered
 list of every disclosed prior art reference in the Free Humanoid Corpus that
-bears on the subsystem `control-classification`.
+bears on the subsystem `sensing-localization`.
 
 To use it:
 
@@ -40,41 +40,41 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
-### 1995-09 — Support Vector Machines (SVM)
+### 1960-01 — Strapdown IMU + Inertial Navigation (1960s; mechanical → MEMS lineage)
 
-- **id:** `svm-cortes-vapnik-1995`
+- **id:** `imu-strapdown-1960s`
 - **corpus:** academic
 - **ip status:** public-domain
-- **creator:** AT&T Bell Laboratories; Corinna Cortes, Vladimir Vapnik
-- **disclosure citation:** Cortes, C., Vapnik, V. 'Support-Vector Networks'. Machine Learning 20(3) 1995. AT&T Bell Laboratories.
-- **disclosed subsystems:** `control-machine-learning`, `control-classification`
+- **creator:** MIT Instrumentation Laboratory (Charles Stark Draper Laboratory); Draper + collaborators
+- **disclosure citation:** Strapdown inertial navigation theory developed at MIT Instrumentation Laboratory (Charles Stark Draper) + others through the 1950s-1960s. First operational strapdown system: NASA SIRU (Strapdown Inertial Reference Unit), 1971. Subsequent: Boeing 757/767 strapdown INS (1980s); MEMS IMU revolution (corpus mems-imu-foundational-1990s) 1990s+.
+- **disclosed subsystems:** `sensing-magnetic`, `sensing-localization`
 
 **Prior art notes:**
 
-> SVM (Cortes-Vapnik Machine Learning 1995) is the foundational margin-maximizing classifier. 30-year-deep public-domain prior art. The dominant ML algorithm pre-2012. Used in many pre-deep-learning robotic-perception systems.
+> Strapdown IMU + Inertial Navigation (MIT Instrumentation Laboratory / Draper Lab 1960s; operational SIRU 1971) is the foundational concept of strapped-down inertial navigation. 60+-year-deep public-domain prior art. Directly underlies MEMS IMU (corpus mems-imu-foundational-1990s); fused with Kalman filter (corpus) + GPS (corpus) for every modern robot's navigation stack.
 
 **Sources:**
 
-1. Cortes, C., Vapnik, V. Machine Learning 20(3) 1995.
+1. Charles Stark Draper Laboratory inertial navigation documentation.
 
 ---
 
-### 2001-10 — Random Forests
+### 1978-02 — GPS / NAVSTAR (US DoD 1978; satellite navigation)
 
-- **id:** `random-forest-breiman-2001`
+- **id:** `gps-navstar-1978`
 - **corpus:** academic
 - **ip status:** public-domain
-- **creator:** UC Berkeley; Leo Breiman
-- **disclosure citation:** Breiman, L. 'Random Forests'. Machine Learning 45(1) 2001. UC Berkeley.
-- **disclosed subsystems:** `control-machine-learning`, `control-classification`, `control-ensemble-method`
+- **creator:** US Department of Defense (Roger Easton NRL + Bradford Parkinson USAF + Aerospace Corporation)
+- **disclosure citation:** US Department of Defense. NAVSTAR GPS — first Block I satellite launched February 1978. Full Operational Capability declared April 1995. Concept developed 1973 (Roger Easton/NRL Timation + Bradford Parkinson/USAF 621B + Aerospace Corp). Selective Availability disabled May 2000 (civilian precision improved 10x).
+- **disclosed subsystems:** `sensing-localization`
 
 **Prior art notes:**
 
-> Random Forests (Breiman Machine Learning 2001) is the foundational ensemble decision-tree algorithm. 24-year-deep public-domain prior art. Used in Microsoft Kinect (round-33) skeletal-tracking 2011 and many pre-deep-learning robotic-perception systems.
+> GPS / NAVSTAR (US DoD 1978-1995) is the foundational satellite navigation system. 47-year-deep public-domain prior art. Global outdoor localization for every outdoor robot + drone + AV.
 
 **Sources:**
 
-1. Breiman, L. Machine Learning 45(1) 2001.
+1. US DoD NAVSTAR GPS documentation.
 
 ---
 

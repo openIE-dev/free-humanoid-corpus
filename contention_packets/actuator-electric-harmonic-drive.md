@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `actuator-electric-harmonic-drive`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `actuator-electric-harmonic-drive`  
 **Entries:** 22 (19 commons-grade, 3 draft)  
 **Earliest disclosure:** 1986  
@@ -509,4 +509,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `manipulator-arm`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `manipulator-arm`  
-**Entries:** 45 (45 commons-grade, 0 draft)  
+**Entries:** 46 (46 commons-grade, 0 draft)  
 **Earliest disclosure:** 1952-03  
 **Most recent disclosure:** 2021-09
 
@@ -308,6 +308,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. lely.com/gb/farming-insights/history-milking-robot/
+
+---
+
+### 1994-01 — CyberKnife (John Adler + Accuray 1994; robotic-arm radiosurgery)
+
+- **id:** `cyberknife-accuray-adler-1994`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Stanford University Medical Center; John R. Adler Jr.; → Accuray Incorporated 1990
+- **disclosure citation:** Adler, J.R. et al. CyberKnife — robotic-arm-mounted linear accelerator for stereotactic radiosurgery. First treatment 1994 at Stanford University Hospital. FDA-cleared for intracranial 1999; extracranial 2001. Commercialized by Accuray Incorporated (founded 1990 by Adler).
+- **disclosed subsystems:** `manipulator-surgical`, `manipulator-arm`
+
+**Prior art notes:**
+
+> CyberKnife (John Adler + Stanford + Accuray 1994+) is the robotic-arm-mounted radiosurgery system — frame-free, whole-body, real-time-tracked stereotactic radiosurgery. 31-year-deep public-disclosure prior art. Conceptual descendant of Gamma Knife (corpus).
+
+**Sources:**
+
+1. accuray.com (corporate site); Stanford CyberKnife history.
 
 ---
 
@@ -930,4 +949,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

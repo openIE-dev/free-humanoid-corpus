@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-rl-policy`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `control-rl-policy`  
 **Entries:** 151 (123 commons-grade, 28 draft)  
 **Earliest disclosure:** 1818  
@@ -3108,4 +3108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*

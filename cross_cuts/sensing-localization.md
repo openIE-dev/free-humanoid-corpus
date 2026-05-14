@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `sensing-localization`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1978-02
+Earliest disclosure: 1960-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Strapdown IMU + Inertial Navigation (1960s; mechanical → MEMS lineage) (1960-01)
+
+- **id**: `imu-strapdown-1960s`
+- **corpus**: academic
+- **creator**: MIT Instrumentation Laboratory (Charles Stark Draper Laboratory); Draper + collaborators
+- **disclosure**: Strapdown inertial navigation theory developed at MIT Instrumentation Laboratory (Charles Stark Draper) + others through the 1950s-1960s. First operational strapdown system: NASA SIRU (Strapdown Inertial Reference Unit), 1971. Subsequent: Boeing 757/767 strapdown INS (1980s); MEMS IMU revolution (corpus mems-imu-foundational-1990s) 1990s+.
+- **ip status**: public-domain
+- **prior art notes**: Strapdown IMU + Inertial Navigation (MIT Instrumentation Laboratory / Draper Lab 1960s; operational SIRU 1971) is the foundational concept of strapped-down inertial navigation. 60+-year-deep public-domain prior art. Directly underlies MEMS IMU (corpus mems-imu-foundational-1990s); fused with Kalman filter (corpus) + GPS (corpus) for every modern robot's navigation stack.
 
 ## GPS / NAVSTAR (US DoD 1978; satellite navigation) (1978-02)
 

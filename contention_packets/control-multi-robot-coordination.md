@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-multi-robot-coordination`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `control-multi-robot-coordination`  
 **Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 2000-01  
@@ -155,4 +155,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `dd66352`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
