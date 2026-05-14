@@ -1,7 +1,7 @@
 ---
 title: "control-world-model"
 parent: "Invalidity Contentions"
-nav_order: 156
+nav_order: 157
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `control-world-model`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2024-02  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 2023-01  
 **Most recent disclosure:** 2025-01
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2023-01 — DreamerV3 (Danijar Hafner et al. 2023; world-model RL)
+
+- **id:** `dreamer-v3-hafner-2023`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Google DeepMind + University of Toronto; Danijar Hafner + Jurgis Pasukonis + Jimmy Ba + Timothy Lillicrap
+- **disclosure citation:** Hafner, D., Pasukonis, J., Ba, J., Lillicrap, T. 'Mastering Diverse Domains through World Models'. arXiv:2301.04104, January 2023. Google DeepMind + University of Toronto. Predecessors: PlaNet (2018), Dreamer (2019), DreamerV2 (2020).
+- **disclosed subsystems:** `ai-foundation-model`, `control-world-model`
+
+**Prior art notes:**
+
+> DreamerV3 (Danijar Hafner et al. Google DeepMind + Toronto, arXiv 2301.04104) is the most-effective general-purpose world-model RL algorithm. 2-year-deep public-domain prior art (5-year for the broader Dreamer lineage).
+
+**Sources:**
+
+1. arxiv.org/abs/2301.04104
+
+---
 
 ### 2024-02 — Genie (Google DeepMind 2024; foundation world model from video)
 
@@ -111,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*

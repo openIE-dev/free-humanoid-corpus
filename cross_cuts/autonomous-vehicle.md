@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `autonomous-vehicle`
 
-**11 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1999-01
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mobileye N.V. (Jerusalem, Israel; founded 1999 by Amnon Shashua). Acquired by Intel for USD 15.3B March 2017 — largest Israeli tech exit at the time.
 - **ip status**: trade-secret
 - **prior art notes**: Mobileye (Jerusalem 1999+; Intel acquisition 2017) is the monocular-camera ADAS pioneer. 26-year-deep public-disclosure prior art.
+
+## DARPA Grand Challenge (2004-2005; the birth of modern autonomous vehicles) (2004-03)
+
+- **id**: `darpa-grand-challenge-2004-2005`
+- **corpus**: academic
+- **creator**: DARPA (Defense Advanced Research Projects Agency, USA); competing teams from Stanford (Thrun), CMU (Whittaker), Carnegie Mellon Tartan Racing, Virginia Tech, MIT, Caltech, Cornell, Velodyne corpus + many others
+- **disclosure**: DARPA Grand Challenge — autonomous-vehicle race across the Mojave Desert. First race March 13, 2004 (no vehicle finished; CMU Sandstorm went the farthest at 11.78 km of a ~240 km course). Second race October 8, 2005: 5 of 23 vehicles completed; Stanford 'Stanley' (Sebastian Thrun) won in 6h54m. Followed by DARPA Urban Challenge November 3, 2007 (Tartan Racing / CMU Boss won).
+- **ip status**: public-domain
+- **prior art notes**: DARPA Grand Challenge 2004-2005 + Urban Challenge 2007 (DARPA + Stanford / CMU / many teams) is the competition that birthed the modern autonomous-vehicle industry. 21-year-deep public-domain prior art. Direct precursor of Waymo (corpus) + Aurora (corpus) + Cruise (corpus) + Zoox (corpus) + Nuro (corpus) + every modern AV company.
 
 ## Komatsu FrontRunner AHS (first commercial autonomous mining truck) (2008-01)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `companion-robot`
 
-**6 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1977-10
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sony Corporation (Tokyo, Japan). AIBO ERS-110 launched May 1999. Carnegie Mellon Robot Hall of Fame 2006. Modern AIBO ERS-1000 revival January 2018.
 - **ip status**: trade-secret
 - **prior art notes**: Sony AIBO (Tokyo 1999+) is the first mass-market robot pet. 26-year-deep public-disclosure prior art.
+
+## Kismet (Cynthia Breazeal MIT 2000; sociable robot + facial expressions) (2000-01)
+
+- **id**: `kismet-breazeal-mit-2000`
+- **corpus**: academic
+- **creator**: MIT Artificial Intelligence Laboratory; Cynthia Breazeal (PhD thesis 2000)
+- **disclosure**: Breazeal, C. PhD thesis 'Sociable Machines: Expressive Social Exchange Between Humans and Robots'. MIT 2000. Breazeal, C. 'Designing Sociable Robots'. MIT Press 2002. Kismet developed at MIT AI Lab (Brooks's group, corpus cog-brooks-mit-1993).
+- **ip status**: academic-publication
+- **prior art notes**: Kismet (Cynthia Breazeal MIT 1997-2000) is the foundational 'sociable robot' — facial-expression + emotion-regulation as the architecture. 25-year-deep academic-publication prior art. Foundational to every subsequent social robot + HRI field. Breazeal → MIT Media Lab → Jibo (corpus).
 
 ## PARO (first FDA-cleared therapeutic robot; baby-harp-seal) (2003-01)
 

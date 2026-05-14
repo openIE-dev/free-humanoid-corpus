@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `autonomous-vehicle`  
-**Entries:** 11 (11 commons-grade, 0 draft)  
+**Entries:** 12 (12 commons-grade, 0 draft)  
 **Earliest disclosure:** 1999-01  
 **Most recent disclosure:** 2021-06
 
@@ -56,6 +56,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. en.wikipedia.org/wiki/Mobileye
+
+---
+
+### 2004-03 — DARPA Grand Challenge (2004-2005; the birth of modern autonomous vehicles)
+
+- **id:** `darpa-grand-challenge-2004-2005`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** DARPA (Defense Advanced Research Projects Agency, USA); competing teams from Stanford (Thrun), CMU (Whittaker), Carnegie Mellon Tartan Racing, Virginia Tech, MIT, Caltech, Cornell, Velodyne corpus + many others
+- **disclosure citation:** DARPA Grand Challenge — autonomous-vehicle race across the Mojave Desert. First race March 13, 2004 (no vehicle finished; CMU Sandstorm went the farthest at 11.78 km of a ~240 km course). Second race October 8, 2005: 5 of 23 vehicles completed; Stanford 'Stanley' (Sebastian Thrun) won in 6h54m. Followed by DARPA Urban Challenge November 3, 2007 (Tartan Racing / CMU Boss won).
+- **disclosed subsystems:** `autonomous-vehicle`
+
+**Prior art notes:**
+
+> DARPA Grand Challenge 2004-2005 + Urban Challenge 2007 (DARPA + Stanford / CMU / many teams) is the competition that birthed the modern autonomous-vehicle industry. 21-year-deep public-domain prior art. Direct precursor of Waymo (corpus) + Aurora (corpus) + Cruise (corpus) + Zoox (corpus) + Nuro (corpus) + every modern AV company.
+
+**Sources:**
+
+1. DARPA Grand Challenge / Urban Challenge documentation 2004-2007.
 
 ---
 
@@ -280,4 +299,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*

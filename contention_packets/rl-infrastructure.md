@@ -1,7 +1,7 @@
 ---
 title: "rl-infrastructure"
 parent: "Invalidity Contentions"
-nav_order: 247
+nav_order: 248
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `rl-infrastructure`  
-**Entries:** 7 (7 commons-grade, 0 draft)  
+**Entries:** 8 (8 commons-grade, 0 draft)  
 **Earliest disclosure:** 2004-01  
 **Most recent disclosure:** 2023-10
 
@@ -139,6 +139,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-12 — NVIDIA Isaac Platform (2017+; the GPU-robotics ecosystem)
+
+- **id:** `nvidia-isaac-platform-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** NVIDIA Corporation (Santa Clara, CA, USA); Jensen Huang + Deepu Talla (Robotics + Edge AI VP)
+- **disclosure citation:** NVIDIA Corporation. Isaac SDK first announced December 2017 (CES 2018). Isaac Sim (PhysX-based + Omniverse-integrated, ~2019). Isaac Gym (massively-parallel GPU RL, 2021). Isaac Lab (open-source RL framework, 2023, successor to Isaac Gym). Isaac ROS (ROS 2 GPU packages). Jetson edge-AI compute modules (TX1 2015 → TX2 → Xavier → Orin → Thor).
+- **disclosed subsystems:** `rl-infrastructure`, `ai-foundation-model`
+
+**Prior art notes:**
+
+> NVIDIA Isaac Platform (NVIDIA Corporation, 2015 Jetson / 2017 Isaac SDK / 2019 Isaac Sim / 2021 Isaac Gym / 2023 Isaac Lab / 2025 GR00T + Cosmos) is the GPU-robotics ecosystem — the dominant robotics-infrastructure stack. 10-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. NVIDIA Isaac + Jetson product documentation.
+
+---
+
 ### 2021-06 — Waabi (Urtasun generative-AI neural simulator AV)
 
 - **id:** `waabi-urtasun-2021`
@@ -207,4 +226,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*

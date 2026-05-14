@@ -1,7 +1,7 @@
 ---
 title: "control-neural-decoding"
 parent: "Invalidity Contentions"
-nav_order: 105
+nav_order: 106
 layout: default
 ---
 
@@ -113,4 +113,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*

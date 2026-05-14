@@ -1,7 +1,7 @@
 ---
 title: "humanoid-bipedal"
 parent: "Invalidity Contentions"
-nav_order: 173
+nav_order: 174
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `humanoid-bipedal`  
-**Entries:** 11 (11 commons-grade, 0 draft)  
-**Earliest disclosure:** 2006-07  
+**Entries:** 15 (15 commons-grade, 0 draft)  
+**Earliest disclosure:** 1993-01  
 **Most recent disclosure:** 2025-08
 
 ---
@@ -39,6 +39,63 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1993-01 — Cog (Rodney Brooks MIT 1993; behavior-based humanoid)
+
+- **id:** `cog-brooks-mit-1993`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** MIT Artificial Intelligence Laboratory; Rodney Brooks (PI) + Cynthia Breazeal + Brian Scassellati + Matthew Marjanović + team
+- **disclosure citation:** Brooks, R.A. + MIT AI Lab. Cog humanoid project 1993-2003. Brooks, R.A. + Stein, L.A. 'Building Brains for Bodies'. MIT AI Lab Memo 1439, 1993. Brooks, R.A. et al. 'The Cog Project: Building a Humanoid Robot'. In 'Computation for Metaphors, Analogy, and Agents'. Springer 1998.
+- **disclosed subsystems:** `humanoid-bipedal`, `control-behavior-based`
+
+**Prior art notes:**
+
+> Cog (Rodney Brooks MIT AI Lab 1993-2003) is the foundational behavior-based humanoid — Brooks's 'embodied AI' manifesto in robot form. 32-year-deep academic-publication prior art. Ancestor of the entire modern humanoid-research lineage.
+
+**Sources:**
+
+1. Brooks, R.A. + Stein, L.A. 'Building Brains for Bodies'. MIT AI Lab Memo 1439, 1993.
+
+---
+
+### 1996-10 — Waseda WABIAN (Takanishi Lab biped lineage; 1996-2010s)
+
+- **id:** `waseda-wabian-takanishi-1996`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** Waseda University Humanoid Robotics Institute; Atsuo Takanishi (PI; continuation of Ichiro Kato lineage)
+- **disclosure citation:** Takanishi, A. et al. Waseda University Humanoid Robotics Institute. WABIAN (WAseda BIped humANoid) first prototype 1996. WABIAN-RIV (2002), WABIAN-2 (2006), WABIAN-2R (2008+). Continuation of Waseda's biped lineage from WL-1 (1967) + WL-9DR (1980) + WHL series + WABOT-1 (corpus wabot-1, 1973).
+- **disclosed subsystems:** `humanoid-bipedal`
+
+**Prior art notes:**
+
+> The Waseda WABIAN biped lineage (Atsuo Takanishi Waseda University Humanoid Robotics Institute 1996-2010s+; continuation of Ichiro Kato 1967+ lineage with WABOT-1 corpus) is the foundational Japanese academic biped research program. 29-year-deep academic-publication prior art (58-year for the broader Kato/Waseda lineage).
+
+**Sources:**
+
+1. Takanishi Lab Waseda University publications.
+
+---
+
+### 1998-04 — AIST HRP-1 + HRP-1S (1998-2001; foundational Japanese humanoid platform)
+
+- **id:** `aist-hrp-1-1998`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** AIST (Tsukuba, Japan) + Kawada Industries; MITI Humanoid Robotics Project; built on Honda P3 corpus chassis
+- **disclosure citation:** AIST (National Institute of Advanced Industrial Science and Technology, Tsukuba, Japan) + Kawada Industries + MITI (Ministry of International Trade and Industry) Humanoid Robotics Project. HRP-1 (1998-2000) was based on Honda P3 (corpus honda-p3) chassis with AIST-developed software stack. HRP-1S (2001) was the second-generation platform.
+- **disclosed subsystems:** `humanoid-bipedal`
+
+**Prior art notes:**
+
+> AIST HRP-1 + HRP-1S (AIST + Kawada Industries + MITI Humanoid Robotics Project, Japan, 1998-2001; built on Honda P3 corpus) is the foundational AIST HRP humanoid platform — the open-research successor to Honda's proprietary P-series. 27-year-deep academic-publication prior art. Established the HRP lineage (HRP-2/4C/5P all corpus).
+
+**Sources:**
+
+1. AIST Humanoid Robotics Project publications, 1998-2002.
+
+---
 
 ### 2006-07 — Ishiguro Geminoid (2006; hyper-realistic android lineage)
 
@@ -75,6 +132,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. University of Michigan Grizzle Lab publications.
+
+---
+
+### 2009-03 — HRP-4C 'Miim' (AIST 2009; female fashion-model humanoid)
+
+- **id:** `hrp-4c-miim-aist-2009`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** AIST (Tsukuba, Japan); Shuuji Kajita + Hirohisa Hirukawa + team
+- **disclosure citation:** AIST (Tsukuba, Japan). HRP-4C 'Miim' (also called 'Cybernetic Human') publicly unveiled March 2009. Successor in the HRP series (corpus aist-hrp-1-1998 → corpus hrp-2 → HRP-3 → HRP-4 → HRP-4C).
+- **disclosed subsystems:** `humanoid-bipedal`
+
+**Prior art notes:**
+
+> HRP-4C 'Miim' (AIST 2009) is the foundational female-presenting fashion-model humanoid — the AIST 'Cybernetic Human' research platform. 16-year-deep academic-publication prior art. Successor in the AIST HRP lineage (corpus aist-hrp-1-1998).
+
+**Sources:**
+
+1. AIST HRP-4C publications, 2009+.
 
 ---
 
@@ -281,4 +357,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*

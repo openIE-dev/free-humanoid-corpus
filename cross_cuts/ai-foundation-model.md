@@ -6,14 +6,68 @@ layout: default
 
 # Cross-cut: `ai-foundation-model`
 
-**75 corpus entries disclose this subsystem.**
+**89 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1979-05
+Earliest disclosure: 1943-12
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## McCulloch-Pitts Neuron (1943; the first artificial neuron model) (1943-12)
+
+- **id**: `mcculloch-pitts-neuron-1943`
+- **corpus**: academic
+- **creator**: Univ. of Illinois at Chicago + Univ. of Chicago; Warren McCulloch (neuropsychiatrist) + Walter Pitts (mathematical prodigy)
+- **disclosure**: McCulloch, W.S., Pitts, W. 'A Logical Calculus of the Ideas Immanent in Nervous Activity'. Bulletin of Mathematical Biophysics 5(4):115-133, December 1943. University of Illinois at Chicago + University of Chicago.
+- **ip status**: public-domain
+- **prior art notes**: The McCulloch-Pitts Neuron (Warren McCulloch + Walter Pitts, Bulletin of Mathematical Biophysics 1943) is the first artificial-neuron model — the foundational unit of every neural network. 82-year-deep public-domain prior art.
+
+## Shannon Information Theory (Claude Shannon 1948) (1948-07)
+
+- **id**: `shannon-information-theory-1948`
+- **corpus**: academic
+- **creator**: Bell Telephone Laboratories; Claude Elwood Shannon
+- **disclosure**: Shannon, C.E. 'A Mathematical Theory of Communication'. Bell System Technical Journal 27(3):379-423 + 27(4):623-666, July + October 1948. Bell Telephone Laboratories.
+- **ip status**: public-domain
+- **prior art notes**: Shannon Information Theory (Claude Shannon, Bell Labs, Bell System Technical Journal 1948) is the founding paper of information theory + the mathematical bedrock of digital communications + data compression + ML. 77-year-deep public-domain prior art.
+
+## Cellular Automata + Conway's Game of Life (von Neumann 1948 / Conway 1970) (1948-09)
+
+- **id**: `cellular-automata-von-neumann-1948`
+- **corpus**: academic
+- **creator**: Institute for Advanced Study (Princeton); John von Neumann (1948-1957) + Stanislaw Ulam; subsequent: John Conway (Cambridge, 1970)
+- **disclosure**: von Neumann, J. 'Theory of Self-Reproducing Automata' (lectures 1948-1949; published posthumously, edited by Arthur Burks, 1966). Institute for Advanced Study, Princeton. Conway, J.H. 'Game of Life' (Gardner, M. 'Mathematical Games', Scientific American October 1970).
+- **ip status**: public-domain
+- **prior art notes**: Cellular Automata + Conway's Game of Life (von Neumann IAS Princeton 1948-1957; Conway Cambridge 1970) are the foundational cellular automata + the mathematical theory of self-reproduction. 77-year-deep public-domain prior art (von Neumann work). Theoretical basis of self-replicating robots + swarm robotics.
+
+## Turing 'Computing Machinery and Intelligence' (1950; the Turing Test) (1950-10)
+
+- **id**: `turing-imitation-game-1950`
+- **corpus**: academic
+- **creator**: National Physical Laboratory + University of Manchester; Alan Turing
+- **disclosure**: Turing, A.M. 'Computing Machinery and Intelligence'. Mind LIX(236):433-460, October 1950. National Physical Laboratory + Manchester. Earlier: 'On Computable Numbers' (1936) — the Turing machine.
+- **ip status**: public-domain
+- **prior art notes**: Turing 'Computing Machinery and Intelligence' (Alan Turing, NPL + Manchester, Mind 1950) is the founding paper of AI philosophy — the Imitation Game / Turing Test. 75-year-deep public-domain prior art.
+
+## Newell-Simon Logic Theorist (1955-1956; the first AI program) (1955-12)
+
+- **id**: `newell-simon-logic-theorist-1955`
+- **corpus**: academic
+- **creator**: RAND Corporation + Carnegie Institute of Technology; Allen Newell + J. Cliff Shaw + Herbert A. Simon
+- **disclosure**: Newell, A., Shaw, J.C., Simon, H.A. 'The Logic Theory Machine'. IRE Transactions on Information Theory IT-2(3):61-79, September 1956. RAND Corporation + Carnegie Tech (later CMU). Logic Theorist first ran December 1955.
+- **ip status**: public-domain
+- **prior art notes**: The Newell-Simon Logic Theorist (Allen Newell + J.C. Shaw + Herbert Simon, RAND + Carnegie Tech 1955-1956) is the first AI program. 70-year-deep public-domain prior art. Presented at the Dartmouth Summer Research Project on AI (corpus dartmouth-summer-1956).
+
+## Dartmouth Summer Research Project on Artificial Intelligence (1956) (1956-06)
+
+- **id**: `dartmouth-summer-1956`
+- **corpus**: academic
+- **creator**: Dartmouth College; John McCarthy + Marvin Minsky + Nathaniel Rochester + Claude Shannon (proposers) + Allen Newell + Herbert Simon + Arthur Samuel + Ray Solomonoff + others (attendees)
+- **disclosure**: McCarthy, J., Minsky, M., Rochester, N., Shannon, C.E. 'A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence'. Submitted August 31, 1955; convened June-August 1956 at Dartmouth College. Coined the term 'Artificial Intelligence'.
+- **ip status**: public-domain
+- **prior art notes**: The Dartmouth Summer Research Project on Artificial Intelligence (McCarthy + Minsky + Rochester + Shannon, Dartmouth College, June-August 1956) is the founding event of AI as a discipline. 69-year-deep public-domain prior art.
 
 ## Mother / MU-TH-UR 6000 (Alien; 1979) (1979-05)
 
@@ -42,6 +96,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Lucas-Kanade Optical Flow (Lucas & Kanade CMU IJCAI 1981; KLT Tomasi & Kanade 1991) is the foundational differential optical-flow + feature-tracking method. 44-year-deep public-domain prior art.
 
+## Hopfield Networks (John Hopfield 1982; 2024 Nobel Prize in Physics) (1982-04)
+
+- **id**: `hopfield-networks-1982`
+- **corpus**: academic
+- **creator**: Bell Labs / Princeton / Caltech; John J. Hopfield
+- **disclosure**: Hopfield, J.J. 'Neural networks and physical systems with emergent collective computational abilities'. Proceedings of the National Academy of Sciences 79(8):2554-2558, April 1982. Bell Labs / Princeton / Caltech. **2024 Nobel Prize in Physics** to John Hopfield + Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks'.
+- **ip status**: public-domain
+- **prior art notes**: Hopfield Networks (John Hopfield, Bell Labs / Princeton / Caltech, PNAS 1982; **2024 Nobel Prize in Physics**) are the foundational associative-memory neural network. 43-year-deep public-domain prior art.
+
 ## Skynet (The Terminator; 1984) (1984-10)
 
 - **id**: `skynet-terminator-1984`
@@ -69,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Harris Corner Detector (Harris & Stephens Plessey Alvey Vision Conference 1988) is the foundational corner/interest-point detector. 37-year-deep public-domain prior art. Predecessor of SIFT (corpus).
 
+## FIRST Robotics Competition (Dean Kamen 1989; K-12 robotics education) (1989-01)
+
+- **id**: `first-robotics-competition-kamen-1989`
+- **corpus**: private
+- **creator**: FIRST (Manchester, NH, USA); Dean Kamen (founder; also DEKA + iBOT corpus + LUKE arm corpus + Segway)
+- **disclosure**: Kamen, D. FIRST (For Inspiration and Recognition of Science and Technology) founded 1989 in Manchester, NH. First FIRST Robotics Competition (FRC) held 1992 at Manchester High School. Subsequent: FIRST LEGO League (FLL, 1998), FIRST Tech Challenge (FTC, 2005), FIRST LEGO League Jr. (2004).
+- **ip status**: public-domain
+- **prior art notes**: FIRST Robotics Competition (Dean Kamen, Manchester NH, 1989+) is the world's largest K-12 robotics education + competition program. 36-year-deep public-disclosure prior art. Dean Kamen also: DEKA + iBOT (corpus) + LUKE arm (corpus) + Segway.
+
 ## LeNet-5 (Yann LeCun 1998; foundational CNN for digit recognition) (1989-11)
 
 - **id**: `lenet-lecun-1998`
@@ -86,6 +158,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Besl, P.J., McKay, N.D. 'A Method for Registration of 3-D Shapes'. IEEE Transactions on Pattern Analysis and Machine Intelligence 14(2):239-256, February 1992. General Motors Research Laboratories. (Independent near-simultaneous: Chen & Medioni 1991.)
 - **ip status**: public-domain
 - **prior art notes**: ICP (Besl & McKay GM Research IEEE PAMI 1992) is the foundational 3D point-cloud registration algorithm. 33-year-deep public-domain prior art.
+
+## RoboCup (1996; foundational robotics competition) (1996-08)
+
+- **id**: `robocup-1996`
+- **corpus**: academic
+- **creator**: Hiroaki Kitano (Sony CSL) + Minoru Asada (Osaka University) + Yasuo Kuniyoshi (Univ. Tokyo) + Itsuki Noda (Electrotechnical Lab) + Eiichi Osawa (Sony CSL)
+- **disclosure**: Kitano, H., Asada, M., Kuniyoshi, Y., Noda, I., Osawa, E. 'RoboCup: The Robot World Cup Initiative'. IJCAI-95 Workshop on Entertainment and AI/Alife, August 1995; AAAI-96 paper. First RoboCup competition: August 1997 (Nagoya, Japan).
+- **ip status**: public-domain
+- **prior art notes**: RoboCup (Kitano + Asada + Kuniyoshi + Noda + Osawa, 1996/1997+) is the foundational robotics competition. 29-year-deep public-domain prior art. Proving ground for countless robotics researchers + the broader 'audacious 50-year goal' research-agenda framing.
 
 ## PageRank (Brin & Page 1998; the algorithm that built Google) (1998-04)
 
@@ -348,6 +429,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: academic-publication
 - **prior art notes**: AlphaZero (DeepMind Silver et al. arXiv 1712.01815, Science 2018) is the tabula-rasa self-play foundational result. 8-year-deep academic-publication prior art.
 
+## NVIDIA Isaac Platform (2017+; the GPU-robotics ecosystem) (2017-12)
+
+- **id**: `nvidia-isaac-platform-2017`
+- **corpus**: private
+- **creator**: NVIDIA Corporation (Santa Clara, CA, USA); Jensen Huang + Deepu Talla (Robotics + Edge AI VP)
+- **disclosure**: NVIDIA Corporation. Isaac SDK first announced December 2017 (CES 2018). Isaac Sim (PhysX-based + Omniverse-integrated, ~2019). Isaac Gym (massively-parallel GPU RL, 2021). Isaac Lab (open-source RL framework, 2023, successor to Isaac Gym). Isaac ROS (ROS 2 GPU packages). Jetson edge-AI compute modules (TX1 2015 → TX2 → Xavier → Orin → Thor).
+- **ip status**: trade-secret
+- **prior art notes**: NVIDIA Isaac Platform (NVIDIA Corporation, 2015 Jetson / 2017 Isaac SDK / 2019 Isaac Sim / 2021 Isaac Gym / 2023 Isaac Lab / 2025 GR00T + Cosmos) is the GPU-robotics ecosystem — the dominant robotics-infrastructure stack. 10-year-deep public-disclosure prior art.
+
 ## GPT lineage (GPT-1 / GPT-2 / GPT-3 / GPT-4 / GPT-5; OpenAI) (2018-06)
 
 - **id**: `gpt-lineage-openai-2018-2024`
@@ -365,6 +455,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: OpenAI. OpenAI Five — a team of 5 RL agents playing Dota 2. First public demo June 2018; lost to pro teams at The International 2018; defeated the world-champion team OG in April 2019 (best-of-three). Technical report: Berner et al. 'Dota 2 with Large Scale Deep Reinforcement Learning'. arXiv:1912.06680, December 2019.
 - **ip status**: academic-publication
 - **prior art notes**: OpenAI Five (OpenAI 2018-2019; arXiv 1912.06680) is the deep-RL agent team that mastered Dota 2 — long-horizon, partial-information, real-time team play. 7-year-deep academic-publication prior art. Partner result to DeepMind AlphaStar (corpus); uses LSTM (corpus) + PPO (corpus).
+
+## Neural ODE (Chen et al. 2018; continuous-depth neural networks) (2018-06)
+
+- **id**: `neural-ode-chen-2018`
+- **corpus**: academic
+- **creator**: University of Toronto; Ricky T.Q. Chen + Yulia Rubanova + Jesse Bettencourt + David Duvenaud
+- **disclosure**: Chen, R.T.Q., Rubanova, Y., Bettencourt, J., Duvenaud, D. 'Neural Ordinary Differential Equations'. NeurIPS 2018 best paper, arXiv:1806.07366. University of Toronto.
+- **ip status**: public-domain
+- **prior art notes**: Neural ODE (Chen + Rubanova + Bettencourt + Duvenaud, University of Toronto, NeurIPS 2018 best paper) is the foundational continuous-depth neural-network architecture. 7-year-deep public-domain prior art.
 
 ## BERT (Devlin et al. Google 2018; bidirectional encoder) (2018-10)
 
@@ -438,6 +537,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: SuperGlue + SuperPoint + LightGlue (Magic Leap + ETH 2018-2023) are the learned replacement for hand-crafted feature detection + matching. 7-year-deep open-permissive prior art (5-year for SuperGlue). The modern successor to Harris corner detector (corpus) + SIFT (corpus) + nearest-neighbor matching.
 
+## Liquid Neural Networks (Hasani MIT CSAIL 2020; C. elegans-inspired) (2020-06)
+
+- **id**: `liquid-neural-networks-hasani-mit-2020`
+- **corpus**: academic
+- **creator**: MIT CSAIL + TU Vienna; Ramin Hasani + Mathias Lechner + Alexander Amini + Daniela Rus + Radu Grosu
+- **disclosure**: Hasani, R., Lechner, M., Amini, A., Rus, D., Grosu, R. 'Liquid Time-constant Networks'. arXiv:2006.04439, June 2020; AAAI 2021. MIT CSAIL + TU Vienna. Hasani et al. 'Closed-form Continuous-time Neural Networks'. Nature Machine Intelligence November 2022.
+- **ip status**: public-domain
+- **prior art notes**: Liquid Neural Networks (Ramin Hasani + Mathias Lechner + Alexander Amini + Daniela Rus + Radu Grosu, MIT CSAIL + TU Vienna, AAAI 2021 + Nature MI 2022) are the C. elegans-inspired continuous-time neural networks. 5-year-deep public-domain prior art. Liquid AI commercial spinout 2023. Biology-inspired counter-thesis to scale-everything approaches.
+
 ## Vision Transformer (ViT; Dosovitskiy et al. Google 2020) (2020-10)
 
 - **id**: `vision-transformer-vit-dosovitskiy-2020`
@@ -473,6 +581,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hu, E.J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., Chen, W. 'LoRA: Low-Rank Adaptation of Large Language Models'. arXiv:2106.09685, ICLR 2022. Microsoft Research. QLoRA (Dettmers et al. 2023) extends to quantized models.
 - **ip status**: open-permissive
 - **prior art notes**: LoRA (Hu et al. Microsoft Research arXiv 2106.09685) is the foundational parameter-efficient fine-tuning method. 4-year-deep open-permissive prior art. Foundational to VLA robot-policy adaptation (Pi-0.5/OpenVLA corpus) + the open-source fine-tune ecosystem.
+
+## AI Coding Assistant Lineage (Copilot / Cursor / Claude Code; 2021-2026) (2021-06)
+
+- **id**: `ai-coding-assistant-lineage-2021`
+- **corpus**: private
+- **creator**: OpenAI (Codex 2021) + GitHub (Copilot) + Anthropic (Claude Code 2024) + Anysphere/Cursor (2022) + Cognition (Devin 2024) + Tabnine + Sourcegraph Cody + others
+- **disclosure**: OpenAI Codex (June 2021). GitHub Copilot (technical preview June 2021; GA June 2022; built on Codex/GPT). Cursor (founded 2022 by Anysphere team — Michael Truell + Sualeh Asif + Aman Sanger + Arvid Lunnemark — MIT students; commercial product 2023). Claude Code (Anthropic, October 2024 limited research preview; GA February 2025). Subsequent: Devin (Cognition, 2024), GitHub Copilot Workspace, OpenAI o1-Pro coding.
+- **ip status**: trade-secret
+- **prior art notes**: The AI Coding Assistant Lineage (OpenAI Codex 2021 → GitHub Copilot 2021/2022 → Cursor 2022/2023 → Devin 2024 → Claude Code 2024/2025) is the first commercially-successful agentic-AI deployment at scale. 5-year-deep public-disclosure prior art. Directly relevant to the robotics-FM agentic-control evolution — Claude Code's tool-use + long-horizon planning + error-recovery loop is the same architectural pattern that VLA-based humanoid agents need.
 
 ## Chain-of-Thought Prompting (Wei et al. Google 2022) (2022-01)
 
@@ -572,6 +689,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Field AI (Mission Viejo, CA, USA; founded 2023 by Ali Agha + Shayegan Omidshafiei + David Fan, ex-JPL/DARPA/DeepMind). $405M raised.
 - **ip status**: trade-secret
 - **prior art notes**: Field AI (Mission Viejo 2023+) is the outdoor-environment robotics-FM lab. 2-year-deep public-disclosure prior art.
+
+## DreamerV3 (Danijar Hafner et al. 2023; world-model RL) (2023-01)
+
+- **id**: `dreamer-v3-hafner-2023`
+- **corpus**: academic
+- **creator**: Google DeepMind + University of Toronto; Danijar Hafner + Jurgis Pasukonis + Jimmy Ba + Timothy Lillicrap
+- **disclosure**: Hafner, D., Pasukonis, J., Ba, J., Lillicrap, T. 'Mastering Diverse Domains through World Models'. arXiv:2301.04104, January 2023. Google DeepMind + University of Toronto. Predecessors: PlaNet (2018), Dreamer (2019), DreamerV2 (2020).
+- **ip status**: public-domain
+- **prior art notes**: DreamerV3 (Danijar Hafner et al. Google DeepMind + Toronto, arXiv 2301.04104) is the most-effective general-purpose world-model RL algorithm. 2-year-deep public-domain prior art (5-year for the broader Dreamer lineage).
 
 ## LLaMA (Meta open-weight LLM lineage; 2023-2025) (2023-02)
 

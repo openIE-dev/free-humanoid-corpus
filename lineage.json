@@ -330,6 +330,18 @@
       "descendants": []
     },
     {
+      "id": "mcculloch-pitts-neuron-1943",
+      "name": "McCulloch-Pitts Neuron (1943; the first artificial neuron model)",
+      "year": "1943",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "backpropagation-rumelhart-hinton-1986",
+        "hopfield-networks-1982",
+        "lenet-lecun-1998"
+      ]
+    },
+    {
       "id": "williamson-folded-hands",
       "name": "Humanoids (With Folded Hands)",
       "year": "1947",
@@ -345,6 +357,30 @@
       "id": "wiener-cybernetics-1948",
       "name": "Cybernetics (Norbert Wiener 1948)",
       "year": "1948",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "shannon-information-theory-1948",
+      "name": "Shannon Information Theory (Claude Shannon 1948)",
+      "year": "1948",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cellular-automata-von-neumann-1948",
+      "name": "Cellular Automata + Conway's Game of Life (von Neumann 1948 / Conway 1970)",
+      "year": "1948",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "turing-imitation-game-1950",
+      "name": "Turing 'Computing Machinery and Intelligence' (1950; the Turing Test)",
+      "year": "1950",
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
@@ -434,6 +470,16 @@
       "descendants": []
     },
     {
+      "id": "newell-simon-logic-theorist-1955",
+      "name": "Newell-Simon Logic Theorist (1955-1956; the first AI program)",
+      "year": "1955",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "dartmouth-summer-1956"
+      ]
+    },
+    {
       "id": "fanuc-industrial-robotics-1956",
       "name": "FANUC industrial robotics",
       "year": "1956",
@@ -457,6 +503,16 @@
       "year": "1956",
       "corpus": "fictional",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dartmouth-summer-1956",
+      "name": "Dartmouth Summer Research Project on Artificial Intelligence (1956)",
+      "year": "1956",
+      "corpus": "academic",
+      "ancestors": [
+        "newell-simon-logic-theorist-1955"
+      ],
       "descendants": []
     },
     {
@@ -867,7 +923,8 @@
         "kajita-lipm",
         "pratt-capture-point-2007",
         "wabian-2",
-        "wabot-1"
+        "wabot-1",
+        "waseda-wabian-takanishi-1996"
       ]
     },
     {
@@ -967,7 +1024,8 @@
         "honda-e0",
         "hrp-2",
         "hubo",
-        "wabian-2"
+        "wabian-2",
+        "waseda-wabian-takanishi-1996"
       ]
     },
     {
@@ -1345,6 +1403,16 @@
       "descendants": []
     },
     {
+      "id": "hopfield-networks-1982",
+      "name": "Hopfield Networks (John Hopfield 1982; 2024 Nobel Prize in Physics)",
+      "year": "1982",
+      "corpus": "academic",
+      "ancestors": [
+        "mcculloch-pitts-neuron-1943"
+      ],
+      "descendants": []
+    },
+    {
       "id": "akira-tetsuo-1988",
       "name": "Akira (Tetsuo cyborg-mutation, Akira containment)",
       "year": "1982",
@@ -1568,7 +1636,9 @@
       "name": "Backpropagation",
       "year": "1986",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "mcculloch-pitts-neuron-1943"
+      ],
       "descendants": [
         "lenet-lecun-1998"
       ]
@@ -1757,6 +1827,17 @@
       ]
     },
     {
+      "id": "first-robotics-competition-kamen-1989",
+      "name": "FIRST Robotics Competition (Dean Kamen 1989; K-12 robotics education)",
+      "year": "1989",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "lego-mindstorms-1998",
+        "vex-robotics-2005"
+      ]
+    },
+    {
       "id": "slocum-glider-auv",
       "name": "Slocum Glider",
       "year": "1989",
@@ -1842,7 +1923,8 @@
       "year": "1989",
       "corpus": "academic",
       "ancestors": [
-        "backpropagation-rumelhart-hinton-1986"
+        "backpropagation-rumelhart-hinton-1986",
+        "mcculloch-pitts-neuron-1943"
       ],
       "descendants": [
         "alexnet-krizhevsky-2012",
@@ -2098,6 +2180,20 @@
       ]
     },
     {
+      "id": "cog-brooks-mit-1993",
+      "name": "Cog (Rodney Brooks MIT 1993; behavior-based humanoid)",
+      "year": "1993",
+      "corpus": "academic",
+      "ancestors": [
+        "pratt-williamson-sea"
+      ],
+      "descendants": [
+        "irobot-roomba-2002",
+        "kismet-breazeal-mit-2000",
+        "rethink-baxter-sawyer-2012"
+      ]
+    },
+    {
       "id": "cyberknife-accuray-adler-1994",
       "name": "CyberKnife (John Adler + Accuray 1994; robotic-arm radiosurgery)",
       "year": "1994",
@@ -2251,6 +2347,7 @@
         "atrias",
         "biom-empower-herr-mit-2007",
         "cassie-osu",
+        "cog-brooks-mit-1993",
         "digit-meta",
         "hwangbo-anymal-sim2real",
         "iit-walk-man-r1-italy-2015",
@@ -2319,12 +2416,31 @@
       "descendants": []
     },
     {
+      "id": "robocup-1996",
+      "name": "RoboCup (1996; foundational robotics competition)",
+      "year": "1996",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "autosub-noc-southampton-1996",
       "name": "Autosub family (NOC Southampton UK; Boaty McBoatface)",
       "year": "1996",
       "corpus": "academic",
       "ancestors": [
         "spurv-uw-apl-1957"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "waseda-wabian-takanishi-1996",
+      "name": "Waseda WABIAN (Takanishi Lab biped lineage; 1996-2010s)",
+      "year": "1996",
+      "corpus": "academic",
+      "ancestors": [
+        "vukobratovic-zmp",
+        "wabot-1"
       ],
       "descendants": []
     },
@@ -2365,6 +2481,7 @@
         "honda-p2"
       ],
       "descendants": [
+        "aist-hrp-1-1998",
         "asimo"
       ]
     },
@@ -2416,6 +2533,20 @@
       "descendants": []
     },
     {
+      "id": "aist-hrp-1-1998",
+      "name": "AIST HRP-1 + HRP-1S (1998-2001; foundational Japanese humanoid platform)",
+      "year": "1998",
+      "corpus": "academic",
+      "ancestors": [
+        "honda-p3"
+      ],
+      "descendants": [
+        "hrp-2",
+        "hrp-4c-miim-aist-2009",
+        "hrp-5p"
+      ]
+    },
+    {
       "id": "cowboy-bebop-pierrot-1998",
       "name": "Cowboy Bebop (Pierrot Le Fou cyborg, MPU and AI antagonists)",
       "year": "1998",
@@ -2444,7 +2575,9 @@
       "name": "LEGO Mindstorms (foundational educational robotics kit)",
       "year": "1998",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "first-robotics-competition-kamen-1989"
+      ],
       "descendants": []
     },
     {
@@ -2737,6 +2870,20 @@
       "descendants": []
     },
     {
+      "id": "kismet-breazeal-mit-2000",
+      "name": "Kismet (Cynthia Breazeal MIT 2000; sociable robot + facial expressions)",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [
+        "cog-brooks-mit-1993"
+      ],
+      "descendants": [
+        "jibo-anki-defunct-social-robots-2017",
+        "lovot-groove-x-2018",
+        "paro-aist-2003"
+      ]
+    },
+    {
       "id": "kist-korea-academic-robotics",
       "name": "KIST Korea Institute of Science and Technology robotics",
       "year": "2000",
@@ -3015,6 +3162,7 @@
       "year": "2002",
       "corpus": "academic",
       "ancestors": [
+        "aist-hrp-1-1998",
         "goswami-fri",
         "kajita-lipm",
         "vukobratovic-zmp",
@@ -3100,6 +3248,7 @@
       "year": "2002",
       "corpus": "private",
       "ancestors": [
+        "cog-brooks-mit-1993",
         "rosie-jetsons-1962"
       ],
       "descendants": []
@@ -3183,7 +3332,9 @@
       "name": "PARO (first FDA-cleared therapeutic robot; baby-harp-seal)",
       "year": "2003",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "kismet-breazeal-mit-2000"
+      ],
       "descendants": []
     },
     {
@@ -3367,6 +3518,18 @@
       ]
     },
     {
+      "id": "darpa-grand-challenge-2004-2005",
+      "name": "DARPA Grand Challenge (2004-2005; the birth of modern autonomous vehicles)",
+      "year": "2004",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "aurora-innovation-2017",
+        "velodyne-hdl-64-lidar-2007",
+        "waymo-google-self-driving-car-2009"
+      ]
+    },
+    {
       "id": "cyberdyne-hal-sankai-2004",
       "name": "Cyberdyne HAL (Hybrid Assistive Limb)",
       "year": "2004",
@@ -3508,7 +3671,9 @@
       "name": "VEX Robotics (educational competition robotics platform)",
       "year": "2005",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "first-robotics-competition-kamen-1989"
+      ],
       "descendants": []
     },
     {
@@ -3711,6 +3876,7 @@
       "year": "2007",
       "corpus": "private",
       "ancestors": [
+        "darpa-grand-challenge-2004-2005",
         "lidar-hughes-aircraft-1961"
       ],
       "descendants": []
@@ -4079,7 +4245,9 @@
       "name": "Waymo / Google Self-Driving Car",
       "year": "2009",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "darpa-grand-challenge-2004-2005"
+      ],
       "descendants": []
     },
     {
@@ -4089,6 +4257,16 @@
       "corpus": "private",
       "ancestors": [
         "berkeley-bleex-kazerooni-2004"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "hrp-4c-miim-aist-2009",
+      "name": "HRP-4C 'Miim' (AIST 2009; female fashion-model humanoid)",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [
+        "aist-hrp-1-1998"
       ],
       "descendants": []
     },
@@ -4800,6 +4978,7 @@
       "year": "2012",
       "corpus": "private",
       "ancestors": [
+        "cog-brooks-mit-1993",
         "pratt-williamson-sea"
       ],
       "descendants": []
@@ -5966,7 +6145,8 @@
         "lenet-lecun-1998"
       ],
       "descendants": [
-        "mask-rcnn-he-2017"
+        "mask-rcnn-he-2017",
+        "neural-ode-chen-2018"
       ]
     },
     {
@@ -6356,7 +6536,9 @@
       "name": "Aurora Innovation (consolidator of Waymo + Tesla + Uber AV alums)",
       "year": "2017",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "darpa-grand-challenge-2004-2005"
+      ],
       "descendants": []
     },
     {
@@ -6827,7 +7009,9 @@
       "name": "Defunct social robots (Jibo + Anki Cozmo + Anki Vector)",
       "year": "2017",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "kismet-breazeal-mit-2000"
+      ],
       "descendants": []
     },
     {
@@ -6879,6 +7063,17 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "nvidia-isaac-platform-2017",
+      "name": "NVIDIA Isaac Platform (2017+; the GPU-robotics ecosystem)",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "nvidia-cosmos-2025",
+        "nvidia-groot-n1-2025"
+      ]
     },
     {
       "id": "ros-2-2017",
@@ -7174,7 +7369,20 @@
         "transformer-vaswani-2017"
       ],
       "descendants": [
+        "ai-coding-assistant-lineage-2021",
         "instructgpt-ouyang-openai-2022"
+      ]
+    },
+    {
+      "id": "neural-ode-chen-2018",
+      "name": "Neural ODE (Chen et al. 2018; continuous-depth neural networks)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "resnet-he-2015"
+      ],
+      "descendants": [
+        "liquid-neural-networks-hasani-mit-2020"
       ]
     },
     {
@@ -7205,6 +7413,7 @@
       "year": "2018",
       "corpus": "academic",
       "ancestors": [
+        "aist-hrp-1-1998",
         "hrp-2",
         "hrp-4",
         "kajita-lipm"
@@ -7319,7 +7528,9 @@
       "name": "Lovot (Groove X affection-only companion)",
       "year": "2018",
       "corpus": "private",
-      "ancestors": [],
+      "ancestors": [
+        "kismet-breazeal-mit-2000"
+      ],
       "descendants": []
     },
     {
@@ -7659,7 +7870,9 @@
       "ancestors": [
         "alphazero-deepmind-2017"
       ],
-      "descendants": []
+      "descendants": [
+        "dreamer-v3-hafner-2023"
+      ]
     },
     {
       "id": "reachy",
@@ -7810,6 +8023,16 @@
         "rdt-1b-thu-2024",
         "stable-diffusion-rombach-2022"
       ]
+    },
+    {
+      "id": "liquid-neural-networks-hasani-mit-2020",
+      "name": "Liquid Neural Networks (Hasani MIT CSAIL 2020; C. elegans-inspired)",
+      "year": "2020",
+      "corpus": "academic",
+      "ancestors": [
+        "neural-ode-chen-2018"
+      ],
+      "descendants": []
     },
     {
       "id": "superglue-sarlin-2020",
@@ -8036,6 +8259,17 @@
       "year": "2021",
       "corpus": "academic",
       "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ai-coding-assistant-lineage-2021",
+      "name": "AI Coding Assistant Lineage (Copilot / Cursor / Claude Code; 2021-2026)",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "claude-anthropic-2021",
+        "gpt-lineage-openai-2018-2024"
+      ],
       "descendants": []
     },
     {
@@ -8571,7 +8805,9 @@
         "instructgpt-ouyang-openai-2022",
         "transformer-vaswani-2017"
       ],
-      "descendants": []
+      "descendants": [
+        "ai-coding-assistant-lineage-2021"
+      ]
     },
     {
       "id": "diffusion-transformers-dit-peebles-2022",
@@ -8631,6 +8867,16 @@
       "ancestors": [
         "dex-net-goldberg-berkeley-2017",
         "graspnet-1billion-fang-sjtu-2020"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "dreamer-v3-hafner-2023",
+      "name": "DreamerV3 (Danijar Hafner et al. 2023; world-model RL)",
+      "year": "2023",
+      "corpus": "academic",
+      "ancestors": [
+        "muzero-deepmind-2019"
       ],
       "descendants": []
     },
@@ -9967,7 +10213,9 @@
       "name": "NVIDIA Cosmos",
       "year": "2025",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "nvidia-isaac-platform-2017"
+      ],
       "descendants": [
         "cosmos-reason-2-nvidia-2025",
         "nvidia-groot-n1-2025"
@@ -10048,7 +10296,8 @@
       "corpus": "academic",
       "ancestors": [
         "cosmos-reason-2-nvidia-2025",
-        "nvidia-cosmos-2025"
+        "nvidia-cosmos-2025",
+        "nvidia-isaac-platform-2017"
       ],
       "descendants": []
     },

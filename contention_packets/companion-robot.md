@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `companion-robot`  
-**Entries:** 6 (6 commons-grade, 0 draft)  
+**Entries:** 7 (7 commons-grade, 0 draft)  
 **Earliest disclosure:** 1977-10  
 **Most recent disclosure:** 2018-12
 
@@ -94,6 +94,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. en.wikipedia.org/wiki/AIBO
+
+---
+
+### 2000-01 — Kismet (Cynthia Breazeal MIT 2000; sociable robot + facial expressions)
+
+- **id:** `kismet-breazeal-mit-2000`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** MIT Artificial Intelligence Laboratory; Cynthia Breazeal (PhD thesis 2000)
+- **disclosure citation:** Breazeal, C. PhD thesis 'Sociable Machines: Expressive Social Exchange Between Humans and Robots'. MIT 2000. Breazeal, C. 'Designing Sociable Robots'. MIT Press 2002. Kismet developed at MIT AI Lab (Brooks's group, corpus cog-brooks-mit-1993).
+- **disclosed subsystems:** `companion-robot`, `control-behavior-based`
+
+**Prior art notes:**
+
+> Kismet (Cynthia Breazeal MIT 1997-2000) is the foundational 'sociable robot' — facial-expression + emotion-regulation as the architecture. 25-year-deep academic-publication prior art. Foundational to every subsequent social robot + HRI field. Breazeal → MIT Media Lab → Jibo (corpus).
+
+**Sources:**
+
+1. Breazeal, C. PhD thesis, MIT 2000.
+2. Breazeal, C. 'Designing Sociable Robots'. MIT Press 2002.
 
 ---
 
@@ -185,4 +205,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*

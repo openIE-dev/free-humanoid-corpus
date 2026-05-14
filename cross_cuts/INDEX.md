@@ -57,9 +57,9 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-wave-power` | 1 | 2007-01 |
 | `actuator-wind-solar` | 1 | 2013-09 |
 | `agriculture-robot` | 9 | 1992-08 |
-| `ai-foundation-model` | 75 | 1979-05 |
+| `ai-foundation-model` | 89 | 1943-12 |
 | `automaton-historical` | 11 | 0070-01 |
-| `autonomous-vehicle` | 11 | 1999-01 |
+| `autonomous-vehicle` | 12 | 1999-01 |
 | `auv` | 11 | 1957-08 |
 | `auv-amphibious` | 1 | 2019-02 |
 | `auv-glider` | 2 | 2001-01 |
@@ -73,7 +73,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `bci-fictional-extremis` | 2 | 2005-12 |
 | `bci-microelectrode-array` | 1 | 1991-01 |
 | `biomimetic-aquatic` | 7 | 1972-01 |
-| `companion-robot` | 6 | 1977-10 |
+| `companion-robot` | 7 | 1977-10 |
 | `construction-robot` | 2 | 2016-09 |
 | `control-3d-perception` | 4 | 2016-12 |
 | `control-3d-reconstruction` | 3 | 2023-12 |
@@ -97,7 +97,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-autonomy-stack` | 3 | 2016-04 |
 | `control-balancing` | 1 | 1999-06 |
 | `control-bci` | 3 | 2002-07 |
-| `control-behavior-based` | 1 | 2007-07 |
+| `control-behavior-based` | 3 | 1993-01 |
 | `control-behavior-tree` | 12 | 1772 |
 | `control-benchmarking` | 7 | 2018-01 |
 | `control-bilateral-teleop-haptic` | 4 | 2011-06 |
@@ -355,7 +355,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-whole-body-qp` | 3 | 2003-09 |
 | `control-wireless-teach` | 1 | 2014-01 |
 | `control-word-embedding` | 1 | 2013-01 |
-| `control-world-model` | 2 | 2024-02 |
+| `control-world-model` | 3 | 2023-01 |
 | `control-zmp-balancing` | 25 | 1969 |
 | `delivery-robot` | 1 | 2014-07 |
 | `domestic-mower` | 1 | 1995-01 |
@@ -388,7 +388,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `food-prep-robot` | 2 | 2017-03 |
 | `hov` | 8 | 1984-12 |
 | `hov-bathyscaphe` | 1 | 1953-08 |
-| `humanoid-bipedal` | 11 | 2006-07 |
+| `humanoid-bipedal` | 15 | 1993-01 |
 | `humanoid-companion-space` | 1 | 2013-08 |
 | `humanoid-fictional` | 14 | 1495-01 |
 | `humanoid-wheeled` | 3 | 1962-09 |
@@ -532,7 +532,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `power-pressure-balanced-li-ion` | 3 | 2003-09 |
 | `power-tethered` | 13 | 1973 |
 | `quadruped-robot` | 8 | 1999-05 |
-| `rl-infrastructure` | 7 | 2004-01 |
+| `rl-infrastructure` | 8 | 2004-01 |
 | `robot-other` | 3 | 2002-10 |
 | `rov` | 6 | 1965-01 |
 | `rover-asteroid` | 1 | 2014-12 |

@@ -1,7 +1,7 @@
 ---
 title: "end-effector-prosthetic"
 parent: "Invalidity Contentions"
-nav_order: 161
+nav_order: 162
 layout: default
 ---
 
@@ -128,4 +128,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*

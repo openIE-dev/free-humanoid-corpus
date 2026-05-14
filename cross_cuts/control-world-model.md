@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-world-model`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2024-02
+Earliest disclosure: 2023-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## DreamerV3 (Danijar Hafner et al. 2023; world-model RL) (2023-01)
+
+- **id**: `dreamer-v3-hafner-2023`
+- **corpus**: academic
+- **creator**: Google DeepMind + University of Toronto; Danijar Hafner + Jurgis Pasukonis + Jimmy Ba + Timothy Lillicrap
+- **disclosure**: Hafner, D., Pasukonis, J., Ba, J., Lillicrap, T. 'Mastering Diverse Domains through World Models'. arXiv:2301.04104, January 2023. Google DeepMind + University of Toronto. Predecessors: PlaNet (2018), Dreamer (2019), DreamerV2 (2020).
+- **ip status**: public-domain
+- **prior art notes**: DreamerV3 (Danijar Hafner et al. Google DeepMind + Toronto, arXiv 2301.04104) is the most-effective general-purpose world-model RL algorithm. 2-year-deep public-domain prior art (5-year for the broader Dreamer lineage).
 
 ## Genie (Google DeepMind 2024; foundation world model from video) (2024-02)
 

@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `ai-foundation-model`  
-**Entries:** 75 (75 commons-grade, 0 draft)  
-**Earliest disclosure:** 1979-05  
+**Entries:** 89 (89 commons-grade, 0 draft)  
+**Earliest disclosure:** 1943-12  
 **Most recent disclosure:** 2024-05
 
 ---
@@ -39,6 +39,121 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1943-12 — McCulloch-Pitts Neuron (1943; the first artificial neuron model)
+
+- **id:** `mcculloch-pitts-neuron-1943`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Univ. of Illinois at Chicago + Univ. of Chicago; Warren McCulloch (neuropsychiatrist) + Walter Pitts (mathematical prodigy)
+- **disclosure citation:** McCulloch, W.S., Pitts, W. 'A Logical Calculus of the Ideas Immanent in Nervous Activity'. Bulletin of Mathematical Biophysics 5(4):115-133, December 1943. University of Illinois at Chicago + University of Chicago.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> The McCulloch-Pitts Neuron (Warren McCulloch + Walter Pitts, Bulletin of Mathematical Biophysics 1943) is the first artificial-neuron model — the foundational unit of every neural network. 82-year-deep public-domain prior art.
+
+**Sources:**
+
+1. McCulloch, W.S., Pitts, W. Bulletin of Mathematical Biophysics 5(4):115-133, 1943.
+
+---
+
+### 1948-07 — Shannon Information Theory (Claude Shannon 1948)
+
+- **id:** `shannon-information-theory-1948`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bell Telephone Laboratories; Claude Elwood Shannon
+- **disclosure citation:** Shannon, C.E. 'A Mathematical Theory of Communication'. Bell System Technical Journal 27(3):379-423 + 27(4):623-666, July + October 1948. Bell Telephone Laboratories.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Shannon Information Theory (Claude Shannon, Bell Labs, Bell System Technical Journal 1948) is the founding paper of information theory + the mathematical bedrock of digital communications + data compression + ML. 77-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Shannon, C.E. Bell System Technical Journal 27(3-4), 1948.
+
+---
+
+### 1948-09 — Cellular Automata + Conway's Game of Life (von Neumann 1948 / Conway 1970)
+
+- **id:** `cellular-automata-von-neumann-1948`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Institute for Advanced Study (Princeton); John von Neumann (1948-1957) + Stanislaw Ulam; subsequent: John Conway (Cambridge, 1970)
+- **disclosure citation:** von Neumann, J. 'Theory of Self-Reproducing Automata' (lectures 1948-1949; published posthumously, edited by Arthur Burks, 1966). Institute for Advanced Study, Princeton. Conway, J.H. 'Game of Life' (Gardner, M. 'Mathematical Games', Scientific American October 1970).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Cellular Automata + Conway's Game of Life (von Neumann IAS Princeton 1948-1957; Conway Cambridge 1970) are the foundational cellular automata + the mathematical theory of self-reproduction. 77-year-deep public-domain prior art (von Neumann work). Theoretical basis of self-replicating robots + swarm robotics.
+
+**Sources:**
+
+1. von Neumann, J. 'Theory of Self-Reproducing Automata' (1966 posthumous).
+2. Gardner, M. Scientific American, October 1970.
+
+---
+
+### 1950-10 — Turing 'Computing Machinery and Intelligence' (1950; the Turing Test)
+
+- **id:** `turing-imitation-game-1950`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** National Physical Laboratory + University of Manchester; Alan Turing
+- **disclosure citation:** Turing, A.M. 'Computing Machinery and Intelligence'. Mind LIX(236):433-460, October 1950. National Physical Laboratory + Manchester. Earlier: 'On Computable Numbers' (1936) — the Turing machine.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Turing 'Computing Machinery and Intelligence' (Alan Turing, NPL + Manchester, Mind 1950) is the founding paper of AI philosophy — the Imitation Game / Turing Test. 75-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Turing, A.M. Mind LIX(236):433-460, October 1950.
+
+---
+
+### 1955-12 — Newell-Simon Logic Theorist (1955-1956; the first AI program)
+
+- **id:** `newell-simon-logic-theorist-1955`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** RAND Corporation + Carnegie Institute of Technology; Allen Newell + J. Cliff Shaw + Herbert A. Simon
+- **disclosure citation:** Newell, A., Shaw, J.C., Simon, H.A. 'The Logic Theory Machine'. IRE Transactions on Information Theory IT-2(3):61-79, September 1956. RAND Corporation + Carnegie Tech (later CMU). Logic Theorist first ran December 1955.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> The Newell-Simon Logic Theorist (Allen Newell + J.C. Shaw + Herbert Simon, RAND + Carnegie Tech 1955-1956) is the first AI program. 70-year-deep public-domain prior art. Presented at the Dartmouth Summer Research Project on AI (corpus dartmouth-summer-1956).
+
+**Sources:**
+
+1. Newell, A. et al. IRE Transactions on Information Theory IT-2(3):61-79, 1956.
+
+---
+
+### 1956-06 — Dartmouth Summer Research Project on Artificial Intelligence (1956)
+
+- **id:** `dartmouth-summer-1956`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Dartmouth College; John McCarthy + Marvin Minsky + Nathaniel Rochester + Claude Shannon (proposers) + Allen Newell + Herbert Simon + Arthur Samuel + Ray Solomonoff + others (attendees)
+- **disclosure citation:** McCarthy, J., Minsky, M., Rochester, N., Shannon, C.E. 'A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence'. Submitted August 31, 1955; convened June-August 1956 at Dartmouth College. Coined the term 'Artificial Intelligence'.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> The Dartmouth Summer Research Project on Artificial Intelligence (McCarthy + Minsky + Rochester + Shannon, Dartmouth College, June-August 1956) is the founding event of AI as a discipline. 69-year-deep public-domain prior art.
+
+**Sources:**
+
+1. McCarthy, J. et al. 'A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence', August 31, 1955.
+
+---
 
 ### 1979-05 — Mother / MU-TH-UR 6000 (Alien; 1979)
 
@@ -94,6 +209,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Lucas, B.D., Kanade, T. IJCAI 1981.
+
+---
+
+### 1982-04 — Hopfield Networks (John Hopfield 1982; 2024 Nobel Prize in Physics)
+
+- **id:** `hopfield-networks-1982`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bell Labs / Princeton / Caltech; John J. Hopfield
+- **disclosure citation:** Hopfield, J.J. 'Neural networks and physical systems with emergent collective computational abilities'. Proceedings of the National Academy of Sciences 79(8):2554-2558, April 1982. Bell Labs / Princeton / Caltech. **2024 Nobel Prize in Physics** to John Hopfield + Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks'.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Hopfield Networks (John Hopfield, Bell Labs / Princeton / Caltech, PNAS 1982; **2024 Nobel Prize in Physics**) are the foundational associative-memory neural network. 43-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Hopfield, J.J. PNAS 79(8):2554-2558, April 1982.
 
 ---
 
@@ -154,6 +288,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1989-01 — FIRST Robotics Competition (Dean Kamen 1989; K-12 robotics education)
+
+- **id:** `first-robotics-competition-kamen-1989`
+- **corpus:** private
+- **ip status:** public-domain
+- **creator:** FIRST (Manchester, NH, USA); Dean Kamen (founder; also DEKA + iBOT corpus + LUKE arm corpus + Segway)
+- **disclosure citation:** Kamen, D. FIRST (For Inspiration and Recognition of Science and Technology) founded 1989 in Manchester, NH. First FIRST Robotics Competition (FRC) held 1992 at Manchester High School. Subsequent: FIRST LEGO League (FLL, 1998), FIRST Tech Challenge (FTC, 2005), FIRST LEGO League Jr. (2004).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> FIRST Robotics Competition (Dean Kamen, Manchester NH, 1989+) is the world's largest K-12 robotics education + competition program. 36-year-deep public-disclosure prior art. Dean Kamen also: DEKA + iBOT (corpus) + LUKE arm (corpus) + Segway.
+
+**Sources:**
+
+1. firstinspires.org (corporate site).
+
+---
+
 ### 1989-11 — LeNet-5 (Yann LeCun 1998; foundational CNN for digit recognition)
 
 - **id:** `lenet-lecun-1998`
@@ -189,6 +342,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. IEEE PAMI 14(2):239-256, 1992.
+
+---
+
+### 1996-08 — RoboCup (1996; foundational robotics competition)
+
+- **id:** `robocup-1996`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Hiroaki Kitano (Sony CSL) + Minoru Asada (Osaka University) + Yasuo Kuniyoshi (Univ. Tokyo) + Itsuki Noda (Electrotechnical Lab) + Eiichi Osawa (Sony CSL)
+- **disclosure citation:** Kitano, H., Asada, M., Kuniyoshi, Y., Noda, I., Osawa, E. 'RoboCup: The Robot World Cup Initiative'. IJCAI-95 Workshop on Entertainment and AI/Alife, August 1995; AAAI-96 paper. First RoboCup competition: August 1997 (Nagoya, Japan).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> RoboCup (Kitano + Asada + Kuniyoshi + Noda + Osawa, 1996/1997+) is the foundational robotics competition. 29-year-deep public-domain prior art. Proving ground for countless robotics researchers + the broader 'audacious 50-year goal' research-agenda framing.
+
+**Sources:**
+
+1. Kitano, H. et al. 'RoboCup: The Robot World Cup Initiative'. AAAI-96.
 
 ---
 
@@ -745,6 +917,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-12 — NVIDIA Isaac Platform (2017+; the GPU-robotics ecosystem)
+
+- **id:** `nvidia-isaac-platform-2017`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** NVIDIA Corporation (Santa Clara, CA, USA); Jensen Huang + Deepu Talla (Robotics + Edge AI VP)
+- **disclosure citation:** NVIDIA Corporation. Isaac SDK first announced December 2017 (CES 2018). Isaac Sim (PhysX-based + Omniverse-integrated, ~2019). Isaac Gym (massively-parallel GPU RL, 2021). Isaac Lab (open-source RL framework, 2023, successor to Isaac Gym). Isaac ROS (ROS 2 GPU packages). Jetson edge-AI compute modules (TX1 2015 → TX2 → Xavier → Orin → Thor).
+- **disclosed subsystems:** `rl-infrastructure`, `ai-foundation-model`
+
+**Prior art notes:**
+
+> NVIDIA Isaac Platform (NVIDIA Corporation, 2015 Jetson / 2017 Isaac SDK / 2019 Isaac Sim / 2021 Isaac Gym / 2023 Isaac Lab / 2025 GR00T + Cosmos) is the GPU-robotics ecosystem — the dominant robotics-infrastructure stack. 10-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. NVIDIA Isaac + Jetson product documentation.
+
+---
+
 ### 2018-06 — GPT lineage (GPT-1 / GPT-2 / GPT-3 / GPT-4 / GPT-5; OpenAI)
 
 - **id:** `gpt-lineage-openai-2018-2024`
@@ -781,6 +972,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. arxiv.org/abs/1912.06680
+
+---
+
+### 2018-06 — Neural ODE (Chen et al. 2018; continuous-depth neural networks)
+
+- **id:** `neural-ode-chen-2018`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** University of Toronto; Ricky T.Q. Chen + Yulia Rubanova + Jesse Bettencourt + David Duvenaud
+- **disclosure citation:** Chen, R.T.Q., Rubanova, Y., Bettencourt, J., Duvenaud, D. 'Neural Ordinary Differential Equations'. NeurIPS 2018 best paper, arXiv:1806.07366. University of Toronto.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Neural ODE (Chen + Rubanova + Bettencourt + Duvenaud, University of Toronto, NeurIPS 2018 best paper) is the foundational continuous-depth neural-network architecture. 7-year-deep public-domain prior art.
+
+**Sources:**
+
+1. arxiv.org/abs/1806.07366
 
 ---
 
@@ -936,6 +1146,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-06 — Liquid Neural Networks (Hasani MIT CSAIL 2020; C. elegans-inspired)
+
+- **id:** `liquid-neural-networks-hasani-mit-2020`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** MIT CSAIL + TU Vienna; Ramin Hasani + Mathias Lechner + Alexander Amini + Daniela Rus + Radu Grosu
+- **disclosure citation:** Hasani, R., Lechner, M., Amini, A., Rus, D., Grosu, R. 'Liquid Time-constant Networks'. arXiv:2006.04439, June 2020; AAAI 2021. MIT CSAIL + TU Vienna. Hasani et al. 'Closed-form Continuous-time Neural Networks'. Nature Machine Intelligence November 2022.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Liquid Neural Networks (Ramin Hasani + Mathias Lechner + Alexander Amini + Daniela Rus + Radu Grosu, MIT CSAIL + TU Vienna, AAAI 2021 + Nature MI 2022) are the C. elegans-inspired continuous-time neural networks. 5-year-deep public-domain prior art. Liquid AI commercial spinout 2023. Biology-inspired counter-thesis to scale-everything approaches.
+
+**Sources:**
+
+1. arxiv.org/abs/2006.04439
+
+---
+
 ### 2020-10 — Vision Transformer (ViT; Dosovitskiy et al. Google 2020)
 
 - **id:** `vision-transformer-vit-dosovitskiy-2020`
@@ -1009,6 +1238,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. arxiv.org/abs/2106.09685
+
+---
+
+### 2021-06 — AI Coding Assistant Lineage (Copilot / Cursor / Claude Code; 2021-2026)
+
+- **id:** `ai-coding-assistant-lineage-2021`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** OpenAI (Codex 2021) + GitHub (Copilot) + Anthropic (Claude Code 2024) + Anysphere/Cursor (2022) + Cognition (Devin 2024) + Tabnine + Sourcegraph Cody + others
+- **disclosure citation:** OpenAI Codex (June 2021). GitHub Copilot (technical preview June 2021; GA June 2022; built on Codex/GPT). Cursor (founded 2022 by Anysphere team — Michael Truell + Sualeh Asif + Aman Sanger + Arvid Lunnemark — MIT students; commercial product 2023). Claude Code (Anthropic, October 2024 limited research preview; GA February 2025). Subsequent: Devin (Cognition, 2024), GitHub Copilot Workspace, OpenAI o1-Pro coding.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> The AI Coding Assistant Lineage (OpenAI Codex 2021 → GitHub Copilot 2021/2022 → Cursor 2022/2023 → Devin 2024 → Claude Code 2024/2025) is the first commercially-successful agentic-AI deployment at scale. 5-year-deep public-disclosure prior art. Directly relevant to the robotics-FM agentic-control evolution — Claude Code's tool-use + long-horizon planning + error-recovery loop is the same architectural pattern that VLA-based humanoid agents need.
+
+**Sources:**
+
+1. openai.com/codex (2021); github.com/features/copilot; cursor.com; anthropic.com/claude-code.
 
 ---
 
@@ -1219,6 +1467,25 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. therobotreport.com/fieldai-raises-405m-scales-physics-first-foundation-models-robots/
+
+---
+
+### 2023-01 — DreamerV3 (Danijar Hafner et al. 2023; world-model RL)
+
+- **id:** `dreamer-v3-hafner-2023`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Google DeepMind + University of Toronto; Danijar Hafner + Jurgis Pasukonis + Jimmy Ba + Timothy Lillicrap
+- **disclosure citation:** Hafner, D., Pasukonis, J., Ba, J., Lillicrap, T. 'Mastering Diverse Domains through World Models'. arXiv:2301.04104, January 2023. Google DeepMind + University of Toronto. Predecessors: PlaNet (2018), Dreamer (2019), DreamerV2 (2020).
+- **disclosed subsystems:** `ai-foundation-model`, `control-world-model`
+
+**Prior art notes:**
+
+> DreamerV3 (Danijar Hafner et al. Google DeepMind + Toronto, arXiv 2301.04104) is the most-effective general-purpose world-model RL algorithm. 2-year-deep public-domain prior art (5-year for the broader Dreamer lineage).
+
+**Sources:**
+
+1. arxiv.org/abs/2301.04104
 
 ---
 
@@ -1501,4 +1768,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*

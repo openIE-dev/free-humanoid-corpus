@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `rl-infrastructure`
 
-**7 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2004-01
 
@@ -59,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: OpenAI. Baselines repository launched May 2017. Reference implementations of DQN + PPO + TRPO + DDPG + A2C + ACKTR + GAIL by experts. Subsequent: Stable Baselines (Antonin Raffin 2018+) and Stable Baselines3 (2020+).
 - **ip status**: open-permissive (MIT)
 - **prior art notes**: OpenAI Baselines + Stable Baselines3 (OpenAI 2017+; Raffin 2018+) are the canonical RL reference implementations. 8-year-deep open-permissive prior art.
+
+## NVIDIA Isaac Platform (2017+; the GPU-robotics ecosystem) (2017-12)
+
+- **id**: `nvidia-isaac-platform-2017`
+- **corpus**: private
+- **creator**: NVIDIA Corporation (Santa Clara, CA, USA); Jensen Huang + Deepu Talla (Robotics + Edge AI VP)
+- **disclosure**: NVIDIA Corporation. Isaac SDK first announced December 2017 (CES 2018). Isaac Sim (PhysX-based + Omniverse-integrated, ~2019). Isaac Gym (massively-parallel GPU RL, 2021). Isaac Lab (open-source RL framework, 2023, successor to Isaac Gym). Isaac ROS (ROS 2 GPU packages). Jetson edge-AI compute modules (TX1 2015 → TX2 → Xavier → Orin → Thor).
+- **ip status**: trade-secret
+- **prior art notes**: NVIDIA Isaac Platform (NVIDIA Corporation, 2015 Jetson / 2017 Isaac SDK / 2019 Isaac Sim / 2021 Isaac Gym / 2023 Isaac Lab / 2025 GR00T + Cosmos) is the GPU-robotics ecosystem — the dominant robotics-infrastructure stack. 10-year-deep public-disclosure prior art.
 
 ## Waabi (Urtasun generative-AI neural simulator AV) (2021-06)
 

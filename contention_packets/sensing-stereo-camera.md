@@ -1,7 +1,7 @@
 ---
 title: "sensing-stereo-camera"
 parent: "Invalidity Contentions"
-nav_order: 271
+nav_order: 272
 layout: default
 ---
 
@@ -1739,4 +1739,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `c61fc91`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
