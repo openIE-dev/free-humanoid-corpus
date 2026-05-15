@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-motion-planning`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1998-10
+Earliest disclosure: 1966-04
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Shakey the Robot (SRI International 1966-1972; the first mobile reasoning robot) (1966-04)
+
+- **id**: `shakey-sri-1966`
+- **corpus**: academic
+- **creator**: SRI International (Menlo Park, CA, USA); Nils Nilsson + Charles Rosen + Bert Raphael + Richard Fikes + Peter Hart + team
+- **disclosure**: Nilsson, N.J. et al. Shakey the Robot project at SRI International (Menlo Park, CA, USA), 1966-1972. DARPA-funded. Key papers: Fikes, R.E., Nilsson, N.J. 'STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving'. Artificial Intelligence 2(3-4):189-208, 1971. Hart, P.E., Nilsson, N.J., Raphael, B. 'A Formal Basis for the Heuristic Determination of Minimum Cost Paths'. IEEE Transactions on Systems Science and Cybernetics 4(2):100-107, 1968 (the A* algorithm).
+- **ip status**: public-domain
+- **prior art notes**: Shakey the Robot (SRI International 1966-1972; Nilsson + Rosen + Raphael + Fikes + Hart + team) is the first mobile reasoning robot — and the origin of A* + STRIPS. 59-year-deep public-domain prior art. Direct ancestor of every subsequent mobile robot + autonomous vehicle.
 
 ## Rapidly-exploring Random Tree (RRT) (1998-10)
 

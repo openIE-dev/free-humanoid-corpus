@@ -1,13 +1,13 @@
 ---
 title: "mechanism-continuum-manipulator"
 parent: "Invalidity Contentions"
-nav_order: 201
+nav_order: 202
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-continuum-manipulator`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `mechanism-continuum-manipulator`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2005-04  
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

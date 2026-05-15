@@ -1,13 +1,13 @@
 ---
 title: "control-tree-search"
 parent: "Invalidity Contentions"
-nav_order: 148
+nav_order: 149
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-tree-search`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-tree-search`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2016-01  
@@ -146,4 +146,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

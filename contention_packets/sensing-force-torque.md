@@ -1,13 +1,13 @@
 ---
 title: "sensing-force-torque"
 parent: "Invalidity Contentions"
-nav_order: 262
+nav_order: 264
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-force-torque`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `sensing-force-torque`  
 **Entries:** 45 (39 commons-grade, 6 draft)  
 **Earliest disclosure:** 1969  
@@ -973,4 +973,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `ai-foundation-model`
 
-**89 corpus entries disclose this subsystem.**
+**96 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1943-12
 
@@ -69,6 +69,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The Dartmouth Summer Research Project on Artificial Intelligence (McCarthy + Minsky + Rochester + Shannon, Dartmouth College, June-August 1956) is the founding event of AI as a discipline. 69-year-deep public-domain prior art.
 
+## LISP (John McCarthy 1958; the foundational AI programming language) (1958-04)
+
+- **id**: `mccarthy-lisp-1958`
+- **corpus**: academic
+- **creator**: MIT; John McCarthy
+- **disclosure**: McCarthy, J. 'Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I'. Communications of the ACM 3(4):184-195, April 1960. (LISP first implemented April 1958 at MIT.) Dialects: MacLisp (1966), Interlisp (1967), Scheme (1975), Common Lisp (1984), Clojure (2007).
+- **ip status**: public-domain
+- **prior art notes**: LISP (John McCarthy MIT 1958) is the second-oldest high-level programming language still in use — and the foundational AI programming language. 67-year-deep public-domain prior art.
+
+## Minsky & Papert 'Perceptrons' (1969; the book that triggered the first AI winter) (1969-01)
+
+- **id**: `minsky-papert-perceptrons-1969`
+- **corpus**: academic
+- **creator**: MIT Artificial Intelligence Laboratory; Marvin Minsky + Seymour Papert
+- **disclosure**: Minsky, M., Papert, S. 'Perceptrons: An Introduction to Computational Geometry'. MIT Press, 1969. Expanded edition 1988. MIT.
+- **ip status**: public-domain
+- **prior art notes**: Minsky & Papert's 'Perceptrons' (MIT Press 1969) is the book that triggered the first AI winter — and a cautionary tale about premature dismissal of research directions. 56-year-deep public-domain prior art.
+
+## Minsky 'The Society of Mind' + Frames (1974-1986; Minsky's cognitive architecture) (1974-06)
+
+- **id**: `minsky-society-of-mind-1986`
+- **corpus**: academic
+- **creator**: MIT Artificial Intelligence Laboratory; Marvin Minsky (co-founder MIT AI Lab; 1969 Turing Award)
+- **disclosure**: Minsky, M. 'A Framework for Representing Knowledge'. MIT AI Lab Memo 306, June 1974. Minsky, M. 'The Society of Mind'. Simon & Schuster, 1986. MIT AI Laboratory.
+- **ip status**: public-domain
+- **prior art notes**: Minsky's 'Frames' (1974) + 'The Society of Mind' (1986) are Marvin Minsky's signature cognitive-architecture contributions. 39-51-year-deep public-domain prior art. Influenced behavior-based robotics + modern MoE.
+
 ## Mother / MU-TH-UR 6000 (Alien; 1979) (1979-05)
 
 - **id**: `mother-alien-1979`
@@ -105,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Hopfield Networks (John Hopfield, Bell Labs / Princeton / Caltech, PNAS 1982; **2024 Nobel Prize in Physics**) are the foundational associative-memory neural network. 43-year-deep public-domain prior art.
 
+## Cyc / Doug Lenat (1984-2023; the 40-year symbolic AI cautionary tale) (1984-09)
+
+- **id**: `lenat-cyc-1984`
+- **corpus**: private
+- **creator**: MCC + Cycorp (Austin, TX, USA); Douglas B. Lenat
+- **disclosure**: Lenat, D.B. Cyc project launched September 1984 at MCC (Microelectronics and Computer Technology Corporation, Austin TX). Spun out as Cycorp 1994. Lenat died August 2023 at 72. The project continued (and broadly failed to commercially succeed) for ~40 years.
+- **ip status**: trade-secret
+- **prior art notes**: Cyc (Douglas Lenat, MCC + Cycorp, Austin TX 1984-2023) is the 40-year symbolic-AI moonshot — and the cautionary tale of manual knowledge engineering. 41-year-deep public-disclosure prior art.
+
 ## Skynet (The Terminator; 1984) (1984-10)
 
 - **id**: `skynet-terminator-1984`
@@ -122,6 +158,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Canny, J. 'A Computational Approach to Edge Detection'. IEEE Transactions on Pattern Analysis and Machine Intelligence 8(6):679-698, November 1986. MIT Artificial Intelligence Laboratory.
 - **ip status**: public-domain
 - **prior art notes**: Canny Edge Detector (Canny MIT AI Lab IEEE PAMI 1986) is the foundational optimal edge-detection algorithm. 39-year-deep public-domain prior art.
+
+## Judea Pearl Bayesian Networks + Causality (1988-2000; Turing Award 2011) (1988-01)
+
+- **id**: `pearl-bayesian-causality-1988`
+- **corpus**: academic
+- **creator**: UCLA Cognitive Systems Laboratory; Judea Pearl
+- **disclosure**: Pearl, J. 'Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference'. Morgan Kaufmann, 1988. Pearl, J. 'Causality: Models, Reasoning, and Inference'. Cambridge University Press, 2000 (2nd ed. 2009). UCLA. ACM A.M. Turing Award 2011.
+- **ip status**: public-domain
+- **prior art notes**: Judea Pearl's Bayesian networks (1988) + Causal Inference framework (2000+) are two of the most consequential AI contributions; Turing Award 2011. 37-year-deep public-domain prior art.
 
 ## Harris Corner Detector (Harris & Stephens 1988) (1988-09)
 
@@ -159,6 +204,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: ICP (Besl & McKay GM Research IEEE PAMI 1992) is the foundational 3D point-cloud registration algorithm. 33-year-deep public-domain prior art.
 
+## Russell & Norvig 'Artificial Intelligence: A Modern Approach' (AIMA; 1995-2025) (1995-01)
+
+- **id**: `russell-norvig-aima-1995`
+- **corpus**: academic
+- **creator**: UC Berkeley + Google / NASA Ames; Stuart Russell + Peter Norvig
+- **disclosure**: Russell, S.J., Norvig, P. 'Artificial Intelligence: A Modern Approach'. Prentice Hall, 1st edition 1995; 2nd ed. 2003; 3rd ed. 2010; 4th ed. 2020. UC Berkeley + Google.
+- **ip status**: trade-secret (publisher copyright; widely-used academic text)
+- **prior art notes**: Russell & Norvig 'Artificial Intelligence: A Modern Approach' (AIMA; 1st ed. 1995 - 4th ed. 2020) is the standard AI textbook — taught a generation of AI researchers. 30-year-deep prior art (publisher copyright; widely-used academic text).
+
 ## RoboCup (1996; foundational robotics competition) (1996-08)
 
 - **id**: `robocup-1996`
@@ -194,6 +248,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Triggs, B., McLauchlan, P.F., Hartley, R.I., Fitzgibbon, A.W. 'Bundle Adjustment — A Modern Synthesis'. In 'Vision Algorithms: Theory and Practice' (ICCV '99 workshop), Springer LNCS 1883, 2000. INRIA Rhône-Alpes + others. (The underlying technique dates to photogrammetry in the 1950s-1960s; this paper is the definitive computer-vision synthesis.)
 - **ip status**: public-domain
 - **prior art notes**: Bundle Adjustment (Triggs et al. 'A Modern Synthesis', ICCV '99 workshop; technique from 1950s-60s photogrammetry) is the foundational nonlinear-least-squares optimization at the heart of all geometric vision. 26-year-deep public-domain prior art (70+-year for the underlying technique). Foundational to COLMAP (corpus) + ORB-SLAM back-end (corpus).
+
+## AI Safety / Alignment Movement (Yudkowsky 2000s + Bostrom 2014 + Russell 2019) (2000-01)
+
+- **id**: `yudkowsky-bostrom-russell-ai-safety-2008`
+- **corpus**: academic
+- **creator**: Eliezer Yudkowsky (MIRI / Singularity Institute 2000+); Nick Bostrom (Oxford FHI); Stuart Russell (Berkeley CHAI); broader rationalist + EA + AI-safety community
+- **disclosure**: Yudkowsky, E. 'Creating Friendly AI' (Singularity Institute, 2001). MIRI (Machine Intelligence Research Institute, formerly SIAI) founded 2000 by Yudkowsky. Bostrom, N. 'Superintelligence: Paths, Dangers, Strategies'. Oxford University Press, 2014 (Oxford Future of Humanity Institute). Russell, S.J. 'Human Compatible: Artificial Intelligence and the Problem of Control'. Viking, 2019. CFAR + rationalist community ~2009+.
+- **ip status**: public-domain
+- **prior art notes**: AI Safety / Alignment Movement (Yudkowsky / MIRI 2000+; Bostrom Superintelligence 2014; Russell Human Compatible 2019; broader rationalist + EA + AI-safety community) is the intellectual movement that shaped how the AI field thinks about existential risk. 25-year-deep public-domain prior art.
 
 ## Cortana (Halo; 2001) (2001-11)
 

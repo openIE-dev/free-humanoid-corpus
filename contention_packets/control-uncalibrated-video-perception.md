@@ -1,13 +1,13 @@
 ---
 title: "control-uncalibrated-video-perception"
 parent: "Invalidity Contentions"
-nav_order: 149
+nav_order: 150
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-uncalibrated-video-perception`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-uncalibrated-video-perception`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2023-12  
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

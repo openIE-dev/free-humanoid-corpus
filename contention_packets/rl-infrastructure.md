@@ -1,16 +1,16 @@
 ---
 title: "rl-infrastructure"
 parent: "Invalidity Contentions"
-nav_order: 248
+nav_order: 249
 layout: default
 ---
 
 # Invalidity Contention Packet — `rl-infrastructure`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `rl-infrastructure`  
-**Entries:** 8 (8 commons-grade, 0 draft)  
-**Earliest disclosure:** 2004-01  
+**Entries:** 12 (12 commons-grade, 0 draft)  
+**Earliest disclosure:** 1984-01  
 **Most recent disclosure:** 2023-10
 
 ---
@@ -40,6 +40,25 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 1984-01 — Vicon Motion Capture (1984+; foundational motion-capture system)
+
+- **id:** `vicon-motion-capture-1984`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** Oxford Metrics Group plc (Oxford, UK)
+- **disclosure citation:** Oxford Metrics (Oxford, UK). Founded 1984. Vicon motion-capture systems originally for medical gait analysis + biomechanics. Expanded to: film + game animation (1990s-2000s), academic robotics (2000s-present). Vicon T-Series (2008), Vantage (2015), Valkyrie (2022).
+- **disclosed subsystems:** `rl-infrastructure`, `sensing-camera`
+
+**Prior art notes:**
+
+> Vicon Motion Capture (Oxford Metrics 1984+) is the foundational motion-capture system. 41-year-deep public-disclosure prior art. The infrastructure that made aggressive academic-robotics demos possible (ETH Flying Machine Arena corpus + GRASP Lab swarm corpus + etc.).
+
+**Sources:**
+
+1. vicon.com (corporate site).
+
+---
+
 ### 2004-01 — Gazebo (foundational ROS-integrated robotics simulator)
 
 - **id:** `gazebo-koenig-howard-2004`
@@ -57,6 +76,63 @@ cite, copy, or redistribute these contentions.
 
 1. gazebosim.org
 2. Koenig + Howard IROS 2004.
+
+---
+
+### 2006-01 — PyBullet + Bullet Physics Engine (Erwin Coumans 2006-2026)
+
+- **id:** `pybullet-coumans-2015`
+- **corpus:** open
+- **ip status:** open-permissive (Zlib)
+- **creator:** Erwin Coumans (Sony 2003-2008; AMD 2008-2014; Google Brain 2015-2022; NVIDIA 2022+)
+- **disclosure citation:** Coumans, E. Bullet Physics Engine launched 2006 (initial release on Sony PlayStation; open-sourced via Zlib license). PyBullet (Python bindings + RL gym wrapper) ~2015. Erwin Coumans worked at Sony (PS3 SDK), then AMD, then Google Brain (~2015-2022), then NVIDIA (2022+). Bullet powers: many AAA video games (GTA series, Red Dead Redemption, etc.), film VFX (used by ILM, Sony Pictures), and a vast amount of academic robotics simulation.
+- **disclosed subsystems:** `rl-infrastructure`
+
+**Prior art notes:**
+
+> PyBullet + Bullet Physics Engine (Erwin Coumans, 2006+) is the foundational open-source physics engine for robotics simulation. 19-year-deep open-permissive prior art.
+
+**Sources:**
+
+1. bulletphysics.org + github.com/bulletphysics/bullet3
+
+---
+
+### 2007-01 — ROS (Robot Operating System; Quigley + Willow Garage 2007-2026+)
+
+- **id:** `ros-quigley-stanford-2007`
+- **corpus:** open
+- **ip status:** open-permissive (BSD)
+- **creator:** Stanford AI Lab (Eric Berger + Keenan Wyrobek under Andrew Ng) → Willow Garage (Scott Hassan + Steve Cousins) → OSRF / Open Robotics (Brian Gerkey + team)
+- **disclosure citation:** Quigley, M., Conley, K., Gerkey, B., Faust, J., Foote, T., Leibs, J., Wheeler, R., Ng, A.Y. 'ROS: An Open-Source Robot Operating System'. ICRA Workshop on Open Source Software, 2009. ROS originated 2007 at Stanford under Andrew Ng; transferred to Willow Garage 2008; transferred to Open Source Robotics Foundation (OSRF, now Open Robotics) 2012. ROS 2 first release ('Ardent Apalone') December 2017.
+- **disclosed subsystems:** `rl-infrastructure`
+
+**Prior art notes:**
+
+> ROS (Robot Operating System; Stanford 2007 → Willow Garage → Open Robotics) is the foundational open-source robotics middleware. 18-year-deep open-permissive (BSD) prior art.
+
+**Sources:**
+
+1. Quigley, M. et al. ICRA Workshop on Open Source Software, 2009.
+
+---
+
+### 2010-09 — TurtleBot (Willow Garage 2010; foundational education + research mobile robot)
+
+- **id:** `turtlebot-2010`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Willow Garage (Menlo Park, CA, USA); Melonee Wise + Tully Foote
+- **disclosure citation:** Wise, M., Foote, T. TurtleBot (Willow Garage, 2010). Subsequent: TurtleBot 2 (Yujin Kobuki base, 2012), TurtleBot 3 (Robotis Burger + Waffle, 2017), TurtleBot 4 (Clearpath Robotics, 2022). Open Source Robotics Foundation reference platform.
+- **disclosed subsystems:** `manipulator-mobile`, `rl-infrastructure`
+
+**Prior art notes:**
+
+> TurtleBot (Willow Garage 2010 + subsequent generations) is the foundational education + research mobile robot — ROS's reference platform. 15-year-deep open-permissive prior art.
+
+**Sources:**
+
+1. Willow Garage / Open Robotics TurtleBot documentation 2010-2022.
 
 ---
 
@@ -226,4 +302,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

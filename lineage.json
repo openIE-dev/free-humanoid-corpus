@@ -102,6 +102,16 @@
       ]
     },
     {
+      "id": "lagrangian-mechanics-1788",
+      "name": "Lagrangian Mechanics (Joseph-Louis Lagrange 1788; foundation of robot dynamics)",
+      "year": "1788",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "featherstone-rigid-body-dynamics-1987"
+      ]
+    },
+    {
       "id": "maillardet-automaton-1800",
       "name": "Maillardet's Automaton (~1800; drawing-and-writing machine)",
       "year": "1800",
@@ -511,6 +521,7 @@
       "year": "1956",
       "corpus": "academic",
       "ancestors": [
+        "mccarthy-lisp-1958",
         "newell-simon-logic-theorist-1955"
       ],
       "descendants": []
@@ -563,6 +574,16 @@
         "hugin-kongsberg-ffi-1996",
         "kongsberg-remus-100-auv",
         "theseus-ise-canada-1995"
+      ]
+    },
+    {
+      "id": "mccarthy-lisp-1958",
+      "name": "LISP (John McCarthy 1958; the foundational AI programming language)",
+      "year": "1958",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "dartmouth-summer-1956"
       ]
     },
     {
@@ -796,6 +817,18 @@
       "descendants": []
     },
     {
+      "id": "shakey-sri-1966",
+      "name": "Shakey the Robot (SRI International 1966-1972; the first mobile reasoning robot)",
+      "year": "1966",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "cmu-navlab-1984",
+        "darpa-grand-challenge-2004-2005",
+        "stanford-cart-moravec-1971"
+      ]
+    },
+    {
       "id": "surveyor-scoop-arm-1966-1968",
       "name": "Surveyor 3-7 surface scoop arm (first off-world manipulator)",
       "year": "1966",
@@ -928,6 +961,14 @@
       ]
     },
     {
+      "id": "minsky-papert-perceptrons-1969",
+      "name": "Minsky & Papert 'Perceptrons' (1969; the book that triggered the first AI winter)",
+      "year": "1969",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "stanford-arm-scheinman-1969",
       "name": "Stanford Arm (Scheinman 1969)",
       "year": "1969",
@@ -971,6 +1012,20 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "stanford-cart-moravec-1971",
+      "name": "Stanford Cart (Hans Moravec 1971-1979; pioneer autonomous vision)",
+      "year": "1971",
+      "corpus": "academic",
+      "ancestors": [
+        "shakey-sri-1966"
+      ],
+      "descendants": [
+        "cmu-navlab-1984",
+        "darpa-grand-challenge-2004-2005",
+        "harris-corner-detector-1988"
+      ]
     },
     {
       "id": "thx-1138-chrome-cops",
@@ -1029,6 +1084,16 @@
       ]
     },
     {
+      "id": "jsk-university-of-tokyo-1973",
+      "name": "JSK Laboratory University of Tokyo (Inoue + Inaba; 1973+ foundational Japanese robotics lab)",
+      "year": "1973",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "aist-hrp-1-1998"
+      ]
+    },
+    {
       "id": "cincinnati-milacron-t3-1973",
       "name": "Cincinnati Milacron T³ (first US revolute computer-controlled arm)",
       "year": "1973",
@@ -1076,6 +1141,17 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "minsky-society-of-mind-1986",
+      "name": "Minsky 'The Society of Mind' + Frames (1974-1986; Minsky's cognitive architecture)",
+      "year": "1974",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "cog-brooks-mit-1993",
+        "mixture-of-experts-shazeer-2017"
+      ]
     },
     {
       "id": "asimov-bicentennial-man",
@@ -1276,6 +1352,17 @@
       "descendants": []
     },
     {
+      "id": "raibert-mit-leg-lab-1980",
+      "name": "MIT Leg Laboratory (Marc Raibert 1980-1995; foundational dynamic legged robotics)",
+      "year": "1980",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "bigdog-boston-dynamics-raibert-2005",
+        "raibert-hopping-1leg"
+      ]
+    },
+    {
       "id": "saturn-3-hector",
       "name": "Hector (Saturn 3)",
       "year": "1980",
@@ -1433,7 +1520,9 @@
       "name": "Raibert One-Legged Hopper",
       "year": "1983",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "raibert-mit-leg-lab-1980"
+      ],
       "descendants": [
         "atlas-boston-dynamics",
         "bigdog-boston-dynamics-raibert-2005",
@@ -1453,6 +1542,20 @@
       "descendants": []
     },
     {
+      "id": "cmu-navlab-1984",
+      "name": "CMU Navlab (1984+; Whittaker's autonomous land vehicle lineage)",
+      "year": "1984",
+      "corpus": "academic",
+      "ancestors": [
+        "shakey-sri-1966",
+        "stanford-cart-moravec-1971"
+      ],
+      "descendants": [
+        "darpa-grand-challenge-2004-2005",
+        "pomerleau-alvinn"
+      ]
+    },
+    {
       "id": "vicon-mocap-1984",
       "name": "Vicon optical motion capture",
       "year": "1984",
@@ -1465,10 +1568,26 @@
       ]
     },
     {
+      "id": "vicon-motion-capture-1984",
+      "name": "Vicon Motion Capture (1984+; foundational motion-capture system)",
+      "year": "1984",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "gibson-neuromancer-constructs",
       "name": "Neuromancer constructs (Wintermute, Neuromancer, Dixie Flatline)",
       "year": "1984",
       "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "lenat-cyc-1984",
+      "name": "Cyc / Doug Lenat (1984-2023; the 40-year symbolic AI cautionary tale)",
+      "year": "1984",
+      "corpus": "private",
       "ancestors": [],
       "descendants": []
     },
@@ -1596,6 +1715,16 @@
       ]
     },
     {
+      "id": "dickmanns-vamors-vamp-1986",
+      "name": "Dickmanns VaMoRs + VaMP (1986-1995; autonomous Mercedes-Benz on the Autobahn)",
+      "year": "1986",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "darpa-grand-challenge-2004-2005"
+      ]
+    },
+    {
       "id": "iberall-opposition-space-1986",
       "name": "Iberall opposition-space hand-kinematics theory",
       "year": "1986",
@@ -1610,6 +1739,16 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "nrec-cmu-whittaker-1996",
+      "name": "CMU NREC + Field Robotics Center (Red Whittaker 1986-2026+)",
+      "year": "1986",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "darpa-grand-challenge-2004-2005"
+      ]
     },
     {
       "id": "number-5-short-circuit",
@@ -1682,7 +1821,9 @@
       "name": "Featherstone Rigid Body Dynamics Algorithms (1987)",
       "year": "1987",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "lagrangian-mechanics-1788"
+      ],
       "descendants": []
     },
     {
@@ -1768,6 +1909,14 @@
       ]
     },
     {
+      "id": "pearl-bayesian-causality-1988",
+      "name": "Judea Pearl Bayesian Networks + Causality (1988-2000; Turing Award 2011)",
+      "year": "1988",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "patlabor-av-98",
       "name": "AV-98 Ingram",
       "year": "1988",
@@ -1796,7 +1945,9 @@
       "name": "Harris Corner Detector (Harris & Stephens 1988)",
       "year": "1988",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "stanford-cart-moravec-1971"
+      ],
       "descendants": [
         "sift-lowe-1999",
         "superglue-sarlin-2020"
@@ -1820,7 +1971,9 @@
       "name": "ALVINN (Autonomous Land Vehicle in a Neural Network)",
       "year": "1989",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "cmu-navlab-1984"
+      ],
       "descendants": [
         "open-x-embodiment",
         "openai-rt-2"
@@ -2185,6 +2338,7 @@
       "year": "1993",
       "corpus": "academic",
       "ancestors": [
+        "minsky-society-of-mind-1986",
         "pratt-williamson-sea"
       ],
       "descendants": [
@@ -2286,6 +2440,14 @@
       "name": "Oceaneering Magnum / Magnum Plus work-class ROV",
       "year": "1995",
       "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "russell-norvig-aima-1995",
+      "name": "Russell & Norvig 'Artificial Intelligence: A Modern Approach' (AIMA; 1995-2025)",
+      "year": "1995",
+      "corpus": "academic",
       "ancestors": [],
       "descendants": []
     },
@@ -2538,7 +2700,8 @@
       "year": "1998",
       "corpus": "academic",
       "ancestors": [
-        "honda-p3"
+        "honda-p3",
+        "jsk-university-of-tokyo-1973"
       ],
       "descendants": [
         "hrp-2",
@@ -3003,6 +3166,18 @@
       "descendants": []
     },
     {
+      "id": "yudkowsky-bostrom-russell-ai-safety-2008",
+      "name": "AI Safety / Alignment Movement (Yudkowsky 2000s + Bostrom 2014 + Russell 2019)",
+      "year": "2000",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "christiano-rlhf-2017",
+        "claude-anthropic-2021",
+        "instructgpt-ouyang-openai-2022"
+      ]
+    },
+    {
       "id": "dielectric-elastomer-actuators-pelrine-2000",
       "name": "Dielectric Elastomer Actuators (DEA; Pelrine SRI 2000)",
       "year": "2000",
@@ -3251,7 +3426,9 @@
         "cog-brooks-mit-1993",
         "rosie-jetsons-1962"
       ],
-      "descendants": []
+      "descendants": [
+        "turtlebot-2010"
+      ]
     },
     {
       "id": "kuiken-tmr-targeted-muscle-reinnervation-2002",
@@ -3522,7 +3699,13 @@
       "name": "DARPA Grand Challenge (2004-2005; the birth of modern autonomous vehicles)",
       "year": "2004",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "cmu-navlab-1984",
+        "dickmanns-vamors-vamp-1986",
+        "nrec-cmu-whittaker-1996",
+        "shakey-sri-1966",
+        "stanford-cart-moravec-1971"
+      ],
       "descendants": [
         "aurora-innovation-2017",
         "velodyne-hdl-64-lidar-2007",
@@ -3622,7 +3805,8 @@
       "year": "2005",
       "corpus": "academic",
       "ancestors": [
-        "raibert-hopping-1leg"
+        "raibert-hopping-1leg",
+        "raibert-mit-leg-lab-1980"
       ],
       "descendants": [
         "anybotics-anymal-eth-2016",
@@ -3747,6 +3931,14 @@
       "descendants": []
     },
     {
+      "id": "pybullet-coumans-2015",
+      "name": "PyBullet + Bullet Physics Engine (Erwin Coumans 2006-2026)",
+      "year": "2006",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "ergo-proxy-2006",
       "name": "Ergo Proxy (Autoreivs and Proxies)",
       "year": "2006",
@@ -3861,6 +4053,17 @@
       "corpus": "private",
       "ancestors": [],
       "descendants": []
+    },
+    {
+      "id": "ros-quigley-stanford-2007",
+      "name": "ROS (Robot Operating System; Quigley + Willow Garage 2007-2026+)",
+      "year": "2007",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": [
+        "turtlebot-2010",
+        "willow-garage-pr2-2010"
+      ]
     },
     {
       "id": "symbotic-walmart-2007",
@@ -4349,6 +4552,14 @@
       ]
     },
     {
+      "id": "clearpath-husky-jackal-2009",
+      "name": "Clearpath Robotics Husky + Jackal + Warthog (2009+; Canadian field-research mobile robots)",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "imagenet-deng-cvpr-2009",
       "name": "ImageNet (large-scale image database)",
       "year": "2009",
@@ -4550,7 +4761,9 @@
       "name": "Willow Garage PR2 (defining ROS mobile-manipulation platform)",
       "year": "2010",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "ros-quigley-stanford-2007"
+      ],
       "descendants": [
         "savioke-relay-2014"
       ]
@@ -4616,6 +4829,18 @@
       ]
     },
     {
+      "id": "turtlebot-2010",
+      "name": "TurtleBot (Willow Garage 2010; foundational education + research mobile robot)",
+      "year": "2010",
+      "corpus": "open",
+      "ancestors": [
+        "irobot-roomba-2002",
+        "kinect-microsoft-2010",
+        "ros-quigley-stanford-2007"
+      ],
+      "descendants": []
+    },
+    {
       "id": "cornell-jamming-gripper",
       "name": "Cornell Universal Jamming Gripper",
       "year": "2010",
@@ -4634,7 +4859,8 @@
         "ccd-image-sensor-boyle-smith-1969"
       ],
       "descendants": [
-        "intel-realsense-2015"
+        "intel-realsense-2015",
+        "turtlebot-2010"
       ]
     },
     {
@@ -6554,7 +6780,9 @@
       "name": "Mixture-of-Experts (Sparsely-Gated MoE; Shazeer et al. Google 2017)",
       "year": "2017",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "minsky-society-of-mind-1986"
+      ],
       "descendants": [
         "deepseek-v3-r1-2024-2025",
         "gemini-google-deepmind-2023",
@@ -6843,7 +7071,9 @@
       "name": "RLHF (Deep Reinforcement Learning from Human Preferences)",
       "year": "2017",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "yudkowsky-bostrom-russell-ai-safety-2008"
+      ],
       "descendants": [
         "claude-anthropic-2021",
         "instructgpt-ouyang-openai-2022"
@@ -8553,7 +8783,8 @@
       "ancestors": [
         "christiano-rlhf-2017",
         "gpt-lineage-openai-2018-2024",
-        "ppo-schulman-openai-2017"
+        "ppo-schulman-openai-2017",
+        "yudkowsky-bostrom-russell-ai-safety-2008"
       ],
       "descendants": [
         "claude-anthropic-2021"
@@ -8803,7 +9034,8 @@
       "ancestors": [
         "christiano-rlhf-2017",
         "instructgpt-ouyang-openai-2022",
-        "transformer-vaswani-2017"
+        "transformer-vaswani-2017",
+        "yudkowsky-bostrom-russell-ai-safety-2008"
       ],
       "descendants": [
         "ai-coding-assistant-lineage-2021"

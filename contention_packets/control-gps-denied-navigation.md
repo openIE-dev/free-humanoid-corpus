@@ -1,13 +1,13 @@
 ---
 title: "control-gps-denied-navigation"
 parent: "Invalidity Contentions"
-nav_order: 70
+nav_order: 71
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-gps-denied-navigation`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-gps-denied-navigation`  
 **Entries:** 2 (1 commons-grade, 1 draft)  
 **Earliest disclosure:** 2000-01  
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

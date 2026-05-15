@@ -1,13 +1,13 @@
 ---
 title: "control-llm-reasoning"
 parent: "Invalidity Contentions"
-nav_order: 82
+nav_order: 83
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-llm-reasoning`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-llm-reasoning`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2022-01  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

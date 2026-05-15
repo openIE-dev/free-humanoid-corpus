@@ -1,6 +1,6 @@
 # Corpus Index
 
-1047 entries total. Generated from corpus.jsonl.
+1067 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | AgiBot X1 | `agibot-x1-2024` | 2024 | private | trade-secret | ✓ |
 | Agile Robots (DLR spinout; first claimed robotics unicorn) | `agile-robots-chen-2018` | 2018 | private | trade-secret |  |
 | AI Coding Assistant Lineage (Copilot / Cursor / Claude Code; 2021-2026) | `ai-coding-assistant-lineage-2021` | 2021 | private | trade-secret |  |
+| AI Safety / Alignment Movement (Yudkowsky 2000s + Bostrom 2014 + Russell 2019) | `yudkowsky-bostrom-russell-ai-safety-2008` | 2000 | academic | public-domain |  |
 | AIST HRP-1 + HRP-1S (1998-2001; foundational Japanese humanoid platform) | `aist-hrp-1-1998` | 1998 | academic | academic-publication |  |
 | Akira (Tetsuo cyborg-mutation, Akira containment) | `akira-tetsuo-1988` | 1982 | fictional | fictional |  |
 | Al-Jazari's Book of Ingenious Mechanical Devices (1206) | `al-jazari-ingenious-devices-1206` | 1206 | academic | public-domain |  |
@@ -181,10 +182,13 @@
 | Cincinnati Milacron T³ (first US revolute computer-controlled arm) | `cincinnati-milacron-t3-1973` | 1973 | private | public-domain |  |
 | Claude (Anthropic; Constitutional-AI-aligned LLM lineage 2022-2026) | `claude-anthropic-2021` | 2022 | private | trade-secret |  |
 | Clavel Delta Robot (EPFL 1985 patent) | `clavel-delta-epfl-1985` | 1985 | academic | public-domain (EPFL patent expired 2007) |  |
+| Clearpath Robotics Husky + Jackal + Warthog (2009+; Canadian field-research mobile robots) | `clearpath-husky-jackal-2009` | 2009 | private | trade-secret |  |
 | CLIP (Contrastive Language-Image Pre-training; Radford OpenAI 2021) | `clip-radford-openai-2021` | 2021 | academic | open-permissive |  |
 | CLIP (Contrastive Language-Image Pretraining) | `radford-clip-2021` | 2021 | academic | open-permissive |  |
 | CMR Surgical Versius modular soft-tissue surgical robot | `cmr-versius-2019` | 2019 | private | trade-secret |  |
 | CMU HERB (Home Exploring Robotic Butler) | `cmu-herb-srinivasa-2012` | 2012 | academic | public-domain |  |
+| CMU Navlab (1984+; Whittaker's autonomous land vehicle lineage) | `cmu-navlab-1984` | 1984 | academic | academic-publication |  |
+| CMU NREC + Field Robotics Center (Red Whittaker 1986-2026+) | `nrec-cmu-whittaker-1996` | 1986 | academic | academic-publication |  |
 | CMU Personal Robotics Lab Andy / HERB-2 follow-on platform | `cmu-andy-herb2-srinivasa-2014` | 2014 | academic | public-domain |  |
 | Cobot / Collaborative Robotics (Proxie wheeled-arm cobot) | `cobot-collaborative-porter-2022` | 2022 | private | trade-secret |  |
 | Cog (Rodney Brooks MIT 1993; behavior-based humanoid) | `cog-brooks-mit-1993` | 1993 | academic | academic-publication |  |
@@ -217,6 +221,7 @@
 | Cyberware (Cyberpunk 2077) | `cyberpunk-2077-cyborgs` | 2020 | fictional | fictional |  |
 | Cyborg (Vic Stone) | `cyborg-vic-stone-dc` | 1980 | fictional | fictional |  |
 | Cyborg 009 (Joe Shimamura and the 00 Cyborgs) | `cyborg-009` | 1964 | fictional | fictional |  |
+| Cyc / Doug Lenat (1984-2023; the 40-year symbolic AI cautionary tale) | `lenat-cyc-1984` | 1984 | private | trade-secret |  |
 | Cylon Centurion (1978) | `cylon-centurion-1978` | 1978 | fictional | fictional |  |
 | Cylon Hybrids | `bsg-hybrids` | 2007 | fictional | fictional |  |
 | Czech Technical University Prague (CVUT/CTU) robotics | `cvut-prague-czech-robotics` | 2000 | academic | open-permissive | ✓ |
@@ -255,6 +260,7 @@
 | Dex-Net 2.0 (Mahler Goldberg Berkeley) | `dex-net-goldberg-berkeley-2017` | 2017 | academic | open-permissive |  |
 | DexMV (Dexterous Manipulation from Videos) | `dexmv-qin-cvpr-2022` | 2021 | academic | open-permissive |  |
 | DGS-SLAM | `dgs-slam-kong-2024` | 2024 | academic | open-permissive | ✓ |
+| Dickmanns VaMoRs + VaMP (1986-1995; autonomous Mercedes-Benz on the Autobahn) | `dickmanns-vamors-vamp-1986` | 1986 | academic | academic-publication |  |
 | Dielectric Elastomer Actuators (DEA; Pelrine SRI 2000) | `dielectric-elastomer-actuators-pelrine-2000` | 2000 | academic | academic-publication |  |
 | Diffusion Policy | `diffusion-policy` | 2023 | academic | open-permissive |  |
 | Diffusion Transformers (DiT; Peebles & Xie 2022) | `diffusion-transformers-dit-peebles-2022` | 2022 | academic | academic-publication |  |
@@ -492,6 +498,8 @@
 | Jiaolong (China 7000 m HOV) | `jiaolong-china-2010` | 2010 | private | trade-secret |  |
 | Joby Aviation S4 (5-seat tiltrotor eVTOL) | `joby-aviation-s4-2009` | 2015 | private | trade-secret |  |
 | John Deere 8R (first fully-autonomous production tractor) | `john-deere-8r-autonomous-tractor-2022` | 2022 | private | trade-secret |  |
+| JSK Laboratory University of Tokyo (Inoue + Inaba; 1973+ foundational Japanese robotics lab) | `jsk-university-of-tokyo-1973` | 1973 | academic | academic-publication |  |
+| Judea Pearl Bayesian Networks + Causality (1988-2000; Turing Award 2011) | `pearl-bayesian-causality-1988` | 1988 | academic | public-domain |  |
 | K-9 (Doctor Who; 1977) | `k9-doctor-who-1977` | 1977 | fictional | copyright-bbc |  |
 | K-Scale Labs Open Source Humanoid | `k-scale-os` | 2024 | open | open-permissive | ✓ |
 | K9 | `dr-who-k9` | 1977 | fictional | fictional |  |
@@ -526,6 +534,7 @@
 | KUKA LBR iiwa (intelligent industrial work assistant) | `kuka-lbr-iiwa-2013` | 2013 | private | trade-secret |  |
 | KX-series Imperial Security Droids (K-2SO) | `kx-series-k2so-2016` | 2016 | fictional | fictional |  |
 | LAAS-CNRS Toulouse humanoid robotics | `laas-cnrs-toulouse-humanoid-2003` | 2003 | academic | public-domain |  |
+| Lagrangian Mechanics (Joseph-Louis Lagrange 1788; foundation of robot dynamics) | `lagrangian-mechanics-1788` | 1788 | academic | public-domain |  |
 | LeFlexiTac (Columbia RoboPIL tactile-LeRobot) | `leflexitac-columbia-2025` | 2025 | open | open-permissive |  |
 | LEG-SLAM | `leg-slam-2025` | 2025 | academic | open-permissive | ✓ |
 | LEGO Mindstorms (foundational educational robotics kit) | `lego-mindstorms-1998` | 1998 | private | trade-secret |  |
@@ -547,6 +556,7 @@
 | Linkerbot Linker Hand (Beijing) | `linkerbot-linker-hand-beijing-2023` | 2023 | private | trade-secret |  |
 | Liquid Neural Networks (Hasani MIT CSAIL 2020; C. elegans-inspired) | `liquid-neural-networks-hasani-mit-2020` | 2020 | academic | public-domain |  |
 | Liquid Robotics Wave Glider (wave+solar persistent USV) | `liquid-robotics-wave-glider-2007` | 2007 | private | trade-secret |  |
+| LISP (John McCarthy 1958; the foundational AI programming language) | `mccarthy-lisp-1958` | 1958 | academic | public-domain |  |
 | LLaMA (Meta open-weight LLM lineage; 2023-2025) | `llama-meta-2023` | 2023 | open | open-permissive |  |
 | LLaMA 2 | `meta-llama-2-2023` | 2023 | academic | open-permissive |  |
 | LOAM (LIDAR Odometry and Mapping; Zhang & Singh 2014) | `loam-zhang-singh-2014` | 2014 | academic | academic-publication |  |
@@ -600,6 +610,8 @@
 | METU Ankara robotics (Middle East Technical University) | `metu-ankara-turkey-robotics` | 2000 | academic | open-permissive | ✓ |
 | MEV-1 / MEV-2 (first commercial satellite-life-extension servicer) | `mev-1-northrop-orbital-servicing-2019` | 2019 | private | trade-secret |  |
 | Microsoft Kinect | `kinect-microsoft-2010` | 2010 | private | trade-secret |  |
+| Minsky & Papert 'Perceptrons' (1969; the book that triggered the first AI winter) | `minsky-papert-perceptrons-1969` | 1969 | academic | public-domain |  |
+| Minsky 'The Society of Mind' + Frames (1974-1986; Minsky's cognitive architecture) | `minsky-society-of-mind-1986` | 1974 | academic | public-domain |  |
 | MiR (Mobile Industrial Robots; Danish collaborative AMR) | `mir-mobile-industrial-2013` | 2013 | private | trade-secret |  |
 | Mir-1 + Mir-2 deep submergence vehicles | `mir-1-and-mir-2-rauma-repola-1987` | 1987 | private | trade-secret (Cold War origin) |  |
 | Miso Robotics Flippy (first national-QSR kitchen robot) | `miso-robotics-flippy-2017` | 2017 | private | trade-secret |  |
@@ -610,6 +622,7 @@
 | MIT Domo + Meka Robotics (Aaron Edsinger) | `edsinger-meka-mit-domo-2008` | 2007 | academic | public-domain |  |
 | MIT Humanoid | `mit-humanoid-2021` | 2021 | academic | public-domain |  |
 | MIT Kismet (sociable robot) | `mit-kismet-breazeal-1998` | 1998 | academic | public-domain |  |
+| MIT Leg Laboratory (Marc Raibert 1980-1995; foundational dynamic legged robotics) | `raibert-mit-leg-lab-1980` | 1980 | academic | academic-publication |  |
 | MIT Mini Cheetah | `mini-cheetah` | 2019 | academic | open-permissive |  |
 | MIT Numerical Control (NC machine tool; 1952) | `mit-numerical-control-1952` | 1952 | academic | public-domain |  |
 | Mitsubishi Wakamaru | `mitsubishi-wakamaru-2003` | 2003 | private | trade-secret |  |
@@ -741,6 +754,7 @@
 | Pudu BellaBot (cat-faced restaurant delivery robot) | `pudu-bellabot-2019` | 2019 | private | trade-secret |  |
 | PUMA (Programmable Universal Machine for Assembly) | `puma-unimation-1978` | 1978 | private | public-domain |  |
 | PyBullet | `pybullet-coumans-2017` | 2016 | academic | open-permissive |  |
+| PyBullet + Bullet Physics Engine (Erwin Coumans 2006-2026) | `pybullet-coumans-2015` | 2006 | open | open-permissive (Zlib) |  |
 | QYSEA FIFISH V6 (omnidirectional consumer ROV pioneer) | `qysea-fifish-v6-2019` | 2019 | private | trade-secret |  |
 | R. Daneel Olivaw | `asimov-caves-of-steel-daneel` | 1953 | fictional | fictional |  |
 | R2-D2 | `r2-d2-star-wars` | 1977 | fictional | fictional |  |
@@ -802,6 +816,7 @@
 | Rokae Robotics (Chinese collaborative + industrial robots) | `rokae-robotics-2015` | 2015 | private | trade-secret |  |
 | RoMa (Robust Dense Feature Matching) | `roma-edstedt-cvpr-2024` | 2024 | academic | open-permissive |  |
 | ROS (Robot Operating System) | `ros-quigley-2009` | 2009 | academic | open-permissive |  |
+| ROS (Robot Operating System; Quigley + Willow Garage 2007-2026+) | `ros-quigley-stanford-2007` | 2007 | open | open-permissive (BSD) |  |
 | ROS 2 | `ros-2-2017` | 2017 | academic | open-permissive |  |
 | Rosie the Robot (The Jetsons; 1962) | `rosie-jetsons-1962` | 1962 | fictional | copyright-warner-bros |  |
 | Rossum's Universal Robots | `rur-rossums-robots` | 1920 | fictional | public-domain |  |
@@ -810,6 +825,7 @@
 | RT-2 | `openai-rt-2` | 2023 | academic | public-domain |  |
 | RT-X / Open X-Embodiment collaboration paper | `rt-x-collaboration-2023` | 2023 | academic | open-permissive |  |
 | Runtime Assurance (RTA) | `runtime-assurance-rta` | 2010 | academic | public-domain |  |
+| Russell & Norvig 'Artificial Intelligence: A Modern Approach' (AIMA; 1995-2025) | `russell-norvig-aima-1995` | 1995 | academic | trade-secret (publisher copyright; widely-used academic text) |  |
 | RX-78-2 Gundam | `gundam-rx-78-2` | 1979 | fictional | fictional | ✓ |
 | RX-78-2 Gundam (additional Gundam mecha disclosures) | `rx-78-2-gundam-2` | 1979 | fictional | fictional | ✓ |
 | Saab Seaeye Falcon | `saab-seaeye-falcon-rov` | 2002 | private | trade-secret |  |
@@ -848,6 +864,7 @@
 | Sereact PickGPT (first commercial robotics transformer) | `sereact-pickgpt-2021` | 2021 | private | trade-secret |  |
 | Shadow Dexterous Hand | `shadow-hand` | 2003 | private | patented |  |
 | Shadow Dexterous Hand | `shadow-dexterous-hand` | 2002 | academic | open-permissive |  |
+| Shakey the Robot (SRI International 1966-1972; the first mobile reasoning robot) | `shakey-sri-1966` | 1966 | academic | public-domain |  |
 | Shanghai Jiao Tong University (SJTU) robotics | `sjtu-shanghai-china-robotics-cluster` | 2000 | academic | open-permissive | ✓ |
 | Shannon Information Theory (Claude Shannon 1948) | `shannon-information-theory-1948` | 1948 | academic | public-domain |  |
 | Sharon Apple | `macross-plus-sharon-apple` | 1994 | fictional | fictional |  |
@@ -889,6 +906,7 @@
 | Standard Bots (US industrial cobot leader) | `standard-bots-2011` | 2011 | private | trade-secret |  |
 | Stanford Arm (Scheinman 1969) | `stanford-arm-scheinman-1969` | 1969 | academic | public-domain |  |
 | Stanford Autonomous Helicopter (Ng / Abbeel) | `stanford-autonomous-helicopter-ng-2003` | 2003 | academic | academic-publication |  |
+| Stanford Cart (Hans Moravec 1971-1979; pioneer autonomous vision) | `stanford-cart-moravec-1971` | 1971 | academic | public-domain |  |
 | Stanford gecko-adhesive gripper (Cutkosky BDML) | `stanford-gecko-cutkosky-2015` | 2015 | academic | academic-publication |  |
 | Stanford JackRabbot 2 (JR-2) wheeled-arm research robot | `stanford-jr2-2018` | 2018 | academic | public-domain |  |
 | Stanford Pupper / Doggo open-source quadruped | `stanford-pupper-doggo-2019` | 2019 | academic | open-permissive |  |
@@ -961,6 +979,7 @@
 | TU Delft Netherlands robotics | `tu-delft-netherlands-robotics` | 2000 | academic | open-permissive | ✓ |
 | Turing 'Computing Machinery and Intelligence' (1950; the Turing Test) | `turing-imitation-game-1950` | 1950 | academic | public-domain |  |
 | TurtleBot | `turtlebot-willow-garage-2010` | 2010 | academic | open-permissive |  |
+| TurtleBot (Willow Garage 2010; foundational education + research mobile robot) | `turtlebot-2010` | 2010 | open | open-permissive |  |
 | TuSimple (first publicly-traded autonomous-trucking company) | `tusimple-2015` | 2015 | private | trade-secret |  |
 | TWENDY-One Hand (Sugano Waseda) | `twendy-one-sugano-waseda-2007` | 2007 | academic | academic-publication |  |
 | Twiki (Buck Rogers in the 25th Century) | `buck-rogers-twiki` | 1979 | fictional | fictional |  |
@@ -997,6 +1016,7 @@
 | VEX Robotics (educational competition robotics platform) | `vex-robotics-2005` | 2005 | private | trade-secret |  |
 | VGGT (Visual Geometry Grounded Transformer) | `vggt-wang-cvpr-2025` | 2025 | academic | open-permissive |  |
 | Vicarious Surgical | `vicarious-surgical-2014` | 2014 | private | trade-secret |  |
+| Vicon Motion Capture (1984+; foundational motion-capture system) | `vicon-motion-capture-1984` | 1984 | private | trade-secret |  |
 | Vicon optical motion capture | `vicon-mocap-1984` | 1984 | private | trade-secret |  |
 | VideoRay Pro / Mission Specialist (microROV market leader) | `videoray-pro-1999` | 1999 | private | trade-secret |  |
 | VIMA (General Robot Manipulation with Multimodal Prompts) | `vima` | 2022 | academic | open-permissive |  |

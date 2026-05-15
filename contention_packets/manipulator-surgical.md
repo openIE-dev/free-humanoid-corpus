@@ -1,13 +1,13 @@
 ---
 title: "manipulator-surgical"
 parent: "Invalidity Contentions"
-nav_order: 189
+nav_order: 190
 layout: default
 ---
 
 # Invalidity Contention Packet — `manipulator-surgical`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `manipulator-surgical`  
 **Entries:** 8 (8 commons-grade, 0 draft)  
 **Earliest disclosure:** 1968-01  
@@ -222,4 +222,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

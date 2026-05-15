@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-cross-embodiment`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-cross-embodiment`  
 **Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 2023-10  
@@ -199,4 +199,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

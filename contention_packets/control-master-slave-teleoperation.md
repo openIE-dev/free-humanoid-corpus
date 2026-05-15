@@ -1,13 +1,13 @@
 ---
 title: "control-master-slave-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 87
+nav_order: 88
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-master-slave-teleoperation`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-master-slave-teleoperation`  
 **Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 1989-01  
@@ -194,4 +194,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

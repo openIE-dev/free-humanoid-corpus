@@ -1,17 +1,17 @@
 ---
-title: "sensing-magnetic"
+title: "control-dynamics"
 parent: "Invalidity Contentions"
-nav_order: 270
+nav_order: 60
 layout: default
 ---
 
-# Invalidity Contention Packet — `sensing-magnetic`
+# Invalidity Contention Packet — `control-dynamics`
 
 **Generated:** 2026-05-15  
-**Cross-cut tag:** `sensing-magnetic`  
+**Cross-cut tag:** `control-dynamics`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 1879-01  
-**Most recent disclosure:** 1960-01
+**Earliest disclosure:** 1788-01  
+**Most recent disclosure:** 1987-01
 
 ---
 
@@ -19,7 +19,7 @@ layout: default
 
 This document is an invalidity-contention packet — a chronologically-ordered
 list of every disclosed prior art reference in the Free Humanoid Corpus that
-bears on the subsystem `sensing-magnetic`.
+bears on the subsystem `control-dynamics`.
 
 To use it:
 
@@ -40,41 +40,41 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
-### 1879-01 — Hall Effect (Edwin Hall 1879) + Hall sensors
+### 1788-01 — Lagrangian Mechanics (Joseph-Louis Lagrange 1788; foundation of robot dynamics)
 
-- **id:** `hall-effect-sensor-1879`
+- **id:** `lagrangian-mechanics-1788`
 - **corpus:** academic
 - **ip status:** public-domain
-- **creator:** Johns Hopkins University; Edwin Herbert Hall (PhD student)
-- **disclosure citation:** Hall, E.H. 'On a New Action of the Magnet on Electric Currents'. American Journal of Mathematics 2(3):287-292, 1879. Johns Hopkins University (Hall was a PhD student). Practical Hall-effect sensors became feasible with semiconductors in the 1950s-1960s.
-- **disclosed subsystems:** `sensing-magnetic`
+- **creator:** Joseph-Louis Lagrange (Italian-French mathematician); Académie des Sciences
+- **disclosure citation:** Lagrange, J.-L. 'Mécanique Analytique'. Paris, 1788. Reformulated Newtonian mechanics in terms of generalized coordinates + the Lagrangian L = T - V (kinetic minus potential energy) + the principle of least action.
+- **disclosed subsystems:** `control-dynamics`
 
 **Prior art notes:**
 
-> The Hall Effect (Edwin Hall Johns Hopkins 1879) + Hall sensors are the foundational magnetic-field sensing effect. 146-year-deep public-domain prior art. Ubiquitous in every motor + robot joint.
+> Lagrangian Mechanics (Joseph-Louis Lagrange, 'Mécanique Analytique' 1788) is the foundational formulation used in every robot's equations of motion. 237-year-deep public-domain prior art.
 
 **Sources:**
 
-1. Hall, E.H. American Journal of Mathematics 2(3):287-292, 1879.
+1. Lagrange, J.-L. 'Mécanique Analytique'. Paris, 1788.
 
 ---
 
-### 1960-01 — Strapdown IMU + Inertial Navigation (1960s; mechanical → MEMS lineage)
+### 1987-01 — Featherstone Rigid Body Dynamics Algorithms (1987)
 
-- **id:** `imu-strapdown-1960s`
+- **id:** `featherstone-rigid-body-dynamics-1987`
 - **corpus:** academic
 - **ip status:** public-domain
-- **creator:** MIT Instrumentation Laboratory (Charles Stark Draper Laboratory); Draper + collaborators
-- **disclosure citation:** Strapdown inertial navigation theory developed at MIT Instrumentation Laboratory (Charles Stark Draper) + others through the 1950s-1960s. First operational strapdown system: NASA SIRU (Strapdown Inertial Reference Unit), 1971. Subsequent: Boeing 757/767 strapdown INS (1980s); MEMS IMU revolution (corpus mems-imu-foundational-1990s) 1990s+.
-- **disclosed subsystems:** `sensing-magnetic`, `sensing-localization`
+- **creator:** University of Edinburgh / Australian National University; Roy Featherstone
+- **disclosure citation:** Featherstone, R. 'Robot Dynamics Algorithms'. Kluwer Academic, 1987. Extended: 'Rigid Body Dynamics Algorithms'. Springer, 2008. University of Edinburgh / Australian National University. The foundational O(n) articulated-body dynamics algorithm.
+- **disclosed subsystems:** `control-dynamics`
 
 **Prior art notes:**
 
-> Strapdown IMU + Inertial Navigation (MIT Instrumentation Laboratory / Draper Lab 1960s; operational SIRU 1971) is the foundational concept of strapped-down inertial navigation. 60+-year-deep public-domain prior art. Directly underlies MEMS IMU (corpus mems-imu-foundational-1990s); fused with Kalman filter (corpus) + GPS (corpus) for every modern robot's navigation stack.
+> Featherstone Rigid Body Dynamics Algorithms (Edinburgh / ANU 1987, 2008) is the foundational O(n) articulated-body dynamics algorithm. 38-year-deep public-domain prior art.
 
 **Sources:**
 
-1. Charles Stark Draper Laboratory inertial navigation documentation.
+1. Featherstone, R. 'Rigid Body Dynamics Algorithms'. Springer 2008.
 
 ---
 

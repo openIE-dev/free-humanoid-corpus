@@ -1,13 +1,13 @@
 ---
 title: "control-vision-language"
 parent: "Invalidity Contentions"
-nav_order: 152
+nav_order: 153
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-vision-language`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-vision-language`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2022-04  
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

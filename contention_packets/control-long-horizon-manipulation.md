@@ -1,13 +1,13 @@
 ---
 title: "control-long-horizon-manipulation"
 parent: "Invalidity Contentions"
-nav_order: 84
+nav_order: 85
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-long-horizon-manipulation`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-long-horizon-manipulation`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2021-12  
@@ -112,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

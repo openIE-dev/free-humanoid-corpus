@@ -1,13 +1,13 @@
 ---
 title: "mechanism-aerial-thruster"
 parent: "Invalidity Contentions"
-nav_order: 191
+nav_order: 192
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-aerial-thruster`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `mechanism-aerial-thruster`  
 **Entries:** 4 (2 commons-grade, 2 draft)  
 **Earliest disclosure:** 2010-01  
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

@@ -1,13 +1,13 @@
 ---
 title: "mechanism-passive-dynamic-walking"
 parent: "Invalidity Contentions"
-nav_order: 213
+nav_order: 214
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-passive-dynamic-walking`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `mechanism-passive-dynamic-walking`  
 **Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 1990  
@@ -191,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

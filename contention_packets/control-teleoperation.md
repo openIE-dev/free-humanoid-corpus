@@ -1,13 +1,13 @@
 ---
 title: "control-teleoperation"
 parent: "Invalidity Contentions"
-nav_order: 144
+nav_order: 145
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-teleoperation`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-teleoperation`  
 **Entries:** 35 (30 commons-grade, 5 draft)  
 **Earliest disclosure:** 1770-01  
@@ -780,4 +780,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

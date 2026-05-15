@@ -1,13 +1,13 @@
 ---
 title: "control-sequence-model"
 parent: "Invalidity Contentions"
-nav_order: 135
+nav_order: 136
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-sequence-model`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-sequence-model`  
 **Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 1997-11  
@@ -166,4 +166,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

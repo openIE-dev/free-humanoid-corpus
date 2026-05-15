@@ -57,9 +57,9 @@ the working prior art search tool when assessing patent claims in the area.
 | `actuator-wave-power` | 1 | 2007-01 |
 | `actuator-wind-solar` | 1 | 2013-09 |
 | `agriculture-robot` | 9 | 1992-08 |
-| `ai-foundation-model` | 89 | 1943-12 |
+| `ai-foundation-model` | 96 | 1943-12 |
 | `automaton-historical` | 11 | 0070-01 |
-| `autonomous-vehicle` | 12 | 1999-01 |
+| `autonomous-vehicle` | 15 | 1984-01 |
 | `auv` | 11 | 1957-08 |
 | `auv-amphibious` | 1 | 2019-02 |
 | `auv-glider` | 2 | 2001-01 |
@@ -133,9 +133,10 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-domain-randomization` | 1 | 2017-03 |
 | `control-dual-system-architecture` | 2 | 2025-02 |
 | `control-dvl-positioning` | 8 | 1989-04 |
+| `control-dynamic-balance` | 1 | 1980-01 |
 | `control-dynamic-replanning` | 1 | 1995-05 |
 | `control-dynamic-scene-robust` | 6 | 2018-06 |
-| `control-dynamics` | 1 | 1987-01 |
+| `control-dynamics` | 2 | 1788-01 |
 | `control-egocentric-video-pretraining` | 3 | 2021-08 |
 | `control-elder-care` | 1 | 2003-09 |
 | `control-elevator-integration` | 1 | 2014-08 |
@@ -227,7 +228,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `control-monocular-metric-depth` | 3 | 2024-06 |
 | `control-monte-carlo-tree-search` | 1 | 2016-01 |
 | `control-motion-capture-imitation` | 6 | 2018-04 |
-| `control-motion-planning` | 4 | 1998-10 |
+| `control-motion-planning` | 5 | 1966-04 |
 | `control-mpc` | 42 | 1980-11 |
 | `control-multi-agent-rl` | 3 | 2018-06 |
 | `control-multi-agent-simulation` | 1 | 2023-10 |
@@ -388,7 +389,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `food-prep-robot` | 2 | 2017-03 |
 | `hov` | 8 | 1984-12 |
 | `hov-bathyscaphe` | 1 | 1953-08 |
-| `humanoid-bipedal` | 15 | 1993-01 |
+| `humanoid-bipedal` | 17 | 1973-01 |
 | `humanoid-companion-space` | 1 | 2013-08 |
 | `humanoid-fictional` | 14 | 1495-01 |
 | `humanoid-wheeled` | 3 | 1962-09 |
@@ -406,7 +407,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `manipulator-desktop` | 1 | 2017-05 |
 | `manipulator-dual-arm` | 3 | 2010-04 |
 | `manipulator-haptic-boundary` | 1 | 2006-09 |
-| `manipulator-mobile` | 2 | 2010-04 |
+| `manipulator-mobile` | 7 | 1966-04 |
 | `manipulator-modular` | 2 | 2019-09 |
 | `manipulator-parallel` | 2 | 1985-01 |
 | `manipulator-precision` | 1 | 2015-09 |
@@ -531,8 +532,8 @@ the working prior art search tool when assessing patent claims in the area.
 | `power-li-po` | 3 | 2010 |
 | `power-pressure-balanced-li-ion` | 3 | 2003-09 |
 | `power-tethered` | 13 | 1973 |
-| `quadruped-robot` | 8 | 1999-05 |
-| `rl-infrastructure` | 8 | 2004-01 |
+| `quadruped-robot` | 9 | 1980-01 |
+| `rl-infrastructure` | 12 | 1984-01 |
 | `robot-other` | 3 | 2002-10 |
 | `rov` | 6 | 1965-01 |
 | `rover-asteroid` | 1 | 2014-12 |
@@ -549,7 +550,7 @@ the working prior art search tool when assessing patent claims in the area.
 | `sensing-asynchronous-vision` | 2 | 2008-02 |
 | `sensing-body-pose` | 1 | 2019-06 |
 | `sensing-cabin-environment` | 1 | 2020-01 |
-| `sensing-camera` | 1 | 1969-10 |
+| `sensing-camera` | 2 | 1969-10 |
 | `sensing-capacitive-proximity` | 1 | 2016-09 |
 | `sensing-cortical-implant` | 2 | 2002-07 |
 | `sensing-depth-camera` | 2 | 2010-11 |

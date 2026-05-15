@@ -1,13 +1,13 @@
 ---
 title: "mechanism-telescoping-mast"
 parent: "Invalidity Contentions"
-nav_order: 227
+nav_order: 228
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-telescoping-mast`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `mechanism-telescoping-mast`  
 **Entries:** 6 (5 commons-grade, 1 draft)  
 **Earliest disclosure:** 2014-05  
@@ -191,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

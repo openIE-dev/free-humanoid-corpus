@@ -1,13 +1,13 @@
 ---
 title: "control-foundation-model-policy"
 parent: "Invalidity Contentions"
-nav_order: 66
+nav_order: 67
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-foundation-model-policy`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-foundation-model-policy`  
 **Entries:** 20 (15 commons-grade, 5 draft)  
 **Earliest disclosure:** 2021-06  
@@ -497,4 +497,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

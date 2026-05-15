@@ -1,13 +1,13 @@
 ---
 title: "humanoid-wheeled"
 parent: "Invalidity Contentions"
-nav_order: 176
+nav_order: 177
 layout: default
 ---
 
 # Invalidity Contention Packet — `humanoid-wheeled`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `humanoid-wheeled`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 1962-09  
@@ -131,4 +131,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

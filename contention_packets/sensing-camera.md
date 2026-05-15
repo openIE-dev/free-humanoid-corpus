@@ -1,17 +1,17 @@
 ---
-title: "control-rlhf"
+title: "sensing-camera"
 parent: "Invalidity Contentions"
-nav_order: 130
+nav_order: 258
 layout: default
 ---
 
-# Invalidity Contention Packet — `control-rlhf`
+# Invalidity Contention Packet — `sensing-camera`
 
 **Generated:** 2026-05-15  
-**Cross-cut tag:** `control-rlhf`  
+**Cross-cut tag:** `sensing-camera`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2022-01  
-**Most recent disclosure:** 2022-12
+**Earliest disclosure:** 1969-10  
+**Most recent disclosure:** 1984-01
 
 ---
 
@@ -19,7 +19,7 @@ layout: default
 
 This document is an invalidity-contention packet — a chronologically-ordered
 list of every disclosed prior art reference in the Free Humanoid Corpus that
-bears on the subsystem `control-rlhf`.
+bears on the subsystem `sensing-camera`.
 
 To use it:
 
@@ -40,42 +40,41 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
-### 2022-01 — InstructGPT (Ouyang et al. OpenAI 2022; RLHF-aligned LLM)
+### 1969-10 — CCD Image Sensor (Boyle & Smith Bell Labs 1969; Nobel Prize 2009)
 
-- **id:** `instructgpt-ouyang-openai-2022`
+- **id:** `ccd-image-sensor-boyle-smith-1969`
 - **corpus:** academic
 - **ip status:** public-domain
-- **creator:** OpenAI; Long Ouyang + Jeff Wu + Xu Jiang + Diogo Almeida + Carroll Wainwright + Pamela Mishkin + ... + Ryan Lowe + Jan Leike + Paul Christiano lineage
-- **disclosure citation:** Ouyang, L., Wu, J., Jiang, X., et al. 'Training language models to follow instructions with human feedback'. arXiv:2203.02155, March 2022. OpenAI. The technical predecessor of ChatGPT (released November 2022). Builds on Christiano et al. RLHF (corpus christiano-rlhf-2017).
-- **disclosed subsystems:** `ai-foundation-model`, `control-rlhf`
+- **creator:** Bell Laboratories (Murray Hill, NJ, USA); Willard Boyle + George E. Smith
+- **disclosure citation:** Boyle, W.S., Smith, G.E. 'Charge Coupled Semiconductor Devices'. Bell System Technical Journal 49(4):587-593, April 1970. Invented October 1969 at Bell Laboratories. 2009 Nobel Prize in Physics to Boyle + Smith.
+- **disclosed subsystems:** `sensing-camera`
 
 **Prior art notes:**
 
-> InstructGPT (Ouyang et al. OpenAI arXiv 2203.02155) is the RLHF recipe that made LLMs follow instructions — the technical foundation of ChatGPT + every modern chatbot's post-training. 3-year-deep public-domain prior art. Builds on Christiano et al. RLHF (corpus christiano-rlhf-2017); uses PPO (corpus ppo-schulman-openai-2017); applied to GPT-3 (corpus gpt-lineage-openai-2018-2024).
+> The CCD Image Sensor (Boyle & Smith Bell Labs 1969; Nobel Prize 2009) is the foundational electronic image sensor. 56-year-deep public-domain prior art. The lineage of every robot camera.
 
 **Sources:**
 
-1. arxiv.org/abs/2203.02155
+1. Boyle, W.S., Smith, G.E. Bell System Technical Journal 49(4):587-593, 1970.
 
 ---
 
-### 2022-12 — Claude (Anthropic; Constitutional-AI-aligned LLM lineage 2022-2026)
+### 1984-01 — Vicon Motion Capture (1984+; foundational motion-capture system)
 
-- **id:** `claude-anthropic-2021`
+- **id:** `vicon-motion-capture-1984`
 - **corpus:** private
 - **ip status:** trade-secret
-- **creator:** Anthropic PBC (San Francisco, CA, USA); Dario Amodei + Daniela Amodei + ex-OpenAI safety/scaling team
-- **disclosure citation:** Anthropic PBC (San Francisco, CA, USA; founded 2021 by Dario Amodei + Daniela Amodei + ex-OpenAI researchers). Claude assistant launched 2022; Claude 2 (2023); Claude 3 family Opus/Sonnet/Haiku (March 2024); Claude 3.5 (2024); Claude 4 / Opus 4 family (2025-2026). Constitutional AI: Bai et al. arXiv:2212.08073, December 2022. Also: 'Training a Helpful and Harmless Assistant with RLHF' (2022); the RSP (Responsible Scaling Policy) framework; mechanistic interpretability research.
-- **disclosed subsystems:** `ai-foundation-model`, `control-rlhf`
+- **creator:** Oxford Metrics Group plc (Oxford, UK)
+- **disclosure citation:** Oxford Metrics (Oxford, UK). Founded 1984. Vicon motion-capture systems originally for medical gait analysis + biomechanics. Expanded to: film + game animation (1990s-2000s), academic robotics (2000s-present). Vicon T-Series (2008), Vantage (2015), Valkyrie (2022).
+- **disclosed subsystems:** `rl-infrastructure`, `sensing-camera`
 
 **Prior art notes:**
 
-> Claude (Anthropic San Francisco 2021/2022+) is the Constitutional-AI-aligned frontier LLM lineage. 3-year-deep public-disclosure prior art. Constitutional AI (CAI/RLAIF) extends Christiano RLHF (corpus) + InstructGPT (corpus). One of the three closed-frontier-LLM labs.
+> Vicon Motion Capture (Oxford Metrics 1984+) is the foundational motion-capture system. 41-year-deep public-disclosure prior art. The infrastructure that made aggressive academic-robotics demos possible (ETH Flying Machine Arena corpus + GRASP Lab swarm corpus + etc.).
 
 **Sources:**
 
-1. anthropic.com (corporate site).
-2. arxiv.org/abs/2212.08073 (Constitutional AI paper).
+1. vicon.com (corporate site).
 
 ---
 

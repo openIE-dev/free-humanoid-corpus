@@ -1,13 +1,13 @@
 ---
 title: "control-vla-vision-language-action"
 parent: "Invalidity Contentions"
-nav_order: 154
+nav_order: 155
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-vla-vision-language-action`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-vla-vision-language-action`  
 **Entries:** 93 (81 commons-grade, 12 draft)  
 **Earliest disclosure:** 1886  
@@ -1954,4 +1954,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

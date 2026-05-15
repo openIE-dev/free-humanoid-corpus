@@ -6,14 +6,32 @@ layout: default
 
 # Cross-cut: `humanoid-bipedal`
 
-**15 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1993-01
+Earliest disclosure: 1973-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## JSK Laboratory University of Tokyo (Inoue + Inaba; 1973+ foundational Japanese robotics lab) (1973-01)
+
+- **id**: `jsk-university-of-tokyo-1973`
+- **corpus**: academic
+- **creator**: University of Tokyo Department of Mechano-Informatics; Hirochika Inoue (founder, 1973+) + Masayuki Inaba (successor)
+- **disclosure**: University of Tokyo. JSK (Jōhō System Kōgaku — Information and System Engineering) Laboratory founded by Hirochika Inoue 1973. Successor: Masayuki Inaba (Inoue's student, then PI). Key humanoids: H1 (1995), H5 (1999), H6 (2000), H7 (2001), HRP-2 collaboration with AIST (corpus aist-hrp-1-1998), Kojiro tendon-driven humanoid (2007), Kenshiro musculoskeletal humanoid (2012), Kengoro (2016).
+- **ip status**: academic-publication
+- **prior art notes**: JSK Laboratory (Hirochika Inoue 1973+ → Masayuki Inaba, University of Tokyo) is the foundational Japanese academic humanoid-robotics lab. 52-year-deep academic-publication prior art. Key partner of AIST HRP (corpus); musculoskeletal humanoids are direct prior art for muscle-tendon actuator claims.
+
+## MIT Leg Laboratory (Marc Raibert 1980-1995; foundational dynamic legged robotics) (1980-01)
+
+- **id**: `raibert-mit-leg-lab-1980`
+- **corpus**: academic
+- **creator**: MIT Artificial Intelligence Laboratory (1986-1995) + CMU Robotics Institute (1980-1986); Marc Raibert (founder + PI)
+- **disclosure**: Raibert, M.H. CMU Leg Laboratory 1980-1986; relocated to MIT 1986-1995. Key papers: Raibert, M.H. 'Legged Robots That Balance'. MIT Press, 1986. Spun out Boston Dynamics 1992 from MIT (initially as a consulting firm; transitioned to robot building ~2003).
+- **ip status**: academic-publication
+- **prior art notes**: MIT Leg Laboratory (Marc Raibert, CMU 1980-1986 + MIT 1986-1995) is the foundational dynamic-legged-robotics laboratory — the lab that spun out Boston Dynamics in 1992. 45-year-deep academic-publication prior art.
 
 ## Cog (Rodney Brooks MIT 1993; behavior-based humanoid) (1993-01)
 

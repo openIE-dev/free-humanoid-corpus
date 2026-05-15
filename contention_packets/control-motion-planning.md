@@ -1,16 +1,16 @@
 ---
 title: "control-motion-planning"
 parent: "Invalidity Contentions"
-nav_order: 96
+nav_order: 97
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-motion-planning`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-motion-planning`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
-**Earliest disclosure:** 1998-10  
+**Entries:** 5 (5 commons-grade, 0 draft)  
+**Earliest disclosure:** 1966-04  
 **Most recent disclosure:** 2013-01
 
 ---
@@ -39,6 +39,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1966-04 — Shakey the Robot (SRI International 1966-1972; the first mobile reasoning robot)
+
+- **id:** `shakey-sri-1966`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** SRI International (Menlo Park, CA, USA); Nils Nilsson + Charles Rosen + Bert Raphael + Richard Fikes + Peter Hart + team
+- **disclosure citation:** Nilsson, N.J. et al. Shakey the Robot project at SRI International (Menlo Park, CA, USA), 1966-1972. DARPA-funded. Key papers: Fikes, R.E., Nilsson, N.J. 'STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving'. Artificial Intelligence 2(3-4):189-208, 1971. Hart, P.E., Nilsson, N.J., Raphael, B. 'A Formal Basis for the Heuristic Determination of Minimum Cost Paths'. IEEE Transactions on Systems Science and Cybernetics 4(2):100-107, 1968 (the A* algorithm).
+- **disclosed subsystems:** `manipulator-mobile`, `control-motion-planning`
+
+**Prior art notes:**
+
+> Shakey the Robot (SRI International 1966-1972; Nilsson + Rosen + Raphael + Fikes + Hart + team) is the first mobile reasoning robot — and the origin of A* + STRIPS. 59-year-deep public-domain prior art. Direct ancestor of every subsequent mobile robot + autonomous vehicle.
+
+**Sources:**
+
+1. Fikes, R.E., Nilsson, N.J. AI 2(3-4):189-208, 1971.
+2. Hart, P.E. et al. IEEE T-SSC 4(2):100-107, 1968.
+
+---
 
 ### 1998-10 — Rapidly-exploring Random Tree (RRT)
 
@@ -152,4 +172,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

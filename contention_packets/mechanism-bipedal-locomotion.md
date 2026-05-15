@@ -1,13 +1,13 @@
 ---
 title: "mechanism-bipedal-locomotion"
 parent: "Invalidity Contentions"
-nav_order: 196
+nav_order: 197
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-bipedal-locomotion`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `mechanism-bipedal-locomotion`  
 **Entries:** 157 (122 commons-grade, 35 draft)  
 **Earliest disclosure:** -0250  
@@ -3232,4 +3232,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

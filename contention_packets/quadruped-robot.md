@@ -1,16 +1,16 @@
 ---
 title: "quadruped-robot"
 parent: "Invalidity Contentions"
-nav_order: 247
+nav_order: 248
 layout: default
 ---
 
 # Invalidity Contention Packet — `quadruped-robot`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `quadruped-robot`  
-**Entries:** 8 (8 commons-grade, 0 draft)  
-**Earliest disclosure:** 1999-05  
+**Entries:** 9 (9 commons-grade, 0 draft)  
+**Earliest disclosure:** 1980-01  
 **Most recent disclosure:** 2017-08
 
 ---
@@ -39,6 +39,25 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1980-01 — MIT Leg Laboratory (Marc Raibert 1980-1995; foundational dynamic legged robotics)
+
+- **id:** `raibert-mit-leg-lab-1980`
+- **corpus:** academic
+- **ip status:** academic-publication
+- **creator:** MIT Artificial Intelligence Laboratory (1986-1995) + CMU Robotics Institute (1980-1986); Marc Raibert (founder + PI)
+- **disclosure citation:** Raibert, M.H. CMU Leg Laboratory 1980-1986; relocated to MIT 1986-1995. Key papers: Raibert, M.H. 'Legged Robots That Balance'. MIT Press, 1986. Spun out Boston Dynamics 1992 from MIT (initially as a consulting firm; transitioned to robot building ~2003).
+- **disclosed subsystems:** `quadruped-robot`, `humanoid-bipedal`, `control-dynamic-balance`
+
+**Prior art notes:**
+
+> MIT Leg Laboratory (Marc Raibert, CMU 1980-1986 + MIT 1986-1995) is the foundational dynamic-legged-robotics laboratory — the lab that spun out Boston Dynamics in 1992. 45-year-deep academic-publication prior art.
+
+**Sources:**
+
+1. Raibert, M.H. 'Legged Robots That Balance'. MIT Press, 1986.
+
+---
 
 ### 1999-05 — Sony AIBO (first mass-market robot pet)
 
@@ -222,4 +241,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

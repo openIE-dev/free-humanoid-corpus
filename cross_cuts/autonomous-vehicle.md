@@ -6,14 +6,41 @@ layout: default
 
 # Cross-cut: `autonomous-vehicle`
 
-**12 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1999-01
+Earliest disclosure: 1984-01
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## CMU Navlab (1984+; Whittaker's autonomous land vehicle lineage) (1984-01)
+
+- **id**: `cmu-navlab-1984`
+- **corpus**: academic
+- **creator**: CMU Robotics Institute; William 'Red' Whittaker + Charles Thorpe + Dean Pomerleau + Todd Jochem + team
+- **disclosure**: Carnegie Mellon University Robotics Institute. Navlab project launched 1984 (Navlab 1: Chevrolet panel van). Navlab 5 'No Hands Across America' Pittsburgh-to-San-Diego July 1995 (98.2% autonomous over 4,500 km). Pomerleau, D.A. PhD thesis 'ALVINN: An Autonomous Land Vehicle In a Neural Network'. CMU 1989 (corpus pomerleau-alvinn). Subsequent: RALPH (Rapidly Adapting Lateral Position Handler).
+- **ip status**: academic-publication
+- **prior art notes**: CMU Navlab (CMU Robotics Institute, Whittaker + Thorpe + Pomerleau + team, 1984-1990s+) is the foundational autonomous-land-vehicle research lineage — predates DARPA Grand Challenge (corpus) by 20 years. 41-year-deep academic-publication prior art.
+
+## Dickmanns VaMoRs + VaMP (1986-1995; autonomous Mercedes-Benz on the Autobahn) (1986-01)
+
+- **id**: `dickmanns-vamors-vamp-1986`
+- **corpus**: academic
+- **creator**: Universität der Bundeswehr München; Ernst Dieter Dickmanns + team
+- **disclosure**: Dickmanns, E.D. + Universität der Bundeswehr München. VaMoRs (1986+) + VaMP (1993-1995). PROMETHEUS Eureka project (1987-1995). 1994 PROMETHEUS Paris demo: 1,000 km autonomous Mercedes-Benz S-Class on public motorway. 1995: 1,758 km Munich-Copenhagen autonomous trip at up to 175 km/h.
+- **ip status**: academic-publication
+- **prior art notes**: Dickmanns VaMoRs + VaMP (Universität der Bundeswehr München 1986-1995; Eureka PROMETHEUS project) is the autonomous-vehicle pioneer that predates Stanley (corpus darpa-grand-challenge-2004-2005) by 20 years. 39-year-deep academic-publication prior art. The most under-recognized achievement in AV history.
+
+## CMU NREC + Field Robotics Center (Red Whittaker 1986-2026+) (1986-01)
+
+- **id**: `nrec-cmu-whittaker-1996`
+- **corpus**: academic
+- **creator**: CMU Robotics Institute; William 'Red' Whittaker (founder + PI)
+- **disclosure**: Carnegie Mellon University. Field Robotics Center founded 1986 by William 'Red' Whittaker. NREC (National Robotics Engineering Center) founded 1996 as the commercial/applied arm. Key projects: Three Mile Island cleanup robots (1984+), Dante I + II volcano-exploration robots (1992-1994), Nomad Antarctic meteorite-hunting robot (1997-2000), Crusher autonomous off-road vehicle (2006), DARPA Urban Challenge 2007 Tartan Racing 'Boss' (corpus darpa-grand-challenge-2004-2005), DARPA Robotics Challenge entries, Lunar X Prize Astrobotic (now corpus astrobotic-peregrine, Whittaker founded Astrobotic 2007).
+- **ip status**: academic-publication
+- **prior art notes**: CMU NREC + Field Robotics Center (Red Whittaker 1986+) is the patriarch of field robotics — and the lab that built robots for the world's hardest environments. 39-year-deep academic-publication prior art. Spun out Astrobotic (corpus); Tartan Racing won DARPA Urban Challenge (corpus).
 
 ## Mobileye (monocular-camera ADAS pioneer; Intel acquired) (1999-01)
 

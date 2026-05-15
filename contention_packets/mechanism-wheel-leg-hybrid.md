@@ -1,13 +1,13 @@
 ---
 title: "mechanism-wheel-leg-hybrid"
 parent: "Invalidity Contentions"
-nav_order: 238
+nav_order: 239
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-wheel-leg-hybrid`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `mechanism-wheel-leg-hybrid`  
 **Entries:** 12 (8 commons-grade, 4 draft)  
 **Earliest disclosure:** 2002-10-01  
@@ -314,4 +314,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

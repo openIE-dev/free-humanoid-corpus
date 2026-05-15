@@ -1,13 +1,13 @@
 ---
 title: "space-servicer"
 parent: "Invalidity Contentions"
-nav_order: 285
+nav_order: 287
 layout: default
 ---
 
 # Invalidity Contention Packet — `space-servicer`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `space-servicer`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2019-10  
@@ -108,4 +108,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

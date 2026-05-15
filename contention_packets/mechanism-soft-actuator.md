@@ -1,13 +1,13 @@
 ---
 title: "mechanism-soft-actuator"
 parent: "Invalidity Contentions"
-nav_order: 220
+nav_order: 221
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-soft-actuator`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `mechanism-soft-actuator`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2007-04  
@@ -147,4 +147,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

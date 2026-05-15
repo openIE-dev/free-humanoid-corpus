@@ -1,13 +1,13 @@
 ---
 title: "control-self-supervised-vision"
 parent: "Invalidity Contentions"
-nav_order: 132
+nav_order: 133
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-self-supervised-vision`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-self-supervised-vision`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2021-11  
@@ -130,4 +130,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

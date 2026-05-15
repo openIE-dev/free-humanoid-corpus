@@ -1,13 +1,13 @@
 ---
 title: "control-object-detection"
 parent: "Invalidity Contentions"
-nav_order: 110
+nav_order: 111
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-object-detection`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-object-detection`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2015-06  
@@ -109,4 +109,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

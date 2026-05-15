@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `ai-foundation-model`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `ai-foundation-model`  
-**Entries:** 89 (89 commons-grade, 0 draft)  
+**Entries:** 96 (96 commons-grade, 0 draft)  
 **Earliest disclosure:** 1943-12  
 **Most recent disclosure:** 2024-05
 
@@ -155,6 +155,64 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1958-04 — LISP (John McCarthy 1958; the foundational AI programming language)
+
+- **id:** `mccarthy-lisp-1958`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** MIT; John McCarthy
+- **disclosure citation:** McCarthy, J. 'Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I'. Communications of the ACM 3(4):184-195, April 1960. (LISP first implemented April 1958 at MIT.) Dialects: MacLisp (1966), Interlisp (1967), Scheme (1975), Common Lisp (1984), Clojure (2007).
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> LISP (John McCarthy MIT 1958) is the second-oldest high-level programming language still in use — and the foundational AI programming language. 67-year-deep public-domain prior art.
+
+**Sources:**
+
+1. McCarthy, J. Communications of the ACM 3(4):184-195, April 1960.
+
+---
+
+### 1969-01 — Minsky & Papert 'Perceptrons' (1969; the book that triggered the first AI winter)
+
+- **id:** `minsky-papert-perceptrons-1969`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** MIT Artificial Intelligence Laboratory; Marvin Minsky + Seymour Papert
+- **disclosure citation:** Minsky, M., Papert, S. 'Perceptrons: An Introduction to Computational Geometry'. MIT Press, 1969. Expanded edition 1988. MIT.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Minsky & Papert's 'Perceptrons' (MIT Press 1969) is the book that triggered the first AI winter — and a cautionary tale about premature dismissal of research directions. 56-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Minsky, M., Papert, S. 'Perceptrons'. MIT Press, 1969.
+
+---
+
+### 1974-06 — Minsky 'The Society of Mind' + Frames (1974-1986; Minsky's cognitive architecture)
+
+- **id:** `minsky-society-of-mind-1986`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** MIT Artificial Intelligence Laboratory; Marvin Minsky (co-founder MIT AI Lab; 1969 Turing Award)
+- **disclosure citation:** Minsky, M. 'A Framework for Representing Knowledge'. MIT AI Lab Memo 306, June 1974. Minsky, M. 'The Society of Mind'. Simon & Schuster, 1986. MIT AI Laboratory.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Minsky's 'Frames' (1974) + 'The Society of Mind' (1986) are Marvin Minsky's signature cognitive-architecture contributions. 39-51-year-deep public-domain prior art. Influenced behavior-based robotics + modern MoE.
+
+**Sources:**
+
+1. Minsky, M. 'A Framework for Representing Knowledge'. MIT AI Lab Memo 306, 1974.
+2. Minsky, M. 'The Society of Mind'. Simon & Schuster, 1986.
+
+---
+
 ### 1979-05 — Mother / MU-TH-UR 6000 (Alien; 1979)
 
 - **id:** `mother-alien-1979`
@@ -231,6 +289,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1984-09 — Cyc / Doug Lenat (1984-2023; the 40-year symbolic AI cautionary tale)
+
+- **id:** `lenat-cyc-1984`
+- **corpus:** private
+- **ip status:** trade-secret
+- **creator:** MCC + Cycorp (Austin, TX, USA); Douglas B. Lenat
+- **disclosure citation:** Lenat, D.B. Cyc project launched September 1984 at MCC (Microelectronics and Computer Technology Corporation, Austin TX). Spun out as Cycorp 1994. Lenat died August 2023 at 72. The project continued (and broadly failed to commercially succeed) for ~40 years.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Cyc (Douglas Lenat, MCC + Cycorp, Austin TX 1984-2023) is the 40-year symbolic-AI moonshot — and the cautionary tale of manual knowledge engineering. 41-year-deep public-disclosure prior art.
+
+**Sources:**
+
+1. Cycorp project documentation 1984-2023; Lenat obituaries August 2023.
+
+---
+
 ### 1984-10 — Skynet (The Terminator; 1984)
 
 - **id:** `skynet-terminator-1984`
@@ -266,6 +343,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. IEEE PAMI 8(6):679-698, 1986.
+
+---
+
+### 1988-01 — Judea Pearl Bayesian Networks + Causality (1988-2000; Turing Award 2011)
+
+- **id:** `pearl-bayesian-causality-1988`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** UCLA Cognitive Systems Laboratory; Judea Pearl
+- **disclosure citation:** Pearl, J. 'Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference'. Morgan Kaufmann, 1988. Pearl, J. 'Causality: Models, Reasoning, and Inference'. Cambridge University Press, 2000 (2nd ed. 2009). UCLA. ACM A.M. Turing Award 2011.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Judea Pearl's Bayesian networks (1988) + Causal Inference framework (2000+) are two of the most consequential AI contributions; Turing Award 2011. 37-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Pearl, J. 'Probabilistic Reasoning in Intelligent Systems'. Morgan Kaufmann, 1988.
+2. Pearl, J. 'Causality'. Cambridge UP, 2000.
 
 ---
 
@@ -345,6 +442,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1995-01 — Russell & Norvig 'Artificial Intelligence: A Modern Approach' (AIMA; 1995-2025)
+
+- **id:** `russell-norvig-aima-1995`
+- **corpus:** academic
+- **ip status:** trade-secret (publisher copyright; widely-used academic text)
+- **creator:** UC Berkeley + Google / NASA Ames; Stuart Russell + Peter Norvig
+- **disclosure citation:** Russell, S.J., Norvig, P. 'Artificial Intelligence: A Modern Approach'. Prentice Hall, 1st edition 1995; 2nd ed. 2003; 3rd ed. 2010; 4th ed. 2020. UC Berkeley + Google.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> Russell & Norvig 'Artificial Intelligence: A Modern Approach' (AIMA; 1st ed. 1995 - 4th ed. 2020) is the standard AI textbook — taught a generation of AI researchers. 30-year-deep prior art (publisher copyright; widely-used academic text).
+
+**Sources:**
+
+1. Russell, S.J., Norvig, P. AIMA, Prentice Hall, 1995-2020.
+
+---
+
 ### 1996-08 — RoboCup (1996; foundational robotics competition)
 
 - **id:** `robocup-1996`
@@ -418,6 +534,26 @@ cite, copy, or redistribute these contentions.
 **Sources:**
 
 1. Triggs, B. et al. 'Bundle Adjustment — A Modern Synthesis'. Springer LNCS 1883, 2000.
+
+---
+
+### 2000-01 — AI Safety / Alignment Movement (Yudkowsky 2000s + Bostrom 2014 + Russell 2019)
+
+- **id:** `yudkowsky-bostrom-russell-ai-safety-2008`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Eliezer Yudkowsky (MIRI / Singularity Institute 2000+); Nick Bostrom (Oxford FHI); Stuart Russell (Berkeley CHAI); broader rationalist + EA + AI-safety community
+- **disclosure citation:** Yudkowsky, E. 'Creating Friendly AI' (Singularity Institute, 2001). MIRI (Machine Intelligence Research Institute, formerly SIAI) founded 2000 by Yudkowsky. Bostrom, N. 'Superintelligence: Paths, Dangers, Strategies'. Oxford University Press, 2014 (Oxford Future of Humanity Institute). Russell, S.J. 'Human Compatible: Artificial Intelligence and the Problem of Control'. Viking, 2019. CFAR + rationalist community ~2009+.
+- **disclosed subsystems:** `ai-foundation-model`
+
+**Prior art notes:**
+
+> AI Safety / Alignment Movement (Yudkowsky / MIRI 2000+; Bostrom Superintelligence 2014; Russell Human Compatible 2019; broader rationalist + EA + AI-safety community) is the intellectual movement that shaped how the AI field thinks about existential risk. 25-year-deep public-domain prior art.
+
+**Sources:**
+
+1. Bostrom, N. 'Superintelligence'. Oxford UP, 2014.
+2. Russell, S.J. 'Human Compatible'. Viking, 2019.
 
 ---
 
@@ -1768,4 +1904,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

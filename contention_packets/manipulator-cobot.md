@@ -1,13 +1,13 @@
 ---
 title: "manipulator-cobot"
 parent: "Invalidity Contentions"
-nav_order: 181
+nav_order: 182
 layout: default
 ---
 
 # Invalidity Contention Packet — `manipulator-cobot`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `manipulator-cobot`  
 **Entries:** 16 (16 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-01  
@@ -374,4 +374,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

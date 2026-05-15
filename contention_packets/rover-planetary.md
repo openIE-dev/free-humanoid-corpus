@@ -1,13 +1,13 @@
 ---
 title: "rover-planetary"
 parent: "Invalidity Contentions"
-nav_order: 251
+nav_order: 252
 layout: default
 ---
 
 # Invalidity Contention Packet — `rover-planetary`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `rover-planetary`  
 **Entries:** 9 (9 commons-grade, 0 draft)  
 **Earliest disclosure:** 1970-11  
@@ -241,4 +241,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

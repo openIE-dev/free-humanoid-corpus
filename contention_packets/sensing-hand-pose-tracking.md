@@ -1,13 +1,13 @@
 ---
 title: "sensing-hand-pose-tracking"
 parent: "Invalidity Contentions"
-nav_order: 263
+nav_order: 265
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-hand-pose-tracking`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `sensing-hand-pose-tracking`  
 **Entries:** 4 (2 commons-grade, 2 draft)  
 **Earliest disclosure:** 2019-06  
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

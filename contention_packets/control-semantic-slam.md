@@ -1,13 +1,13 @@
 ---
 title: "control-semantic-slam"
 parent: "Invalidity Contentions"
-nav_order: 133
+nav_order: 134
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-semantic-slam`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-semantic-slam`  
 **Entries:** 4 (1 commons-grade, 3 draft)  
 **Earliest disclosure:** 2024-03  
@@ -151,4 +151,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

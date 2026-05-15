@@ -1,13 +1,13 @@
 ---
 title: "control-foundation-model"
 parent: "Invalidity Contentions"
-nav_order: 64
+nav_order: 65
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-foundation-model`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-foundation-model`  
 **Entries:** 22 (20 commons-grade, 2 draft)  
 **Earliest disclosure:** 1997-11  
@@ -503,4 +503,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

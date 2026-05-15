@@ -1,13 +1,13 @@
 ---
 title: "control-supervised-autonomy"
 parent: "Invalidity Contentions"
-nav_order: 142
+nav_order: 143
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-supervised-autonomy`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-supervised-autonomy`  
 **Entries:** 4 (3 commons-grade, 1 draft)  
 **Earliest disclosure:** 2015-06  
@@ -155,4 +155,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

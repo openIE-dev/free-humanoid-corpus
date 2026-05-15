@@ -1,13 +1,13 @@
 ---
 title: "sensing-tactile-vision-based"
 parent: "Invalidity Contentions"
-nav_order: 277
+nav_order: 279
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-tactile-vision-based`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `sensing-tactile-vision-based`  
 **Entries:** 5 (4 commons-grade, 1 draft)  
 **Earliest disclosure:** 2017-04  
@@ -176,4 +176,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

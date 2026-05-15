@@ -1,13 +1,13 @@
 ---
 title: "control-zmp-balancing"
 parent: "Invalidity Contentions"
-nav_order: 158
+nav_order: 159
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-zmp-balancing`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-zmp-balancing`  
 **Entries:** 25 (24 commons-grade, 1 draft)  
 **Earliest disclosure:** 1969  
@@ -576,4 +576,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

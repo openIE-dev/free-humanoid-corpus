@@ -1,13 +1,13 @@
 ---
 title: "mechanism-reconfigurable"
 parent: "Invalidity Contentions"
-nav_order: 218
+nav_order: 219
 layout: default
 ---
 
 # Invalidity Contention Packet — `mechanism-reconfigurable`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `mechanism-reconfigurable`  
 **Entries:** 6 (2 commons-grade, 4 draft)  
 **Earliest disclosure:** 2018-05  
@@ -191,4 +191,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

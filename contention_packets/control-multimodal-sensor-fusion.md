@@ -1,13 +1,13 @@
 ---
 title: "control-multimodal-sensor-fusion"
 parent: "Invalidity Contentions"
-nav_order: 101
+nav_order: 102
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-multimodal-sensor-fusion`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-multimodal-sensor-fusion`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2009-01  
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*

@@ -1,13 +1,13 @@
 ---
 title: "control-mode-switching"
 parent: "Invalidity Contentions"
-nav_order: 93
+nav_order: 94
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-mode-switching`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-mode-switching`  
 **Entries:** 8 (4 commons-grade, 4 draft)  
 **Earliest disclosure:** 2008-05  
@@ -234,4 +234,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `4abb724`.*
+*Generated from <https://github.com/openIE-dev/free-humanoid-corpus> at corpus revision `cd2f551`.*
